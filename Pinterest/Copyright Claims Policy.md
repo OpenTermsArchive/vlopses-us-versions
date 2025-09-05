@@ -3,20 +3,6 @@ Copyright
 
 =============
 
-Table of Contents
-
-[Submit a copyright infringement report](https://policy.pinterest.com/en/copyright#section-submit-a-copyright-infringement-report)
-
-[What if my content is removed based on a copyright infringement report?](https://policy.pinterest.com/en/copyright#section-what-if-my-content-is-removed-based-on-a-copyright-infringement-report)
-
-[How to file a counter notification](https://policy.pinterest.com/en/copyright#section-how-to-file-a-counter-notification)
-
-[Repeat infringers](https://policy.pinterest.com/en/copyright#section-repeat-infringers)
-
-[Appeal a copyright strike](https://policy.pinterest.com/en/copyright#section-appeal-a-copyright-strike)
-
-[Content Claiming Portal](https://policy.pinterest.com/en/copyright#section-content-claiming-portal)
-
 Pinterest respects the intellectual property rights of others and we expect people on Pinterest to do the same.
 
 In keeping with the Digital Millennium Copyright Act (DMCA), which you can read at the US Copyright Office website, we’ll respond quickly to claims of copyright infringement on Pinterest that are reported to our designated copyright agent, identified below.
