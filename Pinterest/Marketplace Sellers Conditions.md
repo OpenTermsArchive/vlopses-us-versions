@@ -3,16 +3,6 @@ Merchant guidelines
 
 =======================
 
-Table of Contents
-
-[Our mission](https://policy.pinterest.com/en/merchant-guidelines#section-our-mission)
-
-[General merchant guidelines](https://policy.pinterest.com/en/merchant-guidelines#section-general-merchant-guidelines)
-
-[Merchant requirements](https://policy.pinterest.com/en/merchant-guidelines#section-merchant-requirements)
-
-[Product requirements](https://policy.pinterest.com/en/merchant-guidelines#section-product-requirements)
-
 Our mission
 ===========
 
