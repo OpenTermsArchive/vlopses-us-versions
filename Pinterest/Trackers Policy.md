@@ -3,20 +3,6 @@ Cookies
 
 ===========
 
-Table of Contents
-
-[Cookies on Pinterest](https://policy.pinterest.com/en/cookies#section-cookies-on-pinterest)
-
-[What’s a cookie](https://policy.pinterest.com/en/cookies#section-whats-a-cookie)
-
-[How we use cookies](https://policy.pinterest.com/en/cookies#section-how-we-use-cookies)
-
-[What we do with the cookies in each category](https://policy.pinterest.com/en/cookies#section-what-we-do-with-the-cookies-in-each-category)
-
-[Where we use cookies](https://policy.pinterest.com/en/cookies#section-where-we-use-cookies)
-
-[Your options](https://policy.pinterest.com/en/cookies#section-your-options)
-
 Cookies on Pinterest
 ====================
 
