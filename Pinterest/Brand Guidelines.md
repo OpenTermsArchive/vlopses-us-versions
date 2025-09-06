@@ -734,14 +734,6 @@ Trademark
 
 =============
 
-Table of Contents
-
-[Submit a Trademark Infringement Report](https://policy.pinterest.com/en/trademark#section-submit-a-trademark-infringement-report)
-
-[Appeal a Trademark Infringement Report](https://policy.pinterest.com/en/trademark#section-appeal-a-trademark-infringement-report)
-
-[Anti-Counterfeiting on Pinterest](https://policy.pinterest.com/en/trademark#section-anti-counterfeiting-on-pinterest)
-
 Pinterest respects the trademark rights of others and expects Pinners to do the same. Pinterest may disable access to content that misleads others or violates another's trademark rights. Pinterest may also suspend or terminate users who post or share such content. In addition, Pinterest may transfer usernames as appropriate.
 
 If you're concerned that someone may be using your trademark in an infringing way on Pinterest, let us know by submitting a trademark infringement report via our [easy-to-use and online form](https://www.pinterest.com/about/trademark/). We'll review your submission and take appropriate action.
