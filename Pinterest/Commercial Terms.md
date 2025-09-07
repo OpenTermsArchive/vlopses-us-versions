@@ -3,16 +3,6 @@ Commercial and Branded Content Guidelines
 
 =============================================
 
-Table of Contents
-
-[Commercial Content Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-commercial-content-guidelines)
-
-[Paid Partnership Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-paid-partnership-guidelines)
-
-[Affiliate Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-affiliate-guidelines)
-
-[Contest Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-contest-guidelines)
-
 Commercial Content Guidelines
 =============================
 
@@ -119,28 +109,6 @@ Advertising guidelines
 
 
 ==========================
-
-Table of Contents
-
-[Our mission](https://policy.pinterest.com/en/advertising-guidelines#section-our-mission)
-
-[Be authentic with your audience](https://policy.pinterest.com/en/advertising-guidelines#section-be-authentic-with-your-audience)
-
-[Be respectful with your targeting](https://policy.pinterest.com/en/advertising-guidelines#section-be-respectful-with-your-targeting)
-
-[Be careful with any data usage](https://policy.pinterest.com/en/advertising-guidelines#section-be-careful-with-any-data-usage)
-
-[Be thoughtful with your editorial](https://policy.pinterest.com/en/advertising-guidelines#section-be-thoughtful-with-your-editorial)
-
-[Be responsible with your content](https://policy.pinterest.com/en/advertising-guidelines#section-be-responsible-with-your-content)
-
-[Prohibited content guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-prohibited-content-guidelines)
-
-[Restricted content guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-restricted-content-guidelines)
-
-[Country-specific guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-country-specific-guidelines)
-
-[Keep in mind...](https://policy.pinterest.com/en/advertising-guidelines#section-keep-in-mind)
 
 Our mission
 ===========
