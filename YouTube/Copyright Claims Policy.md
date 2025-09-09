@@ -47,40 +47,6 @@ YouTube has worked directly with rightsholders to ensure that copyrighted materi
     Rightsholders can pre-determine rules for when content matches are found — choosing to block a whole video from being viewed, monetize the video by running ads against it, or track the video’s viewership stats.
     
 
-### Webform
-
-**Who is it for?**
-
-Available in more than 80 languages, all rightsholders have access to the webform, which we’ve built as a streamlined and efficient way to submit copyright removal requests.
-
-\*\*What does it do? \*\*
-
-Rightsholders enter a few details of their request, which is then reviewed by YouTube to see if it meets legal requirements for removing the reported content.
-
-Rights holders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
-
-### Copyright Match Tool
-
-**Who’s it for?**
-
-It helps creators and rights holders protect their content by automatically finding videos that are the same or very similar to ones previously uploaded.
-
-**What does it do?**
-
-If a match is found, the creator or the rights holder is notified. She can then review the video that potentially reused their content and decide whether to request the video’s removal.
-
-### Content ID
-
-**Who’s it for?**
-
-Rightsholders who have the most complex rights management needs and experience heavy reposting of copyrighted material, like movie studios and music labels.
-
-**What does it do?**
-
-Rightsholders can pre-determine rules for when content matches are found — choosing to block a whole video from being viewed, monetize the video by running ads against it, or track the video’s viewership stats.
-
- ![Previous](https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg)![Next](https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg)
-
 How YouTube Addresses Copyright Claims Appeals
 ----------------------------------------------
 
@@ -89,6 +55,9 @@ The majority of copyright claims and removal requests on YouTube come from our a
 We empower uploaders to report wrongful takedown requests, and we measure how often creators push back against [removals](https://support.google.com/youtube/answer/2807684) and [Content ID claims](https://support.google.com/youtube/answer/2797454) in our [Copyright Transparency Report](https://transparencyreport.google.com/youtube-copyright/intro).
 
 Of the more than 1 billion Content ID claims made between July 2023 and December 2023, fewer than 1% have been disputed. Over 65% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim’s release. ([Source](https://transparencyreport.google.com/youtube-copyright/intro))
+
+Submit a copyright counter notification
+=======================================
 
 A counter notification is a legal request to reinstate content that was removed due to a [copyright removal request](https://support.google.com/youtube/answer/13823830). If you believe your content was removed by mistake, you can submit a counter notification to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 
@@ -227,10 +196,13 @@ If my channel is terminated, can I submit a counter notification?
 
 Yes. You’ll need to submit by [email, fax, or mail](https://support.google.com/youtube/answer/2807684#email) since you don’t have access to YouTube Studio.
 
+Dispute a Content ID claim
+==========================
+
 If your video got a [Content ID claim](https://support.google.com/youtube/answer/6013276), you can dispute a claim if you have a valid reason, such as:
 
 * Having all the necessary rights to the content in your video.
-* Using the content in a way that qualifies as a copyright exception, such as .
+* Using the content in a way that qualifies as a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148).
 * Believing your video was misidentified or an error was made.
 
 Copyright strikes are different from Content ID claims. If your channel got a copyright strike, go to the [copyright strikes](https://support.google.com/youtube/answer/2814000) article to learn more.
@@ -244,9 +216,9 @@ Before you dispute
 
 Before you dispute a Content ID claim, you may want to learn more about [public domain](https://support.google.com/youtube/answer/2797449#c-pd) and copyright exceptions like [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing. Keep in mind that these are **NOT** legitimate reasons to dispute a claim:
 
-* to the copyright owner
-* of the video or song
-* on the video
+* [Giving credit](https://support.google.com/youtube/answer/2797466#credit) to the copyright owner
+* [Owning a copy](https://support.google.com/youtube/answer/2797466#purchased) of the video or song
+* [Choosing not to monetize](https://support.google.com/youtube/answer/2797466#refrained) on the video
 
 If you don't submit a dispute, there are a few other ways to [resolve a Content ID claim](https://support.google.com/youtube/answer/6013276#claim_options), such as removing the claimed content from your video.
 
@@ -259,7 +231,7 @@ Submit a dispute
 
 To dispute a Content ID claim:
 
-1. Sign in to .
+1. Sign in to [YouTube Studio](https://studio.youtube.com/).
 2. From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
 3. In the **Videos** tab, find the video with the claim you want to dispute.
     * To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
@@ -276,9 +248,9 @@ After you submit a dispute, the person that claimed your video (the claimant) ha
 
 What the claimant can do
 
-* **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetizing the video, your monetization settings will be restored automatically when all claims on your video are released. Learn more about .
-* **Reinstate the claim:** If the claimant believes that their claim is still valid, they can reinstate it. This means that your dispute was rejected and the claim stays on your video. You may be eligible to .
-* **Submit a takedown request:** If the claimant believes that their claim is still valid, they can submit a . If the takedown request is , your video is removed from YouTube and your channel gets a . Learn more about options for .
+* **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetizing the video, your monetization settings will be restored automatically when all claims on your video are released. Learn more about [monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961).
+* **Reinstate the claim:** If the claimant believes that their claim is still valid, they can reinstate it. This means that your dispute was rejected and the claim stays on your video. You may be eligible to [appeal this decision](https://support.google.com/youtube/answer/12104471).
+* **Submit a takedown request:** If the claimant believes that their claim is still valid, they can submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622). If the takedown request is [valid](https://support.google.com/youtube/answer/2807622#after), your video is removed from YouTube and your channel gets a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 * **Let the claim expire:** If the claimant doesn’t respond within 30 days, the claim on your video will expire and be released from your video.
 
 Learn more about the dispute process in this video's chapter "Dispute Process for Content ID":
@@ -286,6 +258,9 @@ Learn more about the dispute process in this video's chapter "Dispute Process fo
 [Content ID Claims & Dispute Process: Manage & Action Claims in Studio](https://www.youtube.com/watch?v=ybmRMEJG6LY)
 
 Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ?sub_confirmation=1) for the latest news, updates, and tips.
+
+Frequently asked questions (FAQs)
+---------------------------------
 
 What happens if my dispute is rejected?
 
@@ -318,3 +293,12 @@ If you choose not to dispute, there are [other ways](https://support.google.com/
 Can I cancel a dispute after it’s submitted?
 
 No, once you’ve submitted a dispute, it can’t be canceled.
+
+More info
+---------
+
+* [Learn about Content ID claims](https://support.google.com/youtube/answer/6013276)
+* [Appeal a Content ID claim](https://support.google.com/youtube/answer/12104471)
+* [How Content ID works](https://support.google.com/youtube/answer/2797370)
+* [Monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961)
+* [Remove claimed content from videos](https://support.google.com/youtube/answer/2902117)
