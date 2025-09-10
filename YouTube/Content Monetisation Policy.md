@@ -1,6 +1,12 @@
 YouTube channel monetization policies
 =====================================
 
+**July 15, 2025:** We’re making a minor update to our “repetitious content” policy to better clarify this includes content that is repetitive or mass-produced. We are also renaming this policy from  “repetitious content” to “inauthentic content.” This type of content has always been ineligible for monetization under our existing policies, where creators are rewarded for original and authentic content. There is no change to our reused content policy which reviews content like commentary, clips, compilations, and reaction videos.
+
+**March 10, 2025:** We’re making improvements to our ad suitability review process. As a result, videos undergoing checks (including private videos) may receive an additional review that may be completed by a human. In some cases, video monetization decisions may take up to 24 hours. This update is designed to improve the accuracy of monetization decisions and increase your channel’s overall monetization potential. [Learn more](https://support.google.com/youtube/answer/16271309).
+
+**March 3, 2022:** Due to the ongoing war in Ukraine, we will be temporarily pausing Google and YouTube ads from serving to users located in Russia. Also, we are pausing access to all monetization features (such as Channel Memberships, Super Chat, Super Stickers, and Merch) for viewers in Russia. [Learn more](https://support.google.com/youtube/answer/10008196).
+
 If you’re monetizing on YouTube, it’s important that your channel follows YouTube monetization policies. These include policies described below, as well as YouTube’s [Community Guidelines](https://www.youtube.com/t/community_guidelines), [Terms of Service](https://www.youtube.com/static?template=terms), [Copyright](https://www.youtube.com/about/copyright/#support-and-troubleshooting), [Rights Clearance Adjustment policies](https://support.google.com/youtube/answer/12496325), and our [program policies](https://support.google.com/adsense/answer/48182?ctx=checklist).
 
 These policies apply to anyone in, or looking to apply to, the YouTube Partner Program. The [YouTube Shorts monetization policies](https://support.google.com/youtube/answer/12504220) also apply if you’re monetizing Shorts on YouTube.
@@ -232,9 +238,10 @@ Whether you're facing a specific problem or you want to find out how to get the 
 
 You can find more detailed instructions to [contact Creator Support](https://support.google.com/youtube/answer/3545535) and how to [get help as a YouTube Creator](https://support.google.com/youtube/answer/6249136).
 
-Monetizing partners can earn money from ads that are viewed between videos in the Shorts Feed.
+YouTube Shorts monetization policies
+====================================
 
-[](https://www.youtube.com/watch?v=xMs4e9esYkg)
+Monetizing partners can earn money from ads that are viewed between videos in the Shorts Feed.
 
 **What you'll find in this article**
 
@@ -275,16 +282,10 @@ Shorts over one minute in length that contain claimed content are blocked and no
 Ad formats eligible for Shorts revenue sharing
 ----------------------------------------------
 
-[NEW: Shorts Ad Revenue, New Paths to YPP & Shorts Super Thanks!](https://www.youtube.com/watch?v=coez1I0h5qw)
-
 Revenue is shared on ads that are viewed between videos in the Shorts Feed. Shorts views exclusively receive ad revenue sharing from the Shorts Feed, which is separate from long-form video monetization on the Watch Page.
-
-![](//storage.googleapis.com/support-kms-prod/pc5QzrCepynNdkGLEY5UEneHhmRp4y3ADEve)
 
 How ad revenue sharing works for Shorts
 ---------------------------------------
-
-[NEW: Shorts Ad Revenue Sharing](https://www.youtube.com/watch?v=kfGnAySqy20)
 
 Only monetizing partners who’ve accepted the Shorts Monetization Module can earn ad revenue from Shorts.
 
@@ -307,8 +308,6 @@ What’s not included in the Creator Pool:
 * Revenue associated with views of Shorts that are determined to be ineligible.
 * Revenue associated with any ads shown upon opening the Shorts Feed before a Short is viewed (e.g. the YouTube Shorts Masthead).
 * Revenue associated with any ads shown on navigational pages within the Shorts player.
-
-![](//storage.googleapis.com/support-kms-prod/2iZJfJfyaQTdkKd9bg1CZKGiNVjEnkRylkwi)
 
 ### Understand with an example
 
@@ -390,6 +389,9 @@ YouTube Analytics will also start displaying estimated daily Shorts Feed ad reve
 
 If you no longer want to monetize your channel’s Shorts views with ads, you can opt out of the Shorts Monetization Module by contacting [Creator Support](https://support.google.com/youtube/gethelp).
 
+YouTube Commerce Products monetization policies
+===============================================
+
 The Commerce Product Module (CPM) is replacing the Commerce Product Addendum (CPA) for new YPP creators. YPP creators that signed the CPA do not need to sign the new CPM.
 
 The Commerce Product Module (CPM) is available to monetizing creators that want to unlock fan funding features. Fan funding lets you earn extra income while connecting with viewers and building a community. Whether it’s through fans spontaneously showing support with Super Thanks, or members-only content for loyal fans through channel memberships.
@@ -456,3 +458,105 @@ Super Chat and Super Stickers are ways to connect fans with creators, during liv
 ### Super Thanks
 
 Super Thanks lets creators earn revenue from viewers who want to show extra gratitude for their videos. Fans can buy a one-time animation and get to post a distinct, colorful, and customizable comment in the video’s comment section. Learn how to [turn on and manage Super Thanks](https://support.google.com/youtube/answer/10878910).
+
+Virtual Items Program Policies for Creators
+===========================================
+
+The Virtual Items Module is available to US creators in the YouTube Partner Program (YPP) that want to unlock Virtual Items features. Enabling Virtual Items can help you build community, engage with fans, and earn money or other benefits.
+
+Virtual Items include these features:
+
+* **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams.
+* **Gifts:** A digital item that fans can send on vertical live streams unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
+* **Rubies:** A digital item that represents your earnings when your fans send gifts on your live streams. Your earnings from Rubies will be paid to you with your other YouTube Partner Program earnings.
+
+Policies that apply to Virtual Items monetization
+-------------------------------------------------
+
+If you’re monetizing on YouTube with Virtual Items, your channel must comply with the Virtual Items Module, which applies to these features, and follow the [YouTube channel monetization policies](https://support.google.com/youtube/answer/1311392), which include:
+
+* [YouTube Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/)
+* [YouTube Terms of Service](https://www.youtube.com/static?template=terms)
+* [YouTube Copyright and Fair Use Policies](https://www.youtube.com/howyoutubeworks/policies/copyright/#support-and-troubleshooting)
+* [Google AdSense Program Policies](https://support.google.com/adsense/answer/48182?ctx=checklist)
+
+You must also continue to comply with all applicable laws, as required by YouTube’s [Terms of Service](https://www.youtube.com/static?template=terms). This includes whether or not you can turn on, offer, and get money from Virtual Items. Virtual Items are not crowdfunding, donation, or tipping tools.
+
+### Incentives
+
+We may offer incentives from time to time. Check [here](https://support.google.com/youtube/answer/15536109) for more info.
+
+### Termination
+
+If your access to Virtual Items features is terminated and you want to remove any particular content made available in connection with Virtual Items, you must remove it. YouTube is not responsible for removing or otherwise limiting access to any Virtual Item Content upon termination.
+
+Minimum requirements for Virtual Items features
+-----------------------------------------------
+
+You must meet these minimum requirements to be eligible for the Virtual Items program:
+
+* Channel is in the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
+* Be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
+    * **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+* Live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
+
+**Verifying Your AdSense Account**
+
+If you do not have a verified AdSense account, you can reach out to Creator Support to trigger [AdSense Identity Verification](https://support.google.com/adsense/answer/7568896) (IDV).
+
+To check whether your AdSense account is verified, follow these steps:
+
+Sign in to the AdSense account associated with your channel and select **Payments** then **Verification** **check**.
+
+* If you see “Identity Verification” marked as Completed, then your AdSense account is verified.
+* If you do not see “Identity Verification” listed, and you meet the minimum requirements listed above, reach out to Creator Support to trigger AdSense IDV.
+
+**Note:** You have 45 days from the date AdSense first asks you to verify your identity to submit the required documents in your account. After 45 days, if you haven't provided the documents or AdSense is still unable to verify your identity from the documents you have provided, monetization will be paused on your channel until it’s complete.
+
+### Individual live stream requirements for Virtual Items
+
+All content in live streams must adhere to our [live stream policies](https://support.google.com/youtube/answer/2474026).
+
+Virtual Items aren't available on the following types of live streams:
+
+* Is age-restricted or [made for kids](https://support.google.com/youtube/topic/9689353).
+* Is unlisted or private.
+* When live chat is turned off.
+* Horizontal live streams.
+* On YouTube Giving fundraisers
+
+How revenue works for Virtual Items
+-----------------------------------
+
+Here’s how you earn revenue from Virtual Items on YouTube:
+
+1. **A viewer who has purchased Jewels redeems some of their Jewels for gifts during your live stream.** A viewer wants to show appreciation and interact in real-time, so they redeem some of their Jewels to send gifts during the live stream. The gifts help you engage with your fans in real-time and build excitement during the live stream.
+2. **You earn Rubies from the gifts sent during the live stream.** You can view how many estimated Rubies you earned from gifts during your live stream and when it ends. Every two Jewels redeemed for gifts will earn you one Ruby.
+3. **The Rubies you’ve earned during the live stream represent your revenue.** We will calculate your net revenue by multiplying the number of Rubies you earned by the revenue we pay per Ruby, which is $0.01.
+
+You can view the number of Rubies you’ve earned during live streams and the associated [revenue in YouTube Analytics](https://support.google.com/youtube/answer/9314488).
+
+Learn more about Virtual Items on YouTube
+-----------------------------------------
+
+Who can buy Jewels and send gifts?
+----------------------------------
+
+Signed-in US viewers in the YouTube mobile apps, who are at least 18 years old, can purchase Jewels and send gifts to eligible US creators during a vertical live stream.
+
+Which creators can earn from gifts?
+-----------------------------------
+
+US creators who are in the YouTube Partner Program (YPP) and have accepted and meet the requirements for the Virtual Items Module in YouTube Studio can earn.
+
+Are vertical live streams using third-party streaming services eligible for gifts?
+----------------------------------------------------------------------------------
+
+After a creator accepts the Virtual Items Module in YouTube Studio, their vertical live streams direct from YouTube or from third-party streaming software will be eligible for gifts.
+
+When using third-party streaming software, you may not always see the gifts sent. To see gifts, you can monitor your live stream from the YouTube mobile app, or view gifts as system messages in the chat feed from Live Control Room (LCR).
+
+Can I customize the gifts or create my own?
+-------------------------------------------
+
+Customization of gifts is not available at this time.
