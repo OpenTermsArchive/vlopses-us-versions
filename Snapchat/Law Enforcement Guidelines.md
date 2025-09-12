@@ -28,7 +28,7 @@ Emergency Disclosure Requests
 
 Consistent with 18 U.S.C. §§ 2702(b)(8) and 2702(c)(4), we are able to voluntarily disclose Snapchat account records when we believe in good faith that an emergency posing a threat of imminent death or serious bodily injury requires the immediate disclosure of such records.
 
-Information for law enforcement regarding how to submit Emergency Disclosure Requests to Snap can be found in our [Law Enforcement Guide](https://snapchat.com/lawenforcement?lang=en-US). Emergency Disclosure Requests to Snap must be submitted by a sworn law enforcement official and must come from an official law enforcement (or governmental) email domain.
+Information for law enforcement regarding how to submit Emergency Disclosure Requests to Snap can be found in our [Law Enforcement Guide](https://help.snapchat.com/hc/en-us?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US). Emergency Disclosure Requests to Snap must be submitted by a sworn law enforcement official and must come from an official law enforcement (or governmental) email domain.
 
 Data Retention Periods
 
@@ -46,7 +46,7 @@ In instances where we're made aware of potential child exploitation content on o
 
 User Consent
 
-Snap does not disclose user data based solely on user consent. Users seeking to download their own data may find additional information on our [Support Site](https://support.snapchat.com/en-US/a/download-my-data?lang=en-US).
+Snap does not disclose user data based solely on user consent. Users seeking to download their own data may find additional information on our [Support Site](https://values.snap.com/safety/google.com/url?q=https://help.snapchat.com/hc/articles/7012305371156?utm_source%3Dweb%26utm_medium%3Dweb_snap%26utm_campaign%3Ds_ile&sa=D&source=editors&ust=1772745958116412&usg=AOvVaw06xzcLLPcvJ-rt80p731EZ).
 
 User Notice Policy
 
@@ -94,7 +94,7 @@ Share with your community how they can report to Snap!
 
 *   In-App Reporting: You can report inappropriate content to us right in the app! Just press and hold on the Snap, then tap the 'Report Snap' button. Let us know what’s going on — we’ll do our best to help!
     
-*   Email Us: You can also email a report to us right through our [Support site](https://support.snapchat.com/i-need-help?start=5153567363039232&lang=en-US).
+*   Email Us: You can also email a report to us right through our [Support site](https://help.snapchat.com/hc/en-us/p/5153567363039232-help-topic?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US).
     
 
 Requesting Assistance
@@ -105,7 +105,7 @@ Transparency Report
 
 Snapchat [Transparency Reports](https://values.snap.com/privacy/transparency) are released twice a year. These reports provide important insight into the volume and nature of governmental requests for Snapchatters' account information and other legal notifications.
 
-[Cooperation with Law Enforcement](https://support.snapchat.com/article/cooperation-with-law-enforcement?lang=en-US)
+[Cooperation with Law Enforcement](https://help.snapchat.com/hc/en-us/articles/7012327251348-How-Snap-Inc-Works-with-Law-Enforcement?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US)
 
 - - -
 
