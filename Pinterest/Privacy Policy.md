@@ -481,6 +481,89 @@ You can also contact our [Data Protection Officer](https://help.pinterest.com/da
 
 Effective date: April 30, 2025
 
+Information about Call Recordings
+
+
+=====================================
+
+**Last Reviewed:** June 2025
+
+Pinterest has prepared this notice (“**Notice**”) for personnel using the call recording software (“**Personnel**”). This Notice explains how and why we collect, use, store, disclose and otherwise process information where your call is recorded, and your rights in relation to that call recording. We may update this Notice from time to time. We will resend this Notice to you if we make material changes.
+
+When we say “**Pinterest**,” “**we**,” “**us**” or “**our**” in this Notice, we are referring to the Pinterest company you are engaging with, which will be the primary data controller responsible for the use of your personal data.
+
+If you are a resident in the EEA, Switzerland, and UK, Pinterest Europe Ltd. and Pinterest, Inc. are joint data controllers of your personal data. Pinterest Europe Ltd. is an Irish company with its registered office at Waterloo Exchange, 3rd Floor, Waterloo Road, Dublin 4, Ireland. Pinterest, Inc. is a US company with its registered office at 651 Brannan St., San Francisco, CA 94107, USA. Pinterest Europe Ltd is the responsible controller for fulfilling key obligations under the GDPR. If you have any questions about our data processing activities, please contact our [Data Protection Officer](https://help.pinterest.com/data-protection-officer-contact-form).
+
+Our Collection and Use of Personal Data
+=======================================
+
+Where you opt-in, we collect your call recording and the associated technical information (“**Personnel** **Customer Call Data**”) which includes:
+
+* **Personnel call data you provide** such as your voice and video recording, including a transcript of the call, as well as any information shared on the call which can include your name, contact details, location information.
+* **Device information** such as information about the device you use for the call recording, including the type of device, operating system, network service provider, settings, and unique device identifiers.
+* **Log data** such as how long the call was, when it started, and when it ended.
+
+With your consent, we collect and process **Personnel Customer Call Data** in connection with our calls with you for the purposes of quality assurance and to facilitate our provision of information about our services to you. Pinterest relies on legitimate interests where it processes Personnel Call Data for enabling features that transcribe and analyse the call recording. Personnel Call Data is not used to train Pinterest or third-party artificial intelligence models.
+
+Pinterest does not “sell” or “share” your personal information or sensitive personal information as defined under U.S. and state laws.
+
+Your Rights and Choices
+=======================
+
+* Access: You can request access to the information we collect and hold about you, including sometimes in a portable format.
+* Correction/rectification: You can correct your information by emailing us.
+* Deletion/erasure: You can have your information deleted by email us.
+* Objection: You can object where we rely on legitimate interests to process your information. You can object through [this form](https://help.pinterest.com/en-gb/data-protection-officer-contact-form).
+* Withdrawal of consent: If you grant consent for Pinterest to process your Personnel Customer Call Data, you are free to withdraw your consent at any time by contacting us, as described below. Just note, withdrawing consent is forward-looking: it does not change the lawfulness of any processing that occurred before you withdrew your consent.
+
+To exercise any of these rights, please contact us as stated below. We will respond to your request consistent with applicable law. To respond to some rights we may need to verify your request either by asking you to verify your identity by providing information about yourself or your application. Authorized agents can make a request on your behalf if you have given them legal power of attorney or we are provided proof of signed permission, verification of your identity, and, in some cases, confirmation that you provided the agent permission to submit the request. Under certain circumstances provided by local law, we may be delayed, limited or unable to exercise your rights. In such a case, we will let you know why.
+
+How and when we share information
+=================================
+
+We may transfer personal data to Pinterest subsidiaries or affiliates, or our service providers located outside of your country for processing, including to countries where data protection laws and regulations may differ from those in your jurisdiction. In particular, data may be transferred to Pinterest, Inc. in the United States and may be accessed elsewhere.
+
+Likewise, Pinterest may also share personal data with third parties outside Pinterest, including:
+
+* Governmental and regulatory bodies and law enforcement, which we will share data with when required by applicable laws, to prevent and detect crime or in connection with a corporate restructuring or transaction.
+* Our service providers include those that provide products or services to Pinterest or a related entity, such as service providers that facilitate the recording of our sales interactions with you and that provide features for call transcription and analytics.
+
+For a full list of the Pinterest entities and third parties that we may share your data with, please contact us as set out below.
+
+International Data Transfers
+============================
+
+Information controlled by Pinterest will be transferred or transmitted to, or stored and processed in, the United States or other countries outside of where you live for the purposes as described in this Notice.
+
+Because Pinterest is a worldwide service, we may transfer the personal data to a country outside your home country, the European Economic Area (“EEA”), or the United Kingdom (“UK”). Where we transfer information from the EEA or the UK to a country that doesn't provide an adequate level of protection, we’ll only do so under appropriate safeguards to protect your information. In other instances where we transfer information outside of your home country, we will only do so under the protection of appropriate safeguards to protect your information.
+
+Safeguards which we rely on in ensuring your information benefits from an adequate level of protection includes the following:
+
+* Adequacy decisions. These are decisions issued from the European Commission under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “Our Collection and Use of Personal Data” to some countries with such adequacy decisions; or
+* Standard contractual clauses (“**SCCs**”). The European Commission has approved contractual clauses under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the UK) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in the “Our Collection and Use of Personal Data” section of this Notice to certain entities in our family of companies and third parties in countries without an adequacy decision.
+* Outside of the EEA & UK, we will ensure your information benefits from an adequate level of protection by implementing additional safeguards adapted to the specific nature of the data and the risks involved, in accordance with local laws.
+
+While transfers to countries that don’t have an adequacy decision typically take place on the basis of SCCs, in certain circumstances, transfers can also take place on the basis of exemptions provided under data protection law. For example, we may share information with law enforcement, in emergency situations where we learn that a person’s life is at risk.
+
+We also identify and use additional protections as appropriate for each data transfer. For example, we use:
+
+* technical protections, such as encryption and pseudonymisation; and
+* policies and processes to challenge disproportionate or unlawful government authority requests.
+
+For a copy of these adequacy decisions or SCCs, please contact us as set out below.
+
+How Long We Keep Personal Data
+==============================
+
+We keep Personnel Call Customer Data for 24 months for quality assurance including training of staff and informing product development over time, and to facilitate our provision of information about our services to you including to help resolve disputes.  
+  
+Personnel Call Customer Data will not be kept in a form where you can be identified for any longer than is reasonably necessary to achieve the purposes described in this Notice, or longer than where we are permitted under local law to retain the data (including, for the purpose of meeting any legal, or other reporting requirements or obligations).
+
+Contact Us
+==========
+
+To ask any questions related to this Notice, or if you would like to exercise your rights, please reach out through our [Help Center](https://help.pinterest.com/contact). If you are located in the EU or UK, you can also submit an inquiry or complaint to Pinterest’s Data Protection Officer, available through the [Data Protection Officer Contact Form](https://help.pinterest.com/data-protection-officer-contact-form). You also have the right to lodge a complaint with the competent data protection supervisory authority. In the EU this is the Irish Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963, Ireland.
+
 Non-User Notice
 
 
