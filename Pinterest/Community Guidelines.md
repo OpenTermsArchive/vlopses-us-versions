@@ -298,6 +298,8 @@ Our guidelines around spam are:
 
 Last updated: August 2025
 
+- - -
+
 Community guidelines enforcement
 ================================
 
