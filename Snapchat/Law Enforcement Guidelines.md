@@ -107,6 +107,8 @@ Snapchat [Transparency Reports](https://values.snap.com/privacy/transparency) ar
 
 [Cooperation with Law Enforcement](https://support.snapchat.com/article/cooperation-with-law-enforcement?lang=en-US)
 
+- - -
+
 Snap Inc. Law Enforcement Guide
 
 
