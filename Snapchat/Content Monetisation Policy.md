@@ -8,22 +8,22 @@ Creator Monetization Policy
 
 We want to financially reward [creators](https://creators.snap.com/earn-rewards?lang=en-US#:~:text=Snapchat%20Revenue%20Share%20Program,investing%20in%20the%20Snapchat%20community) for consistently publishing high-quality content on Snapchat. The goals of the content monetization program are that:
 
-* Snapchatters feel that viewing your content is time well-spent, and
+*   Snapchatters feel that viewing your content is time well-spent, and
     
-* Advertisers feel eager to associate their brands with your content. 
+*   Advertisers feel eager to associate their brands with your content. 
     
 
 In order to be eligible for monetization, content must adhere to the policies on this page, as well as our:
 
-* [Community Guidelines & Rules](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US)
+*   [Community Guidelines & Rules](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US)
     
-* [Terms of Service](https://snap.com/en-US/terms?lang=en-US) 
+*   [Terms of Service](https://snap.com/en-US/terms?lang=en-US) 
     
-* [Snap Monetization Terms](https://www.snap.com/monetization-terms?lang=en-US)
+*   [Snap Monetization Terms](https://www.snap.com/monetization-terms?lang=en-US)
     
-* [Spotlight Terms](https://www.snap.com/en-US/terms/spotlight-terms?lang=en-US)
+*   [Spotlight Terms](https://www.snap.com/en-US/terms/spotlight-terms?lang=en-US)
     
-* The terms of any other content agreement between you and Snap, if applicable.
+*   The terms of any other content agreement between you and Snap, if applicable.
     
 
 _Tip_: in order for your content to reach a wide audience beyond your followers, it must adhere to the [Content Guidelines for Recommendation Eligibility](https://values.snap.com/policy/content-guidelines-recommendation-eligibility?lang=en-US). 
@@ -54,22 +54,22 @@ In addition to consistently following the [Content Guidelines for Recommendation
 
 You publish original, engaging content that you or your organization created. If you are posting someone else’s content, you must add to it in a valuable, transformative way. To add content in a valuable, transformative way, you must add significant original commentary, criticism, substantive modifications, analysis, educational or entertainment value to the original work, such as:
 
-* Reacting to a video (for example, adding your own commentary to a sports replay)
+*   Reacting to a video (for example, adding your own commentary to a sports replay)
     
-    * Your face must be clearly visible.
+    *   Your face must be clearly visible.
         
-    * You must be speaking in the video. Pointing or nodding is not considered speaking. 
+    *   You must be speaking in the video. Pointing or nodding is not considered speaking. 
         
-    * Your reaction must relate or be in response to the reposted content.
+    *   Your reaction must relate or be in response to the reposted content.
         
-    * The audio must relate to the content.
+    *   The audio must relate to the content.
         
     
-* Using clips in the context of reviews (for example, talking about a movie while playing relevant excerpts)
+*   Using clips in the context of reviews (for example, talking about a movie while playing relevant excerpts)
     
-* Editing footage in a creative way (for example, a compilation of the ten best wedding cakes, assembled into a countdown list, with added context, commentary and/or creative elements)
+*   Editing footage in a creative way (for example, a compilation of the ten best wedding cakes, assembled into a countdown list, with added context, commentary and/or creative elements)
     
-* Showing clips from social media when the content is both 1) properly attributed to the original creator, and 2) presented with original commentary about its relevance to newsworthy current events, trends, or public discourse 
+*   Showing clips from social media when the content is both 1) properly attributed to the original creator, and 2) presented with original commentary about its relevance to newsworthy current events, trends, or public discourse 
     
 
 You publish authentic content that builds trust with Snapchatters and advertisers. You do not mislead. Your tiles or introductions set up expectations that are rewarded within the rest of your content. 
@@ -86,33 +86,33 @@ You publish authentic content that builds trust with Snapchatters and advertiser
 
 You primarily or frequently publish unoriginal content that you did not create and which you did not transform in a meaningful way, such as:
 
-* Unaltered clips or compilations of clips from TV shows, movies, music videos
+*   Unaltered clips or compilations of clips from TV shows, movies, music videos
     
-* Re-uploading other people’s social media posts
+*   Re-uploading other people’s social media posts
     
 
 You post repetitive content, such as repeatedly reposting your own content, or content that is duplicative, or designed solely for boosting views rather than entertaining or informing viewers, such as:
 
-* Re-using the same tile image over and over
+*   Re-using the same tile image over and over
     
-* Re-posting the same or similar content over and over and presenting it as new content
+*   Re-posting the same or similar content over and over and presenting it as new content
     
-* Posting minimally-distinguishable Snaps, such as nodding and pointing at written quotations over and over.  
+*   Posting minimally-distinguishable Snaps, such as nodding and pointing at written quotations over and over.  
     
 
 You frequently publish inauthentic content that misleads people (even if the subject matter is not as “serious” as politics, health, or tragic events). Engagement bait is misleading because it sets up an expectation that never pays off, such as:
 
-* An irrelevant tile image (for example, an image of a celebrity who is not mentioned in the rest of the story)
+*   An irrelevant tile image (for example, an image of a celebrity who is not mentioned in the rest of the story)
     
-* A shocking tile or images (for example, images that may, at first glance, resemble genitalia) 
+*   A shocking tile or images (for example, images that may, at first glance, resemble genitalia) 
     
-* An unfounded rumor (for example, baseless speculation that an actor might play a certain character in an upcoming movie)
+*   An unfounded rumor (for example, baseless speculation that an actor might play a certain character in an upcoming movie)
     
-* Long-past events presented as current events (for example, a celebrity’s years-old arrest depicted as breaking news)
+*   Long-past events presented as current events (for example, a celebrity’s years-old arrest depicted as breaking news)
     
-* Deceptively manipulated media (for example, editing an image of someone’s body or face to imply a radical transformation, or editing a snake to appear to be as large as a bus, etc.)
+*   Deceptively manipulated media (for example, editing an image of someone’s body or face to imply a radical transformation, or editing a snake to appear to be as large as a bus, etc.)
     
-* “Reaction” content that does not actually include a reaction, is not related to the video being reacted to, or tries to obscure the reaction
+*   “Reaction” content that does not actually include a reaction, is not related to the video being reacted to, or tries to obscure the reaction
 
 - - -
 
@@ -135,13 +135,13 @@ Welcome!  We are excited that you are interested in Snap’s Monetization Progr
 
 For purposes of these Monetization Terms, “Snap” means: 
 
-* Snap Inc., if you live in or your principal place of business is located in the United States;
+*   Snap Inc., if you live in or your principal place of business is located in the United States;
     
-* Snap India Camera Private Limited, if you live in or your principal place of business is located in India;
+*   Snap India Camera Private Limited, if you live in or your principal place of business is located in India;
     
-* Snap Group Limited Singapore Branch, if you live in or your principal place of business is located in the Asia-Pacific region (other than India); or
+*   Snap Group Limited Singapore Branch, if you live in or your principal place of business is located in the Asia-Pacific region (other than India); or
     
-* Snap Group Limited, if you live or your principal place of business is located anywhere else in the world.
+*   Snap Group Limited, if you live or your principal place of business is located anywhere else in the world.
     
 
 These Monetization Terms incorporate by reference the [Snap Terms of Service](https://www.snap.com/terms), [Community Guidelines](https://www.snap.com/community-guidelines), [Content Guidelines for Recommendation Eligibility](https://www.snap.com/content-recommendation-guidelines), [Music on Snapchat Guidelines](https://www.snap.com/music-guidelines), [Creator Monetization Policy](https://values.snap.com/policy/creator-monetization-policy?lang=en-US), [Commercial Content Policy](https://www.snap.com/terms/commercial-content), [Promotions Rules](https://support.snapchat.com/a/promotions-rules?lang=en-US), and any other applicable terms, guidelines, and policies. To the extent these Monetization Terms conflict with any other terms, these Monetization Terms will control with respect to your participation in the Program. The Program is part of Snap's "Services" as defined in the [Snap Terms of Service](https://www.snap.com/terms). All capitalized terms used but not defined in these Monetization Terms shall have the respective meanings set forth in the [Snap Terms of Service](https://www.snap.com/terms) or the applicable terms governing the Services. Any account or content that violates these Monetization Terms will not be eligible for monetization.
@@ -152,21 +152,21 @@ Where we have provided summaries in these Monetization Terms, we have done so fo
 
 The Program is open by invitation only. In order to be eligible for invitation, you must meet the following minimum eligibility requirements (“Minimum Eligibility”):  
 
-1. You must reside (if you are an individual), or have your principal place of business (if you are an entity), in an Eligible Region. Payouts are only available in the limited regions listed in the [Crystals Payouts Guidelines](https://help.snapchat.com/hc/en-gb/articles/7012298096788-In-what-countries-and-regions-are-Snapchatters-eligible-for-a-payout?lang=en-US) (the “Eligible Regions”). We may modify the list of Eligible Regions at our discretion.
+1.  You must reside (if you are an individual), or have your principal place of business (if you are an entity), in an Eligible Region. Payouts are only available in the limited regions listed in the [Crystals Payouts Guidelines](https://help.snapchat.com/hc/en-gb/articles/7012298096788-In-what-countries-and-regions-are-Snapchatters-eligible-for-a-payout?lang=en-US) (the “Eligible Regions”). We may modify the list of Eligible Regions at our discretion.
     
-2. If you are an individual, you must be at least the age of legal majority in your jurisdiction (or, if applicable, at least 16 years old with parental consent). If parental or legal guardian consent(s) is required under applicable law, then you may only participate in the Program under the supervision of your parent(s)/legal guardian(s), who must also agree to be bound by these Monetization Terms. You represent and warrant that you have obtained all such consent(s) (including two-parent consent, if required in your jurisdiction). 
+2.  If you are an individual, you must be at least the age of legal majority in your jurisdiction (or, if applicable, at least 16 years old with parental consent). If parental or legal guardian consent(s) is required under applicable law, then you may only participate in the Program under the supervision of your parent(s)/legal guardian(s), who must also agree to be bound by these Monetization Terms. You represent and warrant that you have obtained all such consent(s) (including two-parent consent, if required in your jurisdiction). 
     
-3. If you are acting on behalf of an entity, you must be at least 18 years old (or the legal age of majority in your state, province, or country) and have the authority to bind such entity. All references to “you” and “your” in these Monetization Terms will mean both you as the end user and that entity.
+3.  If you are acting on behalf of an entity, you must be at least 18 years old (or the legal age of majority in your state, province, or country) and have the authority to bind such entity. All references to “you” and “your” in these Monetization Terms will mean both you as the end user and that entity.
     
-4. You must provide Snap, and its authorized third-party payment provider (“Payment Provider”), with accurate and up-to-date Contact Information (defined below), in addition to any other information that may be required to make payment to you. “Contact Information” as used herein shall mean your legal first and last name, email, phone number, state and country of residence, and any other information that may be required from time to time, so that Snap or its Payment Provider may contact you and cause payment to be made to you (or your parent/legal guardian(s) or business entity, if applicable) if you qualify for a pay hereunder, or in connection with any legal requirement.
+4.  You must provide Snap, and its authorized third-party payment provider (“Payment Provider”), with accurate and up-to-date Contact Information (defined below), in addition to any other information that may be required to make payment to you. “Contact Information” as used herein shall mean your legal first and last name, email, phone number, state and country of residence, and any other information that may be required from time to time, so that Snap or its Payment Provider may contact you and cause payment to be made to you (or your parent/legal guardian(s) or business entity, if applicable) if you qualify for a pay hereunder, or in connection with any legal requirement.
     
-5. You must complete all requirements necessary to set up a valid payment account (“Payment Account”) with our Payment Provider.
+5.  You must complete all requirements necessary to set up a valid payment account (“Payment Account”) with our Payment Provider.
     
-6. Your Snapchat account and Payment Account must be active, in good standing (as determined by us), and in compliance with these Monetization Terms at all times.
+6.  Your Snapchat account and Payment Account must be active, in good standing (as determined by us), and in compliance with these Monetization Terms at all times.
     
-7. You (or your parent/guardian(s), as applicable) must pass Snap’s and our Payment Provider’s compliance review.
+7.  You (or your parent/guardian(s), as applicable) must pass Snap’s and our Payment Provider’s compliance review.
     
-8. You are neither (i) an employee, officer, or director of Snap or its parent, subsidiaries, or affiliated companies; nor (ii) a government entity, subsidiary or affiliate of a government entity, or member of a royal family. 
+8.  You are neither (i) an employee, officer, or director of Snap or its parent, subsidiaries, or affiliated companies; nor (ii) a government entity, subsidiary or affiliate of a government entity, or member of a royal family. 
     
 
 We reserve the right to request any information necessary to verify that you meet the Minimum Eligibility requirements. Satisfaction of the Minimum Eligibility requirements does not guarantee you an invitation to, or your continued involvement in, the Program.  We reserve the right to remove any user from the Monetization Program at any time for any reason.
@@ -179,9 +179,9 @@ If you meet the Minimum Eligibility requirements and are invited to the Program,
 
 Qualifying Activity may include:
 
-* Posting Public Content in which we distribute advertisements; or
+*   Posting Public Content in which we distribute advertisements; or
     
-* Engaging in any other activity that we designate as Qualifying Activity, subject to your acceptance of any additional terms that we may require (which shall be incorporated into these Monetization Terms).
+*   Engaging in any other activity that we designate as Qualifying Activity, subject to your acceptance of any additional terms that we may require (which shall be incorporated into these Monetization Terms).
     
 
 Qualifying Activity will be determined by Snap in its discretion. “Public Content” shall have the meaning set forth in the [Snap Terms of Service](https://www.snap.com/terms). Additionally, in order for the content you post to the Services to be eligible for algorithmic recommendation, it must comply with our [Content Guidelines for Recommendation Eligibility](https://values.snap.com/policy/content-guidelines-recommendation-eligibility?lang=en-US). We may review your account and content for compliance with our terms and policies. For clarity, Snap will have the right, but not the obligation, to distribute the content you post to Snapchat in accordance with the [Snap Terms of Service](https://www.snap.com/terms). You may delete your Snaps at any time. 
@@ -228,13 +228,13 @@ _In Summary: You are responsible for making any payments owed to others in conne
 
 In determining whether activity constitutes Qualifying Activity or the amount of any Payment, we may exclude activity that artificially increases the number of views (or other viewership or engagement metrics) of the content you post (“Invalid Activity”). Invalid Activity will be determined by Snap in its sole discretion, and includes spam, clicks, queries, replies, likes, favorites, follows, subscriptions,  impressions, or any other metric of engagement:
 
-* generated by any person, click farm, or similar service, bot, automated program or similar device, including through any clicks, impressions, or other activity originating from your mobile device, mobile devices under your control, or mobile devices with new or suspicious accounts; 
+*   generated by any person, click farm, or similar service, bot, automated program or similar device, including through any clicks, impressions, or other activity originating from your mobile device, mobile devices under your control, or mobile devices with new or suspicious accounts; 
     
-* generated by payment of money or other inducements to third parties, false representation, or the offer to trade views; 
+*   generated by payment of money or other inducements to third parties, false representation, or the offer to trade views; 
     
-* generated through activity that is otherwise in violation of these Monetization Terms; and 
+*   generated through activity that is otherwise in violation of these Monetization Terms; and 
     
-* co-mingled with any of the activities listed above.
+*   co-mingled with any of the activities listed above.
     
 
 _In Summary: If you artificially increase the views and metrics on the content you post in any manner, you will be ineligible for payment._
