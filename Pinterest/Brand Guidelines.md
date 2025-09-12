@@ -89,7 +89,7 @@ Do not remove the P from the circle.
 
 Do not alter the logo color.
 
-![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=2880&h=2880)
+![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Call to action lockups
 
@@ -152,7 +152,7 @@ Broadcast and social lockups should always include clear links to your Pinterest
   
 To use Pinterest in video, television or film, you must submit a written request to your partner manager at Pinterest. The partner manager needs to review each potential use. Please reach out at least 10 business days in advance to avoid production delays.
 
-![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=2880&h=2880)
+![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Centered lockups are recommended for all social and broadcast formats.
 
@@ -185,7 +185,7 @@ Don’t use “Pin,” “Pinterest” or any variations of “Pinterest” in y
 
 Don’t use any Pinterest marks, logos, graphics or similar variations as part of your logo or branding.
 
-![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=2880&h=2880)
+![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Product depictions
 
@@ -324,7 +324,7 @@ Do not remove the P from the circle.
 
 Do not alter the logo color.
 
-![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=2880&h=2880)
+![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Call to action lockups
 
@@ -387,7 +387,7 @@ Broadcast and social lockups should always include clear links to your Pinterest
   
 To use Pinterest in video, television or film, you must submit a written request to your partner manager at Pinterest. The partner manager needs to review each potential use. Please reach out at least 10 business days in advance to avoid production delays.
 
-![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=2880&h=2880)
+![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Centered lockups are recommended for all social and broadcast formats.
 
@@ -420,7 +420,7 @@ Don’t use “Pin,” “Pinterest” or any variations of “Pinterest” in y
 
 Don’t use any Pinterest marks, logos, graphics or similar variations as part of your logo or branding.
 
-![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=2880&h=2880)
+![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Product depictions
 
@@ -559,7 +559,7 @@ Do not remove the P from the circle.
 
 Do not alter the logo color.
 
-![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=2880&h=2880)
+![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Call to action lockups
 
@@ -622,7 +622,7 @@ Broadcast and social lockups should always include clear links to your Pinterest
   
 To use Pinterest in video, television or film, you must submit a written request to your partner manager at Pinterest. The partner manager needs to review each potential use. Please reach out at least 10 business days in advance to avoid production delays.
 
-![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=2880&h=2880)
+![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Centered lockups are recommended for all social and broadcast formats.
 
@@ -655,7 +655,7 @@ Don’t use “Pin,” “Pinterest” or any variations of “Pinterest” in y
 
 Don’t use any Pinterest marks, logos, graphics or similar variations as part of your logo or branding.
 
-![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=2880&h=2880)
+![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=1680&h=1680)
 
 Product depictions
 
@@ -709,11 +709,11 @@ The basics
 
 Full guidelines
 
-![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=2880&h=2880)
+![The words "Follow on" and a white Pinterest logo circled in red against a white background](//images.ctfassets.net/h67z7i6sbjau/3IT8kwFTrvChka9A4fX1rf/134b22678e0f89c8d1eb2eb05b5410eb/Follow_on_Pinterest.jpg?fm=webp&q=85&w=1680&h=1680)
 
-![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=2880&h=2880)
+![The Pinterest CTA and logo in white and circled in red, center-aligned with a sample account URL against a grey background](//images.ctfassets.net/h67z7i6sbjau/4GwRDgI9anznGjxbjZc6B4/c93dcbd8a81a81cce5e8f493938c8bdd/Broadcast_and_social.jpg?fm=webp&q=85&w=1680&h=1680)
 
-![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=2880&h=2880)
+![A smartphone displaying various images on its screen is centered on a background of iridescent, geometric pillow-like panels. The screen shows a light bulb, a bicycle, a purse, a pair of shoes, and a woman wearing a coat.](//images.ctfassets.net/h67z7i6sbjau/6elVA7N48vDAuE63BQ7dl0/87663e77cc6c1c8afd06d773f0de7152/Product_depiction.jpg?fm=webp&q=85&w=1680&h=1680)
 
 [Pinterest Business](https://business.pinterest.com/)
 
