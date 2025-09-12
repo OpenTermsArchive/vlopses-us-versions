@@ -10,47 +10,47 @@ Snap is committed to assisting law enforcement while respecting the privacy and 
 
 General Information for Law Enforcement
 
-These operational guidelines are provided for law enforcement and governmental officials who are seeking to request Snapchat account records (i.e., Snapchat user data) from Snap. Additional information relating to law enforcement requests can be found in our [Law Enforcement Guide](https://snapchat.com/lawenforcement?lang=en-US), where you'll find details regarding possible availability of Snapchat account records and the type of legal process required to compel disclosure of that data.
+These operational guidelines are provided for law enforcement and governmental officials who are seeking to request Snapchat account records (i.e., Snapchat user data) from Snap. Additional information relating to law enforcement requests can be found in our [Law Enforcement Guide](https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf), where you'll find details regarding possible availability of Snapchat account records and the type of legal process required to compel disclosure of that data.
 
 U.S. Legal Process
 
 As a U.S. company, Snap requires U.S. law enforcement and governmental agencies to follow U.S. law in order for Snap to disclose any Snapchat account records.
 
-Our ability to disclose Snapchat account records is generally governed by the Stored Communications Act, 18 U.S.C. § 2701, et seq. The SCA mandates that we disclose certain Snapchat account records only in response to specific types of legal process, including subpoenas, court orders, and search warrants.
+Our ability to disclose Snapchat account records is generally governed by the Stored Communications Act, 18 U.S.C. § 2701, et seq. The SCA mandates that we disclose certain Snapchat account records only in response to specific types of legal process, including subpoenas, court orders and search warrants.
 
 Non-U.S. Legal Process
 
 Non-U.S. law enforcement and governmental agencies generally must rely on the mechanics of the Mutual Legal Assistance Treaty or letters rogatory processes to request Snapchat account records from Snap. As a courtesy to non-U.S. law enforcement, we will review and respond to properly submitted preservation requests while the MLAT or letters rogatory process is undertaken.
 
-Snap may, at its discretion, provide limited Snapchat account records to law enforcement and governmental agencies outside the U.S. in response to legal process that is duly authorized in the requesting country and that seeks non-content information such as basic subscriber information and IP data.
+Snap may, at its discretion, provide limited Snapchat account records to law enforcement and governmental agencies outside the U.S. in response to legal process that is duly authorised in the requesting country and that seeks non-content information such as basic subscriber information and IP data.
 
 Emergency Disclosure Requests
 
 Consistent with 18 U.S.C. §§ 2702(b)(8) and 2702(c)(4), we are able to voluntarily disclose Snapchat account records when we believe in good faith that an emergency posing a threat of imminent death or serious bodily injury requires the immediate disclosure of such records.
 
-Information for law enforcement regarding how to submit Emergency Disclosure Requests to Snap can be found in our [Law Enforcement Guide](https://help.snapchat.com/hc/en-us?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US). Emergency Disclosure Requests to Snap must be submitted by a sworn law enforcement official and must come from an official law enforcement (or governmental) email domain.
+Information for law enforcement regarding how to submit Emergency Disclosure Requests to Snap can be found in our [Law Enforcement Guide](http://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf). Emergency Disclosure Requests to Snap must be submitted by a sworn law enforcement official and must come from an official law enforcement (or governmental) email domain.
 
 Data Retention Periods
 
-Current information about data retention policies for Snaps, Chats and Stories, as well as other useful information, may be found on our [Support Site](https://support.snapchat.com/?lang=en-US).
+Current information about data retention policies for Snaps, Chats and Stories, as well as other useful information, may be found on our [Support Site](https://support.snapchat.com/?lang=en-GB).
 
 Preservation Requests
 
-We honor formal requests from law enforcement to preserve information in accordance with 18 U.S.C. § 2703(f). Upon receiving such a request, we will attempt to preserve any available Snapchat account records that are associated with any properly identified Snapchat user(s) and that are within the date range specified in the request. We will maintain any such preserved records in an offline file for up to 90 days, and will extend that preservation for one additional 90-day period with a formal extension request. Please see [Section IV of our Law Enforcement Guide](https://snapchat.com/lawenforcement?lang=en-US) for more information on accurately locating a Snapchat account.
+We honour formal requests from law enforcement to preserve information in accordance with 18 U.S.C. § 2703(f). Upon receiving such a request, we will attempt to preserve any available Snapchat account records that are associated with any properly identified Snapchat user(s) and that are within the date range specified in the request. We will maintain any such preserved records in an offline file for up to 90 days, and will extend that preservation for one additional 90-day period with a formal extension request. Please see [Section IV of our Law Enforcement Guide](http://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf) for more information on accurately locating a Snapchat account.
 
 As a courtesy for non-U.S. law enforcement, Snap may, at its discretion, preserve available Snapchat account records for up to a year while the MLAT or letters rogatory process is undertaken. At its discretion, Snap may extend such a preservation for one additional six-month period with a formal extension request.
 
 Child Safety Concerns
 
-In instances where we're made aware of potential child exploitation content on our platform, our Trust & Safety team reviews the allegations and, if appropriate, reports such situations to the National Center for Missing and Exploited Children (NCMEC). NCMEC will then review those reports and coordinate with both global law enforcement agencies.
+In instances where we're made aware of potential child exploitation content on our platform, our Trust & Safety team reviews the allegations and, if appropriate, reports such situations to the National Centre for Missing and Exploited Children (NCMEC). NCMEC will then review those reports and coordinate with both global law enforcement agencies.
 
 User Consent
 
-Snap does not disclose user data based solely on user consent. Users seeking to download their own data may find additional information on our [Support Site](https://values.snap.com/safety/google.com/url?q=https://help.snapchat.com/hc/articles/7012305371156?utm_source%3Dweb%26utm_medium%3Dweb_snap%26utm_campaign%3Ds_ile&sa=D&source=editors&ust=1772745958116412&usg=AOvVaw06xzcLLPcvJ-rt80p731EZ).
+Snap does not disclose user data based solely on user consent. Users seeking to download their own data may find additional information on our [Support Site](https://support.snapchat.com/en-US/a/download-my-data?lang=en-GB).
 
 User Notice Policy
 
-Snap’s policy is to notify our users when we receive legal process seeking disclosure of their records. We recognize two exceptions to this policy. First, we will not notify users of legal process where providing notice is prohibited by a court order issued under 18 U.S.C. § 2705(b) or by other legal authority. Second, where we, in our sole discretion, believe an exceptional circumstance exists — such as cases involving child exploitation, the sale of lethal drugs, or the threat of imminent death or serious bodily injury — we reserve the right to forgo user notice.
+Snap’s policy is to notify our users when we receive legal process seeking disclosure of their records. We recognise two exceptions to this policy. First, we will not notify users of legal process where providing notice is prohibited by a court order issued under 18 U.S.C. § 2705(b) or by other legal authority. Second, where we, in our sole discretion, believe an exceptional circumstance exists — such as cases involving child exploitation, the sale of lethal drugs, or the threat of imminent death or serious bodily injury — we reserve the right to forgo user notice.
 
 Testimony
 
@@ -60,9 +60,9 @@ Snap is unable to provide expert witness testimony or testimony outside the Unit
 
 How to Submit Requests
 
-Law enforcement officials must address their requests to Snap Inc. Please be sure to identify the Snapchat username of the requested Snapchat account. If you are unable to locate a username, we can try — with varying degrees of success — to locate the account with a phone number, email address, or hexadecimal User ID. Please see [Section IV of our Law Enforcement Guide](https://snapchat.com/lawenforcement?lang=en-US) for more information on accurately locating a Snapchat account.
+Law enforcement officials must address their requests to Snap Inc. Please be sure to identify the Snapchat username of the requested Snapchat account. If you are unable to locate a username, we can try — with varying degrees of success — to locate the account with a phone number, email address, or hexadecimal User ID. Please see [Section IV of our Law Enforcement Guide](https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf#page=7) for more information on accurately locating a Snapchat account.
 
-Law enforcement and governmental agencies who have access to Snap’s Law Enforcement Service Site (LESS) should submit legal process and preservation requests to Snap via the LESS portal at: [less.snapchat.com](https://less.snapchat.com/?lang=en-US). In LESS, members of law enforcement and governmental agencies can create an account for the purpose of submitting requests and checking the status of submissions.
+Law enforcement and governmental agencies who have access to Snap’s Law Enforcement Service Site (LESS) should submit legal process and preservation requests to Snap via the LESS portal at: [less.snapchat.com](https://less.snapchat.com/?lang=en-GB). In LESS, members of law enforcement and governmental agencies can create an account for the purpose of submitting requests and checking the status of submissions.
 
 We also accept preservation requests, service of legal process, and general questions from law enforcement via email at **lawenforcement@snapchat.com.**
 
@@ -72,32 +72,32 @@ Requests from Non-Governmental Entities
 
 Please note that the above methods are only appropriate for law enforcement officials.  
 
-If you are contacting Snap on behalf of an entity that is not associated with law enforcement and seeking to serve a criminal defense discovery demand, please note that such legal process must be personally served on Snap or our designated third-party agent (unless issued or domesticated within California). Out-of-state criminal defense discovery demands must be domesticated in California as required by law. If you are seeking to serve a civil discovery demand, please note that Snap does not accept service of such legal process through email; civil discovery demands must be personally served on Snap or our designated third-party agent. Out-of-state civil discovery demands must further be domesticated in California.
+If you are contacting Snap on behalf of an entity that is not associated with law enforcement and seeking to serve a criminal defence discovery demand, please note that such legal process must be personally served on Snap or our designated third-party agent (unless issued or domesticated within California). Out-of-state criminal defence discovery demands must be domesticated in California as required by law. If you are seeking to serve a civil discovery demand, please note that Snap does not accept service of such legal process through email; civil discovery demands must be personally served on Snap or our designated third-party agent. Out-of-state civil discovery demands must further be domesticated in California.
 
 ### 
 
-Law Enforcement and the Snap Community
+Law enforcement and the Snap community
 
-Guidance for Users, Parents, and Educators
+Guidance for users, parents and educators
 
 At Snap, we take our commitment to protecting Snapchatters from misuse of our platform very seriously. As part of that, we work with law enforcement and governmental agencies to promote safety on our platform.
 
-Guidance Around Users' Privacy Concerns
+Guidance around users' privacy concerns
 
 Snap is committed to assisting law enforcement while respecting the privacy and rights of our users. Once we have received and established the validity of a legal request for Snapchat account records, we respond in compliance with applicable law and privacy requirements.
 
-How to Promote Safety
+How to promote safety
 
-While it's true that we value ephemerality, some account information may be retrieved by law enforcement through valid legal process. At times, this could mean assisting law enforcement with preventing illegal activities and actioning accounts for violations of Snap’s Terms of Service. We also assist with exigent situations and imminent threats to life, such as school shooting threats, bomb threats, and missing persons cases.
+While it's true that we value ephemerality, some account information may be retrieved by law enforcement through valid legal process. At times, this could mean assisting law enforcement with preventing illegal activities and actioning accounts for violations of Snap’s Terms of Service. We also assist with exigent situations and imminent threats to life, such as school shooting threats, bomb threats and missing persons cases.
 
 Share with your community how they can report to Snap!
 
-*   In-App Reporting: You can report inappropriate content to us right in the app! Just press and hold on the Snap, then tap the 'Report Snap' button. Let us know what’s going on — we’ll do our best to help!
+*   In-app reporting: You can report inappropriate content to us right in the app! Just press and hold on the Snap, then tap the “Report Snap” button. Let us know what’s going on – we’ll do our best to help!
     
-*   Email Us: You can also email a report to us right through our [Support site](https://help.snapchat.com/hc/en-us/p/5153567363039232-help-topic?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US).
+*   Email Us: You can also email a report to us right through our [Support site](https://support.snapchat.com/i-need-help?start=5153567363039232&lang=en-GB).
     
 
-Requesting Assistance
+Requesting assistance
 
 If you or someone you know is in immediate danger, please contact your local police as soon as possible.
 
@@ -105,7 +105,7 @@ Transparency Report
 
 Snapchat [Transparency Reports](https://values.snap.com/privacy/transparency) are released twice a year. These reports provide important insight into the volume and nature of governmental requests for Snapchatters' account information and other legal notifications.
 
-[Cooperation with Law Enforcement](https://help.snapchat.com/hc/en-us/articles/7012327251348-How-Snap-Inc-Works-with-Law-Enforcement?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US)
+[Cooperation with Law Enforcement](https://support.snapchat.com/article/cooperation-with-law-enforcement?lang=en-GB)
 
 - - -
 
