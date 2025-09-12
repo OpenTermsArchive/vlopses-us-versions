@@ -24,15 +24,15 @@ Requirements to share user information with law enforcement
 
 To respond to your request(s), we’ll need:
 
-* The applicable documents described above
-* The unique username (pinterest.com/\[username\]) and/or email address used to create their Pinterest account
-* A valid return email address from an official government domain
+*   The applicable documents described above
+*   The unique username (pinterest.com/\[username\]) and/or email address used to create their Pinterest account
+*   A valid return email address from an official government domain
 
 In order to ensure your Law Enforcement Request is narrow and does not seek more information than necessary (potentially at additional cost and time), we ask for the following:
 
-* A sufficiently narrow/defined time period
-* A specific event or action that the subject took
-* A specific reference (for example: User URL = https://www.pinterest.com/pinterestpolicy/)
+*   A sufficiently narrow/defined time period
+*   A specific event or action that the subject took
+*   A specific reference (for example: User URL = https://www.pinterest.com/pinterestpolicy/)
 
 Requirements to request preservation of and/or production of user information
 
@@ -46,9 +46,9 @@ User notifications of requests
 
 Our policy is to notify users of Law Enforcement Requests by providing them with a complete copy of the request before producing their information to law enforcement. We may make exceptions to this policy if:
 
-* we are legally prohibited from providing notice (e.g. by an order under 18 U.S.C. § 2705(b))
-* an emergency situation exists involving a danger of death or serious physical harm to a person or place
-* we have reason to believe notice wouldn't go to the actual account holder (e.g. an account has been hijacked or email address is invalid)
+*   we are legally prohibited from providing notice (e.g. by an order under 18 U.S.C. § 2705(b))
+*   an emergency situation exists involving a danger of death or serious physical harm to a person or place
+*   we have reason to believe notice wouldn't go to the actual account holder (e.g. an account has been hijacked or email address is invalid)
 
 If we receive a National Security Letter (NSL) from the U.S. government that includes an indefinite non-disclosure order, our policy is to ask the government to seek judicial review of the order pursuant to the USA FREEDOM Act.
 
@@ -84,9 +84,9 @@ Users on Pinterest have a display name (at the top of their profile) and a uniqu
 
 To find a username:
 
-* On the Pinterest website, go to a user’s profile and find the username in the address bar following “https://pinterest.com/”
-* In the iOS app, go to a user’s profile and tap the flag in the top left corner of the screen. The username will appear in parentheses near the bottom of the screen.
-* In the Android app, go to a user’s profile and tap the flag in the top left corner of the screen. The username will appear in parentheses near the bottom of the screen.
+*   On the Pinterest website, go to a user’s profile and find the username in the address bar following “https://pinterest.com/”
+*   In the iOS app, go to a user’s profile and tap the flag in the top left corner of the screen. The username will appear in parentheses near the bottom of the screen.
+*   In the Android app, go to a user’s profile and tap the flag in the top left corner of the screen. The username will appear in parentheses near the bottom of the screen.
 
 Transparency report
 
@@ -146,13 +146,13 @@ When looking for ideas on Pinterest, you can input a single word or combination 
 
 All Pinterest profiles are public and include certain self-provided information as well as boards, Pins, Tries, followers and the people they're following. The info available on a profile includes:
 
-* Name (required)
-* Username (required)
-* Location (not required)
-* Profile description with a 500 character limit (not required)
-* Website (not required)
-* Profile picture (not required)
-* Facebook or Twitter, if login is linked to these accounts (not required)
+*   Name (required)
+*   Username (required)
+*   Location (not required)
+*   Profile description with a 500 character limit (not required)
+*   Website (not required)
+*   Profile picture (not required)
+*   Facebook or Twitter, if login is linked to these accounts (not required)
 
 We don't require you to provide your real name, nor do we verify your name, age or location.
 
