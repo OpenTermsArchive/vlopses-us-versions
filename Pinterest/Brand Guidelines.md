@@ -11,44 +11,44 @@ The basics
 
 **Pinterest logo**
 
-* Only use the Pinterest badge (please don’t use our wordmark)  
+*   Only use the Pinterest badge (please don’t use our wordmark)  
       
     
-* Always include a call to action when using our badge  
+*   Always include a call to action when using our badge  
     
 
-* Always display your Pinterest account when you use our badge in a non-interactive environment  
+*   Always display your Pinterest account when you use our badge in a non-interactive environment  
       
     
-* Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
+*   Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
     
 
 **Product screens**
 
-* Call out your Pinterest account somewhere within the treatment  
+*   Call out your Pinterest account somewhere within the treatment  
       
     
-* Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
+*   Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
     
 
 **Language**
 
-* Whenever you reference Pinterest, make sure to also reference your Pinterest account  
+*   Whenever you reference Pinterest, make sure to also reference your Pinterest account  
       
     
-* **Acceptable ways to reference your account:**  
+*   **Acceptable ways to reference your account:**  
     Follow us on Pinterest  
     Find us on Pinterest  
       
     
-* **Acceptable language to talk about your Pins:**  
+*   **Acceptable language to talk about your Pins:**  
     Find more ideas on Pinterest  
     Get inspired on Pinterest  
     Popular on Pinterest  
       
     
 
-* **Do not use this language for your Pins:**  
+*   **Do not use this language for your Pins:**  
     Trending on Pinterest  
     Trending Pins
     
@@ -246,44 +246,44 @@ The basics
 
 **Pinterest logo**
 
-* Only use the Pinterest badge (please don’t use our wordmark)  
+*   Only use the Pinterest badge (please don’t use our wordmark)  
       
     
-* Always include a call to action when using our badge  
+*   Always include a call to action when using our badge  
     
 
-* Always display your Pinterest account when you use our badge in a non-interactive environment  
+*   Always display your Pinterest account when you use our badge in a non-interactive environment  
       
     
-* Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
+*   Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
     
 
 **Product screens**
 
-* Call out your Pinterest account somewhere within the treatment  
+*   Call out your Pinterest account somewhere within the treatment  
       
     
-* Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
+*   Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
     
 
 **Language**
 
-* Whenever you reference Pinterest, make sure to also reference your Pinterest account  
+*   Whenever you reference Pinterest, make sure to also reference your Pinterest account  
       
     
-* **Acceptable ways to reference your account:**  
+*   **Acceptable ways to reference your account:**  
     Follow us on Pinterest  
     Find us on Pinterest  
       
     
-* **Acceptable language to talk about your Pins:**  
+*   **Acceptable language to talk about your Pins:**  
     Find more ideas on Pinterest  
     Get inspired on Pinterest  
     Popular on Pinterest  
       
     
 
-* **Do not use this language for your Pins:**  
+*   **Do not use this language for your Pins:**  
     Trending on Pinterest  
     Trending Pins
     
@@ -481,44 +481,44 @@ The basics
 
 **Pinterest logo**
 
-* Only use the Pinterest badge (please don’t use our wordmark)  
+*   Only use the Pinterest badge (please don’t use our wordmark)  
       
     
-* Always include a call to action when using our badge  
+*   Always include a call to action when using our badge  
     
 
-* Always display your Pinterest account when you use our badge in a non-interactive environment  
+*   Always display your Pinterest account when you use our badge in a non-interactive environment  
       
     
-* Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
+*   Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
     
 
 **Product screens**
 
-* Call out your Pinterest account somewhere within the treatment  
+*   Call out your Pinterest account somewhere within the treatment  
       
     
-* Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
+*   Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
     
 
 **Language**
 
-* Whenever you reference Pinterest, make sure to also reference your Pinterest account  
+*   Whenever you reference Pinterest, make sure to also reference your Pinterest account  
       
     
-* **Acceptable ways to reference your account:**  
+*   **Acceptable ways to reference your account:**  
     Follow us on Pinterest  
     Find us on Pinterest  
       
     
-* **Acceptable language to talk about your Pins:**  
+*   **Acceptable language to talk about your Pins:**  
     Find more ideas on Pinterest  
     Get inspired on Pinterest  
     Popular on Pinterest  
       
     
 
-* **Do not use this language for your Pins:**  
+*   **Do not use this language for your Pins:**  
     Trending on Pinterest  
     Trending Pins
     
@@ -719,11 +719,11 @@ Full guidelines
 
 [**Business**](https://business.pinterest.com/)
 
-* [About Pinterest](https://business.pinterest.com/brand-guidelines/)
-* [Create content](https://business.pinterest.com/brand-guidelines/)
-* [Advertise](https://business.pinterest.com/brand-guidelines/)
-* [News + insights](https://business.pinterest.com/brand-guidelines/)
-* [Resources](https://business.pinterest.com/brand-guidelines/)
+*   [About Pinterest](https://business.pinterest.com/brand-guidelines/)
+*   [Create content](https://business.pinterest.com/brand-guidelines/)
+*   [Advertise](https://business.pinterest.com/brand-guidelines/)
+*   [News + insights](https://business.pinterest.com/brand-guidelines/)
+*   [Resources](https://business.pinterest.com/brand-guidelines/)
 
 [Log in](https://www.pinterest.com/login/?next=https://business.pinterest.com)
 
@@ -755,26 +755,26 @@ Fill out trademark complaint form
 
 If you'd prefer not to use this form, please send the following information to [trademark@pinterest.com](mailto:trademark@pinterest.com):
 
-* Your full legal name and your electronic or physical signature (for example, by typing your full name).
-* Identification of the trademark(s) you believe are infringed (e.g., provide a trademark registration number or materials demonstrating common law trademark rights).
-* The content on Pinterest you claim to be infringing your rights, including the information we need to help us find it, like the URL to the content (Pin, board or account) on Pinterest.
-* Explanation of why you believe the reported content infringes your trademark rights.
-* A declaration that:
-    * You have a good faith belief that use of the trademarks described in your report infringes your trademark(s) or the trademark(s) of an owner you represent.
-    * You represent that the information in your report is true and correct.
-    * Under penalty of perjury, you own the trademark(s) allegedly infringed, or are expressly authorized to act on the owner’s behalf.
-    * You understand that a copy of the report may be sent to the user responsible for the content reported.
-* Your mailing address, phone number, and email address.
+*   Your full legal name and your electronic or physical signature (for example, by typing your full name).
+*   Identification of the trademark(s) you believe are infringed (e.g., provide a trademark registration number or materials demonstrating common law trademark rights).
+*   The content on Pinterest you claim to be infringing your rights, including the information we need to help us find it, like the URL to the content (Pin, board or account) on Pinterest.
+*   Explanation of why you believe the reported content infringes your trademark rights.
+*   A declaration that:
+    *   You have a good faith belief that use of the trademarks described in your report infringes your trademark(s) or the trademark(s) of an owner you represent.
+    *   You represent that the information in your report is true and correct.
+    *   Under penalty of perjury, you own the trademark(s) allegedly infringed, or are expressly authorized to act on the owner’s behalf.
+    *   You understand that a copy of the report may be sent to the user responsible for the content reported.
+*   Your mailing address, phone number, and email address.
 
 Appeal a Trademark Infringement Report
 ======================================
 
 If you believe a Pin was removed in error, or that the trademark owner was mistaken in some respect (e.g., you contend your Pin does not infringe the reporter’s trademark rights, or the reporter does not own the trademark), you may contest the report by emailing [trademark@pinterest.com](mailto:trademark@pinterest.com). To submit an appeal, please provide:
 
-* A statement explaining that you have a good faith belief that your use of the trademark is non-infringing and the basis for that belief
-* A statement that you understand that a copy of the appeal may be sent to the current account holder(s) impacted by your appeal
-* Your name, address, and telephone number
-* A statement that the information in your appeal is accurate  
+*   A statement explaining that you have a good faith belief that your use of the trademark is non-infringing and the basis for that belief
+*   A statement that you understand that a copy of the appeal may be sent to the current account holder(s) impacted by your appeal
+*   Your name, address, and telephone number
+*   A statement that the information in your appeal is accurate  
       
     
 
