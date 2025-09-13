@@ -152,6 +152,8 @@ You agree to comply with all applicable laws and regulations in relation to expo
 
 You agree that TikTok may use your name, logo(s), or other identifying information or image in case studies, testimonials, examples, and to showcase your use of our TikTok Developer Services in general. You may not make any public statement regarding your relationship with TikTok or access to the TikTok Developer Services without TikTok’s prior written consent.
 
+- - -
+
 TikTok Developer Data Sharing Agreement
 
 _These terms apply with effect from: Mar 5, 2024_
@@ -385,6 +387,8 @@ Subprocessing information: Access of TikTok Developer Services Data by third par
 ---------------------------
 
 You agree to implement appropriate technical and organisational measures to ensure the security of the TikTok Developer Services Data, including protection against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access. At a minimum such measures, shall include all measures set out in Your Developer Agreement.
+
+- - -
 
 **New:** Content Posting API now supports [posting photos](https://developers.tiktok.com/doc/content-posting-api-reference-photo-post)!
 
