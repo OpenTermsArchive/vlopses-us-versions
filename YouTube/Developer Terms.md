@@ -281,6 +281,8 @@ Thank you for your interest in the YouTube API Services. The YouTube API Service
     
     25.13 **Translations.** Any local language translation (where applicable) exists for reference purposes only, and only the English version will be legally binding. If there is any inconsistency between the two versions, the English version shall control.
 
+- - -
+
 YouTube API Services - Developer Policies
 =========================================
 
@@ -796,6 +798,8 @@ IV. Definitions
 
 "**YouTube Brand Features**" means the trade names, trademarks, service marks, logos, domain names, and other distinctive brand features of YouTube.
 
+- - -
+
 YouTube API Services - Required Minimum Functionality
 =====================================================
 
@@ -1019,6 +1023,8 @@ Banning a user from live chat (or removing a ban)
 | **Other requirements** |     |     |
 |     | Comment author's channel name | **Required**. The API client must clearly identify the YouTube user account being used to add or remove the ban. |
 
+- - -
+
 YouTube API Services - Subject API Services
 ===========================================
 
@@ -1102,6 +1108,8 @@ The following API services are fully deprecated. They were subject to the deprec
 
 * [Deprecation announcement](http://youtube-eng.blogspot.com/2015/01/youtube-now-defaults-to-html5_27.html) (January 27, 2015)
 * Migration path: [IFrame Player API](https://developers.google.com/youtube/iframe_api_reference)
+
+- - -
 
 YouTube API Services Terms of Service - Revision History
 ========================================================
