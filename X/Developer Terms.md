@@ -210,6 +210,8 @@ If you are a federal, state, or local government entity in the United States usi
 
 [**Subscribe to developer news**](https://developer.x.com/twitterdev-news-subscription)
 
+- - -
+
 **Developer terms**
 
 Developer Policy
@@ -616,6 +618,8 @@ The following additional rules apply for any use of the X services or features l
     
 9. **X Applications** ‒ X’s consumer facing products, services, applications, websites, web pages, platforms, and other offerings, including without limitation, those offered via [https://x.com](https://x.com/) and X's mobile applications.
 
+- - -
+
 **Developer terms**
 
 More about restricted uses of the X APIs
@@ -733,6 +737,8 @@ For additional information for law enforcement authorities seeking information a
 
 In addition, at this time, X prohibits any use of the X APIs and/or X Content to fine-tune or train a foundation or frontier model with the exception of [Grok](https://help.x.com/en/using-x/about-grok).
 
+- - -
+
 **Developer terms**
 
 Geo guidelines
@@ -792,6 +798,8 @@ Summary
 The addition of location to a post adds an enormous amount of context and value from a user perspective. However, implementations of location in your client should be careful to take privacy and user transparency as a key consideration in designing a location-focused product.
 
 If you have any questions or comments about privacy, location, and other geo features, please [contact us.](https://support.twitter.com/forms/platform)
+
+- - -
 
 **Developer terms**
 
@@ -1163,6 +1171,8 @@ The X Marketing Partner Program Terms set forth below, including, without limita
 
 **8. Modifications.** X reserves the rights, exercisable at its sole discretion, to modify the terms and conditions of these TMP Partner Terms and/or the Badges at any time and to take appropriate action against any unauthorized or non-conforming use of the Badges. If Company has any questions about usage of the Badges, please contact [\[email protected\]](https://developer.x.com/cdn-cgi/l/email-protection) for assistance, or write to us at: X Corp., Attention: Legal Department, 865 FM 1209, Building 2, Bastrop, TX 78602, USA.
 
+- - -
+
 **Developer terms**
 
 Display requirements: Posts
@@ -1296,6 +1306,8 @@ Make sure to include a reference to X when mentioning X usernames. For example, 
 ### Hashtags  
 
 Make sure to include a reference to X when mentioning X hashtags. For example, “Use the hashtag ‘election2016’ on X” or “The hashtag for this broadcast on X is bbcaq”.
+
+- - -
 
 **Developer terms**
 
