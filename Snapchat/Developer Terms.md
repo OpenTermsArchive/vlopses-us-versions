@@ -75,9 +75,9 @@ c. You acknowledge and agree that Snap may be independently creating application
 
 The terms set forth below are Supplemental Terms and Policies and are incorporated by reference into these Snap Developer Terms if you use the Business Services for the purposes specified in those terms:
 
-* If you use the Business Services to access Snap’s business tools to access and use certain Business Services, then you agree to the [Snap Business Tools Terms](https://www.snap.com/terms/snap-business-tools).
+*   If you use the Business Services to access Snap’s business tools to access and use certain Business Services, then you agree to the [Snap Business Tools Terms](https://www.snap.com/terms/snap-business-tools).
     
-* If you use the Business Services to integrate your Application with Bitmoji then you agree to the [Bitmoji for Partners Terms](https://www.snap.com/terms/bitmoji-for-partners). 
+*   If you use the Business Services to integrate your Application with Bitmoji then you agree to the [Bitmoji for Partners Terms](https://www.snap.com/terms/bitmoji-for-partners). 
     
 
 Other Business Services may also be governed by Supplemental Terms and Policies, which will be made available to you when you elect to use those specific Business Services, and those Supplemental Terms and Policies are incorporated by reference into these Snap Developer Terms when you accept them.
