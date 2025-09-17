@@ -89,6 +89,8 @@ You can turn on the content disclosure setting before or after you post your con
 4\. Turn the **Disclose post content** setting on, then select whether you're promoting **Your brand** or **Branded content**.  
 5\. Adjust other settings, then click **Post**.
 
+- - -
+
 When you post content that promotes a brand, product, or service, we recommend that you only use music from our [Commercial Music Library (CML)](https://ads.tiktok.com/business/creativecenter/music/pc/en), as it's pre-cleared for commercial use. The licenses we hold for music outside of the CML don't cover the commercial use of music in content.  
   
 If you decide to use an original sound or music from outside of our CML, you must agree to our Music Usage Confirmation when the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service#5) is turned on. This confirms that there's no copyright-protected music in the post, or that you've obtained and paid for all necessary licenses to use the music.  
