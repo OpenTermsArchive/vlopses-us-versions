@@ -481,6 +481,8 @@ You can also contact our [Data Protection Officer](https://help.pinterest.com/da
 
 Effective date: April 30, 2025
 
+- - -
+
 Information about Call Recordings
 
 
@@ -563,6 +565,8 @@ Contact Us
 ==========
 
 To ask any questions related to this Notice, or if you would like to exercise your rights, please reach out through our [Help Center](https://help.pinterest.com/contact). If you are located in the EU or UK, you can also submit an inquiry or complaint to Pinterest’s Data Protection Officer, available through the [Data Protection Officer Contact Form](https://help.pinterest.com/data-protection-officer-contact-form). You also have the right to lodge a complaint with the competent data protection supervisory authority. In the EU this is the Irish Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963, Ireland.
+
+- - -
 
 Non-User Notice
 
