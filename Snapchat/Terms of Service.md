@@ -737,6 +737,8 @@ Legal
     
     English (US)
 
+- - -
+
 Snap Paid Features Terms
 
 
@@ -1014,6 +1016,8 @@ Legal
     
     English (US)
 
+- - -
+
 My Selfie Terms
 
 
@@ -1139,6 +1143,8 @@ Legal
     
     English (US)
 
+- - -
+
 Public Content Display Terms
 
 
@@ -1225,6 +1231,8 @@ Legal
 * Language
     
     English (US)
+
+- - -
 
 If you live in the United States, you are agreeing to the [Community Geofilter Terms and Conditions](https://www.snap.com/terms/create-geofilter?lang=en-US#terms-and-conditions) with Snap Inc.
 
@@ -1422,6 +1430,8 @@ Legal
 * Language
     
     English (US)
+
+- - -
 
 **PLEASE NOTE: WE’VE UPDATED THESE LENS STUDIO TERMS, EFFECTIVE SEPTEMBER 16, 2024. YOU CAN VIEW THE PRIOR LENS STUDIO TERMS, WHICH APPLY TO ALL USERS UNTIL SEPTEMBER 16, 2024,** [**HERE**](https://www.snap.com/terms/lens-studio-terms-10-26-18?lang=en-US)**.**
 
