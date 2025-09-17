@@ -56,6 +56,8 @@ We empower uploaders to report wrongful takedown requests, and we measure how of
 
 Of the more than 1 billion Content ID claims made between July 2023 and December 2023, fewer than 1% have been disputed. Over 65% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim’s release. ([Source](https://transparencyreport.google.com/youtube-copyright/intro))
 
+- - -
+
 Submit a copyright counter notification
 =======================================
 
@@ -195,6 +197,8 @@ Yes, if multiple videos belong to the same copyright strike and you believe they
 If my channel is terminated, can I submit a counter notification?
 
 Yes. You’ll need to submit by [email, fax, or mail](https://support.google.com/youtube/answer/2807684#email) since you don’t have access to YouTube Studio.
+
+- - -
 
 Dispute a Content ID claim
 ==========================
