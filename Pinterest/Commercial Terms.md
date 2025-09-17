@@ -92,6 +92,8 @@ We may remove, limit or block the distribution of content or accounts that viola
 
 Last updated: April 2025
 
+- - -
+
 Merchant guidelines enforcement
 ===============================
 
@@ -104,6 +106,8 @@ When we become aware of a violation of our Merchant guidelines, we’ll take act
 * **Merchant rejection**: If a merchant is rejected at any time, they are denied access to Pinterest’s merchant products.
 
 You can read our full Merchant guidelines [here](https://policy.pinterest.com/merchant-guidelines).
+
+- - -
 
 Advertising guidelines
 
@@ -1477,6 +1481,8 @@ Keep in mind...
 You need to make sure your ads follow our standard ad guidelines and any country-specific guidelines. You need to follow all applicable local laws, regulations and industry codes, and obtain any necessary permits or permissions for any area your ads will be shown in. Pinterest reserves the right to request these permits/permissions should we require them. You must also follow our community guidelines, terms and the above advertising guidelines, including our targeting guidelines. These advertising guidelines apply to all parts of your promoted content, including the image, description and destination—and they also apply to targeting features like keyword and audience targeting.
 
 We reserve the right to reject or remove any ad that negatively affects our relationship with people on Pinterest or that goes against our interests. We may also remove ads, categories of ads, or advertisers that get lots of negative feedback from people on Pinterest. These rules may change at any time.
+
+- - -
 
 Advertising guidelines enforcement
 ==================================
