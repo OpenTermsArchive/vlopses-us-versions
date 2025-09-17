@@ -135,6 +135,8 @@ Sexual Content
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-US)
 
+- - -
+
 ### 
 
 Severe Harm
@@ -158,6 +160,8 @@ When we identify Snapchatters engaging in any of the following activities, we im
 In addition to enforcing stricter consequences for these violations, our internal teams are continually working with experts to better understand how we can detect and limit threats, prevent harm, and stay informed of potentially harmful trends. Our work on this topic is never finished and it will continue to evolve with the needs of our community. We invite you to [report a safety concern](https://values.snap.com/safety/safety-reporting?lang=en-US), visit our [Safety Center](https://values.snap.com/safety/safety-center?lang=en-US), or learn more about our [efforts to address harmful content and promote wellness](https://values.snap.com/news?lang=en-US).
 
 [Back to Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US)
+
+- - -
 
 Community Guidelines
 
@@ -222,6 +226,8 @@ Hateful Content, Terrorism, and Violent Extremism
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-US)
 
+- - -
+
 Community Guidelines
 
 Illegal or Regulated Activities
@@ -275,6 +281,8 @@ Harmful False or Deceptive Practices
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-US)
 
+- - -
+
 Community Guidelines
 
 Hateful Content, Terrorism, and Violent Extremism
@@ -325,6 +333,8 @@ Harassment and Bullying
 ---------------------------
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/harassment-bullying?lang=en-US)
+
+- - -
 
 Community Guidelines
 
@@ -378,6 +388,8 @@ Illegal or Regulated Activities
 -----------------------------------
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-US)
+
+- - -
 
 Community Guidelines
 
@@ -434,6 +446,8 @@ Up Next: Threats, Violence, & Harm
 --------------------------------------
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/threats-violence-harm?lang=en-US)
+
+- - -
 
 Community Guidelines
 
