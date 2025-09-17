@@ -72,6 +72,8 @@ Content that’s meant to praise, promote, or aid violent extremist or criminal 
 
 We’re also a founding member of the Global Internet Forum to Counter Terrorism [(GIFCT)](https://gifct.org/), where we work with other tech companies to keep terrorist content off the web — and provide training and other resources to smaller companies facing similar challenges.
 
+- - -
+
 Appeal a Community Guidelines strike or video removal
 =====================================================
 
@@ -137,6 +139,8 @@ You'll get an email from YouTube letting you know the result of your appeal requ
 
 You may appeal each strike only once.
 
+- - -
+
 YouTube's Community Guidelines
 ==============================
 
@@ -164,6 +168,8 @@ Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkR
 Get creator tips for [YouTube policies and guidelines](https://support.google.com/youtube/answer/10767342).
 
 _**Please take these rules seriously**. If a YouTube creator’s on- and/or off-platform behavior harms our users, community, employees or ecosystem, we may respond based on a number of factors including, but not limited to, the egregiousness of their actions and whether a pattern of harmful behavior exists. Our response will range from suspending a creator’s privileges to account termination._
+
+- - -
 
 Spam, deceptive practices, & scams policies
 ===========================================
@@ -276,6 +282,8 @@ You can take an optional policy training to allow the warning to expire after 90
 
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strike system](https://support.google.com/youtube/answer/2802032).
 
+- - -
+
 Impersonation policy
 ====================
 
@@ -317,6 +325,8 @@ What happens if content violates this policy
 --------------------------------------------
 
 If your content violates this policy, we may terminate your channel or account. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 External links policy
 =====================
@@ -371,6 +381,8 @@ If this is your first time violating our Community Guidelines, you'll likely get
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Fake engagement policy
 ======================
@@ -441,6 +453,8 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
+- - -
+
 Playlists policy
 ================
 
@@ -490,6 +504,8 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
+- - -
+
 Additional policies
 ===================
 
@@ -509,6 +525,8 @@ Age requirements on Google products
 -----------------------------------
 
 We may ask you to confirm your age if we think that you are not old enough to use YouTube. You can learn more about this process [here](https://support.google.com/accounts/answer/1333913).
+
+- - -
 
 Nudity & Sexual Content Policy
 ==============================
@@ -612,6 +630,8 @@ We may terminate your channel or account for repeated violations of the Communit
 
 If your content contains pornography, we may terminate your channel.
 
+- - -
+
 Thumbnails policy
 =================
 
@@ -658,6 +678,8 @@ If your thumbnail contains pornography, we may terminate your channel. If your t
 If you get three strikes in 90 days or your channel is dedicated to violative content, your channel may be terminated. Learn more about our [strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Child safety policy
 ===================
@@ -792,6 +814,8 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
 We have zero tolerance for predatory behavior on YouTube. If we think a child is in danger based on reported content, we’ll help law enforcement investigate the content.
+
+- - -
 
 ​Suicide, self-harm, and eating disorders policy
 ================================================
@@ -957,6 +981,8 @@ YouTube may show features or resources to users when content contains suicide or
 * A warning on your video before it starts playing, indicating that it contains content relating to suicide and self-harm
 * A [panel](https://support.google.com/youtube/answer/10726080) under the video containing supportive resources such as phone numbers of suicide prevention organizations
 
+- - -
+
 Vulgar language policy
 ======================
 
@@ -1003,6 +1029,8 @@ If this is your first time violating our Community Guidelines, you'll likely get
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Harmful or dangerous content policy
 ===================================
@@ -1181,6 +1209,8 @@ We may terminate your channel or account for repeated violations of the Communit
 
 Familiarize yourself with the rest of our [Community Guidelines](https://support.google.com/youtube/answer/9288567).
 
+- - -
+
 Violent or graphic content policies
 ===================================
 
@@ -1305,6 +1335,8 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
+- - -
+
 Violent extremist or criminal organizations policy
 ==================================================
 
@@ -1368,6 +1400,8 @@ If you get 3 strikes within 90 days, your channel may be terminated. You can lea
 Violations may result in monetization being disabled on any of your accounts in accordance with our [YouTube channel monetization policies](https://support.google.com/youtube/answer/1311392). This can include warnings. If you feel this is a mistake, you can appeal. If the violation is overturned, you can apply for monetization once you're eligible in YouTube Studio.
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Hate speech policy
 ==================
@@ -1470,6 +1504,8 @@ We may terminate your channel or account for repeated violations of the Communit
 * [The importance of context](https://support.google.com/youtube/answer/6345162)
 * [Recent transparency report](https://transparencyreport.google.com/youtube-policy/removals)
 
+- - -
+
 Harassment & cyberbullying policies
 ===================================
 
@@ -1568,6 +1604,8 @@ If this is your first time violating our Community Guidelines, you'll likely get
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Illegal or regulated goods or services policies
 ===============================================
@@ -1686,6 +1724,8 @@ If you get 3 strikes within 90 days, your channel may be terminated. Learn more 
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
 
+- - -
+
 Firearms policy
 ===============
 
@@ -1764,6 +1804,8 @@ We may terminate your channel or account for repeated violations of the Communit
 
 If you find content that violates this policy, report it. Instructions for reporting violations of our Community Guidelines [are available here](https://support.google.com/youtube/answer/2802027). If you've found a few videos or comments that you would like to report, you can [report the channel](https://support.google.com/youtube/answer/2802027#report_channel).
 
+- - -
+
 Misinformation policies
 =======================
 
@@ -1822,6 +1864,8 @@ If this is your first time violating our Community Guidelines, you’ll likely g
 If you get 3 strikes within 90 days, your channel may be terminated. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Elections misinformation policies
 =================================
@@ -1896,6 +1940,8 @@ If this is your first time violating our Community Guidelines, you'll likely get
 If you get 3 strikes within 90 days, your channel may be terminated. Learn more about [our strikes system](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. We may prevent repeat offenders from taking policy trainings in the future. Learn more about [channel or account terminations](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 Medical misinformation policy
 =============================
@@ -2045,6 +2091,8 @@ If your content violates this policy, we’ll remove the content and send you an
 If this is your first time violating our Community Guidelines, you'll likely get a warning with no penalty to your channel. You will have the option to take a policy training to allow the warning to expire after 90 days. The 90 day period starts from when the training is completed, not when the warning is issued. However, if the same policy is violated within that 90 day window, the warning will not expire and your channel will be given a strike. If you violate a different policy after completing the training, you will get another warning. You can learn more about [our strikes system here](https://support.google.com/youtube/answer/2802032).
 
 We may terminate your channel or account for repeated violations of the Community Guidelines or Terms of Service. We may also terminate your channel or account after a single case of severe abuse, or when the channel is dedicated to a policy violation. You can learn more about [channel or account terminations here](https://support.google.com/youtube/answer/2802168).
+
+- - -
 
 How YouTube evaluates Educational, Documentary, Scientific & Artistic (EDSA) content
 ====================================================================================
