@@ -195,6 +195,8 @@ Questions, comments and requests regarding this Privacy Policy should be address
 * Contact us: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy)
 * Mailing Address: TikTok Inc., Attn: Privacy Policy Inquiry, 5800 Bristol Parkway, Suite 100, Culver City, CA 90230
 
+- - -
+
 Children's Privacy Policy
 
 _Last updated: October 1, 2024_
