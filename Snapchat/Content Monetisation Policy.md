@@ -114,6 +114,8 @@ You frequently publish inauthentic content that misleads people (even if the sub
     
 * “Reaction” content that does not actually include a reaction, is not related to the video being reacted to, or tries to obscure the reaction
 
+- - -
+
 **These Snap Monetization Terms replace and supersede the** [**Creator Stories Terms**](https://www.snap.com/terms/creator-stories)**, effective as of February 1, 2025, if previously accepted by you.**
 
 Snap Monetization Terms
