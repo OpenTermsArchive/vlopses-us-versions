@@ -729,6 +729,8 @@ Full guidelines
 
 [Sign up](https://www.pinterest.com/business/create)
 
+- - -
+
 Trademark
 
 
