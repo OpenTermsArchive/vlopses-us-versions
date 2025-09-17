@@ -109,6 +109,8 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [spam content policies](https://www.linkedin.com/help/linkedin/answer/137372).
 
+- - -
+
 How we enforce our Professional Community Policies
 --------------------------------------------------
 
@@ -125,6 +127,8 @@ Content that would normally violate the letter of our policies may be allowed in
 ### Tagged in
 
 * [Data and Privacy](https://www.linkedin.com/help/linkedin/topic/a65)
+
+- - -
 
 Harassment and abusive content
 ------------------------------
@@ -152,6 +156,8 @@ We do allow for disagreements, commentary or criticism on policies and matters o
 We also allow members to call out the harassing, hateful, or otherwise abusive conduct of others, so long as the focus remains on driving objective awareness to the behavior, rather than personally attacking or inciting harassment against those individuals. Content that negatively targets others on the basis of inherent traits is enforced under our [Hateful and Derogatory Content](https://www.linkedin.com/help/linkedin/answer/137378) policies.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Violent and graphic content
 ---------------------------
@@ -184,6 +190,8 @@ We also recognize that graphic content or content that may otherwise be sensitiv
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Illegal, dangerous, and inappropriate commercial activity
 ---------------------------------------------------------
 
@@ -215,6 +223,8 @@ Examples of illegal, dangerous, and inappropriate commercial content
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Dangerous organizations and individuals
 ---------------------------------------
 
@@ -239,6 +249,8 @@ Examples of dangerous organizations and individuals content types
 Depictions of terrorist or violent extremist acts can sometimes raise awareness or condemn and there are instances when the context indicates that it was shared for one or both of those purposes. We won’t penalize members for posting content in these circumstances, but we may take steps to label and obscure such content to protect other members who may not wish to see it.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 False or misleading content
 ---------------------------
@@ -285,6 +297,8 @@ In some cases, synthetic or manipulated media may be shared for artistic or humo
 
 To learn more about when we remove content that violates our Professional Community Policies, see [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Scams and fraud content
 -----------------------
 
@@ -310,6 +324,8 @@ Examples of scams and fraud
 We allow members to raise awareness and educate others about scams, as well as condemn fraudulent activities. However, we’ll remove such content when it contains sensitive information, such as personally identifiable information, or functional phishing, malware, or scam links.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Hateful and derogatory content
 ------------------------------
@@ -337,6 +353,8 @@ We also allow members to call out actual or perceived hateful, prejudicial, or d
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Sexual innuendos and unwanted advances
 --------------------------------------
 
@@ -359,6 +377,8 @@ Examples of sexual innuendos and unwanted advances
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
 
+- - -
+
 Nudity and adult content
 ------------------------
 
@@ -378,6 +398,8 @@ Examples of nudity and adult content
 Do not share material depicting nudity or sexual activity. We don’t allow content that depicts exposed human genitalia, female breasts, and/or human buttocks. We also don’t allow content that depicts, describes, or facilitates access to sexually gratifying material. Content that depicts sexual activity is prohibited. Instances of Adult nudity that align with topics relevant to professional conversations on LinkedIn may be allowed when not gratuitous.
 
 Learn more about [how we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368).
+
+- - -
 
 Spam
 ----
