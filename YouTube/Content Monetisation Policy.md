@@ -238,6 +238,8 @@ Whether you're facing a specific problem or you want to find out how to get the 
 
 You can find more detailed instructions to [contact Creator Support](https://support.google.com/youtube/answer/3545535) and how to [get help as a YouTube Creator](https://support.google.com/youtube/answer/6249136).
 
+- - -
+
 YouTube Shorts monetization policies
 ====================================
 
@@ -389,6 +391,8 @@ YouTube Analytics will also start displaying estimated daily Shorts Feed ad reve
 
 If you no longer want to monetize your channel’s Shorts views with ads, you can opt out of the Shorts Monetization Module by contacting [Creator Support](https://support.google.com/youtube/gethelp).
 
+- - -
+
 YouTube Commerce Products monetization policies
 ===============================================
 
@@ -458,6 +462,8 @@ Super Chat and Super Stickers are ways to connect fans with creators, during liv
 ### Super Thanks
 
 Super Thanks lets creators earn revenue from viewers who want to show extra gratitude for their videos. Fans can buy a one-time animation and get to post a distinct, colorful, and customizable comment in the video’s comment section. Learn how to [turn on and manage Super Thanks](https://support.google.com/youtube/answer/10878910).
+
+- - -
 
 Virtual Items Program Policies for Creators
 ===========================================
