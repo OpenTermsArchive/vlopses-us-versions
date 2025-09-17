@@ -272,6 +272,8 @@ Contact Us
 
 Have any questions about the information here or wish to contact our Data Protection Officer (DPO)? You can contact us [here](https://help.snapchat.com/hc/requests/new?lang=en-US).
 
+- - -
+
 ### 
 
 U.S. State Privacy Notice
@@ -424,6 +426,8 @@ Contact Us
 
 If you have any questions about the information in this Notice or would like to contact us to submit a rights request, you can contact us via [this form](https://help.snapchat.com/hc/requests/new?start=5749439348080640&lang=en-US) or email us at privacy @ snap.com.
 
+- - -
+
 ### 
 
 Consumer Health Data Privacy Policy
@@ -497,6 +501,8 @@ Depending on the state in which you reside, you may have certain rights with res
 If we obtain your consent for a particular processing purpose, you may withdraw your consent at any time. You may also opt out of location sharing at any time though the settings on your mobile device. 
 
 If your request to exercise a right is denied, you may appeal that decision by [contacting us](https://help.snapchat.com/hc/requests/new?lang=en-US). If your appeal is unsuccessful and you are a Washington State resident, you can raise a concern or lodge a complaint with the [Washington Attorney General](https://www.atg.wa.gov/file-complaint?lang=en-US).
+
+- - -
 
 ### 
 
@@ -631,6 +637,8 @@ Ads that are displayed in My AI work a bit differently from other ads on Snapcha
 Sponsored Snaps
 
 Ads may appear in your Chat feed. These “Sponsored Snaps” will be labeled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they **do not** rely on your private communications between friends — we do not use the contents of private communications you send to your friends to personalize your experience, make recommendations, or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalized ads on Snapchat, as described on this page.
+
+- - -
 
 ### 
 
@@ -910,6 +918,8 @@ Cameos
 Cameos lets you be the star in your own short, looping videos. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimized.
 
 You control your selfie and can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
+
+- - -
 
 ### 
 
