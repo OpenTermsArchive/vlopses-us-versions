@@ -10,12 +10,12 @@ Here you’ll find the building blocks for our brand. Please make sure to follow
 
 Any inclusion of the YouTube brand in the following use cases must be approved via the form below:
 
-* Devices or retail packaging
-* Entertainment and media
-* Print or out-of-home advertising (larger than A4 Size)
-* Commercial advertisements
-* Educational resources or textbooks
-* Books and magazines
+*   Devices or retail packaging
+*   Entertainment and media
+*   Print or out-of-home advertising (larger than A4 Size)
+*   Commercial advertisements
+*   Educational resources or textbooks
+*   Books and magazines
 
 YouTube reserves the right to object to any inappropriate uses of its trademarks and to enforce its rights at any time.
 
@@ -208,26 +208,26 @@ To promote your YouTube Channel please see the **Promoting Your Channel** tab
 Do
 --
 
-* Use only the badge design provided by YouTube.
-* Only use the YouTube Podcast Badge if your podcast content appears on YouTube.
-* For digital assets, use the scalable vector format or SVG.
-* For printed assets, be sure to use the artwork in the EPS format and match the color profile with the needs of your printer.
-* Use only one badge on your website/social/etc.
-* Place the badge below or to the right of the images and copy promoting your content.
-* Keep the badge smaller than the other images and main message. Don’t make it the dominant artwork.
-* Minimum clear space around the badge should be at least one-tenth the height of the badge.
+*   Use only the badge design provided by YouTube.
+*   Only use the YouTube Podcast Badge if your podcast content appears on YouTube.
+*   For digital assets, use the scalable vector format or SVG.
+*   For printed assets, be sure to use the artwork in the EPS format and match the color profile with the needs of your printer.
+*   Use only one badge on your website/social/etc.
+*   Place the badge below or to the right of the images and copy promoting your content.
+*   Keep the badge smaller than the other images and main message. Don’t make it the dominant artwork.
+*   Minimum clear space around the badge should be at least one-tenth the height of the badge.
 
 Don’t
 -----
 
-* Do not alter the YouTube-provided badge artwork in any way.
-* Do not eliminate the Listen on call-to-action message.
-* Do not modify, angle, animate, rotate, or tilt the badge.
-* Do not apply special effects such as shadows or glows to the badge.
-* Do not alter the artwork in any way.
-* Do not use any other icons, logos, or graphics from the YouTube website or from YouTube apps.
-* Do not imitate YouTube communications.
-* Do not use the YouTube logo alone (unless you have requested and received special approval).
+*   Do not alter the YouTube-provided badge artwork in any way.
+*   Do not eliminate the Listen on call-to-action message.
+*   Do not modify, angle, animate, rotate, or tilt the badge.
+*   Do not apply special effects such as shadows or glows to the badge.
+*   Do not alter the artwork in any way.
+*   Do not use any other icons, logos, or graphics from the YouTube website or from YouTube apps.
+*   Do not imitate YouTube communications.
+*   Do not use the YouTube logo alone (unless you have requested and received special approval).
 
 Naming and Third Party Content
 ------------------------------
@@ -238,21 +238,21 @@ Using the word “YouTuber”
 Guidelines for creators
 -----------------------
 
-* We love that so many creators like to call themselves YouTubers. We just ask that “YouTuber” or “Tuber” is only used when talking about a person creating and uploading original video or music content to YouTube.
-* We also want to keep "YouTuber" casual. That way everyone can use it. So please don’t use “YouTuber” or “Tuber” in official names of things like video series, books, and programs, or register domains, channel names, or trademarks that include those words. This’ll help us protect the YouTube trademark for the whole creator community.
+*   We love that so many creators like to call themselves YouTubers. We just ask that “YouTuber” or “Tuber” is only used when talking about a person creating and uploading original video or music content to YouTube.
+*   We also want to keep "YouTuber" casual. That way everyone can use it. So please don’t use “YouTuber” or “Tuber” in official names of things like video series, books, and programs, or register domains, channel names, or trademarks that include those words. This’ll help us protect the YouTube trademark for the whole creator community.
 
 Guidelines for advertisers
 --------------------------
 
-* While “Tuber” can be used by YouTube creators informally, it should never be used by advertisers.
+*   While “Tuber” can be used by YouTube creators informally, it should never be used by advertisers.
 
 Third party approvals
 ---------------------
 
-* You’re responsible for getting third-party approvals from relevant content owners for any content you upload to YouTube that doesn't belong to you.
-* You must have appropriate third-party approval from relevant content owners if you show any content in promotional material.
-* YouTube doesn't negotiate permissions on behalf of our partners. You must contact the image or video owner directly to secure appropriate permissions.
-* By uploading to YouTube, you guarantee that you have the necessary rights to upload your video. YouTube reserves the right to remove any content from the site that may violate its Terms of Use or Community Guidelines.
+*   You’re responsible for getting third-party approvals from relevant content owners for any content you upload to YouTube that doesn't belong to you.
+*   You must have appropriate third-party approval from relevant content owners if you show any content in promotional material.
+*   YouTube doesn't negotiate permissions on behalf of our partners. You must contact the image or video owner directly to secure appropriate permissions.
+*   By uploading to YouTube, you guarantee that you have the necessary rights to upload your video. YouTube reserves the right to remove any content from the site that may violate its Terms of Use or Community Guidelines.
 
 Swag and Merchandise
 --------------------
@@ -277,23 +277,23 @@ Please adhere to the Logo usage guidelines as well as those found below, then su
 Before submitting your product placements request, please ensure the following
 ------------------------------------------------------------------------------
 
-* The product placement reflects YouTube in a positive or neutral way.
+*   The product placement reflects YouTube in a positive or neutral way.
     
-* Any video content developed specifically for the product placement does not violate [YouTube's Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/#community-guidelines) and would not violate [YouTube’s Terms of Use](https://www.youtube.com/t/terms).
+*   Any video content developed specifically for the product placement does not violate [YouTube's Community Guidelines](https://www.youtube.com/howyoutubeworks/policies/community-guidelines/#community-guidelines) and would not violate [YouTube’s Terms of Use](https://www.youtube.com/t/terms).
     
-* You can provide ample context for the placement to submit with your request. You should submit one PDF file including mocks of the YouTube Logo and/or YouTube interface in context, as well as relevant script pages, an overview of the production, the production company name, the production name, and any other details such as actor(s), director, etc., which will help us understand how YouTube will be represented in the production.
+*   You can provide ample context for the placement to submit with your request. You should submit one PDF file including mocks of the YouTube Logo and/or YouTube interface in context, as well as relevant script pages, an overview of the production, the production company name, the production name, and any other details such as actor(s), director, etc., which will help us understand how YouTube will be represented in the production.
     
 
 Third party approvals
 ---------------------
 
-* You’re responsible for getting third-party approvals from relevant content owners for any content you upload to YouTube that doesn't belong to you.
+*   You’re responsible for getting third-party approvals from relevant content owners for any content you upload to YouTube that doesn't belong to you.
     
-* You must have appropriate third-party approval from relevant content owners if you show any content in promotional material.
+*   You must have appropriate third-party approval from relevant content owners if you show any content in promotional material.
     
-* YouTube doesn't negotiate permissions on behalf of our partners. You must contact the image or video owner directly to secure appropriate permissions.
+*   YouTube doesn't negotiate permissions on behalf of our partners. You must contact the image or video owner directly to secure appropriate permissions.
     
-* By uploading to YouTube, you guarantee that you have the necessary rights to upload your video. YouTube reserves the right to remove any content from the site that may violate its Terms of Use or Community Guidelines.
+*   By uploading to YouTube, you guarantee that you have the necessary rights to upload your video. YouTube reserves the right to remove any content from the site that may violate its Terms of Use or Community Guidelines.
     
 
 **Note:** Usage of YouTube brand elements in Entertainment and Media needs approval and must be submitted in English through the Brand Use Request Form for review. For non-English requests, please contact your YouTube Partnerships counterpart. YouTube reserves the right to object to any inappropriate uses of its trademarks and to enforce its rights at any time.
