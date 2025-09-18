@@ -175,19 +175,19 @@ Snap will process Customer Personal Data for the purposes of providing the Busin
 
 Customer Personal Data relating to individuals provided to Snap via the Business Services, by (or at the direction of) the Data Controller, which may include:
 
-* email address
+*   email address
     
-* telephone number
+*   telephone number
     
-* mobile ad ID (IDFA/AAID)
+*   mobile ad ID (IDFA/AAID)
     
-* IP address
+*   IP address
     
-* cookie id
+*   cookie id
     
-* browser user agent
+*   browser user agent
     
-* actions and events taken on websites and apps, including pages viewed, purchases, searches, check-out events, wish lists, installs, and user registration methods
+*   actions and events taken on websites and apps, including pages viewed, purchases, searches, check-out events, wish lists, installs, and user registration methods
     
 
 **Sensitive data transferred**
@@ -226,28 +226,28 @@ Schedule 2 - Snap Security Measures
 
 8\. Preventing unauthorized access to the Customer Personal Data through the use, as appropriate, of physical and logical (passwords) entry controls, secure areas for data processing, procedures for monitoring the use of data processing facilities, built-in system audit trails, use of secure passwords, network intrusion detection technology, encryption and authentication technology, secure log-on procedures, and virus protection, monitoring compliance with Snap's policies and standards related to data protection on an ongoing basis. In particular, Snap has implemented and complies with, as appropriate and without limitation:
 
-* Physical access control measures to prevent unauthorized access to data processing systems (e.g., access ID cards, card readers, desk officers, alarm systems, motion detectors, burglar alarms, video surveillance, and exterior security);
+*   Physical access control measures to prevent unauthorized access to data processing systems (e.g., access ID cards, card readers, desk officers, alarm systems, motion detectors, burglar alarms, video surveillance, and exterior security);
     
-* Denial-of-use control measures to prevent unauthorized use of data protection systems (e.g., automatically enforced password complexity and change requirements and firewalls.);
+*   Denial-of-use control measures to prevent unauthorized use of data protection systems (e.g., automatically enforced password complexity and change requirements and firewalls.);
     
-* Requirements-driven authorization scheme and access rights, and monitoring and logging of system access to ensure that persons entitled to use a data processing system have access only to the data to which they have a right of access, and that the Customer Personal Data cannot be read, copied, modified, or removed without authorization;
+*   Requirements-driven authorization scheme and access rights, and monitoring and logging of system access to ensure that persons entitled to use a data processing system have access only to the data to which they have a right of access, and that the Customer Personal Data cannot be read, copied, modified, or removed without authorization;
     
-* Data transmission control measures to ensure that the Customer Personal Data cannot be read, copied, modified, or removed without authorization during electronic transmission, transport, or storage on data media, and transfer and receipt of records. In particular, Snap's information security program will be designed:
+*   Data transmission control measures to ensure that the Customer Personal Data cannot be read, copied, modified, or removed without authorization during electronic transmission, transport, or storage on data media, and transfer and receipt of records. In particular, Snap's information security program will be designed:
     
-    * To encrypt in storage any data sets in Snap's possession, including sensitive personal data, using appropriate encryption levels based on industry-leading encryption standards, including AES -256, and storing user identities on the system using key value pair such as ghost\_id to prevent storage of actual user ID; and
+    *   To encrypt in storage any data sets in Snap's possession, including sensitive personal data, using appropriate encryption levels based on industry-leading encryption standards, including AES -256, and storing user identities on the system using key value pair such as ghost\_id to prevent storage of actual user ID; and
         
-    * To ensure that any sensitive personal data transmitted electronically (other than by facsimile) to a person outside Snap's IT system or transmitted over a public network is encrypted using the newest supported versions of TLS 1.2 protocol to protect the security of the transmission;
+    *   To ensure that any sensitive personal data transmitted electronically (other than by facsimile) to a person outside Snap's IT system or transmitted over a public network is encrypted using the newest supported versions of TLS 1.2 protocol to protect the security of the transmission;
         
     
-* Data entry control measures to ensure Snap can check and establish whether and by whom the Customer Personal Data has been input into data processing systems, modified, or removed;
+*   Data entry control measures to ensure Snap can check and establish whether and by whom the Customer Personal Data has been input into data processing systems, modified, or removed;
     
-* Continuous security testing measures to ensure information security practices remain relevant, effective, and up to date, including annual penetration testings, bug bounty program, use of system scanning tools, tabletop exercises, backup restoration tests, pre-production failovers, and conducting post-mortems on any actual incidents in order to update the relevant disaster recovery plans;
+*   Continuous security testing measures to ensure information security practices remain relevant, effective, and up to date, including annual penetration testings, bug bounty program, use of system scanning tools, tabletop exercises, backup restoration tests, pre-production failovers, and conducting post-mortems on any actual incidents in order to update the relevant disaster recovery plans;
     
-* Subprocessor supervision measures to ensure that, if Snap is permitted to use subprocessors, the Customer Personal Data is processed strictly in accordance with the Data Controller's instructions including, as appropriate:
+*   Subprocessor supervision measures to ensure that, if Snap is permitted to use subprocessors, the Customer Personal Data is processed strictly in accordance with the Data Controller's instructions including, as appropriate:
     
-    * Measures to ensure that the Customer Personal Data is protected from accidental destruction or loss including, as appropriate and without limitation, data backup, retention and secure destruction policies; secure offsite storage of data sufficient for disaster recovery; uninterrupted power supply, and disaster recovery programs; and
+    *   Measures to ensure that the Customer Personal Data is protected from accidental destruction or loss including, as appropriate and without limitation, data backup, retention and secure destruction policies; secure offsite storage of data sufficient for disaster recovery; uninterrupted power supply, and disaster recovery programs; and
         
-    * Measures to ensure that data collected for different purposes can be processed separately including, as appropriate, physical or adequate logical separation of Customer Personal Data. 
+    *   Measures to ensure that data collected for different purposes can be processed separately including, as appropriate, physical or adequate logical separation of Customer Personal Data. 
         
     
 
