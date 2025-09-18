@@ -49,29 +49,29 @@ If you no longer want to use our Services again, and would like your account del
 
 Your access to and use of the Services is subject to these Terms and all applicable laws and regulations. You may not:
 
-* access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian;
-* make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any derivative works of the Services or any content included therein, including any files, tables or documentation (or any portion thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied by the Services or any derivative works thereof
-* distribute, license, transfer, or sell, in whole or in part, any of the Services or any derivative works thereof
-* market, rent or lease the Services for a fee or charge, or use the Services to advertise or perform any commercial solicitation;
-* use the Services, without our express written consent, for any commercial or unauthorized purpose, including communicating or facilitating any commercial advertisement or solicitation or spamming;
-* interfere with or attempt to interfere with the proper working of the Services, disrupt our website or any networks connected to the Services, or bypass any measures we may use to prevent or restrict access to the Services;
-* incorporate the Services or any portion thereof into any other program or product. In such case, we reserve the right to refuse service, terminate accounts or limit access to the Services in our sole discretion;
-* use automated scripts to collect information from or otherwise interact with the Services;
-* impersonate any person or entity, or falsely state or otherwise misrepresent you or your affiliation with any person or entity, including giving the impression that any content you upload, post, transmit, distribute or otherwise make available emanates from the Services;
-* intimidate or harass another, or promote sexually explicit material, violence or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
-* use or attempt to use another’s account, service or system without authorisation from TikTok, or create a false identity on the Services;
-* use the Services in a manner that may create a conflict of interest or undermine the purposes of the Services, such as trading reviews with other users or writing or soliciting fake reviews;
-* use the Services to upload, transmit, distribute, store or otherwise make available in any way: files that contain viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful;
-* any unsolicited or unauthorised advertising, solicitations, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other prohibited form of solicitation;
-* any private information of any third party, including addresses, phone numbers, email addresses, number and feature in the personal identity document (e.g., National Insurance numbers, passport numbers) or credit card numbers;
-* any material which does or may infringe any copyright, trademark or other intellectual property or privacy rights of any other person;
-* any material which is defamatory of any person, obscene, offensive, pornographic, hateful or inflammatory;
-* any material that would constitute, encourage or provide instructions for a criminal offence, dangerous activities or self-harm;
-* any material that is deliberately designed to provoke or antagonise people, especially trolling and bullying, or is intended to harass, harm, hurt, scare, distress, embarrass or upset people;
-* any material that contains a threat of any kind, including threats of physical violence;
-* any material that is racist or discriminatory, including discrimination on the basis of someone’s race, religion, age, gender, disability or sexuality;
-* any answers, responses, comments, opinions, analysis or recommendations that you are not properly licensed or otherwise qualified to provide; or
-* material that, in the sole judgment of TikTok, is objectionable or which restricts or inhibits any other person from using the Services, or which may expose TikTok, the Services or its users to any harm or liability of any type.
+*   access or use the Services if you are not fully able and legally competent to agree to these Terms or are authorized to use the Services by your parent or legal guardian;
+*   make unauthorised copies, modify, adapt, translate, reverse engineer, disassemble, decompile or create any derivative works of the Services or any content included therein, including any files, tables or documentation (or any portion thereof) or determine or attempt to determine any source code, algorithms, methods or techniques embodied by the Services or any derivative works thereof
+*   distribute, license, transfer, or sell, in whole or in part, any of the Services or any derivative works thereof
+*   market, rent or lease the Services for a fee or charge, or use the Services to advertise or perform any commercial solicitation;
+*   use the Services, without our express written consent, for any commercial or unauthorized purpose, including communicating or facilitating any commercial advertisement or solicitation or spamming;
+*   interfere with or attempt to interfere with the proper working of the Services, disrupt our website or any networks connected to the Services, or bypass any measures we may use to prevent or restrict access to the Services;
+*   incorporate the Services or any portion thereof into any other program or product. In such case, we reserve the right to refuse service, terminate accounts or limit access to the Services in our sole discretion;
+*   use automated scripts to collect information from or otherwise interact with the Services;
+*   impersonate any person or entity, or falsely state or otherwise misrepresent you or your affiliation with any person or entity, including giving the impression that any content you upload, post, transmit, distribute or otherwise make available emanates from the Services;
+*   intimidate or harass another, or promote sexually explicit material, violence or discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
+*   use or attempt to use another’s account, service or system without authorisation from TikTok, or create a false identity on the Services;
+*   use the Services in a manner that may create a conflict of interest or undermine the purposes of the Services, such as trading reviews with other users or writing or soliciting fake reviews;
+*   use the Services to upload, transmit, distribute, store or otherwise make available in any way: files that contain viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful;
+*   any unsolicited or unauthorised advertising, solicitations, promotional materials, “junk mail,” “spam,” “chain letters,” “pyramid schemes,” or any other prohibited form of solicitation;
+*   any private information of any third party, including addresses, phone numbers, email addresses, number and feature in the personal identity document (e.g., National Insurance numbers, passport numbers) or credit card numbers;
+*   any material which does or may infringe any copyright, trademark or other intellectual property or privacy rights of any other person;
+*   any material which is defamatory of any person, obscene, offensive, pornographic, hateful or inflammatory;
+*   any material that would constitute, encourage or provide instructions for a criminal offence, dangerous activities or self-harm;
+*   any material that is deliberately designed to provoke or antagonise people, especially trolling and bullying, or is intended to harass, harm, hurt, scare, distress, embarrass or upset people;
+*   any material that contains a threat of any kind, including threats of physical violence;
+*   any material that is racist or discriminatory, including discrimination on the basis of someone’s race, religion, age, gender, disability or sexuality;
+*   any answers, responses, comments, opinions, analysis or recommendations that you are not properly licensed or otherwise qualified to provide; or
+*   material that, in the sole judgment of TikTok, is objectionable or which restricts or inhibits any other person from using the Services, or which may expose TikTok, the Services or its users to any harm or liability of any type.
 
 In addition to the above, your access to and use of the Services must, at all times, be compliant with our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en).
 
@@ -155,10 +155,10 @@ NOTHING IN THESE TERMS SHALL AFFECT ANY STATUTORY RIGHTS THAT YOU CANNOT CONTRAC
 
 THE SERVICES ARE PROVIDED “AS IS” AND WE MAKE NO WARRANTY OR REPRESENTATION TO YOU WITH RESPECT TO THEM. IN PARTICULAR WE DO NOT REPRESENT OR WARRANT TO YOU THAT:
 
-* YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS;
-* YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR;
-* ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE; AND
-* DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED.
+*   YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS;
+*   YOUR USE OF THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR FREE FROM ERROR;
+*   ANY INFORMATION OBTAINED BY YOU AS A RESULT OF YOUR USE OF THE SERVICES WILL BE ACCURATE OR RELIABLE; AND
+*   DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED.
 
 NO CONDITIONS, WARRANTIES OR OTHER TERMS (INCLUDING ANY IMPLIED TERMS AS TO SATISFACTORY QUALITY, FITNESS FOR PURPOSE OR CONFORMANCE WITH DESCRIPTION) APPLY TO THE SERVICES EXCEPT TO THE EXTENT THAT THEY ARE EXPRESSLY SET OUT IN THE TERMS. WE MAY CHANGE, SUSPEND, WITHDRAW OR RESTRICT THE AVAILABILITY OF ALL OR ANY PART OF OUR PLATFORM FOR BUSINESS AND OPERATIONAL REASONS AT ANY TIME WITHOUT NOTICE
 
@@ -169,19 +169,19 @@ NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT OUR LIABILITY FOR LOSSES WHICH MAY
 
 SUBJECT TO THE PARAGRAPH ABOVE, WE SHALL NOT BE LIABLE TO YOU FOR:
 
-* (I) ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY);
-* (II) ANY LOSS OF GOODWILL;
-* (III) ANY LOSS OF OPPORTUNITY;
-* (IV) ANY LOSS OF DATA SUFFERED BY YOU; OR
-* (V) ANY INDIRECT OR CONSEQUENTIAL LOSSES WHICH MAY BE INCURRED BY YOU. ANY OTHER LOSS WILL BE LIMITED TO THE AMOUNT PAID BY YOU TO TIKTOK WITHIN THE LAST 12 MONTHS.
+*   (I) ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY);
+*   (II) ANY LOSS OF GOODWILL;
+*   (III) ANY LOSS OF OPPORTUNITY;
+*   (IV) ANY LOSS OF DATA SUFFERED BY YOU; OR
+*   (V) ANY INDIRECT OR CONSEQUENTIAL LOSSES WHICH MAY BE INCURRED BY YOU. ANY OTHER LOSS WILL BE LIMITED TO THE AMOUNT PAID BY YOU TO TIKTOK WITHIN THE LAST 12 MONTHS.
 
 ANY LOSS OR DAMAGE WHICH MAY BE INCURRED BY YOU AS A RESULT OF:
 
-* ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING, OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN YOU AND ANY ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS ON THE SERVICE;
-* ANY CHANGES WHICH WE MAY MAKE TO THE SERVICES, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE SERVICES (OR ANY FEATURES WITHIN THE SERVICES);
-* THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH YOUR USE OF THE SERVICES;
-* YOUR FAILURE TO PROVIDE US WITH ACCURATE ACCOUNT INFORMATION; OR
-* YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL.
+*   ANY RELIANCE PLACED BY YOU ON THE COMPLETENESS, ACCURACY OR EXISTENCE OF ANY ADVERTISING, OR AS A RESULT OF ANY RELATIONSHIP OR TRANSACTION BETWEEN YOU AND ANY ADVERTISER OR SPONSOR WHOSE ADVERTISING APPEARS ON THE SERVICE;
+*   ANY CHANGES WHICH WE MAY MAKE TO THE SERVICES, OR FOR ANY PERMANENT OR TEMPORARY CESSATION IN THE PROVISION OF THE SERVICES (OR ANY FEATURES WITHIN THE SERVICES);
+*   THE DELETION OF, CORRUPTION OF, OR FAILURE TO STORE, ANY CONTENT AND OTHER COMMUNICATIONS DATA MAINTAINED OR TRANSMITTED BY OR THROUGH YOUR USE OF THE SERVICES;
+*   YOUR FAILURE TO PROVIDE US WITH ACCURATE ACCOUNT INFORMATION; OR
+*   YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL.
 
 PLEASE NOTE THAT WE ONLY PROVIDE OUR PLATFORM FOR DOMESTIC AND PRIVATE USE. YOU AGREE NOT TO USE OUR PLATFORM FOR ANY COMMERCIAL OR BUSINESS PURPOSES, AND WE HAVE NO LIABILITY TO YOU FOR ANY LOSS OF PROFIT, LOSS OF BUSINESS, LOSS OF GOODWILL OR BUSINESS REPUTATION, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS OPPORTUNITY.
 
@@ -246,36 +246,36 @@ To the extent permitted by applicable law, the following supplemental terms shal
 
 By downloading the Platform from a device made by Apple, Inc. (“Apple”) or from Apple’s App Store, you specifically acknowledge and agree that:
 
-* These Terms between TikTok and you; Apple is not a party to these Terms.
-* The license granted to you hereunder is limited to a personal, limited, non-exclusive, non-transferable right to install the Platform on the Apple device(s) authorised by Apple that you own or control for personal, non-commercial use, subject to the Usage Rules set forth in Apple’s App Store Terms of Services.
-* Apple is not responsible for the Platform or the content thereof and has no obligation whatsoever to furnish any maintenance or support services with respect to the Platform.
-* In the event of any failure of the Platform to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Platform, if any, to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Platform.
-* Apple is not responsible for addressing any claims by you or a third party relating to the Platform or your possession or use of the Platform, including without limitation (a) product liability claims; (b) any claim that the Platform fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation.
-* In the event of any third party claim that the Platform or your possession and use of the Platform infringes such third party’s intellectual property rights, Apple is not responsible for the investigation, defence, settlement or discharge of such intellectual property infringement claim.
-* You represent and warrant that (a) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (b) you are not listed on any U.S. Government list of prohibited or restricted parties.
-* Apple and its subsidiaries are third party beneficiaries of these Terms and upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary hereof.
-* TikTok expressly authorises use of the Platform by multiple users through the Family Sharing or any similar functionality provided by Apple.
+*   These Terms between TikTok and you; Apple is not a party to these Terms.
+*   The license granted to you hereunder is limited to a personal, limited, non-exclusive, non-transferable right to install the Platform on the Apple device(s) authorised by Apple that you own or control for personal, non-commercial use, subject to the Usage Rules set forth in Apple’s App Store Terms of Services.
+*   Apple is not responsible for the Platform or the content thereof and has no obligation whatsoever to furnish any maintenance or support services with respect to the Platform.
+*   In the event of any failure of the Platform to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the Platform, if any, to you. To the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the Platform.
+*   Apple is not responsible for addressing any claims by you or a third party relating to the Platform or your possession or use of the Platform, including without limitation (a) product liability claims; (b) any claim that the Platform fails to conform to any applicable legal or regulatory requirement; and (c) claims arising under consumer protection or similar legislation.
+*   In the event of any third party claim that the Platform or your possession and use of the Platform infringes such third party’s intellectual property rights, Apple is not responsible for the investigation, defence, settlement or discharge of such intellectual property infringement claim.
+*   You represent and warrant that (a) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (b) you are not listed on any U.S. Government list of prohibited or restricted parties.
+*   Apple and its subsidiaries are third party beneficiaries of these Terms and upon your acceptance of the terms and conditions of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third party beneficiary hereof.
+*   TikTok expressly authorises use of the Platform by multiple users through the Family Sharing or any similar functionality provided by Apple.
 
 ### **Windows Phone Store.**
 
 By downloading the Platform from the Windows Phone Store (or its successors) operated by Microsoft, Inc. or its affiliates, you specifically acknowledge and agree that:
 
-* You may install and use one copy of the Platform on up to five (5) Windows Phone enabled devices that are affiliated with the Microsoft account you use to access the Windows Phone Store. Beyond that, we reserve the right to apply additional conditions or charge additional fees.
-* You acknowledge that Microsoft Corporation, your phone manufacturer and network operator have no obligation whatsoever to furnish any maintenance and support services with respect to the Platform.
+*   You may install and use one copy of the Platform on up to five (5) Windows Phone enabled devices that are affiliated with the Microsoft account you use to access the Windows Phone Store. Beyond that, we reserve the right to apply additional conditions or charge additional fees.
+*   You acknowledge that Microsoft Corporation, your phone manufacturer and network operator have no obligation whatsoever to furnish any maintenance and support services with respect to the Platform.
 
 ### **Amazon Appstore.**
 
 By downloading the Platform from the Amazon Appstore (or its successors) operated by Amazon Digital Services, Inc. or affiliates (“Amazon”), you specifically acknowledge and agree that:
 
-* to the extent of any conflict between (a) the Amazon Appstore Terms of Use or such other terms which Amazon designates as default end user license terms for the Amazon Appstore (“Amazon Appstore EULA Terms”), and (b) the other terms and conditions in these Terms, the Amazon Appstore EULA Terms shall apply with respect to your use of the Platform that you download from the Amazon Appstore, and
-* Amazon does not have any responsibility or liability related to compliance or non-compliance by TikTok or you (or any other user) under these Terms or the Amazon Appstore EULA Terms.
+*   to the extent of any conflict between (a) the Amazon Appstore Terms of Use or such other terms which Amazon designates as default end user license terms for the Amazon Appstore (“Amazon Appstore EULA Terms”), and (b) the other terms and conditions in these Terms, the Amazon Appstore EULA Terms shall apply with respect to your use of the Platform that you download from the Amazon Appstore, and
+*   Amazon does not have any responsibility or liability related to compliance or non-compliance by TikTok or you (or any other user) under these Terms or the Amazon Appstore EULA Terms.
 
 ### **Google Play.**
 
 By downloading the Platform from Google Play (or its successors) operated by Google, Inc. or one of its affiliates (“Google”), you specifically acknowledge and agree that:
 
-* to the extent of any conflict between (a) the Google Play Terms of Services and the Google Play Business and Program Policies or such other terms which Google designates as default end user license terms for Google Play (all of which together are referred to as the “Google Play Terms”), and (b) the other terms and conditions in these Terms, the Google Play Terms shall apply with respect to your use of the Platform that you download from Google Play, and
-* you hereby acknowledge that Google does not have any responsibility or liability related to compliance or non-compliance by TikTok or you (or any other user) under these Terms or the Google Play Terms.
+*   to the extent of any conflict between (a) the Google Play Terms of Services and the Google Play Business and Program Policies or such other terms which Google designates as default end user license terms for Google Play (all of which together are referred to as the “Google Play Terms”), and (b) the other terms and conditions in these Terms, the Google Play Terms shall apply with respect to your use of the Platform that you download from Google Play, and
+*   you hereby acknowledge that Google does not have any responsibility or liability related to compliance or non-compliance by TikTok or you (or any other user) under these Terms or the Google Play Terms.
 
 **14\. Contact Us**
 -------------------
