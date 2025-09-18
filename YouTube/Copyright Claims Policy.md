@@ -14,7 +14,7 @@ We’ve invested millions of dollars in developing a Copyright Management Suite 
 
 YouTube has worked directly with rightsholders to ensure that copyrighted material on our platform is authorized, and we provide those robust tools to allow rightsholders to notify YouTube of alleged infringement, which we remove in accordance with the law. There are three main tools that make up our Copyright Management Suite:
 
-* ### Webform
+*   ### Webform
     
     **Who is it for?**
     
@@ -26,7 +26,7 @@ YouTube has worked directly with rightsholders to ensure that copyrighted materi
     
     Rights holders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
     
-* ### Copyright Match Tool
+*   ### Copyright Match Tool
     
     **Who’s it for?**
     
@@ -36,7 +36,7 @@ YouTube has worked directly with rightsholders to ensure that copyrighted materi
     
     If a match is found, the creator or the rights holder is notified. She can then review the video that potentially reused their content and decide whether to request the video’s removal.
     
-* ### Content ID
+*   ### Content ID
     
     **Who’s it for?**
     
@@ -67,11 +67,11 @@ For videos, you can submit in [YouTube Studio](#studio) or by [email, fax, or ma
 
 **What to know before you submit:**
 
-* **When to submit:** Only submit a counter notification if you believe your content was removed due to a mistake. This includes misidentifications of content that may qualify for a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing, or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
-* **Other options:** If you don't believe the content removal was a mistake, you can **wait 90 days** and the [copyright strike](https://support.google.com/youtube/answer/2814000) will expire, as long as you've completed Copyright School. You can also try to [request a retraction](https://support.google.com/youtube/answer/2807691#uploader) to resolve the copyright strike.
-* **Evidence of ownership or permission:** Confirm you own the rights to all elements in your content, including any music (even if it’s just playing in the background). If you’ve used someone else’s copyrighted content, confirm you have a license or [permission](https://support.google.com/youtube/answer/2797468#permission) to use it.
-* **What info is shared:** Legally, we’re required to share the counter notification with the claimant. If disclosing personal information is a concern, an authorized representative (such as an attorney) can submit on the uploader's behalf by [email, fax, or mail](#email).
-* **Who submits the notification:** Counter notifications should be submitted by the original uploader of the content at issue. Alternatively, an authorized representative, such as an attorney, can submit on behalf of the uploader.
+*   **When to submit:** Only submit a counter notification if you believe your content was removed due to a mistake. This includes misidentifications of content that may qualify for a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing, or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
+*   **Other options:** If you don't believe the content removal was a mistake, you can **wait 90 days** and the [copyright strike](https://support.google.com/youtube/answer/2814000) will expire, as long as you've completed Copyright School. You can also try to [request a retraction](https://support.google.com/youtube/answer/2807691#uploader) to resolve the copyright strike.
+*   **Evidence of ownership or permission:** Confirm you own the rights to all elements in your content, including any music (even if it’s just playing in the background). If you’ve used someone else’s copyrighted content, confirm you have a license or [permission](https://support.google.com/youtube/answer/2797468#permission) to use it.
+*   **What info is shared:** Legally, we’re required to share the counter notification with the claimant. If disclosing personal information is a concern, an authorized representative (such as an attorney) can submit on the uploader's behalf by [email, fax, or mail](#email).
+*   **Who submits the notification:** Counter notifications should be submitted by the original uploader of the content at issue. Alternatively, an authorized representative, such as an attorney, can submit on behalf of the uploader.
 
 **Do not submit false information**. Misuse of our processes, such as submitting fraudulent documentation, may result in the termination of your account or other legal consequences.
 
@@ -80,21 +80,21 @@ Submit in YouTube Studio
 
 Copyright counter notifications for videos can be submitted in [YouTube Studio](https://studio.youtube.com/) from a computer or in the YouTube Studio app:
 
-1. Sign in to [YouTube Studio](https://studio.youtube.com/).
-2. From the left menu, click **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
-3. Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
-4. In the **Visibility** column, find a video with “Removed” status.
-5. In the **Restrictions** column, hover over **Copyright**.
-6. Click **See details**.
-7. Under **Content used**, click **Take action** ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Submit a counter notification**.
-8. Read the counter notification requirements and check the box to confirm ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Continue**.
-9. Enter your contact info ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Continue**.
-    * Make sure you include your complete physical address and full legal name (usually a first and last name). Do not enter a company or channel name.
-10. Enter your rationale. Clearly and concisely explain why you believe the removal of your content qualifies as a mistake or misidentification.
-11. Review the statements and check the boxes to agree.
-12. Enter your full legal name as your signature ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Continue**.
-13. _(Optional)_ If other videos were removed from the same removal request and you also believe they were incorrectly removed, you can select these videos and include all of them in the counter notification.
-14. Click **Submit**.
+1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
+2.  From the left menu, click **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
+3.  Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
+4.  In the **Visibility** column, find a video with “Removed” status.
+5.  In the **Restrictions** column, hover over **Copyright**.
+6.  Click **See details**.
+7.  Under **Content used**, click **Take action** ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Submit a counter notification**.
+8.  Read the counter notification requirements and check the box to confirm ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Continue**.
+9.  Enter your contact info ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Continue**.
+    *   Make sure you include your complete physical address and full legal name (usually a first and last name). Do not enter a company or channel name.
+10.  Enter your rationale. Clearly and concisely explain why you believe the removal of your content qualifies as a mistake or misidentification.
+11.  Review the statements and check the boxes to agree.
+12.  Enter your full legal name as your signature ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Continue**.
+13.  _(Optional)_ If other videos were removed from the same removal request and you also believe they were incorrectly removed, you can select these videos and include all of them in the counter notification.
+14.  Click **Submit**.
 
 Submit by email, fax, or mail
 -----------------------------
@@ -107,9 +107,9 @@ To submit by email, send all the required information below in the body of an em
 
 To get in touch with you, or the representative authorized to act on your behalf, about your counter notification, include the following:
 
-* **Your full legal name:** First and last name, not a company name. If you're an authorized representative, also include your relationship to the uploader.
-* **Your physical address**
-* **Your telephone number**
+*   **Your full legal name:** First and last name, not a company name. If you're an authorized representative, also include your relationship to the uploader.
+*   **Your physical address**
+*   **Your telephone number**
 
 2\. Statement to the claimant
 
@@ -143,8 +143,8 @@ Counter notifications must include direct links to the content that was removed 
 
 Agree to and include the following 2 legally required statements:
 
-* "I consent to the jurisdiction of the Federal District Court for the district in which my address is located, or if my address is outside of the United States, the judicial district in which YouTube is located, and will accept service of process from the claimant."
-* "I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
+*   "I consent to the jurisdiction of the Federal District Court for the district in which my address is located, or if my address is outside of the United States, the judicial district in which YouTube is located, and will accept service of process from the claimant."
+*   "I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
 
 5\. Your signature
 
@@ -167,13 +167,13 @@ How do I check the status of a counter notification I submitted?
 
 You can check the status of a counter notification from your [YouTube Studio dashboard](http://studio.youtube.com/) or follow those steps:
 
-1. Sign in to [YouTube Studio](https://studio.youtube.com/).
-2. From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
-3. Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
-4. Find the video in question.
-5. In the **Restrictions** column, hover over **Copyright**.
-6. Click **See details**.
-7. Look under the **Content used** section to find the status of the counter notification.
+1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
+2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
+3.  Click the filter bar ![](//lh3.googleusercontent.com/aaAQPm4xZoEmwh9IM2DxSne_mpp3DPxtGX8T5vRSAz0IyIzMOW1rx31UB73HJS6JeDo=w48-h48) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
+4.  Find the video in question.
+5.  In the **Restrictions** column, hover over **Copyright**.
+6.  Click **See details**.
+7.  Look under the **Content used** section to find the status of the counter notification.
 
 Can I cancel a counter notification I submitted?
 
@@ -187,8 +187,8 @@ If your counter notification is missing any required information, it may be reje
 
 What you can do next:
 
-* Reconsider if your content has been removed due to a mistake or misidentification of copyrighted content. If not, you can consider other options to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
-* You can submit a new counter notification that includes all legally required information.
+*   Reconsider if your content has been removed due to a mistake or misidentification of copyrighted content. If not, you can consider other options to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
+*   You can submit a new counter notification that includes all legally required information.
 
 Can I submit 1 counter notification for multiple videos?
 
@@ -205,9 +205,9 @@ Dispute a Content ID claim
 
 If your video got a [Content ID claim](https://support.google.com/youtube/answer/6013276), you can dispute a claim if you have a valid reason, such as:
 
-* Having all the necessary rights to the content in your video.
-* Using the content in a way that qualifies as a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148).
-* Believing your video was misidentified or an error was made.
+*   Having all the necessary rights to the content in your video.
+*   Using the content in a way that qualifies as a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148).
+*   Believing your video was misidentified or an error was made.
 
 Copyright strikes are different from Content ID claims. If your channel got a copyright strike, go to the [copyright strikes](https://support.google.com/youtube/answer/2814000) article to learn more.
 
@@ -220,9 +220,9 @@ Before you dispute
 
 Before you dispute a Content ID claim, you may want to learn more about [public domain](https://support.google.com/youtube/answer/2797449#c-pd) and copyright exceptions like [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing. Keep in mind that these are **NOT** legitimate reasons to dispute a claim:
 
-* [Giving credit](https://support.google.com/youtube/answer/2797466#credit) to the copyright owner
-* [Owning a copy](https://support.google.com/youtube/answer/2797466#purchased) of the video or song
-* [Choosing not to monetize](https://support.google.com/youtube/answer/2797466#refrained) on the video
+*   [Giving credit](https://support.google.com/youtube/answer/2797466#credit) to the copyright owner
+*   [Owning a copy](https://support.google.com/youtube/answer/2797466#purchased) of the video or song
+*   [Choosing not to monetize](https://support.google.com/youtube/answer/2797466#refrained) on the video
 
 If you don't submit a dispute, there are a few other ways to [resolve a Content ID claim](https://support.google.com/youtube/answer/6013276#claim_options), such as removing the claimed content from your video.
 
@@ -235,13 +235,13 @@ Submit a dispute
 
 To dispute a Content ID claim:
 
-1. Sign in to [YouTube Studio](https://studio.youtube.com/).
-2. From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
-3. In the **Videos** tab, find the video with the claim you want to dispute.
-    * To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
-4. In the **Restrictions** column, hover over **Copyright**.
-5. Click **See details**.
-6. Under the **Content used**, find the relevant claim and click **Take action** ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Dispute**.
+1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
+2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
+3.  In the **Videos** tab, find the video with the claim you want to dispute.
+    *   To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
+4.  In the **Restrictions** column, hover over **Copyright**.
+5.  Click **See details**.
+6.  Under the **Content used**, find the relevant claim and click **Take action** ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Dispute**.
 
 **Note:** You may have an option to **Escalate to Appeal** for Content ID claims that block your video. This option skips the initial dispute step and starts the dispute process with an [appeal](https://support.google.com/youtube/answer/12104471). Learn more about the [Escalate to Appeal](https://support.google.com/youtube/answer/12104471#escalate) option.
 
@@ -252,10 +252,10 @@ After you submit a dispute, the person that claimed your video (the claimant) ha
 
 What the claimant can do
 
-* **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetizing the video, your monetization settings will be restored automatically when all claims on your video are released. Learn more about [monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961).
-* **Reinstate the claim:** If the claimant believes that their claim is still valid, they can reinstate it. This means that your dispute was rejected and the claim stays on your video. You may be eligible to [appeal this decision](https://support.google.com/youtube/answer/12104471).
-* **Submit a takedown request:** If the claimant believes that their claim is still valid, they can submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622). If the takedown request is [valid](https://support.google.com/youtube/answer/2807622#after), your video is removed from YouTube and your channel gets a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
-* **Let the claim expire:** If the claimant doesn’t respond within 30 days, the claim on your video will expire and be released from your video.
+*   **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetizing the video, your monetization settings will be restored automatically when all claims on your video are released. Learn more about [monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961).
+*   **Reinstate the claim:** If the claimant believes that their claim is still valid, they can reinstate it. This means that your dispute was rejected and the claim stays on your video. You may be eligible to [appeal this decision](https://support.google.com/youtube/answer/12104471).
+*   **Submit a takedown request:** If the claimant believes that their claim is still valid, they can submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622). If the takedown request is [valid](https://support.google.com/youtube/answer/2807622#after), your video is removed from YouTube and your channel gets a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
+*   **Let the claim expire:** If the claimant doesn’t respond within 30 days, the claim on your video will expire and be released from your video.
 
 Learn more about the dispute process in this video's chapter "Dispute Process for Content ID":
 
@@ -301,8 +301,8 @@ No, once you’ve submitted a dispute, it can’t be canceled.
 More info
 ---------
 
-* [Learn about Content ID claims](https://support.google.com/youtube/answer/6013276)
-* [Appeal a Content ID claim](https://support.google.com/youtube/answer/12104471)
-* [How Content ID works](https://support.google.com/youtube/answer/2797370)
-* [Monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961)
-* [Remove claimed content from videos](https://support.google.com/youtube/answer/2902117)
+*   [Learn about Content ID claims](https://support.google.com/youtube/answer/6013276)
+*   [Appeal a Content ID claim](https://support.google.com/youtube/answer/12104471)
+*   [How Content ID works](https://support.google.com/youtube/answer/2797370)
+*   [Monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961)
+*   [Remove claimed content from videos](https://support.google.com/youtube/answer/2902117)
