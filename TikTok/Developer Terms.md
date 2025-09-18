@@ -411,13 +411,13 @@ Direct Post API enables developers to build "Share to TikTok" experiences in the
 
 If your API client has not been audited, the following restrictions will apply:
 
-* **User cap**: Unaudited API Clients can allow up to 5 users to post in a 24 hour window. All user accounts using the API client to post must be set to private at the time of posting.
-* **Private Viewership**: Unaudited API Clients can only post contents in `SELF_ONLY` viewership. To make the contents publicly viewable later on, the account owner must first change their account visibility to public, and then change the privacy settings of each content to "Everyone."
+*   **User cap**: Unaudited API Clients can allow up to 5 users to post in a 24 hour window. All user accounts using the API client to post must be set to private at the time of posting.
+*   **Private Viewership**: Unaudited API Clients can only post contents in `SELF_ONLY` viewership. To make the contents publicly viewable later on, the account owner must first change their account visibility to public, and then change the privacy settings of each content to "Everyone."
 
 Additionally, both audited and unaudited API clients will be subject to the following caps:
 
-* **Creator cap**: There will be a 24-hour active creator cap for each API client based on the usage estimates provided in the audit application form.
-* **Posting cap**: There is a limit on the number of posts that can be made to a creator account in a 24-hour window via Direct Post API. The upper limit may vary among creators (typically around 15 posts per day/ creator account) and is shared across all API Clients using Direct Post.
+*   **Creator cap**: There will be a 24-hour active creator cap for each API client based on the usage estimates provided in the audit application form.
+*   **Posting cap**: There is a limit on the number of posts that can be made to a creator account in a 24-hour window via Direct Post API. The upper limit may vary among creators (typically around 15 posts per day/ creator account) and is shared across all API Clients using Direct Post.
 
   
 
@@ -451,14 +451,14 @@ a. Title
 
 b. Privacy Status, with the following mandatory requirements:
 
-* The options listed in the UX must follow the `privacy_level_options` returned in the _creator\_info API_.
-* Users must manually select the privacy status from a dropdown and there should be no default value.
+*   The options listed in the UX must follow the `privacy_level_options` returned in the _creator\_info API_.
+*   Users must manually select the privacy status from a dropdown and there should be no default value.
 
 c. Interaction Ability - Allow Comment, Duet, and Stitch - with the following style requirements:
 
-* If the creator\_info API returns that one or more of these interactions have been disabled in their app settings, your UX must disable and grey out the checkbox for the interaction.
-* Users must manually turn on these interaction settings and none should be checked by default.
-* Duet and Stitch features are not applicable to photo posts. So, for Photo Posts, only 'Allow Comment' can be displayed in the UX.
+*   If the creator\_info API returns that one or more of these interactions have been disabled in their app settings, your UX must disable and grey out the checkbox for the interaction.
+*   Users must manually turn on these interaction settings and none should be checked by default.
+*   Duet and Stitch features are not applicable to photo posts. So, for Photo Posts, only 'Allow Comment' can be displayed in the UX.
 
 NOTE: Before allowing users to post through your platform, there should be a declaration asking for a user's consent before the publish button. It should clearly state: "By posting, you agree to TikTok's [Music Usage Confirmation](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)"
 
@@ -468,21 +468,21 @@ NOTE: Before allowing users to post through your platform, there should be a dec
 
 a. **Content Disclosure Setting** - Indicate whether this content promotes yourself, a brand, product or service, with this feature `turned off` by default. Enabling this feature will display checkboxes for "Your brand" and "Branded content" below, allowing users to select their preferences.
 
-* **Your Brand**: You are promoting yourself or your own business. This content will be classified as Brand Organic. **If this option is selected by the user, a** **prompt should state: "****Your photo/video will be labeled as 'Promotional content'****"**
-* **Branded Content**: You are promoting another brand or a third party. This content will be classified as Branded Content. **If this option is selected by the user, a** **prompt should state: "****Your photo/video will be labeled as 'Paid partnership'****"**
-* If both the above options are selected by the user, a prompt should state "_Your photo/video will be labeled as 'Paid partnership'_"
+*   **Your Brand**: You are promoting yourself or your own business. This content will be classified as Brand Organic. **If this option is selected by the user, a** **prompt should state: "****Your photo/video will be labeled as 'Promotional content'****"**
+*   **Branded Content**: You are promoting another brand or a third party. This content will be classified as Branded Content. **If this option is selected by the user, a** **prompt should state: "****Your photo/video will be labeled as 'Paid partnership'****"**
+*   If both the above options are selected by the user, a prompt should state "_Your photo/video will be labeled as 'Paid partnership'_"
 
 It is a multiple selection, and at least one of the options above must be chosen to proceed with publishing. If the commercial content disclosure toggle is `turned on` but no options are selected, the publish button should be `disabled`. To make it easier for users to follow, **hovering over will show a notification: "****You need to indicate if your content promotes yourself, a third party, or both****.****"**
 
 b. **Privacy Management:**
 
-* If a user wants to choose Branded Content, it is important to **note that it can only be configured with visibility as public/friends**.
-* If the visibility setting is chosen as "private" (only me):
+*   If a user wants to choose Branded Content, it is important to **note that it can only be configured with visibility as public/friends**.
+*   If the visibility setting is chosen as "private" (only me):
 
-* Either the "Branded Content" option should be `disabled`, **informing the user that visibility for branded content can't be private**.
-* OR, the visibility setting should be automatically switched to public if the user wants to choose Branded Content, **informing the user about the same**.
+*   Either the "Branded Content" option should be `disabled`, **informing the user that visibility for branded content can't be private**.
+*   OR, the visibility setting should be automatically switched to public if the user wants to choose Branded Content, **informing the user about the same**.
 
-* Before selecting the privacy/visibility setting, if a user has `turned on` the commercial content disclosure toggle and checked the branded content option, then the "only me" permission should be `disabled`, and **hovering over it will display a prompt stating, "Branded content visibility cannot be set to private."**
+*   Before selecting the privacy/visibility setting, if a user has `turned on` the commercial content disclosure toggle and checked the branded content option, then the "only me" permission should be `disabled`, and **hovering over it will display a prompt stating, "Branded content visibility cannot be set to private."**
 
   
 
@@ -490,9 +490,9 @@ b. **Privacy Management:**
 
 If the user is trying to post commercial content (i.e. commercial content toggle is `turned on`):
 
-* When only "Your Brand" is checked, the declaration should be the same as mentioned above: "By posting, you agree to TikTok's [Music Usage Confirmation](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)."
-* When only "Branded Content" is checked, the declaration should be changed to: "By posting, you agree to TikTok's [Branded Content Policy](https://www.tiktok.com/legal/page/global/bc-policy/en) and [Music Usage Confirmation.](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)"
-* Additionally, when both options are selected, the declaration should be: "By posting, you agree to TikTok's [Branded Content Policy](https://www.tiktok.com/legal/page/global/bc-policy/en) and [Music Usage Confirmation](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)."
+*   When only "Your Brand" is checked, the declaration should be the same as mentioned above: "By posting, you agree to TikTok's [Music Usage Confirmation](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)."
+*   When only "Branded Content" is checked, the declaration should be changed to: "By posting, you agree to TikTok's [Branded Content Policy](https://www.tiktok.com/legal/page/global/bc-policy/en) and [Music Usage Confirmation.](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)"
+*   Additionally, when both options are selected, the declaration should be: "By posting, you agree to TikTok's [Branded Content Policy](https://www.tiktok.com/legal/page/global/bc-policy/en) and [Music Usage Confirmation](https://www.tiktok.com/legal/page/global/music-usage-confirmation/en)."
 
   
 
