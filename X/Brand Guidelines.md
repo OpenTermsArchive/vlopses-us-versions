@@ -1,13 +1,3 @@
-1.  [Help Center](https://help.x.com/en)
-3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5.  Trademark policy
-
-Trademark policy
-----------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-
 Trademark policy
 ================
 
