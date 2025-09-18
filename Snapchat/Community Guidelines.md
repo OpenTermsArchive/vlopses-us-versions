@@ -41,66 +41,66 @@ apply to all content and behavior on Snapchat's platform and products, and cover
 
 Sexual Content
 
-* We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming, or sexual extortion (sextortion), or the sexualization of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
+*   We prohibit any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming, or sexual extortion (sextortion), or the sexualization of children. We report all identified instances of child sexual exploitation to authorities, including attempts to engage in such conduct. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). 
     
-* We prohibit promoting, distributing, or sharing pornographic content, as well as commercial activities that relate to pornography or sexual interactions (whether online or offline). 
+*   We prohibit promoting, distributing, or sharing pornographic content, as well as commercial activities that relate to pornography or sexual interactions (whether online or offline). 
     
-* Breastfeeding and other depictions of nudity in non-sexual contexts are generally permitted.
+*   Breastfeeding and other depictions of nudity in non-sexual contexts are generally permitted.
     
 
 [Learn More](https://values.snap.com/policy/policy-community-guidelines/sexual-content?lang=en-US)
 
 Threats, Violence, & Harm
 
-* Encouraging or engaging in violent or dangerous behavior is prohibited. Never intimidate or threaten to harm a person, a group of people, or someone’s property.
+*   Encouraging or engaging in violent or dangerous behavior is prohibited. Never intimidate or threaten to harm a person, a group of people, or someone’s property.
     
-* Snaps of gratuitous or graphic violence, including animal abuse, are not allowed.
+*   Snaps of gratuitous or graphic violence, including animal abuse, are not allowed.
     
-* We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide, or eating disorders.
+*   We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide, or eating disorders.
     
 
 [Learn More](https://values.snap.com/policy/policy-community-guidelines/threats-violence-harm?lang=en-US)
 
 Hateful Content, Terrorism, and Violent Extremism
 
-* Terrorist organizations, violent extremists, and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
+*   Terrorist organizations, violent extremists, and hate groups are prohibited from using our platform. We have no tolerance for content that advocates or advances terrorism or violent extremism.
     
-* Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status is prohibited.
+*   Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status is prohibited.
     
 
 [Read Next](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-US)
 
 Harassment and Bullying
 
-* We prohibit bullying or harassment of any kind. If someone blocks you, you may not contact them from another Snapchat account.
+*   We prohibit bullying or harassment of any kind. If someone blocks you, you may not contact them from another Snapchat account.
     
-* Sharing images of a person in a private space — like a bathroom, bedroom, locker room, or medical facility — without their knowledge and consent is prohibited, as is sharing another person’s private information without their knowledge and consent or for the purpose of harassment (i.e., “doxxing”).
+*   Sharing images of a person in a private space — like a bathroom, bedroom, locker room, or medical facility — without their knowledge and consent is prohibited, as is sharing another person’s private information without their knowledge and consent or for the purpose of harassment (i.e., “doxxing”).
     
-* If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. 
+*   If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. 
     
-* Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.
+*   Please also do not harass another Snapchatter by abusing our reporting mechanisms, such as intentionally reporting content that is permissible.
     
 
 [Learn More](https://values.snap.com/policy/policy-community-guidelines/harassment-bullying?lang=en-US)
 
 Illegal or Regulated Activities
 
-* Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labor trafficking, or other human trafficking.
+*   Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labor trafficking, or other human trafficking.
     
-* We prohibit the illegal promotion of regulated goods or industries, including unauthorized promotion of gambling, tobacco or vape products, and alcohol.
+*   We prohibit the illegal promotion of regulated goods or industries, including unauthorized promotion of gambling, tobacco or vape products, and alcohol.
     
 
 [Learn More](https://values.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-US)
 
 Harmful False or Deceptive Practices
 
-* We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes (whether through generative AI or through deceptive editing).
+*   We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes (whether through generative AI or through deceptive editing).
     
-* We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, public figures, brands, or other people or organizations for harmful, non-satirical purposes.
+*   We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, celebrities, public figures, brands, or other people or organizations for harmful, non-satirical purposes.
     
-* We prohibit spam, including pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
+*   We prohibit spam, including pay-for-follower promotions or other follower-growth schemes, the promotion of spam applications, or the promotion of multilevel marketing or pyramid schemes.
     
-* We prohibit fraud and other deceptive practices, including undisclosed paid or sponsored content, the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
+*   We prohibit fraud and other deceptive practices, including undisclosed paid or sponsored content, the promotion of fraudulent goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
     
 
 [Learn More](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-US)
@@ -150,11 +150,11 @@ The safety of Snapchatters is our top priority. We take behavior that threatens 
   
 When we identify Snapchatters engaging in any of the following activities, we immediately disable their accounts and, in some instances, refer the conduct to law enforcement:
 
-* Activity that involves sexual exploitation or abuse, including sharing child sexual exploitation or abuse imagery, grooming, child or adult sex trafficking, or sexual extortion (sextortion)   
+*   Activity that involves sexual exploitation or abuse, including sharing child sexual exploitation or abuse imagery, grooming, child or adult sex trafficking, or sexual extortion (sextortion)   
     
-* Attempted selling, exchanging, or facilitating sales of dangerous and illicit drugs
+*   Attempted selling, exchanging, or facilitating sales of dangerous and illicit drugs
     
-* Credible, imminent threats to human life, safety, or well-being, which may include violent extremism or terrorism-related activities, human trafficking, specific threats of violence (such as a bomb threat), or other serious criminal activities   
+*   Credible, imminent threats to human life, safety, or well-being, which may include violent extremism or terrorism-related activities, human trafficking, specific threats of violence (such as a bomb threat), or other serious criminal activities   
     
 
 In addition to enforcing stricter consequences for these violations, our internal teams are continually working with experts to better understand how we can detect and limit threats, prevent harm, and stay informed of potentially harmful trends. Our work on this topic is never finished and it will continue to evolve with the needs of our community. We invite you to [report a safety concern](https://values.snap.com/safety/safety-reporting?lang=en-US), visit our [Safety Center](https://values.snap.com/safety/safety-center?lang=en-US), or learn more about our [efforts to address harmful content and promote wellness](https://values.snap.com/news?lang=en-US).
@@ -191,17 +191,17 @@ Our Community Guidelines relating to threats, violence, and harm reflect a commi
 
 To promote safety, the following is prohibited on Snapchat: 
 
-* Glorification of self-harm, including the promotion of self-injury, self-mutilation, suicide, or eating disorders. 
+*   Glorification of self-harm, including the promotion of self-injury, self-mutilation, suicide, or eating disorders. 
     
-* Encouraging or engaging in violent or threatening behavior, including any content expressing an intention to cause serious physical or emotional harm to a person, a group of people, or damage to their property. Where content indicates a credible and imminent threat to human life or safety, our teams may alert law enforcement agencies who may be positioned to intervene. 
+*   Encouraging or engaging in violent or threatening behavior, including any content expressing an intention to cause serious physical or emotional harm to a person, a group of people, or damage to their property. Where content indicates a credible and imminent threat to human life or safety, our teams may alert law enforcement agencies who may be positioned to intervene. 
     
-* Vigilante activity. This includes coordinated efforts to intimidate or take physical action against individuals or communities outside proper legal process. 
+*   Vigilante activity. This includes coordinated efforts to intimidate or take physical action against individuals or communities outside proper legal process. 
     
-* Encouraging or engaging in dangerous behavior. This includes engaging in activities likely to be imitated that could lead to serious harm, such as high-risk challenges, reckless driving, or other behavior that poses a risk to public safety. 
+*   Encouraging or engaging in dangerous behavior. This includes engaging in activities likely to be imitated that could lead to serious harm, such as high-risk challenges, reckless driving, or other behavior that poses a risk to public safety. 
     
-* Content that glorifies, or risks inciting, violent or harmful behavior toward people or animals.  
+*   Content that glorifies, or risks inciting, violent or harmful behavior toward people or animals.  
     
-* Snaps of gratuitous or graphic violence, including animal abuse.
+*   Snaps of gratuitous or graphic violence, including animal abuse.
     
 
   
@@ -255,9 +255,9 @@ What you should expect
 
 Our rules prohibit the following: 
 
-* Using Snapchat for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband (such as child sexual abuse or exploitation imagery), endangered animals, or weapons. It also includes promoting or facilitating any form of exploitation, including human trafficking or sex trafficking.
+*   Using Snapchat for any illegal activity. This includes promoting, facilitating, or participating in criminal activity, such as buying, selling, exchanging, or facilitating sales of illegal or regulated drugs, contraband (such as child sexual abuse or exploitation imagery), endangered animals, or weapons. It also includes promoting or facilitating any form of exploitation, including human trafficking or sex trafficking.
     
-* The illegal promotion of regulated goods or industries. Examples of regulated activities that require prior approval from Snap include facilitating online gambling activities; selling alcoholic beverages; tobacco, or vape products; and promoting THC businesses. Businesses are encouraged to consult [this resource](https://forbusiness.snapchat.com/?lang=en-US) for guidance regarding appropriate commerce and advertising activities on Snapchat.
+*   The illegal promotion of regulated goods or industries. Examples of regulated activities that require prior approval from Snap include facilitating online gambling activities; selling alcoholic beverages; tobacco, or vape products; and promoting THC businesses. Businesses are encouraged to consult [this resource](https://forbusiness.snapchat.com/?lang=en-US) for guidance regarding appropriate commerce and advertising activities on Snapchat.
     
 
 We are committed to ensuring that Snapchatters have as much information as possible regarding the types of online behavior and activities that may violate the law and present serious risk to their safety. Through partnerships with nonprofit organizations and collaboration with diverse safety stakeholders, we aim to raise awareness about high-risk activities and ways that Snapchatters can stay safe. This includes in-app resources, like Here for You and Heads Up, as well as collaborations with safety stakeholders. We also cooperate with law enforcement agencies in response to valid legal processes concerning activities on Snapchat that may provide evidence of a crime.
@@ -310,11 +310,11 @@ What you should expect
 
 Snapchatters should feel safe and respected when using our products. Our policies against hateful content prohibit the following: 
 
-* Terrorist organizations, violent extremists, and hate groups. These entities are prohibited from using our platform. We have no tolerance for content that advocates or advances violent extremism or terrorism.
+*   Terrorist organizations, violent extremists, and hate groups. These entities are prohibited from using our platform. We have no tolerance for content that advocates or advances violent extremism or terrorism.
     
-* All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organizations or extremist hate groups––as designated by credible, third-party experts––as well as recruitment for such organizations or violent extremist activities.
+*   All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organizations or extremist hate groups––as designated by credible, third-party experts––as well as recruitment for such organizations or violent extremist activities.
     
-* Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+*   Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
     
 
 ### 
@@ -363,9 +363,9 @@ What you should expect
 
 Violations of our harassment and bullying policies include any unwanted behavior that could cause an ordinary person to experience emotional distress. These rules also require users to respect each other’s personal privacy. Violations of these rules include the following:
 
-* Verbal abuse, threats, or any behavior meant to shame, embarrass, or humiliate the target.  
+*   Verbal abuse, threats, or any behavior meant to shame, embarrass, or humiliate the target.  
     
-* Sharing another person’s private information and Snaps of people in private spaces — like a bathroom, bedroom, locker room, medical facility, or assisted living facility – without their knowledge or consent.  
+*   Sharing another person’s private information and Snaps of people in private spaces — like a bathroom, bedroom, locker room, medical facility, or assisted living facility – without their knowledge or consent.  
     
 
 To help avoid violations, we encourage Snapchatters not to take photos or videos of people without their permission, and to avoid sharing private information about other people, like their home address, birthdate, phone numbers, etc. If someone blocks you on Snapchat, you may not contact them from another account. If someone is depicted in your Snap and asks you to remove it, please do! Respect the privacy rights of others. 
@@ -414,19 +414,19 @@ What you should expect
 
 We prohibit the following sexual harms: 
 
-* Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming for sexual purposes, sexual extortion (sextortion), or the sexualization of children. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements. 
+*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming for sexual purposes, sexual extortion (sextortion), or the sexualization of children. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements. 
     
-* Any communication or behavior that attempts to persuade, trick, or coerce a minor with the intent of sexual abuse or exploitation, or which leverages fear or shame to keep a minor silent.
+*   Any communication or behavior that attempts to persuade, trick, or coerce a minor with the intent of sexual abuse or exploitation, or which leverages fear or shame to keep a minor silent.
     
-* All other forms of sexual exploitation, including sex trafficking, sextortion, and deceptive sexual practices, including efforts to coerce or entice users to provide nudes. 
+*   All other forms of sexual exploitation, including sex trafficking, sextortion, and deceptive sexual practices, including efforts to coerce or entice users to provide nudes. 
     
-* Producing, sharing, or threatening to share non-consensual intimate imagery (NCII)––including sexual photos or videos taken or shared without permission, as well as “revenge porn” or behavior that threatens to share, exploit, or expose individuals’ intimate images or videos without their consent.
+*   Producing, sharing, or threatening to share non-consensual intimate imagery (NCII)––including sexual photos or videos taken or shared without permission, as well as “revenge porn” or behavior that threatens to share, exploit, or expose individuals’ intimate images or videos without their consent.
     
-* All forms of sexual harassment. This may include making unwanted advances, sharing graphic and unsolicited content, or sending obscene requests or sexual invitations to other users.
+*   All forms of sexual harassment. This may include making unwanted advances, sharing graphic and unsolicited content, or sending obscene requests or sexual invitations to other users.
     
-* Promoting, distributing, or sharing pornographic content, including photos, videos, or even highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
+*   Promoting, distributing, or sharing pornographic content, including photos, videos, or even highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
     
-* Offers of sexual services, including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual chat or video services).
+*   Offers of sexual services, including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual chat or video services).
     
 
   
@@ -466,13 +466,13 @@ Overview
 
 Fostering a responsible information environment has been a major priority at Snap. Deceptive practices take on many forms and can undermine trust and pose a threat to Snapchatters’ safety and security. Our policies are intended to reduce the spread of misinformation, and protect users from fraud and spam, across a broad range of circumstances.
 
-* We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes (including through generative AI or deceptive editing).
+*   We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes, or manipulating content for false or misleading purposes (including through generative AI or deceptive editing).
     
-* We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, peers, celebrities, brands, or other individuals or organizations.
+*   We prohibit pretending to be someone (or something) that you’re not, or attempting to deceive people about who you are. This includes impersonating your friends, peers, celebrities, brands, or other individuals or organizations.
     
-* We prohibit fraud and deceptive practices, including scams, money laundering, and the promotion of fraudulent goods and services.
+*   We prohibit fraud and deceptive practices, including scams, money laundering, and the promotion of fraudulent goods and services.
     
-* We prohibit spam, including unsolicited or artificially inflated content or engagement.
+*   We prohibit spam, including unsolicited or artificially inflated content or engagement.
     
 
 ### 
@@ -489,19 +489,19 @@ There are several categories of information in which the misrepresentation of fa
 
 Examples of the information categories that we view as particularly vulnerable to harm include:
 
-* **_Content that denies the existence of tragic events_****.** We prohibit content that disputes, for example, the Holocaust, or denies the events of the Sandy Hook school shooting in the U.S. Misrepresentations and unfounded theories regarding such tragedies may contribute to violence and hate, in addition to harming users whose lives and families have been impacted by such events.
+*   **_Content that denies the existence of tragic events_****.** We prohibit content that disputes, for example, the Holocaust, or denies the events of the Sandy Hook school shooting in the U.S. Misrepresentations and unfounded theories regarding such tragedies may contribute to violence and hate, in addition to harming users whose lives and families have been impacted by such events.
     
-* **_Content that promotes unsubstantiated medical claims._** We prohibit content that, for example, recommends untested therapies for preventing the spread of COVID-19; that features unfounded theories about vaccines; or that promotes debunked, harmful practices such as so-called “conversion therapy.” While the field of medicine is ever-changing, and public health agencies may often revise guidance, such credible organizations are subject to standards and accountability and we may look to them to provide a benchmark for responsible health and medical guidance.
+*   **_Content that promotes unsubstantiated medical claims._** We prohibit content that, for example, recommends untested therapies for preventing the spread of COVID-19; that features unfounded theories about vaccines; or that promotes debunked, harmful practices such as so-called “conversion therapy.” While the field of medicine is ever-changing, and public health agencies may often revise guidance, such credible organizations are subject to standards and accountability and we may look to them to provide a benchmark for responsible health and medical guidance.
     
-* **_Content that undermines the integrity of civic processes._** Elections and other civic processes play an essential role in the functioning of rights-respecting societies, and also present unique targets for information manipulation. To safeguard the information environment around such events, we enforce our policies to apply to the following types of threats to civic processes:
+*   **_Content that undermines the integrity of civic processes._** Elections and other civic processes play an essential role in the functioning of rights-respecting societies, and also present unique targets for information manipulation. To safeguard the information environment around such events, we enforce our policies to apply to the following types of threats to civic processes:
     
-* _Procedural interference:_ misinformation related to actual election or civic procedures, such as misrepresenting important dates and times or eligibility requirements for participation.
+*   _Procedural interference:_ misinformation related to actual election or civic procedures, such as misrepresenting important dates and times or eligibility requirements for participation.
     
-* _Participation interference:_ content that includes intimidation to personal safety or spreads rumors to deter participation in the electoral or civic process.
+*   _Participation interference:_ content that includes intimidation to personal safety or spreads rumors to deter participation in the electoral or civic process.
     
-* _Fraudulent or unlawful participation:_ content that encourages people to misrepresent themselves to participate in the civic process or to illegally cast or destroy ballots.
+*   _Fraudulent or unlawful participation:_ content that encourages people to misrepresent themselves to participate in the civic process or to illegally cast or destroy ballots.
     
-* _Delegitimization of civic processes:_ content aiming to delegitimize democratic institutions on the basis of false or misleading claims about election results, for example.
+*   _Delegitimization of civic processes:_ content aiming to delegitimize democratic institutions on the basis of false or misleading claims about election results, for example.
     
 
   
