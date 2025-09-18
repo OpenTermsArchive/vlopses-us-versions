@@ -115,16 +115,16 @@ We will process any audio or audiovisual content uploaded by you to the Service 
 
 The following restrictions apply to your use of the Service. You are not allowed to:
 
-1. access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as expressly authorized by the Service; or (b) with prior written permission from YouTube and, if applicable, the respective rights holders;
-2. circumvent, disable, fraudulently engage with, or otherwise interfere with any part of the Service (or attempt to do any of these things), including security-related features or features that (a) prevent or restrict the copying or other use of Content or (b) limit the use of the Service or Content;
-3. access the Service using any automated means (such as robots, botnets or scrapers) except (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; or (b) with YouTube’s prior written permission; 
-4. collect or harvest any information that might identify a person (for example, usernames or faces), unless permitted by that person or allowed under section (3) above;
-5. use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations;
-6. cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics in any manner;
-7. misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
-8. run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
-9. use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
-10. use the Service to (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://support.google.com/youtube/topic/9257894?ref_topic=2972865) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the main draw for users visiting the webpage).
+1.  access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as expressly authorized by the Service; or (b) with prior written permission from YouTube and, if applicable, the respective rights holders;
+2.  circumvent, disable, fraudulently engage with, or otherwise interfere with any part of the Service (or attempt to do any of these things), including security-related features or features that (a) prevent or restrict the copying or other use of Content or (b) limit the use of the Service or Content;
+3.  access the Service using any automated means (such as robots, botnets or scrapers) except (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; or (b) with YouTube’s prior written permission; 
+4.  collect or harvest any information that might identify a person (for example, usernames or faces), unless permitted by that person or allowed under section (3) above;
+5.  use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations;
+6.  cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics in any manner;
+7.  misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
+8.  run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
+9.  use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
+10.  use the Service to (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://support.google.com/youtube/topic/9257894?ref_topic=2972865) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the main draw for users visiting the webpage).
 
 **Reservation**
 
@@ -219,13 +219,13 @@ OTHER THAN AS EXPRESSLY STATED IN THIS AGREEMENT OR AS REQUIRED BY LAW, THE SERV
 
 EXCEPT AS REQUIRED BY APPLICABLE LAW, YOUTUBE, ITS AFFILIATES, OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS WILL NOT BE RESPONSIBLE FOR ANY LOSS OF PROFITS, REVENUES, BUSINESS OPPORTUNITIES, GOODWILL, OR ANTICIPATED SAVINGS; LOSS OR CORRUPTION OF DATA; INDIRECT OR CONSEQUENTIAL LOSS; PUNITIVE DAMAGES CAUSED BY:
 
-1. ERRORS, MISTAKES, OR INACCURACIES ON THE SERVICE;
-2. PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM YOUR USE OF THE SERVICE;
-3. ANY UNAUTHORIZED ACCESS TO OR USE OF THE SERVICE;
-4. ANY INTERRUPTION OR CESSATION OF THE SERVICE;
-5. ANY VIRUSES OR MALICIOUS CODE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY;
-6. ANY CONTENT WHETHER SUBMITTED BY A USER OR YOUTUBE, INCLUDING YOUR USE OF CONTENT; AND/OR
-7. THE REMOVAL OR UNAVAILABILITY OF ANY CONTENT.
+1.  ERRORS, MISTAKES, OR INACCURACIES ON THE SERVICE;
+2.  PERSONAL INJURY OR PROPERTY DAMAGE RESULTING FROM YOUR USE OF THE SERVICE;
+3.  ANY UNAUTHORIZED ACCESS TO OR USE OF THE SERVICE;
+4.  ANY INTERRUPTION OR CESSATION OF THE SERVICE;
+5.  ANY VIRUSES OR MALICIOUS CODE TRANSMITTED TO OR THROUGH THE SERVICE BY ANY THIRD PARTY;
+6.  ANY CONTENT WHETHER SUBMITTED BY A USER OR YOUTUBE, INCLUDING YOUR USE OF CONTENT; AND/OR
+7.  THE REMOVAL OR UNAVAILABILITY OF ANY CONTENT.
 
 THIS PROVISION APPLIES TO ANY CLAIM, REGARDLESS OF WHETHER THE CLAIM ASSERTED IS BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY.
 
