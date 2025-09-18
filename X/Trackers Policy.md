@@ -1,13 +1,3 @@
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  How cookies are used on X
-
-How cookies are used on X
--------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 How cookies are used on X
 =========================
 
