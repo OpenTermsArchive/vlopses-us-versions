@@ -1,13 +1,3 @@
-1.  [Help Center](https://help.x.com/en)
-3.  [General](https://help.x.com/en/rules-and-policies#general)
-5.  The X Rules
-
-The X Rules
------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [General](https://help.x.com/en/rules-and-policies#general)
-
 The X Rules
 ===========
 
@@ -201,16 +191,6 @@ Appeals
 If you believe we made a mistake, you can [submit an appeal](https://help.twitter.com/forms/account-access/appeals.html).
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Violent and hateful entities policy
-
-Violent and hateful entities policy
------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Violent and hateful entities policy
 ===================================
@@ -444,16 +424,6 @@ We are constantly seeking feedback and input from trusted organizations that are
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Abuse and harassment
-
-Abuse and harassment
---------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Abuse and Harassment
 ====================
 
@@ -568,16 +538,6 @@ Post
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Hateful Conduct
-
-Hateful Conduct
----------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Hateful Conduct
 ===============
 
@@ -680,16 +640,6 @@ Post
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Perpetrators of violent attacks policy
-
-Perpetrators of violent attacks policy
---------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Perpetrators of Violent Attacks
 ===============================
 
@@ -791,16 +741,6 @@ Learn more about our [range of enforcement options](https://help.x.com/en/rules-
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Suicide and Self-harm Policy
-
-Suicide and Self-harm Policy
-----------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Suicide and Self-harm policy
 ============================
@@ -1052,16 +992,6 @@ If you believe we made a mistake, you can [submit an appeal](https://help.twitte
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  X shopping policies
-
-X shopping policies
--------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 X Shopping Policy
 =================
 
@@ -1207,16 +1137,6 @@ All merchants who list their merchandise through X Shopping must comply with the
 *   Limit amplification of your account via recommendations to accounts that do not follow you.
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Private information policy
-
-Private information policy
---------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Private Content
 ===============
@@ -1409,16 +1329,6 @@ Learn more about our [range of enforcement options](https://help.twitter.com/rul
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Non-consensual nudity policy
-
-Non-consensual nudity policy
-----------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
 
 Non-consensual nudity policy
 ============================
@@ -1749,16 +1659,6 @@ You can report inauthentic accounts, behaviors and content using our dedicated i
 If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform integrity and authenticity](https://help.x.com/en/rules-and-policies#platform-integrity-and-authenticity)
-5.  Civic integrity policy
-
-Civic integrity policy
-----------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform integrity and authenticity](https://help.x.com/en/rules-and-policies#platform-integrity-and-authenticity)
 
 Civic integrity policy
 ======================
@@ -2295,16 +2195,6 @@ If you believe we made a mistake, you can [submit an appeal](https://help.x.com
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5.  Trademark policy
-
-Trademark policy
-----------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-
 Trademark policy
 ================
 
@@ -2357,16 +2247,6 @@ Learn more about [our range of enforcement options](https://help.twitter.com/rul
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [General](https://help.x.com/en/rules-and-policies#general)
-5.  Username squatting policy
-
-Username squatting policy
--------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [General](https://help.x.com/en/rules-and-policies#general)
 
 Username squatting policy
 =========================
@@ -2823,16 +2703,6 @@ If you believe we made a mistake, you can [submit an appeal](https://help.x.com
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-5.  Abusive profile information
-
-Abusive profile information
----------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Safety and cybercrime](https://help.x.com/en/rules-and-policies#safety-and-cybercrime)
-
 Abusive profile information
 ===========================
 
@@ -2874,16 +2744,6 @@ Post
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5.  Automated copyright claims for live video
-
-Automated copyright claims for live video
------------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-
 Automated copyright claims for live video
 =========================================
 
@@ -2905,16 +2765,6 @@ If you are a X business partner and have questions regarding automated copyright
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5.  Counterfeit policy
-
-Counterfeit policy
-------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
 
 Counterfeit policy
 ==================
@@ -2976,16 +2826,6 @@ Learn more about [our range of enforcement options](https://help.twitter.com/rul
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  About public-interest exceptions on X
-
-About public-interest exceptions on X
--------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 About public-interest exceptions on X
 =====================================
@@ -3089,16 +2929,6 @@ Note: Given the acute harm that media involving child sexual exploitation, non-
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  About X limits
-
-About X limits
---------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 About X limits
 ==============
 
@@ -3138,16 +2968,6 @@ If you've hit a follow limit, please see this [follow limit troubleshooting](htt
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  About specific instances when a post’s reach may be limited
-
-About specific instances when a post’s reach may be limited
------------------------------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 About specific instances when a post’s reach may be limited
 ===========================================================
@@ -3193,16 +3013,6 @@ If you notice other instances where posts are not appearing, we encourage you to
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  Our range of enforcement options
-
-Our range of enforcement options
---------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 Our range of enforcement options
 ================================
@@ -3266,16 +3076,6 @@ Users can appeal account suspensions if they believe we made an error. They can 
 **Withholding a post or account in a country:** We may withhold access to certain content in a particular country if we receive a valid and properly scoped request from an authorized entity in that country. Read more about [country withheld content](https://help.x.com/en/rules-and-policies/tweet-withheld-by-country.html).
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  X Moments guidelines and principles
-
-X Moments guidelines and principles
------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 X Moments guidelines and principles
 ===================================
@@ -3351,16 +3151,6 @@ Post
 
 - - -
 
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  Fair use policy
-
-Fair use policy
----------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 Fair use policy
 ===============
 
@@ -3393,16 +3183,6 @@ For more information on fair use:
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  Our approach to policy development and enforcement philosophy
-
-Our approach to policy development and enforcement philosophy
--------------------------------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
 
 Our approach to policy development and enforcement philosophy
 =============================================================
