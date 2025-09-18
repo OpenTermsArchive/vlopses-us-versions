@@ -261,7 +261,7 @@ Learn more about the dispute process in this video's chapter "Dispute Process fo
 
 [Content ID Claims & Dispute Process: Manage & Action Claims in Studio](https://www.youtube.com/watch?v=ybmRMEJG6LY)
 
-Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ?sub_confirmation=1) for the latest news, updates, and tips.
+Subscribe to the [YouTube Creators channel](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ) for the latest news, updates, and tips.
 
 Frequently asked questions (FAQs)
 ---------------------------------
