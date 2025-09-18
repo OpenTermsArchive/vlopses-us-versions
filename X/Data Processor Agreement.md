@@ -1,13 +1,3 @@
-1.  [Help Center](https://help.x.com/en)
-3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-5.  Additional information about data processing
-
-Additional information about data processing
---------------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)
-
 Additional information about data processing
 ============================================
 
