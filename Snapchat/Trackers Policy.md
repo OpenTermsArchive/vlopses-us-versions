@@ -87,24 +87,24 @@ You can also customize which cookies may be set by adjusting your settings on ou
 
 Third-party advertising partners
 
-* [Bing](https://privacy.microsoft.com/privacystatement?lang=en-US)
+*   [Bing](https://privacy.microsoft.com/privacystatement?lang=en-US)
     
-* [Facebook](https://www.facebook.com/policies/cookies/?lang=en-US)
+*   [Facebook](https://www.facebook.com/policies/cookies/?lang=en-US)
     
-* [Google Analytics](https://policies.google.com/technologies/cookies?lang=en-US)
+*   [Google Analytics](https://policies.google.com/technologies/cookies?lang=en-US)
     
-* [Hubspot](https://www.hubspot.com/?lang=en-US)
+*   [Hubspot](https://www.hubspot.com/?lang=en-US)
     
-* [LinkedIn](https://www.linkedin.com/legal/cookie-policy?lang=en-US)
+*   [LinkedIn](https://www.linkedin.com/legal/cookie-policy?lang=en-US)
     
-* [Pardot](https://www.salesforce.com/company/privacy?lang=en-US)
+*   [Pardot](https://www.salesforce.com/company/privacy?lang=en-US)
     
-* [PayPal](https://www.paypal.com/us/webapps/mpp/ua/cookie-full?lang=en-US)
+*   [PayPal](https://www.paypal.com/us/webapps/mpp/ua/cookie-full?lang=en-US)
     
-* [Pinterest](https://policy.pinterest.com/cookies?lang=en-US)
+*   [Pinterest](https://policy.pinterest.com/cookies?lang=en-US)
     
-* [Reddit](https://www.reddit.com/policies/cookies?lang=en-US)
+*   [Reddit](https://www.reddit.com/policies/cookies?lang=en-US)
     
-* [The Trade Desk](https://www.thetradedesk.com/us/privacy?lang=en-US)
+*   [The Trade Desk](https://www.thetradedesk.com/us/privacy?lang=en-US)
     
-* [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies?lang=en-US)
+*   [Twitter](https://help.twitter.com/rules-and-policies/twitter-cookies?lang=en-US)
