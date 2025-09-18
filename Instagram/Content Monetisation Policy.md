@@ -51,10 +51,10 @@ Content that incentivizes people to click a link or respond to a post through li
 
 Content that requests compensation in exchange for extreme behavior, such as:
 
-* Consumption of inedible substances.
-* Showing graphic content.
-* Consumption of drugs, tobacco or alcohol.
-* Disrobing or other sexual behavior.
+*   Consumption of inedible substances.
+*   Showing graphic content.
+*   Consumption of drugs, tobacco or alcohol.
+*   Disrobing or other sexual behavior.
 
 Prohibited categories
 ---------------------
@@ -82,17 +82,17 @@ Content that depicts or discusses subjects in the following categories may face 
 
 Content may be subject to reduced or disabled monetization if it depicts or discusses the following subjects in a polarizing or inflammatory manner:
 
-* Race
-* Gender
-* National origin
-* Age
-* Political affiliation
-* Ethnicity
-* Disability
-* Sexual orientation
-* Socioeconomic class
-* Religion
-* Immigration
+*   Race
+*   Gender
+*   National origin
+*   Age
+*   Political affiliation
+*   Ethnicity
+*   Disability
+*   Sexual orientation
+*   Socioeconomic class
+*   Religion
+*   Immigration
 
 **Tragedy or conflict**
 
@@ -100,75 +100,75 @@ Content may face reduced or disabled monetization if it displays or discusses ev
 
 Content that depicts or discusses these subjects in an explicitly uplifting manner may still be eligible for monetization.
 
-* Death
-* Physical injury
-* Mental disabilities
-* Illness
-* Physical abuse
-* Sexual abuse
-* Emotional abuse
-* Property damage
+*   Death
+*   Physical injury
+*   Mental disabilities
+*   Illness
+*   Physical abuse
+*   Sexual abuse
+*   Emotional abuse
+*   Property damage
 
 **Objectionable activity**
 
 Content may face reduced or disabled monetization if it displays or discusses substance abuse or criminal behavior. Depictions or discussions of these subjects, either real or fictional, may affect monetization for your content:
 
-* Substance abuse
-* Threats
-* Advocating for harm
-* Trafficking
-* Theft
-* Vandalism
-* Trespassing
-* Corruption
-* Fraud
-* Bribery
-* Insider trading
-* Embezzlement
-* Hacking
-* Copyright infringement
-* Judicial proceedings
+*   Substance abuse
+*   Threats
+*   Advocating for harm
+*   Trafficking
+*   Theft
+*   Vandalism
+*   Trespassing
+*   Corruption
+*   Fraud
+*   Bribery
+*   Insider trading
+*   Embezzlement
+*   Hacking
+*   Copyright infringement
+*   Judicial proceedings
 
 **Sexual or suggestive activity**
 
 Content may face reduced or disabled monetization if it contains sexual subject matter. Depictions or discussions of these subjects, either real or fictional, may affect monetization for your content.
 
-* Nudity
-* Sexual activity
-* Sexual poses
-* Suggestive dancing
-* Simulations of sexual activity
-* Sex objects
-* Suggestive language
-* Revealing or absent items of clothing
+*   Nudity
+*   Sexual activity
+*   Sexual poses
+*   Suggestive dancing
+*   Simulations of sexual activity
+*   Sex objects
+*   Suggestive language
+*   Revealing or absent items of clothing
 
 **Strong language**
 
 Content may face reduced or disabled monetization if it contains profane or derogatory language. This language, either spoken, written or otherwise represented may affect monetization for your content.
 
-* Profanity
-* Derogatory words
-* Slurs
-* Sexual words
-* Innuendos
-* Crude gestures
-* Vulgar motions
+*   Profanity
+*   Derogatory words
+*   Slurs
+*   Sexual words
+*   Innuendos
+*   Crude gestures
+*   Vulgar motions
 
 **Explicit content**
 
 Content may not be monetized if it displays or discusses gore or bodily conditions. Depictions of these subjects, either real or fictional, may affect monetization for your content.
 
-* Wounds
-* Infections
-* Bodily fluids
-* Medical procedures
-* Food processing
-* Extreme body modification
-* Bodily functions
-* Ingesting substances not intended for consumption
-* Ingesting nauseating substances
-* Decay
-* Infestation
+*   Wounds
+*   Infections
+*   Bodily fluids
+*   Medical procedures
+*   Food processing
+*   Extreme body modification
+*   Bodily functions
+*   Ingesting substances not intended for consumption
+*   Ingesting nauseating substances
+*   Decay
+*   Infestation
 
 - - -
 
@@ -218,11 +218,11 @@ Creators and publishers must have an authentic, established presence on Instagra
 
 The following political and government entities are ineligible for monetization:
 
-* Current elected and appointed government officials
-* Current political candidates
-* Political parties
-* Registered political committees
-* Government agencies and departments
+*   Current elected and appointed government officials
+*   Current political candidates
+*   Political parties
+*   Registered political committees
+*   Government agencies and departments
 
 Communications that are regulated as political advertising under applicable law are also ineligible for monetization features.
 
