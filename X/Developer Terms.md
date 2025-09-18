@@ -220,11 +220,11 @@ Developer Policy
 Let's get started
 -----------------
 
-* [X + Developers](#1-a)
-* [Using this policy](#1-b)
+*   [X + Developers](#1-a)
+*   [Using this policy](#1-b)
 
-* [X + Developers](#1-a)
-* [Using this policy](#1-b)
+*   [X + Developers](#1-a)
+*   [Using this policy](#1-b)
 
 ### X + Developers 
 
@@ -255,9 +255,9 @@ Chapter 1
 Set yourself up for success
 ---------------------------
 
-* [Set yourself up for success](#2-a)
+*   [Set yourself up for success](#2-a)
 
-* [Set yourself up for success](#2-a)
+*   [Set yourself up for success](#2-a)
 
 ### Set yourself up for success
 
@@ -288,21 +288,21 @@ Chapter 2
 Privacy and control are essential
 ---------------------------------
 
-* [Privacy and control are essential](#3-a)
-* [Consent & permissions](#3-b)
-* [Content compliance](#3-c)
-* [Off-X matching](#3-d)
-* [Your privacy policy](#3-e)
-* [Using geo-data](#3-f)
-* [X passwords](#3-g)
+*   [Privacy and control are essential](#3-a)
+*   [Consent & permissions](#3-b)
+*   [Content compliance](#3-c)
+*   [Off-X matching](#3-d)
+*   [Your privacy policy](#3-e)
+*   [Using geo-data](#3-f)
+*   [X passwords](#3-g)
 
-* [Privacy and control are essential](#3-a)
-* [Consent & permissions](#3-b)
-* [Content compliance](#3-c)
-* [Off-X matching](#3-d)
-* [Your privacy policy](#3-e)
-* [Using geo-data](#3-f)
-* [X passwords](#3-g)
+*   [Privacy and control are essential](#3-a)
+*   [Consent & permissions](#3-b)
+*   [Content compliance](#3-c)
+*   [Off-X matching](#3-d)
+*   [Your privacy policy](#3-e)
+*   [Using geo-data](#3-f)
+*   [X passwords](#3-g)
 
 ### Privacy and control are essential
 
@@ -314,44 +314,44 @@ Your commitment to privacy and control must extend to all uses of X Content and 
 
 **In particular, you must get express and informed consent from people before doing any of the following:**
 
-* Taking _any_ actions on their behalf. This includes (but is not limited to): 
-    * Posting content to X
-    * Following/unfollowing accounts
-    * Modifying profile or account information
-    * Adding hashtags or any other content to Posts
-* Republishing content accessed by means other than via the X API or other X tools
-* Using someone’s X Content to promote a product or service
+*   Taking _any_ actions on their behalf. This includes (but is not limited to): 
+    *   Posting content to X
+    *   Following/unfollowing accounts
+    *   Modifying profile or account information
+    *   Adding hashtags or any other content to Posts
+*   Republishing content accessed by means other than via the X API or other X tools
+*   Using someone’s X Content to promote a product or service
 
-* Storing non-public content such as Direct Messages (DMs), or any other private or confidential information
+*   Storing non-public content such as Direct Messages (DMs), or any other private or confidential information
     
-* Sharing or publishing protected content, or any other private or confidential information
+*   Sharing or publishing protected content, or any other private or confidential information
     
 
 **If your service allows people to post content to X you must do the following before publishing:**
 
-* Show exactly what will be published
+*   Show exactly what will be published
     
-* Make it clear to people using your service what geo information (if any) will be added to the content
+*   Make it clear to people using your service what geo information (if any) will be added to the content
     
 
 **If your service allows people to post content to both your service and X, you must do the following before publishing:**
 
-* Obtain permission to post the content
+*   Obtain permission to post the content
     
-* Explain where you will post the content
+*   Explain where you will post the content
     
 
 **You must respect the protected and blocked status of all X Content. You may not serve content obtained using one person’s authentication token to a different person who is not authorized to view that content.**
 
-* **Protected accounts:** A [protected account](https://help.x.com/safety-and-security/public-and-protected-posts)’s content is only available to people who have been approved by the owner to follow that account. So, if you run a service that accesses protected accounts, you may only do so to serve such content to the specific people with permission to view that content.
+*   **Protected accounts:** A [protected account](https://help.x.com/safety-and-security/public-and-protected-posts)’s content is only available to people who have been approved by the owner to follow that account. So, if you run a service that accesses protected accounts, you may only do so to serve such content to the specific people with permission to view that content.
     
-* **Blocked accounts:** People on X are able to [block](https://help.x.com/using-x/blocking-and-unblocking-accounts) access to their accounts for any reason they choose. Commingling information obtained from tokens (or any other API-based action) to bypass this choice is not permitted.
+*   **Blocked accounts:** People on X are able to [block](https://help.x.com/using-x/blocking-and-unblocking-accounts) access to their accounts for any reason they choose. Commingling information obtained from tokens (or any other API-based action) to bypass this choice is not permitted.
     
 
 **As Direct Messages (DMs) are non-public in nature, services that provide DM features must take extra steps to safeguard personal privacy. You may not serve DM content to people who are not authorized to view that content. If your service provides DM functionality you must also:**
 
-* Notify people if you send read receipt events for DMs. You can do this by providing a notice directly in your service, or by displaying read receipts from other participants in a conversation.
-* Get consent before configuring media to be sent in a DM as "shared" (i.e. reusable across multiple DMs). If you do allow media in a DM to be “shared,” you must provide a clear notice that this content will be accessible to anyone with the media’s URL.
+*   Notify people if you send read receipt events for DMs. You can do this by providing a notice directly in your service, or by displaying read receipts from other participants in a conversation.
+*   Get consent before configuring media to be sent in a DM as "shared" (i.e. reusable across multiple DMs). If you do allow media in a DM to be “shared,” you must provide a clear notice that this content will be accessible to anyone with the media’s URL.
     
 
 ### Content compliance
@@ -360,13 +360,13 @@ Your commitment to privacy and control must extend to all uses of X Content and 
 
 Modified content can take various forms. This includes (but is not limited to): 
 
-* Content that has been made private or gained protected status  
+*   Content that has been made private or gained protected status  
     
-* Content that has been suspended from the platform
+*   Content that has been suspended from the platform
     
-* Content that has had geotags removed from it
+*   Content that has had geotags removed from it
     
-* Content that has been withheld or removed from X
+*   Content that has been withheld or removed from X
     
 
 ### Off-X matching
@@ -375,30 +375,30 @@ Modified content can take various forms. This includes (but is not limited to):�
 
 In situations in which you don’t have a person’s express, opt-in consent to link their Xidentity to an off-X identifier, we require that any connection you draw be based only on information that someone would reasonably expect to be used for that purpose. In addition, absent a person’s express opt-in consent you may only attempt to match your records about someone to a X identity based on:
 
-* **Information provided directly to you by the person.** Note that records about individuals with whom you have no prior relationship, including data about individuals obtained from third parties, do not meet this standard; and/or
+*   **Information provided directly to you by the person.** Note that records about individuals with whom you have no prior relationship, including data about individuals obtained from third parties, do not meet this standard; and/or
     
-* **Public data.** “Public data” in this context refers to:
+*   **Public data.** “Public data” in this context refers to:
     
-    * Information about a person that you obtained from a public, generally-available resource (such as a directory of members of a professional association)
+    *   Information about a person that you obtained from a public, generally-available resource (such as a directory of members of a professional association)
         
-    * Information on X about a person that is publicly available, including:
+    *   Information on X about a person that is publicly available, including:
         
-        * Posts
+        *   Posts
             
-        * Profile information, including an account bio and publicly-stated location
+        *   Profile information, including an account bio and publicly-stated location
             
-        * Display name and @handle
+        *   Display name and @handle
             
 
 ### Your privacy policy
 
 **You must display your service’s privacy policy to people before they are permitted to download, install, or sign up to your service.** It must disclose at least the following information:
 
-* The information that you collect from people who use your service
+*   The information that you collect from people who use your service
     
-* How you use and share that information (including with X)
+*   How you use and share that information (including with X)
     
-* How people can contact you with inquiries and requests regarding their information
+*   How people can contact you with inquiries and requests regarding their information
     
 
 Your privacy policy must be consistent with all applicable laws, and be no less protective of people than [X’s Privacy Policy](https://x.com/privacy) and the [privacy policy of our other services and corporate affiliates](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates). You must cease your access to the X API and the use of all X Content if you are unable to comply with your and/or X’s Privacy Policy.
@@ -407,11 +407,11 @@ Your privacy policy must be consistent with all applicable laws, and be no less 
 
 **Use of geo data comes with additional restrictions due to the sensitive nature of this information.** If your service adds location information to Posts, you must disclose to people:
 
-* When you add location information
+*   When you add location information
     
-* Whether you add location information as a geotag or annotations data
+*   Whether you add location information as a geotag or annotations data
     
-* Whether your location information is listed as a place, or as geographic coordinates
+*   Whether your location information is listed as a place, or as geographic coordinates
     
 
 If your application allows people to post with their location you must comply with X’s [geo guidelines](https://developer.x.com/developer-terms/geo-guidelines) in full. 
@@ -427,25 +427,25 @@ Chapter 3
 Platform usage guidelines
 -------------------------
 
-* [Platform usage guidelines](#4-a)
-* [Spam, bots, and automation](#4-b)
-* [X performance benchmarking](#4-c)
-* [Public display of Posts](#4-d)
-* [Content redistribution](#4-e)
-* [Pay to engage](#4-g)
-* [Service authenticy](#4-h)
-* [X name, logo, and likeness](#4-j)
-* [Advertising on X](#4-k)
+*   [Platform usage guidelines](#4-a)
+*   [Spam, bots, and automation](#4-b)
+*   [X performance benchmarking](#4-c)
+*   [Public display of Posts](#4-d)
+*   [Content redistribution](#4-e)
+*   [Pay to engage](#4-g)
+*   [Service authenticy](#4-h)
+*   [X name, logo, and likeness](#4-j)
+*   [Advertising on X](#4-k)
 
-* [Platform usage guidelines](#4-a)
-* [Spam, bots, and automation](#4-b)
-* [X performance benchmarking](#4-c)
-* [Public display of Posts](#4-d)
-* [Content redistribution](#4-e)
-* [Pay to engage](#4-g)
-* [Service authenticy](#4-h)
-* [X name, logo, and likeness](#4-j)
-* [Advertising on X](#4-k)
+*   [Platform usage guidelines](#4-a)
+*   [Spam, bots, and automation](#4-b)
+*   [X performance benchmarking](#4-c)
+*   [Public display of Posts](#4-d)
+*   [Content redistribution](#4-e)
+*   [Pay to engage](#4-g)
+*   [Service authenticy](#4-h)
+*   [X name, logo, and likeness](#4-j)
+*   [Advertising on X](#4-k)
 
 ### Platform usage guidelines
 
@@ -457,13 +457,13 @@ Have you taken care to review X’s policies and set up your API access the righ
 
 **Services that perform write actions, including posting Posts, following accounts, or sending Direct Messages, must follow the [Automation Rules](https://help.x.com/rules-and-policies/x-automation).** In particular, you should: 
 
-* Always get explicit consent before sending people [automated replies or Direct Messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
+*   Always get explicit consent before sending people [automated replies or Direct Messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
     
-* Immediately respect requests to opt-out of being contacted by you
+*   Immediately respect requests to opt-out of being contacted by you
     
-* Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
+*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
     
-* Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
+*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
     
 
 **If you’re operating an API-based bot account you must clearly indicate what the account is and who is responsible for it.** You should never mislead or confuse people about whether your account is or is not a bot. A good way to do this is by including a statement that the account is a bot in the profile bio.
@@ -472,13 +472,13 @@ Have you taken care to review X’s policies and set up your API access the righ
 
 **You may not use the X API to measure the availability, performance, functionality, or usage of X for benchmarking, competitive, or commercial purposes.** For example, you should never use the X API to:
 
-* Calculate aggregate X metrics, such as the total number of Monthly Actives (MAs) or Daily Actives (DAs)
+*   Calculate aggregate X metrics, such as the total number of Monthly Actives (MAs) or Daily Actives (DAs)
     
-* Calculate aggregate X Post metrics, such as the total number of Posts posted per day, or the number of account engagements
+*   Calculate aggregate X Post metrics, such as the total number of Posts posted per day, or the number of account engagements
     
-* Measure or analyze the responsiveness of X
+*   Measure or analyze the responsiveness of X
     
-* Measure or analyze spam or security on X, except as permitted below
+*   Measure or analyze spam or security on X, except as permitted below
     
 
 **We support research that helps improve conversational health on X.** You may not publicly disclose any research or findings concerning, or develop, create, or offer services using, the X API or X Content that measure, analyze, or attempt to identify behaviors or content which violate X policies without express written permission from X.
@@ -493,19 +493,19 @@ Have you taken care to review X’s policies and set up your API access the righ
 
 **If you embed or display Posts, you must contact us about your X API access if your site exceeds 10 million daily impressions.** X reserves the right to require additional terms as a condition to your use of the X API. Additional restrictions on X for Websites developer use include:
 
-* **Embedded Posts and/or embedded timelines**  
+*   **Embedded Posts and/or embedded timelines**  
       
-    * You must provide people with legally sufficient notice that fully discloses X’s collection and use of data about browsing activities on your website, including for interest-based advertising and personalization. You must also obtain legally sufficient consent from people for such collection and use  
+    *   You must provide people with legally sufficient notice that fully discloses X’s collection and use of data about browsing activities on your website, including for interest-based advertising and personalization. You must also obtain legally sufficient consent from people for such collection and use  
         
-    * You must provide legally sufficient instructions on how people can opt out of X’s interest-based advertising and personalization as described [here](https://help.x.com/x-for-websites-ads-info-and-privacy)  
+    *   You must provide legally sufficient instructions on how people can opt out of X’s interest-based advertising and personalization as described [here](https://help.x.com/x-for-websites-ads-info-and-privacy)  
          
-* **X for Websites widgets**  
+*   **X for Websites widgets**  
       
-    * You must ensure that people are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices as described in X’s [cookie use](https://help.x.com/rules-and-policies/x-cookies), where providing such information and obtaining such consent is required by law  
+    *   You must ensure that people are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices as described in X’s [cookie use](https://help.x.com/rules-and-policies/x-cookies), where providing such information and obtaining such consent is required by law  
          
-* **Services targeted to children under 13**  
+*   **Services targeted to children under 13**  
       
-    * Services targeted to children under 13 must opt out of tailoring X in any embedded Post and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://developer.x.com/docs/twitter-for-websites/privacy)
+    *   Services targeted to children under 13 must opt out of tailoring X in any embedded Post and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://developer.x.com/docs/twitter-for-websites/privacy)
 
 ### Content redistribution
 
@@ -529,11 +529,11 @@ Any X Content provided to third parties remains subject to this Policy, and thos
 
 **You may not use any URL (including shortened URLs) for your service that directs people to:**
 
-* A site that is unrelated to your service
+*   A site that is unrelated to your service
     
-* A spam or malware site
+*   A spam or malware site
     
-* A site that encourages people to violate X policy
+*   A site that encourages people to violate X policy
     
 
 ### X name, logo, and likeness
@@ -546,11 +546,11 @@ Any X Content provided to third parties remains subject to this Policy, and thos
 
 **There are restrictions regarding how and where you are allowed to advertise around X Content.** To start, your advertisements can’t resemble or reasonably be confused by people as a Post. Other rules on advertising include:
 
-* **There must be a clear separation between X Content and your advertisements.** You may not place any advertisements within the X timeline other than X Ads.
+*   **There must be a clear separation between X Content and your advertisements.** You may not place any advertisements within the X timeline other than X Ads.
     
-* **X reserves the right to serve advertising via the X API.** If you decide to serve X Ads once we start delivering them via the API, we will share a portion of advertising revenue with you in accordance with the relevant terms and conditions.
+*   **X reserves the right to serve advertising via the X API.** If you decide to serve X Ads once we start delivering them via the API, we will share a portion of advertising revenue with you in accordance with the relevant terms and conditions.
     
-* **You may not use X Content, or information obtained from the X API to target people with advertising outside of the X platform.**
+*   **You may not use X Content, or information obtained from the X API to target people with advertising outside of the X platform.**
     
 
 Chapter 4
@@ -558,15 +558,15 @@ Chapter 4
 Rules for specific X services or features
 -----------------------------------------
 
-* [X login](#5-a)
-* [X Cards](#5-b)
-* [Definitions](#5-c)
-* [](#)
+*   [X login](#5-a)
+*   [X Cards](#5-b)
+*   [Definitions](#5-c)
+*   [](#)
 
-* [X login](#5-a)
-* [X Cards](#5-b)
-* [Definitions](#5-c)
-* [](#)
+*   [X login](#5-a)
+*   [X Cards](#5-b)
+*   [Definitions](#5-c)
+*   [](#)
 
 The following additional rules apply for any use of the X services or features listed below:
 
@@ -580,43 +580,43 @@ The following additional rules apply for any use of the X services or features l
 
 **To ensure a quality experience you must develop your Card to render across all platforms where Cards are displayed.** Additional rules that you must follow when using Cards include:
 
-* You must mark your Post as ‘true’ for sensitive media if you plan to display such media within a Card
+*   You must mark your Post as ‘true’ for sensitive media if you plan to display such media within a Card
     
-* You must use HTTPS for hosting all assets within your Card. Your Card should never generate active mixed content browser warnings
+*   You must use HTTPS for hosting all assets within your Card. Your Card should never generate active mixed content browser warnings
     
-* Audio and video content should include stop or pause controls, and default to ‘sound off’ for videos that automatically play content
+*   Audio and video content should include stop or pause controls, and default to ‘sound off’ for videos that automatically play content
     
 
 **You may not exceed or circumvent X’s limitations placed on any Cards, including the Card’s intended use.** Additional restrictions on Cards use include:
 
-* You may not place third-party sponsored content within Cards without X’s approval
+*   You may not place third-party sponsored content within Cards without X’s approval
     
-* You may not attach monetary incentives (including virtual currency) within your Card or on X from your Card
+*   You may not attach monetary incentives (including virtual currency) within your Card or on X from your Card
     
-* You may not include content or actions within your Card that are misleading or not contextually relevant, such as URLs and media
+*   You may not include content or actions within your Card that are misleading or not contextually relevant, such as URLs and media
     
-* You may only attach an App Card to a Post when someone is explicitly promoting or referring to the app in the Post
+*   You may only attach an App Card to a Post when someone is explicitly promoting or referring to the app in the Post
     
 
 ### Definitions  
 
-1. **X Content** ‒ Posts, Post IDs, X end user profile information, and any other data and information made available to you through the X API or by any other means authorized by X, and any copies and derivative works thereof.
+1.  **X Content** ‒ Posts, Post IDs, X end user profile information, and any other data and information made available to you through the X API or by any other means authorized by X, and any copies and derivative works thereof.
     
-2. **Developer Site** ‒ X’s developer site located at [https://developer.x.com](https://developer.x.com/).
+2.  **Developer Site** ‒ X’s developer site located at [https://developer.x.com](https://developer.x.com/).
     
-3. **Services** ‒ Your websites, applications and other offerings that display X Content or otherwise use the Licensed Material as explicitly approved by X.
+3.  **Services** ‒ Your websites, applications and other offerings that display X Content or otherwise use the Licensed Material as explicitly approved by X.
     
-4. **Post ID** ‒ A unique identification number generated for each Post.
+4.  **Post ID** ‒ A unique identification number generated for each Post.
     
-5. **Post** ‒ A posting made on X Applications.
+5.  **Post** ‒ A posting made on X Applications.
     
-6. **“X”** ‒ Means (a) X Corp. (865 FM 1209, Building 2, Bastrop, TX 78602, USA) if your principal place of business is outside the European Union, EFTA States, and the United Kingdom; or (b) X Internet Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in the European Union, EFTA States, or the United Kingdom.  
+6.  **“X”** ‒ Means (a) X Corp. (865 FM 1209, Building 2, Bastrop, TX 78602, USA) if your principal place of business is outside the European Union, EFTA States, and the United Kingdom; or (b) X Internet Unlimited Company (One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland) if your principal place of business is in the European Union, EFTA States, or the United Kingdom.  
     
-7. **Direct Message** - A message  that is privately sent on X Applications by one end user to one or more specific end user(s) using X’s Direct Message function.
+7.  **Direct Message** - A message  that is privately sent on X Applications by one end user to one or more specific end user(s) using X’s Direct Message function.
     
-8. **X API** ‒ The X Application Programming Interface (“API”), Software Development Kit (“SDK”) and/or the related documentation, data, code, and other materials provided by X with the API, as updated from time to time, including without limitation through the Developer Site.
+8.  **X API** ‒ The X Application Programming Interface (“API”), Software Development Kit (“SDK”) and/or the related documentation, data, code, and other materials provided by X with the API, as updated from time to time, including without limitation through the Developer Site.
     
-9. **X Applications** ‒ X’s consumer facing products, services, applications, websites, web pages, platforms, and other offerings, including without limitation, those offered via [https://x.com](https://x.com/) and X's mobile applications.
+9.  **X Applications** ‒ X’s consumer facing products, services, applications, websites, web pages, platforms, and other offerings, including without limitation, those offered via [https://x.com](https://x.com/) and X's mobile applications.
 
 - - -
 
@@ -633,14 +633,14 @@ Sensitive information
 
 You should be careful about using X data to derive or infer potentially sensitive characteristics about X users. Never derive or infer, or store derived or inferred, information about a X user’s:
 
-* Health (including pregnancy)
-* Negative financial status or condition
-* Political affiliation or beliefs
-* Racial or ethnic origin
-* Religious or philosophical affiliation or beliefs
-* Sex life or sexual orientation
-* Trade union membership
-* Alleged or actual commission of a crime
+*   Health (including pregnancy)
+*   Negative financial status or condition
+*   Political affiliation or beliefs
+*   Racial or ethnic origin
+*   Religious or philosophical affiliation or beliefs
+*   Sex life or sexual orientation
+*   Trade union membership
+*   Alleged or actual commission of a crime
 
 Aggregate analysis of X content that does not store any personal data (for example, user IDs, usernames, and other identifiers) is permitted, provided that the analysis also complies with applicable laws and all parts of the Developer Agreement and Policy.
 
@@ -654,14 +654,14 @@ We want people to feel comfortable to create a separate and, if they choose, pse
 
 In situations in which you do not have a user’s express, opt-in consent to link their X identity to an off-X identifier, we require that any connection you draw be based only on information that a user would reasonably expect to be used for that purpose. If a user would be surprised to learn that you are using information they provided to link their X account to an identity off of X, don’t do it. In addition, absent a person’s express opt-in consent you may only attempt to match your records about someone to a X identity based on:
 
-* **Information provided directly to you by the user.** Records about individuals with whom you have no prior relationship, including data about individuals obtained from third parties, do not meet this standard; and/or  
+*   **Information provided directly to you by the user.** Records about individuals with whom you have no prior relationship, including data about individuals obtained from third parties, do not meet this standard; and/or  
     
-* **Public data.** “Public data” in this context refers to:
-    * Information about a user which you obtained from a public, generally-available resource (such as a directory of members of a professional association)
-    * Information on X about a user which is publicly available, including:
-        * Posts
-        * Profile information, including a user’s bio and publicly-stated location
-        * Display name and username
+*   **Public data.** “Public data” in this context refers to:
+    *   Information about a user which you obtained from a public, generally-available resource (such as a directory of members of a professional association)
+    *   Information on X about a user which is publicly available, including:
+        *   Posts
+        *   Profile information, including a user’s bio and publicly-stated location
+        *   Display name and username
 
 Redistribution of X content  
 
@@ -673,11 +673,11 @@ We permit limited redistribution of hydrated X content via non-automated means. 
 
 There are a few other points to keep in mind about redistributing X content:
 
-* You may only distribute up to a total of 1,500,000 Post IDs to a single entity within a 30 day period unless you’ve received prior express written permission from X.  
+*   You may only distribute up to a total of 1,500,000 Post IDs to a single entity within a 30 day period unless you’ve received prior express written permission from X.  
     
-* Individuals redistributing Post IDs and/or User IDs on behalf of an academic institution for the sole purpose of non-commercial research are permitted to redistribute an unlimited number of Post IDs and/or User IDs.  
+*   Individuals redistributing Post IDs and/or User IDs on behalf of an academic institution for the sole purpose of non-commercial research are permitted to redistribute an unlimited number of Post IDs and/or User IDs.  
     
-* To request permission to share X content as outlined above, please use the API Policy support form.  
+*   To request permission to share X content as outlined above, please use the API Policy support form.  
     
 
 To the extent you are permitted to distribute X content to a third party, note that this content remains subject to the Developer Agreement and Policy, and you must ensure such third party has agreed to the X [Terms of Service](https://twitter.com/en/tos), [Privacy Policy](https://twitter.com/en/privacy), [Developer Agreement](https://developer.x.com/en/developer-terms/agreement), and [Developer Policy](https://developer.x.com/en/developer-terms/policy) before receiving X content.
@@ -700,10 +700,10 @@ The use of X's APIs and developer products to create spam, or engage in spammy b
 
 If your application will be used to perform write actions on the X service, including posting Posts, following accounts, or sending Direct Messages, you should carefully review the [Automation Rules](https://support.twitter.com/articles/76915) to ensure your service complies with our guidelines. In particular, you should:
 
-* Always get a user’s explicit consent before sending them [automated replies or messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
-* Immediately respect user requests to opt-out of being contacted by you
-* Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
-* Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
+*   Always get a user’s explicit consent before sending them [automated replies or messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
+*   Immediately respect user requests to opt-out of being contacted by you
+*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
+*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
 
 Measuring the X service  
 
@@ -711,9 +711,9 @@ Measuring the X service
 
 Do not use the X APIs to measure the availability, performance, functionality, or usage of X for benchmarking or competitive purposes. For example, you should never use the X APIs to:
 
-* Calculate aggregate X user metrics, such as the total number of active users or accounts
-* Calculate aggregate X Post metrics, such as the total number of X Posts per day, or the number of user engagements or account engagements
-* Measure or analyze spam or security on X, except as permitted in the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules)
+*   Calculate aggregate X user metrics, such as the total number of active users or accounts
+*   Calculate aggregate X Post metrics, such as the total number of X Posts per day, or the number of user engagements or account engagements
+*   Measure or analyze spam or security on X, except as permitted in the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules)
 
 Surveillance, privacy, and user protection  
 
@@ -725,11 +725,11 @@ We describe prohibited uses of our data and developer products in the [Develope
 
 Other categories of activities prohibited under these terms include (but are not limited to):  
 
-* Investigating or tracking sensitive groups and organizations, such as unions or activist groups
-* Background checks or any form of extreme vetting
-* Credit or insurance risk analyses
-* Individual profiling or psychographic segmentation
-* Facial recognition
+*   Investigating or tracking sensitive groups and organizations, such as unions or activist groups
+*   Background checks or any form of extreme vetting
+*   Credit or insurance risk analyses
+*   Individual profiling or psychographic segmentation
+*   Facial recognition
 
 These policies apply to all users of our APIs. Any misuse of the X APIs for these purposes will be subject to enforcement action, which can include suspension and termination of access.  
 
@@ -760,24 +760,24 @@ To ensure a good and safe experience, developers should be sensitive to user pri
 General Guidelines
 ------------------
 
-* Users must opt-in to use the posting With Location feature (turn location “on”).
-* Users must give explicit permission for their exact location to be displayed with their posts. If the location feature on your client is “sticky” — i.e. once location is turned on it always accompanies a post — you may wish to display only place names (place\_ids) and allow users to further opt in to exact latitude and longitude on a per-post basis or as a specific alternative setting.
-* When you access your users’ location data to post a post, that information should not be stored by you apart from the post without the user’s explicit permission.
-* It must be clear to users what level of location information, if any, will be displayed in association with their post. One way you can do this is by showing a map of how this information will be displayed before the post is published. If exact latitude and longitude is part of the information (or the only information) published by the user on the client, it should be clear to the user that their exact coordinates will be published.
-* Users should be able to turn on and off their location each time they compose a post.
-* You must follow the terms of X’s [Developer Policy](https://developer.x.com/en/developer-terms/policy.html) – including the requirement that you may not aggregate, cache, or store location data and other geographic information from the X API, except as part of a post, and may not use such location data or geographic information on a standalone basis.
+*   Users must opt-in to use the posting With Location feature (turn location “on”).
+*   Users must give explicit permission for their exact location to be displayed with their posts. If the location feature on your client is “sticky” — i.e. once location is turned on it always accompanies a post — you may wish to display only place names (place\_ids) and allow users to further opt in to exact latitude and longitude on a per-post basis or as a specific alternative setting.
+*   When you access your users’ location data to post a post, that information should not be stored by you apart from the post without the user’s explicit permission.
+*   It must be clear to users what level of location information, if any, will be displayed in association with their post. One way you can do this is by showing a map of how this information will be displayed before the post is published. If exact latitude and longitude is part of the information (or the only information) published by the user on the client, it should be clear to the user that their exact coordinates will be published.
+*   Users should be able to turn on and off their location each time they compose a post.
+*   You must follow the terms of X’s [Developer Policy](https://developer.x.com/en/developer-terms/policy.html) – including the requirement that you may not aggregate, cache, or store location data and other geographic information from the X API, except as part of a post, and may not use such location data or geographic information on a standalone basis.
 
 Specific Examples
 -----------------
 
 Example 1: _No addition of explicit latitude and longitude (this is the current X Web Client UI)_
 
-1. Show a link to “Add your location” when a user composes a post;
-2. In the background, use the X [reverse\_geocode](https://developer.x.com/en/docs/geo/places-near-location/api-reference/get-geo-reverse_geocode.html) API call and pass the latitude, longitude, accuracy of your fix, and the user’s preferred granularity (which, by default, is “neighborhood”);[](https://developer.x.com/en/docs/geo/places-near-location/api-reference/get-geo-reverse_geocode.html)
-3. Display the name for the default place (X will attempt to order these in a way that makes sense - the ordering is such that a X client can just display the list without a need for modification);
-4. Allow the user to select a different location from the list (e.g. change from “SoMa, San Francisco” to “South Beach, San Francisco”).
-5. Important: Be transparent with the user if you will be displaying exact location information. Make sure the user knows if exact location information will be displayed.
-6. Allow the user the choice to turn on or off location with every post compose.
+1.  Show a link to “Add your location” when a user composes a post;
+2.  In the background, use the X [reverse\_geocode](https://developer.x.com/en/docs/geo/places-near-location/api-reference/get-geo-reverse_geocode.html) API call and pass the latitude, longitude, accuracy of your fix, and the user’s preferred granularity (which, by default, is “neighborhood”);[](https://developer.x.com/en/docs/geo/places-near-location/api-reference/get-geo-reverse_geocode.html)
+3.  Display the name for the default place (X will attempt to order these in a way that makes sense - the ordering is such that a X client can just display the list without a need for modification);
+4.  Allow the user to select a different location from the list (e.g. change from “SoMa, San Francisco” to “South Beach, San Francisco”).
+5.  Important: Be transparent with the user if you will be displaying exact location information. Make sure the user knows if exact location information will be displayed.
+6.  Allow the user the choice to turn on or off location with every post compose.
 
 Example 2: _Existing geotagging implementations_
 
@@ -790,7 +790,7 @@ X Storage Of User Location Data
 
 X will store data passed by the client as follows:
 
-* X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location)).
+*   X will save all the data that a user chooses to publicly display to his/her followers. This is similar to how X stores the time stamp that says when the post was made, meaning if a user posts with their exact coordinates, X will store this exact location along with the post for as long as the post exists. Users can clear location data from their posts by clicking the “clear my location history” button on the Settings page as described [here](https://support.twitter.com/articles/122236-how-to-tweet-with-your-location)).
 
 Summary
 -------
@@ -1193,17 +1193,17 @@ The image below shows all the main components of a post.
 
 ### Do  
 
-* Display real, unmodified posts from real accounts.
-* Follow X’s [Terms of Service](https://twitter.com/tos?lang=en), the [X Brand Assets and Guidelines](https://about.twitter.com/en_us/company/brand-resources.html), and (if applicable) the [Developer Agreement and Developer Policy](https://developer.x.com/en/developer-terms/agreement-and-policy).
-* Display the X logo.
+*   Display real, unmodified posts from real accounts.
+*   Follow X’s [Terms of Service](https://twitter.com/tos?lang=en), the [X Brand Assets and Guidelines](https://about.twitter.com/en_us/company/brand-resources.html), and (if applicable) the [Developer Agreement and Developer Policy](https://developer.x.com/en/developer-terms/agreement-and-policy).
+*   Display the X logo.
 
 ### Don't  
 
-* Use X content to promote any product or service (e.g., by displaying X content in advertising or otherwise displaying X content to imply endorsement of any product or service) without explicit permission from the user.
-* Use X content to imply sponsorship by, endorsement from, or a false association with X.
-* Include buttons or icons from other social platforms.
-* Modify post text.
-* Use mock ups of posts that don’t exist on the platform.
+*   Use X content to promote any product or service (e.g., by displaying X content in advertising or otherwise displaying X content to imply endorsement of any product or service) without explicit permission from the user.
+*   Use X content to imply sponsorship by, endorsement from, or a false association with X.
+*   Include buttons or icons from other social platforms.
+*   Modify post text.
+*   Use mock ups of posts that don’t exist on the platform.
 
 Online display / Mobile, web, and beyond
 ----------------------------------------
@@ -1214,36 +1214,36 @@ We’re committed to bringing the ease and power of X to everyone. To ensure eve
 
 ### Post author
 
-* The post author’s profile picture, @username, and display name must always be displayed and link to the user’s X profile.
-* The post author’s @username must always be displayed with the “@” symbol.
-* The post author’s avatar must be positioned to the left of the author’s name and @username—except for posts in languages that read right to left, in which case the author’s avatar must be positioned to the right of the author’s display name and @username.
+*   The post author’s profile picture, @username, and display name must always be displayed and link to the user’s X profile.
+*   The post author’s @username must always be displayed with the “@” symbol.
+*   The post author’s avatar must be positioned to the left of the author’s name and @username—except for posts in languages that read right to left, in which case the author’s avatar must be positioned to the right of the author’s display name and @username.
 
 ### Post text  
 
-* The post text must be displayed on a line below the author’s display name and @username, and may not be altered or modified.
-* On touch devices, the white space around the post text and post author must link to the post’s permalink.
-* [post Entities](https://developer.x.com/en/docs/media/upload-media/overview) within the post text must be properly linked to their appropriate home on X. For example:
-    * User\_mentions must link to the mentioned user’s profile.
-    * Hashtags must link to a X search with the hashtag as the query.
-    * Links in post text must be displayed using the display\_url field in the URL entities API response, and link to the original t.co url field. See our [t.co best practices article](https://developer.x.com/en/docs/basics/tco) for additional details.
+*   The post text must be displayed on a line below the author’s display name and @username, and may not be altered or modified.
+*   On touch devices, the white space around the post text and post author must link to the post’s permalink.
+*   [post Entities](https://developer.x.com/en/docs/media/upload-media/overview) within the post text must be properly linked to their appropriate home on X. For example:
+    *   User\_mentions must link to the mentioned user’s profile.
+    *   Hashtags must link to a X search with the hashtag as the query.
+    *   Links in post text must be displayed using the display\_url field in the URL entities API response, and link to the original t.co url field. See our [t.co best practices article](https://developer.x.com/en/docs/basics/tco) for additional details.
 
 ### Timestamp  
 
-* The post timestamp must be displayed and link to the post’s permalink.
+*   The post timestamp must be displayed and link to the post’s permalink.
 
 ### Post Actions
 
-* All post Action icons (including reply, repost, and like) must always be visible for the user to interact with the post. These actions must be implemented using [Web Intents](https://developer.x.com/en/docs/twitter-for-websites/web-intents/overview) or with the authenticated X API. (To support the implementation of post Actions, we provide several [image resources](https://about.twitter.com/content/dam/about-twitter/company/brand-resources/en_us/Twitter%20Tweet%20Treatments.zip).) In lieu of post Actions, “View on X” may be shown next to the timestamp, linking the user to the post permalink.
-* No other social or third party actions may be attached to a post. (e.g., subscribe, comment, like).
-* If the post being displayed is a repost, the display name of the user who reposted it and the repost icon must be displayed above or under the post text. e.g., “reposted by Jane Doe”. The display name must link to the profile of the user who reposted it.
-* Follow [guidelines for displaying replies](https://developer.x.com/en/developer-terms/reply-requirements).
+*   All post Action icons (including reply, repost, and like) must always be visible for the user to interact with the post. These actions must be implemented using [Web Intents](https://developer.x.com/en/docs/twitter-for-websites/web-intents/overview) or with the authenticated X API. (To support the implementation of post Actions, we provide several [image resources](https://about.twitter.com/content/dam/about-twitter/company/brand-resources/en_us/Twitter%20Tweet%20Treatments.zip).) In lieu of post Actions, “View on X” may be shown next to the timestamp, linking the user to the post permalink.
+*   No other social or third party actions may be attached to a post. (e.g., subscribe, comment, like).
+*   If the post being displayed is a repost, the display name of the user who reposted it and the repost icon must be displayed above or under the post text. e.g., “reposted by Jane Doe”. The display name must link to the profile of the user who reposted it.
+*   Follow [guidelines for displaying replies](https://developer.x.com/en/developer-terms/reply-requirements).
 
 ### Post edits  
 
-* X allows people to edit their posts up to 5 times during the first 30 minutes after posting the original post.  When using [embedded posts](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview), the display will appear slightly different depending on whether the post was edited before or after it was embedded.
-* When a post is embedded first, and then edited, you must display those edits as they occur on the X platform:
-* If you are displaying a previous version of an edited post, you must note below the timestamp that there is a new version of the post, and to the right of that note, provide a link which expands the post’s edit history.
-* You must then display the full edit history of the post.
+*   X allows people to edit their posts up to 5 times during the first 30 minutes after posting the original post.  When using [embedded posts](https://developer.twitter.com/en/docs/twitter-for-websites/embedded-tweets/overview), the display will appear slightly different depending on whether the post was edited before or after it was embedded.
+*   When a post is embedded first, and then edited, you must display those edits as they occur on the X platform:
+*   If you are displaying a previous version of an edited post, you must note below the timestamp that there is a new version of the post, and to the right of that note, provide a link which expands the post’s edit history.
+*   You must then display the full edit history of the post.
 
   ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 1622 976%22%3E%3C/svg%3E)
 
@@ -1255,16 +1255,16 @@ When a post has been edited first, and then embedded, you must note in the times
 
 ### Branding
 
-* The official X logo must always be reasonably visible and displayed on the upper-right corner of an individual post or directly attached to the timeline (e.g., top of the timeline). The logo should be the same height “x” as in the image. See X’s [brand resources page](https://about.twitter.com/en_us/company/brand-resources.html) for brand guidelines and assets.
+*   The official X logo must always be reasonably visible and displayed on the upper-right corner of an individual post or directly attached to the timeline (e.g., top of the timeline). The logo should be the same height “x” as in the image. See X’s [brand resources page](https://about.twitter.com/en_us/company/brand-resources.html) for brand guidelines and assets.
 
 ### Mobile deep linking  
 
-* Deep links from native mobile apps must direct to the native X application. If the native X application is not installed on the device, the link must direct to X.com via a web browser.
+*   Deep links from native mobile apps must direct to the native X application. If the native X application is not installed on the device, the link must direct to X.com via a web browser.
     
 
 ### Timelines  
 
-* All timelines must allow users to view the details of an individual post (e.g., by linking the post timestamp or by linking the entire post area).
+*   All timelines must allow users to view the details of an individual post (e.g., by linking the post timestamp or by linking the entire post area).
     
 
 If you plan any advertising near posts, please ensure it complies with the [Developer Policy](https://developer.x.com/en/developer-terms/policy).
@@ -1280,17 +1280,17 @@ We welcome and encourage the use of X in broadcast media. Our requirements ensur
 
 ### Do
 
-* Show the user’s full name, @username, post text, and profile picture.
-* Include the X logo in close proximity to the posts for as long as they appear in your broadcast. Make sure that the X logo is sized similarly to the size in the above image, relative to the content.
-* Use the full text of the post.
-* When displaying images, the post text must also be included along with the user’s display name, @username, and the X logo.
+*   Show the user’s full name, @username, post text, and profile picture.
+*   Include the X logo in close proximity to the posts for as long as they appear in your broadcast. Make sure that the X logo is sized similarly to the size in the above image, relative to the content.
+*   Use the full text of the post.
+*   When displaying images, the post text must also be included along with the user’s display name, @username, and the X logo.
 
 ### Don't  
 
-* Display X content in advertising or to imply endorsement of any product or service without explicit permission from the user.
-* Delete, obscure, or alter the post content or identification of the user (with the exception of removing hyperlinks).
-* Exclude the timestamp.
-* Do not use X marks, in whole or in part, in the title of your production without first reviewing their use with X by contacting us at trademarks@X.com.
+*   Display X content in advertising or to imply endorsement of any product or service without explicit permission from the user.
+*   Delete, obscure, or alter the post content or identification of the user (with the exception of removing hyperlinks).
+*   Exclude the timestamp.
+*   Do not use X marks, in whole or in part, in the title of your production without first reviewing their use with X by contacting us at trademarks@X.com.
 
 Verbal or voice over
 --------------------
