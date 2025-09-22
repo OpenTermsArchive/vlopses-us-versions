@@ -19,12 +19,12 @@ Claims regarding copyright infringement
 
 Pursuant to the Digital Millennium Copyright Act (17 U.S.C. § 512), LinkedIn has implemented procedures for receiving written notification of claimed infringements. LinkedIn has also designated an agent to receive notices of claimed copyright infringement. If you believe in good faith that your copyright has been infringed, you may complete and submit a [Notice of Copyright Infringement form](http://www.linkedin.com/help/legacy/redirect/app/ask/path/TS-NCI/loc/na/trk/d_microsites-frontend_legal_copyright-policy/), or otherwise provide a written communication which contains:
 
-1. An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-2. A description of the copyrighted work that you claim has been infringed;
-3. A description specifying the location on our website of the material that you claim is infringing;
-4. Your email address and your mailing address and/or telephone number;
-5. A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-6. A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+1.  An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+2.  A description of the copyrighted work that you claim has been infringed;
+3.  A description specifying the location on our website of the material that you claim is infringing;
+4.  Your email address and your mailing address and/or telephone number;
+5.  A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+6.  A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
 
 Please submit your notice to LinkedIn Corporation’s Copyright Agent as follows:
 
@@ -43,10 +43,10 @@ USA
 
 If you believe that a notice of copyright infringement has been improperly submitted against you, you may submit a Counter-Notice, pursuant to Sections 512(g)(2) and (3) of the Digital Millennium Copyright Act. You may complete the [Counter-Notice Regarding Claim of Copyright Infringement form](http://www.linkedin.com/help/legacy/redirect/app/ask/path/TS-CNRCCI/loc/na/trk/d_microsites-frontend_legal_copyright-policy/), or otherwise provide a written communication which contains:
 
-1. Your physical or electronic signature;
-2. Identification of the material removed or to which access has been disabled;
-3. A statement under penalty of perjury that you have a good faith belief that removal or disablement of the material was a mistake or that the material was misidentified;
-4. Your full name, your email address, your mailing address, and a statement that you consent to the jurisdiction of the Federal District court (i) in the judicial district where your address is located if the address is in the United States, or (ii) located in the Northern District of California (Santa Clara County), if your address is located outside the United States, and that you will accept service of process from the Complainant submitting the notice or his/her authorized agent.
+1.  Your physical or electronic signature;
+2.  Identification of the material removed or to which access has been disabled;
+3.  A statement under penalty of perjury that you have a good faith belief that removal or disablement of the material was a mistake or that the material was misidentified;
+4.  Your full name, your email address, your mailing address, and a statement that you consent to the jurisdiction of the Federal District court (i) in the judicial district where your address is located if the address is in the United States, or (ii) located in the Northern District of California (Santa Clara County), if your address is located outside the United States, and that you will accept service of process from the Complainant submitting the notice or his/her authorized agent.
 
 Please submit your Counter-Notice to LinkedIn’s Copyright Agent via [our online submission form](http://www.linkedin.com/help/legacy/redirect/app/ask/path/TS-CNRCCI/loc/na/trk/d_microsites-frontend_legal_copyright-policy/) or mail to the address specified above.
 
@@ -55,8 +55,8 @@ Claims regarding content other than copyright infringement
 
 For issues other than copyright infringement please visit our [Help Center](https://www.linkedin.com/help/linkedin?trk=d_microsites-frontend_legal_copyright-policy&lang=en) where you’ll find information on how to flag and report other types of content violations. Learn more:
 
-* [Reporting Inappropriate Content, Messages, or Safety Concerns](https://www.linkedin.com/help/linkedin/answer/146?trk=d_microsites-frontend_legal_copyright-policy&lang=en)
-* [LinkedIn's Trademark Policy](https://www.linkedin.com/help/linkedin/answer/30365?trk=d_microsites-frontend_legal_copyright-policy&lang=en)
-* [LinkedIn's False Profile Policy](https://www.linkedin.com/help/linkedin/answer/30200?trk=d_microsites-frontend_legal_copyright-policy&lang=en)
+*   [Reporting Inappropriate Content, Messages, or Safety Concerns](https://www.linkedin.com/help/linkedin/answer/146?trk=d_microsites-frontend_legal_copyright-policy&lang=en)
+*   [LinkedIn's Trademark Policy](https://www.linkedin.com/help/linkedin/answer/30365?trk=d_microsites-frontend_legal_copyright-policy&lang=en)
+*   [LinkedIn's False Profile Policy](https://www.linkedin.com/help/linkedin/answer/30200?trk=d_microsites-frontend_legal_copyright-policy&lang=en)
 
 Notice regarding Associated Press content on LinkedIn: Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. Users may not download or reproduce a substantial portion of the AP material found on this web site. AP will not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing.
