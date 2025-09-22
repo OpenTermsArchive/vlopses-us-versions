@@ -10,27 +10,27 @@ While we know that our work never stops, here are just some of the ways we have 
 
 Visual 
 
-* Screen reader and refreshable braille display support
-* Font size and high contrast settings
-* Dark mode support, with themes for dim or lights out
+*   Screen reader and refreshable braille display support
+*   Font size and high contrast settings
+*   Dark mode support, with themes for dim or lights out
 
 Auditory
 
-* Auto-caption support for [videos](https://help.x.com/en/using-twitter/twitter-videos.html), [X Spaces](https://help.x.com/en/using-twitter/spaces.html), and [voice posts](https://help.x.com/en/using-twitter/voice-tweet.html)
-* [Upload caption files (SRT)](https://help.x.com/en/using-twitter/upload-caption-srt-file.html) for videos posted via posts on the web
-* Turn on sounds
+*   Auto-caption support for [videos](https://help.x.com/en/using-twitter/twitter-videos.html), [X Spaces](https://help.x.com/en/using-twitter/spaces.html), and [voice posts](https://help.x.com/en/using-twitter/voice-tweet.html)
+*   [Upload caption files (SRT)](https://help.x.com/en/using-twitter/upload-caption-srt-file.html) for videos posted via posts on the web
+*   Turn on sounds
 
 Mobility
 
-* Keyboard shortcuts
-* Switch device, Voice Control (iOS), and Voice Access (Android) support
-* Custom Magic Tap shortcuts (iOS)
+*   Keyboard shortcuts
+*   Switch device, Voice Control (iOS), and Voice Access (Android) support
+*   Custom Magic Tap shortcuts (iOS)
 
 Cognitive
 
-* Reduce motion/animation settings 
-* Prevent video autoplay
-* Turn off sounds
+*   Reduce motion/animation settings 
+*   Prevent video autoplay
+*   Turn off sounds
 
 For more information on accessibility features, see [Accessibility features of X](https://help.x.com/en/using-twitter/accessibility-features.html).
 
@@ -39,10 +39,10 @@ Software requirements
 
 In order to get the best accessible experience, we recommend that you use the most current versions of relevant software:  
 
-* Latest operating system version
-* Latest assistive technology version
-* Latest version of X on iOS or Android
-* Latest browser version
+*   Latest operating system version
+*   Latest assistive technology version
+*   Latest version of X on iOS or Android
+*   Latest browser version
 
 Accessibility consultant support
 --------------------------------
