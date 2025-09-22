@@ -16,11 +16,11 @@ You may reach us using this [web form](https://www.linkedin.com/help/linkedin/so
 
 ### Authorized Representatives and editorial LinkedIn Content:
 
-* Keith Ranger Dolliver (Company Director)
-* Benjamin Orndorff (Company Director)
-* James O’Connor (Company Director)
-* Henry Chi-Ning Fong (Company Director)
-* Sue Duke (Company Director)
+*   Keith Ranger Dolliver (Company Director)
+*   Benjamin Orndorff (Company Director)
+*   James O’Connor (Company Director)
+*   Henry Chi-Ning Fong (Company Director)
+*   Sue Duke (Company Director)
 
 Responsible for editorial LinkedIn Content: Sandrine Chauvin
 
