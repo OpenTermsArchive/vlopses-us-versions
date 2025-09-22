@@ -10,7 +10,7 @@ No two LinkedIn members are the same—and it’s that diversity which makes our
 
 We’re on a journey to make accessibility and inclusive design part of our core principles, building accessibility from the ground up and testing our products with assistive technology to make sure that everyone can use LinkedIn to advance their professional goals.
 
-*  
+*    
     
     Our Disability Answer Desk 
     ---------------------------
@@ -21,7 +21,7 @@ We’re on a journey to make accessibility and inclusive design part of our core
     
     If you’re a screen reader user, please visit the articles on the [Screen Reader Support](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fhelp%2Flinkedin%2Fanswer%2Fa1431878&data=05%7C01%7Cdgabai%40linkedin.com%7C829da215df0f40a54b4c08db2fb4ff2c%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638156226655790479%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KGBCAXLX9vlioIp4MxGrCV%2Fi1EctWyyggiQFsWtsdQc%3D&reserved=0) page in the Help Center.
     
-*  
+*    
     
     Accessibility @ LinkedIn
     ------------------------
@@ -48,7 +48,7 @@ We’re on a journey to make accessibility and inclusive design part of our core
     
     [Our Journey to Make LinkedIn More Inclusive and Accessible](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Four-journey-make-linkedin-more-inclusive-accessible-melissa-selcher%2F&data=05%7C01%7Cashinton%40linkedin.com%7C54b016b79b254814efc308db0fd5c9e3%7C72f988bf86f141af91ab2d7cd011db47%7C0%7C0%7C638121183112175237%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Zfi3pyqSRP8rufkRt9YdhXSte6khOW92jN4vqaUu1Oo%3D&reserved=0) by Melissa Selcher, Chief Marketing and Communications Officer  
     
-*  
+*    
     
     Want even more info?
     --------------------
