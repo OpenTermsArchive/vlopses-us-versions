@@ -30,8 +30,8 @@ If you'd prefer not to use this form, please send the following information to o
   
 4\. Both of these statements in the body of your notice:
 
-* "I hereby state that I have a good faith belief that the disputed use of the copyrighted material or reference or link to such material is not authorized by the copyright owner, its agent, or the law (for example, as a fair use)."
-* "I hereby state that the information in this notice is accurate and, under penalty of perjury, that I’m the owner, or authorized to act on behalf of the owner of the copyright or of an exclusive right under the copyright that’s allegedly infringed."
+*   "I hereby state that I have a good faith belief that the disputed use of the copyrighted material or reference or link to such material is not authorized by the copyright owner, its agent, or the law (for example, as a fair use)."
+*   "I hereby state that the information in this notice is accurate and, under penalty of perjury, that I’m the owner, or authorized to act on behalf of the owner of the copyright or of an exclusive right under the copyright that’s allegedly infringed."
 
 5\. Your full legal name and your electronic or physical signature (for example, by typing your full name).
 
