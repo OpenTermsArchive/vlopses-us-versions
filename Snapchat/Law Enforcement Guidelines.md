@@ -92,9 +92,9 @@ While it's true that we value ephemerality, some account information may be retr
 
 Share with your community how they can report to Snap!
 
-* In-App Reporting: You can report inappropriate content to us right in the app! Just press and hold on the Snap, then tap the 'Report Snap' button. Let us know what’s going on — we’ll do our best to help!
+*   In-App Reporting: You can report inappropriate content to us right in the app! Just press and hold on the Snap, then tap the 'Report Snap' button. Let us know what’s going on — we’ll do our best to help!
     
-* Email Us: You can also email a report to us right through our [Support site](https://support.snapchat.com/i-need-help?start=5153567363039232&lang=en-US).
+*   Email Us: You can also email a report to us right through our [Support site](https://support.snapchat.com/i-need-help?start=5153567363039232&lang=en-US).
     
 
 Requesting Assistance
