@@ -1,12 +1,12 @@
-1. [Help Center](https://help.x.com/en)
-3. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5. Trademark policy
+1.  [Help Center](https://help.x.com/en)
+3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
+5.  Trademark policy
 
 Trademark policy
 ----------------
 
-1. [Help Center](https://help.x.com/en)
-2. [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
+1.  [Help Center](https://help.x.com/en)
+2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
 
 Trademark policy
 ================
@@ -30,8 +30,8 @@ Using another’s trademark in a way that may mislead or confuse people about yo
 
 Referencing another’s trademark is not automatically a violation of X's trademark policy. Examples of non-violations include:
 
-* using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
-* using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)  
+*   using a trademark in a way that is outside the scope of the trademark registration e.g., in a different territory, or a different class of goods or services than that identified in the registration; and
+*   using a trademark in a nominative or other fair use manner. For more information, see our [Misleading and deceptive identities policy](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html).[](https://help.x.com/en/rules-and-policies/twitter-impersonation-and-deceptive-identities-policy.html)  
     
 
 ### Who can report violations of this policy? 
