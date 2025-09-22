@@ -5,11 +5,11 @@ December 12, 2022
 
 #### **Table of Contents**
 
-* **_LinkedIn Data Processing Agreement (DPA)_**
-* **_Schedule A_**_: Description of the Transfer_
-* **_Schedule B_**_: CCPA Addendum_
-* **_Schedule C_**_: Glint Specific Terms and Amendments_
-* **_Schedule D:_** _Technical and Organisational Measures Including Technical and Organisational Measures to Ensure the Security of the Data_
+*   **_LinkedIn Data Processing Agreement (DPA)_**
+*   **_Schedule A_**_: Description of the Transfer_
+*   **_Schedule B_**_: CCPA Addendum_
+*   **_Schedule C_**_: Glint Specific Terms and Amendments_
+*   **_Schedule D:_** _Technical and Organisational Measures Including Technical and Organisational Measures to Ensure the Security of the Data_
 
 This Data Processing Agreement (the “DPA”), entered into by the LinkedIn customer identified on the applicable LinkedIn ordering document for LinkedIn services (“Customer”) and the LinkedIn company identified on the ordering document (along with its affiliates, “LinkedIn”), governs the processing of Personal Data that Customer uploads or otherwise provides LinkedIn in connection with the services, the processing of Personal Data by LinkedIn on behalf of Customer in connection with the services, and the processing of any Personal Data that LinkedIn uploads or otherwise provides to Customer in connection with the services. Terms specific to LinkedIn’s Glint services are provided as Schedule C to this DPA.
 
@@ -207,10 +207,10 @@ Collection, organization, structuring, use, storage, combination, making availab
 
 **Purpose(s) of the data transfer and further processing:**
 
-* Provide, maintain and improve services (in accordance with the DPA) to the data exporter,
-* Provide customer support to the data exporter,
-* Otherwise fulfil LinkedIn’s (and, if applicable, its affiliate’s) obligations under its respective services agreement with the data exporter; and
-* Compliance with applicable law.
+*   Provide, maintain and improve services (in accordance with the DPA) to the data exporter,
+*   Provide customer support to the data exporter,
+*   Otherwise fulfil LinkedIn’s (and, if applicable, its affiliate’s) obligations under its respective services agreement with the data exporter; and
+*   Compliance with applicable law.
 
 **The period for which the Personal Data will be retained, or, if that is not possible, the criteria used to determine that period:**
 
@@ -234,11 +234,11 @@ This Addendum is entered into by the LinkedIn customer identified on the applica
 
 No CCPA Sale. The parties agree that for the purposes of the CCPA, LinkedIn acts as a CCPA Service Provider for Customer Personal Data. By executing the ordering document,
 
-* Customer does not Sell Customer Personal Data to LinkedIn. LinkedIn shall only use Customer Personal Data for the purposes permitted by the CCPA and as specified in the Agreement. LinkedIn agrees not to Sell or Share (as defined by the CCPA) Customer Personal Data.
-* LinkedIn agrees not to combine Customer Personal Data with other personal information except as permitted by the CCPA.
-* To the extent LinkedIn receives information from Customer that has been deidentified, as defined under applicable Data Protection Requirements, LinkedIn agrees not to attempt to reidentify the data, to take reasonable measures to maintain and use the information in a deidentified manner, except as permitted by law, and to contractually obligate any authorized recipients to comply with applicable Data Protection Requirements for information that has been deidentified.
-* LinkedIn agrees to inform Customer within the time period required under the CCPA, if LinkedIn determines that it is no longer able to meet its obligations under the CCPA.
-* LinkedIn certifies that it has read and understands this Addendum and will abide by it, including by avoiding any action that would cause the other Party to be deemed to have Sold Personal Data or Personal Information under the CCPA.
+*   Customer does not Sell Customer Personal Data to LinkedIn. LinkedIn shall only use Customer Personal Data for the purposes permitted by the CCPA and as specified in the Agreement. LinkedIn agrees not to Sell or Share (as defined by the CCPA) Customer Personal Data.
+*   LinkedIn agrees not to combine Customer Personal Data with other personal information except as permitted by the CCPA.
+*   To the extent LinkedIn receives information from Customer that has been deidentified, as defined under applicable Data Protection Requirements, LinkedIn agrees not to attempt to reidentify the data, to take reasonable measures to maintain and use the information in a deidentified manner, except as permitted by law, and to contractually obligate any authorized recipients to comply with applicable Data Protection Requirements for information that has been deidentified.
+*   LinkedIn agrees to inform Customer within the time period required under the CCPA, if LinkedIn determines that it is no longer able to meet its obligations under the CCPA.
+*   LinkedIn certifies that it has read and understands this Addendum and will abide by it, including by avoiding any action that would cause the other Party to be deemed to have Sold Personal Data or Personal Information under the CCPA.
 
 > SCHEDULE C
 
@@ -336,16 +336,16 @@ Data Importer conducts security due diligence on third-party service providers t
 
 In addition to the general security measures set out above, the Data Importer has implemented the following supplementary technical and organisational measures:
 
-* Customer Personal Data as defined in the Data Processing Agreement is transferred across public networks to the Data Importer’s data centres in the United States and is stored on secured servers behind firewall.
-* New Glint Customers may select between the Glint US or Glint EU data storage locations for hosting of their Glint-specific Customer Personal Data.
-* Data Importer encrypts all Customer Personal Data in transit across public networks depending on the Data Exporter’s ability to support encryption. Certain highly confidential data (including but not limited to passwords, authentication tokens, salary and payment information) is also encrypted at rest. LinkedIn will only use industry tested and accepted standards for cryptographic algorithms.
-* Data Importer’s data is replicated across all its data centres in a secure environment.
-* Data Importer employs app logic with appropriate authorization to protect tenant data. Access requests are reviewed to ensure only appropriate access is granted. Server and database access logs are retained for auditing purposes.
-* Data Importer deploys industry standard security measures for all of its product lines as further set forth at https://security.linkedin.com/trust-and-compliance, including 27001 & ISO 27018 and PCI DSS for Data Importer’s Talent Solutions, Learning Solutions, Marketing Solutions and Sales Solutions. Data Importers’ employees and contractors are trained in relation to specific technical and organisational security measures.
-* Servers are monitored by both industry standard and proprietary network monitoring tools to prevent any potential security breaches.
-* Corporate systems and databases are password protected.
-* VPN and direct LinkedIn network access are limited to company issued or approved devices.
-* Dual factor authentication is in operation for VPN access.
-* Customer and member passwords are hashed and salted and stored in a separate, secure database.
-* Keys to credit card database are rotated regularly.
-* Active and automated monitoring of critical access logs and anomaly detection.
+*   Customer Personal Data as defined in the Data Processing Agreement is transferred across public networks to the Data Importer’s data centres in the United States and is stored on secured servers behind firewall.
+*   New Glint Customers may select between the Glint US or Glint EU data storage locations for hosting of their Glint-specific Customer Personal Data.
+*   Data Importer encrypts all Customer Personal Data in transit across public networks depending on the Data Exporter’s ability to support encryption. Certain highly confidential data (including but not limited to passwords, authentication tokens, salary and payment information) is also encrypted at rest. LinkedIn will only use industry tested and accepted standards for cryptographic algorithms.
+*   Data Importer’s data is replicated across all its data centres in a secure environment.
+*   Data Importer employs app logic with appropriate authorization to protect tenant data. Access requests are reviewed to ensure only appropriate access is granted. Server and database access logs are retained for auditing purposes.
+*   Data Importer deploys industry standard security measures for all of its product lines as further set forth at https://security.linkedin.com/trust-and-compliance, including 27001 & ISO 27018 and PCI DSS for Data Importer’s Talent Solutions, Learning Solutions, Marketing Solutions and Sales Solutions. Data Importers’ employees and contractors are trained in relation to specific technical and organisational security measures.
+*   Servers are monitored by both industry standard and proprietary network monitoring tools to prevent any potential security breaches.
+*   Corporate systems and databases are password protected.
+*   VPN and direct LinkedIn network access are limited to company issued or approved devices.
+*   Dual factor authentication is in operation for VPN access.
+*   Customer and member passwords are hashed and salted and stored in a separate, secure database.
+*   Keys to credit card database are rotated regularly.
+*   Active and automated monitoring of critical access logs and anomaly detection.
