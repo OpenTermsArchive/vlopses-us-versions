@@ -29,34 +29,34 @@ How we use cookies
 
 There are four categories of cookies we may use:
 
-* **Essential cookies** are required so Pinterest works in the way you expect. Examples of these types of cookies are login cookies which keep you logged in as you scroll through Pinterest or search for Pins.
-* **Analytics cookies** which are used for internal analytics and include cookies from providers like [Google Analytics](https://help.pinterest.com/en/article/third-party-analytics-or-advertising-providers-pinterest-uses-or-allows).
-* **Personalization cookies** for customizing content, including ads.
-* **Marketing cookies** which are used for advertising Pinterest to you off of Pinterest.
+*   **Essential cookies** are required so Pinterest works in the way you expect. Examples of these types of cookies are login cookies which keep you logged in as you scroll through Pinterest or search for Pins.
+*   **Analytics cookies** which are used for internal analytics and include cookies from providers like [Google Analytics](https://help.pinterest.com/en/article/third-party-analytics-or-advertising-providers-pinterest-uses-or-allows).
+*   **Personalization cookies** for customizing content, including ads.
+*   **Marketing cookies** which are used for advertising Pinterest to you off of Pinterest.
 
 What we do with the cookies in each category
 ============================================
 
 #### Essential cookies
 
-* We may use essential cookies to remember your settings and preferences, like the language you prefer and your privacy settings.
-* Essential cookies let you log in and out of Pinterest.
-* Essential cookies are just one way we protect you from security risks. For example, we use them to detect when someone might be trying to hack your Pinterest account or spam the Pinterest community.
+*   We may use essential cookies to remember your settings and preferences, like the language you prefer and your privacy settings.
+*   Essential cookies let you log in and out of Pinterest.
+*   Essential cookies are just one way we protect you from security risks. For example, we use them to detect when someone might be trying to hack your Pinterest account or spam the Pinterest community.
 
 #### Analytics cookies
 
-* We use analytics cookies to make Pinterest better. For example, these cookies tell us how many people use a certain feature and how popular it is, or whether people open an email we send.
-* We also use cookies to help advertisers understand who sees and interacts with their ads, and who visits their website or purchases their products.
-* Sometimes we hire security vendors or use third-party analytics providers to help us understand how people are using Pinterest. Just like we do, these providers may use cookies. [Learn more](https://help.pinterest.com/articles/third-party-analytics-or-advertising-providers-pinterest-uses-or-allows) about the third-party providers we use.
+*   We use analytics cookies to make Pinterest better. For example, these cookies tell us how many people use a certain feature and how popular it is, or whether people open an email we send.
+*   We also use cookies to help advertisers understand who sees and interacts with their ads, and who visits their website or purchases their products.
+*   Sometimes we hire security vendors or use third-party analytics providers to help us understand how people are using Pinterest. Just like we do, these providers may use cookies. [Learn more](https://help.pinterest.com/articles/third-party-analytics-or-advertising-providers-pinterest-uses-or-allows) about the third-party providers we use.
 
 #### Personalization cookies
 
-* We may use cookies to help us remember your preferences, or which Pins, boards, people or websites you’ve interacted with so we can show you related content you might like.
-* We may also use cookies to help an advertising service we partner with show you interesting ads. For example, if you bought a tent from an advertiser that uses a Pinterest partner’s service, they could ask us to show you an ad for a camping stove. If you’d like to opt-out of these services you can do so in your [settings](https://www.pinterest.com/settings/privacy).
+*   We may use cookies to help us remember your preferences, or which Pins, boards, people or websites you’ve interacted with so we can show you related content you might like.
+*   We may also use cookies to help an advertising service we partner with show you interesting ads. For example, if you bought a tent from an advertiser that uses a Pinterest partner’s service, they could ask us to show you an ad for a camping stove. If you’d like to opt-out of these services you can do so in your [settings](https://www.pinterest.com/settings/privacy).
 
 #### Marketing cookies
 
-* Sometimes we hire advertising vendors so that we can market Pinterest products on other websites and apps. These providers may use cookies to provide this service to us. If you’d like to opt-out of these services you can do so in your [settings](https://www.pinterest.com/settings/privacy).
+*   Sometimes we hire advertising vendors so that we can market Pinterest products on other websites and apps. These providers may use cookies to provide this service to us. If you’d like to opt-out of these services you can do so in your [settings](https://www.pinterest.com/settings/privacy).
 
 Where we use cookies
 ====================
