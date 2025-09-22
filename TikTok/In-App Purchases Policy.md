@@ -48,9 +48,9 @@ Coins can only be used on the Platform to access or activate certain types of ot
 
 The number of Coins needed to access or activate other Virtual Items or services will be displayed before you use those Coins. You should check how many Coins you need for any Virtual Items you want to access or activate before you purchase the Coins. You can track how much you spend on Coins, and how you use them, in the following ways:
 
-* The total number of Coins in your account will be updated each time you purchase Coins or use them to access other Virtual Items or services. You can view your available Coins in several places on the Platform, including when you are about to use them to access or activate Virtual Items or services.
-* The Transaction History in your account shows you how much you have spent to buy Coins.
-* The Coin History in your account shows a record of the number of Coins you have purchased and how you have used them to access or activate Virtual Items or services on the Platform.
+*   The total number of Coins in your account will be updated each time you purchase Coins or use them to access other Virtual Items or services. You can view your available Coins in several places on the Platform, including when you are about to use them to access or activate Virtual Items or services.
+*   The Transaction History in your account shows you how much you have spent to buy Coins.
+*   The Coin History in your account shows a record of the number of Coins you have purchased and how you have used them to access or activate Virtual Items or services on the Platform.
 
 _In short: You can only use Coins on the Platform. They can be used to access or activate other Virtual Items or TikTok services. You can view your previous Coin activity, including the total Coins you have, within your account._
 
@@ -98,17 +98,17 @@ Except as otherwise required by applicable law, we will not provide you with a r
 
 **Brazil.** If you live in Brazil and have purchased Coins directly from TikTok (e.g., through the WebApp), you have certain rights to withdraw from online purchases under consumer laws:
 
-* You have 7 days to withdraw from your purchase of Coins and request a refund, starting from the day after you purchase Coins (the “**Withdrawal Period**”). You don’t have to give us any reason to request a refund.
-* You will not be able to request a refund (i) after the Withdrawal Period or (ii) for any Coins you have used during the Withdrawal Period.
-* To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from. Alternatively, you can complete and send us the model withdrawal form [here](https://www.tiktok.com/legal/model-withdrawal-form-eea?lang=en).
-* If you withdraw from your purchase, we will provide you with a refund of the payment received from you for the Coins. Refunds will be issued to the original payment method and may take up to 7 business days to appear in your account, depending on the payment method used to make the purchase. TikTok will not charge you any fees in connection with the refund.
+*   You have 7 days to withdraw from your purchase of Coins and request a refund, starting from the day after you purchase Coins (the “**Withdrawal Period**”). You don’t have to give us any reason to request a refund.
+*   You will not be able to request a refund (i) after the Withdrawal Period or (ii) for any Coins you have used during the Withdrawal Period.
+*   To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from. Alternatively, you can complete and send us the model withdrawal form [here](https://www.tiktok.com/legal/model-withdrawal-form-eea?lang=en).
+*   If you withdraw from your purchase, we will provide you with a refund of the payment received from you for the Coins. Refunds will be issued to the original payment method and may take up to 7 business days to appear in your account, depending on the payment method used to make the purchase. TikTok will not charge you any fees in connection with the refund.
 
 **Korea.** If you live in the Republic of Korea and have purchased Coins directly from TikTok (e.g., through the WebApp), the following refund policy shall apply:
 
-* You may withdraw from your purchase of Coins and request a refund within 7 days from the date of your purchase (“**Withdrawal Period**”).
-* You will not be able to request a refund (i) after the Withdrawal Period or (ii) for any Coins you have used during the Withdrawal Period.
-* To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from.
-* If you withdraw from your purchase, we will provide you with a refund in the same payment method you used for your purchase within 3 business days (note, however, that it may take longer for such refunds to appear in your account depending on the payment method).
+*   You may withdraw from your purchase of Coins and request a refund within 7 days from the date of your purchase (“**Withdrawal Period**”).
+*   You will not be able to request a refund (i) after the Withdrawal Period or (ii) for any Coins you have used during the Withdrawal Period.
+*   To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from.
+*   If you withdraw from your purchase, we will provide you with a refund in the same payment method you used for your purchase within 3 business days (note, however, that it may take longer for such refunds to appear in your account depending on the payment method).
 
 _In short: If you buy Coins from an App Store, you will have to contact the App Store about refunds and changing your mind unless, under applicable law, TikTok is required to provide you a refund. If you buy Coins directly from TikTok, depending on where you live, you may have a right to change your mind._
 
@@ -117,8 +117,8 @@ _In short: If you buy Coins from an App Store, you will have to contact the App 
 
 Gifts are digital items that can be accessed or activated using Coins and are exclusively available on the Platform (each, a “**Gift**”). Gifting:
 
-* is a way to express your personality and appreciation for the content with a unique or specialized reaction; and
-* allows you to interact with the content you enjoy.
+*   is a way to express your personality and appreciation for the content with a unique or specialized reaction; and
+*   allows you to interact with the content you enjoy.
 
 When you gift, other Platform users can see your username and the details of the Gift. By gifting, you are not transferring money, Coins, or anything of value to other users on the Platform. The number of Coins required to activate a Gift will depend on the type of Gift.
 
