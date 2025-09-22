@@ -2,50 +2,50 @@ Click here for a helpful summary of the Snap Terms of Service
 
 The [Snap Terms of Service](https://www.snap.com/terms?lang=en-US) is a contract between you and Snap. It explains the rules for using Snapchat and our other services (which we call our “Services”). These rules are legally binding, so it's important to understand them. Here’s a quick breakdown of the key points, but you should still read the whole thing:
 
-* **You must be 13 (or older, depending on where you live) to use Snapchat**: And some of our other Services may require that you are 18 or older. 
+*   **You must be 13 (or older, depending on where you live) to use Snapchat**: And some of our other Services may require that you are 18 or older. 
     
-* **We collect and use your information to provide the Services**: See our [Privacy Policy](https://values.snap.com/privacy/privacy-policy?lang=en-US) for details. 
+*   **We collect and use your information to provide the Services**: See our [Privacy Policy](https://values.snap.com/privacy/privacy-policy?lang=en-US) for details. 
     
-* **Our Services provide a personalized experience**: We show ads and recommend content based on your interests as explained [here](https://help.snapchat.com/hc/articles/17338132910484?utm_source=web&utm_medium=tos&utm_campaign=personalization_opt_out&lang=en-US).
+*   **Our Services provide a personalized experience**: We show ads and recommend content based on your interests as explained [here](https://help.snapchat.com/hc/articles/17338132910484?utm_source=web&utm_medium=tos&utm_campaign=personalization_opt_out&lang=en-US).
     
-* **You are responsible for your content and any activity that occurs under your account**: But we can change, limit access to, or remove that content. Don’t use or share anyone else’s content without their permission. And don’t use the Services to create or share any content that violates someone’s rights, including intellectual property or privacy. 
+*   **You are responsible for your content and any activity that occurs under your account**: But we can change, limit access to, or remove that content. Don’t use or share anyone else’s content without their permission. And don’t use the Services to create or share any content that violates someone’s rights, including intellectual property or privacy. 
     
-* **Our Services include AI-enabled features:** These features use the inputs directed by you to generate outputs like content or responses, which may not be accurate or appropriate, so you use them at your own risk. All inputs and anything you generate using the AI features or ask the AI features to generate must comply with the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US). Outputs of our AI-enabled features are not Snap representations.
+*   **Our Services include AI-enabled features:** These features use the inputs directed by you to generate outputs like content or responses, which may not be accurate or appropriate, so you use them at your own risk. All inputs and anything you generate using the AI features or ask the AI features to generate must comply with the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US). Outputs of our AI-enabled features are not Snap representations.
     
-* **You allow us to use your content to provide, improve, and promote our services**: Other users may also be able to view and interact with your content, depending on the feature and your settings. This includes content created using AI-enabled features.
+*   **You allow us to use your content to provide, improve, and promote our services**: Other users may also be able to view and interact with your content, depending on the feature and your settings. This includes content created using AI-enabled features.
     
-* **We don't have any control or responsibility over the content of others**: You might be exposed to content that is offensive, illegal, or inappropriate, but we have systems in place to try to remove harmful content which you can read about [here](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-US).
+*   **We don't have any control or responsibility over the content of others**: You might be exposed to content that is offensive, illegal, or inappropriate, but we have systems in place to try to remove harmful content which you can read about [here](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-US).
     
-* **You must follow Snap’s** [**Community Guidelines**](https://values.snap.com/policy/policy-community-guidelines?lang=en-US): These guidelines apply to all behavior, forms of communication, and content on our Services.
+*   **You must follow Snap’s** [**Community Guidelines**](https://values.snap.com/policy/policy-community-guidelines?lang=en-US): These guidelines apply to all behavior, forms of communication, and content on our Services.
     
-* **You must also comply with Snap’s other acceptable use terms:** Among other things, you must not:
+*   **You must also comply with Snap’s other acceptable use terms:** Among other things, you must not:
     
-    * create another account without our permission if we have disabled your old one;
+    *   create another account without our permission if we have disabled your old one;
         
-    * use the Services in ways we prohibit, like copying or trying to reverse-engineer our Services or any content on the Services without permission;
+    *   use the Services in ways we prohibit, like copying or trying to reverse-engineer our Services or any content on the Services without permission;
         
-    * use automated methods to extract data or content from our Services without our permission;
+    *   use automated methods to extract data or content from our Services without our permission;
         
-    * do anything that could harm other users’ experience or the security of the services; or
+    *   do anything that could harm other users’ experience or the security of the services; or
         
-    * break any laws when using the Services.
+    *   break any laws when using the Services.
         
     
-* **If you don’t comply with the** [**Snap Terms of Service**](https://www.snap.com/terms?lang=en-US) **and the** [**Community Guidelines**](https://values.snap.com/policy/policy-community-guidelines?lang=en-US)**, your account may be suspended or terminated:** We may also notify third parties, including law enforcement, and provide them data from your account. You may also have to pay compensation if you cause damage to us or others. If you disagree with something we decide about your account or content, you may be able to challenge it as explained [here](https://help.snapchat.com/hc/en-us/articles/18120518120340-How-to-Submit-a-Content-Appeal?utm_campaign=tos&utm_medium=web_snap&utm_source=web&lang=en-US) for content-related appeals and [here](https://help.snapchat.com/hc/en-us/articles/17988958753684-How-to-Submit-a-Locked-Account-Appeal?lang=en-US) for account-related appeals. 
+*   **If you don’t comply with the** [**Snap Terms of Service**](https://www.snap.com/terms?lang=en-US) **and the** [**Community Guidelines**](https://values.snap.com/policy/policy-community-guidelines?lang=en-US)**, your account may be suspended or terminated:** We may also notify third parties, including law enforcement, and provide them data from your account. You may also have to pay compensation if you cause damage to us or others. If you disagree with something we decide about your account or content, you may be able to challenge it as explained [here](https://help.snapchat.com/hc/en-us/articles/18120518120340-How-to-Submit-a-Content-Appeal?utm_campaign=tos&utm_medium=web_snap&utm_source=web&lang=en-US) for content-related appeals and [here](https://help.snapchat.com/hc/en-us/articles/17988958753684-How-to-Submit-a-Locked-Account-Appeal?lang=en-US) for account-related appeals. 
     
-* **Some features may be subject to additional legal terms:** If they are, we'll let you know and they will also become part of the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US). 
+*   **Some features may be subject to additional legal terms:** If they are, we'll let you know and they will also become part of the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US). 
     
-* **Our Services are evolving over time we may not always notify you of every change**: We may also update the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US) when needed, and will notify you of any significant changes.
+*   **Our Services are evolving over time we may not always notify you of every change**: We may also update the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US) when needed, and will notify you of any significant changes.
     
-* **You use the Services at your own risk:** We don’t make guarantees about the quality, security, or availability of the services, and we’re not responsible for third-party content or services linked through the Services.
+*   **You use the Services at your own risk:** We don’t make guarantees about the quality, security, or availability of the services, and we’re not responsible for third-party content or services linked through the Services.
     
-* **There are limitations on our liability to you**: We’re not responsible for content or activities that aren’t ours. Where permitted by law, we also limit our liability for issues like not being able to access the Services, problems caused by others, or unauthorized use of your account.
+*   **There are limitations on our liability to you**: We’re not responsible for content or activities that aren’t ours. Where permitted by law, we also limit our liability for issues like not being able to access the Services, problems caused by others, or unauthorized use of your account.
     
-* **The** [**Snap Terms of Service**](https://www.snap.com/terms?lang=en-US) **include something called an "Arbitration Clause" that explains how we will resolve most disputes.** This means that, except for certain types of disputes mentioned in the Arbitration Clause, disputes between us will be resolved by mandatory binding arbitration instead of a proceeding in court, and we both waive the right to participate in a class-action lawsuit or class-wide arbitration. Depending on where you live, this may not apply to you and you have the right to opt out of arbitration. The details are explained in the Arbitration Clause.
+*   **The** [**Snap Terms of Service**](https://www.snap.com/terms?lang=en-US) **include something called an "Arbitration Clause" that explains how we will resolve most disputes.** This means that, except for certain types of disputes mentioned in the Arbitration Clause, disputes between us will be resolved by mandatory binding arbitration instead of a proceeding in court, and we both waive the right to participate in a class-action lawsuit or class-wide arbitration. Depending on where you live, this may not apply to you and you have the right to opt out of arbitration. The details are explained in the Arbitration Clause.
     
-* **If there is a dispute between us, the governing law will depend on the Snap entity providing the Services to you.** And nothing in the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US) will affect whatever statutory rights you have as a consumer under any law that applies to you.
+*   **If there is a dispute between us, the governing law will depend on the Snap entity providing the Services to you.** And nothing in the [Snap Terms of Service](https://www.snap.com/terms?lang=en-US) will affect whatever statutory rights you have as a consumer under any law that applies to you.
     
-* **We can restrict or terminate your access to the Services at any time**: You can also choose to stop using the Services or delete your account at any time. 
+*   **We can restrict or terminate your access to the Services at any time**: You can also choose to stop using the Services or delete your account at any time. 
     
 
 This summary simplifies the main points, but remember, the full [Snap Terms of Service](https://www.snap.com/terms?lang=en-US) is the official agreement between us that governs your use of our Services.
@@ -86,13 +86,13 @@ Where we have provided summary sections in these Terms, these summaries have bee
 
 Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province, or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. So please read all such terms carefully. By using the Services, you represent, warrant, and agree that:
 
-* you can form a binding contract with Snap;
+*   you can form a binding contract with Snap;
     
-* you are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
+*   you are not a person who is barred from using the Services under the laws of the United States or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
     
-* you are not a convicted sex offender; and
+*   you are not a convicted sex offender; and
     
-* you will comply with these Terms (including any other terms and policies referenced in these Terms, such as the [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), [Music on Snapchat Guidelines](https://www.snap.com/music-guidelines?lang=en-US), and the [Commercial Content Policy](https://www.snap.com/terms/commercial-content?lang=en-US)) and all applicable local, state, national, and international laws, rules, and regulations.
+*   you will comply with these Terms (including any other terms and policies referenced in these Terms, such as the [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), [Music on Snapchat Guidelines](https://www.snap.com/music-guidelines?lang=en-US), and the [Commercial Content Policy](https://www.snap.com/terms/commercial-content?lang=en-US)) and all applicable local, state, national, and international laws, rules, and regulations.
     
 
 If you are using the Services on behalf of a business or some other entity, you represent that you are authorized to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity). If you are using the Services on behalf of an entity of the U.S. Government, you agree to the [Amendment to Snap Inc. Terms of Service for U.S. Government Users](https://www.snap.com/terms/us-amendment?lang=en-US).
@@ -141,19 +141,19 @@ AI Features and Outputs are provided as-is and made available to you without rep
 
 When using our AI Features, unless we give our permission, you must not, and must not take any action that would reasonably be expected to: 
 
-* use Inputs that contain or make use of, and otherwise could reasonably be expected to generate Outputs that contain or make use of, content that you do not have permission to use, would violate the rights of others, or has otherwise been unlawfully obtained; 
+*   use Inputs that contain or make use of, and otherwise could reasonably be expected to generate Outputs that contain or make use of, content that you do not have permission to use, would violate the rights of others, or has otherwise been unlawfully obtained; 
     
-* violate any submission guidelines or other policies we make available to you that apply to your use of AI Features or submission of Inputs; 
+*   violate any submission guidelines or other policies we make available to you that apply to your use of AI Features or submission of Inputs; 
     
-* direct AI Features to generate any Outputs in violation of these Terms, the Community Guidelines, or any applicable intellectual property right, contractual restriction, or applicable laws, or which might otherwise cause harm; 
+*   direct AI Features to generate any Outputs in violation of these Terms, the Community Guidelines, or any applicable intellectual property right, contractual restriction, or applicable laws, or which might otherwise cause harm; 
     
-* alter, obscure, or remove any watermark or disclosure applied to Outputs by the AI Features; 
+*   alter, obscure, or remove any watermark or disclosure applied to Outputs by the AI Features; 
     
-* circumvent any safety or privacy features, safeguards, or mechanisms in the AI Features; 
+*   circumvent any safety or privacy features, safeguards, or mechanisms in the AI Features; 
     
-* use or share Outputs that will be used to train, develop, or fine tune models, services, or other AI technologies; or
+*   use or share Outputs that will be used to train, develop, or fine tune models, services, or other AI technologies; or
     
-* misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence.
+*   misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence.
     
 
 Separate terms apply to any AI Features you use through or in connection with our business Services and Lens Studio instead of those set out above, and will be displayed to you in connection with your use of those other Services. 
@@ -172,11 +172,11 @@ We hope you’ll understand any decisions we make about content or user accounts
 
 Upon receiving a complaint, we will:
 
-* ensure the complaint is reviewed in a timely, non-discriminatory, diligent and non-arbitrary manner;
+*   ensure the complaint is reviewed in a timely, non-discriminatory, diligent and non-arbitrary manner;
     
-* reverse our decision if we determine our initial assessment was incorrect; and
+*   reverse our decision if we determine our initial assessment was incorrect; and
     
-* inform you of our decision and of any possibilities for redress promptly.
+*   inform you of our decision and of any possibilities for redress promptly.
     
 
 _In summary: Most content on the Services is owned or controlled by others and we don't have any control or responsibility over that content. We have content moderation policies and processes in place that apply to content on the Services._
@@ -187,35 +187,35 @@ As between you and us, Snap is the owner of the Services, which includes all rel
 
 You must also respect Snap’s rights and adhere to the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf?lang=en-US), and any other guidelines, support pages, or FAQs published by Snap or our affiliates. That means, among other things, you may not do, attempt to do, enable, or encourage anyone else to do, any of the following and doing so may result in us terminating or suspending your access to the Services:
 
-* use branding, logos, icons, user interface elements, product or brand look and feel, designs, photographs, videos, or any other materials Snap makes available via the Services, except as explicitly allowed by these Terms, the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf?lang=en-US), or other brand guidelines published by Snap or our affiliates;
+*   use branding, logos, icons, user interface elements, product or brand look and feel, designs, photographs, videos, or any other materials Snap makes available via the Services, except as explicitly allowed by these Terms, the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf?lang=en-US), or other brand guidelines published by Snap or our affiliates;
     
-* violate or infringe Snap’s, our affiliates’, or any other third party’s rights of publicity, privacy, copyrights, trademarks, or other intellectual property rights, including by using the Services to submit, display, post, create, or generate any infringing content;
+*   violate or infringe Snap’s, our affiliates’, or any other third party’s rights of publicity, privacy, copyrights, trademarks, or other intellectual property rights, including by using the Services to submit, display, post, create, or generate any infringing content;
     
-* copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
+*   copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
     
-* attempt to access the Services through unauthorized third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
+*   attempt to access the Services through unauthorized third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
     
-* reverse engineer, make unauthorized copies or derivative works of, decompile, disassemble, modify or decode the Services (including any underlying idea, technology, or algorithm) or any content included therein, or otherwise extract the source code of the software of the Services, without our written permission, except to the extent an exception or limitation applies under an open source license or applicable laws;
+*   reverse engineer, make unauthorized copies or derivative works of, decompile, disassemble, modify or decode the Services (including any underlying idea, technology, or algorithm) or any content included therein, or otherwise extract the source code of the software of the Services, without our written permission, except to the extent an exception or limitation applies under an open source license or applicable laws;
     
-* use any robot, spider, crawler, scraper, script, software, or other automated or semi-automated means, processes or interfaces to access, scrape, extract or copy the Services, including any user data, content or other data contained in the Services;
+*   use any robot, spider, crawler, scraper, script, software, or other automated or semi-automated means, processes or interfaces to access, scrape, extract or copy the Services, including any user data, content or other data contained in the Services;
     
-* use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent;
+*   use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent;
     
-* use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services;
+*   use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services;
     
-* upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
+*   upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
     
-* attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorized to access;
+*   attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorized to access;
     
-* use the Services to create or develop a competing product or service;
+*   use the Services to create or develop a competing product or service;
     
-* state or imply that we endorse your content;
+*   state or imply that we endorse your content;
     
-* probe, scan, or test the vulnerability of our Services or any system or network;
+*   probe, scan, or test the vulnerability of our Services or any system or network;
     
-* violate any applicable law or regulation in connection with your access to or use of the Services; or
+*   violate any applicable law or regulation in connection with your access to or use of the Services; or
     
-* access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US).
+*   access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US).
     
 
 _In summary: We own or control all of the content, features and functionalities of the Services, except your content. To ensure the Services and other users are protected from harm, there are rules we need you to follow when you use our Services. Failure to comply with these rules may result in suspension or termination of your account._
@@ -228,17 +228,17 @@ Snap honors trademark, copyright, and other intellectual property laws, includin
 
 If you file a notice with our Copyright Agent, it must comply with the requirements set forth at [17 U.S.C. § 512(c)(3)](https://www.law.cornell.edu/uscode/text/17/512?lang=en-US). That means the notice must:
 
-* contain the physical or electronic signature of a person authorized to act on behalf of the copyright owner;
+*   contain the physical or electronic signature of a person authorized to act on behalf of the copyright owner;
     
-* identify the copyrighted work claimed to have been infringed;
+*   identify the copyrighted work claimed to have been infringed;
     
-* identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material;
+*   identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material;
     
-* provide your contact information, including your address, telephone number, and an email address;
+*   provide your contact information, including your address, telephone number, and an email address;
     
-* provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+*   provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
     
-* provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
+*   provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
     
 
 _In summary: Make sure you own or have the right to use any content you make available on the Services. If you use content owned by someone else without permission, we may terminate your account. If you see anything which you believe infringes your intellectual property rights, let us know._
@@ -412,13 +412,13 @@ ARBITRATION NOTICE: IF YOU’RE USING THE SERVICES ON BEHALF OF A BUSINESS, THEN
 
 Our Services are not directed to children under the age of 13, and you must confirm that you are 13 years or older to create an account and use the Services. If we have actual knowledge that you are under the age of 13 (or the minimum age at which a person may use the Services in your state, province or country without parental consent, if greater), we will cease providing the Services to you and delete your account and your data. We may offer additional Services with additional terms that may require you to be even older to use them. So please read all such terms carefully. By using the Services, you confirm that (and represent and warrant that):
 
-* you can form a binding contract with Snap;
+*   you can form a binding contract with Snap;
     
-* you are not a person who is barred from using the Services under the laws of the United States, the United Kingdom, or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
+*   you are not a person who is barred from using the Services under the laws of the United States, the United Kingdom, or any other applicable jurisdiction — including, for example, that you do not appear on the U.S. Treasury Department’s list of Specially Designated Nationals or face any other similar prohibition;
     
-* you are not a convicted sex offender; and
+*   you are not a convicted sex offender; and
     
-* you will comply with these Terms (including any other terms and policies referenced in these Terms, such as the [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), [Music on Snapchat Guidelines](https://www.snap.com/music-guidelines?lang=en-US), and the [Commercial Content Policy](https://www.snap.com/terms/commercial-content?lang=en-US)) and all applicable local, state, national, and international laws, rules, and regulations.
+*   you will comply with these Terms (including any other terms and policies referenced in these Terms, such as the [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), [Music on Snapchat Guidelines](https://www.snap.com/music-guidelines?lang=en-US), and the [Commercial Content Policy](https://www.snap.com/terms/commercial-content?lang=en-US)) and all applicable local, state, national, and international laws, rules, and regulations.
     
 
 If you are using the Services on behalf of a business or some other entity, you confirm that you are authorised to bind that business or entity to these Terms and you agree to these Terms on behalf of that business or entity (and all references to “you” and “your” in these Terms will mean both you as the end user and that business or entity).
@@ -469,19 +469,19 @@ AI Features and Outputs are provided as-is and made available to you without rep
 
 When using our AI Features, unless we give our permission, you must not, and must not take any action that would reasonably be expected to: 
 
-* use Inputs that contain or make use of, and otherwise could reasonably be expected to generate Outputs that contain or make use of, content that you do not have permission to use, would violate the rights of others, or has otherwise been unlawfully obtained; 
+*   use Inputs that contain or make use of, and otherwise could reasonably be expected to generate Outputs that contain or make use of, content that you do not have permission to use, would violate the rights of others, or has otherwise been unlawfully obtained; 
     
-* violate any submission guidelines or other policies we make available to you that apply to your use of AI Features or submission of Inputs; 
+*   violate any submission guidelines or other policies we make available to you that apply to your use of AI Features or submission of Inputs; 
     
-* direct AI Features to generate any Outputs in violation of these Terms, the Community Guidelines, or any applicable intellectual property right, contractual restriction, or applicable laws, or which might otherwise cause harm; 
+*   direct AI Features to generate any Outputs in violation of these Terms, the Community Guidelines, or any applicable intellectual property right, contractual restriction, or applicable laws, or which might otherwise cause harm; 
     
-* alter, obscure, or remove any watermark or disclosure applied to Outputs by the AI Features; 
+*   alter, obscure, or remove any watermark or disclosure applied to Outputs by the AI Features; 
     
-* circumvent any safety or privacy features, safeguards, or mechanisms in the AI Features; 
+*   circumvent any safety or privacy features, safeguards, or mechanisms in the AI Features; 
     
-* use or share Outputs that will be used to train, develop, or fine tune models, services, or other AI technologies; or
+*   use or share Outputs that will be used to train, develop, or fine tune models, services, or other AI technologies; or
     
-* misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence.
+*   misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence.
     
 
 Separate terms apply to any AI Features you use through or in connection with our business Services and Lens Studio instead of those set out above, and will be displayed to you in connection with your use of those other Services. 
@@ -498,11 +498,11 @@ We hope you’ll understand any decisions we make about content or user accounts
 
 Upon receiving a complaint, we will:
 
-* ensure the complaint is reviewed in a timely, non-discriminatory, diligent and non-arbitrary manner;
+*   ensure the complaint is reviewed in a timely, non-discriminatory, diligent and non-arbitrary manner;
     
-* reverse our decision if we determine our initial assessment was incorrect; and
+*   reverse our decision if we determine our initial assessment was incorrect; and
     
-* inform you of our decision and of any possibilities for redress promptly.
+*   inform you of our decision and of any possibilities for redress promptly.
     
 
 _In summary: Most content on the Services is owned or controlled by others and we don't have any control or responsibility over that content. We have content moderation policies and processes in place that apply to content on the Services._
@@ -513,35 +513,35 @@ As between you and us, Snap is the owner of the Services, which includes all rel
 
 You must also respect Snap’s rights and adhere to the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf?lang=en-US), and any other guidelines, support pages, or FAQs published by Snap or our affiliates. That means, among other things, you may not do, attempt to do, enable, or encourage anyone else to do, any of the following and doing so may result in us terminating or suspending your access to the Services:
 
-* use branding, logos, icons, user interface elements, product or brand look and feel, designs, photographs, videos, or any other materials Snap makes available via the Services, except as explicitly allowed by these Terms, the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf?lang=en-US) or other brand guidelines published by Snap or our affiliates;
+*   use branding, logos, icons, user interface elements, product or brand look and feel, designs, photographs, videos, or any other materials Snap makes available via the Services, except as explicitly allowed by these Terms, the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US), [Bitmoji Brand Guidelines](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf?lang=en-US) or other brand guidelines published by Snap or our affiliates;
     
-* violate or infringe Snap’s, our affiliates’ or any other third party’s rights of publicity, privacy, copyrights, trademarks, or other intellectual property rights, including by using the Services to submit, display, post, create or generate any infringing content;
+*   violate or infringe Snap’s, our affiliates’ or any other third party’s rights of publicity, privacy, copyrights, trademarks, or other intellectual property rights, including by using the Services to submit, display, post, create or generate any infringing content;
     
-* copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
+*   copy, modify, archive, download, upload, disclose, distribute, sell, lease, syndicate, broadcast, perform, display, make available, make derivatives of, or otherwise use the Services or the content on the Services, other than temporary files that are automatically cached by your web browser for display purposes, as otherwise expressly permitted in these Terms, as otherwise expressly permitted by us in writing, or as enabled by the Service’s intended functionality;
     
-* attempt to access the Services through unauthorised third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
+*   attempt to access the Services through unauthorised third-party applications, solicit login credentials from other users, or buy, sell, rent, or lease access to your account, a username, Snaps, or a friend link;
     
-* reverse engineer, make unauthorised copies or derivative works of, decompile, disassemble, modify or decode the Services (including any underlying idea or algorithm) or any content included therein, or otherwise extract the source code of the software of the Services, without our written permission, except to the extent an exception or limitation applies under an open source license or applicable laws;
+*   reverse engineer, make unauthorised copies or derivative works of, decompile, disassemble, modify or decode the Services (including any underlying idea or algorithm) or any content included therein, or otherwise extract the source code of the software of the Services, without our written permission, except to the extent an exception or limitation applies under an open source license or applicable laws;
     
-* use any robot, spider, crawler, scraper, script, software, or other automated or semi-automated means, processes or interfaces to access, scrape, extract or copy the Services, including any user data, content or other data contained in the Services;
+*   use any robot, spider, crawler, scraper, script, software, or other automated or semi-automated means, processes or interfaces to access, scrape, extract or copy the Services, including any user data, content or other data contained in the Services;
     
-* use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent;
+*   use or develop any third-party applications that interact with the Services or other users’ content or information without our written consent;
     
-* use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services;
+*   use the Services in a way that could interfere with, disrupt, negatively affect, or inhibit other users from fully enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Services;
     
-* upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
+*   upload viruses or other malicious code or otherwise compromise, bypass, or circumvent the security of the Services;
     
-* attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorised to access;
+*   attempt to circumvent any content-filtering techniques we employ, or attempt to access areas or features of the Services that you are not authorised to access;
     
-* use the Services to create or develop a competing product or service;
+*   use the Services to create or develop a competing product or service;
     
-* state or imply that we endorse your content;
+*   state or imply that we endorse your content;
     
-* probe, scan, or test the vulnerability of our Services or any system or network;
+*   probe, scan, or test the vulnerability of our Services or any system or network;
     
-* violate any applicable law or regulation in connection with your access to or use of the Services; or
+*   violate any applicable law or regulation in connection with your access to or use of the Services; or
     
-* access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US).
+*   access or use the Services in any way not expressly permitted by these Terms or our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US).
     
 
 _In summary: We own or control all of the content, features and functionalities of the Services, except your content. To ensure the Services and other users are protected from harm, there are rules we need you to follow when you use our Services. Failure to comply with these rules may result in suspension or termination of your account._
@@ -552,17 +552,17 @@ Snap respects the rights of others. And so should you. You therefore may not use
 
 Snap honours trademark, copyright, and other intellectual property laws, including the Digital Millennium Copyright Act and takes reasonable steps to expeditiously remove from our Services any infringing material that we become aware of. If Snap becomes aware that a user has repeatedly infringed copyrights, we will take reasonable steps within our power to suspend or terminate the user’s account. If you believe that anything on the Services infringes a copyright that you own or control, please report it using the form accessible through this [tool](https://help.snapchat.com/hc/articles/7012332110996?lang=en-US). Or you may file a notice with our designated agent: Snap Inc., Attn: Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email: copyright @ snap.com. Don’t use this email address for anything other than reporting copyright infringement, as such emails will be ignored. To report other forms of infringement, including trademark infringement, on the Services, please use the tool accessible [here](https://help.snapchat.com/hc/articles/7012332110996?lang=en-US). If you file a notice with our Copyright Agent, it must:
 
-* contain the physical or electronic signature of a person authorised to act on behalf of the copyright owner;
+*   contain the physical or electronic signature of a person authorised to act on behalf of the copyright owner;
     
-* identify the copyrighted work claimed to have been infringed;
+*   identify the copyrighted work claimed to have been infringed;
     
-* identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material;
+*   identify the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed, or access to which is to be disabled, and information reasonably sufficient to let us locate the material;
     
-* provide your contact information, including your address, telephone number, and an email address;
+*   provide your contact information, including your address, telephone number, and an email address;
     
-* provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
+*   provide a personal statement that you have a good-faith belief that the use of the material in the manner complained of is not authorised by the copyright owner, its agent, or the law; and
     
-* provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorised to act on behalf of the copyright owner.
+*   provide a statement that the information in the notification is accurate and, under penalty of perjury, that you are authorised to act on behalf of the copyright owner.
     
 
 _In summary: Make sure you own or have the right to use any content you make available on the Services. If you use content owned by someone else without permission, we may terminate your account. If you see anything which you believe infringes your intellectual property rights, let us know._
@@ -691,49 +691,49 @@ Snap welcomes comments, questions, concerns, or suggestions. You can contact us 
 
 If you live in the Asia-Pacific region or if your principal place of business is in the Asia-Pacific region, which for the purposes of these Terms includes Afghanistan, India, Kyrgyzstan, Kazakhstan, Pakistan, Tajikistan, Turkmenistan and Uzbekistan, but does not include Armenia, Azerbaijan, Georgia, Russian Federation and Turkey, then: 
 
-* the company responsible for the Services is Snap Group Limited Singapore Branch and is located in Singapore at #16-03/04, 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, Singapore 018982. UEN: T20FC0031F. VAT ID: M90373075A; and
+*   the company responsible for the Services is Snap Group Limited Singapore Branch and is located in Singapore at #16-03/04, 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, Singapore 018982. UEN: T20FC0031F. VAT ID: M90373075A; and
     
-* any references to "Snap" in these Terms means Snap Group Limited Singapore Branch. 
+*   any references to "Snap" in these Terms means Snap Group Limited Singapore Branch. 
     
 
 Otherwise, the company responsible for the Services outside the United States and the Asia-Pacific region is Snap Group Limited and is located in the United Kingdom at 50 Cowcross Street, Level 2, London, EC1M 6AL, United Kingdom. Registered company number: 09763672. VAT ID: GB 237218316.
 
 Company
 
-* [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Community
 
-* [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Advertising
 
-* [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Legal
 
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
-* [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* [](https://www.snap.com/?lang=en-US)
-* [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [](https://www.snap.com/?lang=en-US)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* Language
+*   Language
     
     English (US)
 
@@ -754,11 +754,11 @@ We have provided summary sections at the end of most clauses. These summaries ha
 
 a. Please read these Snap Paid Features Terms (“Snap Paid Features Terms”) carefully. These Snap Paid Features Terms form a legally binding contract between you and the Snap entity listed below, and govern your purchase and use of any paid digital content or digital services on the Services such as Snapchat+ and Snapstreak Restore (“Paid Features”). The Snap entity that will provide the Paid Features to you corresponds to where you live as follows:
 
-* If you live in the United States, the Paid Features are provided by Snap Inc.
+*   If you live in the United States, the Paid Features are provided by Snap Inc.
     
-* If you live in the Asia-Pacific region, which for the purposes of these Paid Features Terms includes Afghanistan, India, Kyrgyzstan, Kazakhstan, Pakistan, Tajikistan, Turkmenistan and Uzbekistan, but does not include Armenia, Azerbaijan, Georgia, Russian Federation and Turkey, the Paid Features are provided by Snap Group Limited Singapore Branch.
+*   If you live in the Asia-Pacific region, which for the purposes of these Paid Features Terms includes Afghanistan, India, Kyrgyzstan, Kazakhstan, Pakistan, Tajikistan, Turkmenistan and Uzbekistan, but does not include Armenia, Azerbaijan, Georgia, Russian Federation and Turkey, the Paid Features are provided by Snap Group Limited Singapore Branch.
     
-* If you live in any country outside of the United States or the Asia-Pacific region, the Paid Features are provided by Snap Group Limited.
+*   If you live in any country outside of the United States or the Asia-Pacific region, the Paid Features are provided by Snap Group Limited.
     
 
 b. Your billing statement may reflect that your purchase of, and payment for, a Paid Feature is processed and received by an affiliate of the Snap entity set out above. However, the Services (including the Paid Features) are still provided and fulfilled by the Snap entity corresponding to where you live. You should address any related questions or issues relating to the Services, the Paid Features or these Snap Paid Features Terms to that Snap entity identified above instead. 
@@ -821,13 +821,13 @@ We may make digital content available for purchase through the Services. We will
 
 a. We or our partners may occasionally offer access to Paid Features to you on a promotional basis (for example, without charge or at a discounted rate for a limited period of time) subject to you meeting certain eligibility requirements as determined by Snap or our partners (“Promotional Offer”). We may also make Promotional Offers available to you on the occurrence of certain events or by asking you to take certain actions. You agree that:
 
-* any other limitations or conditions associated with a Promotional Offer will be determined by Snap or our partners in our sole discretion and made available to you either when activating or redeeming the Promotional Offer or in other communications from Snap or our partners describing the Promotional Offer;
+*   any other limitations or conditions associated with a Promotional Offer will be determined by Snap or our partners in our sole discretion and made available to you either when activating or redeeming the Promotional Offer or in other communications from Snap or our partners describing the Promotional Offer;
     
-* Promotional Offers will be used for the intended purpose and must be used in a lawful manner; 
+*   Promotional Offers will be used for the intended purpose and must be used in a lawful manner; 
     
-* Snap reserves the right to condition or revoke availability of any Promotional Offer at any time; and 
+*   Snap reserves the right to condition or revoke availability of any Promotional Offer at any time; and 
     
-* no matter how you receive the Promotional Offer, your use is subject to these Snap Paid Features Terms.
+*   no matter how you receive the Promotional Offer, your use is subject to these Snap Paid Features Terms.
     
 
 b. Where you have activated a Promotional Offer (such as a reduced price or a free trial) for a Paid Subscription then, following the expiry of the period of any Promotional Offer that you redeem, you will automatically be moved to the Paid Subscription you elected at the point of redeeming the Promotional Offer and your designated payment method will be charged for the full Paid Subscription, unless you cancel in accordance with these Snap Paid Features Terms. **YOU MUST THEREFORE REMEMBER TO CANCEL YOUR PROMOTIONAL OFFER FOR A PAID SUBSCRIPTION IN ACCORDANCE WITH THESE SNAP PAID FEATURES TERMS BEFORE THE EXPIRY OF THE PROMOTIONAL OFFER; OTHERWISE, YOU AUTHORIZE US OR YOUR PURCHASE PROVIDER TO CHARGE YOUR CREDIT CARD OR OTHER DESIGNATED BILLING METHOD THE FULL FEES FOR THE FOLLOWING BILLING PERIOD(S) UNTIL YOU CANCEL YOUR PAID SUBSCRIPTION IN ACCORDANCE WITH THESE SNAP PAID FEATURES TERMS.** 
@@ -840,13 +840,13 @@ a. All sales are final and we do not offer any refunds or credits except as requ
 
 b. Snap reserves the right to immediately suspend, discontinue or terminate your access to Paid Features, partially or fully, at any time and for any reason, at our sole discretion, without prior notice or liability to you, including, without limitation, where: 
 
-* you violate these Snap Paid Features Terms, we terminate or suspend your Snapchat account or we believe that you are engaged in illegal or fraudulent use of the Services (in addition to any remedy that we may have at law or in equity);
+*   you violate these Snap Paid Features Terms, we terminate or suspend your Snapchat account or we believe that you are engaged in illegal or fraudulent use of the Services (in addition to any remedy that we may have at law or in equity);
     
-* Snap is required to do so by any competent court of law, regulatory authority, or law enforcement agency or continued provision of a Paid Feature to you creates possible risk or legal exposure for Snap;
+*   Snap is required to do so by any competent court of law, regulatory authority, or law enforcement agency or continued provision of a Paid Feature to you creates possible risk or legal exposure for Snap;
     
-* doing so is required for the protection, integrity and/or security of our Services: or
+*   doing so is required for the protection, integrity and/or security of our Services: or
     
-* our provision of Paid Features (in whole or in part) to you is no longer viable as determined by Snap.
+*   our provision of Paid Features (in whole or in part) to you is no longer viable as determined by Snap.
     
 
 c. Except as required by applicable law, in the event of our suspension, discontinuance or cancellation of your access to a Paid Feature, no refunds will be provided for any unused Paid Features associated with your account or any partial remaining periods of a Paid Subscription. 
@@ -901,11 +901,11 @@ _In summary: Our contract with you on these terms is in English. Some parts will
 
 Snap welcomes comments, questions, concerns or suggestions. Please send feedback to us by visiting our [Snapchat Support](https://help.snapchat.com/hc/requests/new?lang=en-US) page but if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you. If you want to reach out to us with any complaints, feedback or if you have any questions about these Snap Paid Features Terms:
 
-* If you live in the United States, our mailing address is: Snap Inc., 3000 31st St., Suite C, Santa Monica, CA 90405.
+*   If you live in the United States, our mailing address is: Snap Inc., 3000 31st St., Suite C, Santa Monica, CA 90405.
     
-* If you live in the Asia-Pacific region, our mailing address is: Snap Group Limited Singapore Branch, #16-03/04, 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, 018982, Singapore. UEN: T20FC0031F. VAT ID: M90373075A.
+*   If you live in the Asia-Pacific region, our mailing address is: Snap Group Limited Singapore Branch, #16-03/04, 12 Marina Boulevard, Marina Bay Financial Centre Tower 3, 018982, Singapore. UEN: T20FC0031F. VAT ID: M90373075A.
     
-* If you live outside of the United States and the Asia-Pacific region, our mailing address is: Snap Group Limited, a company registered in England and located at 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom, with company number 09763672. Authorised representative: Ronan Harris, Director. VAT ID: GB 237218316.
+*   If you live outside of the United States and the Asia-Pacific region, our mailing address is: Snap Group Limited, a company registered in England and located at 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom, with company number 09763672. Authorised representative: Ronan Harris, Director. VAT ID: GB 237218316.
     
 
 _In summary: You can contact us and we always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you_.
@@ -928,11 +928,11 @@ You do not have the right to change your mind and cancel the contract if: (i) yo
 
 Your legal right to cancel applies to Paid Features as follows:
 
-* Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days’ usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
+*   Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days’ usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
     
-* Snapstreak Restores and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
+*   Snapstreak Restores and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
     
-* Digital content: Digital content purchases cannot be cancelled. When you purchase digital content you are consenting for us to start providing the digital content immediately.
+*   Digital content: Digital content purchases cannot be cancelled. When you purchase digital content you are consenting for us to start providing the digital content immediately.
     
 
 If you are entitled to a refund, we will pay the refund to you within 14 days of receiving notice of your cancellation using the same means of payment as you used for the initial transaction. 
@@ -979,40 +979,40 @@ Nothing in this section or these Snap Paid Features Terms affects your legal rig
 
 Company
 
-* [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Community
 
-* [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Advertising
 
-* [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Legal
 
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
-* [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* [](https://www.snap.com/?lang=en-US)
-* [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [](https://www.snap.com/?lang=en-US)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* Language
+*   Language
     
     English (US)
 
@@ -1091,11 +1091,11 @@ _In summary: These My SelfieTerms do not create any third-party rights and some 
 
 Snap welcomes comments, questions, concerns or suggestions. You can reach out to us with any complaints or feedback at the following points of contact:
 
-* If you live in the United States, our mailing address is 3000 31st St., Santa Monica, CA 90405.
+*   If you live in the United States, our mailing address is 3000 31st St., Santa Monica, CA 90405.
     
-* If you live in a country within the Asia-Pacific region, then our mailing address is Singapore at Marina One West Tower, 018937, Singapore with a UEN of T20FC0031F.
+*   If you live in a country within the Asia-Pacific region, then our mailing address is Singapore at Marina One West Tower, 018937, Singapore with a UEN of T20FC0031F.
     
-* If you live in any country other than the United States or the Asia-Pacific region, our mailing address is: Snap Group Limited, a company registered in England and located at 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom, with company number 09763672. Authorized representative: Ronan Harris, Director. VAT ID: GB 237218316.
+*   If you live in any country other than the United States or the Asia-Pacific region, our mailing address is: Snap Group Limited, a company registered in England and located at 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom, with company number 09763672. Authorized representative: Ronan Harris, Director. VAT ID: GB 237218316.
     
 
 [My Selfie Support](https://help.snapchat.com/hc/articles/25312335775380/?utm_source=sc&utm_medium=lm&utm_campaign=my_selfie&lang=en-US)
@@ -1106,40 +1106,40 @@ We always love to hear from our users. But if you volunteer feedback or suggesti
 
 Company
 
-* [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Community
 
-* [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Advertising
 
-* [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Legal
 
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
-* [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* [](https://www.snap.com/?lang=en-US)
-* [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [](https://www.snap.com/?lang=en-US)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* Language
+*   Language
     
     English (US)
 
@@ -1164,29 +1164,29 @@ All rights not expressly granted to you in this section are reserved by Snap. No
 
 By using the Embed, you will be able to display Public Content outside of the Snapchat application. While we provide this feature so that members of our community (including you) can share Public Content to a broader audience, you must comply with the following while using it:
 
-* Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US).
+*   Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US).
     
-* As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines?lang=en-US).
+*   As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines?lang=en-US).
     
-* The license we’ve granted you in these Public Content Display Terms does not include a license to the third party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions, and licenses before you use and distribute the Public Content on a website, or mobile application using the Embed.
+*   The license we’ve granted you in these Public Content Display Terms does not include a license to the third party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions, and licenses before you use and distribute the Public Content on a website, or mobile application using the Embed.
     
-* Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
+*   Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
     
-* Promptly remove any Public Content and the related Embed that we — or the owner of the Public Content, if that isn’t us — ask you to remove.
+*   Promptly remove any Public Content and the related Embed that we — or the owner of the Public Content, if that isn’t us — ask you to remove.
     
-* Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
+*   Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
     
-* Don’t use the Embed or Public Content to imply sponsorship by, endorsement from, or a false association with Snap, any of its users, or third party content providers.
+*   Don’t use the Embed or Public Content to imply sponsorship by, endorsement from, or a false association with Snap, any of its users, or third party content providers.
     
-* Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner that violates the Terms.
+*   Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner that violates the Terms.
     
-* Always use the Embed and display Public Content in compliance with all applicable laws, rules, and regulations.
+*   Always use the Embed and display Public Content in compliance with all applicable laws, rules, and regulations.
     
-* Don’t use the Embed or Public Content on a website, or mobile application with terms that conflict with the Terms.
+*   Don’t use the Embed or Public Content on a website, or mobile application with terms that conflict with the Terms.
     
-* Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
+*   Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
     
-* Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
+*   Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
     
 
 3\. Content Appropriateness
@@ -1195,40 +1195,40 @@ In addition to the disclaimers included in any of our other Terms, by displaying
 
 Company
 
-* [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Community
 
-* [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Advertising
 
-* [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Legal
 
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
-* [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* [](https://www.snap.com/?lang=en-US)
-* [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [](https://www.snap.com/?lang=en-US)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* Language
+*   Language
     
     English (US)
 
@@ -1394,40 +1394,40 @@ These Terms do not create or confer any third-party beneficiary rights. If we do
 
 Company
 
-* [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Community
 
-* [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Advertising
 
-* [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Legal
 
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
-* [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* [](https://www.snap.com/?lang=en-US)
-* [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [](https://www.snap.com/?lang=en-US)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* Language
+*   Language
     
     English (US)
 
@@ -1651,39 +1651,39 @@ We always love to hear from our users. But if you volunteer feedback or suggesti
 
 Company
 
-* [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Careers](https://careers.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [News](https://newsroom.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy and Safety](https://values.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Community
 
-* [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Support](https://help.snapchat.com/hc?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Spectacles Support](https://support.spectacles.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Advertising
 
-* [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Snapchat Ads](https://forbusiness.snapchat.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Advertising Policies](https://www.snap.com/ad-policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Political Ads Library](https://www.snap.com/political-ads?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Brand Guidelines](https://www.snap.com/brand-guidelines?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Promotions Rules](https://help.snapchat.com/hc/articles/7047502545044?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
 Legal
 
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
-* [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Law Enforcement](https://values.snap.com/safety/safety-enforcement?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Policy](https://www.snap.com/cookie-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Cookie Settings](https://www.snap.com/cookie-settings?lang=en-US)
+*   [Report Infringement](https://help.snapchat.com/hc/articles/7012332110996?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* [](https://www.snap.com/?lang=en-US)
-* [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
-* [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [](https://www.snap.com/?lang=en-US)
+*   [CitizenSnap](https://citizen.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Other Terms & Policies](https://www.snap.com/policies?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Privacy Policy](https://values.snap.com/privacy/privacy-policy?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
+*   [Terms of Service](https://www.snap.com/terms?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
 
-* Language
+*   Language
     
     English (US)
