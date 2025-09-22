@@ -123,12 +123,12 @@ After completing a transaction or paying the applicable fees for a Paid Service,
 
 When you use the Paid Services, you may not (or attempt to):
 
-* use the Paid Services in an illegal manner, or for an illegal purpose;
-* share your Google account password with someone else to allow them to access any Paid Service they did not order;
-* copy, sell, rent, or sublicense the Paid Services to any third party;
-* circumvent, reverse engineer, modify, disable, or otherwise tamper with any security technology that Google uses to protect the Paid Services or encourage or help anyone else to do so;
-* access the Paid Services other than by means authorized by Google; or
-* remove any proprietary notices or labels on Paid Services (for example watermarks).
+*   use the Paid Services in an illegal manner, or for an illegal purpose;
+*   share your Google account password with someone else to allow them to access any Paid Service they did not order;
+*   copy, sell, rent, or sublicense the Paid Services to any third party;
+*   circumvent, reverse engineer, modify, disable, or otherwise tamper with any security technology that Google uses to protect the Paid Services or encourage or help anyone else to do so;
+*   access the Paid Services other than by means authorized by Google; or
+*   remove any proprietary notices or labels on Paid Services (for example watermarks).
 
 **7.        Changes**
 ---------------------
@@ -141,8 +141,8 @@ We’re constantly developing new features and ways to improve our services and 
 
 The availability of content on a Paid Service may change from time to time, including when content within a Paid Service becomes limited or unavailable due to restrictions from our partners who license us that content, or for legal or policy reasons.
 
-* For rentals of content: if content becomes removed or unavailable during your rental period, you will be entitled to either a refund or to a reasonable replacement.
-* For purchased content: (a) if the content becomes removed or unavailable during the first five years after your purchase, you will be entitled to a refund or a reasonable replacement or (b) if the content becomes removed or unavailable following such five year period, and you are not able to download a copy of the affected content before it becomes unavailable (if applicable), then we may, at our option, offer you either a reasonable replacement of the content or a full or partial refund of the price of the content.
+*   For rentals of content: if content becomes removed or unavailable during your rental period, you will be entitled to either a refund or to a reasonable replacement.
+*   For purchased content: (a) if the content becomes removed or unavailable during the first five years after your purchase, you will be entitled to a refund or a reasonable replacement or (b) if the content becomes removed or unavailable following such five year period, and you are not able to download a copy of the affected content before it becomes unavailable (if applicable), then we may, at our option, offer you either a reasonable replacement of the content or a full or partial refund of the price of the content.
 
 ### **7.3        Changes to Pricing**
 
@@ -437,16 +437,16 @@ It’s in both of our interests to resolve disputes in the quickest and most cos
 
 They include, for example:
 
-* any disputes regarding these ST Terms;
-* any disputes regarding your NFL Sunday Ticket subscription;
-* any disputes regarding the performance, features, or functionality of the ST Services;
-* any disputes regarding your use of and/or access to the ST Services;
-* any disputes regarding changes to the ST Services;
+*   any disputes regarding these ST Terms;
+*   any disputes regarding your NFL Sunday Ticket subscription;
+*   any disputes regarding the performance, features, or functionality of the ST Services;
+*   any disputes regarding your use of and/or access to the ST Services;
+*   any disputes regarding changes to the ST Services;
 
 and the Arbitration Terms apply:
 
-* whether your dispute is with Google, its subsidiaries, affiliates or parent company, or any suppliers or service providers involved with the ST Services (including, for the avoidance of doubt, the National Football League, NFL Enterprises LLC, and their subsidiaries, affiliates, parent companies, and member clubs), and their officers, directors, employees, agents and successors, all of whom shall be entitled to enforce the terms of this Section 11. For the avoidance of doubt, if Google is not a party to an arbitration commenced under this Section 11, Google need not participate in the administration of the arbitration as set out in Sections 11.4 and 11.5; and
-* regardless of the legal theory on which you base your claim (such as breach of warranty, breach of contract, negligence, etc.).
+*   whether your dispute is with Google, its subsidiaries, affiliates or parent company, or any suppliers or service providers involved with the ST Services (including, for the avoidance of doubt, the National Football League, NFL Enterprises LLC, and their subsidiaries, affiliates, parent companies, and member clubs), and their officers, directors, employees, agents and successors, all of whom shall be entitled to enforce the terms of this Section 11. For the avoidance of doubt, if Google is not a party to an arbitration commenced under this Section 11, Google need not participate in the administration of the arbitration as set out in Sections 11.4 and 11.5; and
+*   regardless of the legal theory on which you base your claim (such as breach of warranty, breach of contract, negligence, etc.).
 
 For disputes or claims relating to the ST Services, the Arbitration Terms supersede any terms regarding dispute resolution in any other agreement between you and Google and contain the whole agreement between us with respect to disputes or claims relating to the ST Services.
 
@@ -462,7 +462,7 @@ The American Arbitration Association (“**AAA**”) will administer the arbitra
 
 Here are the steps you and Google agree to follow:
 
-* Send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (or international equivalent) or, only if the other party hasn’t provided a current physical address, then by electronic mail. Google’s address for notice is:
+*   Send a written notice of the dispute to the other party by certified U.S. Mail or by Federal Express (or international equivalent) or, only if the other party hasn’t provided a current physical address, then by electronic mail. Google’s address for notice is:
 
                 Google LLC
 
@@ -474,13 +474,13 @@ Here are the steps you and Google agree to follow:
 
                 Sacramento, CA 95833
 
-* The notice has to include, if available: (a) the name of the person making the claim, (b) the email address associated with the ST Services subscription, as applicable, (c) a description of the nature and basis of the claim, (d) the result that is desired (e.g., an amount of money), and (e) the case number(s) assigned by Google to track previous attempts to resolve the dispute, if existing.
+*   The notice has to include, if available: (a) the name of the person making the claim, (b) the email address associated with the ST Services subscription, as applicable, (c) a description of the nature and basis of the claim, (d) the result that is desired (e.g., an amount of money), and (e) the case number(s) assigned by Google to track previous attempts to resolve the dispute, if existing.
 
-* We each agree to try to resolve the claim, but if we can’t do that within 60 days after the notice is received, you or Google may initiate an arbitration proceeding by following the AAA Rules. Unless the parties agree otherwise, your demand for arbitration (“**Demand**”) must be sent to Google’s address for notice and entitled “Demand for Arbitration.” Google will send Demands to you at the e-mail address provided in the notice of the dispute.
+*   We each agree to try to resolve the claim, but if we can’t do that within 60 days after the notice is received, you or Google may initiate an arbitration proceeding by following the AAA Rules. Unless the parties agree otherwise, your demand for arbitration (“**Demand**”) must be sent to Google’s address for notice and entitled “Demand for Arbitration.” Google will send Demands to you at the e-mail address provided in the notice of the dispute.
 
-* During the arbitration, the amount of any settlement offer made by you or Google may not be disclosed to the arbitrator until after the arbitrator makes a final decision and award (if any).
+*   During the arbitration, the amount of any settlement offer made by you or Google may not be disclosed to the arbitrator until after the arbitrator makes a final decision and award (if any).
 
-* If you win in the arbitration and are awarded an amount that exceeds the last written settlement amount offered by Google before the arbitrator was appointed, Google will pay you: (i) the amount awarded by the arbitrator and (ii) your reasonable attorney’s fees incurred during the arbitration proceedings.
+*   If you win in the arbitration and are awarded an amount that exceeds the last written settlement amount offered by Google before the arbitrator was appointed, Google will pay you: (i) the amount awarded by the arbitrator and (ii) your reasonable attorney’s fees incurred during the arbitration proceedings.
 
 ### **11.5         Fees and Hearing Location**
 
