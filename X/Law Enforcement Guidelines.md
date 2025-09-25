@@ -1,13 +1,3 @@
-1.  [Help Center](https://help.x.com/en)
-3.  [Law Enforcement Guidelines](https://help.x.com/en/rules-and-policies#law-enforcement-guidelines)
-5.  Guidelines for law enforcement
-
-Guidelines for law enforcement
-------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Law Enforcement Guidelines](https://help.x.com/en/rules-and-policies#law-enforcement-guidelines)
-
 Guidelines for law enforcement
 ==============================
 
