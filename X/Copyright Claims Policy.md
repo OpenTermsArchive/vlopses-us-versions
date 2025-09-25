@@ -1,13 +1,3 @@
-1.  [Help Center](https://help.x.com/en)
-3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5.  Copyright policy
-
-Copyright policy
-----------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-
 Copyright policy
 ================
 
@@ -152,16 +142,6 @@ Additionally, re-posting material that was already removed in response to a copy
 Post
 
 - - -
-
-1.  [Help Center](https://help.x.com/en)
-3.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
-5.  Automated copyright claims for live video
-
-Automated copyright claims for live video
------------------------------------------
-
-1.  [Help Center](https://help.x.com/en)
-2.  [Intellectual property](https://help.x.com/en/rules-and-policies#intellectual-property)
 
 Automated copyright claims for live video
 =========================================
