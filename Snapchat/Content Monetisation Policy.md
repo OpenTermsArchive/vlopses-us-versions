@@ -116,8 +116,6 @@ You frequently publish inauthentic content that misleads people (even if the sub
 
 - - -
 
-**These Snap Monetization Terms replace and supersede the** [**Creator Stories Terms**](https://www.snap.com/terms/creator-stories)**, effective as of February 1, 2025, if previously accepted by you.**
-
 Snap Monetization Terms
 
 
