@@ -1433,8 +1433,6 @@ Legal
 
 - - -
 
-**PLEASE NOTE: WE’VE UPDATED THESE LENS STUDIO TERMS, EFFECTIVE SEPTEMBER 16, 2024. YOU CAN VIEW THE PRIOR LENS STUDIO TERMS, WHICH APPLY TO ALL USERS UNTIL SEPTEMBER 16, 2024,** [**HERE**](https://www.snap.com/terms/lens-studio-terms-10-26-18?lang=en-US)**.**
-
 If you live in the United States, you are agreeing to the Snap Inc. Lens Studio Terms found [here](https://www.snap.com/terms/lens-studio-terms?lang=en-US#terms-us).
 
 If you live outside the United States, you are agreeing to the Snap Group Limited Lens Studio Terms found [here](https://www.snap.com/terms/lens-studio-terms?lang=en-US#terms-row).
