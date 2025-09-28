@@ -1,6 +1,12 @@
 Privacy Policy
 ==============
 
+### **
+
+Update to our terms**
+
+### We're updating our terms on November 3, 2025. See [here](https://www.linkedin.com/legal/preview/privacy-policy) for what's coming in our updated Privacy Policy. [Learn more](https://www.linkedin.com/help/linkedin/answer/a8059228)  
+
 _[Effective September 18, 2024](https://www.linkedin.com/help/linkedin/answer/a1341216/updates-to-user-agreement-and-privacy-policy)_
 
 Your Privacy Matters
