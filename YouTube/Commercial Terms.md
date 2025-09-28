@@ -1,11 +1,9 @@
 YouTube Paid Service Terms of Service
 =====================================
 
-#### Effective as of August 12, 2025 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250414-en))
+#### Effective as of September 26, 2025 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250812-en))
 
 #### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
-
-We’re updating our YouTube Paid Terms of Service by adding the terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite subscriptions. This update will take effect on September 26, 2025. Until then, the existing YouTube Paid Terms of Service and [YouTube Premium Terms](https://www.youtube.com/premium/restrictions) continue to apply.
 
 Please ensure you read the YouTube Paid Service Terms of Service in full, in addition to any Additional Terms that apply to the particular Paid Service(s) you are using.
 
@@ -20,6 +18,9 @@ Please ensure you read the YouTube Paid Service Terms of Service in full, in add
 
 [**Additional Terms for NFL Sunday Ticket (includes Arbitration Terms)**](https://www.youtube.com/t/terms_paidservice#sundayticket)
 -----------------------------------------------------------------------------------------------------------------------------------
+
+[**Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (and accepted payment methods)**](https://www.youtube.com/t/terms_paidservice#premium)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **YouTube Paid Service Terms of Service**
 =========================================
@@ -505,3 +506,71 @@ The arbitrator shall honor all evidentiary privileges recognized at law, and sha
 ### **11.10        Governing Law and Judicial Forum for Non-Arbitrable Disputes**
 
 These Arbitration Terms are governed by the FAA and (only to the extent not inconsistent with the substantive and procedural provisions of the FAA), the laws of the State of California, without regard to conflicts of laws principles. The arbitrator will not be bound by rulings in other arbitrations involving Google to which you are not a party. Other than claims that must be resolved through binding arbitration (or that may be brought in small claims court), any disputes relating to an intellectual property rights infringement claim under Section 11.2(iii), or if the entirety of these Arbitration Terms is found to be unenforceable by a court under Section 11.8 will be litigated exclusively in the federal or state courts of Santa Clara County, California; the parties consent to personal and exclusive jurisdiction in these courts.
+
+**Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (and accepted payment methods)**
+=======================================================================================================================
+
+**1.        Introduction**
+--------------------------
+
+These Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (“**Premium Service Terms**”) govern your use of and access to [YouTube Premium](https://support.google.com/youtube/answer/6305537), [YouTube Music Premium](https://support.google.com/youtube/answer/6305537) and [YouTube Premium Lite](https://support.google.com/youtube/answer/15968883)  (each  a “**Premium Service**” and collectively the “**Premium Services**”). The Premium Services include the membership plans that are currently offered and any additional services or plans under the Premium Services that Google might make available. Your purchase of any Premium Service and any use of the Premium Services are subject to: these Premium Service Terms;  these [Paid Service Terms of Service](https://www.youtube.com/t/terms_paidservice); and the [YouTube Terms of Service](https://www.youtube.com/t/terms). We’ll refer to these documents together as the “**Terms**”. If there is a conflict between these Premium Service Terms and the Paid Service Terms, these Premium Service Terms will take precedence.
+
+**2.        Your Acceptance**
+-----------------------------
+
+You must have an active Google account to sign up for a Premium Service. If you do not have a Google account at the time that you sign up for a Premium Service, you will be required to create one. Any suspension or termination of your Google account may cause your access to any Premium Service to be suspended or terminated. The Premium Services may vary by geographical location, device, and operational system and may also vary in price, plan and feature offerings. [Learn more](https://support.google.com/youtube/answer/6305537). Please read the Terms carefully and make sure that you understand them. If you do not understand the Terms, or do not accept any part of them, then you may not use any Premium Service. By accessing or using any Premium Service, you accept the provisions set forth in the Terms.
+
+**3.        Geographical Restrictions**
+---------------------------------------
+
+Your use of and access to any Premium Service should be used from the country or territory where you signed up for that Premium Service. Accessing or using any Premium Service predominantly outside of that country, or attempting to misrepresent your sign-up country, is a violation of the Premium Service Terms and may result in termination of your access to the Premium Services. If you move to a new country, you may be required to re-subscribe to the Premium Services there to maintain your access, subject to the Premium Service's availability, pricing, and feature offerings in that new country. [Learn more](https://support.google.com/youtube/answer/6307365).
+
+**4.        Plans**
+-------------------
+
+**4.1         Individual Plans**
+--------------------------------
+
+This plan is designed to be used by one user and may not be used by multiple users sharing the same account. If more than one person intends to use this plan, upgrade to a multi-person plan. Features offered under an individual plan may vary across Premium Services.  
+
+**4.2         Multi-Person Plans**
+----------------------------------
+
+We may offer multi-person plans (such as a two person or a six person plan) for family group members residing in the same household as the family manager. Multi-person plans may vary in price and geographical location (such as availability) and may be subject to additional terms and restrictions.  [Learn more](https://support.google.com/youtube/answer/16475192#multi_plan).
+
+**4.3         Student Plans**
+-----------------------------
+
+Student memberships are only available to full-time students at approved higher education institutions, are valid for up to 4 years and are subject to eligibility verification by a third-party verification service. At the end of each year, you will be required to re-verify your eligibility. If you are no longer eligible for discounted student pricing, you may transition over to a different membership. Student memberships are available in select countries.  In some locations, such as Quebec and Israel, if you are no longer eligible for discounted student pricing, your membership may expire. [Learn more](https://support.google.com/youtube/answer/9158808).
+
+**4.4         Pre-Paid Plans**
+------------------------------
+
+Some memberships are available for pre-paid purchase and give access to membership benefits for a fixed period of time. Pre-paid plans are purchased upfront for a select duration and do not automatically renew. You may have up to 24 months of pre-paid access. Once the time period you purchased ends, you will lose access to your benefits. If you wish to terminate access before the expiration of your pre-paid plan, please contact YouTube Support. No partial refunds are available. Availability of pre-paid plans may vary by operational system, country or duration. [Learn more](https://support.google.com/youtube/answer/11417260).
+
+**5.        Trials**
+--------------------
+
+We may offer no-cost Premium Service trials (“**Premium** **Service** **Trials**”) from time to time. Only first time Premium Service subscribers may be eligible for Premium Service Trials, introductory offers or promotional pricing. Except for Google Workspace Individual edition accounts, Google Workspace accounts may not be eligible for Premium Service Trials. You can sign up for only one Premium Service Trial  per payment method. [Learn more](https://support.google.com/youtube/answer/10324204).
+
+**6.        Promotional Offers**
+--------------------------------
+
+We may provide promotional offers from time to time. If you are eligible for more than one promotional offer, these offers may be applied in subsequent billing cycles. For clarity, some promotional offers may not be combined. Upon expiration of the promotional offer(s), you will be charged the full price of the Premium Service. Promotions may be subject to additional terms. Promotions may vary by country or billing platform and in duration or eligibility requirements.
+
+**7.        Features**
+----------------------
+
+[Features](https://support.google.com/youtube/answer/6308116) included with your Premium Services may come with certain restrictions, may vary by plan, device, country or for other reasons. Some features may be experimental, and we reserve the right to update or remove them at any time without any notice. You must have an Internet connection to stream or download content ([Supported devices).](https://support.google.com/youtube/go/red_devices) Some restrictions may apply for downloads ([Learn more](https://support.google.com/youtube/answer/6308116#offline)) and streaming limits ([Learn more](https://support.google.com/youtube/answer/7361503)). For clarity, ads or promotions may appear during live events streamed on YouTube, such as sporting events. [Learn more](https://support.google.com/youtube/answer/6308116#zippy=%2Cwatch-videos-without-ads). 
+
+**8.        Billing and Accepted Payment Methods**
+--------------------------------------------------
+
+You must have a valid and [accepted payment method](https://support.google.com/youtube/answer/10239146) on file in order to purchase a Premium Service. Google may change or restrict the use of the accepted payment methods from time to time, which may include a requirement to use a form of payment issued in the country in which you purchase the Premium Service. Changes in pricing of your Premium Service are subject to the Paid Service Terms of Service. For recurring plans, your payment method on file will be automatically charged the price of the plan every billing period starting on the first billing date until your Premium Service is cancelled.
+
+**9.        Suspensions and Cancellations**
+-------------------------------------------
+
+We reserve the right to restrict, pause, or cancel your use and access to any Premium Service (including any plans, Premium Service Trials, or promotional offers) as well as refuse sign ups to any Premium Service, including taking appropriate action (such as suspension of your YouTube account) for any violation of the Terms, applicable laws or Google policies.
+
+You can cancel your Premium Service at any time. The cancellation will take effect at the end of your billing period. In certain territories in accordance with applicable law, you may cancel your Premium Service immediately by contacting the YouTube Support team, in which case you may be eligible for a refund. [Learn more](https://support.google.com/youtube/topic/12013284).
