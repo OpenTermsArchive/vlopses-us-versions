@@ -68,7 +68,7 @@ In this Policy we list the kinds of information we collect. Here are some import
 *   Information from the phone, computer, or tablet you use our Products on, like what kind it is and what version of our app you’re using
 *   Information from [partners\[2\]](#annotation-2) about things you do both on and off of our Products. This could include other websites you visit, apps you use or online games you play.
 
-[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DePXottBZzIMQ7kNvwE-9aSJ%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEyMzMsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3D9CRI6MoI-SMNKId0lBRU6w%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afb7CAWk3I9zfLtyIkzl_4GoXKUhJr-GqLaa3Ckw-uOiXQ%26oe%3D68E239F5%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
+[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DePXottBZzIMQ7kNvwE-9aSJ%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEyMzMsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3DHE029BTS-aHH6c9yS9uQeg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_Afamaa-jfHiOvHhMsf8Ac14VbcVOw6bWHPHR3ojeMa72Mg%26oe%3D68E2E2B5%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
 
 The information we collect and process about you depends on how you use our [Products\[3\]](#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[4\]](#annotation-4).
 
@@ -528,7 +528,7 @@ Here are some of the ways we use your information:
 *   We send you messages about the Products you use or ones you might like, if you let us
 *   We research for the good of people around the world, like to advance technology or to help out in a crisis
 
-[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DFkJYi-aQdGoQ7kNvwE3o3Yw%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTI0NiwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3D9CRI6MoI-SMNKId0lBRU6w%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfYPtaXB0Et5Vqh3Qcjw9wP_2KykmWdB2SjG2rZ8qkk-zA%26oe%3D68E25AC5%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
+[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DFkJYi-aQdGoQ7kNvwE3o3Yw%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTI0NiwidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3DHE029BTS-aHH6c9yS9uQeg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfackXhFXlYGcZncIA8plkaCrIz0AuVnwie1OWusO0T4Tw%26oe%3D68E30385%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
 
 We use [information we collect](#1-WhatInformationDoWe) to provide a personalized experience to you, including ads, along with the other purposes we explain in detail below.
 
@@ -719,7 +719,7 @@ More in the Privacy Policy
 Using information across our Products
 -------------------------------------
 
-[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQMkxKtPFjj_5Cfylgq4IfQujNtlJXjKIKvVP6BB5JaQYHlvsjELTssObcdysPt2xPzetuZLlHeD1ii0_P9BpbDl.mp4%3Fstrext%3D1%26_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DrM7uaisfhwEQ7kNvwE5R4i5%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEyMzMsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3D9CRI6MoI-SMNKId0lBRU6w%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfZ-herbBwd71hHqz6T6NU_h1FSBGxtaSlJ1JfN076Ro2w%26oe%3D68E24A2D%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
+[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQMkxKtPFjj_5Cfylgq4IfQujNtlJXjKIKvVP6BB5JaQYHlvsjELTssObcdysPt2xPzetuZLlHeD1ii0_P9BpbDl.mp4%3Fstrext%3D1%26_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DrM7uaisfhwEQ7kNvwE5R4i5%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEyMzMsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3DHE029BTS-aHH6c9yS9uQeg%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfZXroSLQ3iCGGqRiVFaFad-PLP5_5Lh-SCCG7GZwsg4qA%26oe%3D68E2F2ED%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
 
 We use [information across your accounts on our Products](https://www.meta.com/help/accounts-center/Information-used-across-accounts/) to:
 
@@ -2096,3 +2096,135 @@ We’re investing so much in this space because we believe it provides benefits 
 Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/1266025207620918)
 
 We see many possibilities ahead for people, creators and businesses to use generative AI. We’re excited to see this technology come this far but know that there’s more to do in the future. Generative AI is a fast-moving space and we are committed to staying transparent as this technology evolves.
+
+- - -
+
+United States Regional Privacy Notice
+=====================================
+
+Explore the policy
+------------------
+
+[About this Notice
+-----------------](#1)[How we collect, use, and disclose Personal Information
+------------------------------------------------------](#2)[Sources of Personal Information
+-------------------------------](#3)[How long do we keep your Personal Information?
+----------------------------------------------](#4)[How can you exercise your rights provided under applicable U.S. privacy laws?
+-----------------------------------------------------------------------------](#5)[Contact for more information
+----------------------------](#6)
+
+Other policies[Terms of Service
+----------------](https://mbasic.facebook.com/terms/)[Cookies Policy
+--------------](https://mbasic.facebook.com/policies/cookies/)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+About this Notice
+=================
+
+Effective May 23, 2025
+
+This United States Regional Privacy Notice (“Notice”) is for people living in the United States and supplements the Meta [Privacy Policy](https://www.facebook.com/privacy/policy), the [Meta Payments Inc. Privacy Policy](https://www.facebook.com/payments_terms/privacy), the [Meta Viewpoints Privacy Policy](https://www.facebook.com/help/viewpoints/data_policy), and the [Opensource Privacy Policy](https://lm.facebook.com/l.php?u=https%3A%2F%2Fopensource.fb.com%2Flegal%2Fprivacy%2F). For Portal, Facebook View, and Meta Platforms Technologies products, please see their [U.S. Regional Privacy Notice.](https://www.meta.com/legal/united-states/)
+
+This Notice explains how we, Meta, collect, use, and disclose your Personal Information. It also describes how to exercise your rights under applicable U.S. privacy laws.
+
+When we say “Personal Information” in this Notice, we mean information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked with you, directly or indirectly. Personal Information does not include information that cannot be reasonably linked to you. When data is deidentified (as defined under applicable U.S. privacy laws), we maintain it in deidentified form and do not attempt to reidentify the information.
+
+How we collect, use, and disclose Personal Information
+======================================================
+
+To provide the products or features offered by Meta (“[Meta Company Products](https://www.facebook.com/help/195227921252400)"), we process information about you, including Personal Information, whether or not you have an account or are logged in. The best way to learn about the types of information we collect and how we use them is to review the [Meta Privacy Policy](https://www.facebook.com/privacy/policy/) and the privacy policies of our other products.
+
+Subject to the limitations we describe in our privacy policies, we may disclose your Personal Information for business purposes, with strict restrictions on how our partners can use and disclose the data we provide. We may also disclose it at your direction or in other ways that are in accordance with applicable U.S. privacy laws. We don’t “share” your Personal Information, as defined in the California Consumer Privacy Act (“CCPA”). We also don’t sell any of your Personal Information, and we never will.
+
+The information we collect, use and disclose about you will vary depending on how you interact with Meta and our products. For the products covered by this Notice, here’s a summary of:
+
+*   The categories of Personal Information we may have collected about you over the past 12 months
+*   How we may use your Personal Information
+*   To whom we may have disclosed that information
+
+| ### Categories of Personal Information we collect may include: | ### Examples of how Personal Information may be used include: | ### Parties with whom each category of Personal Information may be disclosed include: |
+| --- | --- | --- |
+| *   Identifiers;<br>*   Characteristics of protected classifications;<br>*   Commercial information;<br>*   Photos and videos, which may include face imagery;<br>*   Internet or other electronic network activity information, including browser and app logs, content you view or engage with, and app, browser and device information;<br>*   Location-related information;<br>*   Audio or visual information, including photos, videos, and voice recordings;<br>*   Professional or employment information;<br>*   Education information;<br>*   Information derived from other Personal Information about you, which could include your preferences, interests, and other information used to personalize your experience; and<br>*   Other information you provide<br><br>We may also collect sensitive personal information (as defined by applicable U.S. privacy laws), which may include:<br><br>*   Social security, driver’s license, state identification card or passport number;<br>*   Precise geolocation;<br>*   Information about your racial or ethnic origin or religious views or union membership;<br>*   The content of messages you send and receive, which are considered sensitive personal information under CCPA;<br>*   Information about your sexual orientation;<br>*   Information about your health;<br>*   Information about your citizenship, immigration status or national origin;<br>*   Information about your status as transgender or non-binary; and<br>*   Face imagery or voice recordings which may be used to identify you when you use relevant features. | *   Providing, personalizing, and improving our products, including to [show you ads](https://www.facebook.com/privacy/policy?section_id=2-HowDoWeUse);<br>*   Providing measurement, analytics, and other business services;<br>*   Promoting safety, integrity, and security;<br>*   Providing marketing communications to you;<br>*   Communicating with you; and<br>*   Researching and innovating for social good.<br><br>For categories of sensitive personal information that we collect, we will only use or disclose it either with your specific consent when required, or as otherwise permitted by law, including the CCPA. [Learn more\[1\]](#annotation-1) about the permitted purposes under CCPA. | *   People and accounts you share and communicate with;<br>*   People and accounts with which others share or reshare content about you;<br>*   If you’re connected to a supervised account user, parents or guardians of the supervised account users who you are connected to;<br>*   Apps, websites, and third-party integrations on or using our products;<br>*   New owners in the event of a change of ownership or control of all or part of our products or their assets changes;<br>*   Partners, including partners offering goods and services on our products, as explained in our [Privacy Policy](https://www.facebook.com/privacy/policy/?section_id=4-HowDoWeShare);<br>*   Vendors, including measurement and marketing vendors;<br>*   Service providers;<br>*   Third parties, including external researchers and academics;<br>*   Law enforcement or other third parties in connection with legal requests, to comply with applicable law or to prevent harm; and<br>*   [The Meta Companies.](https://www.facebook.com/help/111814505650678) |
+
+1
+
+Permitted purposes for sensitive personal information under CCPA
+----------------------------------------------------------------
+
+The California Consumer Privacy Act (“CCPA”) defines “sensitive personal information” as personal information concerning:
+
+*   A consumer’s social security, driver’s license, state identification card, or passport number
+*   A consumer’s account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account
+*   A consumer’s precise geolocation
+*   A consumer’s racial or ethnic origin, religious or philosophical beliefs, or union membership
+*   The contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication; a consumer’s genetic data
+*   The processing of biometric information for the purpose of uniquely identifying a consumer
+*   Information collected and analyzed concerning a consumer’s health
+*   Information collected and analyzed concerning a consumer’s sex life or sexual orientation
+*   Information generated by measuring the activity of a consumer's central or peripheral nervous system, and that is not inferred from non-neural information.
+
+Under the CCPA, businesses that use or disclose the sensitive personal information of California consumers for purposes other than those specified in section 7027(m) of the CCPA Regulations must provide California consumers with a “Limit the Use of My Sensitive Personal Information” link to limit the business’s use of their sensitive information to only those expressly permitted under the law. For ease of reference, the purposes identified in the CCPA for which a business may use or disclose sensitive personal information without being required to provide a “Limit the Use of My Sensitive Personal Information” link are as follows:
+
+*   To perform the services or provide the goods reasonably expected by an average consumer who requests those goods or services
+*   To prevent, detect, and investigate security incidents that compromise the availability, authenticity, integrity, and confidentiality of stored or transmitted Personal Information
+*   To resist malicious, deceptive, fraudulent, or illegal actions directed at us and to prosecute those responsible for those actions
+*   To ensure the physical safety of natural persons
+*   For short-term, transient use
+*   To perform services on behalf of the business, such as maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytic services, providing storage, or providing similar services
+*   To verify or maintain the quality or safety of our products, and to improve, upgrade, or enhance the products or features offered by the business
+*   To collect or process sensitive personal information where such collection or processing is not for the purpose of inferring characteristics about a consumer
+
+Sources of Personal Information
+===============================
+
+Depending on how you interact with Meta and our products, the categories of sources from which we’ve collected Personal Information about you may include:
+
+*   **You:** We receive Personal Information from the information that you provide. For example, we collect the content, communications, and other information you provide when you use our products, including when you sign up for an account, create or share content, and message or communicate with others. We collect information about the people, pages, accounts, hashtags, and groups you are connected to, and how you interact with them across our products, such as the people you communicate with the most or the groups you are part of. We also collect information about how you use our products, including ads we serve on and off our products, such as the types of content you view or engage with, the features you use, the actions you take, the people or accounts you interact with, and the time, frequency, and duration of your activities.
+*   **Other people:** We may also receive and analyze content, communications, and information about you that other people provide when they use our products, such as when others share or comment on a photo of you, send a message to you, or upload, sync, or import your contact information.
+*   **Your device(s):** We collect information from and about the computers, phones, connected TVs, and other web-connected devices you use that integrate with our products, and we combine this information across different devices you use.
+*   **Meta Companies:** We receive information from other [Meta Companies](https://www.facebook.com/help/111814505650678) according to their terms and policies and as permitted by applicable law. In some cases, we act as a service provider for other Meta Companies, and act on their behalf and in accordance with their instructions and terms.
+*   **Partners, vendors and third parties:** Advertisers, app developers, and publishers and other partners can send us information for business purposes including through the Meta Business Tools they use, our social plugins (such as the Like button), Facebook Login, our APIs and SDKs, or the Meta pixel. These partners provide information about your activities on and off our products—including information about your device, websites you visit, apps you use, games you play, and purchases you make. We also receive information about your online and offline actions, and purchases from third-party data providers who have the rights to provide us with your information. These partners collect your information when you visit their websites or use their services or through third parties they work with. We require each of these partners to have rights to collect, use, and disclose your information before providing any information to us. We also obtain information from publicly available sources, research institutions and professional and non-profit groups, including companies or organizations that provide content including videos, photos, or audio.
+
+How long do we keep your Personal Information?
+==============================================
+
+We keep Personal Information, including sensitive Personal Information, as long as we need it to provide our products, comply with legal obligations or protect our or other’s interests. We decide how long we need information on a case-by-case basis.
+
+Here’s what we consider when we decide:
+
+*   If we need it to operate or provide our products.
+*   The feature we use it for, and how that feature works.
+*   How long we need to retain the information to comply with certain legal obligations.
+*   If we need it for other legitimate purposes, such as to prevent harm; investigate possible violations of our terms or policies; promote safety, security and integrity; or protect ourselves, including our rights, property or products.
+
+Learn more in the “Why we may preserve your information longer” section of the Meta Privacy Policy [here](https://www.facebook.com/privacy/policy/?section_id=8-HowLongDoWe).
+
+How can you exercise your rights provided under applicable U.S. privacy laws?
+=============================================================================
+
+Depending on where you live and subject to certain exceptions, you may have some or all of the following rights:
+
+*   **Right to Know:** The right to request that we disclose to you the Personal Information we collect, use, or disclose, and information about our data practices. For residents of certain states, this may include a list of third parties (as defined by applicable law) to whom we have disclosed your Personal Information.
+*   **Right to Request Correction:** The right to request that we correct inaccurate Personal Information that we maintain about you.
+*   **Right to Request Deletion:** The right to request that we delete your Personal Information that we have collected from or about you.
+*   **Right to Opt Out of Targeted Advertising:** The right to opt out of the processing of your Personal Information for purposes that may be considered “targeted advertising” under applicable U.S. privacy laws, including information obtained from your activities on nonaffiliated websites or online applications.
+*   **Right to Non-Discrimination:** The right not to receive discriminatory treatment for exercising your privacy rights.
+
+To submit a request to exercise your rights, and as applicable, to appeal a consumer rights action, please visit this [webform](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy).
+
+Here’s how you can exercise the right to opt out of targeted advertising:
+
+*   For ads you see through Meta Products, visit the “Activity information from ad partners” section in [Ad Preferences](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAD_PREFERENCES_AD_SETTINGS&element=privacy_policy_inline_text&containing_element_id=POLICY_SECTION%3A4-HowCanYouExercise&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fsettings%2Fads%2F) or visit the “Accounts” section in Accounts Center to control how your info is combined and used across your accounts, including for ads.
+*   Depending on where you live, you may also see ads on other apps and websites about Meta Products or services which use your activity on Meta products to tailor the ad. If you have an account with Meta, you can control whether you see these ads when you visit the section titled “Ads about Meta” in [Ad Preferences](https://mbasic.facebook.com/privacy/policy/logging/?target=POLICY_PLATFORM_LINK_COLLECTION%3AAD_PREFERENCES_AD_SETTINGS&element=privacy_policy_inline_text&containing_element_id=POLICY_SECTION%3A4-HowCanYouExercise&redirect_uri=https%3A%2F%2Fmbasic.facebook.com%2Fsettings%2Fads%2F). If you do not have an account, you can use the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=https%3A%2F%2Foptout.aboutads.info%2F%3Fc%3D2) and/or the [NAI](https://lm.facebook.com/l.php?u=https%3A%2F%2Fthenai.org%2Fopt-out%2F) industry opt-out platforms, along with your mobile device advertising settings offered by the device manufacturer. Certain ad blockers and tools to restrict cookies can interfere with your ability to opt out through the industry opt out platforms. Different device manufacturers provide different ways to opt out.
+*   Depending on where you live, you may have the right to opt out of targeted advertising through a Global Privacy Control (GPC) enabled browser setting. If you have this right, when you visit and log in to our websites in a GPC-enabled browser, we will treat our initial receipt of the GPC signal as a valid request to opt-out of targeted advertising, as defined by applicable U.S. privacy laws granting this right. Please note that if you are logged out, our processing of the signal will be limited to the specific browser that you are using. You may need to renew your opt‑out choice if you use a different browser to access our websites. Other than GPC, we do not recognize any "do not track" signals.
+
+Please note that to protect your information and the integrity of our products, we may need to verify your identity before processing your request. In some cases, we may need to collect additional information to verify your identity, such as a government issued ID.
+
+Under certain U.S. privacy laws, you may also designate an authorized agent to make these requests on your behalf through the [webform](https://www.facebook.com/help/contact/459418078730560?paipv=0&eav=AfaWme42ANhlgL6MSpV_ZMvUnYe6bONopUChf-CkzPp5Jub_VpappsnFEpWrva7i6lU), whether or not you have an account. If you use an authorized agent to submit a request, we may need to collect additional information, such as a government issued ID, to verify your identity before processing your request to protect your information. In most cases, we will facilitate your request through automated tools available through your password-protected account.
+
+For information on the CCPA requests we have received, please see [here](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Freports%2Fregulatory-transparency-reports%2F).
+
+Contact for more information
+============================
+
+If you have additional questions about this Notice or how to exercise your rights under applicable U.S. privacy laws, please [contact us](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.meta.com%2Fsupport%2Fprivacy).
