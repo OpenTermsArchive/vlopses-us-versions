@@ -667,3 +667,65 @@ _How we make changes to this Notice_
 We may change this Notice from time to time, and if we do, we’ll post any changes on this page.
 
 Last updated: April 2025
+
+- - -
+
+State Privacy Law Disclosures and Notice at Collection
+
+
+==========================================================
+
+Some U.S. states have enacted privacy laws that grant their residents certain rights and require specific disclosures (“State Privacy Laws”). This page supplements our [Privacy Policy](https://policy.pinterest.com/privacy-policy) and applies to you if you reside in a state governed by a State Privacy Law, such as California, Colorado, Connecticut, Florida, Oregon, Montana, Texas, Utah, or Virginia. This page also serves as our California Notice at Collection.
+
+The tables and descriptions that follow explain the info in our [Privacy Policy](https://policy.pinterest.com/privacy-policy). The [table immediately below](https://policy.pinterest.com/notice-at-collection-preview#section-collection-use-and-disclosure-overview) uses categories required under some of the State Privacy Laws to explain our general collection, use, and disclosure activities. Following that, we [explain our advertising activities](https://policy.pinterest.com/notice-at-collection-preview#section-advertising-activities), the [rights you have](https://policy.pinterest.com/notice-at-collection-preview#section-your-rights-under-the-state-privacy-laws) under the State Privacy laws, and [metrics](https://policy.pinterest.com/notice-at-collection-preview#section-metrics-disclosures) about how we handle rights requests. As explained in our Privacy Policy, children under 13 are not allowed to use Pinterest.
+
+Collection, Use and Disclosure Overview
+=======================================
+
+| Categories of Personal Information | Purposes for Collecting, Using, and Disclosing | Recipients of Information |
+| --- | --- | --- |
+| *   Identifiers, such as your name, username, email address, phone number, unique device identifiers, and your IP address<br>*   Personal characteristics protected by law, such as your gender and age, and, if you have a business account and depending upon where you live, you may choose to provide data about your race or ethnicity<br>*   Commercial information, such as purchases made on third-party advertiser sites <br>*   Internet or electronic network activity information, such as log data, information about your device, information from cookies and similar technologies, and data about your use of our Services, such as interactions with Pins or other content, terms you search for, and choices you select in your settings. <br>*   Geo-location information based on your IP address, and, if you choose to provide it, precise geolocation data, when shared through your device settings or photos<br>*   Electronic, visual, or similar information, such as your profile picture or photos<br>*   Professional or employment information, when you link your account to other accounts<br>*   Inferences we or others draw or derive about users, such as your interests or preferences<br>*   Other information you choose to provide, such as your bio, Pins, messages, comments, and customer service communications with us | *   Provide the Pinterest services<br>*   Identify you when you use the Pinterest services<br>*   Recommend Pins, boards, and content you might like based on your activity on the Pinterest services and your offsite behavior <br>*   Serve you relevant ads <br>*   Respond to your questions or comments<br>*   Build your community on the Pinterest services through content suggestions and to help your friends and contacts find you on Pinterest <br>*   Enable searching with photos, if you choose <br>*   Customize your experience based on your precise location, with your consent <br>*   Send you updates, including by email, push notification, SMS, or phone<br>*   Conduct analytics and research on who is using our Services and what they are doing<br>*   Improve the products and services of our family of companies, such as our machine learning technology, and offer new features, including those supported by generative artificial intelligence technology <br>*   Keep users and the public safe<br>*   To protect legal interests including in relation to a legal claim, litigation, or regulatory proceeding <br>*   Detect, investigate, and protect against security incidents, spam, suspicious behavior, and violations of our policies or terms. <br>*   Conduct age assurance or verification, as appropriate | *   **Other users or the public, depending on your settings.** For example, anyone can see the public boards and Pins you create and public profile information you give us<br>*   **Other services**, at your direction, for example when you decide to link your Pinterest account to third party services <br>*   **With partners and advertisers**, to show you ads on and off Pinterest<br>*   **Service providers and vendors** that we employ to process information on our behalf based on our instructions<br>*   **For legal purposes**, with law enforcement agencies, government agencies, researchers, or other parties in compliance with laws, rules, or regulations<br>*   **Our corporate family of companies** or in connection with a corporate transaction |
+
+We have collected this information from you, your devices, our partners, advertisers, and other third parties.
+
+We do not collect or process sensitive personal information about you for the purpose of inferring characteristics about you.
+
+We keep your information only so long as we need it to provide the Pinterest services to you and fulfill the purposes described here and in our [Privacy Policy](https://policy.pinterest.com/privacy-policy). When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't identify you.
+
+Advertising Activities
+======================
+
+To help personalize the ads we and our partners show you on and off Pinterest, and to advertise Pinterest services to you on third-party sites and services, we engage in activities that may qualify as “sharing,” “selling,” or processing personal information for “targeted advertising” under the State Privacy Laws.
+
+For example, we use personal information, including information we receive from ad partners and other third parties to decide which ads to show you on and off Pinterest, and we disclose info about you and your Pinterest activity to improve the ads you're shown on Pinterest [through our third-party ad network partners](https://help.pinterest.com/article/third-party-ads-personalization). We provide info about your Pinterest activity with advertisers to help them measure how their ads perform. We also disclose personal information to third-party services and advertising partners to reach you with ads about Pinterest on those third-party services.
+
+In the preceding 12 months, such activities involved sharing the following categories of personal information with the categories of third parties shown in the table below:
+
+| Categories of Personal Information | Categories of Third Parties |
+| --- | --- |
+| *   Identifiers, like your IP address, mobile advertising ID, cookie ID, or hashed versions of your email address<br>*   Internet or electronic network activity information, including data about actions you take on the Pinterest services<br>*   Inferences we draw about your interests or preferences | *   Advertising networks<br>*   Advertisers<br>*   Data analytics providers<br>*   Social networks |
+
+We will obtain your opt-in consent for activities described in this section where required by a State Privacy law, and we do not knowingly “share” or “sell” information about California users under 16.
+
+Your rights under the State Privacy Laws
+========================================
+
+*   **Right to Know and Access**. You may submit a verifiable request to learn more about our information practices and for the specific pieces of Personal Information we have collected about you.
+*   **Right to Correct**. You can correct inaccurate information by updating your profile information in your account.
+*   **Right to Delete**. You may submit a verifiable request that we delete Personal Information we have collected from you.
+*   **Right to Opt-out of Sales/Sharing/Targeted Advertising**. You have the right to opt out of activities that may be considered “sharing,” “sales,” or processing personal information for “targeted advertising” under the State Privacy Laws, which you can do by following the instructions provided in the “Privacy and Data” section of your settings menu. If you have an account with us and you visit our site with an opt-out preference signal (such as Global Privacy Control) enabled, we will treat this as an opt-out request.
+*   **Appeal**. If we deny your request to exercise any of the above-mentioned rights, you may appeal our decision by following the instructions we provide in our response to you or send an email to [privacy-support@pinterest.com](mailto:privacy-support@pinterest.com). If you have concerns about the results of an appeal, you may contact the attorney general in the state where you reside.
+*   **Right to Equal Service**. We will not discriminate against you if you exercise your privacy rights.
+
+In order to verify your identity when you make a request, you will be required to log in to your password-protected account or respond to an email verification request.
+
+To exercise these rights, please visit your [account settings](https://www.pinterest.com/settings/privacy), and if you still need help [visit our Help Center](https://help.pinterest.com/contact?current_page=about_you_page&personal_data=personal_data_view) or contact us at [privacy-support@pinterest.com](mailto:privacy-support@pinterest.com).
+
+In addition to exercising these rights yourself, you may also designate an authorized agent to make these requests on your behalf. If the authorized agent does not provide a valid power of attorney, we will ask you to verify the request directly via email or through your password-protected account.
+
+Metrics disclosures
+===================
+
+The CCPA requires us to disclose certain metrics about the various requests we get, such as how many specific requests we received from California residents in the last calendar year. See our [CCPA Metrics Disclosure](https://policy.pinterest.com/ccpa-metrics-disclosure).
+
+Last updated: April 2025
