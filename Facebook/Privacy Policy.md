@@ -68,8 +68,6 @@ In this Policy we list the kinds of information we collect. Here are some import
 *   Information from the phone, computer, or tablet you use our Products on, like what kind it is and what version of our app you’re using
 *   Information from [partners\[2\]](#annotation-2) about things you do both on and off of our Products. This could include other websites you visit, apps you use or online games you play.
 
-[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPHbM1Y6Ilbyq0xANe0c481oa-MEy1SbKZX1Pbetrpb11aIhZwqsYrqdvKXj04fR-dbc6N31R7SO_GQylrXx6l1.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DePXottBZzIMQ7kNvwE-9aSJ%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTExMzU1MjIzOTY2MzUyNCwiYXNzZXRfYWdlX2RheXMiOjEyMzQsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjoxMDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%253D%253D%26ccb%3D17-1%26_nc_gid%3DR3CdEglby1X42k6sfcBm6Q%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfYkkdyFLlVoDBRroAHDsjq-vZYHYL7jNtRrRYk6-K-5cQ%26oe%3D68E38B75%26bitrate%3D203999%26tag%3Dsve_sd&source=misc&id=1078484169415755&noredirect=0&watermark=0&__tn__=F)
-
 The information we collect and process about you depends on how you use our [Products\[3\]](#annotation-3). For example, we collect different information if you sell furniture on Marketplace than if you post a reel on Instagram. When you use our Products, we collect some information about you [even if you don't have an account\[4\]](#annotation-4).
 
 Here's the information we collect:
@@ -528,8 +526,6 @@ Here are some of the ways we use your information:
 *   We send you messages about the Products you use or ones you might like, if you let us
 *   We research for the good of people around the world, like to advance technology or to help out in a crisis
 
-[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQPUz9KSP4EcCINy-riSUXWL1EoZotE38pje73xlXjDGAc7XGvezM3ARLrzpTwLP1_Wh1OS130onddLBRMneYbK5.mp4%3Fstrext%3D1%26_nc_cat%3D101%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DFkJYi-aQdGoQ7kNvwE3o3Yw%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6Mjc2OTI5MDMxOTA2NzE5LCJhc3NldF9hZ2VfZGF5cyI6MTI0NywidmlfdXNlY2FzZV9pZCI6MTAxMjgsImR1cmF0aW9uX3MiOjk0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%253D%26ccb%3D17-1%26_nc_gid%3DR3CdEglby1X42k6sfcBm6Q%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfbP-EwqtvEnAF5BWT03Q5ccFEkm6SHev6iNdkLvJuAzDQ%26oe%3D68E3AC45%26bitrate%3D156415%26tag%3Dsve_sd&source=misc&id=3234506963505309&noredirect=0&watermark=0&__tn__=F)
-
 We use [information we collect](#1-WhatInformationDoWe) to provide a personalized experience to you, including ads, along with the other purposes we explain in detail below.
 
 For some of these purposes, we use information [across our Products\[25\]](#annotation-25) and [across your devices\[26\]](#annotation-26). The information we use for these purposes is automatically processed by our systems. But in some cases, we also use [manual review\[27\]](#annotation-27) to access and review your information.
@@ -718,8 +714,6 @@ More in the Privacy Policy
 
 Using information across our Products
 -------------------------------------
-
-[](https://mbasic.facebook.com/video_redirect/?src=https%3A%2F%2Fvideo-hou1-1.xx.fbcdn.net%2Fo1%2Fv%2Ft2%2Ff2%2Fm69%2FAQMkxKtPFjj_5Cfylgq4IfQujNtlJXjKIKvVP6BB5JaQYHlvsjELTssObcdysPt2xPzetuZLlHeD1ii0_P9BpbDl.mp4%3Fstrext%3D1%26_nc_cat%3D109%26_nc_sid%3D8bf8fe%26_nc_ht%3Dvideo-hou1-1.xx.fbcdn.net%26_nc_ohc%3DZRNrSBKc_pkQ7kNvwEA7ZL2%26efg%3DeyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDI2LnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MzYxMTg3OTk4MjM5MTg0NiwiYXNzZXRfYWdlX2RheXMiOjEyMzQsInZpX3VzZWNhc2VfaWQiOjEwMTI4LCJkdXJhdGlvbl9zIjo5NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9%26ccb%3D17-1%26_nc_gid%3DR3CdEglby1X42k6sfcBm6Q%26_nc_zt%3D28%26_nc_rml%3D0%26oh%3D00_AfYHQe_8GxLUZmdC7a2uoE0YTsJJVHuuYu5iELcAE60vMg%26oe%3D68E39BAD%26bitrate%3D152144%26tag%3Dsve_sd&source=misc&id=313266294163634&noredirect=0&watermark=0&__tn__=F)
 
 We use [information across your accounts on our Products](https://www.meta.com/help/accounts-center/Information-used-across-accounts/) to:
 
