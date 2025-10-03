@@ -12,9 +12,9 @@ Explore the policy
 -------------------------------------](#5)
 
 Other policies[Terms of Service
-----------------](https://mbasic.facebook.com/terms/)[Cookies Policy
---------------](https://mbasic.facebook.com/policies/cookies/)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------](https://mbasic.facebook.com/terms/?locale2=en_US)[Cookies Policy
+--------------](https://mbasic.facebook.com/policies/cookies/?locale2=en_US)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 What are cookies, and what does this policy cover?
 ==================================================
@@ -23,9 +23,9 @@ Effective December 12, 2023
 
 Cookies are small pieces of text used to store information on web browsers. Cookies are used to store and receive identifiers and other information on computers, phones and other devices. Other technologies, including data that we store on your web browser or device, identifiers associated with your device and other software, are used for similar purposes. In this policy, we refer to all of these technologies as “cookies”.
 
-We use cookies if you have a Facebook or Instagram account, use the [Meta Products](https://www.facebook.com/help/1561485474074139), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
+We use cookies if you have a Facebook or Instagram account, use the [Meta Products](https://www.facebook.com/help/1561485474074139?locale2=en_US), including our website and apps, or visit other websites and apps that use the Meta Products (including the Like button). Cookies enable Meta to offer the Meta Products to you and to understand the information that we receive about you, including information about your use of other websites and apps, whether or not you are registered or logged in.
 
-This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Privacy Policy](https://www.facebook.com/privacy/policy) will apply to our processing of the data that we collect via cookies.
+This policy explains how we use cookies and the choices you have. Except as otherwise stated in this policy, the [Privacy Policy](https://www.facebook.com/privacy/policy?locale2=en_US) will apply to our processing of the data that we collect via cookies.
 
 [Return to top](#)
 
@@ -71,7 +71,7 @@ Cookies also allow us to provide insights about the people who use the Meta Prod
 
 *   For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
 
-We also use cookies, such as our "oo" cookie, which has a lifespan of 400 days, to help you opt out of seeing ads from Meta based on your activity on third-party websites. [Learn more](https://www.facebook.com/help/769828729705201?ref=cookies) about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+We also use cookies, such as our "oo" cookie, which has a lifespan of 400 days, to help you opt out of seeing ads from Meta based on your activity on third-party websites. [Learn more](https://www.facebook.com/help/769828729705201?ref=cookies&locale2=en_US) about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
 
 Site features and services
 --------------------------
@@ -126,9 +126,9 @@ Where do we use cookies?
 
 We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
-*   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies);
-*   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies); and
-*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
+*   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies&locale2=en_US);
+*   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies&locale2=en_US); and
+*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policies/cookies?locale2=en_US) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
 [Return to top](#)
 
@@ -218,17 +218,17 @@ We use cookies to help personalise and improve content and services, provide a s
 If you have a Facebook account
 ------------------------------
 
-*   You can use your [ad preferences](https://accountscenter.facebook.com/ad_preferences) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
-*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings).
-*   The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the [Meta Company Products](https://www.facebook.com/help/195227921252400). One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings).
-*   You can review Your activity off Meta technologies, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
+*   You can use your [ad preferences](https://accountscenter.facebook.com/ad_preferences?locale2=en_US) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?locale2=en_US).
+*   The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the [Meta Company Products](https://www.facebook.com/help/195227921252400?locale2=en_US). One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?locale2=en_US).
+*   You can review Your activity off Meta technologies, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content&locale2=en_US), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&locale2=en_US), how we use it and how you can manage it.
 
 If you have an Instagram account
 --------------------------------
 
 *   You can use your [ad preferences](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
-*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400), including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%2Fad_settings%2F).
-*   You can review Your activity off Meta technologies which is a summary of activity that businesses and organizations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalized experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content), how we use it and how you can manage it.
+*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400?locale2=en_US), including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%2Fad_settings%2F).
+*   You can review Your activity off Meta technologies which is a summary of activity that businesses and organizations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?locale2=en_US), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalized experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&locale2=en_US), how we use it and how you can manage it.
 
 Everyone
 --------
