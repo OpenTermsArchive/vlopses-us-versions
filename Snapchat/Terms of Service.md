@@ -1685,3 +1685,50 @@ Legal
 *   Language
     
     English (US)
+
+- - -
+
+**PLEASE NOTE: WE’VE UPDATED THESE AI TOOLS TERMS, EFFECTIVE FEBRUARY 17, 2025. YOU CAN VIEW THE PRIOR AI TOOLS TERMS, WHICH APPLY TO ALL USERS UNTIL FEBRUARY 17, 2025,** [**HERE**](https://www.snap.com/terms/ai-tools-09-30-2024?lang=en-US)**.**
+
+AI Tools Terms
+
+
+------------------
+
+Effective: February 17, 2025
+
+ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services?lang=en-US#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services?lang=en-US). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+**Introduction**
+
+These AI Tools Terms form a legally binding contract between you and Snap, govern your use of any generative AI and other AI-powered tools Snap makes available to you through or in connection with the Business Services (“AI Tools”), and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US). Some terms used in these AI Tools Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US).
+
+**1\. AI Tools**
+
+a. AI Tools use inputs including text prompts, images, audio files, videos, documents, data or other content provided by you or used at your direction (“Inputs”) to generate outputs based on those Inputs, including content and suggestions (“Outputs”).
+
+b. As between the parties (and to the extent permitted by Applicable Law), each party or their licensors shall retain ownership of any pre-existing rights in any Inputs and Outputs. Snap or its licensors own the AI Tools and any underlying technologies used to generate Outputs.
+
+c. All Inputs and Outputs will be treated for the purposes of the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US) as content you submit to the Services and accordingly any rights and licenses granted to us and obligations on you in respect of content submitted or made available by you in the [Terms of Service](https://www.snap.com/terms/snap.com/terms?lang=en-US) shall apply to Inputs and Outputs, in addition to any rights, licenses, and obligations contained in any other applicable Supplemental Terms and Policies.
+
+**2\. Inputs**
+
+In addition to any restrictions set forth in the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US), you will ensure that: (a) Inputs do not contain or make use of, and otherwise could not reasonably be expected to generate Outputs that contain or make use of: (i) any personal data; or (ii) content that would violate the rights of others or has otherwise been unlawfully obtained; and (b) you comply with any submission guidelines or other policies we make available to you that apply to your use of an AI Tool or submission of Inputs. In addition you must not, and must not take any action that would reasonably be expected to, direct the AI Tools to generate any Outputs in violation of the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US), any applicable intellectual property right, contractual restriction or Applicable Laws. 
+
+**3\. Outputs**
+
+a. In addition to any restrictions set forth in the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US), you may only use Outputs in connection with the Business Services and you may not use those Outputs on or with any other service, platform, or technology, whether alone or in combination with other content.
+
+b. You must not and must not take any action that would reasonably be expected to: (i) misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence; or (ii) alter, obscure or remove any watermark or disclosure applied to Outputs by the AI Tools.
+
+**4\. Disclaimer**
+
+a. You agree and acknowledge that: (i) Outputs are provided as-is and made available to you without representations or warranties of any kind, whether express or implied; (ii) Outputs may be inaccurate, incomplete, misleading, offensive, objectionable, inappropriate, infringing, unsuitable, unlawful, unfit for particular purpose, or the same or similar to content generated for other users of the Services; and (iii) you use the AI Tools and any Outputs at your own risk, and you should not rely on them for medical, legal, investment, financial or other professional advice. Outputs may also contain content inconsistent with Snap’s view and are not Snap representations. Snap does not endorse any content included in any Outputs.
+
+b. You are solely responsible for evaluating any Output to determine its suitability for use, and for any use of Outputs, including ensuring that any Output used with or in connection with the Services complies with the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US). 
+
+**5\. Entire Agreement**
+
+These AI Tools Terms set forth the entire understanding and agreement between you and Snap with respect to your use of the AI Tools and supersede all other agreements between you and Snap regarding the AI Tools.
+
+_In summary: you can use Snap’s AI Tools to submit various types of content and information (such as text prompts, images, video), to generate outputs for you to use with the Business Services. Snap is not responsible for any outputs you generate and you use outputs at your own risk. Your use of the outputs must comply with our_ [_Business Services Terms_](https://www.snap.com/terms/business-services?lang=en-US) _and other applicable Supplemental Terms and Policies. There are certain restrictions on your use of our AI Tools, including that you must not submit anything or direct the AI Tools to create anything that: (i) you do not have the rights to; (ii) breaches our_ [_Business Services Terms_](https://www.snap.com/terms/business-services?lang=en-US)_; or (iii) violates any laws or otherwise violates any rights of any person._
