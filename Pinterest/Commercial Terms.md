@@ -360,8 +360,8 @@ We don’t allow advertising for:
 
 *   The election or defeat of political candidates running for public office, including fundraising for political candidates or parties
 *   Political parties or action committees
-*   Political issues with the intent to influence an election
-*   Legislation, including referendums or ballot initiatives
+*   Political issues with the intent to influence an election, including ads designed or likely to influence voting behavior within the EU
+*   Legislation, including referendums or ballot initiatives, including ads designed or likely to influence the outcome of a referendum or a legislative or regulatory process
 *   Merchandise related to political candidates, parties, or elections
 
 ### Sensitive content
@@ -492,6 +492,8 @@ We don’t allow the advertising of:
 *   Fantasy sports or other online prize-based games that require payment for entry
 
 Ads for brick and mortar casinos that don't lead to online gambling, lotteries or games of skill are OK except where prohibited in our country-specific guidelines.
+
+With prior permission from Pinterest, ads promoting responsible gambling practices are allowed with restrictions in Canada (refer to country-specific guidelines for details).
 
 ### Healthcare products and services
 
@@ -681,6 +683,12 @@ If your ad is shown in Canada, we allow the following with restrictions:
         *   Ads will only be eligible for certain Pinterest ad formats
         *   Ads must comply with ad format regulations
         *   Advertisers must secure prior permission from Pinterest. Please note that we rely on third party checks to determine eligibility of an advertiser to run these ads. Advertisers are responsible for complying with all laws and regulations.
+*   Provincial gambling operators running ads promoting responsible gambling practices must secure prior permission from Pinterest and ensure the ad is lawful in the region, province or territory they wish to target
+    *   Ads can only target Pinners 18 years or older
+    *   Ads must not appeal to minors
+    *   Ads will only be eligible for certain Pinterest ad formats  
+          
+        
 
 **Chile**
 
