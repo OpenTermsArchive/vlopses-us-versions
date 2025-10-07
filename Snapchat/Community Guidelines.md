@@ -5,7 +5,7 @@ Community Guidelines
 
 ========================
 
-At Snap, we empower people to express themselves, live in the moment, learn about the world, and have fun together. We created these Community Guidelines to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-US), these guidelines are part of your contract with Snap and you must follow them. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-US) and check your local laws to make sure you are old enough to join our community. 
+At Snap, we empower people to express themselves, live in the moment, learn about the world, and have fun together. We created these Community Guidelines, [in line with our commitment to respecting human rights](https://values.snap.com/privacy/transparency/community-guidelines/human-rights?lang=en-US), to encourage self-expression while helping Snapchatters stay safe. We want these guidelines to be clear and easy to understand. As noted in our [Terms of Service](https://www.snap.com/terms?lang=en-US), these guidelines are part of a Snapchatter's contract with Snap and they must be followed. Please see our [Terms of Service](https://www.snap.com/terms?lang=en-US) and check your local laws to make sure you are old enough to join our community. 
 
   
 
@@ -13,7 +13,7 @@ At Snap, we empower people to express themselves, live in the moment, learn abou
 
 Note About Severe Harm
 
-While we prohibit all content or behavior that violates our Community Guidelines, we are especially concerned with violations that pose a risk of severe harm to Snapchatters. We disable accounts we identify engaging in such behavior. Guidance about what we consider to be severe harm and how we take action against it is available. [Learn More](https://values.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-US)
+While we prohibit all content or behavior that violates our Community Guidelines, we are especially concerned with violations that pose a risk of severe harm to Snapchatters. When we identify accounts engaging in such behavior, we disable those accounts. Guidance about what we consider to be severe harm and how we take action against it is available. [Learn More](https://values.snap.com/privacy/transparency/community-guidelines/severe-harm?lang=en-US)
 
   
 
@@ -54,7 +54,7 @@ Threats, Violence, & Harm
 
 *   Encouraging or engaging in violent or dangerous behavior is prohibited. Never intimidate or threaten to harm a person, a group of people, or someone’s property.
     
-*   Snaps of gratuitous or graphic violence, including animal abuse, are not allowed.
+*   Content depicting gratuitous or graphic violence, including animal abuse, is not allowed.
     
 *   We don’t allow the glorification of self-harm, including the promotion of self-injury, suicide, or eating disorders.
     
@@ -68,7 +68,7 @@ Hateful Content, Terrorism, and Violent Extremism
 *   Hate speech or content that demeans, defames, or promotes discrimination or violence on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability, or veteran status, immigration status, socio-economic status, age, weight, or pregnancy status is prohibited.
     
 
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-US)
+[Learn More](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-US)
 
 Harassment and Bullying
 
@@ -224,7 +224,7 @@ Hateful Content, Terrorism, and Violent Extremism
 
 -----------------------------------------------------
 
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-US)
+[Learn More](https://values.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-US)
 
 - - -
 
