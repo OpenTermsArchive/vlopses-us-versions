@@ -24,7 +24,6 @@ Merchant requirements
 
 Merchants must meet the following criteria:
 
-*   Merchants must not be resale or consignment marketplaces.
 *   Merchants must not be affiliate marketers.
 *   Merchants must not be wholesale retailers.
 *   The merchant must have an easy to find and clear return policy that displays whether the merchant accepts returns, the process and time expectations for returns, and contact information.
@@ -41,6 +40,7 @@ Merchants must meet the following criteria:
     *   Are unsafe or deceptive
     *   Have pop-ups you cannot close
 *   Vehicle merchant catalogs are allowed in the US and Germany only
+*   Resale or consignment marketplaces are only eligible for Ads distribution
 
 Product requirements
 ====================
@@ -60,6 +60,16 @@ We don’t allow the following products to be product Pins:
 *   Financial products such as credit opportunities (including credit payment options offered directly by the Merchant for non-financial products), cryptocurrency, etc.
 *   Gambling products such as lotteries
 *   Healthcare products and services including prescription medicines, over-the-counter (OTC) non-prescription medicines, medical devices and any unsafe healthcare products that make unrealistic promises such as weight loss pills.
+*   Pre-owned products
+    *   Shopping Ads may include pre-owned products, provided they adhere to all applicable regulations and product category restrictions. Examples of restricted pre-owned product categories below:
+        *   Heavy machinery or equipment
+        *   Automobile parts
+        *   Hazardous goods and materials
+        *   Cosmetics
+        *   Perishables
+        *   Non-apparel baby products
+        *   Personal care items
+        *   Safety gear
 *   Any products and merchant practices that falls under our prohibited products and services list on our [advertising guidelines](https://policy.pinterest.com/advertising-guidelines), including:
     *   Adult products and content
     *   Drugs and drug-related products including any CBD and Hemp seed oil products
