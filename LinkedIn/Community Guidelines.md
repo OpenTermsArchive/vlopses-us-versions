@@ -114,7 +114,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 How we enforce our Professional Community Policies
 --------------------------------------------------
 
-Last updated: 4 months ago
+Last updated: 5 months ago
 
 Violating our [User Agreement](https://www.linkedin.com/legal/user-agreement) and our [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) can result in action against your account, or content, or access to certain features. Depending on the severity of the violation, we may limit the visibility of certain content, label it, or remove it entirely.
 
