@@ -133,7 +133,7 @@ Content that would normally violate the letter of our policies may be allowed in
 Harassment and abusive content
 ------------------------------
 
-Last updated: 2 months ago
+Last updated: 3 months ago
 
 As a professional network, LinkedIn maintains a high standard for safe and civil conversations between members. Our policies prohibit a wide range of actions and behaviors associated with harassment, bullying, or other abusive conduct.
 
@@ -330,7 +330,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Hateful and derogatory content
 ------------------------------
 
-Last updated: 2 months ago
+Last updated: 3 months ago
 
 Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, or disability status.
 
