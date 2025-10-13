@@ -1138,3 +1138,32 @@ This agreement was written in English (US). To the extent any translated version
          2.  If you are a resident of or have your principal place of business in the U.S. or Canada, these Terms are between you and Meta Payments Inc., a Florida corporation.
            
          4.  If you are a resident of or have your principal place of business in a country other than the U.S. or Canada, these Terms are between you and Facebook Payments International Ltd., a private limited company in the Republic of Ireland. However, all transactions funded with a user’s electronic value Balance are processed by Meta Payments Inc., a Florida corporation.
+
+- - -
+
+IP Reporting API – Terms
+========================
+
+UPDATED
+
+SEP 25, 2024
+
+
+-------------------------
+
+These Intellectual Property Reporting API Terms ("Terms") are made and entered into by and between Meta Platforms, Inc. and Meta Platforms Ireland Limited ("Meta") and the person or entity accepting these Terms ("You" or "you"). These Terms are deemed accepted and agreed to by you on the date that you indicate your assent to these Terms, such as by clicking "agree" ("Effective Date"). If you are accepting on behalf of a legal entity, you represent and warrant that you are an authorised representative of such entity with the authority to bind it to these Terms.
+
+*   Meta hereby grants you a limited right and licence to use the Intellectual Property Reporting API ("Tool") for the purposes of submitting and retracting intellectual property reports to Meta.
+    
+*   You confirm that you have not knowingly submitted, and will not knowingly submit, false or erroneous reports or retractions to Meta alleging infringement by third parties. Any person who knowingly materially misrepresents that material or activity is infringing may be liable for damages pursuant to section 512(f) of the Digital Millennium Copyright Act ("DMCA") or similar laws in other jurisdictions.
+    
+*   You acknowledge and agree that Meta may share the contact information that you specify via the Tool, including your name and email address, the name of the organisation or client who owns the content in question and/or the contents of your report (your "API Contact Information") to the person(s) responsible for posting the content that you claim to be infringing or others.
+    
+*   You acknowledge that you may only use the Tool for the sole purpose of reporting intellectual property violations for content in which you own, or are authorised to report on behalf of the content owner, or retracting such reports. You further acknowledge that the work and ownership information that you provide is accurate.
+    
+*   The Tool is provided "as is," and we make no guarantees that it will function without disruptions. To the extent permitted by law, we also disclaim all warranties, whether express or implied, including the implied warranties of merchantability, fitness for a particular purpose, title and non-infringement. If the Tool is inaccessible, disrupted, or otherwise not functioning, for any reason, you agree to submit intellectual property reports using Meta’s publicly accessible intellectual property reporting forms and waive all claims whatsoever against Meta related to the Tool’s inaccessibility or disruption.
+    
+*   You acknowledge that any breach of these and other applicable terms or misuse of the Tool may result in termination of your access to the Tool and Facebook, Instagram or other Meta services. Meta may modify, suspend or terminate access to, or discontinue the availability of, the Tool at any time.
+    
+
+These Terms govern your use of the Intellectual Property Reporting API. The Tool is part of "Meta Products" under Meta’s Terms of Service (currently at https://www.facebook.com/legal/terms, the "Meta Terms"), and your use of the Tool is deemed part of your use of Meta Products. In the event of any conflict or inconsistency between these Terms and the Meta Terms, the provisions of these Terms will control, but only with respect to the subject of these Terms. Meta reserves the right to monitor or audit your compliance with these Terms and to update these Terms from time to time, and your continued use of the Tool constitutes acceptance of those changes.
