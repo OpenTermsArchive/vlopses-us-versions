@@ -198,6 +198,16 @@ If my channel is terminated, can I submit a counter notification?
 
 Yes. You’ll need to submit by [email, fax, or mail](https://support.google.com/youtube/answer/2807684#email) since you don’t have access to YouTube Studio.
 
+How do I submit a counter notification as an EU DSA Article 86 designated organization?
+
+Counter notifications from EU DSA Article 86 designated organizations should be submitted by [email, fax, or postal mail](https://support.google.com/youtube/answer/6005919).
+
+**Additional requirements:**
+
+1.  Use an email domain associated with an EU DSA Article 86 designated organization.
+2.  State the country of primary residence of the content owner.
+3.  Include the phrase “I am submitting this appeal on behalf of a YouTube user in the European Union. I represent an organization that is authorized to exercise rights conferred by the Digital Services Act Regulation 2022 (EU) 2022/2065.”
+
 - - -
 
 Dispute a Content ID claim
