@@ -1960,6 +1960,16 @@ Notwithstanding any term to the contrary, You shall maintain and keep complete a
 
 While in no way limiting Apple’s other rights under the Agreement, or any other remedies at law or equity, if Apple has reason to believe You or Your Applications have failed to comply with any of the requirements of this Attachment or the Agreement, Apple reserves the right to revoke Your access to any or all of the APIs associated with this Attachment immediately upon notice to You; require You to remove from Your Application an entitlement profile associated with this Attachment; block updates of, hide, or remove Your Applications from the App Store; block Your Applications from distribution or updates on Apple platforms; and/or to suspend or remove You from the Apple Developer Program.
 
+### Attachment 13
+
+**(to the Agreement)**
+
+**Additional Terms for iOS and iPadOS Apps in China mainland**
+
+**1.** As of March 15, 2026, the terms in this **Attachment 13** apply to commissions and payments for Applications distributed on the China mainland storefront of the App Store on iOS and iPadOS.
+
+**2.** The Paid Applications Agreement is amended and restated so that Apple’s standard commission rate for the sale of Licensed Applications is twenty-five percent (25%). And the Paid Applications Agreement and Mini Apps Partner Program Addendum are amended and restated so that (1) while You are a participant in the App Store Small Business Program; (2) where the sale qualifies for a program rate under the Mini Apps Partner Program; or (3) where there is a qualifying auto-renewing subscription purchase beyond one year as described in the Paid Applications Agreement, the commission rate is twelve percent (12%).
+
 ### Schedule 1
 
 #### 1\. Appointment of Agent
@@ -2243,8 +2253,8 @@ EC4Y 1EU
 United Kingdom  
 https://www.cedr.com/p2bmediation/
 
-LYL229  
-December 17, 2025
+LYL238  
+March 12, 2026
 
 By clicking to agree to this Schedule 2, which is hereby offered to You by Apple, You agree with Apple to amend that certain Apple Developer Program License Agreement currently in effect between You and Apple (the “Agreement”) to add this Schedule 2 thereto (supplanting any existing Schedule 2). Except as otherwise provided herein, all capitalized terms shall have the meanings set forth in the Agreement.
 
