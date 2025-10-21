@@ -219,7 +219,7 @@ Whenever capitalized in this Agreement:
 
 “**Critical Messaging API**” means the Documented API that enables Your Application to send messages via SMS for critical situations.
 
-“**Custom App Distribution**” means the store or storefront functionality that enables users to obtain Licensed Applications through the use of Apple Business Manager, Apple School Manager, or as otherwise permitted by Apple.
+“**Custom App Distribution**” means the store or storefront functionality that enables users to obtain Licensed Applications through the use of Apple Business, Apple School Manager, or as otherwise permitted by Apple.
 
 “**Declared Age Range API**” means the Documented API that enables Your Application to receive age range information for an end user derived from their Apple Account, if the end user or the end user's parent or guardian enables Your Application to receive the data, or where required by law.
 
