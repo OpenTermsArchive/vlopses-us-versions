@@ -249,8 +249,6 @@ Whenever capitalized in this Agreement:
 
 “**FPS SDK**” means the FPS specification, FPS server reference implementation, FPS sample code, and FPS development keys, as provided by Apple to You.
 
-“**FOSS**” (Free and Open Source Software) means any software that is subject to terms that, as a condition of use, copying, modification or redistribution, require such software and/or derivative works thereof to be disclosed or distributed in source code form, to be licensed for the purpose of making derivative works, or to be redistributed free of charge, including without limitation software distributed under the GNU General Public License or GNU Lesser/Library GPL.
-
 “**Game Center**” means the gaming community service and related APIs provided by Apple for use by You in connection with Your Applications that are associated with Your developer account.
 
 “**HealthKit APIs**” means the Documented APIs that enable reading, writing, queries and/or retrieval of an end user’s health and/or fitness information in Apple’s Health application.
