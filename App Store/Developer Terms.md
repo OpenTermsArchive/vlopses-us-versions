@@ -15527,7 +15527,7 @@ If You file Income Tax in Taiwan and You appoint Apple Distribution Internationa
 
 If You are a resident of Thailand and You appoint Apple as Your agent or commissionaire to deliver Licensed and Custom Applications to End-Users and Custom App Distribution Customers in the jurisdictions specified in Exhibit A, it is a condition of Schedule 2 and Schedule 3 that You confirm to Apple whether You are registered for Thailand VAT. If You are registered for VAT, You are required to provide Your Thailand VAT registration number upon request.
 
-If You are not registered for Thailand VAT or do not provide Your Thailand VAT registration number to Apple, pursuant to Thailand tax regulations, Apple will apply Thailand VAT on the commission payable by You to Apple to be deducted from Your remittance with respect to your sales to Thailand customers..
+If You are not registered for Thailand VAT or do not provide Your Thailand VAT registration number to Apple, pursuant to Thailand tax regulations, Apple will apply Thailand VAT on the commission payable by You to Apple to be deducted from Your remittance with respect to your sales to Thailand customers.
 
 **14\. UNITED STATES**
 
