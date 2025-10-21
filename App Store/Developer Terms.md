@@ -12787,6 +12787,8 @@ In order to use the Apple Software and Services, You must first accept this Agre
 
 Whenever capitalized in this Agreement:
 
+“**Accessory Data Transport Extension**” means an extension bundled as part of Your Application that, as its sole purpose, securely shares information directly between an end user’s Apple-branded device and an Authorized Wi-Fi Target Accessory.
+
 “**Ad Network APIs**” means the Documented APIs that provide a way to validate the successful conversion of advertising campaigns on supported Apple-branded products using a combination of cryptographic signatures and a registration process with Apple.
 
 “**Ad Support APIs**” means the Documented APIs that provide the Advertising Identifier and Tracking Preference.
@@ -12843,6 +12845,8 @@ Whenever capitalized in this Agreement:
 
 “**Authorized Test Units**” means Apple-branded hardware units owned or controlled by You that have been designated by You for Your own testing and development purposes under this Program, and if You permit, Apple-branded hardware units owned or controlled by Your Authorized Developers so long as such units are used for testing and development purposes on Your behalf, or, if You are a university, Apple-branded hardware units owned or controlled by You and Your Authorized Student Developers that are designated by You for educational purposes, and only as permitted hereunder.
 
+“**Authorized Wi-Fi Target Accessory**” means a Wi-Fi capable accessory that an end user has explicitly authorized Your Application on their Apple-branded device to securely pair and share the Wi-Fi Network Sharing Information with.
+
 “**Background Assets Framework**” means the Documented APIs that provide Applications with the ability to perform download operations in the background before first launch of the Application by the user and at other times after the first launch.
 
 “**Beta Testers**” means end users whom You have invited to sign up for TestFlight in order to test pre-release versions of Your Application and who have accepted the terms and conditions of the TestFlight Application.
@@ -12859,7 +12863,7 @@ Whenever capitalized in this Agreement:
 
 “**Custom App Distribution**” means the store or storefront functionality that enables users to obtain Licensed Applications through the use of Apple Business Manager, Apple School Manager, or as otherwise permitted by Apple.
 
-“**Declared Age Range API**” means the Documented API that enables Your Application to receive age range information for an end user derived from their Apple Account, if the end user or the end user's parent or guardian enables Your Application to receive the data.
+“**Declared Age Range API**” means the Documented API that enables Your Application to receive age range information for an end user derived from their Apple Account, if the end user or the end user's parent or guardian enables Your Application to receive the data, or where required by law.
 
 “**Default Dialer APIs**” means the Documented APIs that enable an Application to make carrier-based outgoing calls when it is set as the default dialing app, and access conversation history of carrier-based calls made in that Application.
 
@@ -13021,6 +13025,8 @@ Whenever capitalized in this Agreement:
 
 “**Sign in with Apple at Work & School**” means the Documented APIs and JavaScript libraries that allow You to log users into Your Application (and Corresponding Products) with their Managed Apple Account subject to the management of access by the user organization’s IT administrator.
 
+“**Significant App Update Topic API**” means the Documented API that enables Your Application distributed on the App Store to request consent from an end user's parent or guardian, to continue using Your Application when it has a significant update.
+
 “**SiriKit**” means the set of APIs that allow Your Application to access or provide SiriKit domains, intents, shortcuts, donations, and other related functionality, as set forth in the Documentation.
 
 “**Site**” means a website provided by You under Your own name, trademark or brand.
@@ -13072,6 +13078,10 @@ Whenever capitalized in this Agreement:
 “**Wi-Fi Aware Framework**” means the Documented APIs that provide an Application with the ability to make Wi-Fi Aware connections between Wi-Fi Aware capable devices.
 
 “**Wi-Fi Aware Information**” means any content, data, or information provided through or transmitted via the Wi-Fi Aware Framework or Wi-Fi Aware protocol, including, but not limited to, identifying information such as identifiers exchanged between devices, security information used for pairing, authentication, or encryption, and other keys and device information.
+
+“**Wi-Fi Infrastructure Framework**” means the Documented APIs that provide an Application with the ability to share Wi-Fi Network Sharing Information from an Apple-branded device to a Wi-Fi capable accessory.
+
+“**Wi-Fi Network Sharing Information**” means any content, data, or information provided through or transmitted via the Wi-Fi Infrastructure Framework, including network and device information and identifiers (such as SSIDs, MAC addresses, and other identifiers exchanged between devices), and security information used for authentication, passwords, encryption keys, device information or any other information derived from it (e.g., decrypted, hashed, re-encrypted).
 
 “**Xcode Cloud**” or “**Xcode Cloud Service**” means Apple’s cloud hosted continuous integration and delivery service and related technologies.
 
@@ -13222,7 +13232,7 @@ Any Application that will be submitted to the App Store, Custom App Distribution
 
 *   **A. Recordings**
     
-    If Your Application captures or makes any video, microphone, screen recordings, or camera recordings, whether saved on the device or sent to a server (e.g., an image, photo, voice or speech capture, or other recording) (collectively “Recordings”), a reasonably conspicuous audio, visual or other indicator must be displayed to the user as part of the Application to indicate that a Recording is taking place.
+    If Your Application captures or makes any video, microphone, screen recordings, or camera recordings, whether saved on the device or sent to a server (e.g., an image, photo, voice or speech capture, or other recording) (collectively “Recordings”), a reasonably conspicuous audio, visual or other indicator must be displayed to the user as part of the Application to indicate that a Recording is taking place. Your Application may not be designed to facilitate Recordings of others without their awareness.
     
     In addition, any form of data, content or information collection, processing, maintenance, uploading, syncing, storage, transmission, sharing, disclosure or use performed by, through or in connection with Your Application must comply with all applicable privacy laws and regulations as well as any related Program Requirements, including but not limited to any notice or consent requirements.
     
@@ -13300,6 +13310,8 @@ Any Application that will be submitted to the App Store, Custom App Distribution
     
     (iii) If Your Application uses App Intents and/or SiriKit to enable audio data to be processed by Apple, You agree to clearly disclose to end users that You and Your Application will be sending their recorded audio data to Apple for speech recognition, processing and/or transcription purposes, and that such audio data may be used to improve and provide Apple products and services. You further agree to use such audio data, and recognized text that may be returned from App Intents and/or SiriKit, only as expressly consented to by the end user and as expressly permitted herein.
     
+    (iv) To use App Intents for launching via the side button of iPhone when configured by an end user, your voice-based conversational application must (1) launch into a voice experience as the primary modality when the button is pressed; and (2) after launch, appropriately respond to questions or requests and perform actions.
+    
 *   **K. Address Book**
     
     If Your Application accesses data from an end user’s Address Book through the Address Book API, You must notify and obtain consent from the user before a user’s Address Book data is accessed or used by Your Application. Further, Your Application may not provide an automated mechanism that transfers only the Facebook Data portions of the end user’s Address Book altogether to a location off of the end user’s device. For the sake of clarity, this does not prohibit an automated transfer of the user’s entire Address Book as a whole, so long as user notification and consent requirements have been fulfilled; and does not prohibit enabling users to transfer any portion of their Address Book data manually (e.g., by cutting and pasting) or enabling them to individually select particular data items to be transferred.
@@ -13331,9 +13343,9 @@ Any Application that will be submitted to the App Store, Custom App Distribution
     
     You may not transmit off the user’s device any information about whether an image or video has been identified by the Sensitive Content Analysis Framework as containing nudity.
     
-*   **P. Declared Age Range API**
+*   **P. Declared Age Range API and Significant App Update Topic API**
     
-    Your Application may access the Declared Age Range API to request a user’s age range only for the purpose of providing age-appropriate content and/or features for end users in Your Application. You understand that data from the Declared Age Range API is based on information declared by an end user, or their parent or guardian. You may not share or sell user data obtained from this API to data brokers or information resellers. You are solely responsible for ensuring compliance with associated laws or regulations that may apply to You, and understand that Your use of the Declared Age Range API is subject to **Section 10 (Indemnification)**.
+    Your Application may access the Declared Age Range API to request a user’s age range only for the purposes of providing age-appropriate content and/or features for end users in Your Application, or to comply with laws that require Your Application to receive age range information. You understand that data from the Declared Age Range API is based on information provided to Apple that is declared by an end user, or their parent or guardian, and may be confirmed using a payment method (like a credit card), government ID, or another method.  You may not share or sell user data obtained from this API to data brokers or information resellers. You are solely responsible for ensuring compliance with associated laws or regulations that may apply to You, and understand that Your use of the Declared Age Range API and Significant App Update Topic API is subject to **Section 10 (Indemnification)**.
     
 
 ##### 3.3.4 Content Rights and Licensing
@@ -13516,6 +13528,12 @@ Any Application that will be submitted to the App Store, Custom App Distribution
 *   **I. Foundation Models Framework**
     
     By accessing, prompting, or otherwise using the Foundation Models Framework, or the model accessed by the Foundation Models Framework, You agree to follow, and to maintain reasonable guardrails supporting, the Foundation Models Framework Acceptable Use Requirements. Additionally, You agree to keep Adapters used by Your Covered Products compatible with the currently shipping release of the model accessed by the Foundation Models Framework. Failure to do so may result in Your Application being incompatible with the currently shipping release of the OS and subject to **Section 6.8**.
+    
+*   **J. Wi-Fi Infrastructure Framework**
+    
+    You and Your Application may use the Wi-Fi Infrastructure Framework only for transmitting Wi-Fi Network Sharing Information, via Your Accessory Data Transport Extension, from an Apple-branded device to an Authorized Wi-Fi Target Accessory. You and Your Application may transmit Wi-Fi Network Sharing Information only for connecting the Authorized Wi-Fi Target Accessory to a Wi-Fi network that the end user’s Apple-branded device is capable of connecting to. You and Your Application must transmit the Wi-Fi Network Sharing Information directly to the Authorized Wi-Fi Target Accessory, and only in a secure, authenticated, and end-to-end encrypted manner.
+    
+    You or Your Application may not disseminate the Wi-Fi Network Sharing Information with any other Application, or any other device besides the Authorized Wi-Fi Target Accessory. And an Authorized Wi-Fi Target Accessory may not under any circumstance share Wi-Fi Infrastructure Information with any other device, including the end user’s Apple-branded device or any other Authorized Wi-Fi Target Accessory. You, Your Application, and the Authorized Wi-Fi Target Accessory may not use Wi-Fi Network Sharing Information for any unrelated purposes (e.g., for advertising, profiling, training models, monitoring location). You acknowledge Your use of the Wi-Fi Infrastructure Framework and the Wi-Fi Network Sharing Information is subject to **Section 3.3.3**. You further acknowledge and agree that You and Your Application are responsible to Apple for the Authorized Wi-Fi Target Accessory’s compliance with this **Section 3.3.8(J)**.
     
 
 ##### 3.3.9 Transactions and Passes
@@ -13724,7 +13742,7 @@ You can develop Libraries using the Apple Software. Notwithstanding anything to 
 
 #### 7.6 No Other Distribution Authorized Under this Agreement
 
-Except for the distribution of freely available Licensed Applications through the App Store or Custom App Distribution in accordance with **Sections 7.1** and **7.2**, the distribution of Applications for use on Registered Devices as set forth in **Section 7.2**. (Ad Hoc Distribution), the distribution of Applications for beta testing through TestFlight as set forth in **Section 7.4**, the distribution of Libraries in accordance with **Section 7.5**, the distribution of Passes in accordance with Attachment 5, the delivery of Safari Push Notifications on macOS, the distribution of Safari Extensions on macOS, the distribution of Applications and libraries developed for macOS, and/or as otherwise permitted herein, no other distribution of programs or applications developed using the Apple Software is authorized or permitted hereunder. In the absence of a separate agreement with Apple, You agree not to distribute Your Application for iOS, iPadOS, tvOS, visionOS, or watchOS to third parties via other distribution methods or to enable or permit others to do so. You agree to distribute Your Covered Products only in accordance with the terms of this Agreement.
+Except for the distribution of Licensed Applications through the App Store or Custom App Distribution in accordance with **Sections 7.1** and **7.2**, the distribution of Applications for use on Registered Devices as set forth in **Section 7.3** (Ad Hoc Distribution), the distribution of Applications for beta testing through TestFlight as set forth in **Section 7.4**, the distribution of Libraries in accordance with **Section 7.5**, the distribution of Passes in accordance with Attachment 5, the delivery of Safari Push Notifications on macOS, the distribution of Safari Extensions on macOS, the distribution of Applications and libraries developed for macOS, and/or as otherwise permitted herein, no other distribution of programs or applications developed using the Apple Software is authorized or permitted hereunder. In the absence of a separate agreement with Apple, You agree not to distribute Your Application for iOS, iPadOS, tvOS, visionOS, or watchOS to third parties via other distribution methods or to enable or permit others to do so. You agree to distribute Your Covered Products only in accordance with the terms of this Agreement.
 
 #### 7.7 Icon and Widget Customization
 
@@ -14351,6 +14369,241 @@ APPLE SHALL NOT BE LIABLE FOR ANY COSTS, EXPENSES, DAMAGES, OR LOSSES ARISING FR
 
 **5.** IN ADDITION TO THE LIMITATION OF LIABILITY IN SECTION 13, NEITHER APPLE NOR ITS LICENSORS OR SERVICE PROVIDERS SHALL BE LIABLE FOR ANY DAMAGES OR LOSSES ARISING FROM ANY USE, MISUSE, RELIANCE ON, INABILITY TO USE, INTERRUPTION, SUSPENSION, OR TERMINATION OF THE ENERGYKIT APIS, INCLUDING ANY INTERRUPTIONS DUE TO SYSTEM FAILURES, NETWORK ATTACKS, OR SCHEDULED OR UNSCHEDULED MAINTENANCE.
 
+### Attachment 12
+
+**(to the Agreement)**
+
+**Additional Terms for iOS Apps in Japan**
+
+#### 1\. Definitions
+
+“**Alternative App Marketplace (Japan)**” means Your Application that has as its primary purpose the discovery and distribution of other Applications, and has obtained the relevant entitlement profile for doing so. For the purposes of this Attachment, “Applications” includes Your Applications as well as Applications from other developers unless otherwise specified.
+
+“**Alternative Payment Processing**” means providing a payment system (“Alternative Payment System”) that is not Apple's in-app purchase system for selling digital goods and services within Your Application that is distributed on the App Store, in accordance with the requirements of Section 3 of this Attachment.
+
+“**Apple Entity**” means any of the following: Apple Inc., located at One Apple Park Way, Cupertino, California; Apple Canada Inc., located at 120 Bremner Blvd., Suite 1600, Toronto ON M5J0A8, Canada; Apple Services LATAM LLC, located at 2811 Ponce de Leon Boulevard, Floor 12, Coral Gables, Florida 33134; or iTunes K.K., located at Roppongi Hills, 6-10-1 Roppongi, Minato-ku, Tokyo 106-6140, Tokyo.
+
+“**Apple Materials**” means the Documentation, entitlement profiles, and other materials provided by Apple to You, and which are incorporated by reference into the requirements of Section 3 of this Attachment.
+
+“**Licensed Application**” means an Application that (a) meets and complies with all of the Documentation and Program Requirements, and (b) has been selected and digitally signed by Apple for distribution, including via an Alternative App Marketplace (Japan), or as an Alternative App Marketplace (Japan), and includes any additional functionality, content, or services provided by You from within such Application using the In-App Purchase API or otherwise.
+
+“**Licensed Application Information**” means screenshots, images, artwork, previews, icons, and/or any other text, descriptions, representations, or information relating to a Licensed Application that You provide to Apple for use in accordance with this Attachment, Schedule 2 and 3 to the Agreement (“Paid Applications Agreement”), and/or Schedule 1 to the Agreement.
+
+“**Marketplace Website (Japan)**” means a website that You own, operate, and have registered with Apple, from which You distribute Your Alternative App Marketplace (Japan). Requirements for Your Marketplace Website (Japan) apply only to the aspects of Your Marketplace Website (Japan) used in connection with the marketing, sale, or distribution of Your Alternative App Marketplace (Japan).
+
+“**Out-of-App Offers**” means directing end users from Your Application that is distributed on the App Store to a website to purchase digital goods and services in accordance with the requirements of Section 3 of this Attachment. You may choose to do so using an actionable link (i.e., a link that can be tapped or scanned) that opens in the default web browser app.
+
+#### 2\. Alternative Distribution on iOS in Japan
+
+**2.1 Alternative App Marketplaces (Japan)**
+
+**A.** You must obtain an entitlement profile for Your Application for it to be an Alternative App Marketplace (Japan); the entitlement profile is compatible only with devices in Japan on iOS 26.2, or later. You must request access on the Apple Developer Program web portal to distribute Your Alternative App Marketplace (Japan) through Your Marketplace Website (Japan); distribution through Your Marketplace Website (Japan) is compatible only with devices in Japan on iOS 26.2, or later.
+
+In addition to the requirements in the Agreement and the Apple Materials, the following requirements must be met for an Alternative App Marketplace (Japan):
+
+*   You must be enrolled in the Apple Developer Program as an organization.
+*   You must meet at least one of the following criteria, as demonstrated by you providing the relevant information to Apple as specified in the Apple Materials:
+    *   Be a member of good standing in the Apple Developer Program for two (2) continuous years or more, and have an Application that had more than one (1) million First Annual Installs on iOS and/or iPadOS worldwide in the prior calendar year. A “First Annual Install” is the first time in a twelve-month period that an Apple account (Apple Account or Managed Apple Account) installs Your Application on iOS and/or iPadOS. This installation may occur after a download, redownload, or update of an Application distributed through the App Store, TestFlight, as a Custom Application, or through alternative distribution.
+    *   Provide Apple with a standby letter of credit from a BBB- or better rated (or equivalent by S&P, Fitch, or Moody’s) financial institution in the amount of at least USD 1 million (or equivalent amount in local currency) according to the instructions specified in the Apple Materials, and maintain that standby letter of credit for at least 6 months after Your Alternative App Marketplace (Japan) begins distributing apps to customers.
+*   Your Application must:
+    *   Be a new binary that is distributed solely on iOS in Japan (except for any other jurisdiction or Apple platform expressly permitted by Apple under the Agreement (including any addenda) for which You have likewise obtained a corresponding entitlement profile); and
+    *   Have as its primary purpose discovery and distribution of Applications; and
+    *   Be distributed only from Your Marketplace Website (Japan).
+*   You must:
+    *   Provide and publish terms, including those pertaining to content and business model, for Applications that You intend to distribute, and accept Applications that meet those terms, including Applications from other developers; or
+    *   Distribute only Your own Applications, on iOS in Japan.
+*   You must publish transparent data collection policies and offer users control over how their data is collected and used;
+*   You must acknowledge that You will comply with applicable laws of the jurisdictions in which You operate, including, e.g., laws on provision of digital goods or services, or marketplaces, data protection and consumer protection;
+*   You must provide a mechanism for end users, Apple, developers of Applications on Your Alternative App Marketplace (Japan), and other parties to notify You of intellectual property disputes related to Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), and/or Applications distributed on Your Alternative App Marketplace (Japan), and handle them accordingly. If You become aware that content in Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or an Application on Your Alternative App Marketplace (Japan) infringes the intellectual property of Apple or others, or permits others to do so, You must act expeditiously to remove or disable access to that content. You will remove, after having issued a prior warning, developers of Applications on Your Alternative App Marketplace (Japan) that frequently provide infringing content;
+*   You must be responsible for handling governmental and other requests to take down listings for an Application distributed on Your Alternative App Marketplace (Japan) on the grounds that it is illegal, violates the intellectual property rights of Apple or others, and/or violates Your terms for Applications;
+*   You must engage in ongoing monitoring and detection of fraudulent, malicious, or illegal activity in Your Marketplace Website (Japan) or Your Applications (including Your Alternative App Marketplace (Japan)), or fraudulent, malicious, or illegal developers or Applications in Your Alternative App Marketplace (Japan), and take appropriate action when You detect such activity, Applications, or developers;
+*   You must be responsive to communications from Apple regarding Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or Applications distributed on Your Alternative App Marketplace (Japan) or Your Marketplace Website (Japan), particularly regarding any fraudulent, malicious, or illegal behavior, or anything else that Apple believes impacts the safety, security, or privacy of end users;
+*   You must not infringe the intellectual property of Apple or others, and You must not distribute through Your Alternative App Marketplace (Japan) any Applications that infringe the intellectual property of Apple or others. You must implement a mechanism for reviewing other developers’ Applications for intellectual property infringement prior to distributing them through Your Alternative App Marketplace (Japan);
+*   You may not scrape, mine, retrieve, cache, analyze, or index metadata, including developer or app metadata, from the App Store for use by Your Alternative App Marketplace (Japan) or Your Marketplace Website (Japan). For clarity, this does not prohibit Your use of any metadata that a developer submits directly to You, Your own metadata, or metadata directly acquired by You under applicable law. Furthermore, You may not use or repurpose any end user ratings or reviews created for the App Store in a manner that suggests the review was written or created for anyone other than the App Store; and;
+*   Restoration (i.e., via iOS backups to iCloud or a computer) and redownloading of Applications distributed by Your Alternative App Marketplace (Japan) or of Your Alternative App Marketplace (Japan) must be free of charge.
+
+**B.** In addition, to help verify that installations of Applications from Your Alternative App Marketplace (Japan) or of Your Alternative App Marketplace (Japan) are valid, Your Alternative App Marketplace (Japan) must:
+
+*   Provide the install verification token as part of the URLs starting with the scheme as defined by MarketplaceKit for each installation (including initial installation, redownloads, updates, and any other form of installation) of Your Alternative App Marketplace (Japan); and
+*   Provide the install verification token as part of the URLs starting with the scheme as defined by MarketplaceKit for each installation (including initial installation, redownloads, updates, and any other form of installation) of an Application from Your Alternative App Marketplace (Japan).
+
+**2.2 Applications distributed on an Alternative App Marketplace (Japan)**
+
+**A.** Entitlement profiles You request that are available for Applications when they are distributed on the App Store on iOS in Japan may be used for Applications when they are distributed on Alternative App Marketplaces (Japan) on iOS in Japan, unless otherwise noted by Apple. Entitlement profiles that pertain to digital commerce in App Store apps may only be used by Applications when they are distributed on the App Store. This includes the entitlement profile for Out-of-App Offers or offering Alternative Payment Processing under this Attachment.
+
+**B.** Apple reserves the right to communicate with any Alternative App Marketplace (Japan) through which Your Application is distributed about the status of Your Application, any fraudulent, malicious, or illegal behavior associated with Your Application, and anything else that Apple believes impacts the safety, security, or privacy of end users.
+
+**C.** Your Application must not infringe the intellectual property of Apple or others. If You become aware that content in Your Application infringes the intellectual property of Apple or others, You must act expeditiously to remove or disable access to that content.
+
+**2.3 General Terms for Alternative Distribution**
+
+**A.** The terms of this Section 2.3 apply to Alternative App Marketplaces (Japan), Your Marketplace Website (Japan), and Applications distributed on Alternative App Marketplaces (Japan).
+
+**B.** To be available for installation on iOS, Alternative App Marketplaces (Japan) and Applications distributed on Alternative App Marketplaces (Japan) must follow the terms of the Agreement, including the Notarization Review Guidelines.
+
+**C.** Terms of the Agreement (Sections 1-14, and all Attachments, Schedules, and Exhibits) that apply to Applications or Licensed Applications (including when distributed on the App Store), also apply to Applications and Licensed Applications when they are distributed on Alternative App Marketplaces (Japan), as well as Alternative App Marketplaces (Japan), except as follows:
+
+*   **Section 3.3.4(A)(iii);**
+*   Notwithstanding **Section 3.3.9(C)** of the Agreement, use of Apple Pay APIs for purchases (including digital or physical) by Applications when they are distributed on Alternative App Marketplaces (Japan), as well as by Alternative App Marketplaces (Japan), is permitted, provided You follow the Acceptable Use Guidelines for Apple Pay on the Web and have accepted the applicable Apple Pay Platform Web Terms and Conditions and related agreements. For the purposes of this Attachment, when You use the Apple Pay APIs in this manner, the meaning of "website" in the Acceptable Use Guidelines for Apple Pay on the Web, and "Website" in the Apple Pay Platform Web Terms and Conditions and related agreements, includes Your Applications that use the Apple Pay Platform to facilitate transactions;
+*   **Section 6.3**
+*   **Section 7.1** and **Section 7.2**
+*   **Attachment 2**; and
+*   **Schedules 1**, **2**, and **3** to the Agreement do not apply.
+
+This **Section 2.3(C)** has no bearing on the terms of the Agreement that apply to Applications and Licensed Applications when they are distributed on the App Store, even if the bundle ID is the same.
+
+**D.** Metadata You provide Apple through App Store Connect or the Marketplace Search API for Your Alternative App Marketplace (Japan), or Your or other developers’ Applications distributed on an Alternative App Marketplace (Japan) must be suitable for all audiences (age 4+).
+
+**E.** Notwithstanding the terms of the Agreement, You give Apple permission to use Your Licensed Application Information submitted through App Store Connect, and any such metadata provided by an Alternative App Marketplace (Japan) that distributes Your Licensed Application and integrates with the Marketplace Search API, for search and discovery of content through iOS on iOS devices. In addition, You agree that unless You inform Apple otherwise in writing, Apple may use Your submitted metadata at Apple Developer events (e.g., the Worldwide Developers Conference, online videos) and in developer documentation.
+
+**F.** You certify that each of the Applications You deliver to Apple for which You indicate intent to distribute as an Alternative App Marketplace (Japan), or intent to distribute through an Alternative App Marketplace (Japan), is authorized for export from the United States to anywhere in Japan where You distribute, in accordance with the requirements of all applicable laws, including but not limited to the United States Export Administration Regulations, 15 C.F.R. Parts 730-774 and the applicable local laws. You further represent and warrant that all versions of the Licensed Applications You deliver to Apple are not subject to the International Traffic in Arms Regulations 22 C.F.R. Parts 120-130 and are not designed, made, modified, or configured for any military end users or end uses as defined and scoped in 15 C.F.R § 744. Without limiting the generality of this **Section 2.3(F)** You certify that: (i) none of the Applications contains, uses, or supports any data encryption or cryptographic functions; or (ii) in the event that any Application contains, uses or supports any such data encryption or cryptographic functionality, You certify that You have complied with the United States Export Administration Regulations as well as the applicable local laws, and are in possession of, and will, upon request, provide Apple with PDF copies of export classification rulings (“CCATS”)  issued by the United States Commerce Department, Bureau of Industry and Security (“BIS”), or any self-classification reports submitted to the BIS, and appropriate authorizations from other regions that mandate import authorizations for that Application, as required. For clarity, if You engage a Service Provider to assist You in using the Apple Software and Services provided pursuant to this Attachment, in addition to the other requirements set forth in the Agreement, such Service Provider must comply with the requirements set forth in **Section 14.8** of the Agreement.
+
+**G.** Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or Application distributed on an Alternative App Marketplace (Japan), must not infringe Apple’s intellectual property or appear confusingly similar to the App Store or an Apple product, service, interface, computer software application, or advertising theme (including, but not limited to, use of App Store, TestFlight, App Store Connect, the App Store icon, the TestFlight icon, and the App Store Connect icon). You shall not apply for or register a trademark, service mark, or copyright for or incorporating an Apple trademark, service mark, graphic symbol, logo, icon, trade dress, slogan, or similar variation as a company, product, or service name (including the name of Your Alternative App Marketplace (Japan) or Your Marketplace Website (Japan)). You shall not, indirectly or directly, suggest or imply that Apple recommends, endorses, or sponsors You, the Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or any Application. Absent an express written license, use of an Apple trademark, service mark, trade dress, slogan, graphic symbol, logo, icon, or similar variation in a manner suggesting or implying affiliation, endorsement, or sponsorship by Apple violates the terms of this Agreement.
+
+**H.** Your Alternative App Marketplace (Japan), or Application distributed on an Alternative App Marketplace (Japan), may not aggregate and display links that direct end users to the App Store (for example, as a storefront or marketplace).
+
+**I.** Your Alternative App Marketplace (Japan), or Application distributed on an Alternative App Marketplace (Japan) must:
+
+*   Adopt MarketplaceKit in accordance with the Apple Materials; and
+*   Declare in the Info.plist whether Your Alternative App Marketplace (Japan), or Application distributed on an Alternative App Marketplace (Japan) offers digital goods and services for purchase, in accordance with the Apple Materials.
+
+#### 3\. App Store iOS Business Terms for Japan
+
+**3.1 Eligibility and Program Requirements for Alternative Payment Processing and Out-of-App Offers**
+
+**A.** To use Alternative Payment Processing or Out-of-App Offers, Your Application must:
+
+1.  Be distributed on iOS in the Japan storefront of the App Store; and
+2.  Be submitted with the entitlement described in the Apple Materials.
+
+**B.** You must ensure that in the Japan storefront, Your Application does not offer:
+
+*   Out-of-App Offers to any end user, if Your Application is in the Kids category of the App Store;
+*   Out-of-App Offers to end users who are under 13 years of age; or
+*   Alternative Payment Processing to end users under 18 years of age, or Out-of-App Offers to end users who are 13 to under 18 years of age, unless You have provided those options behind a parental gate.
+
+**C.** Your Application may not use disparaging language or visual treatments that discourage or interrupt use of Apple's in-app purchase system.
+
+**D.** Further, where Your Application uses Alternative Payment Processing and/or Out-of-App Offers via actionable links (collectively, “payment options”), for each digital purchase merchandised on any user interface of Your Application, You must:
+
+*   Offer Apple's in-app purchase system along with any other payment option You choose to include on such user interface;
+*   Display Apple's in-app purchase system at least as prominently as and at any time that any other payment option is shown on such user interface; and
+*   When presented in the same user interface as another payment option, follow the instructions in the Apple Materials for presenting Apple's in-app purchase system.
+
+**E.** You may not include information about purchasing on a website or a link to a website for purchasing, or information about purchasing with Alternative Payment Processing, on the App Store product page of Your Application.
+
+**F.** Notwithstanding Section 3.3.9(C) of the Agreement, the Apple Pay APIs may be used in Your Application for digital purchases offered via Out-of-App Offers or Alternative Payment Processing.
+
+**G.** Where Your Application uses Alternative Payment Processing and/or Out-of-App Offers, You may not use the StoreKit External Link Account entitlement profile for reader apps in Your Application. Use of the StoreKit External Link Account entitlement profile for reader apps does not constitute using Alternative Payment Processing or Out-of-App Offers.
+
+**H.** TestFlight may be used for purposes of beta testing Alternative Payment Processing and/or Out-of-App Offers, provided that any transactions incurred in such testing are provided to testers at no cost.
+
+**I.** The entitlement profile for Alternative Payment Processing and/or Out-of-App Offers is only compatible with devices in Japan on iOS 26.2, or later.
+
+**3.2 Alternative Payment Processing: Design and Technical Requirements**
+
+**A.** Prior to each payment flow where the end user would make a purchase using Your Alternative Payment System, and each flow to enter payment information for Your Alternative Payment System, even if not for a specific purchase, You must call the relevant StoreKit APIs to (1) determine that You may use Alternative Payment Processing and confirm eligibility and ability to make payments; and (2) when applicable, display the system disclosure sheet. For a time, You may need to display the system disclosure sheet following the instructions in the Apple Materials; see the Apple Materials for more details.
+
+**B.** The in-app payment flow You provide for end users using Your Alternative Payment System must complete within Your same Application.
+
+**C.** Nor may the in-app payment flow contain any hidden, dormant, or undocumented payment functionality or behavior.
+
+**3.3 Out-of-App Offers: Design and Technical Requirements**
+
+**A.** Prior to each instance of Out-of-App Offers using an actionable link from Your Application to take the end user to a website to purchase digital goods or services, You must call the relevant StoreKit APIs to (1) determine that You may use Out-of-App Offers, and confirm eligibility and ability to make payments; and (2) when applicable, display the system disclosure sheet. For a time, You may need to display the system disclosure sheet following the instructions in the Apple Materials; see the Apple Materials for more details.
+
+**B.** In addition to requirements provided in the Apple Materials, any actionable link You provide in Your Application for Out-of-App Offers under this Attachment must:
+
+*   Open a window or tab in the default web browser app on the device for the end user to complete the transaction, and may not open a web view; and
+*   Be accompanied by accurate information regarding the digital goods or services available for purchase on the website.
+
+**3.4 Commerce Requirements**
+
+**A.** Digital purchases sold on a website to end users after Out-of-App Offers from Your Application, and which are marketed as being for use in an Application, must be available for use in that Application.
+
+**B.** If Your Application uses Alternative Payment Processing or Out-of-App Offers to engage in misleading, fraudulent, improper, unlawful, or dishonest acts or practices such as bait and switch, scams, or payment fraud, it will be removed from the App Store and You may be removed from the Apple Developer Program.
+
+**C.** You certify that any payment service provider You use outside or within Your Application meets Level 1 Payment Card Industry (PCI) compliance for handling credit and debit card data (if applicable), and complies with the any applicable laws on provision of payment services when not handling credit and debit card data.
+
+**D.** You agree to make a customer service process available for end users of Your Application, including a process to dispute unauthorized transactions, manage subscriptions (if applicable), and request refunds.
+
+**3.5 Commissions and Payments in the Japan Storefront of the App Store**
+
+**A.** The terms in this Section 3.5 apply to iOS Applications distributed on the Japan storefront of the App Store.
+
+**B.** For Alternative Payment Processing, Apple is entitled to an App Store commission of twenty-one percent (21%) of resulting sales of digital goods or services, including one-time purchases and auto-renewing subscriptions. The commission rate is ten percent (10%) for such transactions (1) while You are a participant in the App Store Small Business Program; (2) where Your Application participates in the Apple Video Partner Program or Mini Apps Partner Program and the transaction would have qualified for a program rate if made with Apple’s in-app purchase system; or (3) where the transaction is an auto-renewal in the second year or later of an auto-renewing subscription. For the App Store Small Business Program, any transaction proceeds (net of Apple’s commission and certain taxes and adjustments) You earn count towards program eligibility. Such commission applies to all amounts payable by each end user, subject to any refunds, reversals, or chargebacks, net of transaction taxes charged by You.
+
+**C.** For Apple’s in-app purchase system, the Paid Applications Agreement is amended and restated for resulting sales so that Apple’s commission rate for the sale of Licensed Applications is twenty-one percent (21%). And (1) while You are a participant in the App Store Small Business Program; (2) where the sale qualifies for a program rate under the Apple Video Partner Program or Mini Apps Partner Program; or (3) where there is a qualifying auto-renewing subscription purchase beyond one year as described in the Paid Applications Agreement, the commission rate is ten percent (10%). For each sale covered in this Section 3.5(C), there is additionally a five percent (5%) fee for the App Store’s payment processing and related commerce services.
+
+**D.** For Out-of-App Offers, Apple is entitled to a store services commission of fifteen percent (15%) on sales of digital goods or services (including one-time purchases and auto-renewing subscriptions) on a website, which are initiated within seven (7) calendar days after the end user taps or scans an actionable link to go from Your Application to the website. The commission rate is ten percent (10%) for such transactions while You are a participant in the App Store Small Business Program; (2) where Your Application participates in the Apple Video Partner Program or Mini Apps Partner Program and the transaction would have qualified for a program rate if made with Apple’s in-app purchase system; or (3) where the transaction is an auto-renewal in the second year or later of an auto-renewing subscription. For the App Store Small Business Program, any transaction proceeds (net of Apple’s commission and certain taxes and adjustments) You earn count towards program eligibility. Where the transaction is a subscription (including free trials or offers), subsequent auto-renewals are all subject to commission. Such commission applies to all amounts payable by each end user, subject to any refunds, reversals, or chargebacks, net of transaction taxes charged by You.
+
+#### 4\. Core Technology Commission
+
+**A.** The terms of this Section 4 apply to Alternative App Marketplaces (Japan) or Applications distributed on an Alternative App Marketplace (Japan).
+
+**B.** The Core Technology Commission applies to any sales of digital goods or services (including one-time purchases and auto-renewing subscriptions) that are completed in Your Alternative App Marketplace (Japan) or Your Application distributed on an Alternative App Marketplace (Japan), and can be used in an Application distributed on an Apple platform.
+
+**C.** The Core Technology Commission also applies to any sales of digital goods or services on an Apple platform (including one-time purchases and auto-renewing subscriptions) that are required to download or access an Alternative App Marketplace (Japan) or an Application distributed on an Alternative App Marketplace (Japan).
+
+**D.** Lastly, the Core Technology Commission applies to any sales on a website of digital goods or services (including one-time purchases and auto-renewing subscriptions) that can be used in an Application distributed on an Apple platform, if the sales were initiated within seven (7) calendar days after the end user taps or scans an actionable link to go from Your Alternative App Marketplace (Japan) or Application distributed on an Alternative App Marketplace (Japan) Application to the website. In such instances, where the sale is a subscription (including free trials or offers), subsequent auto-renewals are also sales covered under this Section 4(C).
+
+**E.** The Core Technology Commission is five percent (5%) of all sales covered in this Section 4. Such commission applies to all amounts payable by each end user, subject to any refunds, reversals, or chargebacks, net of transaction taxes charged by You.
+
+#### 5\. Additional Commerce Terms
+
+**5.1 General**
+
+**A.** For the purposes of Sections 3.4 and 3.5, and this Section 5, “Apple” may be an Apple Entity, depending on Your location, or the storefront of the end user. See the Apple Materials for more details. This Section 5 applies to any sales subject to commissions and/or fees owed to Apple under Sections 3 and/or 4.
+
+**B.** Solely for the purpose of sales covered under this Section 5, You act as the seller in Your own name and on Your own account.
+
+**5.2 Reporting, Invoicing, Payments**
+
+**A.** You must provide Apple with reports of sales, according to the timelines and requirements provided in the Apple Materials.
+
+**B.** Apple will issue an invoice to You for all commissions and any applicable taxes or other charges owed and will use commercially reasonable efforts to do so within fifteen (15) calendar days of receiving the report(s) covering a calendar month. The invoice may be issued by an affiliate of Apple. Within thirty (30) calendar days of the invoice being issued, You shall pay all commissions and any applicable taxes as directed by Apple in the Apple Materials and in the currency stated in the invoice, using a payment method approved by Apple for You (as may be modified by Apple from time to time).
+
+**C.** Any payment dispute must be submitted before payment is due. If the parties determine that certain billing inaccuracies are attributable to Apple, Apple will issue a subsequent corrected invoice. If the reports You submit show You issued a refund, Apple will reimburse You the commission paid to Apple on the sale to which the refund relates, and will do so in the form of credit in future invoices.
+
+**D.** Where a sale subject to commissions and/or fees to Apple under Section 3 and/or 4 is made by someone other than You, You must have an agreement with them that applies the requirements of this Attachment to those sales, and You are responsible (including by enforcing Your agreement with them if necessary) for ensuring they send reports of sales to Apple and pay Apple applicable commissions and/or fees, in accordance with the timelines and requirements in the Apple Materials and this Attachment.
+
+**E.** This Section 5.2(E) applies in addition to Apple’s other rights under the Agreement, and any other remedies at law or equity. Late payments shall bear interest at the rate of one percent (1%) per month or the highest rate permitted by law, whichever is less. And if You fail to pay Apple any or all amounts due and owed by You or any of Your affiliates to Apple under or in connection with the Agreement or any other agreement, Apple reserves the right, at any time and from time to time, to offset those amounts (in whole or in part) against any amounts (including any amounts collected by Apple on Your behalf from end users) owed by Apple to You or Your affiliates. If any amounts to be set off are expressed in different currencies, Apple may convert any such amounts to the remittance currency agreed between Apple and You in accordance with an exchange rate fixed for the Delivery Period, as reflected in App Store Connect, as may be updated from time to time. Any exercise by Apple of its rights under this Section shall not limit or affect any other rights or remedies available to it under the Agreement or otherwise.
+
+**5.3 Taxes**
+
+**A.** You are responsible for taxes, including (but not limited to): (i) determining if a sale is taxable; (ii) charging and collecting the taxes at the applicable rate; (iii) remitting the taxes to the appropriate taxing authority; and (iv) providing any required documentation to the end user or appropriate taxing authority. If Apple determines that it is obligated to collect or remit any taxes in respect of a sale, such taxes (and any information required by Apple to determine such taxes) will be separately collected by Apple from You, and You will remit such taxes to Apple in accordance with the terms of this Attachment.
+
+**B.** Apple may invoice You for any applicable taxes, levies, duties, costs, charges, deductions, or any charges of equivalent effect, as imposed by any tax authority on or with respect to any commission. Apple shall determine, collect, and remit such applicable taxes to the competent tax authorities, and You agree to pay such taxes as invoiced by Apple. In the event that any tax authority imposes any tax compliance responsibility on You including, without limitation, reverse charge accounting, self accounting, and reporting, You shall take full responsibility for such compliance obligations.
+
+**C.** If Apple is obligated to collect or pay any taxes not covered in this Attachment in respect of Your payment to Apple, such taxes will be invoiced to You, and You will pay such taxes to Apple.
+
+**D.** To the extent withholding taxes are required under applicable law to be deducted from or in respect of any amount payable to Apple under the terms of this Attachment, You will: (i) pay such additional amounts as may be necessary to ensure that Apple receives a net amount equal to the full amount which it would have received under the terms of this Attachment if no deduction or withholding had been made; (ii) make such deductions; (iii) deposit such taxes with the relevant governmental tax authority within the time as prescribed under applicable law; and (iv) provide Apple with documentation, reasonably satisfactory to Apple, of such remittance.
+
+**E.** You represent You are appropriately registered in the applicable jurisdiction, have a valid identifier in compliance with the applicable jurisdiction, and will notify Apple if You cease to be registered or hold the valid identifier. In addition, You will timely provide Apple with any applicable identifiers, proof of registration, tax documentation, certification, or information requested by Apple, and failure to do so may result in revocation of Your or Your Application’s ability to operate an Alternative App Marketplace (Japan), to be distributed on an Alternative App Marketplace (Japan), or to use Alternative Payment Processing, or Out-of-App Offers among any other rights Apple has under the Agreement. You agree to indemnify and hold harmless the Apple Indemnified Parties for any Losses arising from this requirement.
+
+**5.4 Apple’s Right to Audit**
+
+Notwithstanding any term to the contrary, You shall maintain and keep complete and accurate books and records concerning the amounts payable to Apple arising from sales, and refunds claimed, including taxes, for three (3) years following the date of transmission of reports to Apple. Apple may examine and audit Your books and records relating to any sales covered under this Section 5 and refunds claimed on such sales during such three-year period to verify the accuracy of payments to Apple. For clarity, Apple may not seek to examine and audit all Your financial data, but only those data relevant to determining the accuracy of Apple’s commission, payments to Apple and refunds claimed. To satisfy an audit request, You must, within thirty (30) days of the request, allow an audit to take place. Apple may appoint an independent certified public accountant not then engaged in any audit of Apple or You to audit applicable books and records of You at a mutually agreed time and place during Your normal business hours.
+
+#### 6\. General Terms
+
+**6.1 Entitlement Profiles**
+
+**A.** Some capabilities in this Attachment require an entitlement profile. In such cases, You may use the entitlement profile only with the Application for which You requested the entitlement profile and for which Apple has approved its use. You agree to submit true, accurate, and complete information to Apple regarding Your requested use of such entitlement profiles and associated APIs, and to update Apple according to instructions provided in the Apple Materials if any of Your information changes. You acknowledge that changes may affect Your continued eligibility for an entitlement profile. Apple will review Your request and reserves the right to not provide You with an entitlement profile in its sole discretion, in which case You will not be able to use the entitlement profile or associated APIs, and to revoke such entitlement profile, in its sole discretion. Apple will not be liable to You for declining Your request for an entitlement profile or to access associated APIs even if You have agreed to this Attachment.
+
+**B.** You acknowledge and agree that You will not use, or attempt to use, the associated APIs or engage in permitted capabilities (e.g., distributing Applications, Alternative Payment Processing and/or Out-of-App Offers) unless You have received the relevant entitlement profile from Apple. If You receive an entitlement profile, then subject to the terms and conditions of this Attachment and the Agreement, Apple hereby grants You during the Term a limited, non-exclusive, personal, revocable, non-sublicensable and non-transferable license to:
+
+1.  Distribute the entitlement profile to Your Authorized Developers for testing and developing Your Application; and
+2.  Use the entitlement profile with Your Application solely on Authorized Test Units or Registered Devices, for submission for distribution pursuant to the Agreement (including as permitted under this Attachment).
+
+**C.** The entitlement profile for Out-of-App Offers and Alternative Payment Processing is only permitted for use when Your Application is distributed on the App Store.
+
+**D.** You agree to use, only through the use of the relevant entitlement profile, the associated APIs and permitted capabilities only as expressly permitted in this Attachment and in the Apple Materials. You agree not to use or attempt to use such entitlement profiles in or with any of Your Applications not granted the entitlement profile or with any other developer’s Applications. You may not use entitlement profiles provided under this Attachment with applications developed or distributed under the Apple Developer Enterprise Program License Agreement).
+
+**6.2 Reservation of Rights**
+
+While in no way limiting Apple’s other rights under the Agreement, or any other remedies at law or equity, if Apple has reason to believe You or Your Applications have failed to comply with any of the requirements of this Attachment or the Agreement, Apple reserves the right to revoke Your access to any or all of the APIs associated with this Attachment immediately upon notice to You; require You to remove from Your Application an entitlement profile associated with this Attachment; block updates of, hide, or remove Your Applications from the App Store; block Your Applications from distribution or updates on Apple platforms; and/or to suspend or remove You from the Apple Developer Program.
+
 ### Schedule 1
 
 #### 1\. Appointment of Agent
@@ -14634,8 +14887,10 @@ EC4Y 1EU
 United Kingdom  
 https://www.cedr.com/p2bmediation/
 
-LYL223  
-October 8, 2025
+LYL229  
+December 17, 2025
+
+By clicking to agree to this Schedule 2, which is hereby offered to You by Apple, You agree with Apple to amend that certain Apple Developer Program License Agreement currently in effect between You and Apple (the “Agreement”) to add this Schedule 2 thereto (supplanting any existing Schedule 2). Except as otherwise provided herein, all capitalized terms shall have the meanings set forth in the Agreement.
 
 ### Schedule 2
 
@@ -14720,6 +14975,8 @@ You and Your Associated Developer Accounts will be disqualified from the App Sto
 
 Apple may withhold payments due to You and Your Associated Developer Accounts for violations of this provision.
 
+If You fail to timely and fully pay Apple any or all amounts due and owed by You to Apple under or in connection with any agreement in effect between Apple and You, to the extent permitted by law, Apple has the right, at any time and from time to time, to offset or recoup those amounts against any amounts (including any amounts collected by Apple on Your behalf from end users) owed under this Agreement, whether contingent, liquidated or otherwise, by Apple to You. You further agree that, to the extent permitted by law, Apple’s right under this Agreement to offset or recoup any amounts owed by You to Apple extends to any debts owed to Apple and its affiliates, parents, or subsidiaries, by You and your affiliates, parents, or subsidiaries, or to any parties acting directly or indirectly under Your direction, control, or common control (e.g. Your agent(s)), or under whose direction, control, or common control You act (e.g. Your principal(s)).
+
 Except as otherwise provided in Section 3.2 of this Schedule 2, Apple shall be entitled to the commissions specified in Section 3.4 hereof without reduction for any taxes or other government levies, including any and all taxes or other, similar obligations of You, Apple or any End-User relating to the delivery or use of the Licensed Applications. For sales of Licensed Applications developed by Apple, Apple is not entitled to a commission.
 
 **3.5** Upon collection of any amounts from any End-User as the price for any Licensed Application delivered to that End-User hereunder, Apple shall deduct the full amount of its commission with respect to that Licensed Application, and any taxes collected by Apple under Section 3.2 and 3.4 hereof, and shall remit to You, or issue a credit in Your favor, as the case may be, the remainder of those prices in accordance with Apple standard business practices, including the following: remittance payments (i) are made by means of wire transfer only; (ii) are subject to minimum monthly remittance amount thresholds; (iii) require You to provide certain remittance-related information on the App Store Connect site; and (iv) subject to the foregoing requirements, will be made no later than forty-five (45) days following the close of the monthly period in which the corresponding amount was received by Apple from the End-User. No later than forty-five (45) days following the end of each monthly period, Apple will make available to You on the App Store Connect site a sales report in sufficient detail to permit You to identify the Licensed Applications sold in that monthly period and the total amount to be remitted to You by Apple. You hereby acknowledge and agree that Apple shall be entitled to a commission, in accordance with this Section 3.5 on the delivery of any Licensed Application to any End-User, even if Apple is unable to collect the price for that Licensed Application from that End-User. In the event that the purchase price received by Apple from any End-User for any Licensed Application is in a currency other than the remittance currency agreed between Apple and You, the purchase price for that Licensed Application shall be converted to the remittance currency, and the amount to be remitted by Apple to You shall be determined, in accordance with an exchange rate fixed for the Delivery Period, as reflected in the App Store Connect tool as may be updated from time to time, pursuant to section 3.1 of this Schedule 2. Apple may provide a means on App Store Connect to enable You to designate a primary currency for the bank account designated by You for receiving remittances (“Designated Currency”). Apple may cause Apple’s bank to convert all remittances in any remittance currency other than the Designated Currency into the Designated Currency prior to remittance to You. You agree that any resulting currency exchange differentials or fees charged by Apple’s bank may be deducted from such remittances. You remain responsible for any fees (e.g., wire transfer fees) charged by Your bank or any intermediary banks between Your bank and Apple’s bank.
@@ -14798,7 +15055,7 @@ You agree that Apple shall have the right to deactivate the Offer Codes, even if
 
 **5.3** In the event that any region You designated hereunder requires the approval of, or rating of, any Licensed Application by any government or industry regulatory agency as a condition for the distribution, sale and/or use of that Licensed Application, You acknowledge and agree that Apple may elect not to make that Licensed Application available for download by End-Users in that region from any App Store.
 
-**5.4** Licensed Applications that are targeted at children or otherwise likely to appeal to children, and which pressure children to make purchases (including, but not limited to, phrases such as “buy now” or “upgrade now”) or persuade others to make purchases for them, should not be made available in any Territory that has deemed such marketing practices illegal. You expressly accept and agree to take full responsibility for Your Licensed Applications’ compliance with applicable laws pursuant to Section 5.1(c) of this Schedule 2, including without limitation consumer protection, marketing, and gaming laws. For more information on legal requirements of regions in the European Union, see https://ec.europa.eu/justice/consumer-marketing/unfairtrade/index\_en.htm.
+**5.4**Licensed Applications that are targeted at children or otherwise likely to appeal to children, and which pressure children to make purchases (including, but not limited to, phrases such as “buy now” or “upgrade now”) or persuade others to make purchases for them, should not be made available in any Territory that has deemed such marketing practices illegal. You expressly accept and agree to take full responsibility for Your Licensed Applications’ compliance with applicable laws pursuant to Section 5.1(c) of this Schedule 2, including without limitation consumer protection, marketing, and gaming laws.
 
 #### 6\. Responsibility and Liability
 
@@ -14892,6 +15149,8 @@ If the tax categorization of Your Custom Applications is deemed to be inaccurate
 
 For sales of Custom Applications to Custom App Distribution Customers, Apple shall be entitled to a commission equal to thirty percent (30%) of all prices payable by each Custom App Distribution Customer. Solely for auto-renewing subscription purchases made by customers who have accrued greater than one year of paid subscription service within a Subscription Group (as defined below) and notwithstanding any Retention Grace Periods or Renewal Extension Periods, Apple shall be entitled to a commission equal to fifteen percent (15%) of all prices payable by each End-User for each subsequent renewal. Retention Grace Period refers to the time period between the end of a customer’s subscription (e.g. due to cancelation or non-payment) and the beginning of a new subscription within the same Subscription Group, provided that such time period is no greater than 60 days, subject to change. Renewal Extension Period refers to the time by which You extend the renewal date of the customer’s subscription, without additional charges. For purposes of determining the commissions to which Apple is entitled under this Section 3.4, the prices payable by Custom App Distribution Customers shall be net of any and all taxes collected, as provided in Section 3.2 of this Schedule 3.
 
+If You fail to timely and fully pay Apple any or all amounts due and owed by You to Apple under or in connection with any agreement in effect between Apple and You, to the extent permitted by law, Apple has the right, at any time and from time to time, to offset or recoup those amounts against any amounts (including any amounts collected by Apple on Your behalf from end users) owed under this Agreement, whether contingent, liquidated or otherwise, by Apple to You. You further agree that, to the extent permitted by law, Apple’s right under this Agreement to offset or recoup any amounts owed by You to Apple extends to any debts owed to Apple and its affiliates, parents, or subsidiaries, by You and your affiliates, parents, or subsidiaries, or to any parties acting directly or indirectly under Your direction, control, or common control (e.g. Your agent(s)), or under whose direction, control, or common control You act (e.g. Your principal(s)).
+
 Except as otherwise provided in Section 3.2 of this Schedule 3, Apple shall be entitled to the commissions specified in Section 3.4 hereof without reduction for any taxes or other government levies, including any and all taxes or other, similar obligations of You, Apple or any Custom App Distribution Customer relating to the delivery or use of the Custom Applications. For sales of Licensed Applications and/or Custom Applications developed by Apple, Apple is not entitled to a commission.
 
 **3.5** Upon collection of any amounts from any Custom App Distribution Customer as the price for any Custom Application delivered to that Custom App Distribution Customer’s designated End-Users hereunder, Apple shall deduct the full amount of its commission with respect to that Custom Application, and any taxes collected by Apple under Section 3.2 and 3.4 hereof, and shall remit to You, or issue a credit in Your favor, as the case may be, the remainder of those prices in accordance with Apple standard business practices, including the following: remittance payments (i) are made by means of wire transfer only; (ii) are subject to minimum monthly remittance amount thresholds; (iii) require You to provide certain remittance-related information on the App Store Connect site; and (iv) subject to the foregoing requirements, will be made no later than forty-five (45) days following the close of the monthly period in which the corresponding amount was received by Apple from the End-User. No later than forty-five (45) days following the end of each monthly period, Apple will make available to You on the App Store Connect site a sales report in sufficient detail to permit You to identify the Custom Applications sold in that monthly period and the total amount to be remitted to You by Apple. You hereby acknowledge and agree that Apple shall be entitled to a commission, in accordance with this Section 3.5 on the delivery of any Content Codes to any Custom App Distribution Customer, even if Apple is unable to collect the price for that Custom Application from the Custom App Distribution Customer. In the event that the purchase price received by Apple from any Custom App Distribution Customer for any Custom Application is in a currency other than the remittance currency agreed between Apple and You, the purchase price for that Custom Application shall be converted to the remittance currency, and the amount to be remitted by Apple to You shall be determined, in accordance with an exchange rate fixed for the Delivery Period, as reflected in the App Store Connect tool, as may be updated from time to time, pursuant to section 3.1 of this Schedule 3. Apple may provide a means on App Store Connect to enable You to designate a primary currency for the bank account designated by You for receiving remittances (“Designated Currency”). Apple may cause Apple’s bank to convert all remittances in any remittance currency other than the Designated Currency into the Designated Currency prior to remittance to You. You agree that any resulting currency exchange differentials or fees charged by Apple’s bank may be deducted from such remittances. You remain responsible for any fees (e.g., wire transfer fees) charged by Your bank or any intermediary banks between Your bank and Apple’s bank.
@@ -14940,7 +15199,7 @@ In addition to using the In-App Purchase API, as set forth in Guideline 3.1.3(a)
 
 **5.3** In the event that any region You designated hereunder requires the approval of, or rating of, any Custom Application by any government or industry regulatory agency as a condition for the distribution, sale and/or use of that Custom Application, You acknowledge and agree that Apple may elect not to make that Custom Application available for purchase by Custom App Distribution Customers and/or download by End- Users in that region from the Custom App Distribution Site.
 
-**5.4** Custom Applications that are targeted at children or otherwise likely to appeal to children, and which pressure children to make purchases (including, but not limited to, phrases such as “buy now” or “upgrade now”) or persuade others to make purchases for them, should not be made available in any Territory that has deemed such marketing practices illegal. You expressly accept and agree to take full responsibility for Your Custom Applications’ compliance with applicable laws pursuant to Section 5.1(c) of this Schedule 3, including without limitation consumer protection, marketing, and gaming laws. For more information on legal requirements of regions in the European Union, see https://ec.europa.eu/justice/consumer-marketing/unfairtrade/index\_en.htm.
+**5.4** Custom Applications that are targeted at children or otherwise likely to appeal to children, and which pressure children to make purchases (including, but not limited to, phrases such as “buy now” or “upgrade now”) or persuade others to make purchases for them, should not be made available in any Territory that has deemed such marketing practices illegal. You expressly accept and agree to take full responsibility for Your Custom Applications’ compliance with applicable laws pursuant to Section 5.1(c) of this Schedule 3, including without limitation consumer protection, marketing, and gaming laws.
 
 #### 6\. Responsibility and Liability
 
