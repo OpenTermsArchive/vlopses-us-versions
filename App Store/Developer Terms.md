@@ -15274,7 +15274,7 @@ You appoint Apple Services Pte. Ltd. as Your commissionaire for the marketing a
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Albania  <br>Armenia  <br>Australia  <br>Austria  <br>Azerbaijan  <br>Bahamas  <br>Bahrain  <br>Barbados  <br>Belarus  <br>Belgium  <br>Benin  <br>Bosnia and  <br>Herzegovina  <br>Bulgaria  <br>Canada  <br>Cambodia\*\*  <br>Cameroon  <br>Chile  <br>China\*  <br>Colombia  <br>Croatia  <br>Cyprus | Czech Republic  <br>Denmark  <br>Egypt  <br>Estonia  <br>Finland  <br>France  <br>Georgia  <br>Germany  <br>Ghana  <br>Greece  <br>Hungary  <br>Iceland  <br>India  <br>Indonesia\*\*  <br>Ireland  <br>Italy  <br>Ivory Coast  <br>Japan\*\*\*  <br>Kazakhstan\*\*  <br>Kenya  <br>Korea\*\*  <br>Kosovo  <br>Kyrgyzstan\*\* | Laos  <br>Latvia  <br>Lithuania  <br>Luxembourg  <br>Malaysia  <br>Malta, Republic of  <br>Mexico\*\*\*\*  <br>Moldova  <br>Nepal\*\*  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Norway  <br>Oman  <br>Peru  <br>Philippines\*\*  <br>Poland  <br>Portugal  <br>Romania  <br>Russia\*\*\*  <br>Saudi Arabia  <br>Serbia  <br>Senegal  <br>Singapore\*\* | Slovakia  <br>Slovenia  <br>South Africa  <br>Spain  <br>Suriname  <br>Sweden  <br>Switzerland  <br>Taiwan  <br>Tajikistan\*\*  <br>Tanzania  <br>Thailand\*\*  <br>Türkiye  <br>Ukraine  <br>United Arab Emirates  <br>Uganda  <br>United Kingdom  <br>United States  <br>Uruguay†  <br>Uzbekistan\*\*  <br>Vietnam††  <br>Zambia  <br>Zimbabwe |
+| Albania  <br>Armenia  <br>Australia  <br>Austria  <br>Azerbaijan  <br>Bahamas  <br>Bahrain  <br>Barbados  <br>Belarus  <br>Belgium  <br>Benin  <br>Bhutan  <br>Bosnia and Herzegovina  <br>Bulgaria  <br>Canada  <br>Cambodia\*\*  <br>Cameroon  <br>Chile  <br>China\*  <br>Colombia  <br>Croatia  <br>Cyprus | Czech Republic  <br>Denmark  <br>Egypt  <br>Estonia  <br>Finland  <br>France  <br>Georgia  <br>Germany  <br>Ghana  <br>Greece  <br>Hungary  <br>Iceland  <br>India  <br>Indonesia\*\*  <br>Ireland  <br>Italy  <br>Ivory Coast  <br>Japan\*\*\*  <br>Kazakhstan\*\*  <br>Kenya  <br>Korea\*\*  <br>Kosovo  <br>Kyrgyzstan\*\* | Laos  <br>Latvia  <br>Lithuania  <br>Luxembourg  <br>Malaysia  <br>Malta  <br>Mauritius  <br>Mexico\*\*\*\*  <br>Moldova  <br>Nepal\*\*  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Norway  <br>Oman  <br>Peru  <br>Philippines\*\*  <br>Poland  <br>Portugal  <br>Romania  <br>Russia\*\*\*  <br>Saudi Arabia  <br>Serbia  <br>Senegal  <br>Singapore\*\* | Slovakia  <br>Slovenia  <br>South Africa  <br>Spain  <br>Suriname  <br>Sweden  <br>Switzerland  <br>Taiwan  <br>Tajikistan\*\*  <br>Tanzania  <br>Thailand\*\*  <br>Türkiye  <br>Ukraine  <br>United Arab Emirates  <br>Uganda  <br>United Kingdom  <br>United States  <br>Uruguay†  <br>Uzbekistan\*\*  <br>Vietnam††  <br>Zambia  <br>Zimbabwe |
 
 \* Except for certain taxes to be collected as required by the Chinese government, Apple shall not collect or remit additional taxes or levies in China. You understand and agree that You shall be solely responsible for the collection and remittance of any taxes as may be required by local law.
 
@@ -15404,21 +15404,35 @@ This Section 3.4 of Exhibit C applies to supplies of Licensed and Custom Applica
 
 If You are a resident of Chile, Apple will apply VAT on the commission payable by You to Apple to be deducted from Your remittance, pursuant to Chilean tax regulations, unless you confirm that you are a VAT taxpayer in such region and provide proof of your VAT status.
 
-**5\. JAPAN**
+**5\. IRELAND**
+
+**Irish Developers - Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers In or Outside Ireland**
+
+If You are established in Ireland and You appoint Apple Distribution International Ltd. as Your commissionaire to deliver Licensed and Custom Applications to End-Users and Custom App Distribution Customers, it is a condition of Schedule 2 and Schedule 3 that You confirm to Apple whether You are registered for Irish VAT. If You are registered for Irish VAT, You are required to provide Your Irish VAT number upon request.
+
+You must update Your account with Your respective Irish Tax ID when prompted in App Store Connect. You acknowledge that by not providing Your respective Irish Tax ID, Your Licensed or Custom Applications may be removed from the Irish Store or Your remittance payment under section 3.5 of Schedule 2 and section 3.5 of Schedule 3 may not be made for Your applicable Licensed or Custom Applications until such time as Your Irish Tax ID is provided.
+
+At request, You will provide Apple with satisfactory evidence of Your Irish Tax ID. You warrant that You will notify Apple if You cease to hold a valid Irish Tax ID.
+
+In order to comply with Apple’s obligations under applicable law to validate Your Irish Tax ID, Apple may use a service provider to complete the validation process and may transfer Your Irish Tax ID to our service provider for such purpose. Any personal data collected by Apple will be treated in accordance with Apple’s Privacy Policy which can be viewed at http://www.apple.com/legal/privacy.
+
+If You are registered for Irish VAT, Your proceeds received from ADIL are subject to Irish VAT at the prevailing rate. It is a condition of Schedule 2 and Schedule 3 that: (i) You and Apple agree and acknowledge that all supplies made by You through Apple as Your Commissionaire to End Users and Custom App Distribution Customers in Ireland constitute a taxable supply subject to VAT as defined in Irish VAT regulations; (ii) Apple will issue Self Billed Invoices (“SBIs”) with respect to such taxable supplies by You; (iii) if Apple does issue SBIs with respect to such taxable supplies by You, You will not issue tax invoices or adjustment notes in respect of those taxable supplies; and, (iv) You acknowledge and agree that You are solely responsible for determining independently, in consultation with Your own tax advisor, Your VAT obligations under Irish tax regulations.
+
+**6\. JAPAN**
 
 **(A) Japan Developers – Delivery of Licensed and Custom Applications to End-Users in Japan**
 
 Where You designate iTunes KK to allow access to the Licensed and Custom Applications to End-Users in Japan:
 
-5.1 You acknowledge and agree that You have the sole responsibility for: (i) consumption tax output liability, if any, with respect to delivery on Your behalf of Your Licensed and/or Custom Applications to End-Users by iTunes KK; (ii) filing of consumption tax returns and payment of consumption tax to the Japanese government, if applicable; and (iii) determining independently, in consultation with Your own tax advisor, Your taxpayer status and tax payment obligations, and appointing your own tax administrator for consumption tax purposes.
+6.1 You acknowledge and agree that You have the sole responsibility for: (i) consumption tax output liability, if any, with respect to delivery on Your behalf of Your Licensed and/or Custom Applications to End-Users by iTunes KK; (ii) filing of consumption tax returns and payment of consumption tax to the Japanese government, if applicable; and (iii) determining independently, in consultation with Your own tax advisor, Your taxpayer status and tax payment obligations, and appointing your own tax administrator for consumption tax purposes.
 
-5.2 Commissions charged by iTunes KK to Japan resident developers will include consumption tax.
+6.2 Commissions charged by iTunes KK to Japan resident developers will include consumption tax.
 
 **(B) Japan Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers Outside Japan**
 
 If Your principal or headquarters’ office is located in Japan and You appoint Apple as Your agent or commissionaire for the marketing and End-User and Custom App Distribution Customer download of the Licensed and Custom Applications by End-Users and Custom App Distribution Customers located outside of Japan, You shall reverse charge any Japanese consumption tax that is payable on the commissions received by Apple in consideration for its services as Your agent or commissionaire under Schedule 2 and Schedule 3.
 
-**6\. KOREA**
+**7\. KOREA**
 
 **Korean Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in Korea**
 
@@ -15432,13 +15446,13 @@ In order to comply with Apple’s obligations under applicable law to validate Y
 
 Pursuant to Korean tax regulations, Apple will apply Korean VAT on the commission payable by You to Apple to be deducted from Your remittance with respect to Your sales to Korean customers.
 
-**7\. MALAYSIA**
+**8\. MALAYSIA**
 
 **Malaysian Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in or outside Malaysia**
 
 If You are a resident of Malaysia and You appoint Apple as Your agent or commissionaire to deliver Licensed and Custom Applications to End-Users and Custom App Distribution Customers in the jurisdictions specified in Exhibit A, pursuant to Malaysian tax regulations, Apple will apply Malaysia Service Tax on the commission payable by You to Apple to be deducted from Your remittance.
 
-**8\. MEXICO**
+**9\. MEXICO**
 
 **Mexican Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in or outside Mexico**
 
@@ -15448,49 +15462,49 @@ Apple also will apply the withholding income tax rate applicable to individuals 
 
 If You are registered and have a valid tax ID in Mexico (known as the R.F.C), You must provide Apple with a copy of Your Mexican tax ID registration by uploading it using the App Store Connect tool. You warrant that You will notify Apple if You cease to hold a valid tax ID. If You do not provide proof to Apple of Your Mexican tax ID, Apple will apply the highest income tax rate in accordance with Mexican tax regulations.
 
-**9\. NEW ZEALAND**
+**10\. NEW ZEALAND**
 
-**9.1 General**
+**10.1 General**
 
-(a) Terms defined in the Goods and Services Tax Act 1985 (“GST Act 1985”) have the same meaning when used in Section 9 of Exhibit C.
+(a) Terms defined in the Goods and Services Tax Act 1985 (“GST Act 1985”) have the same meaning when used in Section 10 of Exhibit C.
 
-(b) This Section 9 of Exhibit C survives the termination of the Agreement.
+(b) This Section 10 of Exhibit C survives the termination of the Agreement.
 
-**9.2 Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in New Zealand**
+**10.2 Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in New Zealand**
 
 Where You designate APL to allow access to the Licensed and Custom Applications to End-Users and Custom App Distribution Customers in New Zealand:
 
-9.2.1 General
+10.2.1 General
 
 (a) You shall indemnify and hold APL harmless against any and all claims by the Inland Revenue for nonpayment or underpayment of GST under the GST Act 1985 and for any penalties and/or interest thereon.
 
-(b) This Section 9.2 of Exhibit C applies to supplies made by You, through APL as agent, to any End User or Custom App Distribution Customer who is resident in New Zealand.
+(b) This Section 10.2 of Exhibit C applies to supplies made by You, through APL as agent, to any End User or Custom App Distribution Customer who is resident in New Zealand.
 
 (c) You and Apple agree that APL is the operator of the electronic marketplace in respect of supplies made by You, through APL as agent, to any End-User or Custom App Distribution Customer who is resident in New Zealand, and is treated as the supplier of those supplies under s. 60C of the GST Act 1985 for GST purposes.
 
-9.2.2 Resident Developers
+10.2.2 Resident Developers
 
 (a) If You are a resident of New Zealand, You and APL agree under s.60(1C) of the GST Act 1985 that supplies of services made by You through APL as agent to any End-User or Custom App Distribution Customer resident in New Zealand, are treated as 2 separate supplies for GST purposes, being—
 
 1.  a supply of services from You to APL; and
 2.  a supply of those services from APL to the End-User or Custom App Distribution Customer resident in New Zealand.
 
-(b) You and APL acknowledge that the supply of services from You to APL for GST purposes under Section 9.2.2(a)(i) of this Exhibit C is not subject to GST under the GST Act 1985.
+(b) You and APL acknowledge that the supply of services from You to APL for GST purposes under Section 10.2.2(a)(i) of this Exhibit C is not subject to GST under the GST Act 1985.
 
-9.2.3 Non Resident Developers
+10.2.3 Non Resident Developers
 
 (a) If You are a non resident of New Zealand, You and Apple agree under s. 60(1B) of the GST Act 1985 that supplies of services made by You through APL as agent to any End-User or Custom App Distribution Customer resident in New Zealand, are treated as 2 separate supplies for GST purposes, being –
 
 1.  a supply of services from You to APL; and
 2.  a supply of those services from APL to the End-User or Custom App Distribution Customer resident in New Zealand.
 
-(b) You and APL acknowledge that the supply of services from You to APL for GST purposes under Section 9.2.3(a)(i) of this Exhibit C is not subject to GST under the GST Act 1985.
+(b) You and APL acknowledge that the supply of services from You to APL for GST purposes under Section 10.2.3(a)(i) of this Exhibit C is not subject to GST under the GST Act 1985.
 
-9.2.4 APL will issue to any End-User or Custom App Distribution Customer, in APL’s own name, the required documentation relating to supplies made under Section 9 of this Exhibit C.
+10.2.4 APL will issue to any End-User or Custom App Distribution Customer, in APL’s own name, the required documentation relating to supplies made under Section 10 of this Exhibit C.
 
-9.2.5 You will not issue to any End-User or Custom App Distribution Customer any documentation relating to supplies made under Section 9.2 of this Exhibit C.
+10.2.5 You will not issue to any End-User or Custom App Distribution Customer any documentation relating to supplies made under Section 10.2 of this Exhibit C.
 
-**9.3 New Zealand Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers Outside New Zealand**
+**10.3 New Zealand Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers Outside New Zealand**
 
 If You are a resident of New Zealand and You appoint Apple as Your agent or commissionaire for the marketing and End-User and Custom App Distribution Customer download of the Licensed and Custom Applications by End-Users and Custom App Distribution Customers located outside of New Zealand, You and Apple agree that under s.60C and 60(1C) of the GST Act 1985, supplies of services made by You through Apple as agent to any End-User or Custom App Distribution Customer resident outside of New Zealand are treated as 2 separate supplies for GST purposes under the GST Act 1985, being –
 
@@ -15499,13 +15513,13 @@ If You are a resident of New Zealand and You appoint Apple as Your agent or comm
 
 You and Apple acknowledge that the deemed supply of services from You to Apple under (i) above will not result in a GST cost to Apple under the GST Act 1985.
 
-**10\. PHILIPPINES**
+**11\. PHILIPPINES**
 
 **Philippines Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in Philippines**
 
 If You are a resident of Philippines and You appoint Apple as Your agent or commissionaire to deliver Licensed and Custom Applications to End-Users and Custom App Distribution Customers in the jurisdictions specified in Exhibit A, it is a condition of Schedule 2 and Schedule 3 that You confirm to Apple that You are either: (i) a Philippine government or any of its political subdivisions, instrumentalities, or agencies; or, (ii) engaged in business. If You are engaged in business, you are required to provide your Philippines Taxpayer Identification Number (TIN) upon request by Apple.
 
-**11\. SINGAPORE**
+**12\. SINGAPORE**
 
 **Singapore Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in or outside Singapore**
 
@@ -15515,13 +15529,13 @@ If You are not registered for Singapore GST or do not provide Your Singapore GST
 
 If You are registered for Singapore GST and have provided Your Singapore GST registration number to Apple, pursuant to Singapore tax regulations, Apple will apply Singapore GST on the commissions payable by You to Apple to be deducted from Your remittance with respect to Your sales to customers based in the countries and regions where You Appoint Apple Services Pte. Ltd. as Your commissionaire.
 
-**12\. TAIWAN**
+**13\. TAIWAN**
 
 **Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in Taiwan**
 
 If You file Income Tax in Taiwan and You appoint Apple Distribution International Ltd. as Your agent or commissionaire to deliver Licensed and Custom Applications to End-Users and Custom App Distribution Customers in Taiwan, it is a condition of Schedule 2 and Schedule 3 that You provide Apple your unified business number in Taiwan if you are business or your personal identification card number in Taiwan if You are an individual (collectively “Taiwan Tax ID”).
 
-**13\. THAILAND**
+**14\. THAILAND**
 
 **Thailand Developers – Delivery of Licensed and Custom Applications to End-Users and Custom App Distribution Customers in Thailand**
 
@@ -15529,19 +15543,19 @@ If You are a resident of Thailand and You appoint Apple as Your agent or commiss
 
 If You are not registered for Thailand VAT or do not provide Your Thailand VAT registration number to Apple, pursuant to Thailand tax regulations, Apple will apply Thailand VAT on the commission payable by You to Apple to be deducted from Your remittance with respect to your sales to Thailand customers.
 
-**14\. UNITED STATES**
+**15\. UNITED STATES**
 
 **Delivery of Licensed and Custom Applications to End-Users in the United States**
 
 Where You designate Apple Inc. to allow access to the Licensed and Custom Applications to End-Users in the United States:
 
-14.1 If You are not a resident of the United States for U.S. federal income tax purposes, You will complete Internal Revenue Service Form W-8BEN and/or any other required tax forms and provide Apple with a copy of such completed form(s), and any other information necessary for compliance with applicable tax laws and regulations, as instructed on the App Store Connect site.
+15.1 If You are not a resident of the United States for U.S. federal income tax purposes, You will complete Internal Revenue Service Form W-8BEN and/or any other required tax forms and provide Apple with a copy of such completed form(s), and any other information necessary for compliance with applicable tax laws and regulations, as instructed on the App Store Connect site.
 
-14.2 If Apple, in its reasonable belief, determines that any state or local sales, use or similar transaction tax may be due from Apple or You in connection with the sale or delivery of any of the Licensed and Custom Applications, Apple will collect and remit those taxes to the competent tax authorities. To the extent that the incidence of any such tax, or responsibility for collecting that tax, falls upon You, You authorize Apple to act on Your behalf in collecting and remitting that tax, but to the extent that Apple has not collected any such tax, or has not received reimbursement for that tax, from End-Users, You shall remain primarily liable for the tax, and You will reimburse Apple for any tax payments that Apple is required to make, but is not otherwise able to recover.
+15.2 If Apple, in its reasonable belief, determines that any state or local sales, use or similar transaction tax may be due from Apple or You in connection with the sale or delivery of any of the Licensed and Custom Applications, Apple will collect and remit those taxes to the competent tax authorities. To the extent that the incidence of any such tax, or responsibility for collecting that tax, falls upon You, You authorize Apple to act on Your behalf in collecting and remitting that tax, but to the extent that Apple has not collected any such tax, or has not received reimbursement for that tax, from End-Users, You shall remain primarily liable for the tax, and You will reimburse Apple for any tax payments that Apple is required to make, but is not otherwise able to recover.
 
-14.3 In the event that You incur liability for income tax, franchise tax, business and occupation tax, or any similar taxes based on Your income, You shall be solely responsible for that tax.
+15.3 In the event that You incur liability for income tax, franchise tax, business and occupation tax, or any similar taxes based on Your income, You shall be solely responsible for that tax.
 
-**15\. END-USERS IN REGIONS LISTED IN EXHIBIT A, SECTION 2**
+**16\. END-USERS IN REGIONS LISTED IN EXHIBIT A, SECTION 2**
 
 **Delivery of Licensed and Custom Applications to End-Users in regions listed in Exhibit A, Section 2**
 
@@ -15549,7 +15563,7 @@ Where You designate Apple Distribution International Ltd., located at Hollyhill 
 
 You acknowledge that in the event Apple Distribution International Ltd. is subject to any sales, use, goods and services, value added, or other tax or levy with respect to any remittance to You, the full amount of such tax or levy shall be solely for Your account. For the avoidance of doubt, any invoice issued by You to Apple Distribution International Ltd. will be limited to amounts actually due to You, which amounts shall be inclusive of any value added or other tax or levy as set forth above. You will indemnify and hold Apple harmless against any and all claims by any competent tax authorities for any underpayment of any such sales, use, goods and services, value added, or other tax or levy, and any penalties and/or interest thereon.
 
-**16\. VIETNAM**
+**17\. VIETNAM**
 
 **Delivery of Licensed and Custom Applications to End-Users in Vietnam**
 
