@@ -1824,11 +1824,11 @@ APPLE SHALL NOT BE LIABLE FOR ANY COSTS, EXPENSES, DAMAGES, OR LOSSES ARISING FR
 
 **(to the Agreement)**
 
-**Additional Terms for iOS Apps in Japan**
+**Additional Terms for iOS Apps in Japan, Brazil**
 
 #### 1\. Definitions
 
-“**Alternative App Marketplace (Japan)**” means Your Application that has as its primary purpose the discovery and distribution of other Applications, and has obtained the relevant entitlement profile for doing so. For the purposes of this Attachment, “Applications” includes Your Applications as well as Applications from other developers unless otherwise specified.
+“**Alternative App Marketplace (Japan, Brazil)**” means Your Application that has as its primary purpose the discovery and distribution of other Applications, and has obtained the relevant entitlement profile for doing so. For the purposes of this Attachment, “Applications” includes Your Applications as well as Applications from other developers unless otherwise specified.
 
 “**Alternative Payment Processing**” means providing a payment system (“Alternative Payment System”) that is not Apple's in-app purchase system for selling digital goods and services within Your Application that is distributed on the App Store, in accordance with the requirements of Section 3 of this Attachment.
 
@@ -1836,66 +1836,68 @@ APPLE SHALL NOT BE LIABLE FOR ANY COSTS, EXPENSES, DAMAGES, OR LOSSES ARISING FR
 
 “**Apple Materials**” means the Documentation, entitlement profiles, and other materials provided by Apple to You, and which are incorporated by reference into the requirements of Section 3 of this Attachment.
 
-“**Licensed Application**” means an Application that (a) meets and complies with all of the Documentation and Program Requirements, and (b) has been selected and digitally signed by Apple for distribution, including via an Alternative App Marketplace (Japan), or as an Alternative App Marketplace (Japan), and includes any additional functionality, content, or services provided by You from within such Application using the In-App Purchase API or otherwise.
+“**Japan, Brazil**” means Japan and/or Brazil, as applicable.
+
+“**Licensed Application**” means an Application that (a) meets and complies with all of the Documentation and Program Requirements, and (b) has been selected and digitally signed by Apple for distribution, including via an Alternative App Marketplace (Japan, Brazil), or as an Alternative App Marketplace (Japan, Brazil), and includes any additional functionality, content, or services provided by You from within such Application using the In-App Purchase API or otherwise.
 
 “**Licensed Application Information**” means screenshots, images, artwork, previews, icons, and/or any other text, descriptions, representations, or information relating to a Licensed Application that You provide to Apple for use in accordance with this Attachment, Schedule 2 and 3 to the Agreement (“Paid Applications Agreement”), and/or Schedule 1 to the Agreement.
 
-“**Marketplace Website (Japan)**” means a website that You own, operate, and have registered with Apple, from which You distribute Your Alternative App Marketplace (Japan). Requirements for Your Marketplace Website (Japan) apply only to the aspects of Your Marketplace Website (Japan) used in connection with the marketing, sale, or distribution of Your Alternative App Marketplace (Japan).
+“**Marketplace Website (Japan, Brazil)**” means a website that You own, operate, and have registered with Apple, from which You distribute Your Alternative App Marketplace (Japan, Brazil). Requirements for Your Marketplace Website (Japan, Brazil) apply only to the aspects of Your Marketplace Website (Japan, Brazil) used in connection with the marketing, sale, or distribution of Your Alternative App Marketplace (Japan, Brazil).
 
 “**Out-of-App Offers**” means directing end users from Your Application that is distributed on the App Store to a website to purchase digital goods and services in accordance with the requirements of Section 3 of this Attachment. You may choose to do so using an actionable link (i.e., a link that can be tapped or scanned) that opens in the default web browser app.
 
-#### 2\. Alternative Distribution on iOS in Japan
+#### 2\. Alternative Distribution on iOS in Japan, Brazil
 
-**2.1 Alternative App Marketplaces (Japan)**
+**2.1 Alternative App Marketplaces (Japan, Brazil)**
 
-**A.** You must obtain an entitlement profile for Your Application for it to be an Alternative App Marketplace (Japan); the entitlement profile is compatible only with devices in Japan on iOS 26.2, or later. You must request access on the Apple Developer Program web portal to distribute Your Alternative App Marketplace (Japan) through Your Marketplace Website (Japan); distribution through Your Marketplace Website (Japan) is compatible only with devices in Japan on iOS 26.2, or later.
+**A.** You must obtain an entitlement profile for Your Application for it to be an Alternative App Marketplace (Japan, Brazil). The entitlement profile for Japan is compatible only with devices in Japan on iOS 26.2, or later. The entitlement profile for Brazil is compatible only with devices in Brazil on iOS 26.5 or later. You must request access on the Apple Developer Program web portal to distribute Your Alternative App Marketplace (Japan, Brazil) through Your Marketplace Website (Japan, Brazil); distribution through Your Marketplace Website (Japan, Brazil) is compatible only with devices in Japan on iOS 26.2 or later, and only with devices in Brazil on iOS 26.5 or later.
 
-In addition to the requirements in the Agreement and the Apple Materials, the following requirements must be met for an Alternative App Marketplace (Japan):
+In addition to the requirements in the Agreement and the Apple Materials, the following requirements must be met for an Alternative App Marketplace (Japan, Brazil):
 
 *   You must be enrolled in the Apple Developer Program as an organization.
 *   You must meet at least one of the following criteria, as demonstrated by you providing the relevant information to Apple as specified in the Apple Materials:
     *   Be a member of good standing in the Apple Developer Program for two (2) continuous years or more, and have an Application that had more than one (1) million First Annual Installs on iOS and/or iPadOS worldwide in the prior calendar year. A “First Annual Install” is the first time in a twelve-month period that an Apple account (Apple Account or Managed Apple Account) installs Your Application on iOS and/or iPadOS. This installation may occur after a download, redownload, or update of an Application distributed through the App Store, TestFlight, as a Custom Application, or through alternative distribution.
-    *   Provide Apple with a standby letter of credit from a BBB- or better rated (or equivalent by S&P, Fitch, or Moody’s) financial institution in the amount of at least USD 1 million (or equivalent amount in local currency) according to the instructions specified in the Apple Materials, and maintain that standby letter of credit for at least 6 months after Your Alternative App Marketplace (Japan) begins distributing apps to customers.
+    *   Provide Apple with a standby letter of credit from a BBB- or better rated (or equivalent by S&P, Fitch, or Moody’s) financial institution in the amount of at least USD 1 million (or equivalent amount in local currency) according to the instructions specified in the Apple Materials, and maintain that standby letter of credit for at least 6 months after Your Alternative App Marketplace (Japan, Brazil) begins distributing apps to customers.
 *   Your Application must:
-    *   Be a new binary that is distributed solely on iOS in Japan (except for any other jurisdiction or Apple platform expressly permitted by Apple under the Agreement (including any addenda) for which You have likewise obtained a corresponding entitlement profile); and
+    *   Be a new binary that is distributed solely on iOS in Japan and/or Brazil (except for any other jurisdiction or Apple platform expressly permitted by Apple under the Agreement (including any addenda) for which You have likewise obtained a corresponding entitlement profile); and
     *   Have as its primary purpose discovery and distribution of Applications; and
-    *   Be distributed only from Your Marketplace Website (Japan).
+    *   Be distributed only from Your Marketplace Website (Japan, Brazil).
 *   You must:
     *   Provide and publish terms, including those pertaining to content and business model, for Applications that You intend to distribute, and accept Applications that meet those terms, including Applications from other developers; or
-    *   Distribute only Your own Applications, on iOS in Japan.
+    *   Distribute only Your own Applications, on iOS in Japan and/or Brazil.
 *   You must publish transparent data collection policies and offer users control over how their data is collected and used;
 *   You must acknowledge that You will comply with applicable laws of the jurisdictions in which You operate, including, e.g., laws on provision of digital goods or services, or marketplaces, data protection and consumer protection;
-*   You must provide a mechanism for end users, Apple, developers of Applications on Your Alternative App Marketplace (Japan), and other parties to notify You of intellectual property disputes related to Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), and/or Applications distributed on Your Alternative App Marketplace (Japan), and handle them accordingly. If You become aware that content in Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or an Application on Your Alternative App Marketplace (Japan) infringes the intellectual property of Apple or others, or permits others to do so, You must act expeditiously to remove or disable access to that content. You will remove, after having issued a prior warning, developers of Applications on Your Alternative App Marketplace (Japan) that frequently provide infringing content;
-*   You must be responsible for handling governmental and other requests to take down listings for an Application distributed on Your Alternative App Marketplace (Japan) on the grounds that it is illegal, violates the intellectual property rights of Apple or others, and/or violates Your terms for Applications;
-*   You must engage in ongoing monitoring and detection of fraudulent, malicious, or illegal activity in Your Marketplace Website (Japan) or Your Applications (including Your Alternative App Marketplace (Japan)), or fraudulent, malicious, or illegal developers or Applications in Your Alternative App Marketplace (Japan), and take appropriate action when You detect such activity, Applications, or developers;
-*   You must be responsive to communications from Apple regarding Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or Applications distributed on Your Alternative App Marketplace (Japan) or Your Marketplace Website (Japan), particularly regarding any fraudulent, malicious, or illegal behavior, or anything else that Apple believes impacts the safety, security, or privacy of end users;
-*   You must not infringe the intellectual property of Apple or others, and You must not distribute through Your Alternative App Marketplace (Japan) any Applications that infringe the intellectual property of Apple or others. You must implement a mechanism for reviewing other developers’ Applications for intellectual property infringement prior to distributing them through Your Alternative App Marketplace (Japan);
-*   You may not scrape, mine, retrieve, cache, analyze, or index metadata, including developer or app metadata, from the App Store for use by Your Alternative App Marketplace (Japan) or Your Marketplace Website (Japan). For clarity, this does not prohibit Your use of any metadata that a developer submits directly to You, Your own metadata, or metadata directly acquired by You under applicable law. Furthermore, You may not use or repurpose any end user ratings or reviews created for the App Store in a manner that suggests the review was written or created for anyone other than the App Store; and;
-*   Restoration (i.e., via iOS backups to iCloud or a computer) and redownloading of Applications distributed by Your Alternative App Marketplace (Japan) or of Your Alternative App Marketplace (Japan) must be free of charge.
+*   You must provide a mechanism for end users, Apple, developers of Applications on Your Alternative App Marketplace (Japan, Brazil), and other parties to notify You of intellectual property disputes related to Your Alternative App Marketplace (Japan, Brazil), Your Marketplace Website (Japan, Brazil), and/or Applications distributed on Your Alternative App Marketplace (Japan, Brazil), and handle them accordingly. If You become aware that content in Your Alternative App Marketplace (Japan, Brazil), Your Marketplace Website (Japan, Brazil), or an Application distributed on Your Alternative App Marketplace (Japan, Brazil) infringes the intellectual property of Apple or others, or permits others to do so, You must act expeditiously to remove or disable access to that content. You will remove, after having issued a prior warning, developers of Applications on Your Alternative App Marketplace (Japan, Brazil) that frequently provide infringing content;
+*   You must be responsible for handling governmental and other requests to take down listings for an Application distributed on Your Alternative App Marketplace (Japan, Brazil) on the grounds that it is illegal, violates the intellectual property rights of Apple or others, and/or violates Your terms for Applications;
+*   You must engage in ongoing monitoring and detection of fraudulent, malicious, or illegal activity in Your Marketplace Website (Japan, Brazil) or Your Applications (including Your Alternative App Marketplace (Japan, Brazil), or fraudulent, malicious, or illegal developers or Applications in Your Alternative App Marketplace (Japan, Brazil), and take appropriate action when You detect such activity, Applications, or developers;
+*   You must be responsive to communications from Apple regarding Your Alternative App Marketplace (Japan, Brazil), Your Marketplace Website (Japan, Brazil), or Applications distributed on Your Alternative App Marketplace (Japan, Brazil) or Your Marketplace Website (Japan, Brazil), particularly regarding any fraudulent, malicious, or illegal behavior, or anything else that Apple believes impacts the safety, security, or privacy of end users;
+*   You must not infringe the intellectual property of Apple or others, and You must not distribute through Your Alternative App Marketplace (Japan, Brazil) any Applications that infringe the intellectual property of Apple or others. You must implement a mechanism for reviewing other developers’ Applications for intellectual property infringement prior to distributing them through Your Alternative App Marketplace (Japan, Brazil);
+*   You may not scrape, mine, retrieve, cache, analyze, or index metadata, including developer or app metadata, from the App Store for use by Your Alternative App Marketplace (Japan, Brazil) or Your Marketplace Website (Japan, Brazil). For clarity, this does not prohibit Your use of any metadata that a developer submits directly to You, Your own metadata, or metadata directly acquired by You under applicable law. Furthermore, You may not use or repurpose any end user ratings or reviews created for the App Store in a manner that suggests the review was written or created for anyone other than the App Store; and;
+*   Restoration (i.e., via iOS backups to iCloud or a computer) and redownloading of Applications distributed by Your Alternative App Marketplace (Japan, Brazil) or of Your Alternative App Marketplace (Japan, Brazil) must be free of charge.
 
-**B.** In addition, to help verify that installations of Applications from Your Alternative App Marketplace (Japan) or of Your Alternative App Marketplace (Japan) are valid, Your Alternative App Marketplace (Japan) must:
+**B.** In addition, to help verify that installations of Applications from Your Alternative App Marketplace (Japan, Brazil) or of Your Alternative App Marketplace (Japan, Brazil) are valid, Your Alternative App Marketplace (Japan, Brazil) must:
 
-*   Provide the install verification token as part of the URLs starting with the scheme as defined by MarketplaceKit for each installation (including initial installation, redownloads, updates, and any other form of installation) of Your Alternative App Marketplace (Japan); and
-*   Provide the install verification token as part of the URLs starting with the scheme as defined by MarketplaceKit for each installation (including initial installation, redownloads, updates, and any other form of installation) of an Application from Your Alternative App Marketplace (Japan).
+*   Provide the install verification token as part of the URLs starting with the scheme as defined by MarketplaceKit for each installation (including initial installation, redownloads, updates, and any other form of installation) of Your Alternative App Marketplace (Japan, Brazil); and
+*   Provide the install verification token as part of the URLs starting with the scheme as defined by MarketplaceKit for each installation (including initial installation, redownloads, updates, and any other form of installation) of an Application from Your Alternative App Marketplace (Japan, Brazil).
 
-**2.2 Applications distributed on an Alternative App Marketplace (Japan)**
+**2.2 Applications distributed on an Alternative App Marketplace (Japan, Brazil)**
 
-**A.** Entitlement profiles You request that are available for Applications when they are distributed on the App Store on iOS in Japan may be used for Applications when they are distributed on Alternative App Marketplaces (Japan) on iOS in Japan, unless otherwise noted by Apple. Entitlement profiles that pertain to digital commerce in App Store apps may only be used by Applications when they are distributed on the App Store. This includes the entitlement profile for Out-of-App Offers or offering Alternative Payment Processing under this Attachment.
+**A.** Entitlement profiles You request that are available for Applications when they are distributed on the App Store on iOS in Japan and/or Brazil may be used for Applications when they are distributed on Alternative App Marketplaces (Japan, Brazil) on iOS in Japan and/or Brazil, unless otherwise noted by Apple. Entitlement profiles that pertain to digital commerce in App Store apps may only be used by Applications when they are distributed on the App Store. This includes the entitlement profile for Out-of-App Offers or offering Alternative Payment Processing under this Attachment.
 
-**B.** Apple reserves the right to communicate with any Alternative App Marketplace (Japan) through which Your Application is distributed about the status of Your Application, any fraudulent, malicious, or illegal behavior associated with Your Application, and anything else that Apple believes impacts the safety, security, or privacy of end users.
+**B.** Apple reserves the right to communicate with any Alternative App Marketplace (Japan, Brazil) through which Your Application is distributed about the status of Your Application, any fraudulent, malicious, or illegal behavior associated with Your Application, and anything else that Apple believes impacts the safety, security, or privacy of end users.
 
 **C.** Your Application must not infringe the intellectual property of Apple or others. If You become aware that content in Your Application infringes the intellectual property of Apple or others, You must act expeditiously to remove or disable access to that content.
 
 **2.3 General Terms for Alternative Distribution**
 
-**A.** The terms of this Section 2.3 apply to Alternative App Marketplaces (Japan), Your Marketplace Website (Japan), and Applications distributed on Alternative App Marketplaces (Japan).
+**A.** The terms of this Section 2.3 apply to Alternative App Marketplaces (Japan, Brazil), Your Marketplace Website (Japan, Brazil), and Applications distributed on Alternative App Marketplaces (Japan, Brazil).
 
-**B.** To be available for installation on iOS, Alternative App Marketplaces (Japan) and Applications distributed on Alternative App Marketplaces (Japan) must follow the terms of the Agreement, including the Notarization Review Guidelines.
+**B.** To be available for installation on iOS, Alternative App Marketplaces (Japan, Brazil) and Applications distributed on Alternative App Marketplaces (Japan, Brazil) must follow the terms of the Agreement, including the Notarization Review Guidelines.
 
-**C.** Terms of the Agreement (Sections 1-14, and all Attachments, Schedules, and Exhibits) that apply to Applications or Licensed Applications (including when distributed on the App Store), also apply to Applications and Licensed Applications when they are distributed on Alternative App Marketplaces (Japan), as well as Alternative App Marketplaces (Japan), except as follows:
+**C.** Terms of the Agreement (Sections 1-14, and all Attachments, Schedules, and Exhibits) that apply to Applications or Licensed Applications (including when distributed on the App Store), also apply to Applications and Licensed Applications when they are distributed on Alternative App Marketplaces (Japan, Brazil), as well as Alternative App Marketplaces (Japan, Brazil), except as follows:
 
 *   **Section 3.3.4(A)(iii);**
-*   Notwithstanding **Section 3.3.9(C)** of the Agreement, use of Apple Pay APIs for purchases (including digital or physical) by Applications when they are distributed on Alternative App Marketplaces (Japan), as well as by Alternative App Marketplaces (Japan), is permitted, provided You follow the Acceptable Use Guidelines for Apple Pay on the Web and have accepted the applicable Apple Pay Platform Web Terms and Conditions and related agreements. For the purposes of this Attachment, when You use the Apple Pay APIs in this manner, the meaning of "website" in the Acceptable Use Guidelines for Apple Pay on the Web, and "Website" in the Apple Pay Platform Web Terms and Conditions and related agreements, includes Your Applications that use the Apple Pay Platform to facilitate transactions;
+*   Notwithstanding **Section 3.3.9(C)** of the Agreement, use of Apple Pay APIs for purchases (including digital or physical) by Applications when they are distributed on Alternative App Marketplaces (Japan, Brazil), as well as by Alternative App Marketplaces (Japan, Brazil), is permitted, provided You follow the Acceptable Use Guidelines for Apple Pay on the Web and have accepted the applicable Apple Pay Platform Web Terms and Conditions and related agreements. For the purposes of this Attachment, when You use the Apple Pay APIs in this manner, the meaning of "website" in the Acceptable Use Guidelines for Apple Pay on the Web, and "Website" in the Apple Pay Platform Web Terms and Conditions and related agreements, includes Your Applications that use the Apple Pay Platform to facilitate transactions;
 *   **Section 6.3**
 *   **Section 7.1** and **Section 7.2**
 *   **Attachment 2**; and
@@ -1903,35 +1905,44 @@ In addition to the requirements in the Agreement and the Apple Materials, the fo
 
 This **Section 2.3(C)** has no bearing on the terms of the Agreement that apply to Applications and Licensed Applications when they are distributed on the App Store, even if the bundle ID is the same.
 
-**D.** Metadata You provide Apple through App Store Connect or the Marketplace Search API for Your Alternative App Marketplace (Japan), or Your or other developers’ Applications distributed on an Alternative App Marketplace (Japan) must be suitable for all audiences (age 4+).
+**D.** Metadata You provide Apple through App Store Connect or the Marketplace Search API for Your Alternative App Marketplace (Japan, Brazil), or Your or other developers’ Applications distributed on an Alternative App Marketplace (Japan, Brazil) must be suitable for all audiences (age 4+).
 
-**E.** Notwithstanding the terms of the Agreement, You give Apple permission to use Your Licensed Application Information submitted through App Store Connect, and any such metadata provided by an Alternative App Marketplace (Japan) that distributes Your Licensed Application and integrates with the Marketplace Search API, for search and discovery of content through iOS on iOS devices. In addition, You agree that unless You inform Apple otherwise in writing, Apple may use Your submitted metadata at Apple Developer events (e.g., the Worldwide Developers Conference, online videos) and in developer documentation.
+**E.** Notwithstanding the terms of the Agreement, You give Apple permission to use Your Licensed Application Information submitted through App Store Connect, and any such metadata provided by an Alternative App Marketplace (Japan, Brazil) that distributes Your Licensed Application and integrates with the Marketplace Search API, for search and discovery of content through iOS on iOS devices. In addition, You agree that unless You inform Apple otherwise in writing, Apple may use Your submitted metadata at Apple Developer events (e.g., the Worldwide Developers Conference, online videos) and in developer documentation.
 
-**F.** You certify that each of the Applications You deliver to Apple for which You indicate intent to distribute as an Alternative App Marketplace (Japan), or intent to distribute through an Alternative App Marketplace (Japan), is authorized for export from the United States to anywhere in Japan where You distribute, in accordance with the requirements of all applicable laws, including but not limited to the United States Export Administration Regulations, 15 C.F.R. Parts 730-774 and the applicable local laws. You further represent and warrant that all versions of the Licensed Applications You deliver to Apple are not subject to the International Traffic in Arms Regulations 22 C.F.R. Parts 120-130 and are not designed, made, modified, or configured for any military end users or end uses as defined and scoped in 15 C.F.R § 744. Without limiting the generality of this **Section 2.3(F)** You certify that: (i) none of the Applications contains, uses, or supports any data encryption or cryptographic functions; or (ii) in the event that any Application contains, uses or supports any such data encryption or cryptographic functionality, You certify that You have complied with the United States Export Administration Regulations as well as the applicable local laws, and are in possession of, and will, upon request, provide Apple with PDF copies of export classification rulings (“CCATS”)  issued by the United States Commerce Department, Bureau of Industry and Security (“BIS”), or any self-classification reports submitted to the BIS, and appropriate authorizations from other regions that mandate import authorizations for that Application, as required. For clarity, if You engage a Service Provider to assist You in using the Apple Software and Services provided pursuant to this Attachment, in addition to the other requirements set forth in the Agreement, such Service Provider must comply with the requirements set forth in **Section 14.8** of the Agreement.
+**F.** You certify that each of the Applications You deliver to Apple for which You indicate intent to distribute as an Alternative App Marketplace (Japan, Brazil), or intent to distribute through an Alternative App Marketplace (Japan, Brazil), is authorized for export from the United States to anywhere in Japan where You distribute, in accordance with the requirements of all applicable laws, including but not limited to the United States Export Administration Regulations, 15 C.F.R. Parts 730-774 and the applicable local laws. You further represent and warrant that all versions of the Licensed Applications You deliver to Apple are not subject to the International Traffic in Arms Regulations 22 C.F.R. Parts 120-130 and are not designed, made, modified, or configured for any military end users or end uses as defined and scoped in 15 C.F.R § 744. Without limiting the generality of this **Section 2.3(F)** You certify that: (i) none of the Applications contains, uses, or supports any data encryption or cryptographic functions; or (ii) in the event that any Application contains, uses or supports any such data encryption or cryptographic functionality, You certify that You have complied with the United States Export Administration Regulations as well as the applicable local laws, and are in possession of, and will, upon request, provide Apple with PDF copies of export classification rulings (“CCATS”)  issued by the United States Commerce Department, Bureau of Industry and Security (“BIS”), or any self-classification reports submitted to the BIS, and appropriate authorizations from other regions that mandate import authorizations for that Application, as required. For clarity, if You engage a Service Provider to assist You in using the Apple Software and Services provided pursuant to this Attachment, in addition to the other requirements set forth in the Agreement, such Service Provider must comply with the requirements set forth in **Section 14.8** of the Agreement.
 
-**G.** Your Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or Application distributed on an Alternative App Marketplace (Japan), must not infringe Apple’s intellectual property or appear confusingly similar to the App Store or an Apple product, service, interface, computer software application, or advertising theme (including, but not limited to, use of App Store, TestFlight, App Store Connect, the App Store icon, the TestFlight icon, and the App Store Connect icon). You shall not apply for or register a trademark, service mark, or copyright for or incorporating an Apple trademark, service mark, graphic symbol, logo, icon, trade dress, slogan, or similar variation as a company, product, or service name (including the name of Your Alternative App Marketplace (Japan) or Your Marketplace Website (Japan)). You shall not, indirectly or directly, suggest or imply that Apple recommends, endorses, or sponsors You, the Alternative App Marketplace (Japan), Your Marketplace Website (Japan), or any Application. Absent an express written license, use of an Apple trademark, service mark, trade dress, slogan, graphic symbol, logo, icon, or similar variation in a manner suggesting or implying affiliation, endorsement, or sponsorship by Apple violates the terms of this Agreement.
+**G.** Your Alternative App Marketplace (Japan, Brazil), Your Marketplace Website (Japan, Brazil), or Application distributed on an Alternative App Marketplace (Japan, Brazil), must not infringe Apple’s intellectual property or appear confusingly similar to the App Store or an Apple product, service, interface, computer software application, or advertising theme (including, but not limited to, use of App Store, TestFlight, App Store Connect, the App Store icon, the TestFlight icon, and the App Store Connect icon). You shall not apply for or register a trademark, service mark, or copyright for or incorporating an Apple trademark, service mark, graphic symbol, logo, icon, trade dress, slogan, or similar variation as a company, product, or service name (including the name of Your Alternative App Marketplace (Japan, Brazil) or Your Marketplace Website (Japan, Brazil)). You shall not, indirectly or directly, suggest or imply that Apple recommends, endorses, or sponsors You, the Alternative App Marketplace (Japan, Brazil), Your Marketplace Website (Japan, Brazil), or any Application. Absent an express written license, use of an Apple trademark, service mark, trade dress, slogan, graphic symbol, logo, icon, or similar variation in a manner suggesting or implying affiliation, endorsement, or sponsorship by Apple violates the terms of this Agreement.
 
-**H.** Your Alternative App Marketplace (Japan), or Application distributed on an Alternative App Marketplace (Japan), may not aggregate and display links that direct end users to the App Store (for example, as a storefront or marketplace).
+**H.** Your Alternative App Marketplace (Japan, Brazil), or Application distributed on an Alternative App Marketplace (Japan, Brazil), may not aggregate and display links that direct end users to the App Store (for example, as a storefront or marketplace).
 
-**I.** Your Alternative App Marketplace (Japan), or Application distributed on an Alternative App Marketplace (Japan) must:
+**I.** Your Alternative App Marketplace (Japan, Brazil), or Application distributed on an Alternative App Marketplace (Japan, Brazil) must:
 
 *   Adopt MarketplaceKit in accordance with the Apple Materials; and
-*   Declare in the Info.plist whether Your Alternative App Marketplace (Japan), or Application distributed on an Alternative App Marketplace (Japan) offers digital goods and services for purchase, in accordance with the Apple Materials.
+*   Declare in the Info.plist whether Your Alternative App Marketplace (Japan, Brazil), or Application distributed on an Alternative App Marketplace (Japan, Brazil) offers digital goods and services for purchase, in accordance with the Apple Materials.
 
-#### 3\. App Store iOS Business Terms for Japan
+#### 3\. App Store iOS Business Terms for Japan and Brazil
 
 **3.1 Eligibility and Program Requirements for Alternative Payment Processing and Out-of-App Offers**
 
 **A.** To use Alternative Payment Processing or Out-of-App Offers, Your Application must:
 
-1.  Be distributed on iOS in the Japan storefront of the App Store; and
+1.  Be distributed on iOS in the Japan and/or Brazil storefront(s) of the App Store; and
 2.  Be submitted with the entitlement described in the Apple Materials.
 
-**B.** You must ensure that in the Japan storefront, Your Application does not offer:
+**B.** You must ensure that:
+
+In the Japan storefront, Your Application does not offer:
 
 *   Out-of-App Offers to any end user, if Your Application is in the Kids category of the App Store;
 *   Out-of-App Offers to end users who are under 13 years of age; or
+*   Out-of-App Offers to end users who are under 13 to under 18 years of age, unless You have provided those options behind a parental gate; or
 *   Alternative Payment Processing to end users under 18 years of age, or Out-of-App Offers to end users who are 13 to under 18 years of age, unless You have provided those options behind a parental gate.
+
+In the Brazil storefront, Your Application does not offer:
+
+*   Out-of-App Offers to any end user, if Your Application is in the Kids category of the App Store;
+*   Out-of-App offers to end users who are under 18 years of age; or
+*   Alternative Payment Processing to end users under 18 years of age, unless You have provided those options behind a parental gate.
 
 **C.** Your Application may not use disparaging language or visual treatments that discourage or interrupt use of Apple's in-app purchase system.
 
@@ -1949,7 +1960,7 @@ This **Section 2.3(C)** has no bearing on the terms of the Agreement that apply 
 
 **H.** TestFlight may be used for purposes of beta testing Alternative Payment Processing and/or Out-of-App Offers, provided that any transactions incurred in such testing are provided to testers at no cost.
 
-**I.** The entitlement profile for Alternative Payment Processing and/or Out-of-App Offers is only compatible with devices in Japan on iOS 26.2, or later.
+**I.** The entitlement profile for Alternative Payment Processing and/or Out-of-App Offers is only compatible with devices in Japan on iOS 26.2 or later, and is only compatible with devices in Brazil on iOS 26.5 or later.
 
 **3.2 Alternative Payment Processing: Design and Technical Requirements**
 
@@ -1978,9 +1989,9 @@ This **Section 2.3(C)** has no bearing on the terms of the Agreement that apply 
 
 **D.** You agree to make a customer service process available for end users of Your Application, including a process to dispute unauthorized transactions, manage subscriptions (if applicable), and request refunds.
 
-**3.5 Commissions and Payments in the Japan Storefront of the App Store**
+**3.5 Commissions and Payments in the Japan and/or Brazil Storefront(s) of the App Store**
 
-**A.** The terms in this Section 3.5 apply to iOS Applications distributed on the Japan storefront of the App Store.
+**A.** The terms in this Section 3.5 apply to iOS Applications distributed on the Japan and/or Brazil storefront(s) of the App Store.
 
 **B.** For Alternative Payment Processing, Apple is entitled to an App Store commission of twenty-one percent (21%) of resulting sales of digital goods or services, including one-time purchases and auto-renewing subscriptions. The commission rate is ten percent (10%) for such transactions (1) while You are a participant in the App Store Small Business Program; (2) where Your Application participates in the Apple Video Partner Program or Mini Apps Partner Program and the transaction would have qualified for a program rate if made with Apple’s in-app purchase system; or (3) where the transaction is an auto-renewal in the second year or later of an auto-renewing subscription. For the App Store Small Business Program, any transaction proceeds (net of Apple’s commission and certain taxes and adjustments) You earn count towards program eligibility. Such commission applies to all amounts payable by each end user, subject to any refunds, reversals, or chargebacks, net of transaction taxes charged by You.
 
@@ -1990,13 +2001,13 @@ This **Section 2.3(C)** has no bearing on the terms of the Agreement that apply 
 
 #### 4\. Core Technology Commission
 
-**A.** The terms of this Section 4 apply to Alternative App Marketplaces (Japan) or Applications distributed on an Alternative App Marketplace (Japan).
+**A.** The terms of this Section 4 apply to Alternative App Marketplaces (Japan, Brazil) or Applications distributed on an Alternative App Marketplace (Japan, Brazil).
 
-**B.** The Core Technology Commission applies to any sales of digital goods or services (including one-time purchases and auto-renewing subscriptions) that are completed in Your Alternative App Marketplace (Japan) or Your Application distributed on an Alternative App Marketplace (Japan), and can be used in an Application distributed on an Apple platform.
+**B.** The Core Technology Commission applies to any sales of digital goods or services (including one-time purchases and auto-renewing subscriptions) that are completed in Your Alternative App Marketplace (Japan, Brazil) or Your Application distributed on an Alternative App Marketplace (Japan, Brazil), and can be used in an Application distributed on an Apple platform.
 
-**C.** The Core Technology Commission also applies to any sales of digital goods or services on an Apple platform (including one-time purchases and auto-renewing subscriptions) that are required to download or access an Alternative App Marketplace (Japan) or an Application distributed on an Alternative App Marketplace (Japan).
+**C.** The Core Technology Commission also applies to any sales of digital goods or services on an Apple platform (including one-time purchases and auto-renewing subscriptions) that are required to download or access an Alternative App Marketplace (Japan, Brazil) or an Application distributed on an Alternative App Marketplace (Japan, Brazil).
 
-**D.** Lastly, the Core Technology Commission applies to any sales on a website of digital goods or services (including one-time purchases and auto-renewing subscriptions) that can be used in an Application distributed on an Apple platform, if the sales were initiated within seven (7) calendar days after the end user taps or scans an actionable link to go from Your Alternative App Marketplace (Japan) or Application distributed on an Alternative App Marketplace (Japan) Application to the website. In such instances, where the sale is a subscription (including free trials or offers), subsequent auto-renewals are also sales covered under this Section 4(C).
+**D.** Lastly, the Core Technology Commission applies to any sales on a website of digital goods or services (including one-time purchases and auto-renewing subscriptions) that can be used in an Application distributed on an Apple platform, if the sales were initiated within seven (7) calendar days after the end user taps or scans an actionable link to go from Your Alternative App Marketplace (Japan, Brazil) or Application distributed on an Alternative App Marketplace (Japan, Brazil) Application to the website. In such instances, where the sale is a subscription (including free trials or offers), subsequent auto-renewals are also sales covered under this Section 4(C).
 
 **E.** The Core Technology Commission is five percent (5%) of all sales covered in this Section 4. Such commission applies to all amounts payable by each end user, subject to any refunds, reversals, or chargebacks, net of transaction taxes charged by You.
 
@@ -2030,7 +2041,7 @@ This **Section 2.3(C)** has no bearing on the terms of the Agreement that apply 
 
 **D.** To the extent withholding taxes are required under applicable law to be deducted from or in respect of any amount payable to Apple under the terms of this Attachment, You will: (i) pay such additional amounts as may be necessary to ensure that Apple receives a net amount equal to the full amount which it would have received under the terms of this Attachment if no deduction or withholding had been made; (ii) make such deductions; (iii) deposit such taxes with the relevant governmental tax authority within the time as prescribed under applicable law; and (iv) provide Apple with documentation, reasonably satisfactory to Apple, of such remittance.
 
-**E.** You represent You are appropriately registered in the applicable jurisdiction, have a valid identifier in compliance with the applicable jurisdiction, and will notify Apple if You cease to be registered or hold the valid identifier. In addition, You will timely provide Apple with any applicable identifiers, proof of registration, tax documentation, certification, or information requested by Apple, and failure to do so may result in revocation of Your or Your Application’s ability to operate an Alternative App Marketplace (Japan), to be distributed on an Alternative App Marketplace (Japan), or to use Alternative Payment Processing, or Out-of-App Offers among any other rights Apple has under the Agreement. You agree to indemnify and hold harmless the Apple Indemnified Parties for any Losses arising from this requirement.
+**E.** You represent You are appropriately registered in the applicable jurisdiction, have a valid identifier in compliance with the applicable jurisdiction, and will notify Apple if You cease to be registered or hold the valid identifier. In addition, You will timely provide Apple with any applicable identifiers, proof of registration, tax documentation, certification, or information requested by Apple, and failure to do so may result in revocation of Your or Your Application’s ability to operate an Alternative App Marketplace (Japan, Brazil), to be distributed on an Alternative App Marketplace (Japan, Brazil), or to use Alternative Payment Processing, or Out-of-App Offers among any other rights Apple has under the Agreement. You agree to indemnify and hold harmless the Apple Indemnified Parties for any Losses arising from this requirement.
 
 **5.4 Apple’s Right to Audit**
 
@@ -2348,8 +2359,8 @@ EC4Y 1EU
 United Kingdom  
 https://www.cedr.com/p2bmediation/
 
-LYL250  
-June 8, 2026
+LYL251  
+June 18, 2026
 
 By clicking to agree to this Schedule 2, which is hereby offered to You by Apple, You agree with Apple to amend that certain Apple Developer Program License Agreement currently in effect between You and Apple (the “Agreement”) to add this Schedule 2 thereto (supplanting any existing Schedule 2). Except as otherwise provided herein, all capitalized terms shall have the meanings set forth in the Agreement.
 
