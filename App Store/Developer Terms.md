@@ -13333,7 +13333,7 @@ Any Application that will be submitted to the App Store, Custom App Distribution
     
 *   **P. Declared Age Range API**
     
-    Your Application may access the Declared Age Range API to request a user’s age range only for the purpose of providing age-appropriate content and/or features for end users in Your Application. You understand that data from the Declared Age Range API is based on information declared by an end user, or their parent or guardian.  You may not share or sell user data obtained from this API to data brokers or information resellers. You are solely responsible for ensuring compliance with associated laws or regulations that may apply to You, and understand that Your use of the Declared Age Range API is subject to **Section 10 (Indemnification)**.
+    Your Application may access the Declared Age Range API to request a user’s age range only for the purpose of providing age-appropriate content and/or features for end users in Your Application. You understand that data from the Declared Age Range API is based on information declared by an end user, or their parent or guardian. You may not share or sell user data obtained from this API to data brokers or information resellers. You are solely responsible for ensuring compliance with associated laws or regulations that may apply to You, and understand that Your use of the Declared Age Range API is subject to **Section 10 (Indemnification)**.
     
 
 ##### 3.3.4 Content Rights and Licensing
