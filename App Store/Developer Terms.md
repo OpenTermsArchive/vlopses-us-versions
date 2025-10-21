@@ -143,7 +143,9 @@ In order to use the Apple Software and Services, You must first accept this Agre
 
 Whenever capitalized in this Agreement:
 
-“**Accessory Data Transport Extension**” means an extension bundled as part of Your Application that, as its sole purpose, securely shares information directly between an end user’s Apple-branded device and an Authorized Wi-Fi Target Accessory.
+“**Accessory Data Transport Extension**” means an extension bundled as part of Your Application that, as its sole purpose, securely shares information directly between an end user’s Apple-branded device and an Authorized Target Accessory.
+
+“**Accessory Notifications Framework**” and “**Accessory Live Activities Framework**” mean Documented APIs for each respective framework that provide Your Application with the ability to share Forwarding Information from other Applications, provided an end user has explicitly authorized Your Application on their iPhone to access and share such information, using such framework, with that Authorized Target Accessory of Yours.
 
 “**Ad Network APIs**” means the Documented APIs that provide a way to validate the successful conversion of advertising campaigns on supported Apple-branded products using a combination of cryptographic signatures and a registration process with Apple.
 
@@ -201,7 +203,7 @@ Whenever capitalized in this Agreement:
 
 “**Authorized Test Units**” means Apple-branded hardware units owned or controlled by You that have been designated by You for Your own testing and development purposes under this Program, and if You permit, Apple-branded hardware units owned or controlled by Your Authorized Developers so long as such units are used for testing and development purposes on Your behalf, or, if You are a university, Apple-branded hardware units owned or controlled by You and Your Authorized Student Developers that are designated by You for educational purposes, and only as permitted hereunder.
 
-“**Authorized Wi-Fi Target Accessory**” means a Wi-Fi capable accessory that an end user has explicitly authorized Your Application on their Apple-branded device to securely pair and share the Wi-Fi Network Sharing Information with.
+“**Authorized Target Accessory**” means Your accessory that an end user has explicitly authorized Your Application on their Apple-branded device to securely pair and share: (i) the Wi-Fi Network Sharing Information, for purposes of the Wi-Fi Infrastructure Framework; and/or (ii) the Forwarding Information, for purposes of the Accessory Notifications Framework and Accessory Live Activities Framework, as applicable.
 
 “**Background Assets Framework**” means the Documented APIs that provide Applications with the ability to perform download operations in the background before first launch of the Application by the user and at other times after the first launch.
 
@@ -239,11 +241,19 @@ Whenever capitalized in this Agreement:
 
 “**Face Data**” means information related to human faces (e.g., face mesh data, facial map data, face modeling data, facial coordinates or facial landmark data, including data from an uploaded photo) that is obtained from a user’s device and/or through the use of the Apple Software (e.g., through ARKit, the Camera APIs, or the Photo APIs), or that is provided by a user in or through an Application (e.g., uploads for a facial analysis service).
 
+“**Family Controls Framework**” means the Documented APIs that enable Your Application to provide app and website usage controls on an Apple-branded product.
+
+“**Forwarding Information**” means any notification, including any content, data or information, provided through or transmitted via the Accessory Notifications Framework or Accessory Live Activities Framework respectively, including notifications from any Applications or any other information derived from them (e.g., decrypted, hashed, re-encrypted, re-sized, re-formatted, summarized).
+
 “**FOSS**” (Free and Open Source Software) means any software that is subject to terms that, as a condition of use, copying, modification or redistribution, require such software and/or derivative works thereof to be disclosed or distributed in source code form, to be licensed for the purpose of making derivative works, or to be redistributed free of charge, including without limitation software distributed under the GNU General Public License or GNU Lesser/Library GPL.
 
 “**Foundation Models Framework Acceptable Use Requirements**” means the requirements found at https://developer.apple.com/apple-intelligence/acceptable-use-requirements-for-the-foundation-models-framework, as may be updated from time-to-time.
 
 “**Foundation Models Framework**” means the Documented APIs that enable You to access, prompt, or otherwise use the Foundation Models framework, including the model accessed by the framework, in any manner, including through an Adapter.
+
+“**Foveated Streaming Framework**” means the Documented APIs that provide an Application with the ability to establish a session for streaming content, data or information from local or remote streaming endpoints to Apple Vision Pro.
+
+“**Foveated Streaming Information**” means any content, data, or information provided through or transmitted via the use of the Foveated Streaming Framework, including, but not limited to, information such as the approximate region where an end user is looking.
 
 “**FPS Deployment Package**” means the D Function specification for commercial deployment of FPS, the D Function reference implementation, FPS sample code, and set of unique production keys specifically for use by You with an FPS implementation, if provided by Apple to You.
 
@@ -592,9 +602,9 @@ Any Application that will be submitted to the App Store, Custom App Distribution
     
 *   **B. Collection and Use of Data**
     
-    You and Your Applications (and any third party with whom You have contracted to serve advertising) may not collect user or device data without prior user consent, whether such data is obtained directly from the user or through the use of the Apple Software, Apple Services, or Apple SDKs, and then only to provide a service or function that is directly relevant to the use of the Application, or to serve advertising in accordance with **Sections 3.3.3(E)**. You may not broaden or otherwise change the scope of usage for previously collected user or device data without obtaining prior user consent for such expanded or otherwise changed data collection. Neither You nor Your Application will use any permanent, device-based identifier, or any data derived therefrom, for purposes of uniquely identifying a device. And neither You nor Your Application will derive any data from a device for the purpose of uniquely identifying it or a user.
+    You and Your Applications (and any third party with whom You have contracted to serve advertising) may not collect user or device data without prior user consent, whether such data is obtained directly from the user or through the use of the Apple Software, Apple Services, or Apple SDKs, and then only to provide a service or function that is directly relevant to the use of the Application, or to serve advertising in accordance with **Section 3.3.3(E)**. You may not broaden or otherwise change the scope of usage for previously collected user or device data without obtaining prior user consent for such expanded or otherwise changed data collection. Neither You nor Your Application will use any permanent, device-based identifier, or any data derived therefrom, for purposes of uniquely identifying a device. And neither You nor Your Application will derive any data from a device for the purpose of uniquely identifying it or a user.
     
-    You are responsible for ensuring that Your Application, including any third-party SDKs (i.e., an SDK not provided by Apple), complies with this Agreement and the Documentation. If Your Application uses certain APIs identified in the Documentation, the metadata in Your Application must identify one or more permitted reasons that accurately reflect Your use of each of those APIs and the data derived for their use. You may use these APIs, and the data derived from their use, for the identified reasons only. Further, if Your Application includes a third-party SDK that is identified in the Documentation as commonly used, You must ensure such third-party SDK is signed by the SDK provider and includes required metadata as described in the Documentation.
+    You are responsible for ensuring that Your Application, including any third-party SDKs (i.e., an SDK not provided by Apple) and any service with whom You have contracted, complies with this Agreement and the Documentation. If Your Application uses certain APIs identified in the Documentation, the metadata in Your Application must identify one or more permitted reasons that accurately reflect Your use of each of those APIs and the data derived for their use. You may use these APIs, and the data derived from their use, for the identified reasons only. Further, if Your Application includes a third-party SDK that is identified in the Documentation as commonly used, You must ensure such third-party SDK is signed by the SDK provider and includes required metadata as described in the Documentation.
     
 *   **C. Disclosures to Users**
     
@@ -700,6 +710,10 @@ Any Application that will be submitted to the App Store, Custom App Distribution
 *   **P. Declared Age Range API and Significant App Update Topic API**
     
     Your Application may access the Declared Age Range API to request a user’s age range only for the purposes of providing age-appropriate content and/or features for end users in Your Application, or to comply with laws that require Your Application to receive age range information. You understand that data from the Declared Age Range API is based on information provided to Apple that is declared by an end user, or their parent or guardian, and may be confirmed using a payment method (like a credit card), government ID, or another method.  You may not share or sell user data obtained from this API to data brokers or information resellers. You are solely responsible for ensuring compliance with associated laws or regulations that may apply to You, and understand that Your use of the Declared Age Range API and Significant App Update Topic API is subject to **Section 10 (Indemnification)**.
+    
+*   **Q. Family Controls Framework**
+    
+    To use the Family Controls Framework, Your Application must have a primary purpose of (1) offering family controls for parents and guardians, through Family Sharing, to supervise their children’s app usage; and/or (2) offering individuals the ability to manage their devices to enable focus and productivity through focus controls, timers and task management, or personal device usage management. The Family Controls Framework may not be used for other purposes, such as ad blocking, in organizational settings, or for managing the device of another adult individual. Device or usage data received through the Family Controls Framework may only be used for providing family controls, or individual device management. You and Your Application may not share device or usage data received through the Family Controls Framework or otherwise, beyond the family controls You provide, or the individual and their device, respectively. You may not use or share such device or usage data for purposes of advertising or advertising measurements, or share device or usage data with a data broker.
     
 
 ##### 3.3.4 Content Rights and Licensing
@@ -840,6 +854,18 @@ Any Application that will be submitted to the App Store, Custom App Distribution
     
     You and Your Application must store and transmit user conversation history and associated metadata for carrier-based calls from using the Default Dialer APIs in a secure manner (e.g., conversation history synced to a server must be encrypted in transit and at rest). You and Your Application may not use the Default Dialer APIs for sending unsolicited messages or for phishing or spamming, including but not limited to engaging in any types of activities that violate anti-spamming laws and regulations, or that are otherwise illegal.
     
+*   **J. Accessory Notifications Framework and Accessory Live Activities Framework**
+    
+    You, Your Application and Your Authorized Target Accessory may not use Forwarding Information for advertising, profiling, training models, or monitoring location. You or Your Application may not disseminate the Forwarding Information to any other Application, or any other device besides Your Authorized Target Accessory. And an Authorized Target Accessory may not share Forwarding Information or any associated cryptographic keys with any other device, including the end user’s iPhone or any other Authorized Target Accessory. You, Your Application and Your Authorized Target Accessory may not modify the Forwarding Information in a manner that materially changes the meaning of the Forwarding Information, and only to the extent reasonably required for adequately disclosing the Forwarding Information to the end user on Your Authorized Target Accessory.
+    
+    You, Your Application and Your Authorized Target Accessory may not remotely store any Forwarding Information (e.g. on a cloud service or another remote device), except only as necessary to enable delivery to Your Authorized Target Accessory. The Forwarding Information may not be decrypted other than on Your Authorized Target Accessory. You acknowledge Your use of the Accessory Notifications Framework, the Accessory Live Activities Framework, and Forwarding Information is subject to Section 3.3.3. You further acknowledge and agree that You and Your Application are responsible to Apple for Your Authorized Target Accessory’s compliance with this Section 3.3.7(J).
+    
+    Even if Your Application does not use the Accessory Notifications Framework or the Accessory Live Activities Framework, You consent that Forwarding Information associated with Your Application may be forwarded to an Authorized Target Accessory of another developer, provided the end user has granted explicit authorization.
+    
+*   **K. Foveated Streaming Framework**
+    
+    You, Your Application and any service that your Application communicates with may use the Foveated Streaming Framework and the Foveated Streaming Information only for streaming content, data or information in connection with Your Application, and must store and transmit the Foveated Streaming Information in a secure manner. You, Your Application and any service that your Application communicates with may not use, enable use, promote use, or make available the Foveated Streaming Information for unrelated purposes (e.g., for advertising or analytics). You may not share or sell user data obtained from this framework to advertising platforms, data brokers or information resellers. You acknowledge Your use of the Foveated Streaming Framework is subject to Section 3.3.3.
+    
 
 ##### 3.3.8 Other Technologies
 
@@ -885,9 +911,9 @@ Any Application that will be submitted to the App Store, Custom App Distribution
     
 *   **J. Wi-Fi Infrastructure Framework**
     
-    You and Your Application may use the Wi-Fi Infrastructure Framework only for transmitting Wi-Fi Network Sharing Information, via Your Accessory Data Transport Extension, from an Apple-branded device to an Authorized Wi-Fi Target Accessory. You and Your Application may transmit Wi-Fi Network Sharing Information only for connecting the Authorized Wi-Fi Target Accessory to a Wi-Fi network that the end user’s Apple-branded device is capable of connecting to. You and Your Application must transmit the Wi-Fi Network Sharing Information directly to the Authorized Wi-Fi Target Accessory, and only in a secure, authenticated, and end-to-end encrypted manner.
+    You and Your Application may use the Wi-Fi Infrastructure Framework only for transmitting Wi-Fi Network Sharing Information, via Your Accessory Data Transport Extension, from an Apple-branded device to an Authorized Target Accessory. You and Your Application may transmit Wi-Fi Network Sharing Information only for connecting the Authorized Target Accessory to a Wi-Fi network that the end user’s Apple-branded device is capable of connecting to. You and Your Application must transmit the Wi-Fi Network Sharing Information directly to the Authorized Target Accessory, and only in a secure, authenticated, and end-to-end encrypted manner.
     
-    You or Your Application may not disseminate the Wi-Fi Network Sharing Information with any other Application, or any other device besides the Authorized Wi-Fi Target Accessory. And an Authorized Wi-Fi Target Accessory may not under any circumstance share Wi-Fi Infrastructure Information with any other device, including the end user’s Apple-branded device or any other Authorized Wi-Fi Target Accessory. You, Your Application, and the Authorized Wi-Fi Target Accessory may not use Wi-Fi Network Sharing Information for any unrelated purposes (e.g., for advertising, profiling, training models, monitoring location). You acknowledge Your use of the Wi-Fi Infrastructure Framework and the Wi-Fi Network Sharing Information is subject to **Section 3.3.3**. You further acknowledge and agree that You and Your Application are responsible to Apple for the Authorized Wi-Fi Target Accessory’s compliance with this **Section 3.3.8(J)**.
+    You or Your Application may not disseminate the Wi-Fi Network Sharing Information with any other Application, or any other device besides the Authorized Target Accessory. And an Authorized Target Accessory may not under any circumstance share Wi-Fi Network Sharing Information with any other device, including the end user’s Apple-branded device or any other Authorized Target Accessory. You, Your Application, and the Authorized Target Accessory may not use Wi-Fi Network Sharing Information for any unrelated purposes (e.g., for advertising, profiling, training models, monitoring location). You acknowledge Your use of the Wi-Fi Infrastructure Framework and the Wi-Fi Network Sharing Information is subject to **Section 3.3.3**. You further acknowledge and agree that You and Your Application are responsible to Apple for the Authorized Target Accessory’s compliance with this Section **3.3.8(J)**.
     
 
 ##### 3.3.9 Transactions and Passes
