@@ -1,5 +1,5 @@
-YouTube API Services Terms of Service
-=====================================
+YouTube API Services Terms of Service Stay organized with collections Save and categorize content based on your preferences.
+============================================================================================================================
 
 **Note:** [Complying with the YouTube Developer Policies](http://developers.google.com/youtube/terms/developer-policies-guide) provides guidance and examples to help you ensure that your API clients follow specific portions of the YouTube API Services [Terms](http://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](http://developers.google.com/youtube/terms/developer-policies) (API TOS). The guide offers insight into how YouTube enforces certain aspects of the API TOS, but it does not replace any existing documents.
 
@@ -283,8 +283,8 @@ Thank you for your interest in the YouTube API Services. The YouTube API Service
 
 - - -
 
-YouTube API Services - Developer Policies
-=========================================
+YouTube API Services - Developer Policies Stay organized with collections Save and categorize content based on your preferences.
+================================================================================================================================
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
@@ -818,8 +818,8 @@ IV. Definitions
 
 - - -
 
-YouTube API Services - Required Minimum Functionality
-=====================================================
+YouTube API Services - Required Minimum Functionality Stay organized with collections Save and categorize content based on your preferences.
+============================================================================================================================================
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
@@ -1061,8 +1061,8 @@ Banning a user from live chat (or removing a ban)
 
 - - -
 
-YouTube API Services - Subject API Services
-===========================================
+YouTube API Services - Subject API Services Stay organized with collections Save and categorize content based on your preferences.
+==================================================================================================================================
 
 **Note:** [Complying with the YouTube Developer Policies](https://developers.google.com/youtube/terms/developer-policies-guide) provides guidance and examples to help you ensure that your API clients follow specific portions of the YouTube API Services [Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](https://developers.google.com/youtube/terms/developer-policies) (API TOS). The guide offers insight into how YouTube enforces certain aspects of the API TOS, but it does not replace any existing documents.
 
@@ -1147,8 +1147,8 @@ The following API services are fully deprecated. They were subject to the deprec
 
 - - -
 
-YouTube API Services Terms of Service - Revision History
-========================================================
+YouTube API Services Terms of Service - Revision History Stay organized with collections Save and categorize content based on your preferences.
+===============================================================================================================================================
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
