@@ -27,19 +27,11 @@ Merchants must meet the following criteria:
 *   Merchants must not be affiliate marketers.
 *   Merchants must not be wholesale retailers.
 *   The merchant must have an easy to find and clear return policy that displays whether the merchant accepts returns, the process and time expectations for returns, and contact information.
-*   The merchant must have a dedicated “about us” page detailing their business offering or relevant social media links.
 *   Merchants must have a high-quality website and product pages. We don’t allow websites that:
-    *   Have poor editorial content, including:
-        *   Improper grammar, excessive or glaring spelling or typos
-        *   Broken links or incomplete pages
-    *   Have unoriginal content, including:
-        *   Unoriginal content within the “about us” section or product descriptions
-    *   Have domain age less than 3 months
-    *   Force users to visit another page that is not original to the brand
+    *   Have poor editorial content, including broken links or incomplete pages
     *   Force users to register to view the products
     *   Are unsafe or deceptive
-    *   Have pop-ups you cannot close
-*   Vehicle merchant catalogs are allowed in the US and Germany only
+*   Vehicle merchant catalogs are allowed in Canada, Germany, and the US only
 *   Resale or consignment marketplaces are only eligible for Ads distribution
 
 Product requirements
@@ -50,7 +42,6 @@ To qualify as a product to be used in a Pin or in other formats on Pinterest, it
 *   Products must follow our [community guidelines](https://policy.pinterest.com/community-guidelines) and [terms of service](https://policy.pinterest.com/terms-of-service).
 *   Pinterest must have current (within seven days) and accurate information about the price and in-stock status of the product. This is obtained from daily feed syncing or allowing Pinterest to frequently scrape meta-tags on product landing pages.
 *   The Pin must display a specific item, excluding services, that is available for purchase.
-*   The Pin image and description must accurately represent the product.
 
 ### Prohibited products
 
