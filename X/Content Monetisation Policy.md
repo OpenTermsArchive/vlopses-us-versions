@@ -5,7 +5,7 @@ X’s Creator Monetization Standards
 
 In addition, if you earn money or currency from X via any of our creator monetization products, you are subject to X’s **Creator Monetization Standards**, which includes eligibility, content and conduct standards, as outlined on this page. These rules mitigate risk of harm to X and its customers, while ensuring that creators derive the utmost value from monetization features.  
 
-If you advertise on X, you must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and if you are a publisher participating in X’s Amplify Program, you must also comply with [X’s Amplify Pre-Roll Guidelines](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html) and [Brand Safety Policies](https://business.x.com/en/help/ads-policies/product-policies/brand-safety-policy.html).
+If you advertise on X, you must also follow [X’s Ads Policies](https://business.x.com/en/help/ads-policies.html), and if you are a publisher participating in X’s Amplify Program, you must also comply with [X’s Amplify Pre-Roll Guidelines](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html) and [Content Monetization Policies.](https://help.x.com/en/rules-and-policies/content-monetization-policy)
 
 **Eligibility Standards**
 =========================
@@ -22,6 +22,7 @@ Creators who monetize on X must meet the following requirements:
 *   You must be in good standing with X, which means that:
     *   You have not repeatedly violated the [X User Agreement](https://x.com/en/tos.html) or X’s Content Monetization Standards. 
     *   You have not previously been removed as an advertiser on X for violations of our Ads policies or as an Amplify publisher on X for violations of our [Amplify Pre-Roll Guidelines](https://business.x.com/en/help/troubleshooting/amplify-publisher-faqs.html)
+*   You must have an active Premium, Premium Business, or Premium Organizations subscription. 
 *   You must connect a verified Stripe account.
 *   You must complete [identity verification](https://help.x.com/en/forms/creator-id-verification.html).
 *    Subscriptions additional criteria (Learn more about [Subscriptions](https://help.x.com/en/using-twitter/subscriptions-creator.html))
