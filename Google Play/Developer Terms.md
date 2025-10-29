@@ -416,7 +416,7 @@ Code that charges users by making calls to premium numbers without user consent.
 _Toll Fraud_  
 Code that tricks users into subscribing to or purchasing content via their mobile phone bill.
 
-Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless access point (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
+Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless application protocol (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
 #### Stalkerware
 
@@ -537,11 +537,11 @@ The backdoor malware category classification relies on how the code acts. A nece
 
 However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour then the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
-#### Maskware
+#### Riskware
 
-An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal malicious content.
+An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal potentially harmful content.
 
-Maskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
+Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
 - - -
 
@@ -557,6 +557,15 @@ To provide users with a safe and secure experience, Google Play requires the fo
 For technical advice on how to meet the target API level requirement, please consult the [migration guide](https://developer.android.com/distribute/best-practices/develop/target-sdk.html). 
 
 For exact timelines and exceptions, please refer to this [Help Center article](https://support.google.com/googleplay/android-developer/answer/11926878).
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Target an Android API level within one year of the latest major Android release if you are submitting a new app or app update to Google Play. | Don't ignore target API level requirements; non-compliance blocks new apps and app updates submission to Google Play and discoverability for new users with devices targeting newer Android versions, if the app is existing on Google Play. |
+| Ensure your existing app targets an Android API level within 2 years of the latest major Android release to stay discoverable to users on newer Android OS versions. | Don't delay updating your app's target API level; Start the migration process at least 3 months before the deadline to give yourself enough time to test for and address any compatibility issues. |
+| Request target API level extensions through Play Console. |     |
 
 - - -
 
