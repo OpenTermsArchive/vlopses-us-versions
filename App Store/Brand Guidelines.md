@@ -571,7 +571,7 @@ The absence of a product or service name or logo from this list does not constit
 | AppleTalk® | network system |
 | Apple TV® | digital media extender |
 | AppleVision™ | computer display |
-| Apple Vision Pro™ | spatial computer |
+| Apple Vision Pro® | spatial computer |
 | Apple Wallet® | application program |
 | Apple Watch® | wrist wearable device |
 | Apple Watch SE® | wrist wearable device |
@@ -1068,6 +1068,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of October 7, 2025.
+This list includes updates as of October 28, 2025.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
