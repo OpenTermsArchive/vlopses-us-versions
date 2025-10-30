@@ -555,7 +555,7 @@ This article will be updated with recently [announced](https://support.google.co
 
 We’re updating the [Cryptocurrency Exchanges and Software Wallets](https://support.google.com/googleplay/android-developer/answer/13607354#cryptocurrency_exchanges) policy to include a [Help Center link](https://support.google.com/googleplay/android-developer/answer/16329703) that details select country-specific requirements.
 
-(effective October 29, 2025)
+(effective January 28, 2026)
 
 To preview the updated “Blockchain-based Content” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16302285).  
 
@@ -623,7 +623,7 @@ This article previews changes from our July 2025 policy updates.
 
 We’re updating the [Cryptocurrency Exchanges and Software Wallets](https://support.google.com/googleplay/android-developer/answer/13607354#cryptocurrency_exchanges) policy to include a [Help Center link](https://support.google.com/googleplay/android-developer/answer/16329703) that details select country-specific requirements.
 
-(effective October 29, 2025)
+(effective January 28, 2026)
 
 To view the current “Blockchain-based Content” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/13607354).
 
