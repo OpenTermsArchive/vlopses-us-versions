@@ -404,7 +404,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Spam
 ----
 
-Last updated: 7 months ago
+Last updated: 8 months ago
 
 The quality of conversations on LinkedIn depends on healthy, relevant content. We may remove or limit the distribution of content designed to artificially increase engagement through misuse or misrepresentation of LinkedIn’s features.
 
