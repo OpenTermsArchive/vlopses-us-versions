@@ -281,10 +281,29 @@ For technical advice on how to meet the target API level requirement, please con
 
 For exact timelines and exceptions, please refer to this [Help Center article](https://support.google.com/googleplay/android-developer/answer/11926878).
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Target an Android API level within one year of the latest major Android release if you are submitting a new app or app update to Google Play. | Don't ignore target API level requirements; non-compliance blocks new apps and app updates submission to Google Play and discoverability for new users with devices targeting newer Android versions, if the app is existing on Google Play. |
+| Ensure your existing app targets an Android API level within 2 years of the latest major Android release to stay discoverable to users on newer Android OS versions. | Don't delay updating your app's target API level; Start the migration process at least 3 months before the deadline to give yourself enough time to test for and address any compatibility issues. |
+| Request target API level extensions through Play Console. |     |
+
 - - -
 
 Financial Services
 ==================
+
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+For [personal loan apps in India](https://support.google.com/googleplay/android-developer/answer/9876821#india), we’re updating the [country requirements](https://support.google.com/googleplay/android-developer/answer/16604194#zippy=%2Cwhat-if-my-app-does-not-directly-provide-personal-loans-but-facilitates-money-lending) to align with a newly published government list of approved digital lending apps. Apps must be on this list and meet Play policy requirements in order to be available on Google Play in India. All new personal loan apps on Google Play in India must be in compliance as of Oct 30, 2025.
+
+(effective January 28, 2026)
+
+To preview the updated “Financial Services” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16597822).
 
 We don't allow apps that expose users to deceptive or harmful financial products and services.
 
@@ -673,7 +692,7 @@ _**Disclaimer:** Policy summaries are overviews only; always refer to the full p
 
 Google Play prohibits your app (or any third-party SDKs in your app) from unauthorized access or interference with the user's device, other devices, network, API, or service, other apps on the device, any Google service, or an authorized carrier’s network. This encompasses a range of harmful, high risk, or disruptive behaviors, such as performing self-updates outside the Play Store, downloading unauthorized executable code, exploiting security vulnerabilities, facilitating hacking, or creating game cheats that affect other apps. Protecting the integrity of the user's device and the broader ecosystem is paramount. Please review the full policy to ensure compliance.
 
-#### ![](//storage.googleapis.com/support-kms-prod/J2HGDBzlZGFnHMAIDLxE2hVZKCMuvusQ3PcU)**Full** **Policy**
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 We don’t allow apps that interfere with, disrupt, damage, or access in an unauthorized manner the user’s device, other devices or computers, servers, networks, application programming interfaces (APIs), or services, including but not limited to other apps on the device, any Google service, or an authorized carrier’s network.
 
@@ -700,6 +719,18 @@ We don’t allow code that introduces or exploits security vulnerabilities. Chec
 *   Apps that use the [full-screen intent permission](https://developer.android.com/about/versions/14/behavior-changes-14?hl=en#secure-fsi) to force user interaction with disruptive ads or notifications.
 *   Apps that circumvent [Android sandbox protections](https://source.android.com/docs/security/app-sandbox) in order to derive user activity or user identity from other apps.
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure your app and any integrated SDKs comply with Android system optimization requirements in the [Core App Quality guidelines](https://developer.android.com/docs/quality-guidelines/core-app-quality#listing). | Don't install other apps on a device without explicit user consent. |
+| Respect the [`FLAG_SECURE`](https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE) setting, and on-device containers must respect [`REQUIRE_SECURE_ENV`](https://developer.android.com/training/basics/intents/limit-play-loading). | Don't facilitate proxy services to third-parties unless it's the primary, user-facing core purpose of the app. |
+| Use [User-initiated data transfer jobs](https://developer.android.com/develop/background-work/background-tasks/uidt) only for user-initiated network data transfers that run only as long as needed. | Don't use third-party SDKs in your app that download executable code (like dex or .so files) from outside Google Play (except in VMs/interpreters). |
+| Check out the [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers. | Don't bypass [System power management](https://developer.android.com/training/monitoring-device-state/doze-standby.html) unless eligible. |
+| Comply with [Foreground Services](https://support.google.com/googleplay/android-developer/answer/9888379#fgs) policy. | Don't block or interfere with another app displaying ads. |
+|     | Don't use the [`FULL-SCREEN INTENT`](https://developer.android.com/about/versions/14/behavior-changes-14#secure-fsi) permission to force interaction with disruptive ads and notifications. |
+
 * * *
 
 Permissions for Foreground Services (FGS)
@@ -708,7 +739,7 @@ Permissions for Foreground Services (FGS)
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**  
 The Foreground Service permission policy ensures user transparency, privacy, and optimal device performance.  For apps targeting Android 14+ you must declare valid Foreground Service (FGS) types in the manifest and Play Console, providing descriptions, user impact, and a demo video justifying their use based on user-initiated, perceptible actions. Please review the full policy to ensure compliance.
 
-#### ![](//storage.googleapis.com/support-kms-prod/J2HGDBzlZGFnHMAIDLxE2hVZKCMuvusQ3PcU)**Full** **Policy**
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 The Foreground Service permission ensures the appropriate use of user-facing foreground services. For apps targeting Android 14 and above, you must specify a valid foreground service type for each foreground service used in your app, and declare the [foreground service permission](https://support.google.com/googleplay/android-developer/answer/13392821) that is appropriate for that type. For example, if your app’s use case requires map geolocation, you must declare the [FOREGROUND\_SERVICE\_LOCATION](https://developer.android.com/reference/android/Manifest.permission#FOREGROUND_SERVICE_LOCATION) permission in your app’s manifest.
 
@@ -727,6 +758,15 @@ The following foreground service use cases are exempt from the above criteria:
 
 The use of foreground service is further explained [here](https://support.google.com/googleplay/android-developer/answer/13392821).
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Run FGS only for as long as necessary to complete the task. | Don't use FGS if system management of your task doesn’t break the user experience in your app. Consider alternatives like WorkManager. |
+| Ensure FGS provides a user-beneficial core app feature, is initiated by the user, is visible in notifications or is user perceptible (for example, audio from playing a song). | Don't declare invalid or inaccurate FGS types in your app’s manifest. |
+| Submit a [declaration form](https://goo.gle/play-permission-decl-form) in your Play Console if targeting Android 14+ and describe the use case for each [Foreground Services (FGS)](https://support.google.com/googleplay/android-developer/answer/9888379?sjid=1631932611128229759-NC&visit_id=638822556734167291-4052248586&rd=1#foreground_service) permission used. Ensure the appropriate FGS type is selected. |     |
+
 * * *
 
 User-Initiated Data Transfer Jobs
@@ -736,7 +776,7 @@ User-Initiated Data Transfer Jobs
 
 To maintain user control and prevent prolonged background activity Google Play provides strict guidelines for Apps using the user-initiated data transfer jobs API. Data transfers must be directly prompted by the user, ensuring that the app executes a command rather than initiating transfers independently. These transfers are exclusively for network data transfer tasks and must only operate for the duration required to complete the requested action. Please review the full policy to ensure compliance.
 
-#### ![](//storage.googleapis.com/support-kms-prod/J2HGDBzlZGFnHMAIDLxE2hVZKCMuvusQ3PcU)**Full** **Policy**
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 Apps are only allowed to use the [user-initiated data transfer jobs](https://developer.android.com/partners/android-14/changes/user-initiated-data-transfers) API if the use is:
 
@@ -746,9 +786,16 @@ Apps are only allowed to use the [user-initiated data transfer jobs](https://dev
 
 The usage of the user-initiated data transfer jobs API is further explained [here](https://developer.android.com/partners/android-14/changes/user-initiated-data-transfers).
 
-* * *
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
 
-  
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Start transfers with user action. | Don't initiate transfers automatically. |
+| Use for network data transfer tasks only. | Don't use the API for non-network tasks. |
+| Stop when the transfer is finished. | Don't run longer than needed. |
+
+* * *
 
 Flag Secure Requirements
 ------------------------
@@ -757,13 +804,21 @@ Flag Secure Requirements
 
 FLAG\_SECURE is an app-declared display flag indicating sensitive data in the UI should be limited to secure surfaces, preventing screenshots and non-secure display viewing and capturing. Developers use this when content shouldn't be broadcast or viewed outside the app/device. Google Play requires all apps to respect other apps' FLAG\_SECURE declarations and not bypass them for security and privacy. Please review the full policy to ensure compliance.
 
-#### ![](//storage.googleapis.com/support-kms-prod/J2HGDBzlZGFnHMAIDLxE2hVZKCMuvusQ3PcU)**Full** **Policy**
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 [FLAG\_SECURE](https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE) is a display flag declared in an app’s code to indicate that its UI contains sensitive data intended to be limited to a secure surface while using the app. This flag is designed to prevent the data from appearing in screenshots or from being viewed on non-secure displays. Developers declare this flag when the app’s content should not be broadcast, viewed, or otherwise transmitted outside of the app or users’ device.
 
 For security and privacy purposes, all apps distributed on Google Play are required to respect the FLAG\_SECURE declaration of other apps. Meaning, apps must not facilitate or create workarounds to bypass the FLAG\_SECURE settings in other apps.
 
 Apps that qualify as an [Accessibility Tool](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) are exempt from this requirement, as long as they do not transmit, save, or cache FLAG\_SECURE protected content for access outside of the user's device.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| [Declare](https://goo.gle/play-permission-decl-form) `FLAG_SECURE` for sensitive data in the UI that needs protection from capture. | Don't bypass or create workarounds for [`FLAG_SECURE`](https://developer.android.com/reference/android/view/WindowManager.LayoutParams#FLAG_SECURE) settings in other apps. |
+| Respect other apps' `FLAG_SECURE` declarations for security and privacy. | Don't transmit, save, or cache `FLAG_SECURE` protected content outside the device, even if an [Accessibility Tool](https://support.google.com/googleplay/android-developer/answer/10964491)**.** |
 
 * * *
 
@@ -774,7 +829,7 @@ Apps that Run On-device Android Containers
 
 To prevent security and privacy concerns, developers can use a \`REQUIRE\_SECURE\_ENV\` flag in their app manifest when on-device Android container apps lack the full security features of Android OS.  The flag indicates the app should not run in a simulated environment. Apps providing these containers are required to respect this flag by not loading apps that declare it and are prohibited from bypassing this security measure. Please review the full policy to ensure compliance.
 
-#### ![](//storage.googleapis.com/support-kms-prod/J2HGDBzlZGFnHMAIDLxE2hVZKCMuvusQ3PcU)**Full** **Policy**
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 On-device Android container apps provide environments that simulate whole or portions of an underlying Android OS. The experience within these environments may not reflect the full suite of [Android security features](https://source.android.com/docs/security/features), which is why developers can choose to add a secure environment manifest flag to communicate to on-device Android containers that they must not operate in their simulated Android environment.
 
@@ -789,16 +844,44 @@ On-device Android container apps provide environments that simulate whole or por
 
 Learn more about this policy in our [Help Center](https://support.google.com/googleplay/android-developer/answer/13609005).
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Apps that provide on-device containers must check for the `REQUIRE_SECURE_ENV` flag in other apps' manifests and not load them. | Don't ignore the flag. You cannot load an app into your container if it declares the `REQUIRE_SECURE_ENV` flag. |
+| Avoid workarounds. You are prohibited from bypassing the flag, such as by loading older versions of an app. | Don't bypass security measures. Do not create workarounds to override an app's security preference. |
+| Avoid proxying APIs. Do not function as a proxy by intercepting or calling APIs outside the container. | Don't make it appear that apps are running in a secure environment when they are not. |
+| Review the policy requirements for [on-device Android containers](https://support.google.com/googleplay/android-developer/answer/13609005). |     |
+
 - - -
 
 Misrepresentation
 =================
+
+_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To protect users and ensure they can trust an app's true identity and purpose, Google Play prohibits apps and developer accounts from misrepresenting or concealing their ownership, or primary purpose, or faking their country of origin to target users. This policy also strictly forbids coordinating with other apps, sites, or accounts to mislead users by hiding an app's true identity or other material details, especially when the content involves politics, social issues, or matters of public concern. Please review the full policy to ensure compliance.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 We do not allow apps or developer accounts that:
 
 *   impersonate any person or organization, or that misrepresent or conceal their ownership or primary purpose. 
 *   that engage in coordinated activity to mislead users. This includes, but isn’t limited to, apps or developer accounts that misrepresent or conceal their country of origin and that direct content at users in another country.
 *   coordinate with other apps, sites, developers, or other accounts to conceal or misrepresent developer or app identity or other material details, where app content relates to politics, social issues or matters of public concern.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Clearly and accurately represent your developer name, organization, and contact information in your account. | Don't misrepresent or conceal your app's primary purpose. |
+| Ensure your app's title, icon, and description honestly represent its functionality and purpose. | Don't hide or misrepresent your identity or who owns the app. |
+| Be truthful about your country of origin and location in your developer profile. | Don't falsify your country of origin to target users in another country. |
+| If your app relates to politics, social issues, or public concerns, be **extra transparent** about who you are and any affiliations you may have. | Don't coordinate with other developers, apps, or websites to hide your identity or mislead users, especially about political or social content. |
 
 - - -
 
@@ -851,7 +934,7 @@ Code that charges users by making calls to premium numbers without user consent.
 _Toll Fraud_  
 Code that tricks users into subscribing to or purchasing content via their mobile phone bill.
 
-Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless access point (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
+Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless application protocol (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
 #### Stalkerware
 
@@ -972,11 +1055,11 @@ The backdoor malware category classification relies on how the code acts. A nece
 
 However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour then the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
-#### Maskware
+#### Riskware
 
-An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal malicious content.
+An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal potentially harmful content.
 
-Maskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
+Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
 - - -
 
