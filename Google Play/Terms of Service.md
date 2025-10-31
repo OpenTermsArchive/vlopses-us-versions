@@ -170,9 +170,9 @@ Payments
 Subscriptions
 =============
 
-You, as a developer, must not mislead users about any subscription services or content you offer within your app. It is critical to communicate clearly in any in-app promotions or splash screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions).
+You, as a developer, must not mislead users about any subscription services or content you offer within your app. It is critical to communicate clearly in any in-app promotions, splash screens, and subscription plan selection screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions). If you provide any [subscription benefits](https://support.google.com/googleplay/android-developer/answer/140504#subscriptions-benefit&zippy=%2Ccreate-a-new-subscription), they must be truthful and accurate and must not misrepresent any aspect of the relevant subscription. 
 
-You must be transparent about your offer. This includes being explicit about your offer terms, the cost of your subscription, the frequency of your billing cycle, and whether a subscription is required to use the app. Users should not have to perform any additional action to review the information.
+You must be transparent about your offer. This includes clearly and explicitly disclosing your offer terms, the cost of your subscription, the frequency of your billing cycle, the automatic renewal terms, whether a subscription is required to use the app, and any other material information about the subscription. Users should not have to perform any additional action to review the information.
 
 Subscriptions must provide sustained or recurring value to users throughout the life of the subscription, and may not be used to offer what are effectively one-time benefits to users (for example, SKUs that provide lump sum in-app credits/currency, or single-use game boosters). Your subscription may offer incentive or promotional bonuses, but these must be complementary to the sustained or recurring value provided throughout the life of the subscription**.** Products that do not offer sustained and recurring value must use an [in-app product](https://support.google.com/googleplay/android-developer/answer/1153481) instead of a [subscription product](https://support.google.com/googleplay/android-developer/answer/140504).
 
@@ -191,15 +191,15 @@ Examples of violations
 
 **Example 1:**
 
-![](//lh3.googleusercontent.com/boxh9ZDBx1EYF_KGdg_yFIb77aqm5Fj47bHB0prd4aDuKpDKUtwnIQClUc9UMTqPG68=w600-h1100)
+![](//storage.googleapis.com/support-kms-prod/u4CL8qzapouZkgqASBdP666d2BC427CceRzo)
 
-① Dismiss button is not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
+① Dismiss button is missing or not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
-② Offer only displays pricing in terms of monthly cost and users may not understand that they will be charged a six month price at the time they subscribe.
+② Offer most prominently displays pricing in terms of monthly breakdown cost, rather than what the users will actually be charged. Users may not understand that they will be charged a six month price at the time they subscribe.
 
 ③ Offer only shows the introductory price and users may not understand what they will automatically be charged at the end of the introductory period.
 
-④ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
+④ Offer is non-compliant because its language and currency are not localized to the user's country, unlike the terms and conditions. This prevents the user from being able to understand the full details of the offer.
 
 **Example 2:**
 
@@ -209,13 +209,13 @@ Examples of violations
 
 ① Recurring clicks in the same button area causes the user to inadvertently click the final “continue” button to subscribe.
 
-② The amount that users will be charged at the end of the trial is hard to read, such that users may think the plan is free
+② The amount that users will be charged at the end of the trial is hard to read, such that users may think the plan is free.
 
 #### [COLLAPSE ALL](https://support.google.com/googleplay/android-developer/answer/9900533) [EXPAND ALL](#1&2&3&4&5&6&7&87&9)
 
 #### Free Trials & Introductory Offers
 
-**Before a user is enrolled in your subscription:** You must clearly and accurately describe the terms of your offer, including the duration, pricing, and description of accessible content or services. Be sure to let your users know how and when a free trial will convert to a paid subscription, how much the paid subscription will cost, and that a user can cancel if they do not want to convert to a paid subscription.
+**Before a user is enrolled in your subscription:** You must clearly and accurately describe the terms of your offer, including the duration, pricing, and description of accessible content or services. Be sure to let your users know how and when a free trial will convert to a paid subscription, how much the paid subscription will cost, and how a user can cancel if they do not want to convert to a paid subscription.
 
 Examples of violations
 
@@ -224,28 +224,34 @@ Examples of violations
 *   Offers that do not clearly demonstrate that a user can access content without a trial (when available).
 *   Offer pricing and terms that are incompletely localized.
 
-![](//lh3.googleusercontent.com/V8zMyVsaZqkJlcnXA6rMHgSxHaxfiDgsCINMsI4lRICZWdqejj400L6NlPsF5oiDwGU=w600-h1100)
+![](//storage.googleapis.com/support-kms-prod/c9mnO2D5GxsGwy7XpmXhidhRVN0UW4RLcB5g)
 
- 
-
-① Dismiss button is not clearly visible and users may not understand that they can access functionality without signing up for the free trial.
+① Dismiss button is missing or not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
 ② Offer emphasizes the free trial and users may not understand that they will automatically be charged at the end of the trial.
 
 ③ Offer does not state a trial period and users may not understand how long their free access to subscription content will last.
 
-④ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
+④ Offer is non-compliant because its language and currency are not localized to the user's country, unlike the terms and conditions. This prevents the user from being able to understand the full details of the offer.
+
+⑤ Offer does not clearly explain how to cancel the free trial for users who do not wish to continue with a paid subscription after the trial period ends.
 
 #### Subscription Management, Cancellation & **Refunds**
 
 If you sell subscriptions in your app(s), you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription. You must also include in your app access to an easy-to-use, online method to cancel the subscription. In your app’s account settings (or equivalent page), you can satisfy this requirement by including:
 
-*   A link to Google Play’s Subscription Center (for apps that use Google Play’s billing system); and/or
+*   A link to Google Play’s Subscription Center (for subscriptions that use Google Play’s billing system); and/or
 *   direct access to your cancellation process.
 
-If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed.
+If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. Users in some countries may be able to cancel their subscription immediately and receive a prorated refund, in accordance with applicable law.
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your subscription, cancellation and refund policies and ensure that the policies comply with applicable law.
+
+Example of violations
+
+![](//storage.googleapis.com/support-kms-prod/jRP3QdXKia08MpKYm6VzO4MCtPVxlhvxXuNY)
+
+The app is missing a link to manage and cancel subscriptions in the account setting or equivalent page.
 
 - - -
 
