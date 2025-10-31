@@ -1,7 +1,9 @@
 Our Policies
 
 
-================
+
+
+==================
 
 YouTube’s mission is to give everyone a voice and show them the world — and openness and free expression are at the heart of this. Our platform is a place where a broad range of perspectives are encouraged, and we don’t shy away from disagreement and debate.
 
