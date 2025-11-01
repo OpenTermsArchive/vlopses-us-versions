@@ -271,6 +271,14 @@ Additional Information
 Google Play's Target API Level Policy
 =====================================
 
+_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Apps must target a recent Android API level to provide users with security and performance improvements. For new apps and app updates, you _must_ target an API level within one year of the latest major Android release; otherwise, Google Play will prevent your new app or app update submission. Existing apps that are not updated need to target an API level within two years of the latest major Android release to be visible to new users on newer Android versions. For exact timelines and exceptions, please refer to the [Help Center](https://support.google.com/googleplay/android-developer/answer/11926878) article.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
+
 To provide users with a safe and secure experience, Google Play requires the following target API levels for **all apps**:
 
 **New apps and app updates MUST** target an Android API level within one year of the latest major Android version release. New apps and app updates that fail to meet this requirement will be prevented from app submission in Play Console.
