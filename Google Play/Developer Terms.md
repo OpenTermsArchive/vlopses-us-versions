@@ -548,6 +548,14 @@ Riskware is similar to other PHA categories, specifically Trojan, with the main 
 Google Play's Target API Level Policy
 =====================================
 
+_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Apps must target a recent Android API level to provide users with security and performance improvements. For new apps and app updates, you _must_ target an API level within one year of the latest major Android release; otherwise, Google Play will prevent your new app or app update submission. Existing apps that are not updated need to target an API level within two years of the latest major Android release to be visible to new users on newer Android versions. For exact timelines and exceptions, please refer to the [Help Center](https://support.google.com/googleplay/android-developer/answer/11926878) article.
+
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
+
 To provide users with a safe and secure experience, Google Play requires the following target API levels for **all apps**:
 
 **New apps and app updates MUST** target an Android API level within one year of the latest major Android version release. New apps and app updates that fail to meet this requirement will be prevented from app submission in Play Console.
@@ -842,7 +850,7 @@ To make a request for data that you do not believe is already available via Play
 Developer Program Policy
 ========================
 
-_(effective August 28, 2025, unless otherwise stated)_
+_(effective October 30, 2025, unless otherwise stated)_
 
 * * *
 
@@ -1282,8 +1290,8 @@ If your app offers health-related features or information as part of its functio
     *   If your app is not primarily a health app, but has health-related features and accesses health data, it is still in scope of the Health App policy. It should be clear to the user the connection between the app’s core functionality and the collection of health related data (for example, insurance providers, games apps that collect a user’s activity data as a way to advance game play etc.). The app’s privacy policy must reflect this limited use.
 *   **Health and Medical Functionalities:**
     *   We don’t allow apps with health and medical related functionalities that are misleading or potentially harmful. 
-    *   Apps that connect to external hardware or devices (e.g., blood glucose monitors) to perform their medical function, must clearly disclose these external hardware requirements in the app description. The app must not imply that it can function independently of the required external hardware.
-    *   Apps that use device sensors (e.g., camera) for health functions must clearly state device compatibility information in the app description. For example, apps with oximetry functionality using only device sensors must properly disclose which device models can support the functionality.
+    *   Apps that connect to external hardware or devices (for example, blood glucose monitors) to perform their medical function, must clearly disclose these external hardware requirements in the app description. The app must not imply that it can function independently of the required external hardware.
+    *   Apps that use device sensors (for example, camera) for health functions must clearly state device compatibility information in the app description. For example, apps with oximetry functionality using only device sensors must properly disclose which device models can support the functionality.
     *   Apps that have received regulatory clearance or approval as a medical device must provide proof of such approval upon request. Apps that are not regulated and approved by a relevant health authority must include a clear disclaimer indicating that the app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.
     *   Apps must also remind users to consult a healthcare professional for medical advice, diagnosis, or treatment.
 *   **Additional requirements:**  
@@ -1294,15 +1302,18 @@ If your app offers health-related features or information as part of its functio
 
 For more information about health and medical apps, see [this help center article](https://support.google.com/googleplay/android-developer/answer/13996367).
 
-#### Health Connect Data
+Health Connect Data
+-------------------
 
 Data accessed through Health Connect Permissions is regarded as personal and sensitive user data subject to the [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311#personal-sensitive), and is subjected to [additional requirements](https://support.google.com/googleplay/android-developer/answer/9888170#ahp).
 
-#### Prescription Drugs
+Prescription Drugs
+------------------
 
 We do not allow apps that facilitate the sale or purchase of prescription drugs without a prescription.
 
-#### Unapproved Substances
+Unapproved Substances
+---------------------
 
 Google Play doesn't allow apps that promote or sell unapproved substances, irrespective of any claims of legality. 
 
@@ -1327,7 +1338,8 @@ Google Play doesn't allow apps that promote or sell unapproved substances, irres
 
 For additional information on the unapproved or misleading pharmaceuticals and supplements that we monitor, please visit [www.legitscript.com](http://www.legitscript.com/).
 
-#### Health Misinformation
+Health Misinformation
+---------------------
 
 We don’t allow apps containing misleading health claims that contradict existing medical consensus, or can cause harm to users.
 
@@ -1345,7 +1357,8 @@ We don’t allow apps containing misleading health claims that contradict existi
 
 We don’t allow apps that feature medical or health-related functionalities that are misleading or potentially harmful. For example, we do not allow apps that claim to have oximetry functionality that is solely app-based. Oximeter apps must be supported by external hardware, wearable, or dedicated smartphone sensors designed to support oximetry functionality. These supported apps must also contain disclaimers in the metadata stating that they are not intended for medical use, are only designed for general fitness and wellness purposes, are not a medical device, and must properly disclose the compatible hardware model/device model.
 
-#### Payments - Clinical Services
+Payments - Clinical Services
+----------------------------
 
 Transactions involving regulated clinical services should not use Google Play’s billing system. For more information, see [Understanding Google Play’s Payments policy](https://support.google.com/googleplay/android-developer/answer/10281818#zippy=%2Cmy-app-provides-clinical-services-should-i-use-google-plays-billing-system-for-those-transactions).
 
@@ -1621,8 +1634,8 @@ SMS and Call Log Permissions are regarded as personal and sensitive user data su
 
 | Restricted Permission | Requirement |
 | --- | --- |
-| **Call Log permission group (for example, READ\_CALL\_LOG, WRITE\_CALL\_LOG, PROCESS\_OUTGOING\_CALLS)** | It must be actively registered as the default Phone or Assistant handler on the device. |
-| **SMS permission group (for example, READ\_SMS, SEND\_SMS, WRITE\_SMS, RECEIVE\_SMS, RECEIVE\_WAP\_PUSH, RECEIVE\_MMS)** | It must be actively registered as the default SMS or Assistant handler on the device. |
+| Call Log permission group (for example, `READ_CALL_LOG`, `WRITE_CALL_LOG`, `PROCESS_OUTGOING_CALLS`) | It must be actively registered as the default Phone or Assistant handler on the device. |
+| SMS permission group (for example, `READ_SMS`, `SEND_SMS`, `WRITE_SMS`, `RECEIVE_SMS`, `RECEIVE_WAP_PUSH`, `RECEIVE_MMS`) | It must be actively registered as the default SMS or Assistant handler on the device. |
 
 Apps lacking default SMS, Phone, or Assistant handler capability may not declare use of the above permissions in the manifest. This includes placeholder text in the manifest. Additionally, apps must be actively registered as the default SMS, Phone, or Assistant handler before prompting users to accept any of the above permissions and must immediately stop using the permission when they’re no longer the default handler. The permitted uses and exceptions are available on [this Help Center page](https://support.google.com/googleplay/android-developer/answer/9047303).
 
@@ -1633,7 +1646,7 @@ Location Permissions
 
 [Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the [Background Location policy](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en#zippy=), and the following requirements:
 
-*   Apps may not access data protected by location permissions (for example, ACCESS\_FINE\_LOCATION, ACCESS\_COARSE\_LOCATION, ACCESS\_BACKGROUND\_LOCATION) after it is no longer necessary to deliver current features or services in your app.
+*   Apps may not access data protected by location permissions (for example, `ACCESS_FINE_LOCATION`, `ACCESS_COARSE_LOCATION`, `ACCESS_BACKGROUND_LOCATION`) after it is no longer necessary to deliver current features or services in your app.
 *   You should never request location permissions from users for the sole purpose of advertising or analytics. Apps that extend permitted usage of this data for serving advertising must be in compliance with our [Ads Policy](https://support.google.com/googleplay/android-developer/answer/9857753).
 *   Apps should request the minimum scope necessary (for example, coarse instead of fine, and foreground instead of background) to provide the current feature or service requiring location and users should reasonably expect that the feature or service needs the level of location requested. For example, we may reject apps that request or access background location without compelling justification.
 *   Background location may only be used to provide features beneficial to the user and relevant to the core functionality of the app.
@@ -1653,7 +1666,7 @@ All Files Access Permission
 Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076/) policy and the following requirements:
 
 *   Apps should only request access to device storage which is critical for the app to function, and may not request access to device storage on behalf of any third-party for any purpose that is unrelated to critical user-facing app functionality.
-*   Android devices running R or later, will require the [MANAGE\_EXTERNAL\_STORAGE](https://developer.android.com/reference/android/Manifest.permission#MANAGE_EXTERNAL_STORAGE) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (“All files access”) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable “All files access” for their app under “Special app access” settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
+*   Android devices running R or later, will require the [`` `MANAGE_EXTERNAL_STORAGE` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EMANAGE_EXTERNAL_STORAGE%3C/code%3E) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (“All files access”) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable “All files access” for their app under “Special app access” settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
 
 Package (App) Visibility Permission
 -----------------------------------
@@ -1663,10 +1676,10 @@ The inventory of installed apps queried from a device are regarded as personal a
 Apps that have a core purpose to launch, search, or interoperate with other apps on the device, may obtain scope-appropriate visibility to other installed apps on the device as outlined below:
 
 *   **Broad app visibility:** Broad visibility is the capability of an app to have extensive (or “broad”) visibility of the installed apps (“packages”) on a device.
-    *   For apps targeting [API level 30 or later](https://developer.android.com/studio/releases/platforms), broad visibility to installed apps via the [QUERY\_ALL\_PACKAGES](https://developer.android.com/reference/kotlin/android/Manifest.permission#query_all_packages) permission is restricted to specific use cases where awareness of and/or interoperability with any and all apps on the device are required for the app to function.
-        *   You may not use QUERY\_ALL\_PACKAGES if your app can operate with a more [targeted scoped package visibility declaration](https://developer.android.com/training/basics/intents/package-visibility#declare-other-apps)(for example, querying and interacting with specific packages instead of requesting broad visibility).
-    *   Use of alternative methods to approximate the broad visibility level associated with QUERY\_ALL\_PACKAGES permission are also restricted to user-facing core app functionality and interoperability with any apps discovered via this method.
-    *   Please see this [Help Center article](https://support.google.com/googleplay/android-developer/answer/10158779) for allowable use cases for the QUERY\_ALL\_PACKAGES permission.
+    *   For apps targeting [API level 30 or later](https://developer.android.com/studio/releases/platforms), broad visibility to installed apps via the [`` `QUERY_ALL_PACKAGES` ``](https://developer.android.com/reference/kotlin/android/Manifest.permission#query_all_packages) permission is restricted to specific use cases where awareness of and/or interoperability with any and all apps on the device are required for the app to function.
+        *   You may not use `` `QUERY_ALL_PACKAGES` `` if your app can operate with a more [targeted scoped package visibility declaration](https://developer.android.com/training/basics/intents/package-visibility#declare-other-apps)(for example, querying and interacting with specific packages instead of requesting broad visibility).
+    *   Use of alternative methods to approximate the broad visibility level associated with `` `QUERY_ALL_PACKAGES` `` permission are also restricted to user-facing core app functionality and interoperability with any apps discovered via this method.
+    *   Please see this [Help Center article](https://support.google.com/googleplay/android-developer/answer/10158779) for allowable use cases for the `` `QUERY_ALL_PACKAGES` `` permission.
 *   **Limited app visibility**: Limited visibility is when an app minimizes access to data by querying for specific apps using more targeted (instead of “broad”) methods(for example, querying for specific apps that satisfy your app’s manifest declaration). You may use this method to query for apps in cases where your app has policy compliant interoperability, or management of these apps.
 *   Visibility to the inventory of installed apps on a device must be directly related to the core purpose or core functionality that users access within your app.
 
@@ -1696,7 +1709,7 @@ Apps must use more narrowly scoped [APIs and permissions](https://developer.and
 Request Install Packages Permission
 -----------------------------------
 
-The [REQUEST\_INSTALL\_PACKAGES](https://developer.android.com/reference/android/Manifest.permission#REQUEST_INSTALL_PACKAGES) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include:
+The [`` `REQUEST_INSTALL_PACKAGES` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREQUEST_INSTALL_PACKAGES%3C/code%3E) permission allows an application to request the installation of app packages.​​ To use this permission, your app’s core functionality must include:
 
 *   Sending or receiving app packages; and
 *   Enabling user-initiated installation of app packages.
@@ -1713,7 +1726,7 @@ Permitted functionalities include:
 
 Core functionality is defined as the main purpose of the app. The core functionality, as well as any core features that comprise this core functionality, must all be prominently documented and promoted in the app's description.
 
-The REQUEST\_INSTALL\_PACKAGES permission may not be used to perform self updates, modifications, or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [Device and Network Abuse policy](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en&ref_topic=9877467) and must be initiated and driven by the user.
+The `` `REQUEST_INSTALL_PACKAGES` `` permission may not be used to perform self updates, modifications, or the bundling of other APKs in the asset file unless for device management purposes. All updates or installing of packages must abide by Google Play’s [Device and Network Abuse policy](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en&ref_topic=9877467) and must be initiated and driven by the user.
 
 Body Sensor Permissions
 -----------------------
@@ -1761,7 +1774,7 @@ Access to Health Connect may not be used in violation of this policy or other ap
 *   Do not use Health Connect to connect to applications, services, or features that solely target children.
 *   Take reasonable and appropriate steps to protect all applications or systems that make use of Health Connect against unauthorized or unlawful access, use, destruction, loss, alteration, or disclosure.
 
-It is also your responsibility to ensure compliance with any regulatory or legal requirements that may apply based on your intended use of Health Connect and any data from Health Connect. For example, if you are a covered entity or business associate subject to the Health Insurance Portability and Accountability Act (HIPAA), you must comply with applicable requirements for your access and use of information from Health Connect. If you are a developer subject to the General Data Protection Regulation (GDPR) for EU users, you must similarly comply with your obligations under the GDPR. These laws and regulations may require you to execute additional agreements prior to sharing data (e.g., a Business Associate Agreement or Data Processing Agreement) with the relevant entities involved in your processing activities. It is also the responsibility of app developers to determine whether their activities require such agreements. Developers must provide evidence of such agreement or compliance to Google upon request.
+It is also your responsibility to ensure compliance with any regulatory or legal requirements that may apply based on your intended use of Health Connect and any data from Health Connect. For example, if you are a covered entity or business associate subject to the Health Insurance Portability and Accountability Act (HIPAA), you must comply with applicable requirements for your access and use of information from Health Connect. If you are a developer subject to the General Data Protection Regulation (GDPR) for EU users, you must similarly comply with your obligations under the GDPR. These laws and regulations may require you to execute additional agreements prior to sharing data (for example, a Business Associate Agreement or Data Processing Agreement) with the relevant entities involved in your processing activities. It is also the responsibility of app developers to determine whether their activities require such agreements. Developers must provide evidence of such agreement or compliance to Google upon request.
 
 Except as explicitly noted in the labeling or information provided by Google for specific Google products or services, Google does not endorse the use of or warrant the accuracy of any data contained in Health Connect for any use or purpose, and, in particular, for research, health, or medical uses. Google disclaims all liability associated with use of data obtained through Health Connect.
 
@@ -1776,7 +1789,7 @@ When using Health Connect, data access and use must adhere to specific limitatio
     *   Transferring or selling user data to third parties like advertising platforms, data brokers, or any information resellers.
     *   Transferring, selling, or using user data for serving ads, including personalized or interest-based advertising.
     *   Transferring, selling, or using user data to determine credit-worthiness or for lending purposes.
-    *   Transferring, selling, or using user data with any product or service that may qualify as a medical device, unless the medical device app complies with all applicable regulations, including obtaining necessary clearances or approvals from relevant regulatory bodies (e.g., U.S. FDA) for its intended use of Health Connect data, and the user has provided explicit consent for such use.
+    *   Transferring, selling, or using user data with any product or service that may qualify as a medical device, unless the medical device app complies with all applicable regulations, including obtaining necessary clearances or approvals from relevant regulatory bodies (for example, U.S. FDA) for its intended use of Health Connect data, and the user has provided explicit consent for such use.
     *   Transferring, selling, or using user data for any purpose or in any manner involving Protected Health Information (as defined by HIPAA) unless user-initiated and in compliance with HIPAA regulations.
 
 #### **Minimum Scope**
@@ -1821,34 +1834,34 @@ Apps that use the VpnService must:
 Exact Alarm Permission
 ----------------------
 
-A new permission, USE\_EXACT\_ALARM, will be introduced that will grant access to [exact alarm functionality](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission) in apps starting with Android 13 (API target level 33). 
+A new permission, `` `USE_EXACT_ALARM` ``, will be introduced that will grant access to [exact alarm functionality](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission) in apps starting with Android 13 (API target level 33). 
 
-USE\_EXACT\_ALARM is a restricted permission and apps must only declare this permission if their core functionality supports the need for an exact alarm. Apps that request this restricted permission are subject to review, and those that do not meet the acceptable use case criteria will be disallowed from publishing on Google Play.
+`` `USE_EXACT_ALARM` `` is a restricted permission and apps must only declare this permission if their core functionality supports the need for an exact alarm. Apps that request this restricted permission are subject to review, and those that do not meet the acceptable use case criteria will be disallowed from publishing on Google Play.
 
 **Acceptable use cases for using the Exact Alarm Permission**
 
-Your app must use the USE\_EXACT\_ALARM functionality only when your app’s core, user facing functionality requires precisely-timed actions, such as:
+Your app must use the `` `USE_EXACT_ALARM` `` functionality only when your app’s core, user facing functionality requires precisely-timed actions, such as:
 
 *   The app is an alarm or timer app.
 *   The app is a calendar app that shows event notifications.
 
-If you have a use case for exact alarm functionality that’s not covered above, you should evaluate if using SCHEDULE\_EXACT\_ALARM as an alternative is an option.
+If you have a use case for exact alarm functionality that’s not covered above, you should evaluate if using `` `SCHEDULE_EXACT_ALARM` `` as an alternative is an option.
 
 For more information on exact alarm functionality, please see this [developer guidance](https://developer.android.com/about/versions/13/features#use-exact-alarm-permission).
 
 Full-Screen Intent Permission
 -----------------------------
 
-For apps targeting Android 14 (API target level 34) and above, [USE\_FULL\_SCREEN\_INTENT](https://developer.android.com/reference/android/app/Notification.Builder#setFullScreenIntent\(android.app.PendingIntent,%20boolean\)) is a [special apps access permission](https://developer.android.com/training/permissions/requesting-special). Apps will only be automatically granted to use the USE\_FULL\_SCREEN\_INTENT permission if the core functionality of their app falls under one of the below categories that require high priority notifications:
+For apps targeting Android 14 (API target level 34) and above, [`` `USE_FULL_SCREEN_INTENT` ``](https://developer.android.com/reference/android/app/Notification.Builder#setFullScreenIntent\(android.app.PendingIntent,%20boolean\)) is a [special apps access permission](https://developer.android.com/training/permissions/requesting-special). Apps will only be automatically granted to use the `` `USE_FULL_SCREEN_INTENT` `` permission if the core functionality of their app falls under one of the below categories that require high priority notifications:
 
 *   setting an alarm
 *   receiving phone or video calls
 
-Apps that request this permission are subject to review, and those that do not meet the above criteria will not be automatically granted this permission. In that case, apps must request permission from the user to use USE\_FULL\_SCREEN\_INTENT.
+Apps that request this permission are subject to review, and those that do not meet the above criteria will not be automatically granted this permission. In that case, apps must request permission from the user to use `` `USE_FULL_SCREEN_INTENT` ``.
 
-As a reminder, any usage of the USE\_FULL\_SCREEN\_INTENT permission must comply with all [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/?authuser=0#!?modal_active=none), including our [Mobile Unwanted Software](https://support.google.com/googleplay/android-developer/answer/9970222), [Device and Network Abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en), and [Ads](https://support.google.com/googleplay/android-developer/answer/9857753?hl=en&sjid=11744761627827448774-NA) policies. Full-screen intent notifications cannot interfere with, disrupt, damage, or access the user’s device in an unauthorized manner. Additionally, apps should not interfere with other apps or the usability of the device.
+As a reminder, any usage of the `` `USE_FULL_SCREEN_INTENT` `` permission must comply with all [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/?authuser=0#!?modal_active=none), including our [Mobile Unwanted Software](https://support.google.com/googleplay/android-developer/answer/9970222), [Device and Network Abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en), and [Ads](https://support.google.com/googleplay/android-developer/answer/9857753?hl=en&sjid=11744761627827448774-NA) policies. Full-screen intent notifications cannot interfere with, disrupt, damage, or access the user’s device in an unauthorized manner. Additionally, apps should not interfere with other apps or the usability of the device.
 
-Learn more about the USE\_FULL\_SCREEN\_INTENT permission in our [Help Center](https://support.google.com/googleplay/android-developer/answer/13392821#full_screen_intent).
+Learn more about the `` `USE_FULL_SCREEN_INTENT` `` permission in our [Help Center](https://support.google.com/googleplay/android-developer/answer/13392821#full_screen_intent).
 
 * * *
 
@@ -1943,7 +1956,8 @@ Learn more about this policy in our [Help Center](https://support.google.com/goo
 
 We don't allow apps that attempt to deceive users or enable dishonest behavior including but not limited to apps which are determined to be functionally impossible. Apps must provide an accurate disclosure, description and images/video of their functionality in all parts of the metadata. Apps must not attempt to mimic functionality or warnings from the operating system or other apps. Any changes to device settings must be made with the user's knowledge and consent and be reversible by the user.
 
-#### Misleading Claims
+Misleading Claims
+-----------------
 
 We don’t allow apps that contain false or misleading information or claims, including in the description, title, icon, and screenshots.
 
@@ -1962,7 +1976,8 @@ We don’t allow apps that contain false or misleading information or claims, in
 
 (1) Apps that claim functionalities that are not possible to implement (using your phone) as a breathalyzer.
 
-#### Deceptive Device Settings Changes
+Deceptive Device Settings Changes
+---------------------------------
 
 We don’t allow apps that make changes to the user’s device settings or features outside of the app without the user’s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets, and the presentation of apps on the homescreen.
 
@@ -1973,7 +1988,8 @@ Additionally, we do not allow:
 *   Apps that mislead users into removing or disabling third-party apps or modifying device settings or features.
 *   Apps that encourage or incentivize users into removing or disabling third-party apps or modifying device settings or features unless it is part of a verifiable security service.
 
-#### Enabling Dishonest Behavior
+Enabling Dishonest Behavior
+---------------------------
 
 We don't allow apps that help users to mislead others or are functionally deceptive in any way, including, but not limited to: apps that generate or facilitate the generation of ID cards, social security numbers, passports, diplomas, credit cards, bank accounts, and driver's licenses. Apps must provide accurate disclosures, titles, descriptions, and images/video regarding the app's functionality and/or content and should perform as reasonably and accurately expected by the user.
 
@@ -1990,7 +2006,8 @@ Any claim that an app is a "prank", "for entertainment purposes" (or other synon
 *   Apps that attempt to modify or obfuscate behavior during review.
 *   Apps with content delivery network (CDN) facilitated downloads that fail to prompt the user and disclose the download size prior to downloading.
 
-#### Manipulated Media
+Manipulated Media
+-----------------
 
 We don't allow apps that promote or help create false or misleading information or claims conveyed through imagery, audio, videos and/or text. We disallow apps determined to promote or perpetuate demonstrably misleading or deceptive imagery, videos and/or text, which may cause harm pertaining to a sensitive event, politics, social issues, or other matters of public concern.
 
@@ -2009,7 +2026,8 @@ Manipulated media must comply with existing Google Play developer policies, incl
     (1) This app provides functionality to alter media clips to mimic a news broadcast, and add famous or public figures to the clip without a watermark.
     
 
-#### Behavior Transparency
+Behavior Transparency
+---------------------
 
 Your app’s functionality should be reasonably clear to users; don't include any hidden, dormant, or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity, and policy compliance.
 
@@ -2282,7 +2300,7 @@ Code that charges users by making calls to premium numbers without user consent.
 _Toll Fraud_  
 Code that tricks users into subscribing to or purchasing content via their mobile phone bill.
 
-Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless access point (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
+Toll Fraud includes any type of billing except premium SMS and premium calls. Examples of this include direct carrier billing, wireless application protocol (WAP), and mobile airtime transfer. WAP fraud is one of the most prevalent types of Toll fraud. WAP fraud can include tricking users to click a button on a silently loaded, transparent WebView. Upon performing the action, a recurring subscription is initiated, and the confirmation SMS or email is often hijacked to prevent users from noticing the financial transaction.
 
 #### Stalkerware
 
@@ -2403,11 +2421,11 @@ The backdoor malware category classification relies on how the code acts. A nece
 
 However, if an app allows arbitrary code execution and we don’t have any reason to believe that this code execution was added to perform a malicious behaviour then the app will be treated as having a vulnerability, rather than being backdoor malware, and the developer will be asked to patch it.
 
-#### Maskware
+#### Riskware
 
-An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal malicious content.
+An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal potentially harmful content.
 
-Maskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
+Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
 * * *
 
@@ -2779,9 +2797,9 @@ For more information, refer to our [User Data policy](https://support.google.com
 
 ### Subscriptions
 
-You, as a developer, must not mislead users about any subscription services or content you offer within your app. It is critical to communicate clearly in any in-app promotions or splash screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions).
+You, as a developer, must not mislead users about any subscription services or content you offer within your app. It is critical to communicate clearly in any in-app promotions, splash screens, and subscription plan selection screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions). If you provide any [subscription benefits](https://support.google.com/googleplay/android-developer/answer/140504#subscriptions-benefit&zippy=%2Ccreate-a-new-subscription), they must be truthful and accurate and must not misrepresent any aspect of the relevant subscription. 
 
-You must be transparent about your offer. This includes being explicit about your offer terms, the cost of your subscription, the frequency of your billing cycle, and whether a subscription is required to use the app. Users should not have to perform any additional action to review the information.
+You must be transparent about your offer. This includes clearly and explicitly disclosing your offer terms, the cost of your subscription, the frequency of your billing cycle, the automatic renewal terms, whether a subscription is required to use the app, and any other material information about the subscription. Users should not have to perform any additional action to review the information.
 
 Subscriptions must provide sustained or recurring value to users throughout the life of the subscription, and may not be used to offer what are effectively one-time benefits to users (for example, SKUs that provide lump sum in-app credits/currency, or single-use game boosters). Your subscription may offer incentive or promotional bonuses, but these must be complementary to the sustained or recurring value provided throughout the life of the subscription**.** Products that do not offer sustained and recurring value must use an [in-app product](https://support.google.com/googleplay/android-developer/answer/1153481) instead of a [subscription product](https://support.google.com/googleplay/android-developer/answer/140504).
 
@@ -2800,15 +2818,15 @@ You may not disguise or mischaracterize one-time benefits to users as subscripti
 
 **Example 1:**
 
-![](//lh3.googleusercontent.com/boxh9ZDBx1EYF_KGdg_yFIb77aqm5Fj47bHB0prd4aDuKpDKUtwnIQClUc9UMTqPG68=w600-h1100)
+![](//storage.googleapis.com/support-kms-prod/u4CL8qzapouZkgqASBdP666d2BC427CceRzo)
 
-① Dismiss button is not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
+① Dismiss button is missing or not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
-② Offer only displays pricing in terms of monthly cost and users may not understand that they will be charged a six month price at the time they subscribe.
+② Offer most prominently displays pricing in terms of monthly breakdown cost, rather than what the users will actually be charged. Users may not understand that they will be charged a six month price at the time they subscribe.
 
 ③ Offer only shows the introductory price and users may not understand what they will automatically be charged at the end of the introductory period.
 
-④ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
+④ Offer is non-compliant because its language and currency are not localized to the user's country, unlike the terms and conditions. This prevents the user from being able to understand the full details of the offer.
 
 **Example 2:**
 
@@ -2818,11 +2836,11 @@ You may not disguise or mischaracterize one-time benefits to users as subscripti
 
 ① Recurring clicks in the same button area causes the user to inadvertently click the final “continue” button to subscribe.
 
-② The amount that users will be charged at the end of the trial is hard to read, such that users may think the plan is free
+② The amount that users will be charged at the end of the trial is hard to read, such that users may think the plan is free.
 
 #### Free Trials & Introductory Offers
 
-**Before a user is enrolled in your subscription:** You must clearly and accurately describe the terms of your offer, including the duration, pricing, and description of accessible content or services. Be sure to let your users know how and when a free trial will convert to a paid subscription, how much the paid subscription will cost, and that a user can cancel if they do not want to convert to a paid subscription.
+**Before a user is enrolled in your subscription:** You must clearly and accurately describe the terms of your offer, including the duration, pricing, and description of accessible content or services. Be sure to let your users know how and when a free trial will convert to a paid subscription, how much the paid subscription will cost, and how a user can cancel if they do not want to convert to a paid subscription.
 
 **Here are some examples of common violations:**
 
@@ -2831,28 +2849,34 @@ You may not disguise or mischaracterize one-time benefits to users as subscripti
 *   Offers that do not clearly demonstrate that a user can access content without a trial (when available).
 *   Offer pricing and terms that are incompletely localized.
 
-![](//lh3.googleusercontent.com/V8zMyVsaZqkJlcnXA6rMHgSxHaxfiDgsCINMsI4lRICZWdqejj400L6NlPsF5oiDwGU=w600-h1100)
+![](//storage.googleapis.com/support-kms-prod/c9mnO2D5GxsGwy7XpmXhidhRVN0UW4RLcB5g)
 
- 
-
-① Dismiss button is not clearly visible and users may not understand that they can access functionality without signing up for the free trial.
+① Dismiss button is missing or not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
 ② Offer emphasizes the free trial and users may not understand that they will automatically be charged at the end of the trial.
 
 ③ Offer does not state a trial period and users may not understand how long their free access to subscription content will last.
 
-④ Offer should be localized in the same language as the terms and conditions so that users can understand the entire offer.
+④ Offer is non-compliant because its language and currency are not localized to the user's country, unlike the terms and conditions. This prevents the user from being able to understand the full details of the offer.
+
+⑤ Offer does not clearly explain how to cancel the free trial for users who do not wish to continue with a paid subscription after the trial period ends.
 
 #### Subscription Management, Cancellation & **Refunds**
 
 If you sell subscriptions in your app(s), you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription. You must also include in your app access to an easy-to-use, online method to cancel the subscription. In your app’s account settings (or equivalent page), you can satisfy this requirement by including:
 
-*   A link to Google Play’s Subscription Center (for apps that use Google Play’s billing system); and/or
+*   A link to Google Play’s Subscription Center (for subscriptions that use Google Play’s billing system); and/or
 *   direct access to your cancellation process.
 
-If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed.
+If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. Users in some countries may be able to cancel their subscription immediately and receive a prorated refund, in accordance with applicable law.
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your subscription, cancellation and refund policies and ensure that the policies comply with applicable law.
+
+**Here are some examples of common violations:**
+
+![](//storage.googleapis.com/support-kms-prod/jRP3QdXKia08MpKYm6VzO4MCtPVxlhvxXuNY)
+
+The app is missing a link to manage and cancel subscriptions in the account setting or equivalent page.
 
 * * *
 
