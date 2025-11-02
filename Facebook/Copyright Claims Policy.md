@@ -661,41 +661,41 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Can I report a Facebook username for infringing my trademark?
 =============================================================
 
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
 
-While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Center.
+While there may be cases where this type of use can be reported for trademark infringement based on the context of its use, please note that not every use of your trademark in a username is necessarily a trademark infringement. A word or phrase that is used in a different context may not violate your trademark. Learn more about [trademark infringement](https://www.facebook.com/help/349534658401968?helpref=faq_content) in our Help Centre.
 
-If you believe that a username infringes your trademark rights, you may want to contact the responsible person and try to resolve your issue with them directly. If you’re sure you want to report a username on Facebook that you believe infringes your trademark, you can do so by [reporting it to Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content).
+If you believe that a username infringes your trademark rights, you may want to contact the responsible person and try to resolve your issue with them directly. If you're sure that you want to report a username on Facebook that you believe infringes your trademark, you can do so by [reporting it to Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content).
 
 Related articles
 ----------------
 
-[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
-
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
+
+[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Can I report an infringement of someone else’s intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
+[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
 
 Related articles
 
-[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
-
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
+
+[How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [What information do I need to include in a trademark report to Meta?](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-[Can I report an infringement of someone else’s intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
+[Can I report an infringement of someone else's intellectual property on Facebook?](https://www.facebook.com/help/401678573192627/?helpref=related_articles)
 
 - - -
 
@@ -1053,16 +1053,16 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Copyright
 =========
 
-These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
+These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
-Laws in different countries may vary. For more information on copyright law, you can visit the website of the [U.S. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organization (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can’t provide you with legal advice, so you may want to speak with an attorney if you have more questions about copyright.
+Laws in different countries may vary. For more information on copyright law, you can visit the website of the [US. Copyright Office](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.copyright.gov%2F) or the [World Intellectual Property Organisation (WIPO)](https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.wipo.int%2Fportal%2Fen%2Findex.html). Facebook can't provide you with legal advice, so you may want to speak with a lawyer if you have more questions about copyright.
 
-Learn More About Copyright
+Learn more about copyright
 --------------------------
 
 What is copyright and what does it protect?
@@ -1073,33 +1073,33 @@ What rights do I have as a copyright owner?
 
 How long does copyright protection last?
 
-What’s the difference between copyright and trademark?
+What's the difference between copyright and trademark?
 
-Copyright and Posting Content on Facebook
+Copyright and posting content on Facebook
 -----------------------------------------
 
-How can I make sure the content I post to Facebook doesn't violate copyright law?
+How can I make sure that the content I post to Facebook doesn't violate copyright law?
 
-What are fair use and other exceptions to copyright
+What are fair use and other exceptions to copyright?
 
 Unintentional actions can still violate copyright on Facebook
 
-A video I posted on Facebook was removed immediately. What happened, and what are my options?
+A video that I posted on Facebook was removed immediately. What happened, and what are my options?
 
-Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
+Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
 
 Repeated intellectual property infringement on Facebook
 
 How does Meta process United States Digital Millennium Copyright Act (DMCA) counter-notifications?
 
-Reporting Copyright Infringement on Facebook
+Reporting copyright infringement on Facebook
 --------------------------------------------
 
 How do I report copyright infringement on Facebook?
 
 What you should consider before submitting a report of intellectual property infringement to Facebook
 
-Can I report an infringement of someone else’s intellectual property on Facebook?
+Can I report an infringement of someone else's intellectual property on Facebook?
 
 How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?
 
@@ -1115,7 +1115,7 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Retract an intellectual property report that you've submitted to Facebook
 
-Rights Manager and Other Intellectual Property Tools
+Rights Manager and other intellectual property tools
 ----------------------------------------------------
 
 What tools does Facebook provide to help me protect my intellectual property in my videos?
@@ -1215,16 +1215,16 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What rights do I have as a copyright owner?
 ===========================================
 
-As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
+As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner's permission.
 
 For example, when someone uploads your photo or video, they make a copy of that photo or video. The same is true if someone uses a song in the soundtrack to a video, even if they paid for a copy of that song on another service.
 
-If you own a copyright, you have the right to grant permission to use your copyrighted work as well as the right to prevent other people from using your copyrighted work without permission.
+If you own a copyright, you have the right to grant permission to use your copyrighted work, as well as the right to prevent other people from using your copyrighted work without permission.
 
 Related articles
 ----------------
@@ -1237,7 +1237,7 @@ Related articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 Related articles
 
@@ -1249,7 +1249,7 @@ Related articles
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
 - - -
 
