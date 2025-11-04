@@ -1641,8 +1641,7 @@ Apps lacking default SMS, Phone, or Assistant handler capability may not declare
 
 Apps may only use the permission (and any data derived from the permission) to provide approved core app functionality Core functionality is defined as the main purpose of the app. This may include a set of core features, which must all be prominently documented and promoted in the app’s description. Without the core feature(s), the app is “broken” or rendered unusable. The transfer, sharing, or licensed use of this data must only be for providing core features or services within the app, and its use may not be extended for any other purpose (for example, improving other apps or services, advertising, or marketing purposes). You may not use alternative methods (including other permissions, APIs, or third-party sources) to derive data attributed to Call Log or SMS related permissions.
 
-Location Permissions
---------------------
+#### Location Permissions
 
 [Device location](https://developer.android.com/training/location) is regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076#personal_sensitive) policy and the [Background Location policy](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en#zippy=), and the following requirements:
 
@@ -1660,8 +1659,7 @@ Apps designed specifically for children must comply with the [Designed for Famil
 
 For more information on the policy requirements, please see [this help article](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en&ref_topic=2364761).
 
-All Files Access Permission
----------------------------
+#### All Files Access Permission
 
 Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076/) policy and the following requirements:
 
