@@ -215,8 +215,7 @@ Apps may only use the permission (and any data derived from the permission) to p
 
 * * *
 
-Location Permissions
---------------------
+#### Location Permissions
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -252,8 +251,7 @@ For more information on the policy requirements, please see [this help article](
 
 * * *
 
-All Files Access Permission
----------------------------
+#### All Files Access Permission
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
