@@ -16,6 +16,8 @@ Platform Terms
 
 _Last updated August 22, 2025_
 
+We’re updating the Platform Terms. The updates go into effect on February 3, 2026. [Read the new terms](https://developers.facebook.com/terms/dfc_platform_terms/preview)
+
 Meta Platform Terms
 ===================
 
@@ -657,6 +659,8 @@ If you use these features, follow these additional policies:
 [14\. Instant Experiences](#instantexperiences)
 
 _Last updated June 2, 2025._
+
+We’re updating the Developer Policies. The updates go into effect on February 3, 2026. [Read the new terms](https://developers.facebook.com/devpolicy/preview)
 
 Developer Policies
 ==================
