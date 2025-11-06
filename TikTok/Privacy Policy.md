@@ -301,3 +301,299 @@ Questions, comments and requests regarding this Privacy Policy should be address
 
 *   Contact us: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy)
 *   Mailing Address: TikTok Inc., Attn: Privacy Policy Inquiry, 5800 Bristol Parkway, Suite 100, Culver City, CA 90230
+
+- - -
+
+TikTok Ad Network Privacy Policy
+
+Effective Date: 30 November 2025
+
+  
+
+This TikTok Ad Network Privacy Policy applies to the personal information that TikTok processes in connection with the TikTok Ad Network in the UK.
+
+If you are a TikTok User (see below), see the TikTok Privacy Policy for information about how TikTok processes personal information in connection with your TikTok Account (see below).
+
+**Data Controller:** TikTok Technology Limited, an Irish company (“**TikTok Ireland**”), and TikTok Information Technologies UK Limited (“**TikTok UK**”), a UK company, ("**TikTok**," "**our**," "**we**," or "**us**") are the joint controllers of your information processed in connection with this [Privacy Policy](https://www.tiktok.com/legal/privacy-policy).
+
+  
+
+**What is the TikTok Ad Network?**
+----------------------------------
+
+The TikTok Ad Network is a mobile advertising network, including support systems and services, operated by TikTok (described below as “**TTAN**”). TTAN works with third parties (described below as “**Publishers**”) who want to sell advertising space on mobile applications that they own or operate or otherwise have the right to serve advertising on (“**Publisher Apps**”). TTAN connects these Publishers with advertisers who wish to deliver advertising on Publisher Apps. TTAN provides reporting to:
+
+*   advertisers - to enable them to understand the effectiveness of their advertising campaigns on Publisher Apps; and
+*   Publishers - to enable them to understand the performance of their advertising space.
+
+Advertisements delivered to Publisher Apps through TTAN are shown to:
+
+*   users holding a TikTok account (“**TikTok Users**” with a “**TikTok Account**”); and
+*   individuals who are not TikTok Users.
+
+TikTok participates in the IAB Europe Transparency & Consent Framework in respect of TTAN and complies with its Specifications and Policies.
+
+**What information TTAN collects**
+----------------------------------
+
+We collect your information in three ways: [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from). If you are a TikTok User, where permitted, we also use your [Information From Your TikTok Account](##info-tiktok-account). More detail is provided below.
+
+### **Information You Provide**
+
+*   **Information When You Contact Us.** When you contact us, or provide feedback, through forms, via email, or otherwise, we collect the information you send us.
+
+### **Automatically Collected Information**
+
+*   **Data from Publisher Apps.** When you interact with a Publisher App, we collect and process certain device and network information. We collect information automatically from your device using our software code (referred to as a “software development kit”, or “SDK”) which the Publisher has integrated into that Publisher App. We process device-specific identifiers such as mobile advertising identifiers (such as the "Google Advertising ID" on Android or the "ID for Advertisers" on iOS devices and similar) in order to create or match an identifier that is unique to your device. In addition, we also collect other information including your IP address, device model and price, operating system (i.e. iOS or Android) and version, internet service provider, mobile country code, mobile network code, mobile carrier, language settings, time zone, connection type (such as cellular or WIFI), connection speed (such as 4G or 5G), screen resolution, the time your device was last updated and started, as well as diagnostic performance information, including crash reports and performance logs. We also collect information about the privacy choices that you make on these Publisher Apps. We process information that we received from Publishers as a joint controller with them. [Learn more](https://ads.tiktok.com/i18n/official/policy/business-products-terms) about our arrangements with these partners.
+*   **Usage Information.** We collect information about your activity on Publisher Apps including the name of the Publisher App that has integrated TTAN and your interactions with any advertisements we deliver on Publisher Apps (e.g. information about the ads served, viewed, or clicked on, such as the type of ad, where and when the ad was served).
+*   **Age-Range and Gender Information.** We assign an age range and gender to each user. We do not infer age range and gender based on personal information collected about you. Instead, we work this out using a mathematical formula that reflects the UK population overall.
+*   **Location Information.** We determine your approximate location based on your IP address, mobile country code and mobile network code.
+
+### **Information From Other Sources**
+
+*   **Advertising and Measurement Partners.** Advertisers and measurement partners share information with us about you and the actions you have taken outside of Publisher Apps on advertiser websites and apps including the pages you visit, whether you download an app, and the products or services you purchased. These partners also share information with us, such as mobile identifiers for advertising which we use to help match you and your actions on advertiser websites and apps with your TTAN profile. Some of our advertisers and other partners enable us to collect similar information directly from their website or app by integrating our [TikTok Advertiser Tools](https://ads.tiktok.com/help/article/tiktok-advertiser-tools-and-related-terms?redirected=1) (such as TikTok Pixel) - for more information, see [Cookies](##cookies). These partners are required to have the necessary rights and permissions to share your information with us before doing so. We process certain information that we receive from advertisers as a joint controller with them. [Learn more](https://ads.tiktok.com/i18n/official/policy/business-products-terms) about our arrangements with these partners.
+
+### **Information From Your TikTok Account**
+
+*   Where you are a TikTok User we will access and use certain account related information connected to your TikTok Account in connection with TTAN (“**Account Data**”):
+
+*   Whether your TikTok Account is associated with an under 18 or 18+ age status, as well as information about your privacy choices.
+*   General location information from your TikTok Account.
+
+*   Where you are a TikTok User, where permitted, we will also access and use certain additional information connected with your TikTok Account in connection with TTAN (“**Shared Data**”):
+
+*   Inferred information associated with your TikTok Account, including inferred age-range, gender and interests.
+*   Usage information, including how you interact with ads shown in your TikTok Account (e.g. clicks and views).
+*   Information from advertisers and measurement partners (including via our [TikTok Advertiser Tools](https://ads.tiktok.com/help/article/tiktok-advertiser-tools-and-related-terms?redirected=1)) about you and the actions you have taken on advertiser websites and apps connected with TikTok, including the pages you visit, whether you download and install an app, the products or services you purchased and other events.
+
+  
+
+**How We Use Your Information**
+-------------------------------
+
+We use your information in connection with TTAN as outlined below. You can find more detail in “[Our Legal Bases and How We Process Your Information](##our-legal)”.
+
+*   Review, save and communicate your privacy choices.
+*   To create personalised ads profiles and show you ads on Publisher Apps based on those profiles.
+*   To limit the number of times an ad is shown to you and sequence the order in which ads are shown to you.
+*   Create analytics reports so that advertisers can see how their ads are performing and better understand their audience, as well as to report to Publishers and ensure that we and our Publishers are paid accordingly.
+*   Review, improve, and develop our services, including by monitoring interactions and usage, analysing how people are using the service, and by training, testing, and improving our technology, such as our machine learning models and algorithms.
+*   Ensure the security of TTAN, detect and prevent fraud, and fix errors.
+*   Comply with our legal obligations.
+*   Protect TTAN and defend our legal rights and commercial interests, and those of our affiliates, Publishers, advertisers, other partners and the public.
+
+  
+
+**How We Share Your Information**
+---------------------------------
+
+### **Service Providers**
+
+We engage service providers that help us provide, support, and develop TTAN and understand how it is used. They provide services such as: cloud hosting services, and fraud detection and brand safety support.
+
+We share [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Information From Your TikTok Account](##info-tiktok-account) with these service providers as necessary to enable them to provide their services.
+
+### **Partners and Publishers**
+
+**Advertisers.** We provide advertisers with information about the performance of their ads on Publisher Apps, including reports that help them measure their effectiveness and understand their audience. These reports contain aggregate information created from [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Shared Data](##shared-data).
+
+**Measurement Partners.** We share [Automatically Collected Information](##auto) with third party measurement providers who create aggregate reports that help us measure advertising served on Publisher Apps and help our advertisers and Publishers understand their performance and their audience.
+
+**Publishers.** We provide Publishers with reports about the performance of their ad space in order to help them understand performance. These reports contain aggregate information created from [Automatically Collected Information](##auto) and [Information From Other Sources](##info-from).
+
+### **Our Corporate Group**
+
+As a global company, TTAN is supported by certain entities within our corporate group (“**Corporate Group**”). These entities process [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Information From Your TikTok Account](##info-tiktok-account) for us, as necessary to provide certain functions such as storage and technical support. For more information on Our Corporate Group, see [Global Operations and Data Transfers](##our).
+
+### **Others**
+
+We share your information in other limited scenarios as follows:
+
+**Corporate Transactions.** Your information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of assets or shares, reorganisation, financing, change of control, or acquisition of all or a portion of our business.
+
+**Legal Obligations and Rights.** We may access, preserve, and share the information described in [What Information We Collect](##what) with law enforcement agencies, public authorities, or other third parties if we have good faith belief that it is necessary to comply with applicable law, legal process or government requests, as consistent with internationally recognised standards.
+
+  
+
+**Our Legal Bases and How We Process Your Information**
+-------------------------------------------------------
+
+We may only use your information when we have a “legal basis” to do so. We use different legal bases depending on why we use your information (in other words, the “purpose” of our processing). These legal bases are legitimate interests (ours, yours or those of another party), consent, and compliance with a legal obligation.
+
+Here we explain the legal bases we rely on when we process your information. This section also describes why we use your information, how this information is processed, the categories of information involved, and the associated rights (which always includes the right to access your information). For more information on how to exercise any of your rights, please check out the “[Your Rights and Choices](##your-rights)” section below.
+
+Publishers participating in TTAN will present you with a consent management platform within each Publisher App. These consent management platforms provide you with information about the purposes for which your data will be collected and used and allow us to establish a legal basis for those purposes.
+
+To provide you with a familiar approach that aligns with best industry standards, Publishers are required to use a consent management platform that complies with the IAB Europe Transparency & Consent Framework.
+
+### **Legitimate Interests**
+
+We use your information where this is necessary to achieve legitimate interests - whether belonging to us, you, or a third party - provided these interests are not outweighed by your interests or fundamental rights and freedoms. We use the information we collect to:
+
+**Provide measurement and analytics services.**
+
+*   We help advertisers and Publishers measure the performance and distribution of ads served on Publisher Apps. We help advertisers understand the characteristics of audiences who interact with ads on Publisher Apps.
+*   **Legitimate Interest relied upon:** To enable advertisers to view and understand how their ads performed and the audience that viewed or interacted with their ads and effectively allocate ad budgets. This is so that they can make informed decisions (such as what kinds of ad campaigns they may want to run and the type of audience they want to reach). In addition, to enable Publishers to understand how their ad space is performing.
+*   **Information used:** [Automatically Collected Information](##auto), [Information From Other Sources](##info-from) and [Shared Data](##shared-data)
+
+**Ensure the security of TTAN, detect and prevent fraud, and to fix errors**
+
+*   We use your information to ensure the security of TTAN, including by identifying and combating fraud and technical or security issues.
+*   **Legitimate Interest relied upon:** To ensure the ongoing stability and security of the TTAN and to ensure it is continuously available and functioning.
+*   **Information used:** [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from).
+
+**Technical delivery of advertising**
+
+*   We use limited technical information to facilitate serving advertising in a format which is appropriate for your device.
+*   **Legitimate Interest relied upon:** To serve advertising that is appropriate for your device.
+*   **Information used:** [Automatically Collected Information](##auto).
+
+**Reviewing, saving and communicating your privacy choices**
+
+*   We review and save your privacy choices to ensure that we are processing your personal information in line with your preferences.
+*   **Legitimate interest relied upon:** To ensure that we deal with and react to your privacy choices appropriately.
+*   **Information used:** [Automatically Collected Information](##auto) and [Account Data](##account).
+
+**Protect TTAN and defend legal rights**
+
+*   We use personal information in connection with preparing for, taking and defending actual or anticipated legal claims or proceedings (including investigating any potential claims we may have or be aware of).
+*   **Legitimate Interest relied upon:** To protect TTAN and defend the legal rights and commercial interests of us, our affiliates, Publishers, advertisers, other partners and the public.
+*   **Information used:** [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Information From Your TikTok Account](##info-tiktok-account).
+
+**Your Rights:** Whenever we use your information on the basis that it is necessary for legitimate interests, you can object to, and request restriction of, such usage.
+
+  
+
+### **Your Consent**
+
+We ask for your consent to access or use your information for specific purposes. If we do, you’ll always be able to revoke your consent as described in more detail in the “[Your Rights and Choices](##your-rights)” section below.
+
+**To create personalised ads profiles and serve you ads on Publisher Apps based on those profiles**
+
+*   To personalise ads based on [Automatically Collected Information](##auto) and [Information From Other Sources](##info-from).
+*   **TikTok Users:** Where you have consented through your TikTok Account, we will also use [Shared Data](##shared-data) to personalise ads that you see on Publisher Apps.
+*   To enable advertisers to serve you with personalised ads on Publisher Apps based on the above information.
+*   **Information used:** [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Shared Data](##shared-data).
+
+**To limit the number of times an ad is shown to you and sequence the order in which ads are shown to you**
+
+*   To limit the number of times an ad is shown to you and sequence the order in which ads are shown to you.
+*   **Information used:** [Automatically Collected Information](##auto).
+
+**To develop and improve our services**
+
+*   We use [Information You Provide](##info), [Automatically Collected Information](##auto), and [Information From Other Sources](##info-from) to understand how people interact with ads, including those served on Publisher Apps to develop, test and make improvements to our services, including to develop and improve our technology, such as ad delivery, machine learning models and algorithms.
+*   **TikTok Users:** Where you have consented through your TikTok Account, we will also use [Shared Data](#shared-data) for these purposes in connection with TTAN.
+*   **Information used:** [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from) and [Shared Data](#shared-data)
+
+**Your rights:** Whenever we use your information based on your consent, you can withdraw your consent at any time. However, your withdrawal of consent will not affect the lawfulness of processing your information based on your consent prior to your withdrawal of consent. You can withdraw your consent as described in more detail in the “[Your Rights and Choices](##your-rights)” section below.
+
+You also have the right to port information you have provided to us that we use based on your consent.
+
+  
+
+### **Compliance with a legal obligation**
+
+We may use your information, including [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Information From Your TikTok Account](##info-tiktok-account) where it is necessary to comply with a legal obligation.
+
+This includes situations where we have obligations to communicate with you or to comply with a valid legal request such as an order or disclosure request from regulators, law enforcement agencies or courts. We generally use [Information You Provide](##info), [Automatically Collected Information](##auto), [Information From Other Sources](##info-from), and [Information From Your TikTok Account](##info-tiktok-account), although it depends on the specific situation.
+
+For example, we process information about your age (as part of [Account Data](##account)) to determine whether you are a TikTok User under the age of 18. This is to ensure that we do not serve ads to under 18s.
+
+  
+
+**Cookies**
+-----------
+
+When Publishers implement the TTAN SDK on their Publisher Apps, the TTAN SDK stores and accesses information on your device for the purposes described in this TikTok Ad Network Privacy Policy.
+
+As noted above, advertisers use TikTok Advertiser Tools on their websites and apps (the TikTok Pixel and Events API). These TikTok Advertiser Tools store and access information on your device for the purposes described in this TikTok Ad Network Privacy Policy.
+
+  
+
+**Your Rights and Choices**
+---------------------------
+
+You have rights and choices when it comes to your information processed in connection with TTAN. Some of these rights apply generally, while others will only apply in certain circumstances. Depending on the scenario, these rights may be subject to some limitations.
+
+You can exercise your rights and choices for TTAN through our Privacy Webform which can be accessed [here](https://www.tiktok.com/legal/report/privacy/webform/en-GB).
+
+To exercise your rights in respect of [Information From Your TikTok Account](##info-tiktok-account) processed in connection with your TikTok Account, see the [TikTok Privacy Policy](https://www.tiktok.com/legal/page/eea/privacy-policy/en).
+
+### **Withdrawal of consent**
+
+You can withdraw your consent at any time. As noted above, your withdrawal of consent will not affect the lawfulness of processing your information based on your consent prior to your withdrawal of consent.
+
+### **Access your information.**
+
+You can ask us, free of charge, to confirm what information we process about you, to provide certain information about the processing, and for a copy of your information.
+
+### **Delete your information.**
+
+You can ask us to delete your information.
+
+### **Rectify your information.**
+
+You can change or ask us to change or correct your information where that information is not accurate.
+
+### **Port your information.**
+
+You have the right to data portability in circumstances where we rely on consent as our legal basis. This means that you have the right to receive your information in a structured, commonly used, and machine-readable format and to share it with a third party.
+
+### **Object to the processing of your information**.
+
+You also have the right to object to the processing of your information in certain circumstances. This right applies when we are pursuing our legitimate interests or those of a third party.
+
+### **Restrict the processing of your information**.
+
+You have the right to request the restriction of the processing of your information where (a) you are challenging the accuracy of the information, (b) the information has been unlawfully processed, but you are opposing the deletion of that information, (c) where you need the information to be retained for the pursuit or defence of a legal claim, or (d) you have objected to processing and you are awaiting the outcome of that objection request.
+
+Before we can respond to a request to exercise one or more of the rights listed above, you may be required to verify your identity or (where applicable) your TikTok Account details or provide additional information so that we can understand your request.
+
+We encourage you to “[Contact us](##contact)” if you are not satisfied with how we have responded to any of your rights requests.
+
+You have the right to lodge a complaint with our lead supervisory authority. For TikTok UK, this is the Information Commissioner. For TikTok Ireland, this is the Irish Data Protection Commission or your local supervisory authority.
+
+  
+
+**Data Security and Retention**
+-------------------------------
+
+Security of your information is important to us. We maintain appropriate technical, administrative, and physical security measures that are designed to protect your information from unauthorised access, theft, disclosure, modification, or loss. We regularly review our security measures to consider available new technology and methods.
+
+We retain information for as long as necessary for the purposes set out in this TikTok Ad Network Privacy Policy. We also retain information when necessary to comply with contractual and legal obligations, when we have a legitimate business interest to do so, and for the exercise or defence of legal claims.
+
+The retention periods will be different depending on the type of information and the purposes for which we use the information.
+
+**Our Global Operations and Data Transfers**
+--------------------------------------------
+
+To support our global operations:
+
+*   We store the information described in the “[What Information We Collect](##what)” section in servers located in the United States, Malaysia and Singapore.
+*   Certain entities in our Corporate Group, located outside your country of residence (see below), are given limited remote access to the information described in “[What Information We Collect](##what)”, so they can provide certain functions, as described in the Our Corporate Group section in “How We Share Your Information”. This access is limited, secure and only granted where necessary under strict security controls and authorisation approval protocols.
+*   We share “[What Information We Collect](##what)” with service providers, partners and other third party entities, as described in “How We Share Your Information”. These third parties can be located outside your country of residence.
+
+These entities commit to processing information in compliance with applicable privacy laws and to implementing appropriate security measures to protect your information.
+
+When we transfer your information outside of the EEA, the UK, or Switzerland, we ensure it benefits from an adequate level of data protection by relying on:
+
+*   Adequacy decisions. These are decisions from the [UK Government](https://www.gov.uk/government/publications/uk-approach-to-international-data-transfers/international-data-transfers-building-trust-delivering-growth-and-firing-up-innovation) or [European Commission](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) under Article 45 GDPR (or equivalent decisions under other laws) where they recognise that a country offers an adequate level of data protection. We transfer your information as described in “[What Information We Collect](##what)” to some countries with adequacy decisions. This includes where certain entities in our Corporate Group located in [Canada](https://eur-lex.europa.eu/eli/dec/2002/2\(1\)/oj/eng)**,** [Israel](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32011D0061)**,** [Japan](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2019.076.01.0001.01.ENG&toc=OJ:L:2019:076:TOC) and [South Korea](https://ec.europa.eu/info/files/decision-adequate-protection-personal-data-republic-korea-annexes_en) are granted limited remote access to information described in “[What Information We Collect](##what)” to provide important functions; or
+*   Article 49. In the absence of an adequacy decision, we rely on Article 49 (1)(b) and (c) GDPR to transfer purchase information to sellers and transaction fulfilment providers in countries without an adequacy decision when necessary to provide shopping features to facilitate the purchase and delivery of products, goods and services, or to process your orders; or
+*   Standard contractual clauses. The European Commission has approved [contractual clauses](https://commission.europa.eu/document/download/e60b1cd4-d802-44d5-9cac-ddd3c943a5ef_en?filename=1_en_annexe_acte_autonome_cp_part1_v5_0.pdf) under Article 46 of the GDPR that allows companies in the EEA to transfer data outside the EEA. These (and their approved equivalent for the [UK](https://ico.org.uk/media2/migrated/4019539/international-data-transfer-addendum.pdf) and Switzerland) are called standard contractual clauses. We rely on standard contractual clauses to transfer information as described in “[What Information We Collect](##what)” to certain entities in our Corporate Group and third parties in countries without an adequacy decision. This includes where we provide our Corporate Group entities in the United States, Malaysia and Singapore with the information described in “[What Information We Collect](##what)” under standard contractual clauses so that they can store it on secure servers for us. It also includes where certain entities in our Corporate Group located in Australia, Brazil, China, Malaysia, Philippines, Singapore and the United States are granted, under standard contractual clauses, limited remote access to information described in “[What Information We Collect](##what)” to provide important functions.
+
+For a copy of these adequacy decisions or standard contractual clauses, please contact us via the details provided in the “[Contact us](##contact)” section below.
+
+**Privacy Policy Updates**
+--------------------------
+
+We may amend or update this TikTok Ad Network Privacy Policy from time to time. The “Last Updated” date at the top of this policy reflects the effective date of such policy changes.
+
+**Contact Us**
+--------------
+
+You can contact us about this TikTok Ad Network Privacy Policy through our Privacy Webform which can be accessed [here](https://www.tiktok.com/legal/report/privacy/webform/en-GB). You can reach TikTok's Data Protection Officer [here](https://www.tiktok.com/legal/report/DPO).
+
+You can also contact us at the following postal address.
+
+*   TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
