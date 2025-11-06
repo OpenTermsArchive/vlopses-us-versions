@@ -478,6 +478,8 @@ Time Zone API
 
 Weather API
 
+**Separate from our Core Services listed above, see** [**here**](https://cloud.google.com/terms/maps-platform/maps-analytics-services) **for our Generally Available Google Maps Platform Analytics Services**
+
 - - -
 
 Mobility services policy overview
