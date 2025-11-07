@@ -122,11 +122,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -134,11 +134,11 @@ Related articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
@@ -893,39 +893,39 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Report a third-party app on Facebook that you think infringes your intellectual property
 ========================================================================================
 
-Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn’t control the content made available through these apps.
+Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
-If you believe an app developer isn’t following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
+If you believe that an app developer isn't following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
 
 Related articles
 ----------------
 
-[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
-[Report Content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+[Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
+
+[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+
+[Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
 Related articles
 
-[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
-[Report Content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+[Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
+
+[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+
+[Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
 - - -
 
@@ -1665,23 +1665,23 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent?
 =================================================================================
 
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
-If you wish to reach our designated agent through other (and slower) methods, you can contact:
+If you wish to contact out designated agent via other (and slower) methods, you can contact:
 
 Meta Platforms, Inc.  
-Attn: Meta Designated Agent  
+FAO: Meta Designated Agent  
 1601 Willow Road  
-Menlo Park, California 94025  
-650.543.4800 (phone)  
+Menlo Park, California 94025, USA  
++1 650 543 4800 (phone)  
 ip@fb.com
 
-Please keep in mind that if you submit a report to our designated agent by any means other than through our online form, you must include a [complete copyright claim](https://www.facebook.com/help/231463960277847?helpref=faq_content).
+Please bear in mind that if you submit a report to our designated agent by any means other than through our online form, you must include a [complete copyright claim](https://www.facebook.com/help/231463960277847?helpref=faq_content).
 
 Related articles
 ----------------
@@ -1690,7 +1690,7 @@ Related articles
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
+[About charity registries](https://www.facebook.com/help/1160346577807826/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
@@ -1702,7 +1702,7 @@ Related articles
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Japan Information Distribution Platform (Measurement) Act](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
+[About charity registries](https://www.facebook.com/help/1160346577807826/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
