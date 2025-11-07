@@ -71,7 +71,7 @@ Cookies also allow us to provide insights about the people who use the Meta Prod
 
 *   For example: We use cookies to help businesses understand the kinds of people who like their Facebook Page or use their apps so that they can provide more relevant content and develop features that are likely to be interesting to their customers.
 
-We also use cookies, such as our "oo" cookie, which has a lifespan of 400 days, to help you opt out of seeing ads from Meta based on your activity on third-party websites. [Learn more](https://www.facebook.com/help/769828729705201?ref=cookies&locale2=en_US) about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
+We also use cookies, such as our "oo" cookie, which has a lifespan of 400 days, to help you opt out of seeing ads from Meta based on your activity on third-party websites. [Learn more](https://www.facebook.com/help/769828729705201?ref=cookies&entry_point=POLICY_SUBPAGE%3Asubpage-1.3&locale2=en_US) about the information we receive, how we decide which ads to show you on and off the Meta Products and the controls that are available to you.
 
 Site features and services
 --------------------------
@@ -126,9 +126,9 @@ Where do we use cookies?
 
 We may place cookies on your computer or device and receive information stored in cookies when you use or visit:
 
-*   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies&locale2=en_US);
-*   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies&locale2=en_US); and
-*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policy?subpage=1.subpage.3-AppBrowserAndDevice&locale2=en_US) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
+*   The [Meta Products](https://www.facebook.com/help/1561485474074139?ref=cookies&entry_point=POLICY_SECTION%3A2_where&locale2=en_US);
+*   Products provided by other members of the [Meta Companies](https://www.facebook.com/help/111814505650678?ref=cookies&entry_point=POLICY_SECTION%3A2_where&locale2=en_US); and
+*   Websites and apps provided by other companies that use the Meta Products, including companies that incorporate Meta technologies into their websites and apps. Meta uses cookies and receives information when you visit those sites and apps, including [device information](https://www.facebook.com/privacy/policy?subpage=1.subpage.3-AppBrowserAndDevice&entry_point=POLICY_SECTION%3A2_where&locale2=en_US) and information about your activity, without any further action from you. This occurs whether or not you have a Facebook or Instagram account or are logged in.
 
 [Return to top](#)
 
@@ -218,42 +218,42 @@ We use cookies to help personalise and improve content and services, provide a s
 If you have a Facebook account
 ------------------------------
 
-*   You can use your [ad preferences](https://accountscenter.facebook.com/ad_preferences?locale2=en_US) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
-*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?locale2=en_US).
-*   The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the [Meta Company Products](https://www.facebook.com/help/195227921252400?locale2=en_US). One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?locale2=en_US).
-*   You can review Your activity off Meta technologies, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content&locale2=en_US), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&locale2=en_US), how we use it and how you can manage it.
+*   You can use your [ad preferences](https://accountscenter.facebook.com/ad_preferences?entry_point=POLICY_SUBPAGE%3Asubpage-4.1&locale2=en_US) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   To show you better ads, we use data that advertisers and other partners provide us about your activity off Meta Company Products, including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?entry_point=POLICY_SUBPAGE%3Asubpage-4.1&locale2=en_US).
+*   The Meta Audience Network is a way for advertisers to show you ads in apps and websites off the [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SUBPAGE%3Asubpage-4.1&locale2=en_US). One of the ways that Audience Network shows relevant ads is by using your ad preferences to determine which ads you may be interested in seeing. You can control this in your [ad settings](https://accountscenter.facebook.com/ad_preferences/ad_settings?entry_point=POLICY_SUBPAGE%3Asubpage-4.1&locale2=en_US).
+*   You can review Your activity off Meta technologies, which is a summary of activity that businesses and organisations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?helpref=faq_content&entry_point=POLICY_SUBPAGE%3Asubpage-4.1&locale2=en_US), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalised experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&entry_point=POLICY_SUBPAGE%3Asubpage-4.1&locale2=en_US), how we use it and how you can manage it.
 
 If you have an Instagram account
 --------------------------------
 
-*   You can use your [ad preferences](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
-*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400?locale2=en_US), including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%2Fad_settings%2F).
-*   You can review Your activity off Meta technologies which is a summary of activity that businesses and organizations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?locale2=en_US), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalized experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&locale2=en_US), how we use it and how you can manage it.
+*   You can use your [ad preferences](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.2) to learn why you're seeing a particular ad and control how we use information that we collect to show you ads.
+*   To show you better ads we use data that advertisers and other partners provide us about your activity off [Meta Company Products](https://www.facebook.com/help/195227921252400?entry_point=POLICY_SUBPAGE%3Asubpage-4.2&locale2=en_US), including websites and apps. You can control whether we use this data to show you ads in your [ad settings](https://lm.facebook.com/l.php?u=https%3A%2F%2Faccountscenter.instagram.com%2Fad_preferences%2Fad_settings%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.2).
+*   You can review Your activity off Meta technologies which is a summary of activity that businesses and organizations share with us about your interactions with them, such as visiting their apps or websites. They use our [Business Tools](https://www.facebook.com/help/2230503797265156?entry_point=POLICY_SUBPAGE%3Asubpage-4.2&locale2=en_US), such as Facebook Login or Meta Pixel, to share this information with us. This helps us do things such as give you a more personalized experience on Meta Products. Learn more [about your activity off of Meta technologies](https://www.facebook.com/help/2207256696182627?helpref=faq_content&entry_point=POLICY_SUBPAGE%3Asubpage-4.2&locale2=en_US), how we use it and how you can manage it.
 
 Everyone
 --------
 
-You can opt out of seeing online interest-based ads from Meta and other participating companies through the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F) in the US, the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F) in Canada or the [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F) in Europe. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
+You can opt out of seeing online interest-based ads from Meta and other participating companies through the [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.3) in the US, the [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.3) in Canada or the [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.3) in Europe. Please note that ad blockers and tools that restrict our cookie use may interfere with these controls.
 
 More information about online advertising
 -----------------------------------------
 
 The advertising companies we work with generally use cookies and similar technologies as part of their services. To learn more about how advertisers generally use cookies and the choices they offer, you can review the following resources:
 
-*   [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F)
-*   [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F)
-*   [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F)
+*   [Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.aboutads.info%2Fchoices%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.4)
+*   [Digital Advertising Alliance of Canada](https://lm.facebook.com/l.php?u=http%3A%2F%2Fyouradchoices.ca%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.4)
+*   [European Interactive Digital Advertising Alliance](https://lm.facebook.com/l.php?u=http%3A%2F%2Fwww.youronlinechoices.eu%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.4)
 
 Browser cookie controls
 -----------------------
 
 In addition, your browser or device may offer settings that allow you to choose whether browser cookies are set and to delete them. These controls vary by browser, and manufacturers may change both the settings they make available and how they work at any time. As of 23 June 2021, you may find additional information about the controls offered by popular browsers at the links below. Certain parts of the Meta Products may not work properly if you have disabled browser cookie use. Please be aware that these controls are distinct from the controls that we offer you.
 
-*   [Google Chrome](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647)
-*   [Internet Explorer](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.microsoft.com%2Fen-ie%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies)
-*   [Firefox](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenhanced-tracking-protection-firefox-desktop)
-*   [Safari](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-ie%2Fguide%2Fsafari%2Fsfri11471%2Fmac)
-*   [Safari Mobile](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201265)
-*   [Opera](https://lm.facebook.com/l.php?u=https%3A%2F%2Fblogs.opera.com%2Fnews%2F2015%2F08%2Fhow-to-manage-cookies-in-opera%2F)
+*   [Google Chrome](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.google.com%2Fchrome%2Fanswer%2F95647%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Internet Explorer](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.microsoft.com%2Fen-ie%2Fhelp%2F17442%2Fwindows-internet-explorer-delete-manage-cookies%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Firefox](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fkb%2Fenhanced-tracking-protection-firefox-desktop%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Safari](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-ie%2Fguide%2Fsafari%2Fsfri11471%2Fmac%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Safari Mobile](https://lm.facebook.com/l.php?u=https%3A%2F%2Fsupport.apple.com%2Fen-us%2FHT201265%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
+*   [Opera](https://lm.facebook.com/l.php?u=https%3A%2F%2Fblogs.opera.com%2Fnews%2F2015%2F08%2Fhow-to-manage-cookies-in-opera%2F%3Fentry_point%3DPOLICY_SUBPAGE%253Asubpage-4.5)
 
 [Return to top](#)
