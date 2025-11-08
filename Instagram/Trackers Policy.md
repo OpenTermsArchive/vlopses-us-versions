@@ -32,7 +32,7 @@ This policy explains how we use cookies and the choices you have. Except as othe
 Why do we use cookies?
 ======================
 
-Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we [use and how we use them\[1\]](#annotation-1) may change over time as we improve and update Meta Products, we typically use them for the following purposes:
+Cookies help us provide, protect and improve the Meta Products, such as by personalising content, tailoring and measuring ads, and providing a safer experience. The cookies that we use include session cookies, which are deleted when you close your browser, and persistent cookies, which stay in your browser until they expire or you delete them. The cookies we [use and how we use them\[1\]](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_SECTION%3A1_why&locale2=en_US#annotation-1) may change over time as we improve and update Meta Products, we typically use them for the following purposes:
 
 Authentication
 --------------
@@ -109,15 +109,15 @@ We've listed below cookies we commonly use and the common purposes for which we 
 
 | ### Cookie | ### Description | ### Lifespan |
 | --- | --- | --- |
-| c\_user; xs | We use these cookies to [authenticate](#subpage-1.1) you and keep you logged in as you navigate between Facebook Pages. | 365 days |
-| sb; dbln | These cookies help us to [identify your browser securely.](#subpage-1.2) | 400 days |
-| datr | This is a unique identifier for your browser that, among other things, [helps us protect you from fraud.](#subpage-1.2) This cookie also helps us to identify browsers used by malicious actors and to prevent cyber-security attacks. | 400 days |
-| csrf | This cookie helps us to [keep your account secure.](#subpage-1.2) | Session |
-| fr  | Depending on your choices, this cookie is used to [deliver, measure and improve the relevancy of ads.](#subpage-1.3) | 90 days |
-| \_fbp; \_fbc | These cookies identify browsers [for businesses using our Meta Products](#subpage-1.7) for the purposes of providing advertising and site analytics services. | 90 days |
-| oo  | This cookie helps store your [advertising preferences.](#subpage-1.3) | 400 days |
-| presence | This cookie [supports your use](#subpage-1.4) of Messenger chat windows. | 30 days |
-| dpr; wd | These cookies help [deliver an optimal experience](#subpage-1.5) for your device’s screen. | 7 days |
+| c\_user; xs | We use these cookies to [authenticate](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.1) you and keep you logged in as you navigate between Facebook Pages. | 365 days |
+| sb; dbln | These cookies help us to [identify your browser securely.](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.2) | 400 days |
+| datr | This is a unique identifier for your browser that, among other things, [helps us protect you from fraud.](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.2) This cookie also helps us to identify browsers used by malicious actors and to prevent cyber-security attacks. | 400 days |
+| csrf | This cookie helps us to [keep your account secure.](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.2) | Session |
+| fr  | Depending on your choices, this cookie is used to [deliver, measure and improve the relevancy of ads.](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.3) | 90 days |
+| \_fbp; \_fbc | These cookies identify browsers [for businesses using our Meta Products](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.7) for the purposes of providing advertising and site analytics services. | 90 days |
+| oo  | This cookie helps store your [advertising preferences.](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.3) | 400 days |
+| presence | This cookie [supports your use](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.4) of Messenger chat windows. | 30 days |
+| dpr; wd | These cookies help [deliver an optimal experience](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_ANNOTATION%3Aexplanation%2F1_common_cookies_and_uses&locale2=en_US#subpage-1.5) for your device’s screen. | 7 days |
 
 [Return to top](#)
 
@@ -137,7 +137,7 @@ Do other Companies use cookies in connection with the Meta Products?
 
 Yes, other companies use cookies on the Meta Products to provide advertising, measurement, marketing and analytics services to us, and to provide certain features and improve our services for you.
 
-For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. [Learn more\[2\]](#annotation-2) about the companies that use cookies on the Meta Products.
+For example, other companies’ cookies help tailor ads off of Meta Products, measure their performance and effectiveness and support marketing and analytics. Certain features on the Meta Products use cookies from other companies to function, for example, certain maps, payment and security features. [Learn more\[2\]](https://mbasic.facebook.com/privacy/policies/cookies/printable?entry_point=POLICY_SECTION%3A3_do&locale2=en_US#annotation-2) about the companies that use cookies on the Meta Products.
 
 Third party companies also use cookies on their own sites and apps in connection with the Meta Products. To understand how other companies use cookies, please review their policies.
 
