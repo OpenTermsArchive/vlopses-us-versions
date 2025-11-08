@@ -4119,6 +4119,24 @@ Web Domain
 
 shop.x.com
 
+Name
+
+g\_state
+
+Description
+
+This cookie is for Google authentication
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://policies.google.com/privacy
+
+Web Domain
+
+x.com
+
 #### Share this article
 
 Post
