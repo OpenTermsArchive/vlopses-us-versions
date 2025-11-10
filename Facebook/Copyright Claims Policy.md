@@ -471,26 +471,26 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
-=====================================================================================================================================
+Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?
+================================================================================================================================
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
-If we remove content that you posted because of an intellectual property report submitted through our online form, you'll receive a notification from Facebook that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn't have been removed, you can follow up with the rights owner directly to try to resolve the issue.
+If we remove content you posted because of an intellectual property report submitted through our online form, you’ll receive a notification from Facebook that may include the name and email address of the rights owner who made the report and/or other details of the report. If you believe the content shouldn’t have been removed, you can follow up with the rights owner directly to try to resolve the issue.
 
-If you're an admin on a Page, and content that another admin posted on the Page was removed due to an intellectual property report, you'll receive a notification with information about the content that was removed, as well as the name of the other admin who posted it.
+If you're an admin on a Page, and content another admin posted on the Page was removed due to an intellectual property report, you'll receive a notification with information about the content that was removed, as well as the name of the other admin who posted it.
 
 Appealing the removal of content
 --------------------------------
 
-If your content was removed because of a trademark report, you can submit an appeal. Instructions will be available for you in the notification that you receive from us in your Facebook account. [Learn more](https://www.facebook.com/help/www/561080341172839?helpref=platform_switcher) about our appeals process.
+If your content was removed because of a trademark report, you can submit an appeal. Instructions will be available for you in the notification you receive from us in your Facebook account. [Learn more](https://www.facebook.com/help/www/561080341172839?helpref=platform_switcher) about our appeals process.
 
 Related articles
 ----------------
 
-[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -498,11 +498,11 @@ Related articles
 
 [How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
-[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
 Related articles
 
-[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -510,7 +510,7 @@ Related articles
 
 [How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
-[Why didn't Facebook remove the content that I reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
 - - -
 
@@ -1467,37 +1467,37 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-A video that I posted on Facebook was removed immediately. What happened, and what are my options?
-==================================================================================================
+A video I posted on Facebook was removed immediately. What happened, and what are my options?
+=============================================================================================
 
-If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else's copyrighted content. This could include video, audio or both.
+If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
-If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information that you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
+If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
 
-If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still haven't received an email from us, you may also want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
+If you don't see an email from us regarding the removal, please make sure that you are checking the email address that is associated with your Facebook account. You can find your primary address under your [account settings.](https://www.facebook.com/settings) If you still have not received an email from us, you also may want to review your Facebook [notification settings](https://www.facebook.com/help/154884887910599?helpref=faq_content) as well as your email's spam folder.
 
 Related articles
 ----------------
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
+[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+
+[Why a video you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
+
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
-
-[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
-
-[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
 Related articles
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
 
+[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+
+[Why a video you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
+
 [What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
-
-[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
-
-[Why a video that you are looking for may no longer be available](https://www.facebook.com/help/219494491817203/?helpref=related_articles)
 
 - - -
 
