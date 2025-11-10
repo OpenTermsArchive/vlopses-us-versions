@@ -893,39 +893,39 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 Report a third-party app on Facebook that you think infringes your intellectual property
 ========================================================================================
 
-Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn’t control the content made available through these apps.
+Some apps you may find on Facebook are created and operated by third-party developers. Meta doesn't control the content made available through these apps.
 
-If you believe an app developer isn’t following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
+If you believe that an app developer isn't following the Facebook [Terms of Service](https://www.facebook.com/terms.php), we suggest contacting the developer directly with your concerns.
 
 Related articles
 ----------------
 
-[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
-[Report Content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+[Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
+
+[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+
+[Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
 Related articles
 
-[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
-
-[Report Content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+[Report content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
+
+[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+
+[Retract an intellectual property report that you've submitted to Facebook](https://www.facebook.com/help/1206218382801108/?helpref=related_articles)
 
 - - -
 
@@ -1621,21 +1621,21 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 How do I report copyright infringement on Facebook?
 ===================================================
 
-If you believe content on Facebook is infringing on your copyright, you can take one or more of the following actions:
+If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
-*   You can report copyright infringement to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
-*   You can contact our [designated agent.](https://www.facebook.com/help/190268144407210?helpref=faq_content) If you contact our designated agent, please be sure to include a complete copyright claim in your report.
+*   You can report copyright infringement to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
+*   You can contact our [designated agent](https://www.facebook.com/help/190268144407210?helpref=faq_content). If you contact our designated agent, please make sure that you include a complete copyright claim in your report.
 *   You may be able to resolve the issue without contacting Meta, by sending a message to the person who posted the content.
 
 Please note:
 
-*   Only the copyright owner or their authorized representative may file a report of copyright infringement. If you believe something on Facebook infringes someone else’s copyright, you may want to let the rights owner know.
-*   We regularly provide the rights owner’s name, your email and the details of your report to the person who posted the content you are reporting. In the case that you are an authorized representative submitting a report, we provide the name of the organization or client that owns the right in question. For this reason, you may wish to provide a valid generic business or professional email.
+*   Only the copyright owner or their authorised representative may file a report of copyright infringement. If you believe that something on Facebook infringes someone else's copyright, you may want to let the rights owner know.
+*   We regularly provide the rights owner's name, your email address and the details of your report to the person who posted the content you are reporting. In the case that you are an authorised representative submitting a report, we provide the name of the organisation or client that owns the right in question. For this reason, you may wish to provide a valid generic business or professional email address.
 
 Related articles
 ----------------
@@ -1648,7 +1648,7 @@ Related articles
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 Related articles
 
@@ -1660,7 +1660,7 @@ Related articles
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
 - - -
 
@@ -1852,18 +1852,18 @@ Related articles
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
 What tools does Facebook provide to help me protect my intellectual property in my videos?
 ==========================================================================================
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else.
 
-Rights Manager, Facebook's rights management technology, allows copyright owners to upload and maintain a reference library of video content they want to monitor and protect, including live video streams. You may be able to use Rights Manager to take a number of actions on a video that matches your content, including:
+Rights Manager, Facebook's rights management technology, allows copyright owners to upload and maintain a reference library of video content that they want to monitor and protect, including live video streams. You may be able to use Rights Manager to take a number of actions on a video that matches your content, including:
 
 *   **Block:** A blocked video is not viewable by anyone other than the person who posted it. If a blocked video is posted on a Page, it is not viewable by anyone other than administrators of that Page. You may be able to block a video worldwide or in specific countries where you own rights. Learn more about [blocking in Rights Manager](https://www.facebook.com/business/help/156214071866178?id=237023724106807&helpref=faq_content).
-*   **Claim Ad Earnings**: You may be able to claim money earned from a video that contains ad breaks. Your claim may apply to money earned from all views on a video or only views in specific countries where you own rights.
-*   **Apply Attribution**: You may be able to insert a banner below a video linking it to your own content. You may be able to apply this banner worldwide or only in specific countries where you own rights.
+*   **Claim ad earnings**: You may be able to claim money earned from a video that contains ad breaks. Your claim may apply to money earned from all views on a video or only views in specific countries where you own rights.
+*   **Apply attribution**: You may be able to insert a banner below a video linking it to your own content. You may be able to apply this banner worldwide or only in specific countries where you own rights.
 *   **Report**: You can use Rights Manager to send a copyright report to Facebook, which may result in the reported video being removed.
 
 To learn more about Rights Manager, visit [https://rightsmanager.fb.com](https://l.facebook.com/l.php?u=https%3A%2F%2Frightsmanager.fb.com%2F).
@@ -1871,11 +1871,11 @@ To learn more about Rights Manager, visit [https://rightsmanager.fb.com](https:/
 Related articles
 ----------------
 
-[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+
+[A video that I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
-
-[A video I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
 [How Facebook uses your video to confirm your identity](https://www.facebook.com/help/384498659759786/?helpref=related_articles)
 
@@ -1883,11 +1883,11 @@ Related articles
 
 Related articles
 
-[How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+[How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
+
+[A video that I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
-
-[A video I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
 [How Facebook uses your video to confirm your identity](https://www.facebook.com/help/384498659759786/?helpref=related_articles)
 
