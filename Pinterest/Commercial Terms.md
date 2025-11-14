@@ -1481,8 +1481,6 @@ You can’t use Pinterest ads products if it would be prohibited by [US sanction
 *   North Korea
 *   Syria
 
-More simply put
-
 Keep in mind...
 ===============
 
