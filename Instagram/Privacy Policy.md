@@ -9,7 +9,7 @@ Updating on Dec 16, 2025 We’ll start using interactions with AIs to personaliz
 
 What is the Privacy Policy and what does it cover?
 
-Effective June 16, 2025 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/) | [See previous versions](https://privacycenter.instagram.com/policy/?show_versions=1)
+Effective June 16, 2025 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/version/10052835831416190/) | [See previous versions](https://privacycenter.instagram.com/policy/version/10052835831416190/?show_versions=1)
 
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use [Meta Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) in the way that’s right for you.
 
@@ -205,7 +205,7 @@ And if we sell or transfer all or part of our business to someone else, in some 
 
 How do the Meta Companies work together?
 
-We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/legal/meta-company-products) include all the [Meta Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) covered by this Policy, plus other products like WhatsApp and more.
+We are part of the [Meta Companies](https://www.facebook.com/help/111814505650678) that provide Meta Company Products. [Meta Company Products](https://www.facebook.com/help/195227921252400) include all the [Meta Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) covered by this Policy, plus other products like WhatsApp and more.
 
 We share information we collect, infrastructure, systems and technology with the other Meta Companies. [Learn more](https://privacycenter.instagram.com/policy/?section_id=9-HowDoWeTransfer) about how we transfer information to other countries.
 
