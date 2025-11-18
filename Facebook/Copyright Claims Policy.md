@@ -1857,16 +1857,36 @@ Related Articles
 What tools does Facebook provide to help me protect my intellectual property in my videos?
 ==========================================================================================
 
-In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else.
+In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner’s demonstrated needs.
 
-Rights Manager, Facebook's rights management technology, allows copyright owners to upload and maintain a reference library of video content they want to monitor and protect, including live video streams. You may be able to use Rights Manager to take a number of actions on a video that matches your content, including:
+Rights Manager
+--------------
 
-*   **Block:** A blocked video is not viewable by anyone other than the person who posted it. If a blocked video is posted on a Page, it is not viewable by anyone other than administrators of that Page. You may be able to block a video worldwide or in specific countries where you own rights. Learn more about [blocking in Rights Manager](https://www.facebook.com/business/help/156214071866178?id=237023724106807&helpref=faq_content).
-*   **Claim Ad Earnings**: You may be able to claim money earned from a video that contains ad breaks. Your claim may apply to money earned from all views on a video or only views in specific countries where you own rights.
-*   **Apply Attribution**: You may be able to insert a banner below a video linking it to your own content. You may be able to apply this banner worldwide or only in specific countries where you own rights.
-*   **Report**: You can use Rights Manager to send a copyright report to Facebook, which may result in the reported video being removed.
+Rights Manager allows rights holders to manage, authorize and protect their video, audio and image content at scale. Participating rights holders can upload reference files of the content they own directly into the tool. Rights Manager will then scan Instagram and Facebook to detect user content matching those reference files. Rights Manager provides rights holders with tailored protection capabilities that meet their particular needs.
 
-To learn more about Rights Manager, visit [https://rightsmanager.fb.com](https://l.facebook.com/l.php?u=https%3A%2F%2Frightsmanager.fb.com%2F).
+Learn more about [Rights Manager](https://l.facebook.com/l.php?u=https%3A%2F%2Frightsmanager.fb.com%2F).
+
+Content protection
+------------------
+
+Content protection is for individual content creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. At this time, content protection can be accessed in Professional dashboard in the Facebook app on mobile devices.
+
+Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
+
+Actions you can take with our copyright management tools
+--------------------------------------------------------
+
+When your content is detected on a Page, profile, or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
+
+*   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
+*   **Block**: Prevent the matching content from being visible to anyone other than the Page, profile, or Instagram account that posted it.
+*   **Monetize**: You may be able to claim money earned from a video that is eligible for monetization on Meta platforms. Note: this feature is not available to all creators using content protection and/or Rights Manager at this time.
+*   **Apply attribution or ownership links**: You may be able to insert a banner below select Facebook matches linking it to your own content, Page, or profile.
+*   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
+
+If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and grant access to protection features specific to your needs.
+
+Please note, all users on Meta platforms have access to the [copyright report form](https://www.facebook.com/help/ipreporting/report/copyright) to report individual instances when content has been used without permission. The form can be submitted to request a takedown of content at any time, no application is necessary.
 
 Related Articles
 ----------------
