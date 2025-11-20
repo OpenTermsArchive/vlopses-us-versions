@@ -136,9 +136,15 @@ _**Disclaimer:** Policy summaries are overviews only; always refer to the full p
 
 This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
 
-To help ensure user safety and transparency, we are updating our [Accessibility API](https://support.google.com/googleplay/android-developer/answer/16324062#accessibility) policy to clarify and reinforce our existing rules that any use of this API that enables an app to autonomously initiate, plan, and execute actions is prohibited. Such behavior can change user settings without permission, circumvent Android’s privacy controls, and leverage the user interface in a deceptive manner by executing actions without the user’s knowledge or consent.
+*   To help protect users' data, developers may only use data provided by the [Age Signals API](https://support.google.com/googleplay/android-developer/answer/16585319#age_signals) to provide age-appropriate experiences in the app receiving this data.
+    
+    This is a new policy, and will be effective January 1, 2026.
+    
 
-(effective January 28, 2026)
+*   To help ensure user safety and transparency, we are updating our [Accessibility API](https://support.google.com/googleplay/android-developer/answer/16324062#accessibility) policy to clarify and reinforce our existing rules that any use of this API that enables an app to autonomously initiate, plan, and execute actions is prohibited. Such behavior can change user settings without permission, circumvent Android’s privacy controls, and leverage the user interface in a deceptive manner by executing actions without the user’s knowledge or consent.
+    
+    (effective January 28, 2026)
+    
 
 To preview the updated “Permissions and APIs that Access Sensitive Information” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16585319).
 
