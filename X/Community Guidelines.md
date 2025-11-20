@@ -963,7 +963,7 @@ Adult Content must also comply with all X rules that result in content removal o
 
 *   [Non-consensual nudity](https://help.twitter.com/en/rules-and-policies/intimate-media)
     
-*   [Promoting or soliciting sexual services](https://help.twitter.com/en/rules-and-policies/regulated-goods-services) 
+*   [Promoting or soliciting sexual services](https://help.x.com/en/rules-and-policies/illegal-regulated-behaviors) 
     
 *   [Child sexual exploitation](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy) 
     
