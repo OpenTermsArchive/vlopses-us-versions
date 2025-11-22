@@ -1,7 +1,7 @@
 LinkedIn law enforcement data request guidelines
 ------------------------------------------------
 
-Last updated: 1 year ago
+Last updated: 2 years ago
 
 We know you count on us to safeguard your personal information, and to provide the transparency you’ve come to expect, even when it comes to law enforcement requests for member data. We respect the laws that apply to our business operations, but we put our members first by requiring that such requests follow established legal procedures and by notifying members of requests for their data unless prohibited by statute or court order. We also believe in being transparent about the number and type of requests we receive, and we issue a [Transparency Report](https://www.linkedin.com/legal/transparency) twice a year.
 
