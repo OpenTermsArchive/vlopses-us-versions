@@ -236,7 +236,7 @@ Before you dispute a Content ID claim, you may want to learn more about [public 
 *   [Owning a copy](https://support.google.com/youtube/answer/2797466#purchased) of the video or song
 *   [Choosing not to monetize](https://support.google.com/youtube/answer/2797466#refrained) on the video
 
-If you don't submit a dispute, there are a few other ways to [resolve a Content ID claim](https://support.google.com/youtube/answer/6013276#claim_options), such as removing the claimed content from your video.
+If you don't submit a dispute, there are a few other ways to [resolve a Content ID claim](https://support.google.com/youtube/answer/6013276#claim_options), such as removing the claimed content from your video.
 
 Ultimately, YouTube can’t decide whether you should dispute a claim. If you’re not sure what to do, you may want to seek legal advice before you dispute.
 
@@ -266,7 +266,7 @@ What the claimant can do
 
 *   **Release the claim:** If the claimant agrees with your dispute, they can release their claim. If you were previously monetizing the video, your monetization settings will be restored automatically when all claims on your video are released. Learn more about [monetization during Content ID disputes](https://support.google.com/youtube/answer/7000961).
 *   **Reinstate the claim:** If the claimant believes that their claim is still valid, they can reinstate it. This means that your dispute was rejected and the claim stays on your video. You may be eligible to [appeal this decision](https://support.google.com/youtube/answer/12104471).
-*   **Submit a takedown request:** If the claimant believes that their claim is still valid, they can submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622). If the takedown request is [valid](https://support.google.com/youtube/answer/2807622#after), your video is removed from YouTube and your channel gets a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
+*   **Submit a copyright removal request:** If the claimant believes that their claim is still valid, they can submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video is removed from YouTube and your channel gets a [copyright strike](https://support.google.com/youtube/answer/2814000). Learn more about options for [resolving a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 *   **Let the claim expire:** If the claimant doesn’t respond within 30 days, the claim on your video will expire and be released from your video.
 
 Learn more about the dispute process in this video's chapter "Dispute Process for Content ID":
@@ -282,13 +282,13 @@ What happens if my dispute is rejected?
 
 If your dispute is rejected, the claim will remain on your video. If you're still confident the claim is invalid, you may be eligible to appeal the decision. Learn more about [appealing a Content ID claim](https://support.google.com/youtube/answer/12104471).
 
-Keep in mind that the claimant can submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622) at any time during the dispute process. If this happens and the takedown request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000).
+Keep in mind that the claimant can submit a [copyright removal request](https://support.google.com/youtube/answer/2807622) at any time during the dispute process. If this happens and the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000).
 
 Why does the claimant review both the initial dispute and the appeal?
 
 The initial dispute and the [appeal](https://support.google.com/youtube/answer/12104471) are reviewed by the claimant because YouTube can’t make ownership determinations. YouTube doesn’t know what content was properly licensed and can’t determine what qualifies for exceptions to copyright, such as [fair use](https://support.google.com/youtube/answer/9783148) or fair dealing.
 
-The appeal step ensures a more thorough review by the claimant because, if they choose to reinstate their claim, they're required to submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622) (a legal process) to keep the video down. After that, if you decide to submit a [counter notification](https://support.google.com/youtube/answer/2807684), the claimant is then required to file a lawsuit to keep your video down.
+The appeal step ensures a more thorough review by the claimant because, if they choose to reinstate their claim, they're required to submit a [copyright removal request](https://support.google.com/youtube/answer/2807622) (a legal process) to keep the video down. After that, if you decide to submit a [counter notification](https://support.google.com/youtube/answer/2807684), the claimant is then required to file a lawsuit to keep your video down.
 
 What's the difference between the dispute and Escalate to Appeal options?
 
@@ -296,11 +296,11 @@ The initial dispute option can take up to **30 days** for the claimant to respon
 
 The Escalate to Appeal option is only available for Content ID claims that block your video. This option skips the initial dispute step, which gives the claimant 30 days to respond, and starts the process with an appeal. The claimant then has **7 days** to respond, so the process can be resolved faster.
 
-If the claimant rejects your appeal, they could then submit a [copyright takedown request](https://support.google.com/youtube/answer/2807622). If the takedown request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000). Keep in mind that you can still submit a [counter notification](https://support.google.com/youtube/answer/2807684) if you're confident that a takedown request is invalid.
+If the claimant rejects your appeal, they could then submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000). Keep in mind that you can still submit a [counter notification](https://support.google.com/youtube/answer/2807684) if you're confident that a copyright removal request is invalid.
 
 Can a video have more than one Content ID claim on it?
 
-Yes, a video can have multiple Content ID claims on it. Note that a video can also have more than one takedown request on it, but can only have one copyright strike at a time.
+Yes, a video can have multiple Content ID claims on it. Note that a video can also have more than one copyright removal request on it, but can only have one copyright strike at a time.
 
 If I don't dispute a Content ID claim, how can I resolve it?
 
