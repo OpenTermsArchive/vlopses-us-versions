@@ -678,6 +678,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Gapazoid](https://meta.wikimedia.org/wiki/Special:CentralAuth/Gapazoid "m:Special:CentralAuth/Gapazoid"), since 21 October 2025
 *   [Владимир Нимчевић](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BC%D1%87%D0%B5%D0%B2%D0%B8%D1%9B "m:Special:CentralAuth/Владимир Нимчевић"), since 3 November 2025
 *   [Meena Kurian](https://meta.wikimedia.org/wiki/Special:CentralAuth/Meena_Kurian "m:Special:CentralAuth/Meena Kurian") / [George Boggs](https://meta.wikimedia.org/wiki/Special:CentralAuth/George_Boggs "m:Special:CentralAuth/George Boggs"), since 24 November 2025
+*   [Lkcl](https://meta.wikimedia.org/wiki/Special:CentralAuth/Lkcl "m:Special:CentralAuth/Lkcl"), since 1 December 2025
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
