@@ -27,11 +27,11 @@ Pinterest isn’t a place for sexual content or visible intimate body parts. We 
 *   Sexually suggestive depictions or descriptions.
 *   Visible intimate body parts (e.g. genitals, anus, breasts or buttocks).
 *   Promotion of erotic practices like BD/SM.
-*   Non-consensual creation and/or distribution of intimate images including intimate image abuse (referred to as “NCII” or “IBSA”), upskirting, down-blousing and hidden camera images, or the threat to do so (referred to as “sextortion”).
 *   Promotion of commercial sexual services like escort services, sexual chats or webcams.
 *   Instructions, tools or services for creating sexually explicit or nudity content (e.g. “nudifiers”).
 *   Instructions, tools or services for intimate image abuse or financial sextortion.
 *   Sexual enhancement products.
+*   Non-consensual creation and/or distribution of intimate images including intimate image abuse (referred to as “NCII” or “IBSA”), upskirting, down-blousing and hidden camera images, or the threat to do so (referred to as “sextortion”). We’ve put together [some resources for you](https://help.pinterest.com/article/combating-non-consensual-intimate-imagery) and if you come across NCII, [please report it to us](https://help.pinterest.com/report-ncii).
 
 ### Prohibited and regulated goods, services and activities
 
@@ -296,7 +296,7 @@ Our guidelines around spam are:
 *   Don't attempt to evade our anti-spam systems. For example, don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
     *   With respect to redirection, we encourage you to follow a “no surprises” principle — Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
-Last updated: August 2025
+Last updated: December 2025
 
 - - -
 
