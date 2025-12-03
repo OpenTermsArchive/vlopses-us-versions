@@ -679,6 +679,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Владимир Нимчевић](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9D%D0%B8%D0%BC%D1%87%D0%B5%D0%B2%D0%B8%D1%9B "m:Special:CentralAuth/Владимир Нимчевић"), since 3 November 2025
 *   [Meena Kurian](https://meta.wikimedia.org/wiki/Special:CentralAuth/Meena_Kurian "m:Special:CentralAuth/Meena Kurian") / [George Boggs](https://meta.wikimedia.org/wiki/Special:CentralAuth/George_Boggs "m:Special:CentralAuth/George Boggs"), since 24 November 2025
 *   [Lkcl](https://meta.wikimedia.org/wiki/Special:CentralAuth/Lkcl "m:Special:CentralAuth/Lkcl"), since 1 December 2025
+*   [Nguyentrongphu](https://meta.wikimedia.org/wiki/Special:CentralAuth/Nguyentrongphu "m:Special:CentralAuth/Nguyentrongphu"), since 3 December 2025
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
@@ -749,7 +750,7 @@ Being banned from local events does not automatically mean that one is banned fr
 *   Project specific. They may be applicable to any events relating to work and/or collaboration on particular projects or language projects, such as work on MediaWiki, Wikiprojects or the English Wikipedia.
 *   Time specific. Event bans may not necessarily be indefinite; they may be placed for a specific period.
 
-While an event ban may be lifted if it is found that it has served its purpose, continued abuse from the banned user may weigh into a decision by the Foundation to expand the ban. If notice of an event ban does not include a specific expiration date or note that it is irrevocable, an appeal may be sent to ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org. (Event bans that are part of global bans or lead to global bans are not subject to appeal.)
+While an event ban may be lifted if it is found that it has served its purpose, continued abuse from the banned user may weigh into a decision by the Foundation to expand the ban. If notice of an event ban does not include a specific expiration date or note that it is irrevocable, an appeal may be sent to ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. (Event bans that are part of global bans or lead to global bans are not subject to appeal.)
 
 Event bans may be one step before a global ban, as they are placed in situations where a complaint has been placed to the Foundation regarding user conduct that specifically occurs or may occur during in-person events. They may, however, exist in isolation, if the issue leading to the event ban is not a concern in online interaction or behavior.
 
@@ -757,7 +758,7 @@ Pursuant to this and the Foundation event bans policy, names or pseudonyms of in
 
 **DMCA compliance**
 
-The Foundation encourages people to first consider taking advantage of the existing community-led processes in order to report and resolve instances of copyright infringement. This can be done by reaching out to the Wikimedia volunteer email response team () at info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org with an informal request for content removal, including all relevant information in support of your request such as the location of the reported material and well as information that helps establish copyright ownership and the legality or illegality of the material's use.
+The Foundation encourages people to first consider taking advantage of the existing community-led processes in order to report and resolve instances of copyright infringement. This can be done by reaching out to the Wikimedia volunteer email response team () at info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org with an informal request for content removal, including all relevant information in support of your request such as the location of the reported material and well as information that helps establish copyright ownership and the legality or illegality of the material's use.
 
 In some cases, the Foundation may also receive requests to remove content from a Wikimedia Project through a formal DMCA takedown process. Before , the Foundation reviews every DMCA notice we receive to ensure that it complies with the requirements of the DMCA statute and United States copyright law. We reject notices that we do not believe are legally valid. Upon review of the request by the Foundation's Legal team, the removal itself will usually be performed by a Support & Safety team member, using their staff account. In the spirit of transparency, the Foundation informs the Wikimedia community each time it performs a DMCA takedown through (also for Commons-based requests), as well as through aggregate statistics, in its biannual .
 
@@ -876,7 +877,7 @@ Office Actions, or Foundation decisions _not_ to take an Office Action, can be a
 
 Only individuals directly involved in a case may request review, either as an individual who requested the initial case or as an individual under investigation. Reviews may be requested following our decision (i.e., whether or not to take an Office Action), at the end of the investigation.
 
-Appeals against office actions should be sent by email to appeals![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org, setting out the reason(s) why it was inappropriate.
+Appeals against office actions should be sent by email to appeals![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org, setting out the reason(s) why it was inappropriate.
 
 With regards to office actions undertaken around investigations into the behavior of specific users, the volunteer has been formed to review appeals of eligible Trust & Safety office actions. More details may be found on the Trust & Safety Case Review Committee page.
 
@@ -919,7 +920,7 @@ Community members are welcome to but not expected or obliged to help enforce off
 
 **Abuse of office or staff actions.**
 
-If you think that the office actions listed under this policy have been abused, you can submit your concerns through ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org. This email address can also be used to report potential abuse by staff accounts such as inappropriate conduct or use of their advanced user rights.
+If you think that the office actions listed under this policy have been abused, you can submit your concerns through ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. This email address can also be used to report potential abuse by staff accounts such as inappropriate conduct or use of their advanced user rights.
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
