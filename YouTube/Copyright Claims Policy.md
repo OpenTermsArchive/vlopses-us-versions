@@ -63,16 +63,16 @@ Of the more than 1 billion Content ID claims made between July 2023 and December
 Submit a copyright counter notification
 =======================================
 
-A counter notification is a legal request to reinstate content that was removed due to a [copyright removal request](https://support.google.com/youtube/answer/13823830). If you believe your content was removed by mistake, you can submit a counter notification to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
+A counter notification is a legal request to reinstate content that was removed due to a [copyright removal request](https://support.google.com/youtube/answer/13823830). If you believe your content was removed by mistake, you can submit a counter notification to [resolve a copyright strike](https://support.google.com/youtube/answer/2814000#resolve).
 
 For videos, you can submit in [YouTube Studio](#studio) or by [email, fax, or mail](#email). For non-video content, such as channel banner images, submit by [email, fax, or mail](#email).
 
 **What to know before you submit:**
 
-*   **When to submit:** Only submit a counter notification if you believe your content was removed due to a mistake. This includes misidentifications of content that may qualify for a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing, or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
-*   **Other options:** If you don't believe the content removal was a mistake, you can **wait 90 days** and the [copyright strike](https://support.google.com/youtube/answer/2814000) will expire, as long as you've completed Copyright School. You can also try to [request a retraction](https://support.google.com/youtube/answer/2807691#uploader) to resolve the copyright strike.
-*   **Evidence of ownership or permission:** Confirm you own the rights to all elements in your content, including any music (even if it’s just playing in the background). If you’ve used someone else’s copyrighted content, confirm you have a license or [permission](https://support.google.com/youtube/answer/2797468#permission) to use it.
-*   **What info is shared:** Legally, we’re required to share the counter notification with the claimant. If disclosing personal information is a concern, an authorized representative (such as an attorney) can submit on the uploader's behalf by [email, fax, or mail](#email).
+*   **When to submit:** Only submit a counter notification if you believe your content was removed due to a mistake. This includes misidentifications of content that may qualify for a copyright exception, such as [fair use](https://support.google.com/youtube/answer/9783148), fair dealing, or [public domain](https://support.google.com/youtube/answer/2797466#public_domain).
+*   **Other options:** If you don't believe the content removal was a mistake, you can **wait 90 days** and the [copyright strike](https://support.google.com/youtube/answer/2814000) will expire, as long as you've completed Copyright School. You can also try to [request a retraction](https://support.google.com/youtube/answer/2807691#uploader) to resolve the copyright strike.
+*   **Evidence of ownership or permission:** Confirm you own the rights to all elements in your content, including any music (even if it’s just playing in the background). If you’ve used someone else’s copyrighted content, confirm you have a license or [permission](https://support.google.com/youtube/answer/2797468#permission) to use it.
+*   **What info is shared:** Legally, we’re required to share the counter notification with the claimant. If disclosing personal information is a concern, an authorized representative (such as an attorney) can submit on the uploader's behalf by [email, fax, or mail](#email).
 *   **Who submits the notification:** Counter notifications should be submitted by the original uploader of the content at issue. Alternatively, an authorized representative, such as an attorney, can submit on behalf of the uploader.
 
 **Do not submit false information**. Misuse of our processes, such as submitting fraudulent documentation, may result in the termination of your account or other legal consequences.
@@ -161,11 +161,11 @@ Frequently asked questions (FAQs)
 
 What happens after I submit a counter notification?
 
-After a counter notification is submitted, it's **forwarded to the claimant** if it meets all the [requirements](#email), including a clear explanation of why you believe the content was misidentified or removed in error. Counter notifications that don't meet all the requirements may be rejected.
+If your counter notification is valid and forwarded to the claimant, the associated copyright strike may be cleared from your channel. Counter notifications that don't meet all of the [requirements](https://support.google.com/youtube/answer/2807684#email&zippy=%2Cwhat-happens-after-i-submit-a-counter-notification) may be rejected.
 
-The claimant has **10 US business days**, as required by copyright law, to [respond to the counter notification](https://support.google.com/youtube/answer/12497556). They must respond with [evidence of legal action](https://support.google.com/youtube/answer/12497556#evidence) taken to keep your content from being reinstated to YouTube.
+The claimant has 10 US business days, as required by copyright law, to [respond to the counter notification](https://support.google.com/youtube/answer/12497556). They must respond with [evidence of legal action](https://support.google.com/youtube/answer/12497556#evidence) taken to keep your content from being reinstated to YouTube.
 
-If the claimant doesn't do this within this 10-day time period, your **content is reinstated** to YouTube (unless you deleted it) and the associated **copyright strike is cleared** from your channel.
+If the claimant doesn't do this within this 10-day time period, your content will be reinstated to YouTube (unless you have deleted it).
 
 How do I check the status of a counter notification I submitted?
 
