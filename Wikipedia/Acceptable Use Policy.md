@@ -156,7 +156,7 @@ Filing a Terrorist Content Notice
 
 The relevant LEA must file a request for Terrorist Content notice of action before the designated Terrorist Content sub-group (**Terrorist Content Sub-Group**) within the Foundation's . For the request to be considered, the LEA must file the request as follows:
 
-*   Share the official copy of the Legal Order (in PDF format) via its official e-mail ID to tvecnotice![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org;
+*   Share the official copy of the Legal Order (in PDF format) via its official e-mail ID to tvecnotice![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org;
 *   List the following details in the e-mail:
     *   Jurisdiction of the LEA;
     *   Contact details of the officer sharing the Legal Order for further communication with the Foundation;
@@ -168,7 +168,7 @@ The relevant LEA must file a request for Terrorist Content notice of action befo
 What if the content I uploaded was removed under this update?
 -------------------------------------------------------------
 
-As part of the internal review process, the Foundation's Legal team reviews all removals to confirm that they comply with the relevant applicable law. If your content continues to stay removed after the legal review, it is likely that the Foundation was legally obligated to do so. Please note that the Foundation may also be in the course of appealing the Legal Order, but prohibited from reinstating the content in question unless and until it has succeeded in its appeal. If you have questions about such removal or believe that there is new information that the Foundation should consider, contact legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org. However, the Foundation may be limited by applicable law in disclosing the information about these requests.
+As part of the internal review process, the Foundation's Legal team reviews all removals to confirm that they comply with the relevant applicable law. If your content continues to stay removed after the legal review, it is likely that the Foundation was legally obligated to do so. Please note that the Foundation may also be in the course of appealing the Legal Order, but prohibited from reinstating the content in question unless and until it has succeeded in its appeal. If you have questions about such removal or believe that there is new information that the Foundation should consider, contact legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. However, the Foundation may be limited by applicable law in disclosing the information about these requests.
 
 Who handles Terrorist Content Notices within the Wikimedia Foundation?
 ----------------------------------------------------------------------
