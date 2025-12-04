@@ -1340,9 +1340,9 @@ To enhance your experience with Wikimedia Fundraising Services, we use your geog
 Accessing Your Donor Information
 --------------------------------
 
-WMF works hard to accurately process and maintain Donor Information. If you would like to request to access, correct, update, suppress, restrict or delete the Personal Information we have about you, object to our processing of such Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another organization (to the extent this right to data portability is provided to you by applicable law), please let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org. While we will make reasonable efforts to comply with your request consistent with applicable law, there are certain situations where we may not grant your request (such as when we cannot adequately verify your identity to give you access to Personal Information, when we are legally required to retain information, or when we are not technologically able to change or delete information at that time).
+WMF works hard to accurately process and maintain Donor Information. If you would like to request to access, correct, update, suppress, restrict or delete the Personal Information we have about you, object to our processing of such Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another organization (to the extent this right to data portability is provided to you by applicable law), please let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. While we will make reasonable efforts to comply with your request consistent with applicable law, there are certain situations where we may not grant your request (such as when we cannot adequately verify your identity to give you access to Personal Information, when we are legally required to retain information, or when we are not technologically able to change or delete information at that time).
 
-All emails sent relating to Wikimedia Fundraising Services (with the exception of receipts or administrative notices) include an easy option to unsubscribe. If you would like to change your communication preferences, you (or an authorized representative) can let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org at any time, or clicking the unsubscribe link in an email you receive from us.
+All emails sent relating to Wikimedia Fundraising Services (with the exception of receipts or administrative notices) include an easy option to unsubscribe. If you would like to change your communication preferences, you (or an authorized representative) can let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org at any time, or clicking the unsubscribe link in an email you receive from us.
 
 ### Sharing Donor Information
 
@@ -1395,7 +1395,7 @@ Contact us
 
 WMF values what our donors have to say about our services and our policies. If you have questions or suggestions about this policy, or the information collected under the Donor Privacy Policy, we want to hear from you. See our for information on how to reach out. For more information about the privacy practices that govern the [Wikimedia projects](https://wikimedia.org/), please review our main .
 
-If you are located in the European Economic Area and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at EUrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)com, or via mail at:
+If you are located in the European Economic Area and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at EUrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)com, or via mail at:
 
 Bird & Bird GDPR Representative Ireland
 
@@ -1407,7 +1407,7 @@ D02 AY28
 
 Ireland
 
-If you are an individual located in the United Kingdom, and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at UKrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)com, or via mail at:
+If you are an individual located in the United Kingdom, and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at UKrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)com, or via mail at:
 
 Bird & Bird GDPR Representative Services UK
 
