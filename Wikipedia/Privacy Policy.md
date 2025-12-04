@@ -1495,7 +1495,7 @@ The permitted purposes of use are set out in the Wikimedia Access to Temporary A
 
 The tool should not be used in an illegal manner and should not be used to inappropriately threaten or pressure users of the Sites who are not engaged in prohibited activity.
 
-Information provided by the tool is not guaranteed to be accurate. The IP Information tool currently displays data from [Spur feeds](https://docs.spur.us/feeds?id=feeds) via the and MaxMind's [GeoLite2 databases](https://dev.maxmind.com/static/pdf/GeoLite2-IP-MetaData-Databases-Comparison-Chart.pdf). Use of the tool is subject to the [Spur Intelligence Corporation General Terms & Conditions](https://spur.us/terms/) and the [MaxMind End User License Agreement](https://www.maxmind.com/en/end-user-license-agreement). Unfortunately, because no freely-licensed alternative exists for this information, it is subject to more restrictions than typical tools on Wikipedia. In particular, the following restrictions must be complied with:
+Information provided by the tool is not guaranteed to be accurate. The IP Information tool currently displays data from [Spur feeds](https://docs.spur.us/feeds?id=feeds) via the and MaxMind's [GeoLite2 databases](https://dev.maxmind.com/static/pdf/GeoLite2-IP-MetaData-Databases-Comparison-Chart.pdf) ([Archived](https://web.archive.org/web/20241209060855/https://dev.maxmind.com/static/pdf/GeoLite2-IP-MetaData-Databases-Comparison-Chart.pdf) December 9, 2024, at the ). Use of the tool is subject to the [Spur Intelligence Corporation General Terms & Conditions](https://spur.us/terms/) and the [MaxMind End User License Agreement](https://www.maxmind.com/en/end-user-license-agreement). Unfortunately, because no freely-licensed alternative exists for this information, it is subject to more restrictions than typical tools on Wikipedia. In particular, the following restrictions must be complied with:
 
 *   Do not use, copy, or create derivative works of any information from the tool except as reasonably required in use of the tool.
 *   Do not allow anyone other than yourself to use the tool.
@@ -1519,7 +1519,7 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_IP\_Information\_Tool\_Policy&oldid=492383](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_IP_Information_Tool_Policy&oldid=492383)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_IP\_Information\_Tool\_Policy&oldid=539460](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_IP_Information_Tool_Policy&oldid=539460)"
 
 - - -
 
