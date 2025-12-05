@@ -288,8 +288,8 @@ YouTube API Services - Developer Policies Stay organized with collections Save a
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
-AI-generated Key Takeaways
---------------------------
+Page Summary
+------------
 
 outlined\_flag
 
@@ -823,8 +823,8 @@ YouTube API Services - Required Minimum Functionality Stay organized with collec
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
-AI-generated Key Takeaways
---------------------------
+Page Summary
+------------
 
 outlined\_flag
 
@@ -1152,8 +1152,8 @@ YouTube API Services Terms of Service - Revision History Stay organized with col
 
 ![Spark icon](/_static/images/icons/spark.svg)
 
-AI-generated Key Takeaways
---------------------------
+Page Summary
+------------
 
 outlined\_flag
 
