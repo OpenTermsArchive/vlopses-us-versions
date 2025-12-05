@@ -135,7 +135,7 @@ From mediawiki.org
 
 |     |     |
 | --- | --- |
-| ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/OOjs_UI_icon_check-constructive.svg/35px-OOjs_UI_icon_check-constructive.svg.png) | This page documents a community policy for Wikimedia technical spaces. |
+| ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/OOjs_UI_icon_check-constructive.svg/40px-OOjs_UI_icon_check-constructive.svg.png) | This page documents a community policy for Wikimedia technical spaces. |
 
 This is a **code of conduct for Wikimedia technical spaces**. It applies both within physical spaces, such as Wikimedia technical events and Wikimedia technical presentations in other events, and virtual spaces (MediaWiki.org, [wikitech.wikimedia.org](https://wikitech.wikimedia.org/wiki/ "wikitech:"), [Phabricator](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator "Special:MyLanguage/Phabricator") [](https://www.mediawiki.org/wiki/Phabricator "Phabricator"), [Gerrit Code Review](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit "Special:MyLanguage/Gerrit"), [technical mailing lists](https://meta.wikimedia.org/wiki/Mailing_lists/Overview#MediaWiki_and_technical "m:Mailing lists/Overview"), [technical IRC channels](https://meta.wikimedia.org/wiki/IRC/Channels#MediaWiki_and_technical "m:IRC/Channels"), [Etherpad](https://www.mediawiki.org/wiki/Special:MyLanguage/Etherpad "Special:MyLanguage/Etherpad") [](https://www.mediawiki.org/wiki/Etherpad "Etherpad"), and other development-oriented spaces operated by the Wikimedia Foundation).
 
