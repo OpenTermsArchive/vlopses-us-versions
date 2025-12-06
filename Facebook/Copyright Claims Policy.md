@@ -1608,7 +1608,7 @@ Related articles
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
+[How Meta tracks media service providers under the European Media Freedom Act](https://www.facebook.com/help/3643031732657808/?helpref=related_articles)
 
 Related articles
 
@@ -1620,7 +1620,7 @@ Related articles
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
-[Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
+[How Meta tracks media service providers under the European Media Freedom Act](https://www.facebook.com/help/3643031732657808/?helpref=related_articles)
 
 - - -
 
