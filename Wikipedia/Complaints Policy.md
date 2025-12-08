@@ -391,7 +391,7 @@ Global and project-specific bans are also implemented by local Wikimedia communi
 
 Bans under this policy refer to global bans implemented by the Foundation; any equivalent bans performed by the communities are explicitly called out. Accordingly, the terms “global ban” or “ban” under this policy refer to global bans implemented by the Foundation, even though similar bans may be placed by the Wikimedia Community.
 
-This policy has been published to aid in transparency and understanding, but the document here records rather than establishes policy. Any updates to policy will be recorded as soon as possible, but may go into effect before the public document is changed. Changes to this document, unless made by designated Foundation staff, may not reflect official policy and practice. Questions about changes or current practice may be addressed at the talk page or emailed to ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org.
+This policy has been published to aid in transparency and understanding, but the document here records rather than establishes policy. Any updates to policy will be recorded as soon as possible, but may go into effect before the public document is changed. Changes to this document, unless made by designated Foundation staff, may not reflect official policy and practice. Questions about changes or current practice may be addressed at the talk page or emailed to ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org.
 
 Implications of a global ban
 ----------------------------
@@ -470,11 +470,11 @@ Breaches to a Foundation global ban may result in immediate actions against the 
 
 #### Helping a globally banned user evade their ban may result in sanctions.
 
-Knowingly facilitating the contributions of a globally banned individual, acting as a proxy for such a person, or attempting to interfere with Foundation staff or volunteer administrators, bureaucrats or functionaries enforcing a global ban in line with relevant policies may result in sanctions, including loss of advanced user rights or suspension of contributing access to Wikimedia sites. Instances of enabling a globally banned user to evade a ban can be brought to the Foundation’s attention by notifying T&S at ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org.
+Knowingly facilitating the contributions of a globally banned individual, acting as a proxy for such a person, or attempting to interfere with Foundation staff or volunteer administrators, bureaucrats or functionaries enforcing a global ban in line with relevant policies may result in sanctions, including loss of advanced user rights or suspension of contributing access to Wikimedia sites. Instances of enabling a globally banned user to evade a ban can be brought to the Foundation’s attention by notifying T&S at ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org.
 
 #### Details of global bans are confidential.
 
-In order to protect the privacy of all parties involved, the Wikimedia Foundation generally will not publicly or privately comment on the reason for any specific banning action. The immediately affected individual may reach out to T&S, via ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org, should they need clarifications to any of the notices they have received regarding their global ban and further information may be provided as a courtesy. However, we will not share any information that may identify the reporting parties, compromise their right to report their experiences and/or concerns privately, or place the reporting party in danger. We will also not negotiate the merits of the ban.
+In order to protect the privacy of all parties involved, the Wikimedia Foundation generally will not publicly or privately comment on the reason for any specific banning action. The immediately affected individual may reach out to T&S, via ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org, should they need clarifications to any of the notices they have received regarding their global ban and further information may be provided as a courtesy. However, we will not share any information that may identify the reporting parties, compromise their right to report their experiences and/or concerns privately, or place the reporting party in danger. We will also not negotiate the merits of the ban.
 
 #### Global bans are not automatic.
 
@@ -488,7 +488,7 @@ Global bans are usually implemented against individuals who have been active con
 
 #### Questions about this policy.
 
-For further information about Wikimedia Foundation global bans, questions may be left on the discussion page of this policy, or sent by email to the [Trust and Safety team](https://meta.wikimedia.org/wiki/Special:MyLanguage/Trust_and_Safety "Special:MyLanguage/Trust and Safety") at ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org. Please note that questions about specific global bans enforced by the Foundation will not be addressed, to protect the privacy of all involved. You may find [further information on community banned users](https://meta.wikimedia.org/wiki/Special:MyLanguage/List_of_globally_banned_users "Special:MyLanguage/List of globally banned users").
+For further information about Wikimedia Foundation global bans, questions may be left on the discussion page of this policy, or sent by email to the [Trust and Safety team](https://meta.wikimedia.org/wiki/Special:MyLanguage/Trust_and_Safety "Special:MyLanguage/Trust and Safety") at ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. Please note that questions about specific global bans enforced by the Foundation will not be addressed, to protect the privacy of all involved. You may find [further information on community banned users](https://meta.wikimedia.org/wiki/Special:MyLanguage/List_of_globally_banned_users "Special:MyLanguage/List of globally banned users").
 
 List of global bans placed by the Wikimedia Foundation
 ------------------------------------------------------
@@ -680,6 +680,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Meena Kurian](https://meta.wikimedia.org/wiki/Special:CentralAuth/Meena_Kurian "m:Special:CentralAuth/Meena Kurian") / [George Boggs](https://meta.wikimedia.org/wiki/Special:CentralAuth/George_Boggs "m:Special:CentralAuth/George Boggs"), since 24 November 2025
 *   [Lkcl](https://meta.wikimedia.org/wiki/Special:CentralAuth/Lkcl "m:Special:CentralAuth/Lkcl"), since 1 December 2025
 *   [Nguyentrongphu](https://meta.wikimedia.org/wiki/Special:CentralAuth/Nguyentrongphu "m:Special:CentralAuth/Nguyentrongphu"), since 3 December 2025
+*   [Vigilant~enwiki](https://meta.wikimedia.org/wiki/Special:CentralAuth/Vigilant~enwiki "m:Special:CentralAuth/Vigilant~enwiki"), since 8 December 2025
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
