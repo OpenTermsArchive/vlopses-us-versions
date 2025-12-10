@@ -470,7 +470,7 @@ California Consumer Privacy Act
 
 Notice for California Consumers
 
-Last revised December 12, 2022
+[Last revised December 9, 2025](https://www.linkedin.com/help/linkedin/answer/a9583759)
 
 This notice describes the rights of Californians under the California Consumer Privacy Act of 2018, which was amended by the California Privacy Rights Act of 2020 (together, “CCPA”). The CCPA requires businesses like us to provide certain information to California consumers. We fully describe our practices to all our members and visitors in our [Privacy Policy](https://www.linkedin.com/legal/privacy-policy), but use this separate notice to ensure that we meet the CCPA’s requirements. This notice contains the following four parts:
 
@@ -523,7 +523,7 @@ This notice describes the rights of Californians under the California Consumer P
     
     Like all of our members, you can edit much of your personal information through your LinkedIn account (such as your profile information). You can also [request that we correct inaccurate personal information](https://www.linkedin.com/help/linkedin/answer/93560).
     
-    ### 2.8 Your Right to Delete Personal Information
+    ### 2.8 Your Right to Delete Personal Information and Account
     
     Like all of our members, you can request that we delete your personal information [by closing your LinkedIn account](https://www.linkedin.com/help/linkedin/answer/63) or by requesting that we [delete specific information](https://www.linkedin.com/help/linkedin/answer/93500) about you. We honor such requests unless an exception applies, such as when the information is necessary to complete the transaction or contract for which it was collected or when information is being used to detect, prevent, or investigate security incidents, comply with laws, identify and repair bugs, or ensure another consumer’s ability to exercise their free speech rights or other rights provided by law.
     
