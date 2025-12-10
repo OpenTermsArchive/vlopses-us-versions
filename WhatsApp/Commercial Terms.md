@@ -57,7 +57,7 @@ You and us agree to resolve all disputes arising out of or relating to these Sup
 WhatsApp Business Solution Terms
 ================================
 
-Last Modified: October 28, 2025
+Last Modified: January 15, 2026
 
 *   Meta distributes the WhatsApp Business Solution to you under these WhatsApp Business Solution Terms. You agree to the [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms/) (“**Business Terms**”), in which all references to “Business Services” means the WhatsApp Business Solution. To the extent there is a conflict between the Business Terms and these WhatsApp Business Solution Terms, the latter will govern. Capitalized terms have the meaning set forth in the Business Terms or herein contextually.
 *   You agree to use the WhatsApp Business Solution in compliance with (a) our [technical and product documentation](https://developers.facebook.com/docs/whatsapp/), and any other related documentation provided by Meta or WhatsApp (collectively “**Documentation**”); and (b) the [WhatsApp Business Messaging Policy](https://www.whatsapp.com/policies/business-policy).
