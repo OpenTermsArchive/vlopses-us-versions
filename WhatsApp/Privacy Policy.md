@@ -1,7 +1,7 @@
 WhatsApp Privacy Policy
 =======================
 
-Effective January 4, 2021
+Effective from 4 January 2021
 
 [archived versions](https://www.whatsapp.com/legal/privacy-policy/revisions)
 
@@ -176,7 +176,7 @@ Looks like this page is not yet available in the country from which you're acces
 [](#)WhatsApp Payments Privacy Policy
 =====================================
 
-Effective May 1, 2021
+Effective from 1 May 2021
 
 Table of Contents
 
@@ -322,7 +322,7 @@ If you opted out of sharing your WhatsApp account information with Meta to impro
 WhatsApp Avatars Features Privacy Notice
 ========================================
 
-Effective July 14, 2023
+Effective from 14 July 2023
 
 This WhatsApp Avatars Features Privacy Notice applies if you opt in to these avatars features. It explains how we use and protect your information in order to generate recommended avatars and support avatar calling, and supplements the
 
@@ -359,7 +359,7 @@ Subject to WhatsApp's privacy policy, your avatar will be stored by WhatsApp and
 WhatsApp Face and Hand Effects Privacy Notice
 =============================================
 
-Effective October 15, 2024
+Effective from 15 October 2024
 
 This Privacy Notice applies if you opt in to face and hand effects. It explains how we use and protect your information in order to generate these camera effects and supplements the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy).
 
@@ -381,7 +381,7 @@ When you use face and hand effects, we may process information from images of ot
 
 ### **WhatsApp Channels Supplemental Privacy Policy**
 
-Effective January 21, 2025
+Effective from 21 January 2025
 
 This WhatsApp Channels Supplemental Privacy Policy helps explain our information practices when you use WhatsApp Channels (“Channels”). When we say “WhatsApp”, “our”, “we” or “us”, we are referring to WhatsApp LLC.
 
@@ -462,7 +462,7 @@ Looks like this page is not yet available in the country from which you're acces
 WhatsApp Business App Privacy Policy
 ====================================
 
-Effective July 14, 2025
+Effective from 14 July 2025
 
 _Table of Contents_
 
