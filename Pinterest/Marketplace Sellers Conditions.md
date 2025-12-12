@@ -48,6 +48,14 @@ To qualify as a product to be used in a Pin or in other formats on Pinterest, it
 We don’t allow the following products to be product Pins:
 
 *   Alcohol
+    *   Shopping Ads may include Alcohol products, with restrictions. In all cases, you're responsible for complying with applicable federal and local laws and regulatory guidelines, including age gating where necessary.
+    *   We currently do not allow Alcohol shopping ads to target the following markets: Algeria, Argentina, Bahrain, Belgium, Bulgaria, Colombia, Croatia, Ecuador, Egypt, Estonia, Finland, France, India, Indonesia, Iraq, Japan, Kuwait, Latvia, Lithuania, Malaysia, Morocco, Netherlands, Nigeria, North Macedonia, Norway, Oman, Pakistan, Peru, Qatar, Saudi Arabia, Serbia, Slovenia, Sweden, Taiwan, Thailand, Turkey, United Arab Emirates, Vietnam.
+    *   Alcohol ads on Pinterest:
+        *   Can't target minors, or depict minors consuming alcoholic beverages
+        *   Can't associate the consumption of alcohol to enhanced physical performance, improved social standing or better sexual success
+        *   Can't encourage excessive drinking or imply that drinking excessively is beneficial, or that alcohol has therapeutic qualities either as a stimulant or relaxant
+        *   Can't depict people under the influence of alcohol, or associate drinking with activities that are risky (such as driving, operating heavy machinery), antisocial or illegal
+        *   Can't emphasize high alcoholic content as a positive quality.
 *   Financial products such as credit opportunities (including credit payment options offered directly by the Merchant for non-financial products), cryptocurrency, etc.
 *   Gambling products such as lotteries
 *   Healthcare products and services including prescription medicines, over-the-counter (OTC) non-prescription medicines, medical devices and any unsafe healthcare products that make unrealistic promises such as weight loss pills.
