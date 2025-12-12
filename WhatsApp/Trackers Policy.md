@@ -1,7 +1,7 @@
 Cookies
 =======
 
-Effective February 1, 2024
+Effective from 1 February 2024
 
   
 
