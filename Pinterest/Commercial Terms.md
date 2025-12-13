@@ -1219,7 +1219,7 @@ If your ad is shown in Portugal,
 If your ad is shown in Qatar, we don't allow:
 
 *   Alcohol
-*   Brick-and-mortar pharmacies
+*   Brick-and-mortar casinos
 
 If your ad is shown in Qatar we allow the following with restrictions:
 
@@ -1231,7 +1231,7 @@ If your ad is shown in Qatar we allow the following with restrictions:
 If your ad is shown in Saudi Arabia, we don't allow:
 
 *   Alcohol
-*   Brick-and-mortar pharmacies
+*   Brick-and-mortar casinos
 
 If your ad is shown in Saudi Arabia we allow the following with restrictions:
 
