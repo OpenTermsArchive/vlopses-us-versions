@@ -279,11 +279,11 @@ Please do not hesitate to contact us at [trademarks@wikimedia.org](mailto:tradem
   
   
 
-**The purpose of our trademark policy**
----------------------------------------
+The purpose of our trademark policy
+-----------------------------------
 
-_This statement is not a part of the trademark policy. It is not even a legal document.  
-It simply explains the background for our new trademark policy._
+This statement is not a part of the trademark policy. It is not even a legal document.  
+It simply explains the background for our new trademark policy.
 
 The represent the goodwill created by the many volunteers that make up the Wikimedia community. That is why internet users can trust that sites bearing Wikimedia marks contain free and neutral educational content developed by committed Wikimedians through good faith collaboration. Ensuring that the Wikimedia marks are only used consistently with our helps protect the community's hard work and the reputation of the Wikimedia sites.
 
