@@ -38,7 +38,7 @@ Individual creators can find more information here:
 
 How are these Content Monetization Policies applied?
 
-Snap’s Content team evaluates accounts (creators or partners) holistically. In order to identify a pattern of publishing content that fails to meet the standards of monetization eligibility, we use a mix of human and algorithmic moderation. We also listen to feedback from users, brands and other stakeholders. If your account fails to adhere to these policies, then you may be ineligible for payment.  We may also remove advertising from appearing alongside specific content and suspend or permanently revoke your participation in the monetization program. 
+Snap evaluates accounts (creators or partners) holistically. In order to identify a pattern of publishing content that fails to meet the standards of monetization eligibility, we use a mix of human and algorithmic moderation. We also listen to feedback from users, brands and other stakeholders. If your account fails to adhere to these policies, then you may be ineligible for payment.  We may also remove advertising from appearing alongside specific content and suspend or permanently revoke your participation in the monetization program. 
 
 Further enforcement details may be found in the [Snap Monetization Terms](https://www.snap.com/monetization-terms?lang=en-US)  and [Spotlight Terms](https://www.snap.com/en-US/terms/spotlight-terms?lang=en-US), which are available to eligible accounts.
 
@@ -52,27 +52,33 @@ In addition to consistently following the [Content Guidelines for Recommendation
 
 **Monetizable:**
 
-You publish original, engaging content that you or your organization created. If you are posting someone else’s content, you must add to it in a valuable, transformative way. To add content in a valuable, transformative way, you must add significant original commentary, criticism, substantive modifications, analysis, educational or entertainment value to the original work, such as:
+**We pay for trustworthy content that shows unique effort and creative ideas, not just simple, repeated assembly.**
+
+You publish original, engaging content that reflects clear creative effort and unique perspective. If you are posting someone else’s content, you must add to it in a valuable, highly transformative way. Content derived solely from simple automation or formulaic assembly that lacks creative effort is not monetizable. To meet this standard, each piece of content must showcase substantive, unique elements of creative selection, editorial judgement, or personal contribution, such as original commentary, analysis,  insight or entertainment value that fundamentally alters the source material, such as:  
 
 *   Reacting to a video (for example, adding your own commentary to a sports replay)
     
-    *   Your face must be clearly visible.
+    *   Your face must be clearly visible throughout the duration of the video.
         
-    *   You must be speaking in the video. Pointing or nodding is not considered speaking. 
+    *   You must be speaking in the video. Pointing or nodding is not considered speaking, nor is the use of generic, repetitive phrases, or simply restating what is visually obvious.
         
-    *   Your reaction must relate or be in response to the reposted content.
+    *   Your reaction must relate or be in response to the reposted content. Generic or static reactions that could be overlaid on any video are not considered transformative.
         
-    *   The audio must relate to the content.
+    *   The audio must be clearly audible and directly relevant to the content, not obscured by background sound.
         
     
 *   Using clips in the context of reviews (for example, talking about a movie while playing relevant excerpts)
     
-*   Editing footage in a creative way (for example, a compilation of the ten best wedding cakes, assembled into a countdown list, with added context, commentary and/or creative elements)
+*   Editing footage in a creative way (for example, a compilation of the ten best wedding cakes, assembled into a countdown list, with demonstrable creative editorial judgment.)
     
 *   Showing clips from social media when the content is both 1) properly attributed to the original creator, and 2) presented with original commentary about its relevance to newsworthy current events, trends, or public discourse 
     
 
-You publish authentic content that builds trust with Snapchatters and advertisers. You do not mislead. Your tiles or introductions set up expectations that are rewarded within the rest of your content. 
+You publish authentic content that builds trust with Snapchatters and advertisers. You do not mislead. Your tiles or introductions must accurately represent the content within Story or Spotlight. We do not allow deceptive or exaggerated content that sets up expectations that are not substantively delivered or rewarded within the rest of your content.  
+
+Content that leverages sophisticated editing or AI-based tools is monetizable—if it is original, entertaining, or informative, not misleading, and if the use of AI is disclosed anywhere in the content or creator profile.
+
+  
 
   
 
@@ -82,22 +88,22 @@ You publish authentic content that builds trust with Snapchatters and advertiser
 
 **This is a non-exhaustive list of content that is not monetizable. Examples include but are not limited to:** 
 
-  
+**Unoriginal or automated curation**  
 
-You primarily or frequently publish unoriginal content that you did not create and which you did not transform in a meaningful way, such as:
+You primarily or frequently publish unoriginal content that you did not create and which you did not transform in a meaningful way, including content that is simply aggregated or assembled via simple automation without any signal of editorial direction, such as:
 
 *   Unaltered clips or compilations of clips from TV shows, movies, music videos
     
 *   Re-uploading other people’s social media posts
     
 
-You post repetitive content, such as repeatedly reposting your own content, or content that is duplicative, or designed solely for boosting views rather than entertaining or informing viewers, such as:
+You post repetitive, formulaic or unoriginal template-based content. This includes  repeatedly reposting your own content,  content that is formulaic, systemically repetitive, duplicative, or is designed solely for boosting views rather than entertaining or informing viewers, such as:
 
 *   Re-using the same tile image over and over
     
 *   Re-posting the same or similar content over and over and presenting it as new content
     
-*   Posting minimally-distinguishable Snaps, such as nodding and pointing at written quotations over and over.  
+*   Posting minimally-distinguishable Snaps, such as nodding and pointing at written quotations over and over. This includes content where the core visual or audio contribution is mechanically or automatically generated, such as the consistent use of stock reaction footage, or template-based visual effects.
     
 
 You frequently publish inauthentic content that misleads people (even if the subject matter is not as “serious” as politics, health, or tragic events). Engagement bait is misleading because it sets up an expectation that never pays off, such as:
@@ -110,9 +116,9 @@ You frequently publish inauthentic content that misleads people (even if the sub
     
 *   Long-past events presented as current events (for example, a celebrity’s years-old arrest depicted as breaking news)
     
-*   Deceptively manipulated media (for example, editing an image of someone’s body or face to imply a radical transformation, or editing a snake to appear to be as large as a bus, etc.)
+*   Deceptively manipulated media, including content that has been generated or enhanced with the use of AI tools to manipulate users  (for example, editing an image of someone’s body or face to imply a radical transformation, or editing a snake to appear to be as large as a bus, editing to cause confusion to a user, etc.)
     
-*   “Reaction” content that does not actually include a reaction, is not related to the video being reacted to, or tries to obscure the reaction
+*   “Reaction” content that does not actually include a reaction, by failing to provide substantive, genuine, and specific engagement with the source material or tries to obscure the reaction.
 
 - - -
 
