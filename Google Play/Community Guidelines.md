@@ -1871,6 +1871,8 @@ Closure of a dormant account will not limit your ability to create a new account
 Managing Policy Violations and Appeals
 ======================================
 
+[How to handle a policy violation on Google Play](https://www.youtube.com/watch?v=xjRqFbTHUOQ)
+
 #### Appealing an Enforcement Action
 
 We will reinstate applications if an error was made, and we find that your application does not violate the Google Play Program Policies and Developer Distribution Agreement. If you’ve reviewed the policies carefully and feel that our decision may have been in error, please follow the instructions provided to you in the enforcement email notification or [click here](https://support.google.com/googleplay/android-developer/troubleshooter/2993242) to appeal our decision. 
