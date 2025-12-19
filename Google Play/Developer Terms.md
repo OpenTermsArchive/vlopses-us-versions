@@ -720,7 +720,7 @@ To learn more, please visit our [Help Center](https://support.google.com/googlep
 Families Self-Certified Ads SDK Policy
 ======================================
 
-Google Play Families Self-Certified Ads SDK Program will accept new applicants until **October 31, 2024**, after which the application window will close. The application window will reopen in 2025, and guidelines will be announced here at a later date. 
+Please note that the Google Play Families Self-Certified Ads SDK Program is currently not accepting new applicants. The application window will reopen and guidelines will be announced here at a later date. 
 
 Current participants and their program compliance requirements will remain unchanged.
 
