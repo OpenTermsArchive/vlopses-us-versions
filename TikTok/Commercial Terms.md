@@ -231,7 +231,7 @@ By clicking "**Accept**" or "**Agree**", or otherwise by using any of the TikTok
 
 2.9     Special Product Terms apply to TikTok's processing of Contact Details in connection with specific TikTok Business Products listed below, and these TikTok Business Products (Data) Terms do not apply to the extent that TikTok's processing of Contact Details is subject to such Special Product Terms. For these purposes, Special Product Terms apply to processing of Contact Details in connection with: 
 
-(a)     our Custom Audiences (Customer File) Product (where such processing of Contact Details shall instead be subject to the Custom Audiences (Customer File) Terms); and
+(a)     our Custom Audiences (Customer File) Product (where such processing of Contact Details shall instead be subject to the [Custom Audiences (Customer File) Terms](https://ads.tiktok.com/i18n/official/policy/custom-audience-terms)); and
 
 (b)     any other TikTok advertising or social products with product-specific terms and conditions that apply to processing of Contact Details and which expressly exclude or take precedence over these Business Products (Data) Terms in respect of such processing.  
 
@@ -312,7 +312,7 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
   
 
-6.2     Retention. Subject to these TikTok Business Products (Data) Terms and any applicable Jurisdiction Specific Terms, we may retain Event Data for a maximum of 18 months. We will retain any audiences you create using the Event Data until you delete them via your account tools or 12 months from the date you last amended or used such audience. 
+6.2     Retention. Subject to these TikTok Business Products (Data) Terms and any applicable [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms), we may retain Event Data for a maximum of 18 months. We will retain any audiences you create using the Event Data until you delete them via your account tools or 12 months from the date you last amended or used such audience. 
 
   
 
@@ -322,13 +322,13 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
 (b)     Depending on which TikTok Business Product you are using, these TikTok Business Products (Data) Terms supplement and are incorporated by reference into the general commercial terms that apply to the relevant TikTok Business Product, as outlined further below, and any data sharing agreement entered into in writing between you (and/or any of your affiliated entities) and TikTok (and/or any of its affiliates) (collectively, the "**General Commercial Terms**"): 
 
-(i)     the TikTok for Business Commercial Terms of Service apply when you use TikTok for Business Tools; 
+(i)     the [TikTok for Business Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service) apply when you use TikTok for Business Tools; 
 
-(ii)     the TikTok Terms of Service apply when you use TikTok Business Accounts Tools; and 
+(ii)     the [TikTok Terms of Service](https://www.tiktok.com/legal/page/row/terms-of-service/en) apply when you use TikTok Business Accounts Tools; and 
 
-(iii)     the TikTok Developer Terms of Service apply when you use TikTok Developer Tools.
+(iii)     the [TikTok Developer Terms of Service](https://www.tiktok.com/legal/page/global/tik-tok-developer-terms-of-service/en) apply when you use TikTok Developer Tools.
 
-In the event of any conflict between these TikTok Business Products (Data) Terms and any of the General Commercial Terms, these TikTok Business Products (Data) Terms shall take precedence solely with respect to your use of the TikTok Business Products, and solely to the extent of the conflict. In the event of any conflict between these TikTok Business Products (Data) Terms and the Jurisdiction Specific Terms, the Jurisdiction Specific Terms shall take precedence, and solely to the extent of the conflict.  
+In the event of any conflict between these TikTok Business Products (Data) Terms and any of the General Commercial Terms, these TikTok Business Products (Data) Terms shall take precedence solely with respect to your use of the TikTok Business Products, and solely to the extent of the conflict. In the event of any conflict between these TikTok Business Products (Data) Terms and the [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms), the [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms) shall take precedence, and solely to the extent of the conflict.  
 
   
 
