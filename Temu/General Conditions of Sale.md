@@ -118,7 +118,7 @@ If an item is eligible for a return and refund, you may return it within the ret
 
 5\. Refunds
 
-I. You may receive an advanced refund, where we will issue the refund after you dropped off your return package. If the items were not returned or the returned items do not pass quality inspection, we may charge your original payment method. The advanced refund will be granted based on your shopping history and at our sole discretion.
+I. You may receive an advance refund, where we will issue the refund after you dropped off your return package. If the items were not returned or the returned items do not pass quality inspection, we may charge your original payment method. The advance refund will be granted based on your shopping history and at our sole discretion.
 
 II. You may receive an instant refund, where we will issue the refund before you have returned the items. If the items were not returned or the returned items do not pass quality inspection, we may charge your original payment method. The instant refund will be granted based on your shopping history and at our sole discretion.
 
