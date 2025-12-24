@@ -324,7 +324,7 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
 (i)     the [TikTok for Business Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service) apply when you use TikTok for Business Tools; 
 
-(ii)     the [TikTok Terms of Service](https://www.tiktok.com/legal/page/row/terms-of-service/en) apply when you use TikTok Business Accounts Tools; and 
+(ii)     the [TikTok Terms of Service](https://www.tiktok.com/legal/page/us/terms-of-service/en) apply when you use TikTok Business Accounts Tools; and 
 
 (iii)     the [TikTok Developer Terms of Service](https://www.tiktok.com/legal/page/global/tik-tok-developer-terms-of-service/en) apply when you use TikTok Developer Tools.
 
