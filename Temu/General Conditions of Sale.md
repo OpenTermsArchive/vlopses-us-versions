@@ -176,7 +176,7 @@ For all other items: please contact our customer service.
 
 Company info
 
-*   [About Temu](https://www.temu.com/about-temu.html)
+*   [About Temu](https://www.temu.com/about_temu_home.html)
 *   [Affiliate & Influencer Program: Join to Earn](https://www.temu.com/affiliate_influencer_program.html)
 *   [Contact us](https://www.temu.com/contact-us.html)
 *   [Careers](https://www.temu.com/careers.html)
