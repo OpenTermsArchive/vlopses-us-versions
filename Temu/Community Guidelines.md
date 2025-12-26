@@ -27,7 +27,7 @@ Get the Temu App
 
 [5-Star Rated5-Star Rated](https://www.temu.com/channel/full-star.html)
 
-[Christmas DealChristmas Deal](https://www.temu.com/attendance/us-christmas-25-3-58081-1-a-psurl.html)
+[Year-End BlowoutYear-End Blowout](https://www.temu.com/attendance/us-newyear-1-58814-1-a-psurl.html)
 
 [Local WarehouseLocal Warehouse](https://www.temu.com/channel/local-warehouse.html)
 
@@ -35,7 +35,7 @@ More
 
 Categories
 
-hot outfits for women
+see through outfits for women
 
 Sign in / Register
 
