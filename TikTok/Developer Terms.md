@@ -1,50 +1,81 @@
 TikTok Developer Terms of Service
 
-_Last modified: Mar 21, 2024_
-
-  
+_Last modified: Dec 26, 2025_
 
 These TikTok Developer Terms of Service (“**Developer Terms**”) govern your access to and use of TikTok Developer Services and any other products or services whose terms link to or otherwise incorporate these Developer Terms.
 
 The Developer Terms supplement and hereby incorporate the [TikTok For Business Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service) (“**Commercial Terms**”) which also apply to your use of TikTok Developer Services. Defined terms in the Commercial Terms have the same meaning in these Developer Terms. The TikTok Developer Services are Commercial Products for the purpose of the Commercial Terms, and these are Supplemental Terms.
 
-Please read these Developer Terms carefully. BY CLICKING ACCEPT OR DOWNLOADING, INSTALLING, ACCESSING, USING OR OPERATING THE TIKTOK DEVELOPER SERVICES, YOU AGREE TO BE BOUND BY THESE DEVELOPER TERMS. IF YOU DO NOT AGREE TO THESE DEVELOPER TERMS, DO NOT ACCESS OR USE THE TIKTOK DEVELOPER SERVICES.
+Please read these Developer Terms carefully. BY CLICKING ACCEPT OR DOWNLOADING, INSTALLING, ACCESSING, USING OR OPERATING THE TIKTOK DEVELOPER SERVICES, YOU AGREE TO BE BOUND BY THESE DEVELOPER TERMS. IF YOU DO NOT AGREE TO THESE DEVELOPER TERMS, YOU ARE NOT PERMITTED TO ACCESS OR USE THE TIKTOK DEVELOPER SERVICES.
 
 **I. Definitions**
 ------------------
 
 **1\. Application**: means the software applications, websites, channels, services, and other products that you create, distribute, promote, or operate using the TikTok Developer Services, together with their enhancements, upgrades, updates, new versions and other modifications and amendments.
 
-**2\. Developer Content**: means all information, data, content, items and materials in any form which are provided or made available, approved, or linked to by or on behalf of you or End Users, through your Application or the TikTok Developer Services, including any software, images, text, graphics, illustrations, affiliated names, brand identifiers, logos, trademarks, photographs, audio, videos, music and all related intellectual property rights related to them, including any third-party material, data or content contained therein, and Your Content includes Developer Content for the purposes of the Commercial Terms.
+**2\. CCL Data**: means TikTok Information relating to an advertisement or commercial content which is made available to you through the Commercial Content Library API.
 
-**3\. End Users**: means users of your Applications.
+**3.** **CCL Purposes**: means to facilitate supervision and research into emerging risks brought about by the distribution of advertising and/or commercial content online, for example in relation to illegal advertisements or manipulative techniques and disinformation with a real and foreseeable negative impact on public health, public security, civil discourse, political participation and equality.
 
-**4\. TikTok API**: means TikTok’s application programming interfaces (which includes, for the avoidance of doubt, webhook, call-back, and other interfaces, services, and mechanisms made available by TikTok which can be used to interact with the TikTok API), TikTok SDK, technology, software and any updates to the foregoing thereto that TikTok provides to you for the purpose of these Developer Terms (for the avoidance of doubt, the TikTok API is TikTok Commercial Technology for the purpose of the Commercial Terms).
+**4\. Commercial Content Library API**: means the TikTok API by that name which is made available by TikTok in accordance with Article 39 of the European Union’s Digital Services Act.
 
-**5\. TikTok Developer Documentation**: means documentation, specifications, guidance, TikTok Sample Code, and other information and materials made available through the TikTok Developer Site.
+**5\. Developer Content**: means all information, data, content, items and materials in any form which are provided or made available, approved, or linked to by or on behalf of you or End Users, through your Application or the TikTok Developer Services, including any software, images, text, graphics, illustrations, affiliated names, brand identifiers, logos, trademarks, photographs, audio, videos, music and all related intellectual property rights related to them, including any third-party material, data or content contained therein, and Your Content includes Developer Content for the purposes of the Commercial Terms.
 
-**6\. TikTok Developer Services**: means the TikTok Developer Site, TikTok Developer Documentation, and TikTok API.
+**6\. End Users**: means users of your Applications.
 
-**7\. TikTok Developer Site**: means the TikTok website for developers normally accessible at [developers.tiktok.com](https://developers.tiktok.com/), as available and amended from time to time.
+**7\. TikTok API**: means TikTok’s application programming interfaces (which includes, for the avoidance of doubt, webhook, call-back, and other interfaces, services, and mechanisms made available by TikTok which can be used to interact with the TikTok API), TikTok SDK, technology, software and any updates to the foregoing thereto that TikTok provides to you for the purpose of these Developer Terms (for the avoidance of doubt, the TikTok API is TikTok Commercial Technology for the purpose of the Commercial Terms).
 
-**8\. TikTok Sample Code**: means sample code made available through the TikTok Developer Site and expressly described therein as sample code for use in your Applications.
+**8\. TikTok Developer Documentation**: means documentation, specifications, guidance, TikTok Sample Code, and other information and materials made available through the TikTok Developer Site.
 
-**9\. TikTok SDK**: means the software development kits (SDKs) expressly identified on the TikTok Developer Site as available for you to download and use in your Applications.
+**9\. TikTok Developer Services**: means the TikTok Developer Site, TikTok Developer Documentation, and TikTok API.
 
-**10\. TikTok Services**: means the Display Sites and TikTok’s other products and services, including without limitation to those offered via TikTok’s website ([https://www.tiktok.com/](https://www.tiktok.com/)) and TikTok’s mobile applications.
+**10\. TikTok Developer Site**: means the TikTok website for developers normally accessible at [developers.tiktok.com](https://developers.tiktok.com/), as available and amended from time to time.
 
-**11\. TikTok Information:** TikTok Information means any content, data and other information made available to you (or End Users) through the TikTok API or by any other means authorized by TikTok, and any copies and derivative works thereof.
+**11\. TikTok Sample Code**: means sample code made available through the TikTok Developer Site and expressly described therein as sample code for use in your Applications.
+
+**12\. TikTok SDK**: means the software development kits (SDKs) expressly identified on the TikTok Developer Site as available for you to download and use in your Applications.
+
+**13\. TikTok Services**: means the Display Sites and TikTok’s other products and services, including without limitation to those offered via TikTok’s website ([https://www.tiktok.com/](https://www.tiktok.com/)) and TikTok’s mobile applications.
+
+**14\. TikTok Information:** TikTok Information means any content, data and other information made available to you (or End Users) through the TikTok API or by any other means authorized by TikTok, and any copies and derivative works thereof.
 
 **II. Use of TikTok Developer Services**
 ----------------------------------------
 
-**1\. Licence.** TikTok grants you a licence to use the TikTok Developer Services including the associated TikTok Commercial Content, as set out in the Commercial Terms, in accordance with the TikTok Developer Documentation. You may, solely as described in the TikTok Developer Documentation, and in accordance with these Developer Terms: (a) connect to and use the TikTok Developer Services in your Application; (b) use automated means in your Application to collect information from or otherwise interact with the TikTok Developer Services; (c) make TikTok Information available to End Users through your Application; (d) adapt and modify (but not redistribute other than in object-code form as part of your Application) TikTok Sample Code for use in your Application; (e) download and include within your Application (provided it is only distributed in object-code form as part of your Application) the TikTok SDK. Unless expressly agreed otherwise by TikTok in writing, TikTok Information made available through the TikTok Developer Services may only be made available to End Users on a personal, non-exclusive, non-sublicensable, non-transferrable basis. You may use TikTok Information obtained through the TikTok Developer Services solely for the purpose of developing, maintaining, and supporting your Applications.
+**1\. License.** TikTok grants you a license to use the TikTok Developer Services including the associated TikTok Commercial Content, as set out in the Commercial Terms, in accordance with the TikTok Developer Documentation. You may, solely as described in the TikTok Developer Documentation, and in accordance with these Developer Terms: (a) connect to and use the TikTok Developer Services in your Application; (b) use automated means in your Application to collect information from or otherwise interact with the TikTok Developer Services; (c) make TikTok Information available to End Users through your Application; (d) adapt and modify (but not redistribute other than in object-code form as part of your Application) TikTok Sample Code for use in your Application; (e) download and include within your Application (provided it is only distributed in object-code form as part of your Application) the TikTok SDK. Unless expressly agreed otherwise by TikTok in writing, TikTok Information made available through the TikTok Developer Services may only be made available to End Users on a personal, non-exclusive, non-sublicensable, non-transferrable basis. You may use TikTok Information obtained through the TikTok Developer Services solely for the purpose of developing, maintaining, and supporting your Applications.
 
 **2\. TikTok Logo.** If the TikTok Developer Services include or require the use or display of the TikTok Logo, TikTok grants you a personal, non-exclusive, non-transferable, non-sublicensable, limited, revocable license to display the TikTok Logo in or through your Application in accordance with TikTok’s Brand and Use Guidelines (as incorporated by the Commercial Terms) as amended from time to time.
 
 **3\. TikTok Services.** Your use of and interaction with TikTok Information and TikTok Services (and that of your End Users) is subject to and governed by the policies, guidelines and other terms and conditions (as updated from time to time) applicable to such use or access, including the [TikTok Terms of Service](https://www.tiktok.com/legal/terms-of-service). You and the Application will not encourage or create facility for your End Users or other third parties that violates these Developer Terms or any other terms, conditions or policies which apply to the TikTok Developer Services or TikTok Services.
 
 **4\. Monitoring.** You agree that TikTok may audit your Applications and monitor your use of the TikTok Developer Services for quality control purposes, to verify whether you comply with your obligations under these Developer Terms, and to maintain and improve the TikTok Developer Services. You agree that you will not interfere with such monitoring, and that you will use reasonable endeavours to assist TikTok with such audit or monitoring (for example, by providing TikTok with any information reasonably requested for the purposes of monitoring and understanding your use of the TikTok Developer Services and compliance with these Developer Terms, or to assist TikTok with fixing bugs or otherwise maintaining or improving the TikTok Developer Services).
+
+**5.** **Commercial Content Library.** You (and your End Users) may use CCL Data collected and made available to End Users by your Application for CCL Purposes. In respect of the lawful use of your Application and CCL Data for CCL Purposes:
+
+a) the following provisions of section III of the Developer Terms shall not apply:
+
+*   2(d) (_ensuring your Application is stable and navigable_)
+*   2(e) (_implementation of safeguards to highest industry standards_)
+*   2(g) (_provision of customer support_)
+*   3(c) (_restrictions including communication of advertisements_)
+*   3(g) (_excessive or abusive use_), to the extent that such use does not present material security, stability, integrity, or other legitimate risks to the CC API or TikTok’s wider systems
+*   3(s) (_usage likely to harm TikTok reputation or goodwill_)
+*   V (_fees_)
+*   VIII(b, c, d) (_indemnification_)
+*   X (publicity)
+
+b) use of CCL Data for CCL Purposes by you or your End Users is not subject to restrictions under clause III.3(d) relating to improper purposes, or to use which is disparaging, obscene or otherwise objectionable to TikTok.
+
+c) Clause III.3(h) shall not restrict usage of your Application or CCL Data by End Users to build databases or records relating to the distribution of advertising online for CCL Purposes if usage otherwise complies with the Developer Terms.
+
+d) Rights of TikTok to suspend or terminate your Application or use of TikTok Developer Services under the Developer Terms are subject to TikTok’s legal obligations in respect of making CCL Data publicly available for CCL Purposes.
+
+e) The following provisions of the Commercial Terms shall not apply:
+
+*   1.5 (_age of majority_);
+*   6.1(c) (_ownership of feedback_);
+*   6.2(d) (_license to TikTok_) save as reasonably necessary for TikTok to provide the TikTok Developer Services to you; and
+*   11.1 (indemnification) save in respect of breach of the Commercial Terms.
 
 **III. Developer Application; Reasonable Use; Restrictions**
 ------------------------------------------------------------
@@ -55,7 +86,7 @@ Please read these Developer Terms carefully. BY CLICKING ACCEPT OR DOWNLOADING, 
 
 a) abide by all laws, rules and regulations applicable to your Application, the TikTok Developer Services, and TikTok Services;
 
-b) comply at all times with these Developer Terms and with TikTok’s requirements, requests and policies (or those of any network connected to the TikTok Developer Services or TikTok Services);
+b) comply at all times with these Developer Terms and, save in respect of the Commercial Content Library API or CCL Data, with TikTok’s other reasonable or lawful requirements requests and policies (or those of any network connected to the TikTok Developer Services or TikTok Services);
 
 c) make a complete and accurate disclosure to your End Users of the privacy practices and policies applicable to the Application that is compliant with applicable law and these Developer Terms;
 
@@ -89,7 +120,7 @@ i) use the TikTok Developer Services for fraudulent or otherwise unlawful or una
 
 j) introduce viruses, malware, malicious code or other content of a harmful or destructive nature through the Application or your access or use of the TikTok Developer Services, including, but not limited to, failure to ensure adequate protection is installed on your devices and servers in accordance with industry practices;
 
-k) use any robot, spider, site search or retrieval application, or other device to collect information about users of the TikTok Developer Services for any unauthorized purposes;
+k) use any robot, spider, site search or retrieval application, or other device to collect information about users of the TikTok Developer Services for any unauthorized purposes or in a manner that could affect system performance or compromise user or advertiser data;
 
 l) act in any way which could reasonably be expected to adversely impact the stability of TikTok’s servers or the behavior of other applications using the TikTok Developer Services;
 
@@ -99,7 +130,7 @@ n) remove, obscure, or alter any legal, copyright, trademark or other proprietar
 
 o) imply any inaccurate affiliation, sponsorship, or endorsement of you or the Application by TikTok;
 
-p) use the TikTok Developer Services or TikTok Information to compete with or replicate any TikTok Services (This restriction will not apply to Developer's use of the Data Portability API);
+p) use the TikTok Developer Services or TikTok Information to compete with or replicate any TikTok Services. (This restriction will not apply to Developer's use of the Data Portability API);
 
 q) create a false identity on the TikTok Developer Site;
 
@@ -111,7 +142,7 @@ t) unless explicitly agreed otherwise in writing by TikTok, superimpose or other
 
 **4\. Compliance**. TikTok may audit you and the Application for compliance with these Developer Terms. You agree you will provide TikTok with proof that you and your Application comply with your obligations under these Terms.
 
-**5\. Data Protection Addendum.** To the extent that you receive TikTok Information that is also TikTok Personal Data (as defined in the TikTok Controller to Controller Data Terms), then you agree that the [TikTok Controller to Controller Data Terms](https://www.tiktok.com/legal/page/global/tiktok-data-sharing-agreement/en) shall apply to such data sharing.
+**5\. Data Protection Addendum.** To the extent that you receive TikTok Information that is also TikTok Personal Data (as defined in the TikTok Controller to Controller Data Terms), then you agree that the [TikTok Controller to Controller Data Terms](https://www.tiktok.com/legal/tiktok-data-sharing-agreement) shall apply to such data sharing.
 
 **IV. Confidentiality**
 -----------------------
@@ -135,7 +166,7 @@ To the extent permitted by law, TikTok may suspend or terminate some or all TikT
 
 TO THE EXTENT PERMISSIBLE UNDER APPLICABLE LAW YOUR USE OF THE TIKTOK DEVELOPER SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE THAT RESULTS FROM YOUR OR ANY END USER’S USE OF THE TIKTOK DEVELOPER SERVICES INCLUDING, BUT NOT LIMITED TO, ANY DAMAGE TO COMPUTER SYSTEMS, LOSS OF DATA, OR ANY OTHER DAMAGE, SAVE FOR DEATH OR PERSONAL INJURY ARISING FROM OUR NEGLIGENCE.
 
-TIKTOK IS NOT RESPONSIBLE FOR THE ACCURACY, COMPLETENESS, USEFULNESS, AVAILABILITY, SAFETY, OR LEGALITY OF TIKTOK INFORMATION, INCLUDING CONTENT THAT MAY BE OFFENSIVE, INDECENT, DEFMATORY, OBJECTIONABLE, OR THAT MAY VIOLATE THIRD PARTY RIGHTS OR APPLICABLE LAWS OR REGULATIONS.
+TIKTOK IS NOT RESPONSIBLE FOR THE ACCURACY, COMPLETENESS, USEFULNESS, AVAILABILITY, SAFETY, OR LEGALITY OF TIKTOK INFORMATION, INCLUDING CONTENT THAT MAY BE OFFENSIVE, INDECENT, DEFAMATORY, OBJECTIONABLE, OR THAT MAY VIOLATE THIRD PARTY RIGHTS OR APPLICABLE LAWS OR REGULATIONS.
 
 **VIII. Indemnity**
 -------------------
