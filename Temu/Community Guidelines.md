@@ -35,7 +35,7 @@ More
 
 Categories
 
-hot outfits for women
+see through dress
 
 Sign in / Register
 
@@ -46,8 +46,6 @@ Support
 ![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/e9c2ade0-f09a-40d3-80c8-925fd5ed1ba8.png.slim.png?imageView2/2/w/48/q/70/format/avif)
 
 English
-
-Cart
 
 1.  [Home](https://www.temu.com/)
 2.  [My orders](https://www.temu.com/bgt_orders.html)
