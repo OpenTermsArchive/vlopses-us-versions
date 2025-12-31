@@ -35,7 +35,7 @@ More
 
 Categories
 
-see through dress
+ona hole doll
 
 Sign in / Register
 
@@ -147,7 +147,7 @@ Customer service
 *   [Return and refund policy](https://www.temu.com/return-and-refund-policy.html)
 *   [Intellectual property policy](https://www.temu.com/intellectual-property-policy.html)
 *   [Shipping info](https://www.temu.com/shipping-info.html)
-*   [Your Recalls and Product Safety Alerts](https://www.temu.com/recalls-and-product-safety-alerts.html)
+*   [Recalls and product safety alerts](https://www.temu.com/recalls-and-alerts-pre-page.html)
 *   [Report suspicious activity](https://www.temu.com/bgch_report_suspicious.html)
 
 Help
