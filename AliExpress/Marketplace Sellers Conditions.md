@@ -5042,7 +5042,7 @@ AliExpress
 
 发布日期：/
 
-最新版本修订日期：北京时间2025/12/24
+最新版本修订日期：北京时间2025/12/31
 
 注：红字部分为本次修改或增加部分
 
@@ -5146,7 +5146,7 @@ AliExpress
 | 2、重点和濒危保护动物活体、身体部分；公益保护动物（鲨鱼、熊、猫、狗等）；动物捕杀设备（塑化、剥皮服务；电捕机；捕兽夹；猫狗强制脱毛机等）；及以上动物制品；（鲨鱼软骨素在韩国，若符合合规要求，可在境内销售，合规要求详见如下：[《全球速卖通关于保健食品行业商品加强管控的公告》](https://rule.aliexpress.com/rule-channels/36963666/137686209)） | 一般违规，2分/次 |
 | 3、重点和濒危保护植物、地域性保护植物、保护植物标本及以上植物制品； | 一般违规，1分/次 |
 | 4、植物种子（波兰、德国、法国、意大利、西班牙本地卖家，若符合合规要求，可在境内销售，合规要求详见如下：[《AliExpress Announcement on the Sales Control over Seeds In Poland, France, Germany, Italy, Spain》](https://rule.aliexpress.com/rule-channels/37978936/240465709)）； | 一般违规，1分/次 |
-| 5、活体动植物及其制品； | 一般违规，0分/次 |
+| 5、普通活体动物及植物，其中活体植物（波兰、德国、法国、意大利、西班牙本地卖家，若符合合规要求，可在境内销售，合规要求详见如下：[《AliExpress Announcement on the Sales Control over Seeds In Poland, France, Germany, Italy, Spain》](https://rule.aliexpress.com/rule-channels/37978936/240465709)）； | 一般违规，0分/次 |
 | [（十二）危害国家安全及侮辱性信息  详解](https://rule.aliexpress.com/rule-channels/36963666/122523650) |     |
 | 1、宣扬恐怖组织和极端组织信息； | 严重违规，最高扣除48分 |
 | 2、宣传国家分裂及其他各国禁止传播发布的敏感信息； | 严重违规，最高扣除48分 |
