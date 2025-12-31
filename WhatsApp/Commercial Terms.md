@@ -59,13 +59,15 @@ WhatsApp Business Solution Terms
 
 Last Modified: January 15, 2026
 
+[Archived versions](https://www.whatsapp.com/legal/business-solution-terms/revisions)
+
 *   Meta distributes the WhatsApp Business Solution to you under these WhatsApp Business Solution Terms. You agree to the [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms/) (“**Business Terms**”), in which all references to “Business Services” means the WhatsApp Business Solution. To the extent there is a conflict between the Business Terms and these WhatsApp Business Solution Terms, the latter will govern. Capitalized terms have the meaning set forth in the Business Terms or herein contextually.
 *   You agree to use the WhatsApp Business Solution in compliance with (a) our [technical and product documentation](https://developers.facebook.com/docs/whatsapp/), and any other related documentation provided by Meta or WhatsApp (collectively “**Documentation**”); and (b) the [WhatsApp Business Messaging Policy](https://www.whatsapp.com/policies/business-policy).
 *   **Administrator**. During the setup of your WhatsApp Business Account (WABA), you will appoint a system administrator(s) of your account who is responsible for managing your WhatsApp Business Account. You must ensure you have an active administrator at all times.
 *   **Third Party Service Providers**. You may retain a third party to manage your access to the WhatsApp Business Solution or otherwise in connection with your use of the WhatsApp Business Solution (a “**Third Party Service Provider**”) in accordance with the following:  
     *   To the extent your Third Party Service Provider has access to the WhatsApp Business Solution or any data you obtain from using the WhatsApp Business Solution (“**Business Solution Data**”), such Third Party Service Provider must agree in writing to (a) only use the WhatsApp Business Solution and process Business Solution Data on your behalf, pursuant to your instructions and authorization, to provide services that you request and for no other purpose, including for such Third Party Service Provider’s own purposes, (b) only process Business Solution Data in compliance with the provisions of these WhatsApp Business Solution Terms, the Business Terms, and other terms referenced or incorporated herein or therein, and (c) have in effect and maintain administrative, physical, and technical safeguards that (i) meet or exceed industry standards given the sensitivity of Business Solution Data, (ii) comply with applicable law and regulations, including data security and privacy laws, rules, and regulations, and (iii) are designed to prevent any unauthorized (including in violation of these WhatsApp Business Solution Terms or any other applicable terms or policies) processing (including, for the avoidance of doubt, access, destruction, loss, alteration, disclosure, distribution, or compromise) of Business Solution Data.
     *   You are solely and fully liable for all acts and omissions by your Third Party Service Providers, and any breach of these WhatsApp Business Solution Terms, the Business Terms, and other terms referenced or incorporated herein, or therein by your Third Party Service Provider, shall be deemed a breach by you, with you being liable with respect to such breach as if you yourself had breached these WhatsApp Business Solution Terms, the Business Terms, and other terms referenced or incorporated herein or therein. To the maximum extent permitted by applicable law, you agree to defend, indemnify, and hold harmless Meta, WhatsApp, and their respective directors, officers, employees, affiliates, and agents from and against all liabilities, damages, losses, and expenses of any kind (including reasonable legal fees and costs) relating to, arising out of, or in any way in connection with any claim related to the acts or omissions of your Third Party Service Providers.
-*   **AI Providers**. Providers and developers of artificial intelligence or machine learning technologies, including but not limited to large language models, generative artificial intelligence platforms, general-purpose artificial intelligence assistants, or similar technologies as determined by Meta in its sole discretion (“**AI Providers**”), are strictly prohibited from accessing or using the WhatsApp Business Solution, whether directly or indirectly, for the purposes of providing, delivering, offering, selling, or otherwise making available such technologies when such technologies are the primary (rather than incidental or ancillary) functionality being made available for use, as determined by Meta in its sole discretion. Notwithstanding the foregoing, you may retain an AI Provider as your Third Party Service Provider in accordance with these WhatsApp Business Solution Terms. In such cases, you may not directly or indirectly allow Business Solution Data, including any anonymous, aggregate, or derived forms of Business Solution Data, to be used to create, develop, train, or improve any machine learning or artificial intelligence systems, models, or technologies, including large language models (collectively, “**AI Models**”); provided that you may use Business Solution Data to fine-tune an AI Model that is for your exclusive use, so long as this does not result in Business Solution Data being used to create, develop, train, or improve any other AI Models. We may terminate your account and revoke your access if we reasonably determine that you have breached these restrictions. This Section survives termination of these WhatsApp Business Solution Terms.
+*   **AI Providers**. Providers and developers of artificial intelligence or machine learning technologies, including but not limited to large language models, generative artificial intelligence platforms, general-purpose artificial intelligence assistants, or similar technologies as determined by Meta in its sole discretion (“**AI Providers**”), are strictly prohibited from accessing or using the WhatsApp Business Solution, whether directly or indirectly, for the purposes of providing, delivering, offering, selling, or otherwise making available such technologies when such technologies are the primary (rather than incidental or ancillary) functionality being made available for use, as determined by Meta in its sole discretion; provided, however; such technologies may be made available to WhatsApp users who have registered phone numbers with an Italian country code. Notwithstanding the foregoing, you may retain an AI Provider as your Third Party Service Provider in accordance with these WhatsApp Business Solution Terms. In such cases, you may not directly or indirectly allow Business Solution Data, including any anonymous, aggregate, or derived forms of Business Solution Data, to be used to create, develop, train, or improve any machine learning or artificial intelligence systems, models, or technologies, including large language models (collectively, “**AI Models**”); provided that you may use Business Solution Data to fine-tune an AI Model that is for your exclusive use, so long as this does not result in Business Solution Data being used to create, develop, train, or improve any other AI Models. We may terminate your account and revoke your access if we reasonably determine that you have breached these restrictions. This Section survives termination of these WhatsApp Business Solution Terms.
 *   **Restrictions**. You must not directly or indirectly (a) with the exception of the content of your message threads, use Business Solution Data to track, build, or augment profiles on individual WhatsApp users; or (b) share, transfer, sell, license, or distribute Business Solution Data, including any anonymous, aggregate, or derived forms of Business Solution Data, to any third parties, except to a Third Party Service Provider in accordance with these WhatsApp Business Solution Terms. We may terminate your account and revoke your access if we reasonably determine that you have breached these restrictions. This Section survives termination of these WhatsApp Business Solution Terms.
 *   **Reporting**. You agree to provide us reports related to your usage of the WhatsApp Business Solution, as we may reasonably request from time to time, no later than 30 days following the date of our request.
 *   We may update these WhatsApp Business Solution Terms (“**Change**”); by continuing to use the WhatsApp Business Solution after such Change, you consent to such Change.
@@ -270,170 +272,89 @@ Meta Terms for WhatsApp Business
 
 _Last Modified: October 15, 2025_
 
+  
+
 1.  **Introduction**  
-      
-      
       
     1.1 WhatsApp develops and operates a business service to enable businesses to communicate with WhatsApp consumer users on the WhatsApp network (“WhatsApp Business Solution”). As a distributor of the WhatsApp Business Solution, Meta Platforms Ireland Limited is the contracting entity offering you access to the WhatsApp Business Solution, unless you are located in the United States, Canada, or Brazil, in which case, Meta Platforms, Inc. is the contracting entity offering you access to the WhatsApp Business Solution (collectively, “Meta”, “us”, “we”, or “our”).  
       
-      
-      
     1.2. By creating a WhatsApp business account, you and the company, including any Affiliates that you are authorized to represent (“you”, “your”, or “Company”), agree to these Meta Terms for WhatsApp Business and all other applicable terms and policies that are incorporated by reference as described below (collectively, “Agreement”). You represent and warrant that you are entering into this Agreement on behalf of a company or other legal entity (including any Affiliates), for which you have full authority to bind to this Agreement. “Affiliate” means any entity which, directly or indirectly, owns or controls, is owned or controlled by, or is under common ownership or control with you. “Control” means the power to direct the management of an entity, and “ownership” means the beneficial ownership of 50% or more of the voting equity securities or equivalent voting interests of the entity.  
-      
-      
       
     1.3. Capitalized terms are defined contextually in this Agreement, and otherwise in any additional, applicable terms that are incorporated into this Agreement by reference.
   
-  
-  
-5.  **WhatsApp Business Accounts**  
-      
-      
+3.  **WhatsApp Business Accounts**  
       
     2.1. The WhatsApp Business Solution is comprised of a software client (“WhatsApp Business Client”), which you use (on your own behalf or on behalf of your business customers for which you are a service provider) to interact with our messaging and other APIs (“WhatsApp Business APIs”), in order to send messages or use other available features to interact with other WhatsApp consumer users on the WhatsApp network. To use the WhatsApp Business Solution, you must create a WhatsApp business account (“WABA”). To access the WhatsApp Business APIs, you must have a Meta Business Manager account to link to your WABA.  
       
-      
-      
     2.2. WhatsApp provides the WhatsApp Business Solution to you under additional terms set forth in the [WhatsApp Business Solution Terms](https://www.whatsapp.com/legal/business-solution-terms/). Additionally, if you are an authorized service provider to your business customers and are accessing the WhatsApp APIs on their behalf, the additional terms set forth in the [WhatsApp Business Terms for Service Providers](https://www.whatsapp.com/legal/business-terms-for-service-providers/) also apply to you. When you use the WhatsApp Business Solution, you agree to these additional terms and they are incorporated into this Agreement by reference.
   
-  
-  
-9.  **Meta Accounts**  
-      
-      
+5.  **Meta Accounts**  
       
     3.1 Meta is a distributor of the WhatsApp Business Solution, and WhatsApp works with Meta to provide you various tools and features required to access the WhatsApp Business Solution, including:  
       
-      
-      
     3.1.1. [Meta Business Manager](https://business.facebook.com/) (management of fees, payments, business insights, analytics, message template creation, technical support)  
       
-      
-      
     3.1.2. [Meta for Developers](https://developers.facebook.com/) (technical documentation)  
-      
-      
-      
     
     3.2. When you link your Meta Business Manager account(s) and Meta for Developers account with your WABA, WhatsApp will provide to Meta your data, metrics, and other information related to your use of the WhatsApp Business Solution, in order for Meta to bill your account, invoice you, receive payments from you, and provide you with business insights, analytics, technical documentation, and product and technical support. Meta provides you with support for the WhatsApp Business Solution and endeavors to provide you initial acknowledgment no more than 4 hours following receipt of your request. The [Meta Terms](https://www.facebook.com/legal/terms) and the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms) applicable to Meta Business Manager and Meta for Developers, and any other additional Meta terms relevant for any other Meta-provided services, govern your use of those services.
     
   
+7.  **Order of Governing Terms**. To the extent of any conflict between these Meta Terms for WhatsApp Business, the Meta Terms, Meta Commercial Terms, and any other additional Meta terms that govern Meta-provided services, these Meta Terms for WhatsApp Business will control with respect to Meta’s distribution of, and your access to and use of, the WhatsApp Business Solution. To the extent of any conflict between the WhatsApp Business Solution Terms and the WhatsApp Business Terms of Service, the WhatsApp Business Solution Terms govern. To the extent of any conflict between the WhatsApp Business Terms for Service Providers and the WhatsApp Business Solution Terms, the WhatsApp Business Terms for Service Providers govern.
   
+9.  **Fees, Taxes, Invoicing, and Payment**  
+      
+    5.1. _Fees_. You agree to pay Meta for your use of the WhatsApp Business APIs according to the list prices and pricing rules set forth in our [Rate Card](https://developers.facebook.com/docs/whatsapp/pricing), and we will invoice you under each of your Meta Business Manager accounts associated with your WABAs. WhatsApp and Meta Platforms data will be the sole basis for amounts that we charge you for use of the WhatsApp Business APIs. We have the right to update the Rate Card at any time; provided that any such changes will take effect the first day of the calendar month following such changes to the Rate Card. Fees under this Agreement may be invoiced and must be paid in USD, unless we support invoicing and receiving payment in other currencies. Fees will be settled in full in accordance with your payment method as set forth below. Any late payments are subject to a service charge equal to 1.5% per month of the amount due or the maximum amount allowed by law, whichever is less.  
+      
+    5.2. _For Solution Partners_. We will bill and invoice you for your business customers’ use of the WhatsApp Business APIs, and you will be solely responsible for payment of such fees to Meta.  
+      
+    5.3. _Taxes_. The amounts we charge you may be subject to and include applicable taxes and levies, including withholding taxes. You are responsible for bearing and remitting any taxes that apply to your transactions. You will indemnify and hold us harmless from and against any claim arising out of your failure to do so.  
+      
+    5.4. _Payment Method_. When you enter into this Agreement, you agree to settle fees as either an invoiced or non-invoiced customer. Invoiced customers are those for whom Meta sets a maximum spending limit for the WhatsApp Business Solution and issues invoices on a periodic basis for payment in accordance with the applicable invoicing terms. Non-invoiced customers will have their funding instrument charged for usage. In its sole discretion, Meta may classify you as an invoiced customer or non-invoiced customer, based upon a variety of factors.  
+      
+    5.5. _Invoiced Customers_. Meta will extend a line of credit to you and will issue you invoices on a monthly basis. You will pay all fees due under this Agreement, in full and cleared funds as directed by us. All fees are due within 30 days following the invoice date.  
+      
+    5.6. _Non-Invoiced Customers_. Non-invoiced customers must provide a funding instrument and confirm that you are permitted to use that funding instrument. When you fund a transaction, you authorize us (and our designated payment processor) to charge the full amount to the funding instrument you designate for the transaction. You also authorize us to collect and store that funding instrument along with other related transaction information.  
+      
+    5.6.1. _Authorization_. If you pay by credit or debit card, we may obtain a pre-approval from the issuer of the card for an amount, which may be as high as the full price of your payment. Your card will be charged at the time you initiate a payment or shortly thereafter. If you cancel a transaction before completion, this pre-approval may result in those funds not otherwise being immediately available to you.  
+      
+    5.6.2. _Failed Payments_. If you pay by debit card and your load transaction results in an overdraft or other fee from your bank, you alone are responsible for that fee.  
+      
+    5.7. _Credit Report_. You agree that we may obtain your business credit report from a credit bureau during the term of this Agreement.  
+      
+    5.8. _Suspension_. Without affecting our other rights under this Agreement, if you do not pay any fees by the due date, we may suspend all or part of your access to the WhatsApp Business APIs until you make payment in full. We will endeavor to provide you with notice prior to suspension.  
+      
+    5.9. Depending on the country in which you are located: (a) invoicing and payment for your access to the WhatsApp Business APIs may be through one or more affiliates of Meta (each, a “**Meta Affiliate**”), (b) you may contract directly with the applicable Meta Affiliate solely for purposes of such payment, and (c) you may be subject to other special provisions as described [here](https://www.whatsapp.com/legal/country-specific-non-ads-terms). References to “us,” “we,” and “our” herein mean either Meta or a Meta Affiliate, as appropriate.
   
-13.  **Order of Governing Terms**. To the extent of any conflict between these Meta Terms for WhatsApp Business, the Meta Terms, Meta Commercial Terms, and any other additional Meta terms that govern Meta-provided services, these Meta Terms for WhatsApp Business will control with respect to Meta’s distribution of, and your access to and use of, the WhatsApp Business Solution. To the extent of any conflict between the WhatsApp Business Solution Terms and the WhatsApp Business Terms of Service, the WhatsApp Business Solution Terms govern. To the extent of any conflict between the WhatsApp Business Terms for Service Providers and the WhatsApp Business Solution Terms, the WhatsApp Business Terms for Service Providers govern.
-  
-  
-  
-17.  **Fees, Taxes, Invoicing, and Payment**  
-       
-       
-       
-     5.1. _Fees_. You agree to pay Meta for your use of the WhatsApp Business APIs according to the list prices and pricing rules set forth in our [Rate Card](https://developers.facebook.com/docs/whatsapp/pricing), and we will invoice you under each of your Meta Business Manager accounts associated with your WABAs. WhatsApp and Meta Platforms data will be the sole basis for amounts that we charge you for use of the WhatsApp Business APIs. We have the right to update the Rate Card at any time; provided that any such changes will take effect the first day of the calendar month following such changes to the Rate Card. Fees under this Agreement may be invoiced and must be paid in USD, unless we support invoicing and receiving payment in other currencies. Fees will be settled in full in accordance with your payment method as set forth below. Any late payments are subject to a service charge equal to 1.5% per month of the amount due or the maximum amount allowed by law, whichever is less.  
-       
-       
-       
-     5.2. _For Solution Partners_. We will bill and invoice you for your business customers’ use of the WhatsApp Business APIs, and you will be solely responsible for payment of such fees to Meta.  
-       
-       
-       
-     5.3. _Taxes_. The amounts we charge you may be subject to and include applicable taxes and levies, including withholding taxes. You are responsible for bearing and remitting any taxes that apply to your transactions. You will indemnify and hold us harmless from and against any claim arising out of your failure to do so.  
-       
-       
-       
-     5.4. _Payment Method_. When you enter into this Agreement, you agree to settle fees as either an invoiced or non-invoiced customer. Invoiced customers are those for whom Meta sets a maximum spending limit for the WhatsApp Business Solution and issues invoices on a periodic basis for payment in accordance with the applicable invoicing terms. Non-invoiced customers will have their funding instrument charged for usage. In its sole discretion, Meta may classify you as an invoiced customer or non-invoiced customer, based upon a variety of factors.  
-       
-       
-       
-     5.5. _Invoiced Customers_. Meta will extend a line of credit to you and will issue you invoices on a monthly basis. You will pay all fees due under this Agreement, in full and cleared funds as directed by us. All fees are due within 30 days following the invoice date.  
-       
-       
-       
-     5.6. _Non-Invoiced Customers_. Non-invoiced customers must provide a funding instrument and confirm that you are permitted to use that funding instrument. When you fund a transaction, you authorize us (and our designated payment processor) to charge the full amount to the funding instrument you designate for the transaction. You also authorize us to collect and store that funding instrument along with other related transaction information.  
-       
-       
-       
-     5.6.1. _Authorization_. If you pay by credit or debit card, we may obtain a pre-approval from the issuer of the card for an amount, which may be as high as the full price of your payment. Your card will be charged at the time you initiate a payment or shortly thereafter. If you cancel a transaction before completion, this pre-approval may result in those funds not otherwise being immediately available to you.  
-       
-       
-       
-     5.6.2. _Failed Payments_. If you pay by debit card and your load transaction results in an overdraft or other fee from your bank, you alone are responsible for that fee.  
-       
-       
-       
-     5.7. _Credit Report_. You agree that we may obtain your business credit report from a credit bureau during the term of this Agreement.  
-       
-       
-       
-     5.8. _Suspension_. Without affecting our other rights under this Agreement, if you do not pay any fees by the due date, we may suspend all or part of your access to the WhatsApp Business APIs until you make payment in full. We will endeavor to provide you with notice prior to suspension.  
-       
-       
-       
-     5.9. Depending on the country in which you are located: (a) invoicing and payment for your access to the WhatsApp Business APIs may be through one or more affiliates of Meta (each, a “**Meta Affiliate**”), (b) you may contract directly with the applicable Meta Affiliate solely for purposes of such payment, and (c) you may be subject to other special provisions as described [here](https://www.whatsapp.com/legal/country-specific-non-ads-terms). References to “us,” “we,” and “our” herein mean either Meta or a Meta Affiliate, as appropriate.  
-       
-       
-       
-     
-18.  **Term and Termination**  
-       
+11.  **Term and Termination**  
        
      6.1. _Term_. This Agreement is effective from the date you create your WABA and will continue until terminated as permitted herein.  
        
-       
-       
      6.2. _Termination for Convenience_. Meta may terminate this Agreement at any time, for any or no reason, upon 30 days’ advance written notice to you, subject to a wind-down period of up to 3 months following the effective date of the termination, during which time you will still be responsible for payment of all fees incurred during the wind-down period for use of the WhatsApp Business APIs. You may also terminate this Agreement at any time, for any or no reason, upon 30 days’ advance written notice to Meta; if you exercise your right to terminate for convenience, there will be no wind-down period.  
-       
-       
        
      6.3. _Suspension and Termination_. Meta may immediately suspend your access to the WhatsApp Business APIs or terminate this Agreement if you breach this Agreement (including any terms or policies incorporated by reference), or if we deem such action necessary to comply with applicable laws or to prevent harm to the security, stability, availability, or integrity of Meta, WhatsApp, and the other [Meta Companies](https://www.facebook.com/help/111814505650678). Termination of this Agreement will result in termination of your access to the WhatsApp Business APIs. Upon termination, we will remove your access to the WhatsApp Business APIs, and you also agree to delete promptly the WhatsApp Business Client and any related software code.  
        
-       
-       
      6.4. _Deletion of Your Data_. Upon termination of this Agreement, except for data that we retain for a limited amount of time as required by law or best practices related to financial, tax, operational record-keeping, or audits, Meta will delete any data related to the WhatsApp Business Solution from your Meta Business Manager account and your Meta for Developers account; however, you understand that deleted content may persist in backup copies for a reasonable period of time while deletion is carried out.  
-       
-       
        
      6.5. _Effect of Termination_. Upon any termination or expiration of this Agreement: (a) you must immediately cease using the WhatsApp Business Solution, except during a wind-down period; (b) at the disclosing party’s request, the receiving party will promptly return or delete any of the disclosing party’s confidential information in its possession; and (c) you will promptly pay Meta any unpaid fees incurred prior to termination (unless Meta has otherwise provided you a written statement waiving such payment). Except as may be specified in this Agreement, either party’s exercise of any remedy, including termination, is without prejudice to any other remedies it may have under this Agreement, by law or otherwise. Termination of this Agreement does not automatically terminate any other terms of service that are incorporated by reference into this Agreement which govern other Meta-provided services that you may use without relation to the WhatsApp Business Solution (e.g., the [Meta Terms](https://www.facebook.com/terms.php) and [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms) may still continue in effect so that you may use Meta Business Manager for other Meta-provided products and services); such terms of service may continue in effect until otherwise terminated in accordance with the terms therein. The following provisions of these Meta Terms for WhatsApp Business will survive termination: Section 5 (Fees, Taxes, Invoicing, and Payment) to the extent there are outstanding fees due, and Section 7 (General).
   
-  
-  
-22.  **General**  
-       
-       
+13.  **General**  
        
      7.1. _Changes_. Meta may update this Agreement, including any of the additional terms, policies, or documentation incorporated into this Agreement by reference ("Change"). Unless otherwise required by law, we will notify you before we make a Change. By continuing to use the WhatsApp Business Solution after such notice, you consent to such Change.  
        
-       
-       
      7.2. _Governing Law_. This Agreement, as well as any claim that might arise between you and us, are governed by and construed in accordance with the laws of the United States and the State of California, as applicable, without giving effect to their principles of conflicts of law. Any claim or cause of action arising out of or relating to this Agreement must be commenced exclusively in the U.S. District Court for the Northern District of California or a state court located in San Mateo County, and each party hereby consents to the personal jurisdiction of such courts.  
-       
-       
        
      7.3. _Entire Agreement_. This Agreement, and any additional terms agreed upon between you and Meta or WhatsApp, comprise the entire agreement between the parties regarding the WhatsApp Business Solution, and unless expressly agreed upon otherwise between the parties, supersedes any prior representations or agreements. Headings are for convenience only, and terms such as “including” are to be construed without limitation. This Agreement is written in English (US). We may provide you with translated versions of this Agreement for your convenience, but the English (US) version of this Agreement is the version that governs.  
        
-       
-       
      7.4. _Waiver and Severability_. Failure to enforce a provision will not be deemed a waiver; waivers must be in writing and signed by the waiving party. Any terms or conditions in any customer purchase order or business form will not modify this Agreement and are hereby expressly rejected, and any such document will be for administrative purposes only. If any provision of this Agreement is adjudged by a court of competent jurisdiction to be unenforceable, invalid, or otherwise contrary to law, such provision will be interpreted so as to best accomplish its intended objectives and the remaining provisions of this Agreement will remain in full force and effect.  
-       
-       
        
      7.5. _Publicity_. Any press release, publicity, or public announcement about the parties’ relationship requires the prior written approval of both parties.  
        
-       
-       
      7.6. _Assignment_. Neither party may assign this Agreement or its rights or obligations under this Agreement without the prior written consent of the other party, except that Meta may assign this Agreement without consent to another member of the Meta Companies or in connection with a merger, reorganization, acquisition, or other transfer of all or substantially all of its assets or voting securities. Subject to the foregoing, this Agreement will bind and inure to the benefit of each party’s permitted successors and assigns. Non-permitted assignments are void and will create no obligations on Meta.  
-       
-       
        
      7.7. _Independent Contractor_. The parties are independent contractors. No agency, partnership, joint venture, or employment is created as a result of this Agreement and neither party has authority to bind the other.  
        
-       
-       
      7.8. _Notices_. Any notice under this Agreement must be in writing. You must send any notices to Meta at the following address (as applicable): in the case of Meta Platforms Ireland Limited, to Merrion Road, Dublin 4, D04 X2K5, Ireland, Attn: Legal and; in the case of Meta Platforms, Inc., to 1 Hacker Way, Menlo Park, CA 94025 USA, Attn: Legal. Meta may send notices to the email address that you provided in your Meta Business Manager account. Meta may also provide operational or other business-related notices regarding the WhatsApp Business Solution via messages or conspicuous posting within Meta Business Manager.  
        
-       
-       
      7.9. _Force Majeure_. Neither party will be liable to the other for any delay or failure to perform any obligation under this Agreement (except for a failure to pay fees) if the delay or failure is due to unforeseen events that occur after the signing of this Agreement and that are beyond the reasonable control of such party, such as a strike, blockade, war, act of terrorism, riot, natural disaster, failure or diminishment of power, telecommunications, data networks, or services, or refusal of a license or authorization by a government agency or entity.  
-       
-       
        
      7.10. _Conditions on Governmental Entity Use_. If you are a governmental entity, you represent that: (a) you are not restricted by any applicable law, policy, or principle from agreeing and performing, or accepting performance of, any term or condition of this Agreement; (b) no applicable law, policy, or principle renders any term or condition of this Agreement unenforceable against you or any applicable governmental entity; (c) you are authorized to, and have the legal capacity under applicable laws, policies, and principles to represent and bind any applicable governmental entity to the terms and conditions of this Agreement; and (d) you enter into this Agreement based upon an impartial decision concerning the value of the WhatsApp Business Solution to you and your customers, and no improper conduct or conflict of interest has influenced your decision to enter into this Agreement. If a governmental entity accepts this Agreement in violation of this Section, Meta may elect to terminate this Agreement, or the parties may enter into a separate mutually agreeable and enforceable agreement, or may mutually agree to modify this Agreement and execute such a modification.
