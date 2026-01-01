@@ -1660,7 +1660,8 @@ Apps designed specifically for children must comply with the [Designed for Famil
 
 For more information on the policy requirements, please see [this help article](https://support.google.com/googleplay/android-developer/answer/9799150?hl=en&ref_topic=2364761).
 
-#### All Files Access Permission
+All Files Access Permission
+---------------------------
 
 Files and directory attributes on a user’s device are regarded as personal and sensitive user data subject to the [Personal and Sensitive Information](https://support.google.com/googleplay/android-developer/answer/9888076/) policy and the following requirements:
 
