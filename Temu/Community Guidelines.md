@@ -27,7 +27,7 @@ Get the Temu App
 
 [5-Star Rated5-Star Rated](https://www.temu.com/channel/full-star.html)
 
-[Year-End BlowoutYear-End Blowout](https://www.temu.com/attendance/us-newyear-1-58814-1-a-psurl.html)
+[2026 Deals2026 Deals](https://www.temu.com/attendance/us-newyear-26-2-59677-1-a-psurl.html)
 
 [Local WarehouseLocal Warehouse](https://www.temu.com/channel/local-warehouse.html)
 
@@ -212,7 +212,7 @@ We accept
 
 ![visa card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![mastercard card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![amex card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![discover card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![maestro card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![dc card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![jcb card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![paypal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![applepay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![afterpay211](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![klarna](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![cashapp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![affirm](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![googlepay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![venmo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-© 2022－2025 Whaleco Inc.[Terms of use](https://www.temu.com/terms-of-use.html)[Privacy policy](https://www.temu.com/privacy-and-cookie-policy.html?title=Privacy%20%26%20Cookie%20Policy&_bg_fs=0)[Consumer health data privacy policy](https://www.temu.com/common-policy.html?policy=health_data_privacy_policy)[Your privacy choices![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.temu.com/bgp-privacy-policy-and-setting.html)[Ad Choices](https://www.temu.com/cookie-and-similar-technologies-policy.html?anchor_id=limit_interest_base_advertising)
+© 2022－2026 Whaleco Inc.[Terms of use](https://www.temu.com/terms-of-use.html)[Privacy policy](https://www.temu.com/privacy-and-cookie-policy.html?title=Privacy%20%26%20Cookie%20Policy&_bg_fs=0)[Consumer health data privacy policy](https://www.temu.com/common-policy.html?policy=health_data_privacy_policy)[Your privacy choices![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.temu.com/bgp-privacy-policy-and-setting.html)[Ad Choices](https://www.temu.com/cookie-and-similar-technologies-policy.html?anchor_id=limit_interest_base_advertising)
 
 - - -
 
