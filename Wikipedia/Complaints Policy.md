@@ -478,7 +478,7 @@ In order to protect the privacy of all parties involved, the Wikimedia Foundatio
 
 #### Global bans are not automatic.
 
-Foundation global bans - which are used only in extraordinary circumstances - are never automatic. Instead, they are based on extensive individual evaluation, triggered by specific circumstances. A recommendation for a global ban goes through several layers of review by Foundation staff members, including by the Trust & Safety manager, the Trust and Safety Director, the Community Engagement Chief Director, the General Counsel (or appropriate delegate) and, in many cases, the Executive Director. It is possible for a global ban recommendation to be dismissed at any point in the process. Only when all necessary reviewing parties have granted their unanimous approval, is a global ban implemented.
+Foundation global bans – which are used only in extraordinary circumstances – are never automatic. Instead, they are based on extensive individual evaluation, triggered by specific circumstances. A recommendation for a global ban goes through several layers of review by Foundation staff members, including by the Trust & Safety manager, the Trust and Safety Director, the Community Engagement Chief Director, the General Counsel (or appropriate delegate) and, in many cases, the Executive Director. It is possible for a global ban recommendation to be dismissed at any point in the process. Only when all necessary reviewing parties have granted their unanimous approval, is a global ban implemented.
 
 There may be many reasons a global ban is not implemented. In some situations, a global ban may compromise the privacy and safety of the reporting and immediately affected individual(s), even if we don’t share information about them with the reported person. In other situations, enforcing a global ban may hinder ongoing police work. It’s also possible that reported conduct may rise to the level of community or Foundation sanctions, but not necessarily to that warranting a Foundation global ban.
 
@@ -684,7 +684,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://meta.wikimedia.org/w/index.php?title=WMF\_Global\_Ban\_Policy&oldid=29405718](https://meta.wikimedia.org/w/index.php?title=WMF_Global_Ban_Policy&oldid=29405718)"
+Retrieved from "[https://meta.wikimedia.org/w/index.php?title=WMF\_Global\_Ban\_Policy&oldid=29872033](https://meta.wikimedia.org/w/index.php?title=WMF_Global_Ban_Policy&oldid=29872033)"
 
 - - -
 
