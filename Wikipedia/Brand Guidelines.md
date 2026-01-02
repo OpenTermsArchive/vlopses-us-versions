@@ -795,4 +795,4 @@ If you have any other questions that are not addressed here, please post them on
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Trademark\_Policy&oldid=479526](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Trademark_Policy&oldid=479526)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Trademark\_Policy&oldid=545464](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Trademark_Policy&oldid=545464)"
