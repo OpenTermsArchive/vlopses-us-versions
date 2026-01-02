@@ -850,7 +850,7 @@ To make a request for data that you do not believe is already available via Play
 Developer Program Policy
 ========================
 
-_(effective October 30, 2025, unless otherwise stated)_
+_(effective January 1, 2026, unless otherwise stated)_
 
 * * *
 
@@ -1862,6 +1862,19 @@ Apps that request this permission are subject to review, and those that do not m
 As a reminder, any usage of the `` `USE_FULL_SCREEN_INTENT` `` permission must comply with all [Google Play Developer Policies](https://play.google.com/about/developer-content-policy/?authuser=0#!?modal_active=none), including our [Mobile Unwanted Software](https://support.google.com/googleplay/android-developer/answer/9970222), [Device and Network Abuse](https://support.google.com/googleplay/android-developer/answer/9888379?hl=en), and [Ads](https://support.google.com/googleplay/android-developer/answer/9857753?hl=en&sjid=11744761627827448774-NA) policies. Full-screen intent notifications cannot interfere with, disrupt, damage, or access the user’s device in an unauthorized manner. Additionally, apps should not interfere with other apps or the usability of the device.
 
 Learn more about the `` `USE_FULL_SCREEN_INTENT` `` permission in our [Help Center](https://support.google.com/googleplay/android-developer/answer/13392821#full_screen_intent).
+
+Age Signals API and User Data
+-----------------------------
+
+This policy defines the conditions for your use of the [Age Signals API](https://developer.android.com/google/play/age-signals/overview), which provides access to personal and sensitive user age and parental consent data.
+
+You may only use the data accessed via the Age Signals API for the sole purpose of complying with [applicable legal and regulatory obligations](https://support.google.com/googleplay/android-developer/answer/16569691) such as providing age appropriate experiences within your app.
+
+You are strictly prohibited from using this data for the following purposes, including but not limited to:
+
+*   Advertising, marketing, or personalization purposes, including the serving of targeted ads
+*   Data analytics, user profiling, or business intelligence
+*   Selling, sharing, or transferring the data to any third party for any reason, except as strictly required by law
 
 * * *
 
