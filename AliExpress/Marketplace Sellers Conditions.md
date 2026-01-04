@@ -1325,7 +1325,7 @@ AliExpress Index of Prohibited and Controlled Items
 
 Release date: July 24, 2023
 
-Revision date: December 30, 2025
+Revision date: December 31, 2025
 
 **·** [1、Overview](https://rule.aliexpress.com/rule-channels/37978936/127561551#MEl5q)
 
@@ -1425,7 +1425,7 @@ If there is any discrepancy between the Chinese and English versions of any anno
 | 2\. Living bodies and body parts of animals listed as endangered and protected species; animals under protection for public interest (sharks, bears, cats, dogs, etc.); animal-culling equipment and services (plasticizing and skinning services; electric trapping equipment; animal traps; cat and dog hair plucking machines, etc.); and products made from the above animals.（Shark cartilage products may be sold in South Korea if they comply with local compliance requirements, the links below for details: [《Announcement on Tightening Control of Health Food Products on AliExpress》](https://rule.aliexpress.com/rule-channels/37978936/211428580)） | General violation, 2 penalty points per violation |
 | 3\. Plants listed as endangered and protected species, regional protected plants, specimens of protected plants and the products thereof; | General violation, 1 penalty point per violation |
 | 4\. Seeds of plants (Local sellers in Poland, Germany, France, Italy, and Spain can sell within the country if they meet the compliance requirements, the links below for details: [《AliExpress Announcement on the Sales Control over Seeds In Poland, France, Germany, Italy, Spain》](https://rule.aliexpress.com/rule-channels/37978936/240465709)). | General violation, 1 penalty point per violation |
-| 5\. Living animals and plants and their related products; | General violation, 0 penalty point per violation |
+| 5\. Living animals and plants (Local sellers in Poland, Germany, France, Italy, and Spain can sell live plants within the country if they meet the compliance requirements, the links below for details: [《AliExpress Announcement on the Sales Control over Seeds In Poland, France, Germany, Italy, Spain》](https://rule.aliexpress.com/rule-channels/37978936/240465709?spm=a2q5o.26736372.0.0.4d0140aaK4GDHB)). | General violation, 0 penalty point per violation |
 | **(12)** **National security endangering and insulting information**[**For further details, click here**](https://rule.aliexpress.com/rule-channels/36963666/122523650) （Mainly for reference by Chinese merchants） |     |
 | 1\. Promoting terrorism and violent extremism; | Serious violation, up to 48 penalty points |
 | 2\. Promoting secession and sensitive information prohibited by other countries; | Serious violation, up to 48 penalty points |
