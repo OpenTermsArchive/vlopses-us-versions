@@ -64,7 +64,7 @@ VII. After placing all the return items in one package, please print and tape th
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/b86e387dd18c469f8628ec260424f30e.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/24b79529151441c6bfb5bdde1d16557c.png?imageView2/q/70/format/avif)
 
 Start return
 
@@ -271,7 +271,7 @@ Temu | Shipping Info
 Shipping options
 ----------------
 
-You may choose standard shipping depending on the items in your order and your location. As your orders may be handed over to local carriers for the final leg of delivery, tracking may not be available every step of the way.
+You may choose standard shipping or express shipping depending on the items in your order and your location. As your orders may be handed over to local carriers for the final leg of delivery, tracking may not be available every step of the way.
 
 Shipping address
 ----------------
