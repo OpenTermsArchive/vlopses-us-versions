@@ -69,9 +69,9 @@ Return Methods and Return Fees
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Happy Returns Store drop-off | QR Code | No  | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>  <br><br>For the second and subsequent refunds from the same order, **7.99 USD** shipping fee will be deducted from your refund for each return. |
-| USPS Store drop-off | QR Code | No  |
-| USPS Store drop-off | Return Label | Yes |
+| Happy Returns  <br>Store drop-off | QR Code | No  | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>  <br><br>For the second and subsequent refunds from the same order, **7.99 USD** shipping fee will be deducted from your refund for each return. |
+| USPS<br><br>Store drop-off | QR Code | No  |
+| USPS<br><br>Store drop-off | Return Label | Yes |
 | Self-Return | Depends on your logistics provider |     | You need to pay the return fee directly to your logistics provider, and we do NOT reimburse the costs. |
 
 NOTE:
