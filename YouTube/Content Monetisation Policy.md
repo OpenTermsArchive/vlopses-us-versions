@@ -550,7 +550,7 @@ Learn more about Virtual Items on YouTube
 Who can buy Jewels and send gifts?
 ----------------------------------
 
-Signed-in US viewers in the YouTube mobile apps, who are at least 18 years old, can purchase Jewels and send gifts to eligible US creators during a vertical live stream.
+Signed-in viewers in the US and Taiwan, who are at least 18 years old, can purchase Jewels and send gifts to eligible creators during a vertical live stream in the YouTube mobile app.
 
 Which creators can earn from gifts?
 -----------------------------------
