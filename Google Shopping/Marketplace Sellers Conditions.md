@@ -3815,7 +3815,7 @@ Google Customer Reviews guidelines
 
 This article provides details about where Google Customer Reviews is available, eligibility guidelines, and policies.
 
-#### On this page
+**On this page**
 
 *   [Availability](#availability)
 *   [Basic eligibility requirements](#basic_eligibilty_requirements)
@@ -3836,7 +3836,7 @@ Basic eligibility requirements
 To use Google Customer Reviews, your checkout flow must include a separate order confirmation page and meet the following technical requirements:
 
 *   Your platform must allow you to add JavaScript code to all of your site’s web pages.
-*   During checkout, some e-commerce platforms redirect customers away from the store's domain and to their own third-party domain (for example, Shopify or CoreCommerce). If you use such a platform, you must redirect customers back to an order confirmation page on your store's domain after they've completed the checkout process.
+*   Some e-commerce platforms redirect customers to a third-party domain during checkout (for example, Shopify or CoreCommerce). If you use such a platform, redirect customers back to your domain's order-confirmation page. This must occur after they complete the checkout process.
 *   Your site’s order confirmation page must be encrypted (for example, only accessed using HTTPS).
 
 **Note**: To participate in Google Customer Reviews, consent to the agreement for your country. You can review the agreement when you sign up.
