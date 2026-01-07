@@ -4,7 +4,7 @@ Effective: **September 30, 2025**
 
 **Introduction to the Microsoft Services Agreement**
 
-The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services.
+The Microsoft Services Agreement is an agreement between you and Microsoft (or one of its affiliates) that governs your use of Microsoft consumer online products and services (including related support).
 
 We understand that you may have questions about the Microsoft Services Agreement. We have an [FAQ page](https://www.microsoft.com/en-us/servicesagreement/faq) (https://www.microsoft.com/en-us/servicesagreement/faq) that provides more information, including what Microsoft products and services it covers. Whenever we make changes, we provide a summary of the most notable changes to the current Microsoft Services Agreement. We will also continue to provide a summary of the changes to the previous version, and a link to the previous version, of the Microsoft Services Agreement on the [Summary of Changes](https://www.microsoft.com/en-us/servicesagreement/updates) (https://www.microsoft.com/en-us/servicesagreement/updates) page.
 
@@ -580,6 +580,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Rewards
 *   Microsoft Search in Bing
 *   Microsoft Soundscape
+*   Microsoft Support (Consumer)
 *   Microsoft Support and Recovery Assistant for Office 365
 *   Microsoft Sway
 *   Microsoft Teams
@@ -1132,6 +1133,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Microsoft Rewards
 *   Microsoft Search in Bing
 *   Microsoft Soundscape
+*   Microsoft Support (Consumer)
 *   Microsoft Support and Recovery Assistant for Office 365
 *   Microsoft Sway
 *   Microsoft Teams
@@ -1232,7 +1234,7 @@ WHEN & WHERE THESE TERMS APPLY
 These Terms apply to your use of “**Copilot**,” which includes:
 
 *   The standalone Copilot apps on your computer or mobile device
-*   The Copilot service we offer at [copilot.microsoft.com](https://copilot.microsoft.com/), [copilot.com](https://copilot.com/), and [copilot.ai](https://copilot.ai/)
+*   The Copilot service we offer at [copilot.microsoft.com](https://copilot.microsoft.com/), copilot.com, and [copilot.ai](https://copilot.ai/)
 *   Conversations you have with Copilot through other Microsoft apps and websites
 *   Conversations you have with Copilot through third-party apps and platforms
 *   Other Copilot-branded apps and services that link to these Terms
