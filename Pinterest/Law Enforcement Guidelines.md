@@ -38,7 +38,7 @@ Requirements to request preservation of and/or production of user information
 
 Pinterest must be notified in accordance with applicable U.S. law or valid legal process via our Law Enforcement Portal. After clicking the link, you will need to register on the platform. After registration, you will be able to submit your requests, keep track of your cases, and access all relevant information. The portal accepts electronic process only.
 
-**We’ll only respond to requests from law enforcement. If you aren’t law enforcement and have an issue, browse our help articles.**
+**We’ll only respond to requests from law enforcement. If you aren’t law enforcement and have an issue,** browse our help articles**.**
 
 Acceptance of legal process doesn’t waive any objections Pinterest may have, including jurisdiction or proper service.
 
