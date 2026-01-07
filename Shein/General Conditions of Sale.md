@@ -2,6 +2,8 @@ Return Policy
 
 We hope you love what you've ordered! But just in case you're not 100% satisfied, we've made the return process super easy. Most items sold on SHEIN.com may be returned **within 30 days from the delivery date** with some exceptions (see Non-Returnable Items section below) if they meet all applicable return requirements listed in this Return Policy.
 
+For certain products sold by third-party sellers, the return window may be longer or shorter. Please check the product detail page for information about the return window before placing an order. After placing an order, you can find information about the return window for the product in your order history.
+
 Table of Contents
 
 *   [**Non-Returnable Items**](javascript:;)
