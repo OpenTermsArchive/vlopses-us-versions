@@ -10,7 +10,7 @@ By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org
 
 We reserve the right to update these Terms of Service later.
 
-> Citizens of EU countries and the United Kingdom must be at least 18 years old to sign up.
+> Users in EU countries, the United Kingdom and Australia must be at least 18 years old to sign up.
 
 * * *
 
