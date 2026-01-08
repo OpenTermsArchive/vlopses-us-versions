@@ -3503,7 +3503,7 @@ Promotions must be generally accessible to all customers. Promotions available o
 *   5% off with Visa credit card
 *   10% off when you complete a short survey at checkout
 
-Although you can't require users to sign up for a paid membership in order to redeem a promotion, you can offer promotions for discounts on membership fees. For example, a 20% discount on annual membership fees. You're able to offer promotions applicable to free membership programs as long as the condition is specified in the title.
+Although you can't require users to sign up for a paid membership in order to redeem a promotion, you can offer promotions for discounts on membership fees. For example, a 20% discount on annual membership fees. You're able to offer promotions applicable to free membership programs as long as the condition is specified in the title. We also allow a free or discounted trial period for subscription services as a promotion.
 
 Promotions with additional requirements like subscribe and save, first order, sign up for email, and text are allowed. Make sure these requirements are specified in the promotion creation flow.
 
@@ -4363,405 +4363,188 @@ If you’re working with a third-party platform, some of these instructions may 
 
 - - -
 
-Personalized advertising
-========================
+Restricted targeting in Personalized advertising
+================================================
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
-Personalized advertising is a powerful tool that improves advertising relevance for users and increases ROI for advertisers. Because it works by employing online user data to target users with more relevant advertising content, it can provide an improved experience for users and advertisers alike.
+Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](#00) for more details.
 
-When employing user behavior or interest data to provide more relevant ad content it’s important to handle that information appropriately. We recognize that certain interests are sensitive and that targeting based on them could negatively impact user experience.
-
-With this in mind and based on the sensitivities associated with user ad targeting, we’ve identified policy standards for all personalized advertising targeting features. For the purposes of this article, targeting means both positive and negative targeting. These standards do not replace our other advertising policies (for example, for [Google Ads](https://support.google.com/adspolicy/answer/6008942) or [Shopping](https://support.google.com/merchants/answer/6149970)) and advertisers are still responsible for complying with all applicable advertising policies, in addition to Personalized advertising policies. Advertisers are also required to comply with our policies for [European Union user consent](https://www.google.com/about/company/user-consent-policy.html), where applicable.
-
-Google's [privacy policy](https://privacy.google.com/) applies to all Google features and dictates how Google collects, uses, and protects user data. Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
+Learn how to [Check the review status of an ad or asset](https://support.google.com/google-ads/answer/6327680).
 
 * * *
 
-#### In this article
+**In this article**
 
-*   [Personalized advertising content policy principles](#papolicy)
-*   [Restrictions based on personalized advertising targeting feature](#250)
-*   [Sensitive interest categories](#777)
-    *   [Legal restrictions](#123): restricted drug terms, clinical trial recruitment, alcohol, gambling, location-based gambling
-    *   [Personal hardships](#547): health, negative financial status, relationship hardships, commission of a crime, abuse and trauma, imposing negativity
-    *   [Identity and belief](#551): sexual orientation, political affiliation, political content, trade union membership, race and ethnicity, religious belief, marginalized groups, transgender identification
-    *   [Sexual interests](#552): birth control, sexual content
-*   [Limited Personalization](#222)
-    *   [Access to opportunities](#550) (US/CA): housing, employment, consumer finance
-    *   [Options to fix: Access to opportunities](#444)
-*   [Personalized advertising data collection and use policies](#234)
-*   [Options to fix ad violations](#888)
+*   [Categories with targeting restrictions](#00)
+*   [Types of targeting restrictions](#01)
+    *   [Targeting restrictions to Sensitive interest categories](#02)
+    *   [Targeting restrictions to Access to opportunities categories (US and Canada)](#03)
+*   [Data collection and use in personalized advertising](#04)
+*   [Options to fix ads in Sensitive interest categories](#05)
+*   [Options to fix ads in "Access to opportunities" categories](#06)
+*   [Google Ads policy information](#07)
+*   [Need help?](#08)
 
 * * *
 
-Personalized advertising content policy principles
---------------------------------------------------
+Categories with targeting restrictions
+--------------------------------------
 
-> Sensitive interest categories are restricted in personalized ads. We define sensitive interest categories in terms of the following content policy principles:
-> 
-> > *   [**Legal restrictions**](https://support.google.com/adspolicy/answer/143465#123): Ads must comply with the law.
-> > *   [**Personal hardships**](https://support.google.com/adspolicy/answer/143465#547): Ads shouldn’t target users in ways that exploit their difficulties or struggles.
-> > *   [**Identity and belief**](https://support.google.com/adspolicy/answer/143465#551): Ads shouldn’t target users based on categories prone to systemic discrimination or unfair stigmas.
-> > *   [**Sexual interests**](https://support.google.com/adspolicy/answer/143465#552): Ads shouldn’t target users based on inherently private sexual interests or experiences.
-> > *   **[Access to opportunities](https://support.google.com/adspolicy/answer/143465#550):** Ads shouldn’t limit access to opportunities by leveraging unfair societal biases when targeting users with specific content categories.
+You are responsible for ensuring your ads comply with policy where required. If you advertise in one or more of these categories, you’ll need to comply with targeting restrictions. Refer to all categories that relate to your ads for details.
 
-* * *
-
-Restrictions based on personalized advertising targeting feature
-----------------------------------------------------------------
-
-> For purposes of this policy, personalized ads policies may apply differently depending on the targeting feature used. For all targeting features, there are two components:
-> 
-> > *   Targeting users, which refers to the groups of users you've chosen to see your ads or exclude from seeing your ads. Targeting, both positive and negative, includes all aspects of creating or selecting those groups.
-> > *   Promoting products and services, which refers to the specific content in your ad or on your landing page.
-> 
-> The type of personalization available depends, in part, on whether the products and services you are promoting are sensitive. 
-> 
-> > *   For all personalized ads targeting features, we don’t allow targeting users based on sensitive interest categories.
-> > *   For advertiser-curated audiences, where advertisers can customize, curate, or upload their own audiences, advertisers are also not allowed to promote products and services from sensitive interest categories.
-> > *   For pre-defined Google audiences, where Google manages the development and curation of policy-compliant audiences based on information across Google properties, advertisers are allowed to promote products and services from sensitive interest categories.
-
-> ### Effect of the policy: Audiences for personalized ads
-> 
-> Advertisers promoting products and services that fall within sensitive interest categories are unable to use advertiser-curated audiences. This helps ensure that sensitive interest categories aren’t inadvertently used for targeting audiences. Because predefined Google audiences are expressly configured without sensitive user signals, all advertisers are allowed to use them, even if they promote sensitive interest categories.
-> 
-> See the following non-exhaustive list of targeting features and how personalized ads policies apply.
-> 
-> |     |     |
-> | --- | --- |
-> | **Advertiser-curated audiences**<br><br>If you’re an advertiser that promotes products and services in sensitive interest categories you cannot use the following targeting features. | **Predefined Google audiences**<br><br>Advertisers are able to use the following targeting features, including advertisers that promote products and services in sensitive interest categories. |
-> | Customer Match<br><br> Your data segments<br><br> [Audience Expansion](https://support.google.com/google-ads/answer/9496986)<br><br> [Lookalike Segments](https://support.google.com/google-ads/answer/13541369?hl=en) | In-market Segment<br><br> Affinity<br><br> Demographics (with exceptions)1<br><br> Detailed Demographics (with exceptions)1<br><br> Life Events<br><br> Location Targeting2<br><br>Custom Segments4 |
-> 
-> 1: Certain demographics (age, gender, marital status, parental status) may not be used to target Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
-> 2: ZIP code location targeting can not be used for Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
-> 3: Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
-> 4: Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
-
-To ensure that we provide a high-quality consumer ad experience on Google’s personalized feeds, [Demand Gen ads](https://support.google.com/google-ads/answer/13695777) must comply with all Google Ads and personalization policies. Ads in sensitive categories may be fully or partially blocked from serving on Demand Gen's surfaces.
+|     |     |
+| --- | --- |
+| **Sensitive interest categories** | **Access to opportunities categories  <br>(US and Canada only)**  <br>Restrictions to these categories help ensure equitable access |
+| *   [Abuse and trauma](https://support.google.com/adspolicy/answer/16701149)<br>*   [Alcohol](https://support.google.com/adspolicy/answer/16701854)<br>*   [Birth control](https://support.google.com/adspolicy/answer/16701955)<br>*   [Clinical trial recruitment](https://support.google.com/adspolicy/answer/16700746)<br>*   [Commission of a crime](https://support.google.com/adspolicy/answer/16701956)<br>*   [Gambling](https://support.google.com/adspolicy/answer/16701250)<br>*   [Health](https://support.google.com/adspolicy/answer/16701855)<br>*   [Imposing negativity](https://support.google.com/adspolicy/answer/16700847)<br>*   [Location-based gambling](https://support.google.com/adspolicy/answer/16701756)<br>*   [Marginalized groups](https://support.google.com/adspolicy/answer/16701957)<br>*   [Negative financial status](https://support.google.com/adspolicy/answer/16700443)<br>*   [Political affiliation](https://support.google.com/adspolicy/answer/16700848)<br>*   [Political content](https://support.google.com/adspolicy/answer/16700747)<br>*   [Race and ethnicity](https://support.google.com/adspolicy/answer/16701452)<br>*   [Relationship hardships](https://support.google.com/adspolicy/answer/16700849)<br>*   [Religious beliefs](https://support.google.com/adspolicy/answer/16701958)<br>*   [Restricted drug terms](https://support.google.com/adspolicy/answer/16701653)<br>*   [Sexual content](https://support.google.com/adspolicy/answer/16701453)<br>*   [Sexual orientation](https://support.google.com/adspolicy/answer/16700850)<br>*   [Trade union membership](https://support.google.com/adspolicy/answer/16701959)<br>*   [Transgender identification](https://support.google.com/adspolicy/answer/16700851) | *   [Consumer finance](https://support.google.com/adspolicy/answer/16700846)<br>*   [Employment](https://support.google.com/adspolicy/answer/16700442)<br>*   [Housing](https://support.google.com/adspolicy/answer/16701755) |
 
 * * *
 
-Sensitive interest categories
------------------------------
+Types of targeting restrictions
+-------------------------------
 
-### Legal restrictions
+The types of products and services you promote will determine the targeting settings you're allowed to use for your ads. If you are not promoting anything within the categories listed on this page, you can use both predefined Google audiences and your own advertiser-curated audiences, though other restrictions may apply.
 
-  Ads must comply with all applicable laws and regulations for all of the locations where your ads are showing.
+### Targeting restrictions to Sensitive interest categories
 
-We don’t allow targeting users based on legally restricted content, as defined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
+Advertisers promoting products and services that fall within sensitive interest categories are unable to use advertiser-curated audiences. This helps ensure that sensitive interest categories aren’t inadvertently used for targeting audiences. Because predefined Google audiences are expressly configured without sensitive user signals, all advertisers are allowed to use them, even if they promote sensitive interest categories.
 
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
+Refer to the following non-exhaustive list of targeting features and how personalized ads policies apply.
 
-> ### Restricted drug terms in personalized advertising
-> 
-> > Prescription medications and information about prescription medications, unless the medication and any listed ingredients are only intended for animal use and are not prone to human abuse or other misuse. Content directed to healthcare professionals in their professional medical capacity is excluded from this restriction for advertisers in the United States, Canada and New Zealand. Advertisers that are planning to use Google’s personalized targeting tools to promote products or services containing Restricted Drug Terms to healthcare professionals in their professional medical capacity after July 1, 2025, must apply for the [Restricted Drug Term Personalization Certification](https://support.google.com/adspolicy/answer/16387443).
+|     |     |
+| --- | --- |
+| **Advertiser-curated audiences**<br><br>These audiences cannot be used if promoting in sensitive interest categories, because they may inadvertently contain sensitive user signals.3 | **Predefined Google audiences**<br><br>These audiences can be used even if promoting in sensitive interest categories, because the sensitive user signals are automatically excluded from them.**3** |
+| Customer match<br><br>Your data segments<br><br>[Audience expansion](https://support.google.com/google-ads/answer/9496986)<br><br>[Lookalike segments](https://support.google.com/google-ads/answer/13541369) | In-market segments<br><br>Affinity<br><br>Demographics (with exceptions)1<br><br>Detailed demographics (with exceptions)1<br><br>Life events<br><br>Location targeting2<br><br>Custom segments4 |
 
-> ### Clinical trial recruitment in personalized advertising
-> 
-> > Promotion of clinical trial recruitment
-
-> ### Alcohol in personalized advertising
-> 
-> > Alcoholic beverages and drinks that resemble alcoholic beverages
-
-> ### Gambling in personalized advertising
-> 
-> | **Sensitive: No personalization allowed** | **Not sensitive: Personalization allowed** |
-> | --- | --- |
-> | *   Gambling, including online and offline gambling<br>*   Online gambling-related information<br>*   Online non-casino games played for money or prizes<br>*   Online casino-based games, regardless of whether money is exchanged | *   **Globally**: Google App campaigns promoting social casino gaming apps to app users<br>*   **In India**: Google App campaigns promoting apps for the games of skill of Daily Fantasy Sports and Rummy to app users |
-
-> ### Location-based gambling in personalized advertising
-> 
-> > Physical casinos that explicitly promote gambling
-
- Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
+1\. Certain demographics (age, gender, marital status, parental status) may not be used to target Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
+2\. ZIP code location targeting cannot be used for Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
+3\. Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
+4\. Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
 
 * * *
 
-### Personal hardships
+Targeting restrictions to Access to opportunities categories (US and Canada)
+----------------------------------------------------------------------------
 
-We understand that users don’t want to see ads that exploit their personal struggles, difficulties, and hardships, so we don’t allow personalized advertising based on these hardships. Such personal hardships include health conditions, treatments, procedures, personal failings, struggles, or traumatic personal experiences. You also can’t impose negativity on the user.
+These restrictions are designed to help ensure equitable access to opportunities in Housing, Employment, and Consumer finance in the United States and Canada. The categories have limited personalization for certain demographics.
 
-We don’t allow targeting users based on personal hardships, as defined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
+#### Targeting dos & don’ts for Access to opportunities categories (non-exhaustive)
 
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
+You can use predefined Google audiences, excluding the demographics listed below
 
-> ### Health in personalized advertising
-> 
-> > Personal health content, which includes:
-> 
-> > *   Physical or mental health conditions, including diseases, sexual health, and chronic health conditions, which are health conditions that require long-term care or management
-> > *   Products, services, or procedures to treat or manage chronic health conditions, which includes over-the-counter medications and medical devices
-> > *   Any health issues associated with intimate body parts or functions, which includes genital, bowel, or urinary health
-> > *   Invasive medical procedures, which includes cosmetic surgery, surgical procedures, or injections
-> > *   Disabilities, even when content is oriented toward the user’s primary caretaker
-> > 
-> > > **Examples (non-exhaustive)**: Treatments for chronic health conditions like diabetes or arthritis, treatments for sexually transmitted diseases, counseling services for mental health issues like depression, anxiety, and addiction, medical devices for sleep apnea like CPAP machines, over-the-counter medications for yeast infections, treatments for pregnancy and infertility, information about how to support your autistic child
-> 
-> Personal health content excludes content directed to healthcare professionals in their professional medical capacity, such as promoting atorvastatin or orthopedic implants to healthcare professionals in their professional medical capacity.
+In the United States and Canada, you can't target audiences using:
 
-> ### Negative financial status in personalized advertising
-> 
-> > Personal financial distress, difficulties, or deprivation
-> > 
-> > > **Examples (non-exhaustive)**: bankruptcy services, welfare services, homeless shelters, unemployment resources, predatory lending products and services, debt-focused products and support
+> *   Gender
+> *   Age
+> *   Parental status
+> *   Marital status
+> *   ZIP codes
 
-> ### Relationship hardships in personalized advertising
-> 
-> > Personal hardships with family, friends, or other interpersonal relationships
-> > 
-> > > **Examples (non-exhaustive)**: divorce services, books about coping with divorce, bereavement products or services, family or relationship counseling services
+[Targeting geographic locations](https://support.google.com/google-ads/answer/1722043) using radius, as well as city and country-based targeting is allowed. Radius targeting requires setting at least 1 km around any given location. For Canada, the first 3 letters of postal code (FSA), is acceptable for ad targeting.
 
-> ### Commission of a crime in personalized advertising
-> 
-> > Personal criminal record, crimes committed, criminal allegations, or criminal charges
-> > 
-> > > **Examples (non-exhaustive)**: bail bonds services, criminal defense lawyers
-
-> ### Abuse and trauma in personalized advertising
-> 
-> > Personal status as a victim of abuse, crime, or other traumatic event
-> > 
-> > > **Examples (non-exhaustive)**: domestic abuse shelters, victim advocate services
-
-> ### Imposing negativity in personalized advertising
-> 
-> > Imposing negativity on the user or using a negative perspective or bias to promote any content category
-> > 
-> > > **Examples (non-exhaustive)**: body shaming, negativity related to physical attributes or social interactions, suggesting negative outcomes for users if they don’t take specific actions
-
-Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
+Learn more [About audience segments](https://support.google.com/google-ads/answer/2497941) including descriptions of the terms used above. Learn more about [targeting](https://support.google.com/google-ads/topic/10543621) and how to use it.
 
 * * *
 
-### Identity and belief
+Data collection and use in personalized advertising
+---------------------------------------------------
 
-We consider identity and belief systems to be deeply personal and complex. They’re highly dependent on diversity of cultural norms, geography, history, and personal life experiences. We also understand that how one identifies or what one believes can be used to segment users based on judgments or stigmas.
-
-We want ads to provide a positive experience and to be informed by users’ interests rather than by who they’re perceived to be as a person, so we don’t allow personalized advertising based on a user’s fundamental or intrinsic self-identity or their belief systems. Such identities and beliefs can include inherently private classifications of one’s self; classifications susceptible to stigmas, discrimination, or harassment; membership within groups that are susceptible to stigmas, discrimination, or prejudices; and personally held belief systems.
-
-We don’t allow targeting users based on identity and belief, as outlined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
-
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
-
-> ### Sexual orientation in personalized advertising
-> 
-> > Sexual orientation, including lesbian, gay, bisexual, questioning, or heterosexual orientation
-> > 
-> > > **Examples (non-exhaustive)**: information about revealing your homosexuality, gay dating, gay travel, information about bisexuality
-
-> ### Political affiliation in personalized advertising
-> 
-> > This Personalized advertising policy applies to all targeting features.
-> > 
-> > Political affiliation
-> > 
-> > > **Examples (non-exhaustive)**: political ideologies, political opinions, political parties, political organizations, political campaigns, engagement in political discourse
-
-> ### Political content in personalized advertising
-> 
-> > This Personalized advertising policy applies to all targeting features.
-> > 
-> > Political affiliation
-> > 
-> > > **Examples (non-exhaustive)**: Examples: political ideologies, political opinions, political parties, political organizations, political campaigns, engagement in political discourse
-
-> ### Trade union membership in personalized advertising
-> 
-> > Trade unions and ads that imply knowledge of a user's trade union membership
-> > 
-> > > **Examples (non-exhaustive)**: trade union sites, information oriented toward members of trade unions, trade union blogs, and trade union support for work disputes
-
-> ### Race and ethnicity in personalized advertising
-> 
-> > Personal race or ethnicity
-> > 
-> > > **Examples (non-exhaustive)**: racially or ethnically oriented publications, racially or ethnically oriented universities, racial or ethnic dating
-
-> ### Religious belief in personalized advertising
-> 
-> > Personal religious beliefs
-> > 
-> > > **Examples (non-exhaustive)**: places of worship, religious guidance, religious education or universities, religious products or topics
-
-> ### Marginalized groups in personalized advertising
-> 
-> > Membership in a marginalized or vulnerable social group, such as social castes, immigrants or refugees
-> > 
-> > > **Examples (non-exhaustive)**: products oriented toward users based on social caste, services for immigrants, legal services for refugees
-
-> ### Transgender identification in personalized advertising
-> 
-> > Personal identification with a gender different from the gender assigned at birth, or a gender which does not conform to singular male or female identification
-> > 
-> > > **Examples (non-exhaustive)**: information about gender transitioning, transgender discrimination lawyers
-
-Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
-
-* * *
-
-Sexual interests
-----------------
-
-We understand that sexual interests are inherently private and, depending on cultural norms, not often candidly discussed. We believe in maintaining the privacy of a user’s sexual interests, so we don’t allow personalized advertising that targets users based on their personal sexual interests, experiences, activities, or preferences. Such interests include sexual behaviors, activities, or products used when having sex. Additionally, we don’t allow categories that are sexually suggestive or intended to sexually arouse.
-
-We don’t allow targeting users based on sexual interests, as outlined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
-
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
-
-> ### Birth control in personalized advertising
-> 
-> > Devices intended to prevent pregnancy or sexually transmitted diseases
-> > 
-> > > **Examples (non-exhaustive)**: condoms, oral contraceptive pill, contraceptive sponge
-
-> ### Sexual content
-> 
->  All sexual content as defined in the [Google Ads Sexual content policy](https://support.google.com/adspolicy/answer/6023699). 
-> 
-> If the Sexual content policy and the Personalized advertising sexual interests policy differ on how each treats a category, the Personalized advertising sexual interests policy takes precedence over the Sexual content policy with respect to how the category can be used for targeting and personalized ads.
-
-Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
-
-* * *
-
-Limited personalization
------------------------
-
-### Access to opportunities
-
-We believe access to social and economic opportunities is fundamental for individual well-being, social status and quality of life. We also recognize that historic discrimination and societal biases have resulted in some segments of society having unequal access to these opportunities.
-
-Therefore, in an effort to improve inclusivity for users disproportionately affected by society’s biases, we don’t allow some categories of products or services to be targeted to specific audiences. This is in addition to existing ads policies that prohibit discrimination and personalized ads policies that prohibit use of Identity and Belief categories. See below for specific examples of what we don't allow.
-
-### Countries: United States, Canada
-
-The following criteria may not be used to target Housing, Employment, and Consumer Finance Ads in the United States and Canada:
-
->   Gender, age, parental status, marital status targeting (all options must be set to “Enable”)
-> 
->   ZIP Code targeting
-
-> ### Housing in personalized ads
-> 
-> > Homes for sale or rental, where a home is defined as a place a person would reside. This includes products or services enabling the sale or rental of homes.
-> > 
-> > > **Examples (non-exhaustive):** Housing listing sites, real estate services, individual houses for sale or rental (all types of housing including apartments, mobile homes, house boats, retirement residential communities etc.)
-
-> ### Employment in personalized ads
-> 
-> > Employment opportunities or hiring a person for a job\*
-> > 
-> > > **Examples (non-exhaustive):** Ads for jobs, job recruitment sites, job listing sites.
-> > 
-> > \* A subset of predetermined U.S. government advertisers may use personalized ads targeting that would otherwise be restricted under Access to Opportunities, in order to promote employment. So long as the targeting is based on a bona fide occupational qualification for a government job, which is defined under U.S. law as a qualification that is reasonably necessary for normal function of the job.
-
-> ### Consumer finance in personalized ads
-> 
-> > Offers relating to credit, banking products and services, or certain financial planning and management services
-> > 
-> > > **Examples (non-exhaustive):** Credit cards and loans, banking and checking accounts, debt management products.
-
-### Options to fix: Access to opportunities
-
-If this policy is affecting your ad, review your options to fix below.
-
-Ensure that your ads, site, or app comply with Access to opportunities Personalized advertising policies to serve ads in the United States and Canada. Note that even if ads are not targeted using sensitive categories, some types of ad content are still prohibited.
-
-After reviewing all of the policies and ensuring your targeting  complies with policy, there are 3 options to become compliant with the policy:
-
-#### Edit your ad text and site or app to comply with this policy
-
-*   **Remove content from your site or app that would bring you in scope of the Access to Opportunities policy**. You'll then need to request a review of your ads directly from your Google Ads account **before** moving on to the next step of checking your targeting countries and targeting methods.
-*   **Remove that content from your ad.** If your ad content brings you in scope of the Access to Opportunities policy, remove it.
-
-> 1.  In your Google Ads account, click the **Campaigns** icon .
-> 2.  Click the **Campaigns** drop down in the section menu.
-> 3.  Click [**Ads**](https://ads.google.com/aw/ads).
-> 4.  Hover over the ad or asset and click **Edit**.
-> 5.  Edit the ad or asset so that it complies with the policy.
-> 6.  Click **Save**. Your ad will be automatically reviewed again. Check the ad’s status in the “Ads & assets” page for updates.
-
-#### Edit your ad targeting to comply with this policy
-
-If your ads target the United States and/or Canada, confirm that your ad does not use the following restricted targeting criteria for Housing, Employment, and Consumer Finance Ads: ZIP code targeting, gender, age, parental status, marital status, or demographic targeting.
-
-If any of the restricted targeting criteria are used, edit the targeting to comply with policy by setting all demographics to “Enable” and removing ZIP code targeting.
-
-After the non-compliant targeting methods are removed or edited to comply, appeal the policy decision on your ads directly from your Google Ads account to request a new review.
-
-#### Appeal policy decision
-
-If you've fixed your destination or believe that we've made an error, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. After we confirm that the destination is compliant, we can approve your ads. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
-
-* * *
-
-Personalized advertising data collection and use policies
----------------------------------------------------------
-
-These policies define requirements for data collection and use in personalized ads. They apply in addition to the [Google ads policies for data collection and use](https://support.google.com/adspolicy/answer/6020956).
+These requirements for data collection and use in personalized ads are in addition to the [Google ads policies for data collection and use](https://support.google.com/adspolicy/answer/6020956).
 
 You aren't allowed to do the following:
 
-> Run ads that collect or contain [personally identifiable information (PII)](https://support.google.com/google-ads/answer/7686480), unless using an ad format provided by Google and designed for that purpose
-> 
-> > **Examples (non-exhaustive)**: Collecting email addresses, telephone numbers, or credit card numbers within the ad itself
-> 
-> Use PII in connection with any anonymous or pseudonymous data, including in remarketing lists, cookies, or data feeds.
-> 
-> Share PII with Google through remarketing tags or any product data feeds that might be associated with ads
-> 
-> Send Google precise location information without first obtaining users' consent
-> 
-> Use a remarketing list that targets an overly narrow or specific audience. This includes the case where combining a remarketing list with other targeting criteria (such as geographic limitations or other user segmentation) results in an ad targeted to a relatively small number of users. Learn more about [remarketing list size requirements](https://support.google.com/google-ads/answer/2472738#listsize).
+*   Run ads that collect or contain [personally identifiable information (PII)](https://support.google.com/google-ads/answer/7686480), unless using an ad format provided by Google that’s designed for that purpose.
+    *   **Examples (non-exhaustive)**: Collecting email addresses, telephone numbers, or credit card numbers within the ad itself.
+*   Use PII in connection with any anonymous or pseudonymous information, including in your data segments (previously called remarketing), cookies, or data feeds.
+*   Share PII with Google through your data segments tags or any product data feeds that might be associated with ads.
+*   Send Google precise location information without first obtaining users' consent.
+*   Use your data segments in a way that targets an overly narrow or specific audience. This includes the case where combining your data segments with other targeting criteria (such as geographic limitations or other user segmentation) results in an ad targeted to a relatively small number of users. Learn more about the [size of your data segments](https://support.google.com/google-ads/answer/2472738#listsize).
 
-### For Remarketing
+For your data segments:
 
-> *   You can choose to disable the collection of remarketing data for users who do not wish to view personalized ads by using the parameter: allow\_ad\_personalization\_signals. Learn more about how to modify the global site tag to [Disable the collection of personalized advertising data](https://support.google.com/google-ads/answer/9606827) for specific users.
-> *   When using remarketing, re-engagement, or similar segments features, you're required to [include specific information in your privacy policy](https://support.google.com/google-ads/answer/2549063).
-> *   Google may include in-ad notice labels to disclose personalized advertising to our users, and we may display to users which remarketing lists they're on, along with the corresponding domain name. You must not modify or obscure these notices. If you want to implement your own in-ad notice, it must only be done in compliance with relevant industry standards.
-> *   Google won't allow another advertiser to use your remarketing lists or similar segments lists without your consent.
+*   You can choose to disable the collection of data segments for users who do not wish to view personalized ads by using the parameter: allow\_ad\_personalization\_signals. Learn more about how to modify the global site tag to [Disable the collection of personalized advertising data](https://support.google.com/google-ads/answer/9606827) for specific users.
+*   When using your data segments, re-engagement, or similar segments features, learn [what to include in your privacy policy for your data segments](https://support.google.com/google-ads/answer/2549063).
+*   Google may include in-ad notice labels to disclose personalized advertising to people, and may display which of your data segments they're on, along with the corresponding domain name. You must not modify or obscure these notices. If you want to implement your own in-ad notice, it must only be done in compliance with relevant industry standards.
+*   Google won't allow another advertiser to use your data segments or similar segments lists without your consent.
 
 * * *
 
-Options to fix ad violations
-----------------------------
+Options to fix ads in Sensitive interest categories
+---------------------------------------------------
 
-If this policy is affecting your ad, review your options to fix below.
+If your ads are flagged for the personalized advertising policy, you should review your site or app as well as your ad content to ensure if they fall in this policy. You then have 3 options to fix your ads.
 
-Ensure that your ads, site, or app comply with Personalized advertising policies. Note that even if ads are not targeted using sensitive categories, some types of ad content are still prohibited.
+### Option 1: Edit your ad targeting
 
-After reviewing all of the policies and ensuring your ads comply with policy, there are 3 options to become compliant with the policy:
+Review and remove any advertiser-curated audiences from the targeting settings of your ad. Check the targeting settings of ad groups, asset groups, and campaigns to make sure they aren't using these audiences either. 
 
-### Edit your ad text and site or app to comply with this policy
+### Option 2: Edit or remove content that falls within this policy
 
-*   **Remove that content from your site or app**. If your site or app has content that we don't allow personalization on, remove all content that doesn’t comply with the personalized ads policy. You'll then need to request a review of your ads directly from your Google Ads account **before** moving on to the next step of checking your audience lists.
-*   **Remove that content from your ad**. If your ad violates the personalized ads policy, edit it to make it comply.
+1.  From your **site** or **app**
+2.  From your **ads**
 
-> 1.  In your Google Ads account, click the **Campaigns** icon .
-> 2.  Click the **Campaigns** drop down in the section menu.
-> 3.  Click [**Ads**](https://ads.google.com/aw/ads).
-> 4.  Hover over the ad or asset and click **Edit**.
-> 5.  Edit the ad or asset so that it complies with the policy.
-> 6.  Click **Save**. Your ad will be automatically reviewed again. Check the ad’s status in the “Ads & assets” page for updates.
+#### How to edit your ad content
 
-Once you edit and save your ad, it's sent for review. Most ads are reviewed within 1 business day, though some can take longer if they need a more complex review. If you've removed the unacceptable content from your ad and its destination, you can request a review of your ad.
+1.  Go to [**Ads**](https://ads.google.com/aw/ads) within the **Campaigns** menu.
+2.  Hover over the ad or asset and select **Edit**.
+3.  Edit the ad or asset so that it complies with the policy.
+4.  Select **Save**.
 
-### Edit your ad targeting to comply with this policy
+Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
 
-Disassociate or remove ad groups that target advertiser-curated audiences or remarketing lists. Ensure that the ads using these targeting audiences or lists comply with Personalized advertising policies. If the ads do not comply with Personalized advertising policies, please remove the ad groups or targeting that uses the audience or remarketing lists.
+Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
 
-After the non-compliant targeting methods are removed or amended to comply, appeal the policy decision on your ads directly from your Google Ads account to request a new review.
+### Option 3: Appeal the policy decision
 
-### Appeal policy decision
+If you believe there’s been an error and that your site or app or ads don’t fall under this policy, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. If the review determines that your ads are compliant, they can run again. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
 
-If you've fixed your destination or believe that we've made an error, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. After we confirm that the destination is compliant, we can approve your ads. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
+* * *
+
+Options to fix ads in "Access to opportunities" categories
+----------------------------------------------------------
+
+If your ads are flagged for personalized ads policy, you should review your site or app as well as your ad content to ensure if they fall in this policy. You then have 3 options to fix your ads.
+
+### Option 1: Edit your ad targeting
+
+If your ads target the United States or Canada:
+
+1.  Set all demographics (gender, age, parental status, marital status) to “Enable”. 
+2.  Remove any ZIP code targeting.
+
+### Option 2: Edit or remove content that falls within this policy
+
+1.  From your **site** or **app**.
+2.  From your **ads**.
+
+#### How to edit ad content
+
+1.  Go to [**Ads**](https://ads.google.com/aw/ads) within the **Campaigns** menu.
+2.  Hover over the ad or asset and select **Edit**.
+3.  Edit the ad or asset so that it complies with the policy.
+4.  Select **Save**.
+
+Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
+
+Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
+
+### Option 3: Appeal the policy decision
+
+If you believe there’s been an error and that your site or app or ads don’t fall under this policy, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. If the review determines that your ads are compliant, they can run again. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
+
+* * *
+
+Google Ads policy information
+-----------------------------
+
+Google's personalized ads policies work in combination with other policies across Ads and all of Google. You are responsible for ensuring your ads comply with the policy. Google's [privacy policy](https://privacy.google.com/) applies to all Google features and dictates how Google collects, uses, and protects user data. Learn [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501). Advertisers are also required to comply with our policies for [European Union user consent](https://www.google.com/about/company/user-consent-policy.html), where applicable.
+
+* * *
 
 Need help?
 ----------
 
-If you have questions about our policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
+If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 - - -
 
@@ -4826,405 +4609,188 @@ We may review your business for compliance with the [Customer Match policy](http
 
 - - -
 
-Personalized advertising
-========================
+Restricted targeting in Personalized advertising
+================================================
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
-Personalized advertising is a powerful tool that improves advertising relevance for users and increases ROI for advertisers. Because it works by employing online user data to target users with more relevant advertising content, it can provide an improved experience for users and advertisers alike.
+Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](#00) for more details.
 
-When employing user behavior or interest data to provide more relevant ad content it’s important to handle that information appropriately. We recognize that certain interests are sensitive and that targeting based on them could negatively impact user experience.
-
-With this in mind and based on the sensitivities associated with user ad targeting, we’ve identified policy standards for all personalized advertising targeting features. For the purposes of this article, targeting means both positive and negative targeting. These standards do not replace our other advertising policies (for example, for [Google Ads](https://support.google.com/adspolicy/answer/6008942) or [Shopping](https://support.google.com/merchants/answer/6149970)) and advertisers are still responsible for complying with all applicable advertising policies, in addition to Personalized advertising policies. Advertisers are also required to comply with our policies for [European Union user consent](https://www.google.com/about/company/user-consent-policy.html), where applicable.
-
-Google's [privacy policy](https://privacy.google.com/) applies to all Google features and dictates how Google collects, uses, and protects user data. Learn about [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
+Learn how to [Check the review status of an ad or asset](https://support.google.com/google-ads/answer/6327680).
 
 * * *
 
-#### In this article
+**In this article**
 
-*   [Personalized advertising content policy principles](#papolicy)
-*   [Restrictions based on personalized advertising targeting feature](#250)
-*   [Sensitive interest categories](#777)
-    *   [Legal restrictions](#123): restricted drug terms, clinical trial recruitment, alcohol, gambling, location-based gambling
-    *   [Personal hardships](#547): health, negative financial status, relationship hardships, commission of a crime, abuse and trauma, imposing negativity
-    *   [Identity and belief](#551): sexual orientation, political affiliation, political content, trade union membership, race and ethnicity, religious belief, marginalized groups, transgender identification
-    *   [Sexual interests](#552): birth control, sexual content
-*   [Limited Personalization](#222)
-    *   [Access to opportunities](#550) (US/CA): housing, employment, consumer finance
-    *   [Options to fix: Access to opportunities](#444)
-*   [Personalized advertising data collection and use policies](#234)
-*   [Options to fix ad violations](#888)
+*   [Categories with targeting restrictions](#00)
+*   [Types of targeting restrictions](#01)
+    *   [Targeting restrictions to Sensitive interest categories](#02)
+    *   [Targeting restrictions to Access to opportunities categories (US and Canada)](#03)
+*   [Data collection and use in personalized advertising](#04)
+*   [Options to fix ads in Sensitive interest categories](#05)
+*   [Options to fix ads in "Access to opportunities" categories](#06)
+*   [Google Ads policy information](#07)
+*   [Need help?](#08)
 
 * * *
 
-Personalized advertising content policy principles
---------------------------------------------------
+Categories with targeting restrictions
+--------------------------------------
 
-> Sensitive interest categories are restricted in personalized ads. We define sensitive interest categories in terms of the following content policy principles:
-> 
-> > *   [**Legal restrictions**](https://support.google.com/adspolicy/answer/143465#123): Ads must comply with the law.
-> > *   [**Personal hardships**](https://support.google.com/adspolicy/answer/143465#547): Ads shouldn’t target users in ways that exploit their difficulties or struggles.
-> > *   [**Identity and belief**](https://support.google.com/adspolicy/answer/143465#551): Ads shouldn’t target users based on categories prone to systemic discrimination or unfair stigmas.
-> > *   [**Sexual interests**](https://support.google.com/adspolicy/answer/143465#552): Ads shouldn’t target users based on inherently private sexual interests or experiences.
-> > *   **[Access to opportunities](https://support.google.com/adspolicy/answer/143465#550):** Ads shouldn’t limit access to opportunities by leveraging unfair societal biases when targeting users with specific content categories.
+You are responsible for ensuring your ads comply with policy where required. If you advertise in one or more of these categories, you’ll need to comply with targeting restrictions. Refer to all categories that relate to your ads for details.
 
-* * *
-
-Restrictions based on personalized advertising targeting feature
-----------------------------------------------------------------
-
-> For purposes of this policy, personalized ads policies may apply differently depending on the targeting feature used. For all targeting features, there are two components:
-> 
-> > *   Targeting users, which refers to the groups of users you've chosen to see your ads or exclude from seeing your ads. Targeting, both positive and negative, includes all aspects of creating or selecting those groups.
-> > *   Promoting products and services, which refers to the specific content in your ad or on your landing page.
-> 
-> The type of personalization available depends, in part, on whether the products and services you are promoting are sensitive. 
-> 
-> > *   For all personalized ads targeting features, we don’t allow targeting users based on sensitive interest categories.
-> > *   For advertiser-curated audiences, where advertisers can customize, curate, or upload their own audiences, advertisers are also not allowed to promote products and services from sensitive interest categories.
-> > *   For pre-defined Google audiences, where Google manages the development and curation of policy-compliant audiences based on information across Google properties, advertisers are allowed to promote products and services from sensitive interest categories.
-
-> ### Effect of the policy: Audiences for personalized ads
-> 
-> Advertisers promoting products and services that fall within sensitive interest categories are unable to use advertiser-curated audiences. This helps ensure that sensitive interest categories aren’t inadvertently used for targeting audiences. Because predefined Google audiences are expressly configured without sensitive user signals, all advertisers are allowed to use them, even if they promote sensitive interest categories.
-> 
-> See the following non-exhaustive list of targeting features and how personalized ads policies apply.
-> 
-> |     |     |
-> | --- | --- |
-> | **Advertiser-curated audiences**<br><br>If you’re an advertiser that promotes products and services in sensitive interest categories you cannot use the following targeting features. | **Predefined Google audiences**<br><br>Advertisers are able to use the following targeting features, including advertisers that promote products and services in sensitive interest categories. |
-> | Customer Match<br><br> Your data segments<br><br> [Audience Expansion](https://support.google.com/google-ads/answer/9496986)<br><br> [Lookalike Segments](https://support.google.com/google-ads/answer/13541369?hl=en) | In-market Segment<br><br> Affinity<br><br> Demographics (with exceptions)1<br><br> Detailed Demographics (with exceptions)1<br><br> Life Events<br><br> Location Targeting2<br><br>Custom Segments4 |
-> 
-> 1: Certain demographics (age, gender, marital status, parental status) may not be used to target Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
-> 2: ZIP code location targeting can not be used for Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
-> 3: Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
-> 4: Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
-
-To ensure that we provide a high-quality consumer ad experience on Google’s personalized feeds, [Demand Gen ads](https://support.google.com/google-ads/answer/13695777) must comply with all Google Ads and personalization policies. Ads in sensitive categories may be fully or partially blocked from serving on Demand Gen's surfaces.
+|     |     |
+| --- | --- |
+| **Sensitive interest categories** | **Access to opportunities categories  <br>(US and Canada only)**  <br>Restrictions to these categories help ensure equitable access |
+| *   [Abuse and trauma](https://support.google.com/adspolicy/answer/16701149)<br>*   [Alcohol](https://support.google.com/adspolicy/answer/16701854)<br>*   [Birth control](https://support.google.com/adspolicy/answer/16701955)<br>*   [Clinical trial recruitment](https://support.google.com/adspolicy/answer/16700746)<br>*   [Commission of a crime](https://support.google.com/adspolicy/answer/16701956)<br>*   [Gambling](https://support.google.com/adspolicy/answer/16701250)<br>*   [Health](https://support.google.com/adspolicy/answer/16701855)<br>*   [Imposing negativity](https://support.google.com/adspolicy/answer/16700847)<br>*   [Location-based gambling](https://support.google.com/adspolicy/answer/16701756)<br>*   [Marginalized groups](https://support.google.com/adspolicy/answer/16701957)<br>*   [Negative financial status](https://support.google.com/adspolicy/answer/16700443)<br>*   [Political affiliation](https://support.google.com/adspolicy/answer/16700848)<br>*   [Political content](https://support.google.com/adspolicy/answer/16700747)<br>*   [Race and ethnicity](https://support.google.com/adspolicy/answer/16701452)<br>*   [Relationship hardships](https://support.google.com/adspolicy/answer/16700849)<br>*   [Religious beliefs](https://support.google.com/adspolicy/answer/16701958)<br>*   [Restricted drug terms](https://support.google.com/adspolicy/answer/16701653)<br>*   [Sexual content](https://support.google.com/adspolicy/answer/16701453)<br>*   [Sexual orientation](https://support.google.com/adspolicy/answer/16700850)<br>*   [Trade union membership](https://support.google.com/adspolicy/answer/16701959)<br>*   [Transgender identification](https://support.google.com/adspolicy/answer/16700851) | *   [Consumer finance](https://support.google.com/adspolicy/answer/16700846)<br>*   [Employment](https://support.google.com/adspolicy/answer/16700442)<br>*   [Housing](https://support.google.com/adspolicy/answer/16701755) |
 
 * * *
 
-Sensitive interest categories
------------------------------
+Types of targeting restrictions
+-------------------------------
 
-### Legal restrictions
+The types of products and services you promote will determine the targeting settings you're allowed to use for your ads. If you are not promoting anything within the categories listed on this page, you can use both predefined Google audiences and your own advertiser-curated audiences, though other restrictions may apply.
 
-  Ads must comply with all applicable laws and regulations for all of the locations where your ads are showing.
+### Targeting restrictions to Sensitive interest categories
 
-We don’t allow targeting users based on legally restricted content, as defined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
+Advertisers promoting products and services that fall within sensitive interest categories are unable to use advertiser-curated audiences. This helps ensure that sensitive interest categories aren’t inadvertently used for targeting audiences. Because predefined Google audiences are expressly configured without sensitive user signals, all advertisers are allowed to use them, even if they promote sensitive interest categories.
 
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
+Refer to the following non-exhaustive list of targeting features and how personalized ads policies apply.
 
-> ### Restricted drug terms in personalized advertising
-> 
-> > Prescription medications and information about prescription medications, unless the medication and any listed ingredients are only intended for animal use and are not prone to human abuse or other misuse. Content directed to healthcare professionals in their professional medical capacity is excluded from this restriction for advertisers in the United States, Canada and New Zealand. Advertisers that are planning to use Google’s personalized targeting tools to promote products or services containing Restricted Drug Terms to healthcare professionals in their professional medical capacity after July 1, 2025, must apply for the [Restricted Drug Term Personalization Certification](https://support.google.com/adspolicy/answer/16387443).
+|     |     |
+| --- | --- |
+| **Advertiser-curated audiences**<br><br>These audiences cannot be used if promoting in sensitive interest categories, because they may inadvertently contain sensitive user signals.3 | **Predefined Google audiences**<br><br>These audiences can be used even if promoting in sensitive interest categories, because the sensitive user signals are automatically excluded from them.**3** |
+| Customer match<br><br>Your data segments<br><br>[Audience expansion](https://support.google.com/google-ads/answer/9496986)<br><br>[Lookalike segments](https://support.google.com/google-ads/answer/13541369) | In-market segments<br><br>Affinity<br><br>Demographics (with exceptions)1<br><br>Detailed demographics (with exceptions)1<br><br>Life events<br><br>Location targeting2<br><br>Custom segments4 |
 
-> ### Clinical trial recruitment in personalized advertising
-> 
-> > Promotion of clinical trial recruitment
-
-> ### Alcohol in personalized advertising
-> 
-> > Alcoholic beverages and drinks that resemble alcoholic beverages
-
-> ### Gambling in personalized advertising
-> 
-> | **Sensitive: No personalization allowed** | **Not sensitive: Personalization allowed** |
-> | --- | --- |
-> | *   Gambling, including online and offline gambling<br>*   Online gambling-related information<br>*   Online non-casino games played for money or prizes<br>*   Online casino-based games, regardless of whether money is exchanged | *   **Globally**: Google App campaigns promoting social casino gaming apps to app users<br>*   **In India**: Google App campaigns promoting apps for the games of skill of Daily Fantasy Sports and Rummy to app users |
-
-> ### Location-based gambling in personalized advertising
-> 
-> > Physical casinos that explicitly promote gambling
-
- Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
+1\. Certain demographics (age, gender, marital status, parental status) may not be used to target Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
+2\. ZIP code location targeting cannot be used for Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
+3\. Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
+4\. Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
 
 * * *
 
-### Personal hardships
+Targeting restrictions to Access to opportunities categories (US and Canada)
+----------------------------------------------------------------------------
 
-We understand that users don’t want to see ads that exploit their personal struggles, difficulties, and hardships, so we don’t allow personalized advertising based on these hardships. Such personal hardships include health conditions, treatments, procedures, personal failings, struggles, or traumatic personal experiences. You also can’t impose negativity on the user.
+These restrictions are designed to help ensure equitable access to opportunities in Housing, Employment, and Consumer finance in the United States and Canada. The categories have limited personalization for certain demographics.
 
-We don’t allow targeting users based on personal hardships, as defined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
+#### Targeting dos & don’ts for Access to opportunities categories (non-exhaustive)
 
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
+You can use predefined Google audiences, excluding the demographics listed below
 
-> ### Health in personalized advertising
-> 
-> > Personal health content, which includes:
-> 
-> > *   Physical or mental health conditions, including diseases, sexual health, and chronic health conditions, which are health conditions that require long-term care or management
-> > *   Products, services, or procedures to treat or manage chronic health conditions, which includes over-the-counter medications and medical devices
-> > *   Any health issues associated with intimate body parts or functions, which includes genital, bowel, or urinary health
-> > *   Invasive medical procedures, which includes cosmetic surgery, surgical procedures, or injections
-> > *   Disabilities, even when content is oriented toward the user’s primary caretaker
-> > 
-> > > **Examples (non-exhaustive)**: Treatments for chronic health conditions like diabetes or arthritis, treatments for sexually transmitted diseases, counseling services for mental health issues like depression, anxiety, and addiction, medical devices for sleep apnea like CPAP machines, over-the-counter medications for yeast infections, treatments for pregnancy and infertility, information about how to support your autistic child
-> 
-> Personal health content excludes content directed to healthcare professionals in their professional medical capacity, such as promoting atorvastatin or orthopedic implants to healthcare professionals in their professional medical capacity.
+In the United States and Canada, you can't target audiences using:
 
-> ### Negative financial status in personalized advertising
-> 
-> > Personal financial distress, difficulties, or deprivation
-> > 
-> > > **Examples (non-exhaustive)**: bankruptcy services, welfare services, homeless shelters, unemployment resources, predatory lending products and services, debt-focused products and support
+> *   Gender
+> *   Age
+> *   Parental status
+> *   Marital status
+> *   ZIP codes
 
-> ### Relationship hardships in personalized advertising
-> 
-> > Personal hardships with family, friends, or other interpersonal relationships
-> > 
-> > > **Examples (non-exhaustive)**: divorce services, books about coping with divorce, bereavement products or services, family or relationship counseling services
+[Targeting geographic locations](https://support.google.com/google-ads/answer/1722043) using radius, as well as city and country-based targeting is allowed. Radius targeting requires setting at least 1 km around any given location. For Canada, the first 3 letters of postal code (FSA), is acceptable for ad targeting.
 
-> ### Commission of a crime in personalized advertising
-> 
-> > Personal criminal record, crimes committed, criminal allegations, or criminal charges
-> > 
-> > > **Examples (non-exhaustive)**: bail bonds services, criminal defense lawyers
-
-> ### Abuse and trauma in personalized advertising
-> 
-> > Personal status as a victim of abuse, crime, or other traumatic event
-> > 
-> > > **Examples (non-exhaustive)**: domestic abuse shelters, victim advocate services
-
-> ### Imposing negativity in personalized advertising
-> 
-> > Imposing negativity on the user or using a negative perspective or bias to promote any content category
-> > 
-> > > **Examples (non-exhaustive)**: body shaming, negativity related to physical attributes or social interactions, suggesting negative outcomes for users if they don’t take specific actions
-
-Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
+Learn more [About audience segments](https://support.google.com/google-ads/answer/2497941) including descriptions of the terms used above. Learn more about [targeting](https://support.google.com/google-ads/topic/10543621) and how to use it.
 
 * * *
 
-### Identity and belief
+Data collection and use in personalized advertising
+---------------------------------------------------
 
-We consider identity and belief systems to be deeply personal and complex. They’re highly dependent on diversity of cultural norms, geography, history, and personal life experiences. We also understand that how one identifies or what one believes can be used to segment users based on judgments or stigmas.
-
-We want ads to provide a positive experience and to be informed by users’ interests rather than by who they’re perceived to be as a person, so we don’t allow personalized advertising based on a user’s fundamental or intrinsic self-identity or their belief systems. Such identities and beliefs can include inherently private classifications of one’s self; classifications susceptible to stigmas, discrimination, or harassment; membership within groups that are susceptible to stigmas, discrimination, or prejudices; and personally held belief systems.
-
-We don’t allow targeting users based on identity and belief, as outlined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
-
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
-
-> ### Sexual orientation in personalized advertising
-> 
-> > Sexual orientation, including lesbian, gay, bisexual, questioning, or heterosexual orientation
-> > 
-> > > **Examples (non-exhaustive)**: information about revealing your homosexuality, gay dating, gay travel, information about bisexuality
-
-> ### Political affiliation in personalized advertising
-> 
-> > This Personalized advertising policy applies to all targeting features.
-> > 
-> > Political affiliation
-> > 
-> > > **Examples (non-exhaustive)**: political ideologies, political opinions, political parties, political organizations, political campaigns, engagement in political discourse
-
-> ### Political content in personalized advertising
-> 
-> > This Personalized advertising policy applies to all targeting features.
-> > 
-> > Political affiliation
-> > 
-> > > **Examples (non-exhaustive)**: Examples: political ideologies, political opinions, political parties, political organizations, political campaigns, engagement in political discourse
-
-> ### Trade union membership in personalized advertising
-> 
-> > Trade unions and ads that imply knowledge of a user's trade union membership
-> > 
-> > > **Examples (non-exhaustive)**: trade union sites, information oriented toward members of trade unions, trade union blogs, and trade union support for work disputes
-
-> ### Race and ethnicity in personalized advertising
-> 
-> > Personal race or ethnicity
-> > 
-> > > **Examples (non-exhaustive)**: racially or ethnically oriented publications, racially or ethnically oriented universities, racial or ethnic dating
-
-> ### Religious belief in personalized advertising
-> 
-> > Personal religious beliefs
-> > 
-> > > **Examples (non-exhaustive)**: places of worship, religious guidance, religious education or universities, religious products or topics
-
-> ### Marginalized groups in personalized advertising
-> 
-> > Membership in a marginalized or vulnerable social group, such as social castes, immigrants or refugees
-> > 
-> > > **Examples (non-exhaustive)**: products oriented toward users based on social caste, services for immigrants, legal services for refugees
-
-> ### Transgender identification in personalized advertising
-> 
-> > Personal identification with a gender different from the gender assigned at birth, or a gender which does not conform to singular male or female identification
-> > 
-> > > **Examples (non-exhaustive)**: information about gender transitioning, transgender discrimination lawyers
-
-Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
-
-* * *
-
-Sexual interests
-----------------
-
-We understand that sexual interests are inherently private and, depending on cultural norms, not often candidly discussed. We believe in maintaining the privacy of a user’s sexual interests, so we don’t allow personalized advertising that targets users based on their personal sexual interests, experiences, activities, or preferences. Such interests include sexual behaviors, activities, or products used when having sex. Additionally, we don’t allow categories that are sexually suggestive or intended to sexually arouse.
-
-We don’t allow targeting users based on sexual interests, as outlined in the following sensitive interest categories. Depending on the targeting feature used, you also may not be allowed to promote products and services in the following sensitive interest categories.
-
-You are responsible for ensuring your ads comply with policy where required. See below for specific examples of what we don't allow.
-
-> ### Birth control in personalized advertising
-> 
-> > Devices intended to prevent pregnancy or sexually transmitted diseases
-> > 
-> > > **Examples (non-exhaustive)**: condoms, oral contraceptive pill, contraceptive sponge
-
-> ### Sexual content
-> 
->  All sexual content as defined in the [Google Ads Sexual content policy](https://support.google.com/adspolicy/answer/6023699). 
-> 
-> If the Sexual content policy and the Personalized advertising sexual interests policy differ on how each treats a category, the Personalized advertising sexual interests policy takes precedence over the Sexual content policy with respect to how the category can be used for targeting and personalized ads.
-
-Learn more about how to [Fix ads with policy violations](https://support.google.com/adspolicy/answer/9338593).
-
-* * *
-
-Limited personalization
------------------------
-
-### Access to opportunities
-
-We believe access to social and economic opportunities is fundamental for individual well-being, social status and quality of life. We also recognize that historic discrimination and societal biases have resulted in some segments of society having unequal access to these opportunities.
-
-Therefore, in an effort to improve inclusivity for users disproportionately affected by society’s biases, we don’t allow some categories of products or services to be targeted to specific audiences. This is in addition to existing ads policies that prohibit discrimination and personalized ads policies that prohibit use of Identity and Belief categories. See below for specific examples of what we don't allow.
-
-### Countries: United States, Canada
-
-The following criteria may not be used to target Housing, Employment, and Consumer Finance Ads in the United States and Canada:
-
->   Gender, age, parental status, marital status targeting (all options must be set to “Enable”)
-> 
->   ZIP Code targeting
-
-> ### Housing in personalized ads
-> 
-> > Homes for sale or rental, where a home is defined as a place a person would reside. This includes products or services enabling the sale or rental of homes.
-> > 
-> > > **Examples (non-exhaustive):** Housing listing sites, real estate services, individual houses for sale or rental (all types of housing including apartments, mobile homes, house boats, retirement residential communities etc.)
-
-> ### Employment in personalized ads
-> 
-> > Employment opportunities or hiring a person for a job\*
-> > 
-> > > **Examples (non-exhaustive):** Ads for jobs, job recruitment sites, job listing sites.
-> > 
-> > \* A subset of predetermined U.S. government advertisers may use personalized ads targeting that would otherwise be restricted under Access to Opportunities, in order to promote employment. So long as the targeting is based on a bona fide occupational qualification for a government job, which is defined under U.S. law as a qualification that is reasonably necessary for normal function of the job.
-
-> ### Consumer finance in personalized ads
-> 
-> > Offers relating to credit, banking products and services, or certain financial planning and management services
-> > 
-> > > **Examples (non-exhaustive):** Credit cards and loans, banking and checking accounts, debt management products.
-
-### Options to fix: Access to opportunities
-
-If this policy is affecting your ad, review your options to fix below.
-
-Ensure that your ads, site, or app comply with Access to opportunities Personalized advertising policies to serve ads in the United States and Canada. Note that even if ads are not targeted using sensitive categories, some types of ad content are still prohibited.
-
-After reviewing all of the policies and ensuring your targeting  complies with policy, there are 3 options to become compliant with the policy:
-
-#### Edit your ad text and site or app to comply with this policy
-
-*   **Remove content from your site or app that would bring you in scope of the Access to Opportunities policy**. You'll then need to request a review of your ads directly from your Google Ads account **before** moving on to the next step of checking your targeting countries and targeting methods.
-*   **Remove that content from your ad.** If your ad content brings you in scope of the Access to Opportunities policy, remove it.
-
-> 1.  In your Google Ads account, click the **Campaigns** icon .
-> 2.  Click the **Campaigns** drop down in the section menu.
-> 3.  Click [**Ads**](https://ads.google.com/aw/ads).
-> 4.  Hover over the ad or asset and click **Edit**.
-> 5.  Edit the ad or asset so that it complies with the policy.
-> 6.  Click **Save**. Your ad will be automatically reviewed again. Check the ad’s status in the “Ads & assets” page for updates.
-
-#### Edit your ad targeting to comply with this policy
-
-If your ads target the United States and/or Canada, confirm that your ad does not use the following restricted targeting criteria for Housing, Employment, and Consumer Finance Ads: ZIP code targeting, gender, age, parental status, marital status, or demographic targeting.
-
-If any of the restricted targeting criteria are used, edit the targeting to comply with policy by setting all demographics to “Enable” and removing ZIP code targeting.
-
-After the non-compliant targeting methods are removed or edited to comply, appeal the policy decision on your ads directly from your Google Ads account to request a new review.
-
-#### Appeal policy decision
-
-If you've fixed your destination or believe that we've made an error, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. After we confirm that the destination is compliant, we can approve your ads. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
-
-* * *
-
-Personalized advertising data collection and use policies
----------------------------------------------------------
-
-These policies define requirements for data collection and use in personalized ads. They apply in addition to the [Google ads policies for data collection and use](https://support.google.com/adspolicy/answer/6020956).
+These requirements for data collection and use in personalized ads are in addition to the [Google ads policies for data collection and use](https://support.google.com/adspolicy/answer/6020956).
 
 You aren't allowed to do the following:
 
-> Run ads that collect or contain [personally identifiable information (PII)](https://support.google.com/google-ads/answer/7686480), unless using an ad format provided by Google and designed for that purpose
-> 
-> > **Examples (non-exhaustive)**: Collecting email addresses, telephone numbers, or credit card numbers within the ad itself
-> 
-> Use PII in connection with any anonymous or pseudonymous data, including in remarketing lists, cookies, or data feeds.
-> 
-> Share PII with Google through remarketing tags or any product data feeds that might be associated with ads
-> 
-> Send Google precise location information without first obtaining users' consent
-> 
-> Use a remarketing list that targets an overly narrow or specific audience. This includes the case where combining a remarketing list with other targeting criteria (such as geographic limitations or other user segmentation) results in an ad targeted to a relatively small number of users. Learn more about [remarketing list size requirements](https://support.google.com/google-ads/answer/2472738#listsize).
+*   Run ads that collect or contain [personally identifiable information (PII)](https://support.google.com/google-ads/answer/7686480), unless using an ad format provided by Google that’s designed for that purpose.
+    *   **Examples (non-exhaustive)**: Collecting email addresses, telephone numbers, or credit card numbers within the ad itself.
+*   Use PII in connection with any anonymous or pseudonymous information, including in your data segments (previously called remarketing), cookies, or data feeds.
+*   Share PII with Google through your data segments tags or any product data feeds that might be associated with ads.
+*   Send Google precise location information without first obtaining users' consent.
+*   Use your data segments in a way that targets an overly narrow or specific audience. This includes the case where combining your data segments with other targeting criteria (such as geographic limitations or other user segmentation) results in an ad targeted to a relatively small number of users. Learn more about the [size of your data segments](https://support.google.com/google-ads/answer/2472738#listsize).
 
-### For Remarketing
+For your data segments:
 
-> *   You can choose to disable the collection of remarketing data for users who do not wish to view personalized ads by using the parameter: allow\_ad\_personalization\_signals. Learn more about how to modify the global site tag to [Disable the collection of personalized advertising data](https://support.google.com/google-ads/answer/9606827) for specific users.
-> *   When using remarketing, re-engagement, or similar segments features, you're required to [include specific information in your privacy policy](https://support.google.com/google-ads/answer/2549063).
-> *   Google may include in-ad notice labels to disclose personalized advertising to our users, and we may display to users which remarketing lists they're on, along with the corresponding domain name. You must not modify or obscure these notices. If you want to implement your own in-ad notice, it must only be done in compliance with relevant industry standards.
-> *   Google won't allow another advertiser to use your remarketing lists or similar segments lists without your consent.
+*   You can choose to disable the collection of data segments for users who do not wish to view personalized ads by using the parameter: allow\_ad\_personalization\_signals. Learn more about how to modify the global site tag to [Disable the collection of personalized advertising data](https://support.google.com/google-ads/answer/9606827) for specific users.
+*   When using your data segments, re-engagement, or similar segments features, learn [what to include in your privacy policy for your data segments](https://support.google.com/google-ads/answer/2549063).
+*   Google may include in-ad notice labels to disclose personalized advertising to people, and may display which of your data segments they're on, along with the corresponding domain name. You must not modify or obscure these notices. If you want to implement your own in-ad notice, it must only be done in compliance with relevant industry standards.
+*   Google won't allow another advertiser to use your data segments or similar segments lists without your consent.
 
 * * *
 
-Options to fix ad violations
-----------------------------
+Options to fix ads in Sensitive interest categories
+---------------------------------------------------
 
-If this policy is affecting your ad, review your options to fix below.
+If your ads are flagged for the personalized advertising policy, you should review your site or app as well as your ad content to ensure if they fall in this policy. You then have 3 options to fix your ads.
 
-Ensure that your ads, site, or app comply with Personalized advertising policies. Note that even if ads are not targeted using sensitive categories, some types of ad content are still prohibited.
+### Option 1: Edit your ad targeting
 
-After reviewing all of the policies and ensuring your ads comply with policy, there are 3 options to become compliant with the policy:
+Review and remove any advertiser-curated audiences from the targeting settings of your ad. Check the targeting settings of ad groups, asset groups, and campaigns to make sure they aren't using these audiences either. 
 
-### Edit your ad text and site or app to comply with this policy
+### Option 2: Edit or remove content that falls within this policy
 
-*   **Remove that content from your site or app**. If your site or app has content that we don't allow personalization on, remove all content that doesn’t comply with the personalized ads policy. You'll then need to request a review of your ads directly from your Google Ads account **before** moving on to the next step of checking your audience lists.
-*   **Remove that content from your ad**. If your ad violates the personalized ads policy, edit it to make it comply.
+1.  From your **site** or **app**
+2.  From your **ads**
 
-> 1.  In your Google Ads account, click the **Campaigns** icon .
-> 2.  Click the **Campaigns** drop down in the section menu.
-> 3.  Click [**Ads**](https://ads.google.com/aw/ads).
-> 4.  Hover over the ad or asset and click **Edit**.
-> 5.  Edit the ad or asset so that it complies with the policy.
-> 6.  Click **Save**. Your ad will be automatically reviewed again. Check the ad’s status in the “Ads & assets” page for updates.
+#### How to edit your ad content
 
-Once you edit and save your ad, it's sent for review. Most ads are reviewed within 1 business day, though some can take longer if they need a more complex review. If you've removed the unacceptable content from your ad and its destination, you can request a review of your ad.
+1.  Go to [**Ads**](https://ads.google.com/aw/ads) within the **Campaigns** menu.
+2.  Hover over the ad or asset and select **Edit**.
+3.  Edit the ad or asset so that it complies with the policy.
+4.  Select **Save**.
 
-### Edit your ad targeting to comply with this policy
+Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
 
-Disassociate or remove ad groups that target advertiser-curated audiences or remarketing lists. Ensure that the ads using these targeting audiences or lists comply with Personalized advertising policies. If the ads do not comply with Personalized advertising policies, please remove the ad groups or targeting that uses the audience or remarketing lists.
+Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
 
-After the non-compliant targeting methods are removed or amended to comply, appeal the policy decision on your ads directly from your Google Ads account to request a new review.
+### Option 3: Appeal the policy decision
 
-### Appeal policy decision
+If you believe there’s been an error and that your site or app or ads don’t fall under this policy, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. If the review determines that your ads are compliant, they can run again. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
 
-If you've fixed your destination or believe that we've made an error, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. After we confirm that the destination is compliant, we can approve your ads. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
+* * *
+
+Options to fix ads in "Access to opportunities" categories
+----------------------------------------------------------
+
+If your ads are flagged for personalized ads policy, you should review your site or app as well as your ad content to ensure if they fall in this policy. You then have 3 options to fix your ads.
+
+### Option 1: Edit your ad targeting
+
+If your ads target the United States or Canada:
+
+1.  Set all demographics (gender, age, parental status, marital status) to “Enable”. 
+2.  Remove any ZIP code targeting.
+
+### Option 2: Edit or remove content that falls within this policy
+
+1.  From your **site** or **app**.
+2.  From your **ads**.
+
+#### How to edit ad content
+
+1.  Go to [**Ads**](https://ads.google.com/aw/ads) within the **Campaigns** menu.
+2.  Hover over the ad or asset and select **Edit**.
+3.  Edit the ad or asset so that it complies with the policy.
+4.  Select **Save**.
+
+Your ad will be automatically reviewed again. Check the ad’s status in the "Ads & assets" page for updates.
+
+Learn more about how to [Fix an ad with policy violations](https://support.google.com/adspolicy/answer/9338593).
+
+### Option 3: Appeal the policy decision
+
+If you believe there’s been an error and that your site or app or ads don’t fall under this policy, [appeal](https://support.google.com/adspolicy/answer/9338593) the policy decision directly from your Google Ads account to request a review. If the review determines that your ads are compliant, they can run again. If you aren't able to fix these violations or choose not to, [remove your ad](https://support.google.com/google-ads/answer/2375362) to help prevent your account from becoming suspended in the future for repeated policy violations.
+
+* * *
+
+Google Ads policy information
+-----------------------------
+
+Google's personalized ads policies work in combination with other policies across Ads and all of Google. You are responsible for ensuring your ads comply with the policy. Google's [privacy policy](https://privacy.google.com/) applies to all Google features and dictates how Google collects, uses, and protects user data. Learn [what happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501). Advertisers are also required to comply with our policies for [European Union user consent](https://www.google.com/about/company/user-consent-policy.html), where applicable.
+
+* * *
 
 Need help?
 ----------
 
-If you have questions about our policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
+If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 - - -
 
