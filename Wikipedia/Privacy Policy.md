@@ -739,6 +739,27 @@ Other languages:
 | --- | --- |
 | [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
+[+/-](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy/Summary&action=edit)
+
+[translate](https://foundation.wikimedia.org/w/index.php?title=Special:Translate/page-Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy/Summary&language=en&action=page)
+
+This is a summary of the policy. To read the full terms, scroll down.
+
+Disclaimer: This summary is not a part of policy and is not a legal document. It is simply a handy reference.
+
+**The IP addresses of temporary accounts are not made publicly available. However, certain users need access to enforce or discover potential violations of Wikimedia Foundation or user community-based policies. To do this, these users may:**
+
+*   temporary account IP addresses.
+*   connections between associated temporary accounts when needed.
+*   temporary account IP addresses when needed.
+
+**Those with access to temporary account IP addresses, bear in mind:**
+
+*   A non-public log details when you .
+*   You will not for mistakenly revealing an IP address; grounds for removing access are if there is a repeated pattern or intentional misuse, or local community consensus.
+*   If you are blocked sitewide from editing a Wikimedia project, you will to temporary account IP addresses on that project.
+*   If you have a role that needs persistent and efficient access to IPs, you may have the ability to enable "auto-reveal" to automatically of temporary accounts.
+
 **Access to the IP addresses of temporary accounts** helps users protect the Wikimedia projects. This access is separate from access to the . As a condition of access, users who have not agreed to the must agree to the following guidelines.
 
 Background
@@ -760,13 +781,13 @@ Outside actors who may want to access IP addresses could contact users who have 
 
 ### Use of temporary account IP addresses
 
-Use of temporary account IP addresses is solely for the investigation and discovery of, or enforcement against, vandalism, abuse, spam, harassment, disruptive behavior, and other violations of Wikimedia Foundation or community policies. Use of the IP auto-reveal mode by users who regularly use temporary account IP addresses in the course of investigations and enforcement is permissible, as long as any automatically revealed IP addresses are used solely for the purposes described above.
+Use of temporary account IP addresses is solely for the investigation and discovery of, or enforcement against, vandalism, abuse, spam, harassment, disruptive behavior, and other violations of Wikimedia Foundation or community policies. Use of the IP auto-reveal mode by users who regularly view temporary account IP addresses in the course of investigations and enforcement is permissible, as long as any automatically revealed IP addresses are used solely for the purposes described above.
 
 Access should not be used for political control, to apply pressure on editors, or as a threat against another editor in a content dispute. Note that using multiple temporary accounts is not forbidden, so long as they are not used in violation of policies (an example of a violation includes to evade blocks or bans).
 
 Those with access to temporary account IP addresses are able to determine from which IP addresses a temporary account has performed edits or logged actions on a Wikimedia wiki. This information is only stored for a short period (currently 90 days), so IP addresses used prior to that will not be shown. The IP addresses are accessible by clicking "Show IP" on log, history, and recent changes pages. The IP addresses are also available through the IP Information tool.
 
-The following actions are logged:
+The following actions are :
 
 *   Accepting the preference that enables or disables IP reveal.
 *   Revealing an IP address of a temporary account.
@@ -784,7 +805,7 @@ In the course of keeping the projects and other users safe, users may still need
 *   Users with access to temporary account IP addresses may privately disclose the IP addresses to other users who have the same access rights. To check if a user has access, please confirm using the .
 *   Associations between temporary accounts may be made publicly when reasonably believed to be necessary, even if based on nonpublic information. However, public disclosures of associations between temporary accounts and standard accounts may not be based on nonpublic information due to differing access policies. Public disclosures of associations based on behavioral evidence are permissible.
 *   When a user with access to temporary account IP addresses blocks, unblocks, or performs other administrative actions, such users may make implied disclosures of connections between temporary accounts and their associated IP addresses, such as by issuing consecutive blocks. However, such users may not explicitly connect temporary accounts and their associated IP addresses except as permitted by this policy; for example, direct disclosures in the block reason field are not permitted.
-*   When it is reasonably believed to be necessary, users with access to temporary account IP addresses may also disclose the IP addresses in appropriate venues that enable them to enforce or investigate potential violations of our , the Privacy Policy, or any Wikimedia Foundation or user community-based policies. Appropriate venues for such disclosures include public pages dedicated to and . If such a disclosure is later shown to have been unnecessary or mistaken, then the IP address should be promptly removed.
+*   When it is reasonably believed to be necessary, users with access to temporary account IP addresses may also disclose the IP addresses in appropriate venues that enable them to enforce or investigate potential violations of our , the Privacy Policy, or any Wikimedia Foundation or user community-based policies. Appropriate venues for such disclosures include public pages dedicated to and . If such a disclosure is later shown to have been unnecessary or mistaken, then the IP address should be promptly removed from the page text and revision-deletion considered.
 *   Users who have agreed to the separate may also disclose temporary account IP addresses as permitted under that policy.
 
 If temporary account IP addresses need to be disclosed in connection to a , immediately email emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org with details of the request so that it can be evaluated for possible Foundation disclosure.
@@ -873,7 +894,7 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=541537](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=541537)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=545978](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=545978)"
 
 - - -
 
