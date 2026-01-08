@@ -1833,11 +1833,11 @@ To ensure consistency worldwide, Microsoft Advertising enforce our policies acro
 
 ##### Important
 
-This policy applies to Search. Adult is not allowed in other ad types.
+This policy applies to all ad types.
 
 ##### Note
 
-This page was last updated on December 15, 2025.
+This page was last updated on January 6, 2026.
 
 As an advertiser, you are responsible for ensuring that your keywords and ad content, including trademarks and logos, do not infringe or violate the intellectual property rights of others.
 
