@@ -257,14 +257,6 @@ We accept
 
 - - -
 
-[](https://www.temu.com/ "temu")
-
-Support
-
-![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/e9c2ade0-f09a-40d3-80c8-925fd5ed1ba8.png.slim.png?imageView2/2/w/48/q/70/format/avif)
-
-English
-
 Temu | Shipping Info
 ====================
 
