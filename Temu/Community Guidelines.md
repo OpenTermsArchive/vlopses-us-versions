@@ -1,79 +1,17 @@
-Free shipping
-
-Excludes local items
-
-*   Delivery guarantee
-    
-    Refund for any issues
-    
-*   Free returns
-    
-    Up to 90 days\*
-    
-*   Price adjustment
-    
-    Within 30 days
-    
-*   Delivery guarantee
-    
-    Refund for any issues
-    
-
-Get the Temu App
-
-[](https://www.temu.com/ "temu")
-
-[Best-Selling ItemsBest-Selling Items](https://www.temu.com/channel/best-sellers.html)
-
-[5-Star Rated5-Star Rated](https://www.temu.com/channel/full-star.html)
-
-[Local WarehouseLocal Warehouse](https://www.temu.com/channel/local-warehouse.html)
-
-More
-
-Categories
-
-nighties for women
-
-Sign in / Register
-
-Orders & Account
-
-Support
-
-![](https://aimg.kwcdn.com/upload_aimg/openingemail/flags/e9c2ade0-f09a-40d3-80c8-925fd5ed1ba8.png.slim.png?imageView2/2/w/48/q/70/format/avif)
-
-English
-
-1.  [Home](https://www.temu.com/)
-2.  [My orders](https://www.temu.com/bgt_orders.html)
-3.  [Reviews](https://www.temu.com/my_reviews.html)
-4.  Review guidelines
-
 Review guidelines
 =================
 
 We encourage high quality reviews like:
 
-![](https://aimg.kwcdn.com/upload_aimg/web/198bd873-1d61-4978-9c2f-64b6ac5d79f8.png.slim.png?imageView2/2/w/800/q/70/format/avif)
-
 More than 30 characters
 
-![](https://aimg.kwcdn.com/upload_aimg/web/198bd873-1d61-4978-9c2f-64b6ac5d79f8.png.slim.png?imageView2/2/w/800/q/70/format/avif)
-
 With pictures or videos
-
-![](https://aimg.kwcdn.com/upload_aimg/web/70eadd3b-5528-4d6f-908b-7624a325ffac.png.slim.png?imageView2/2/w/800/q/70/format/avif)
 
 Real feedback experience
 
 For example:
 
 D\*\*\*he
-
-![](https://aimg.kwcdn.com/upload_aimg/web/51bc9561-1837-4fcf-bd49-e89366f005be.png.slim.png?imageView2/2/w/800/q/70/format/avif)![](https://aimg.kwcdn.com/upload_aimg/web/51bc9561-1837-4fcf-bd49-e89366f005be.png.slim.png?imageView2/2/w/800/q/70/format/avif)![](https://aimg.kwcdn.com/upload_aimg/web/51bc9561-1837-4fcf-bd49-e89366f005be.png.slim.png?imageView2/2/w/800/q/70/format/avif)![](https://aimg.kwcdn.com/upload_aimg/web/51bc9561-1837-4fcf-bd49-e89366f005be.png.slim.png?imageView2/2/w/800/q/70/format/avif)![](https://aimg.kwcdn.com/upload_aimg/web/51bc9561-1837-4fcf-bd49-e89366f005be.png.slim.png?imageView2/2/w/800/q/70/format/avif)
-
-![](https://aimg.kwcdn.com/upload_aimg/web/3293d821-c9da-4713-8471-25bde0fcb2bd.png.slim.png?imageView2/2/w/800/q/70/format/avif)![](https://aimg.kwcdn.com/upload_aimg/web/2787ab62-5086-4c5f-bbbf-83b2cbf83346.png.slim.png?imageView2/2/w/800/q/70/format/avif)![](https://aimg.kwcdn.com/upload_aimg/web/7cae290e-4e2f-40e6-9cac-d20335f1eead.png.slim.png?imageView2/2/w/800/q/70/format/avif)
 
 I have ordered my precious baby girl close to 20 outfits and shoes, colurs, hats and I can honestly say so far I am 100% satisfied with everything!!!!! I am so glad I found this app!! everything is cheap priced but great products and not cheap made!!! I was so excited to get her things!!! and I love my things I've purchased for me also!!!!
 
@@ -130,87 +68,6 @@ As long as the review meets the review guidelines and [Community Guidelines](htt
 Are sponsored or influenced reviews allowed on Temu?
 
 Traders are not allowed to sponsor or influence reviews posted on Temu.
-
-Company info
-
-*   [About Temu](https://www.temu.com/about_temu_home.html)
-*   [Affiliate & Influencer Program: Join to Earn](https://www.temu.com/affiliate_influencer_program.html)
-*   [Contact us](https://www.temu.com/contact-us.html)
-*   [Careers](https://www.temu.com/careers.html)
-*   [Press](https://www.temu.com/press.html)
-*   [Temu's Tree Planting Program](https://www.temu.com/tree-landing.html)
-
-Customer service
-
-*   [Return and refund policy](https://www.temu.com/return-and-refund-policy.html)
-*   [Intellectual property policy](https://www.temu.com/intellectual-property-policy.html)
-*   [Shipping info](https://www.temu.com/shipping-info.html)
-*   [Recalls and product safety alerts](https://www.temu.com/recalls-and-alerts-pre-page.html)
-*   [Report suspicious activity](https://www.temu.com/bgch_report_suspicious.html)
-
-Help
-
-*   [Support center & FAQ](https://www.temu.com/support-center.html)
-*   [Safety center](https://www.temu.com/safety-center.html)
-*   [Temu purchase protection](https://www.temu.com/temu-purchase-protection.html)
-*   [Sitemap](https://www.temu.com/sitemap.html)
-*   [How to order](https://www.temu.com/how-to-order.html)
-*   [How to track](https://www.temu.com/how-to-track.html)
-*   [Partner with Temu](https://www.temu.com/partner-with-temu.html)
-
-Start Selling to Millions of Buyers on Temu
-
-Start a Selling Account
-
-[Download the Temu App](https://www.temu.com/app.html)
-
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/deb081e4-e46b-4b2d-bc1d-6a0e1800c73c.png.slim.png?imageView2/2/w/30/q/70/format/avif)
-
-Price-drop alerts
-
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/c19eefdc-4dfd-4106-8074-ed8521cacb6e.png.slim.png?imageView2/2/w/30/q/70/format/avif)
-
-Track orders any time
-
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/98996646-47c5-4020-ab1f-8e6b2ee39358.png.slim.png?imageView2/2/w/30/q/70/format/avif)
-
-Faster & more secure checkout
-
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/ab4a5d92-4b54-45f6-b18a-fbb16529d2b3.png.slim.png?imageView2/2/w/30/q/70/format/avif)
-
-Low stock items alerts
-
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/728e2277-96f9-4787-bd89-d87e3b6bc2f2.png.slim.png?imageView2/2/w/30/q/70/format/avif)
-
-Exclusive offers
-
-![](https://aimg.kwcdn.com/upload_aimg_b/web/pc/2077debf-6cf5-463a-84ab-969eee3593a1.png.slim.png?imageView2/2/w/30/q/70/format/avif)
-
-Coupons & offers alerts
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-Download on the
-
-App Store](https://apps.apple.com/us/app/id1641486558)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-Get it on
-
-Google Play](https://play.google.com/store/apps/details?id=com.einnovation.temu&gl=us)
-
-Connect with Temu
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.instagram.com/temu/)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.facebook.com/shoptemu)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://x.com/shoptemu)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.tiktok.com/@temu)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.youtube.com/@temu)[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.pinterest.com/shoptemu/)
-
-Security certification
-
-![PCI DSS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![Visa Secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![Mastercard ID Check](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![SafeKey](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![Discover ProtectBuy](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![JCB J/Secure](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![APWG](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-We accept
-
-![visa card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![mastercard card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![amex card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![discover card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![maestro card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![dc card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![jcb card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![paypal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![applepay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![afterpay211](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![klarna](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![cashapp](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![affirm](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![googlepay](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)![venmo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-© 2022－2026 Whaleco Inc.[Terms of use](https://www.temu.com/terms-of-use.html)[Privacy policy](https://www.temu.com/privacy-and-cookie-policy.html?title=Privacy%20%26%20Cookie%20Policy&_bg_fs=0)[Consumer health data privacy policy](https://www.temu.com/common-policy.html?policy=health_data_privacy_policy)[Your privacy choices![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.temu.com/bgp-privacy-policy-and-setting.html)[Ad Choices](https://www.temu.com/cookie-and-similar-technologies-policy.html?anchor_id=limit_interest_base_advertising)
 
 - - -
 
