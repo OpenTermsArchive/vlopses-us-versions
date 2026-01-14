@@ -854,15 +854,11 @@ To access temporary account IP addresses, these users must:
 1.  Meet all of the following general requirements:
     1.  User account is a minimum of 6 months old, and
     2.  User account has made a minimum of 300 edits to the local project.
-2.  Submit an access request to local administrators, bureaucrats where local consensus dictates,[\[Note 1\]](#cite_note-access-request-1) or stewards. There may be additional requirements as part of this review, such as:
-    1.  A minimum of 600 mainspace edits to the local project,
-    2.  Demonstrated evidence of previous patrolling work,
-    3.  Community election process, and/or
-    4.  Any other requirements, so long as the requirements are not lower than the general requirements.
+2.  Submit an access request to local administrators, bureaucrats where local consensus dictates,[\[Note 1\]](#cite_note-access-request-1) or stewards. There may be additional requirements as part of this review.[\[Note 2\]](#cite_note-additional_requirements-2)
 3.  Opt-in through on the local project, and
 4.  Agree to use the IP addresses in accordance with these guidelines, solely for the investigation or prevention of vandalism, abuse, or other violations of Wikimedia Foundation or community policies, and understand the risks and responsibilities associated with this privilege.
 
-In order to maintain access to the IP addresses of temporary accounts, users in this category must edit or take a logged action[\[Note 2\]](#cite_note-logged_action-2) to the local project at least once within a 365-day period.
+In order to maintain access to the IP addresses of temporary accounts, users in this category must edit or take a logged action[\[Note 3\]](#cite_note-logged_action-3) to the local project at least once within a 365-day period.
 
 ##### Exceptions to minimum requirements
 
@@ -887,14 +883,21 @@ Notes
 -----
 
 1.  [↑](#cite_ref-access-request_1-0) Communities wishing to change the default from administrators to bureaucrats should make a
-2.  [↑](#cite_ref-logged_action_2-0) A logged action being anything that would appear in Special:Log
+2.  [↑](#cite_ref-additional_requirements_2-0) Examples of additional requirements include:
+    
+    1.  A minimum of 600 mainspace edits to the local project,
+    2.  Demonstrated evidence of previous patrolling work,
+    3.  Community election process, and/or
+    4.  Other requirements, so long as the requirements are not lower than the general requirements.
+    
+3.  [↑](#cite_ref-logged_action_3-0) A logged action being anything that would appear in Special:Log
 
 See also
 --------
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=545978](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=545978)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=546404](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=546404)"
 
 - - -
 
