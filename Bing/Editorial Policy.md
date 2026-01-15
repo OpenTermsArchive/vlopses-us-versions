@@ -26,6 +26,7 @@ Ads must:
 *   Not have misleading CTAs.
 *   Not utilize language that implies urgency such as “do this immediately,” “supplies are running out,” “offer won’t last.”
 *   Be legible and easy to read, with no interfering background, shadow, or glow.
+*   Be clearly identified in the format appropriate for the ad served.
 
 **Imagery**
 
@@ -100,6 +101,7 @@ Ads must:
 *   Not have misleading CTAs.
 *   Not utilize language that implies urgency such as “do this immediately,” “supplies are running out,” “offer won’t last.”
 *   Be legible and easy to read, with no interfering background, shadow, or glow.
+*   Be clearly identified in the format appropriate for the ad served.
 
 **Imagery**
 
