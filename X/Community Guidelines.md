@@ -3171,7 +3171,7 @@ Fair use determinations are made on a case by case basis, and there is no clear 
 
 For more information on fair use:
 
-*   [http://en.wikipedia.org/wiki/Fair\_use](https://en.wikipedia.org/wiki/Fair_use)
+*   [http://en.wikipedia.org/wiki/Fair\_use](http://en.wikipedia.org/wiki/Fair_use)
 *   [https://ilt.eff.org/index.php/Copyright:\_Fair\_Use](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
 *   [https://www.lumendatabase.org/](https://ilt.eff.org/index.php/Copyright:_Fair_Use)
 *   [http://fairuse.stanford.edu/overview/fair-use/four-factors/](http://fairuse.stanford.edu/overview/fair-use/four-factors/)
