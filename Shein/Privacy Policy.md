@@ -2,8 +2,8 @@ SHEIN PRIVACY NOTICE
 
 Learn more about Interest-based Advertising and your Ad Choices [here](javascript:;) 
 
-**Effective Date: November 10, 2025  
-Last Updated: November 10, 2025**
+**Effective Date: January 16, 2026  
+Last Updated: January 15, 2026**
 
 **Introduction and Overview**
 
@@ -197,7 +197,7 @@ This profile will only be visible to the person who creates it.
 
 If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us immediately to remove the relevant personal information and unsubscribe the minor. As described further in our [Terms and Conditions](https://us.shein.com/Terms-and-Conditions-a-399.html), please do not upload photographs showing other people, in particular if they are minors.
 
-7.3 Transfers of Your Personal Data Outside the US - This Privacy Policy only applies to residents of the United States. If you are a resident of another country, please see the applicable SHEIN Privacy Policy and Terms of Use that is specific to your jurisdiction, which is generally available on the local version of the App or Site or through the [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html). Please note as well that when you use our Services, your personal data may be accessed or transferred outside of the United States, such as when you order products from a seller located in another country and your Basic Personal Identifiers are sent to them in order to fulfill your order. For some sellers located in the US, they may also maintain business operations outside the US and need to transfer data to other countries in order to fulfill orders. Such countries may have data protection laws that are less protective than the laws of the jurisdiction in which you reside. For these transfers, we rely on appropriate safeguards as permitted under applicable law and standards. If you do not want your information transferred to, processed, accessed, or maintained outside of the United States, please understand that you may not be able to order products from the Services..
+7.3 Transfers of Your Personal Data Outside the US - This Privacy Policy only applies to residents of the United States. If you are a resident of another country, please see the applicable SHEIN Privacy Policy and Terms of Use that is specific to your jurisdiction, which is generally available on the local version of the App or Site or through the [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html). Please note as well that when you use our Services, your personal data may be accessed or transferred outside of the United States, such as when you order products from a seller located China and your Basic Personal Identifiers are sent to them in order to fulfill your order. For some sellers located in the US, they may also maintain business operations outside the US and need to transfer data to other countries in order to fulfill orders. We may also share your personal data with our worldwide affiliates, including those in Canada, Mexico, and the European Union, under the terms of our Global Intra Group Data Transfer Agreement. Such countries may have data protection laws that are less protective than the laws of the jurisdiction in which you reside. For these transfers, we rely on appropriate safeguards as permitted under applicable law and standards. If you do not want your information transferred to, processed, accessed, or maintained outside of the United States, please understand that you may not be able to order products from the Services..
 
   
 
@@ -418,8 +418,8 @@ SHEIN PRIVACY NOTICE
 
 Learn more about Interest-based Advertising and your Ad Choices [here](javascript:;) 
 
-**Effective Date: November 10, 2025  
-Last Updated: November 10, 2025**
+**Effective Date: January 16, 2026  
+Last Updated: January 15, 2026**
 
 **Introduction and Overview**
 
@@ -613,7 +613,7 @@ This profile will only be visible to the person who creates it.
 
 If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us immediately to remove the relevant personal information and unsubscribe the minor. As described further in our [Terms and Conditions](https://us.shein.com/Terms-and-Conditions-a-399.html), please do not upload photographs showing other people, in particular if they are minors.
 
-7.3 Transfers of Your Personal Data Outside the US - This Privacy Policy only applies to residents of the United States. If you are a resident of another country, please see the applicable SHEIN Privacy Policy and Terms of Use that is specific to your jurisdiction, which is generally available on the local version of the App or Site or through the [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html). Please note as well that when you use our Services, your personal data may be accessed or transferred outside of the United States, such as when you order products from a seller located in another country and your Basic Personal Identifiers are sent to them in order to fulfill your order. For some sellers located in the US, they may also maintain business operations outside the US and need to transfer data to other countries in order to fulfill orders. Such countries may have data protection laws that are less protective than the laws of the jurisdiction in which you reside. For these transfers, we rely on appropriate safeguards as permitted under applicable law and standards. If you do not want your information transferred to, processed, accessed, or maintained outside of the United States, please understand that you may not be able to order products from the Services..
+7.3 Transfers of Your Personal Data Outside the US - This Privacy Policy only applies to residents of the United States. If you are a resident of another country, please see the applicable SHEIN Privacy Policy and Terms of Use that is specific to your jurisdiction, which is generally available on the local version of the App or Site or through the [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html). Please note as well that when you use our Services, your personal data may be accessed or transferred outside of the United States, such as when you order products from a seller located China and your Basic Personal Identifiers are sent to them in order to fulfill your order. For some sellers located in the US, they may also maintain business operations outside the US and need to transfer data to other countries in order to fulfill orders. We may also share your personal data with our worldwide affiliates, including those in Canada, Mexico, and the European Union, under the terms of our Global Intra Group Data Transfer Agreement. Such countries may have data protection laws that are less protective than the laws of the jurisdiction in which you reside. For these transfers, we rely on appropriate safeguards as permitted under applicable law and standards. If you do not want your information transferred to, processed, accessed, or maintained outside of the United States, please understand that you may not be able to order products from the Services..
 
   
 
