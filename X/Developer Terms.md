@@ -629,6 +629,19 @@ More about restricted uses of the X APIs
 
 Use of our developer platform requires that you review and agree to our [**Developer Agreement and Policy**](https://developer.x.com/en/developer-terms/agreement-and-policy.html), as well as our related policies, including the [**Display Requirements**](https://developer.x.com/en/developer-terms/display-requirements.html) and [**Automation Rules**](https://help.twitter.com/en/rules-and-policies/twitter-automation). Among other things, our agreements and policies provide guidance about several restricted use cases. We’ve provided additional information about some of these restrictions below.
 
+Automation, spam, and auto-responses  
+
+---------------------------------------
+
+The use of X's APIs and developer products to create spam, or engage in spammy behavior, is prohibited. You should review the [X Rules](https://t.co/rules) on spam, and ensure that your application does not, and does not enable users to, violate our policies.
+
+If your application will be used to perform write actions on the X service, including posting Posts, following accounts, or sending Direct Messages, you should carefully review the [Automation Rules](https://support.twitter.com/articles/76915) to ensure your service complies with our guidelines. In particular, you should:
+
+*   Always get a user’s explicit consent before sending them [automated replies or messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
+*   Immediately respect user requests to opt-out of being contacted by you
+*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
+*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
+
 Sensitive information  
 
 ------------------------
@@ -693,19 +706,6 @@ You are not permitted to register multiple applications for a single use case, o
 In this context, we define “use case” as a consistent set of analyses, displays, or actions performed via an application. Providing the same service or application to different end users counts as a single use case: however, "white label" versions of a tool or service are not included. If you plan to "white label" versions of your application, you must notify and receive separate approval from us. These rules apply both to applications you register, and to applications registered by the end users of your tool or service; requiring your end users to register applications for the purpose of using your tool or service could result in enforcement actions against you, your applications, your customers, and/or the end users of your tool or service.
 
 The only exception to this rule is to create development (“dev”), staging, and production (“prod”) instances of the same service. Ensure that these applications are clearly labeled (for instance, in the application name or description), and that you do not use development or staging applications for production purposes.
-
-Automation, spam, and auto-responses  
-
----------------------------------------
-
-The use of X's APIs and developer products to create spam, or engage in spammy behavior, is prohibited. You should review the [X Rules](https://t.co/rules) on spam, and ensure that your application does not, and does not enable users to, violate our policies.
-
-If your application will be used to perform write actions on the X service, including posting Posts, following accounts, or sending Direct Messages, you should carefully review the [Automation Rules](https://support.twitter.com/articles/76915) to ensure your service complies with our guidelines. In particular, you should:
-
-*   Always get a user’s explicit consent before sending them [automated replies or messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
-*   Immediately respect user requests to opt-out of being contacted by you
-*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
-*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
 
 Measuring the X service  
 
