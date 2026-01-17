@@ -1,7 +1,34 @@
 Claims of Infringement (DMCA / DSA)
 ===================================
 
-**Procedure for Making Claims of Infringement**
+To submit a claim of infringement concerning content on Apple Services, please select from these forms:  
+  
+
+[![](https://www.apple.com/legal/images/dispute-forms/app-store/app-store_large_2x.png)  
+App Store](https://www.apple.com/legal/intellectual-property/dispute-forms/app-store/)  
+  
+
+[![](https://www.apple.com/legal/images/dispute-forms/music-icon/music-icon_large_2x.png)  
+iTunes & Apple Music](https://www.apple.com/legal/intellectual-property/dispute-forms/music/)  
+  
+
+[![](https://www.apple.com/legal/images/dispute-forms/news-icon/news-icon_large_2x.png)  
+Apple News](https://www.apple.com/legal/intellectual-property/dispute-forms/news/)  
+  
+
+[![](https://www.apple.com/legal/images/dispute-forms/original-content/original-content_large_2x.png)  
+Apple Original Content](https://www.apple.com/legal/intellectual-property/dispute-forms/original-content/)
+
+[![](https://www.apple.com/legal/images/dispute-forms/apple-books/apple-books_large_2x.png)  
+Apple Books](https://www.apple.com/legal/intellectual-property/dispute-forms/books/)
+
+[![](https://www.apple.com/legal/images/dispute-forms/podcasts-sq/podcasts-sq_large_2x.png)  
+Podcasts](https://www.apple.com/legal/intellectual-property/dispute-forms/podcasts/)
+
+For infringement claims related to iCloud, please use the below online form on this page. Please note that processing of claims for Apple Services will take longer without use of the appropriate online form.
+
+**  
+Procedure for Making Claims of Infringement**  
 
 Apple Inc. is registered with the United States Copyright Office as an online service provider (refer to the Digital Millennium Copyright Act, 17 USC 512, or the “DMCA”). 
 
@@ -29,8 +56,6 @@ Phone: [408.996.1010](tel:408-996-1010)
 Email: [copyrightnotices@apple.com](mailto:copyrightnotices@apple.com)
 
 Apple has adopted a policy to disable and/or terminate in appropriate circumstances the accounts of users who are found repeatedly to infringe or are repeatedly claimed to infringe the copyrights of others. As part of implementing such policy, Apple may in its sole discretion suspend, disable, and/or terminate the accounts of users who have been identified as repeatedly engaging in infringing activities or for other related reasons.
-
-Please Note: Select from these forms if you have a complaint concerning content on [Apple Music and the iTunes Store](https://www.apple.com/legal/intellectual-property/dispute-forms/music/), [ringtones](https://www.apple.com/legal/intellectual-property/dispute-forms/music/ringtones-dispute.html), [App Store](https://www.apple.com/legal/intellectual-property/dispute-forms/app-store/), [Apple Podcasts](https://www.apple.com/legal/intellectual-property/dispute-forms/podcasts/), [Apple News](https://www.apple.com/legal/intellectual-property/dispute-forms/news/), [Apple TV+/Apple Fitness+](https://www.apple.com/legal/intellectual-property/dispute-forms/original-content/), and/or [Apple Books](https://www.apple.com/legal/intellectual-property/dispute-forms/books/).
 
 **Please complete all required fields in the below form**.
 
