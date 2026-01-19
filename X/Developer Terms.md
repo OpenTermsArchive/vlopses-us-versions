@@ -238,11 +238,11 @@ This Developer Policy (“**Policy**”) provides rules and guidelines for devel
 
 We’ve structured this policy to make it as easy to follow as possible. Please keep information from the following policy sections top of mind as you use the X API and X Content:
 
-**1\. Set Yourself Up for Success** - You are responsible for complying with all X policies. It’s important that you review and understand this Policy, as well as the policies we link to in this document, before you access the X API and X Content. The time spent reviewing our policies may save you hours of rework down the road.
+**1. **Follow the Platform Usage Guidelines** -** Getting approved to access the X API and X Content is just the first step. Our Platform Usage Guidelines should be your first stop anytime you have questions about how to ensure policy compliance for your planned use of the X platform.
 
 **2\. Privacy and Control are Essential** - Protecting and defending the privacy of people on X is built into the core DNA of our company. As such, we prohibit the use of X data in any way that would be inconsistent with people’s reasonable expectations of privacy. By building on the X API or accessing X Content, you have a special role to play in safeguarding this commitment, most importantly by respecting people’s privacy and providing them with transparency and control over how their data is used.
 
-**3\. Follow the Platform Usage Guidelines** - Getting approved to access the X API and X Content is just the first step. Our Platform Usage Guidelines should be your first stop anytime you have questions about how to ensure policy compliance for your planned use of the X platform.
+**3. Set Yourself Up for Success -** You are responsible for complying with all X policies. It’s important that you review and understand this Policy, as well as the policies we link to in this document, before you access the X API and X Content. The time spent reviewing our policies may save you hours of rework down the road.
 
 We’ve provided a lot more detail on what each of these three key sections mean below. Please review them carefully to ensure that your usage of the X API and X Content is consistent with our policies. 
 
@@ -254,36 +254,118 @@ Thanks for reading, and thank you for building with us! We look forward to seein
 
 Chapter 1
 
-Set yourself up for success
----------------------------
+Platform usage guidelines
+-------------------------
 
 *   [Set yourself up for success](#2-a)
 
 *   [Set yourself up for success](#2-a)
 
-### Set yourself up for success
+### Platform usage guidelines
 
-You can avoid many potential pitfalls while using the X API by ensuring that your service has been built the right way from day 1. This section of the Developer Policy contains rules that all developers must follow before using the X API or X Content.
+Have you taken care to review X’s policies and set up your API access the right way? Does your service follow X’s privacy and control guidelines? If you can answer yes to these two questions, then you are ready to start using the X API and X Content. X’s Platform Usage Guidelines provide the assistance needed to ensure that your use of X Content is compliant from day 1 throughout the lifecycle of your service. We suggest reviewing these rules on a regular basis to make sure that your integration is operating in a way that is safe and beneficial to people on X and the X platform as a whole.
 
-The Free, Basic, and Pro plans (as described at [developer.x.com/en](http://developer.x.com/en)) are designed for hobbyists, commercial prototyping, early-stage X product integrations, and supporting applications with limited end-users. If you use the X API and X Content beyond this scope, then you must apply (or already subscribe to) an Enterprise plan (as described at [developer.x.com/en](http://developer.x.com/en)).
+### Spam, bots, and automation
 
-**We review all proposed uses of the X developer platform to verify policy compliance — so you’re required to disclose (and update, as applicable) your planned use of the X API and X Content in order to be granted and to maintain access.** All new developers must [apply for a developer account](https://developer.x.com/portal/petition/essential/basic-info) to access the X API. Current developers without an approved developer account must apply for one as directed to do so by X. As part of this process, you’ll need to provide us with a written description of your intended uses of the X API and X Content.
+**The use of the X API and developer products to create spam, or engage in any form of platform manipulation, is prohibited.** You should review the X Rules on [platform manipulation and spam](https://help.x.com/rules-and-policies/platform-manipulation), and ensure that your service does not, and does not enable people to, violate our policies.
 
-Your use case description is binding on you, and any substantive deviation from it may constitute a violation of our rules and result in enforcement action. You must notify us of any substantive modification to your use case and receive approval before you may begin using X Content for that new purpose. Failure to do so may result in suspension and termination of your API and data access. 
+**Services that perform write actions, including posting Posts, following accounts, or sending Direct Messages, must follow the [Automation Rules](https://help.x.com/rules-and-policies/x-automation).** In particular, you should: 
 
-**By building on the X API or accessing X Content, you must comply with ALL X policies.** These include this [Developer Policy](https://developer.x.com/developer-terms/policy), the [Automation Rules](https://help.x.com/rules-and-policies/x-automation), the [Display Requirements](https://developer.x.com/developer-terms/display-requirements.html), the [API Restricted Uses Rules](https://developer.x.com/developer-terms/more-on-restricted-use-cases), the [X Rules](https://help.x.com/rules-and-policies/x-rules), and the [X Brand Resources](https://about.x.com/who-we-are/brand-toolkit), as well as any other agreements you enter into with X relating to your use of the X API or X Content, including but not limited to the [Developer Agreement](https://developer.x.com/developer-terms/agreement) or a Master Licensing Agreement or Order (as applicable). You must also comply with any modifications to these policies and any new policies launched by X. It is your responsibility to monitor the use of your service and to design your service to prevent violations of X policy by people who use it. Failure to do so may result in suspension or termination of your API and X Content access.
+*   Always get explicit consent before sending people [automated replies or Direct Messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
+    
+*   Immediately respect requests to opt-out of being contacted by you
+    
+*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
+    
+*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
+    
 
-**You may not register multiple applications for a single use case or substantially similar or overlapping use cases.** In this context, a “use case” is a consistent set of analyses, displays, or actions performed via an application. "White label" versions of a tool or service are not permissible. If you plan to “white label” versions of your application, you must notify and receive separate approval from us.
+**If you’re operating an API-based bot account you must clearly indicate what the account is and who is responsible for it.** You should never mislead or confuse people about whether your account is or is not a bot. A good way to do this is by including a statement that the account is a bot in the profile bio.
 
-_As a single exception to these rules,_ you may create and use a maximum of 3 applications for development, staging, and production instances of the same service. These apps must be registered to a single account, and should be clearly identified (in the name and description) as dev, staging, and prod instances of a single service. **You may not use development or staging applications for production purposes.**  
+### X performance benchmarking
 
-**You must keep all API keys or other access credentials private.** You may not use, and may not encourage or facilitate others to use, API keys or other access credentials owned by others.
+**You may not use the X API to measure the availability, performance, functionality, or usage of X for benchmarking, competitive, or commercial purposes.** For example, you should never use the X API to:
 
-**Your license agreement with X limits your use of the X API and X Content. Among other things, the X API has rate limits which help to ensure fair data usage and to combat spam on the platform.** You may not exceed or circumvent rate limits, or any other limitations or restrictions described in this Policy or your agreement with X, listed on the [Developer Site](https://developer.x.com/), or communicated to you by X.
+*   Calculate aggregate X metrics, such as the total number of Monthly Actives (MAs) or Daily Actives (DAs)
+    
+*   Calculate aggregate X Post metrics, such as the total number of Posts posted per day, or the number of account engagements
+    
+*   Measure or analyze the responsiveness of X
+    
+*   Measure or analyze spam or security on X, except as permitted below
+    
 
-**You may not remove or alter any proprietary notices or marks on X Content received via the X API.** This helps to make sure that people know where X Content is coming from, and who it belongs to.
+**We support research that helps improve conversational health on X.** You may not publicly disclose any research or findings concerning, or develop, create, or offer services using, the X API or X Content that measure, analyze, or attempt to identify behaviors or content which violate X policies without express written permission from X.
 
-**For data integrity and platform health reasons, you may not interfere with, intercept, disrupt, or disable any features of the X API or the X service.** In other words, use the APIs as intended and documented on [developer.x.com](https://developer.x.com/). Refer to our [HackerOne guidelines](https://hackerone.com/x) for more details about acceptable use.
+**DSA Researchers:** If you need to contact X relating to access under Art. 40 of the Digital Services Act, please contact [\[email protected\]](https://developer.x.com/cdn-cgi/l/email-protection). If you wish to apply for researcher access, please submit an [application](https://forms.gle/btDwenPF7M3hgSvw7).
+
+### Public display of Posts
+
+**You must maintain the integrity of all X Content that you display publicly or to people who use your service.** If you don’t use [X for Websites](https://developer.x.com/docs/twitter-for-websites/overview) to display content, then you must use the X API to retrieve the most current version available for display. If displayed content ceases to be available through the X API, then you must remove it from your service as soon as reasonably possible, or within 24 hours after the receipt of a removal request from X, or the applicable X account owner, or as otherwise required by applicable law.
+
+**There are specific rules you must follow if you display X Content offline.** Follow the [guidelines](https://developer.x.com/developer-terms/display-requirements) for using Posts in broadcast if you display Posts offline. 
+
+**If you embed or display Posts, you must contact us about your X API access if your site exceeds 10 million daily impressions.** X reserves the right to require additional terms as a condition to your use of the X API. Additional restrictions on X for Websites developer use include:
+
+*   **Embedded Posts and/or embedded timelines**  
+      
+    *   You must provide people with legally sufficient notice that fully discloses X’s collection and use of data about browsing activities on your website, including for interest-based advertising and personalization. You must also obtain legally sufficient consent from people for such collection and use  
+        
+    *   You must provide legally sufficient instructions on how people can opt out of X’s interest-based advertising and personalization as described [here](https://help.x.com/x-for-websites-ads-info-and-privacy)  
+         
+*   **X for Websites widgets**  
+      
+    *   You must ensure that people are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices as described in X’s [cookie use](https://help.x.com/rules-and-policies/x-cookies), where providing such information and obtaining such consent is required by law  
+         
+*   **Services targeted to children under 13**  
+      
+    *   Services targeted to children under 13 must opt out of tailoring X in any embedded Post and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://developer.x.com/docs/twitter-for-websites/privacy)
+
+### Content redistribution
+
+**The best place to get X Content is directly from X. Consequently, we restrict the redistribution of X Content to third parties.** If you provide X Content to third parties, including downloadable datasets or via an API, you may only distribute Post IDs, Direct Message IDs, and/or User IDs (except as described below). 
+
+In total, you may not distribute more than 1,500,000 Post IDs to any entity (inclusive of multiple individuals associated with a single entity) within any 30 day period unless you have received written permission from X. In addition, developers may provide up to 500 public Posts Objects and/or User Objects to each person who uses your service on a daily basis if this is done via non-automated means (e.g., download of spreadsheets or PDFs).
+
+Academic researchers are permitted to distribute Post IDs and/or User IDs solely for the purposes of non-commercial research on behalf of an academic institution, and that has been approved by X in writing, or peer review or validation of such research. Only as many Post IDs or User IDs that is necessary for such research, and has been approved by X may be used. 
+
+Any X Content provided to third parties remains subject to this Policy, and those third parties must agree to the X [Terms of Service](https://x.com/tos), [Privacy Policy](https://x.com/privacy), [Developer Agreement](https://developer.x.com/developer-terms/agreement), and [Developer Policy](https://developer.x.com/developer-terms/policy) before receiving such downloads. You may not enable any entity to circumvent any other limitations or restrictions on the distribution of X Content as contained in this [Policy](https://developer.x.com/developer-terms/policy), the [Developer Agreement](https://developer.x.com/developer-terms/agreement), or any other agreement with X.
+
+**Note:** This Section does not apply to researchers with X API access via Art. 40 of the EU Digital Services Act (2022) (“**DSA**”), who are instead subject to the procedures and restrictions set forth in the DSA and the Developer Agreement.
+
+### Pay to engage
+
+**Your service shouldn’t compensate people to take actions on X, as that results in inauthentic engagement that degrades the health of the platform.** As you use the X API you may not sell or receive monetary or virtual compensation for any X actions. This includes, but is not limited to, Posts, follows, unfollows, reposts, likes, comments, and replies.
+
+### Service authenticity
+
+**You must clearly identify your service so that people can understand its source and purpose.** Don’t use names, logos, or URLs that mask your service’s identity and features, or that falsely imply an affiliation with X or third parties. Note that creating applications for the purpose of selling names, or to prevent others from using names, is prohibited.
+
+**You may not use any URL (including shortened URLs) for your service that directs people to:**
+
+*   A site that is unrelated to your service
+    
+*   A spam or malware site
+    
+*   A site that encourages people to violate X policy
+    
+
+### X name, logo, and likeness
+
+**You may only use and display the X name and logo to identify X as the source of X Content.** You should never use the X name and logo, the X Official Partner Program badge, or any other similar marks or names in a manner that creates a false sense of endorsement, sponsorship, or association with X. The X [Brand Resources](https://about.x.com/who-we-are/brand-toolkit) contain detailed information to help you use the X brand in the right way.
+
+**You may only use the X Verified Account badge and any other enhanced account categorization as it is reported to you by X through the API.** This helps people know that the content your service displays is equivalent to that shown on X.
+
+### Advertising on X
+
+**There are restrictions regarding how and where you are allowed to advertise around X Content.** To start, your advertisements can’t resemble or reasonably be confused by people as a Post. Other rules on advertising include:
+
+*   **There must be a clear separation between X Content and your advertisements.** You may not place any advertisements within the X timeline other than X Ads.
+    
+*   **X reserves the right to serve advertising via the X API.** If you decide to serve X Ads once we start delivering them via the API, we will share a portion of advertising revenue with you in accordance with the relevant terms and conditions.
+    
+*   **You may not use X Content, or information obtained from the X API to target people with advertising outside of the X platform.**
+    
 
 Chapter 2
 
@@ -426,8 +508,8 @@ If your application allows people to post with their location you must comply wi
 
 Chapter 3
 
-Platform usage guidelines
--------------------------
+Set yourself up for success
+---------------------------
 
 *   [Platform usage guidelines](#4-a)
 *   [Spam, bots, and automation](#4-b)
@@ -449,111 +531,29 @@ Platform usage guidelines
 *   [X name, logo, and likeness](#4-j)
 *   [Advertising on X](#4-k)
 
-### Platform usage guidelines
+### Set yourself up for success
 
-Have you taken care to review X’s policies and set up your API access the right way? Does your service follow X’s privacy and control guidelines? If you can answer yes to these two questions, then you are ready to start using the X API and X Content. X’s Platform Usage Guidelines provide the assistance needed to ensure that your use of X Content is compliant from day 1 throughout the lifecycle of your service. We suggest reviewing these rules on a regular basis to make sure that your integration is operating in a way that is safe and beneficial to people on X and the X platform as a whole.
+You can avoid many potential pitfalls while using the X API by ensuring that your service has been built the right way from day 1. This section of the Developer Policy contains rules that all developers must follow before using the X API or X Content.
 
-### Spam, bots, and automation
+The Free, Basic, and Pro plans (as described at [developer.x.com/en](http://developer.x.com/en)) are designed for hobbyists, commercial prototyping, early-stage X product integrations, and supporting applications with limited end-users. If you use the X API and X Content beyond this scope, then you must apply (or already subscribe to) an Enterprise plan (as described at [developer.x.com/en](http://developer.x.com/en)).
 
-**The use of the X API and developer products to create spam, or engage in any form of platform manipulation, is prohibited.** You should review the X Rules on [platform manipulation and spam](https://help.x.com/rules-and-policies/platform-manipulation), and ensure that your service does not, and does not enable people to, violate our policies.
+**We review all proposed uses of the X developer platform to verify policy compliance — so you’re required to disclose (and update, as applicable) your planned use of the X API and X Content in order to be granted and to maintain access.** All new developers must [apply for a developer account](https://developer.x.com/portal/petition/essential/basic-info) to access the X API. Current developers without an approved developer account must apply for one as directed to do so by X. As part of this process, you’ll need to provide us with a written description of your intended uses of the X API and X Content.
 
-**Services that perform write actions, including posting Posts, following accounts, or sending Direct Messages, must follow the [Automation Rules](https://help.x.com/rules-and-policies/x-automation).** In particular, you should: 
+Your use case description is binding on you, and any substantive deviation from it may constitute a violation of our rules and result in enforcement action. You must notify us of any substantive modification to your use case and receive approval before you may begin using X Content for that new purpose. Failure to do so may result in suspension and termination of your API and data access. 
 
-*   Always get explicit consent before sending people [automated replies or Direct Messages](https://twittercommunity.com/t/policy-clarification-automated-replies-and-mentions/94444)
-    
-*   Immediately respect requests to opt-out of being contacted by you
-    
-*   Never perform bulk, aggressive, or spammy actions, including [bulk following](https://twittercommunity.com/t/policy-clarification-aggressive-following-and-inorganic-following-behavior/92769)
-    
-*   Never post identical or substantially similar content across [multiple accounts](https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html)
-    
+**By building on the X API or accessing X Content, you must comply with ALL X policies.** These include this [Developer Policy](https://developer.x.com/developer-terms/policy), the [Automation Rules](https://help.x.com/rules-and-policies/x-automation), the [Display Requirements](https://developer.x.com/developer-terms/display-requirements.html), the [API Restricted Uses Rules](https://developer.x.com/developer-terms/more-on-restricted-use-cases), the [X Rules](https://help.x.com/rules-and-policies/x-rules), and the [X Brand Resources](https://about.x.com/who-we-are/brand-toolkit), as well as any other agreements you enter into with X relating to your use of the X API or X Content, including but not limited to the [Developer Agreement](https://developer.x.com/developer-terms/agreement) or a Master Licensing Agreement or Order (as applicable). You must also comply with any modifications to these policies and any new policies launched by X. It is your responsibility to monitor the use of your service and to design your service to prevent violations of X policy by people who use it. Failure to do so may result in suspension or termination of your API and X Content access.
 
-**If you’re operating an API-based bot account you must clearly indicate what the account is and who is responsible for it.** You should never mislead or confuse people about whether your account is or is not a bot. A good way to do this is by including a statement that the account is a bot in the profile bio.
+**You may not register multiple applications for a single use case or substantially similar or overlapping use cases.** In this context, a “use case” is a consistent set of analyses, displays, or actions performed via an application. "White label" versions of a tool or service are not permissible. If you plan to “white label” versions of your application, you must notify and receive separate approval from us.
 
-### X performance benchmarking
+_As a single exception to these rules,_ you may create and use a maximum of 3 applications for development, staging, and production instances of the same service. These apps must be registered to a single account, and should be clearly identified (in the name and description) as dev, staging, and prod instances of a single service. **You may not use development or staging applications for production purposes.**  
 
-**You may not use the X API to measure the availability, performance, functionality, or usage of X for benchmarking, competitive, or commercial purposes.** For example, you should never use the X API to:
+**You must keep all API keys or other access credentials private.** You may not use, and may not encourage or facilitate others to use, API keys or other access credentials owned by others.
 
-*   Calculate aggregate X metrics, such as the total number of Monthly Actives (MAs) or Daily Actives (DAs)
-    
-*   Calculate aggregate X Post metrics, such as the total number of Posts posted per day, or the number of account engagements
-    
-*   Measure or analyze the responsiveness of X
-    
-*   Measure or analyze spam or security on X, except as permitted below
-    
+**Your license agreement with X limits your use of the X API and X Content. Among other things, the X API has rate limits which help to ensure fair data usage and to combat spam on the platform.** You may not exceed or circumvent rate limits, or any other limitations or restrictions described in this Policy or your agreement with X, listed on the [Developer Site](https://developer.x.com/), or communicated to you by X.
 
-**We support research that helps improve conversational health on X.** You may not publicly disclose any research or findings concerning, or develop, create, or offer services using, the X API or X Content that measure, analyze, or attempt to identify behaviors or content which violate X policies without express written permission from X.
+**You may not remove or alter any proprietary notices or marks on X Content received via the X API.** This helps to make sure that people know where X Content is coming from, and who it belongs to.
 
-**DSA Researchers:** If you need to contact X relating to access under Art. 40 of the Digital Services Act, please contact [\[email protected\]](https://developer.x.com/cdn-cgi/l/email-protection). If you wish to apply for researcher access, please submit an [application](https://forms.gle/btDwenPF7M3hgSvw7).
-
-### Public display of Posts
-
-**You must maintain the integrity of all X Content that you display publicly or to people who use your service.** If you don’t use [X for Websites](https://developer.x.com/docs/twitter-for-websites/overview) to display content, then you must use the X API to retrieve the most current version available for display. If displayed content ceases to be available through the X API, then you must remove it from your service as soon as reasonably possible, or within 24 hours after the receipt of a removal request from X, or the applicable X account owner, or as otherwise required by applicable law.
-
-**There are specific rules you must follow if you display X Content offline.** Follow the [guidelines](https://developer.x.com/developer-terms/display-requirements) for using Posts in broadcast if you display Posts offline. 
-
-**If you embed or display Posts, you must contact us about your X API access if your site exceeds 10 million daily impressions.** X reserves the right to require additional terms as a condition to your use of the X API. Additional restrictions on X for Websites developer use include:
-
-*   **Embedded Posts and/or embedded timelines**  
-      
-    *   You must provide people with legally sufficient notice that fully discloses X’s collection and use of data about browsing activities on your website, including for interest-based advertising and personalization. You must also obtain legally sufficient consent from people for such collection and use  
-        
-    *   You must provide legally sufficient instructions on how people can opt out of X’s interest-based advertising and personalization as described [here](https://help.x.com/x-for-websites-ads-info-and-privacy)  
-         
-*   **X for Websites widgets**  
-      
-    *   You must ensure that people are provided with clear and comprehensive information about, and consent to, the storing and accessing of cookies or other information on their devices as described in X’s [cookie use](https://help.x.com/rules-and-policies/x-cookies), where providing such information and obtaining such consent is required by law  
-         
-*   **Services targeted to children under 13**  
-      
-    *   Services targeted to children under 13 must opt out of tailoring X in any embedded Post and/or embedded timelines by setting the opt-out parameter to be ‘true’ as described [here](https://developer.x.com/docs/twitter-for-websites/privacy)
-
-### Content redistribution
-
-**The best place to get X Content is directly from X. Consequently, we restrict the redistribution of X Content to third parties.** If you provide X Content to third parties, including downloadable datasets or via an API, you may only distribute Post IDs, Direct Message IDs, and/or User IDs (except as described below). 
-
-In total, you may not distribute more than 1,500,000 Post IDs to any entity (inclusive of multiple individuals associated with a single entity) within any 30 day period unless you have received written permission from X. In addition, developers may provide up to 500 public Posts Objects and/or User Objects to each person who uses your service on a daily basis if this is done via non-automated means (e.g., download of spreadsheets or PDFs).
-
-Academic researchers are permitted to distribute Post IDs and/or User IDs solely for the purposes of non-commercial research on behalf of an academic institution, and that has been approved by X in writing, or peer review or validation of such research. Only as many Post IDs or User IDs that is necessary for such research, and has been approved by X may be used. 
-
-Any X Content provided to third parties remains subject to this Policy, and those third parties must agree to the X [Terms of Service](https://x.com/tos), [Privacy Policy](https://x.com/privacy), [Developer Agreement](https://developer.x.com/developer-terms/agreement), and [Developer Policy](https://developer.x.com/developer-terms/policy) before receiving such downloads. You may not enable any entity to circumvent any other limitations or restrictions on the distribution of X Content as contained in this [Policy](https://developer.x.com/developer-terms/policy), the [Developer Agreement](https://developer.x.com/developer-terms/agreement), or any other agreement with X.
-
-**Note:** This Section does not apply to researchers with X API access via Art. 40 of the EU Digital Services Act (2022) (“**DSA**”), who are instead subject to the procedures and restrictions set forth in the DSA and the Developer Agreement.
-
-### Pay to engage
-
-**Your service shouldn’t compensate people to take actions on X, as that results in inauthentic engagement that degrades the health of the platform.** As you use the X API you may not sell or receive monetary or virtual compensation for any X actions. This includes, but is not limited to, Posts, follows, unfollows, reposts, likes, comments, and replies.
-
-### Service authenticity
-
-**You must clearly identify your service so that people can understand its source and purpose.** Don’t use names, logos, or URLs that mask your service’s identity and features, or that falsely imply an affiliation with X or third parties. Note that creating applications for the purpose of selling names, or to prevent others from using names, is prohibited.
-
-**You may not use any URL (including shortened URLs) for your service that directs people to:**
-
-*   A site that is unrelated to your service
-    
-*   A spam or malware site
-    
-*   A site that encourages people to violate X policy
-    
-
-### X name, logo, and likeness
-
-**You may only use and display the X name and logo to identify X as the source of X Content.** You should never use the X name and logo, the X Official Partner Program badge, or any other similar marks or names in a manner that creates a false sense of endorsement, sponsorship, or association with X. The X [Brand Resources](https://about.x.com/who-we-are/brand-toolkit) contain detailed information to help you use the X brand in the right way.
-
-**You may only use the X Verified Account badge and any other enhanced account categorization as it is reported to you by X through the API.** This helps people know that the content your service displays is equivalent to that shown on X.
-
-### Advertising on X
-
-**There are restrictions regarding how and where you are allowed to advertise around X Content.** To start, your advertisements can’t resemble or reasonably be confused by people as a Post. Other rules on advertising include:
-
-*   **There must be a clear separation between X Content and your advertisements.** You may not place any advertisements within the X timeline other than X Ads.
-    
-*   **X reserves the right to serve advertising via the X API.** If you decide to serve X Ads once we start delivering them via the API, we will share a portion of advertising revenue with you in accordance with the relevant terms and conditions.
-    
-*   **You may not use X Content, or information obtained from the X API to target people with advertising outside of the X platform.**
-    
+**For data integrity and platform health reasons, you may not interfere with, intercept, disrupt, or disable any features of the X API or the X service.** In other words, use the APIs as intended and documented on [developer.x.com](https://developer.x.com/). Refer to our [HackerOne guidelines](https://hackerone.com/x) for more details about acceptable use.
 
 Chapter 4
 
