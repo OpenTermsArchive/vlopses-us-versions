@@ -398,7 +398,7 @@ Last Revised: March 2025  Previous Versions: [Here](https://ads.tiktok.com/i18n
 
 (g)            If you use TikTok's Lead Generation Products, (as defined in the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms)) you agree to the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms).
 
-(h)            If you authorize your third-party measurement partner(s) to send you TikTok European Data (as defined in the TikTok Controller to Controller Data Terms), you agree to the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller). 
+(h)         If you authorize your third-party measurement partner(s) to send you TikTok European Data or TikTok Brazilian Data (in each case, as defined in the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller)), you agree to the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller).
 
 (i)             If you are granted rights to use trademarks, trade and product names, logos, icons, symbols or designs owned or used by TikTok, you agree to the [Brand Guidelines](https://tiktokbrandbook.com/d/HhXfjVK1Poj9/legal).
 
