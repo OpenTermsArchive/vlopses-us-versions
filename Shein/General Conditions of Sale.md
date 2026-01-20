@@ -130,7 +130,7 @@ Return and Refund Timeframe：**Approximately 10-15 Days** (During sales season,
 
 ● To ensure a smooth and timely refund process, please make sure that the item(s) you are returning match(es) the details listed on your SHEIN return request. Returned items must be shipped using the correct Return Label or QR Code. Any discrepancies may cause delays or prevent us from being able to process your return.
 
-● If you receive a damaged/defective item, please contact SHEIN Customer Service within 24 hours of receipt.
+● If you receive a faulty, damaged, or incorrect item, please contact Customer Service within the return period. We will investigate the issue and provide a suitable solution, including a refund if applicable.  
 
 ● If you have any issues with your order, please contact Customer Support within 90 days after the purchase date.
 
