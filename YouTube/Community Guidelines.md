@@ -20,7 +20,7 @@ Our [Community Guidelines](https://support.google.com/youtube/answer/9288567) an
 
 Content that violates our community guidelines is flagged by a mix of **automated detection and human reporting** — most is automatically detected — and we go to great lengths to make sure violative content isn’t widely viewed, or even viewed at all, before it’s taken down.
 
-Exceptions can be made when content has a clear educational, documentary, scientific, or artistic [(EDSA)](https://support.google.com/youtube/answer/6345162?ref_topic=9282435&sjid=277005303270439027-NA) context.
+Exceptions can be made when content has a clear educational, documentary, scientific, or artistic [(EDSA)](https://support.google.com/youtube/answer/6345162?ref_topic=9282435&sjid=277005303270439027-NA) context, including content that is in the public’s interest.
 
 * * *
 
