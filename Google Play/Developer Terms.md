@@ -3044,7 +3044,7 @@ Content ratings are used to inform consumers, especially parents, of potentially
 
 #### How content ratings are assigned
 
-To receive a content rating, you must fill out a [rating questionnaire on the Play Console](https://support.google.com/googleplay/android-developer/answer/188189#questionnaire) that asks about the nature of your apps’ content. Your app will be assigned a content rating from multiple rating authorities based on your questionnaire responses. Misrepresentation of your app’s content may result in removal or suspension, so it is important to provide accurate responses to the content rating questionnaire.
+To receive a content rating, you must fill out a [rating questionnaire on the Play Console](https://support.google.com/googleplay/android-developer/answer/9859655#How%20to%20complete%20a%20rating%20questionnaire) that asks about the nature of your apps’ content. Your app will be assigned a content rating from multiple rating authorities based on your questionnaire responses. Misrepresentation of your app’s content may result in removal or suspension, so it is important to provide accurate responses to the content rating questionnaire.
 
 To prevent your app from being listed as “Unrated”, you must complete the content rating questionnaire for each new app submitted to the Play Console, as well as for all existing apps that are active on Google Play. Apps without a content rating will be removed from the Play Store.
 
