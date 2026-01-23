@@ -2,25 +2,35 @@ Other regions
 
 Virtual Items Policy
 
-_Last updated: 15 August, 2025_
+  
 
-(This Virtual Items Policy applies to users living outside of the European Economic Area (EEA), Switzerland and the UK)
+_Last updated: January 22, 2026_
+
+(This Virtual Items Policy applies to users living outside of the United States, the European Economic Area (EEA), Switzerland and the UK)
+
+  
 
 **You must be at least 18 years old (or the age of majority in your jurisdiction, whichever is older) to buy, use or collect certain Virtual Items, including, but not limited to, Coins and Diamonds.**
 
 This Virtual Items Policy applies to the access and use of Virtual Items (defined below) on the Platform (“**Virtual Items Policy**”). Virtual Items may also be governed by separate applicable product, program, promotion, and/or campaign terms. If this is the case, these additional terms will be made available to you when you use the product or take part in the program, promotion, and/or campaign ("**Virtual Items Terms**") or Rewards Program.
 
-If you live in the United States, Canada or Latin America, TikTok Inc., a California corporation, with its principal place of business at 5800 Bristol Pkwy, Culver City, CA 90230 USA ("**TikTok**") offers Virtual Items to you and is solely responsible for any payment, financial or tax obligations in relation to Virtual Items.
+If you live in Canada or Latin America, TikTok Inc., a California corporation, with its principal place of business at 5800 Bristol Pkwy, Culver City, CA 90230 USA ("**TikTok**") offers Virtual Items to you and is solely responsible for any payment, financial or tax obligations in relation to Virtual Items.
 
 If you do not live in the United States, Canada, Latin America, EEA, the United Kingdom or Switzerland, then TikTok Pte. Ltd., with its registered office at 1 Raffles Quay, #26-10, South Tower, Singapore 048583 ("**TikTok**") offers Virtual Items to you and is responsible for any payment, financial or tax obligations in relation to Virtual Items.
+
+If you are using or accessing the Virtual Items in the United States or are otherwise a United States accessor or user of the Virtual Items, then your access and use of the Virtual Items is governed by the US Virtual Items Policy instead of this Virtual Items Policy.
 
 Our [Terms of Service](https://www.tiktok.com/legal/terms-of-service) and [Community Guidelines](https://www.tiktok.com/community-guidelines) also apply to, among other things, your access and use of Virtual Items on the Platform. Our [Privacy Policy](https://www.tiktok.com/legal/privacy-policy) describes how we process your personal data.
 
 If there is a conflict between this Virtual Items Policy and the [Terms of Service](https://www.tiktok.com/legal/terms-of-service) or [Community Guidelines](https://www.tiktok.com/community-guidelines), this Virtual Items Policy will apply. If there is a conflict between this Virtual Items Policy and any applicable Virtual Items Terms, the Virtual Items Terms will apply.
 
-Capitalized terms not defined in this Virtual Items Policy have the meanings given to them in our [Terms of Service](https://www.tiktok.com/legal/terms-of-service) or our Rewards Policy.
+Capitalized terms not defined in this Virtual Items Policy have the meanings given to them in our [Terms of Service](https://www.tiktok.com/legal/terms-of-service) or our [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-row).
 
-_In short: This Virtual Items Policy and any applicable Virtual Items Terms set out the rules that apply when you access or use Virtual Items on the Platform. You must also comply with our [Terms of Service](https://www.tiktok.com/legal/terms-of-service-eea?lang=en) and [Community Guidelines](https://www.tiktok.com/community-guidelines/en/). You should read these documents._
+  
+
+_In short: This Virtual Items Policy and any applicable Virtual Items Terms set out the rules that apply when you access or use Virtual Items on the Platform. You must also comply with our [Terms of Service](https://www.tiktok.com/legal/terms-of-service) and [Community Guidelines](https://www.tiktok.com/community-guidelines). You should read these documents._
+
+  
 
 1\. **What are Virtual Items and how can you use them?**
 --------------------------------------------------------
@@ -31,7 +41,11 @@ Virtual Items are used by users to express themselves, as an indicator of their 
 
 **Virtual Items cannot be exchanged for cash or used as currency.** Virtual Items can only be purchased or received from TikTok. Virtual Items cannot be purchased or received from, sold to, or exchanged with other Platform users, nor can they be used to purchase, access or activate goods and services provided by a third party.
 
+  
+
 _In short: Virtual Items are digital items, representations or services that TikTok may provide you to access and use on the TikTok Platform. Virtual Items cannot be exchanged for cash or used as currency._
+
+  
 
 **2\. Coins**
 -------------
@@ -40,7 +54,11 @@ _In short: Virtual Items are digital items, representations or services that Tik
 
 Coins are digital items that can be used on the Platform to access or activate other Virtual Items or services offered by TikTok (each, a “**Coin**”). Coins can be purchased from TikTok by users of the Platform who are at least 18 years old (or the age of majority in their jurisdiction, whichever is older). The purchase and use of Coins is entirely voluntary.
 
+  
+
 _In short: You can buy Coins and use them on the Platform to access or activate other Virtual Items or services._
+
+  
 
 ### **2.2 How can you use Coins?**
 
@@ -52,7 +70,11 @@ The number of Coins needed to access or activate other Virtual Items or services
 *   The Transaction History in your account shows you how much you have spent to buy Coins.
 *   The Coin History in your account shows a record of the number of Coins you have purchased and how you have used them to access or activate Virtual Items or services on the Platform.
 
+  
+
 _In short: You can only use Coins on the Platform. They can be used to access or activate other Virtual Items or TikTok services. You can view your previous Coin activity, including the total Coins you have, within your account._
+
+  
 
 ### **2.3 How do you buy Coins?**
 
@@ -68,7 +90,7 @@ When you buy Coins, the cost per Coin differs depending on how many you buy and 
 
 If you buy Coins through an App Store as an in-app purchase, the applicable store’s terms for in-app purchases apply as well as this Virtual Items Policy. If you have any questions about in-app purchases of Coins through an App Store (including if you wish to cancel any purchase of Coins you have made), you need to contact the relevant App Store.
 
-If you buy Coins through the WebApp, the total price payable for the Coins will be displayed at the point of purchase. Where possible, and where required by applicable laws, we will also display the total price on the page where the Coins are advertised for sale.
+If you buy Coins through the WebApp, a third-party payment provider will be provide payment services to you and the total price payable for the Coins will be displayed at the point of purchase. Where possible, and where required by applicable laws, we will also display the total price on the page where the Coins are advertised for sale.
 
 If you purchase a gift card to redeem Coins, the relevant gift card terms and conditions will also apply.
 
@@ -76,15 +98,23 @@ All charges and payments for Coins will be made in the currency specified at the
 
 You are responsible for any issues (like refunds, chargebacks, or fees and related costs) related to your payments, whether or not directly authorized by you. If a payment fails, is returned, or remains unpaid, we may suspend your TikTok account or your access to Virtual Items.
 
+  
+
 _In short: You can buy Coins directly from TikTok, via a gift card or through third-party App Stores. The terms and conditions that apply to the purchase will depend on the method used to purchase Coins._
+
+  
 
 ### **2.4 Refunds and changing your mind**
 
-**Coins purchased through an App Store**
+**Coins purchased through an app store**
 
-If you have purchased Coins from within the TikTok app through an App Store, you will have to directly contact the relevant App Store for any refunds or cancellations. Refunds or cancellations of in-app purchases are handled by the App Store, not TikTok, and are subject to the App Store's refund policies.
+If you have purchased Coins from within the TikTok app through an app store (other than the Google Play Store -- see below), you will have to directly contact the relevant app store for any refunds or cancellations. Refunds or cancellations of in-app purchases are handled by the app store, not TikTok, and are subject to the app store's refund policies.
+
+If you have purchased Coins from within the TikTok app through the Google Play Store and want to request a refund or cancellation, you can contact us directly by submitting a feedback ticket through the TikTok app via "Report a problem" in your Profile settings. We will handle any feedback or request submitted via this channel, including but not limited to refunds, defects, performance issues and customer complaints.
 
 When you submit a request for a refund, we may freeze the corresponding number of Coins for which you are seeking a refund. If your refund request is successful, we will deduct the relevant number of Coins from your account. If the remaining number of Coins in your account is insufficient for deduction, we reserve the right to deduct the applicable amount from your future Coin purchases.
+
+  
 
 **Japan.** Notwithstanding the above, if you live in Japan and have purchased Coins from TikTok through an App Store, only to the extent required by applicable law, you may seek a refund from TikTok.
 
@@ -96,12 +126,16 @@ When you submit a request for a refund, we may freeze the corresponding number o
 
 Except as otherwise required by applicable law, we will not provide you with a refund once your Coins have been made available to you on the Platform, which constitutes the performance of the contract between us and you for the purchase of the Coins. This means that you waive any statutory right (if any) to cancel the purchase of the Coins and obtain a refund once the Coins are made available to you on the Platform, unless the Coins are defective, or as required by applicable law.
 
+  
+
 **Brazil.** If you live in Brazil and have purchased Coins directly from TikTok (e.g., through the WebApp), you have certain rights to withdraw from online purchases under consumer laws:
 
 *   You have 7 days to withdraw from your purchase of Coins and request a refund, starting from the day after you purchase Coins (the “**Withdrawal Period**”). You don’t have to give us any reason to request a refund.
 *   You will not be able to request a refund (i) after the Withdrawal Period or (ii) for any Coins you have used during the Withdrawal Period.
-*   To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from. Alternatively, you can complete and send us the model withdrawal form [here](https://www.tiktok.com/legal/model-withdrawal-form-eea?lang=en).
+*   To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from. Alternatively, you can complete and send us the model withdrawal form [here](https://www.tiktok.com/legal/page/global/model-withdrawal-form-eea/en).
 *   If you withdraw from your purchase, we will provide you with a refund of the payment received from you for the Coins. Refunds will be issued to the original payment method and may take up to 7 business days to appear in your account, depending on the payment method used to make the purchase. TikTok will not charge you any fees in connection with the refund.
+
+  
 
 **Korea.** If you live in the Republic of Korea and have purchased Coins directly from TikTok (e.g., through the WebApp), the following refund policy shall apply:
 
@@ -110,7 +144,11 @@ Except as otherwise required by applicable law, we will not provide you with a r
 *   To withdraw from your purchase of Coins, please contact our customer support team [here](https://www.tiktok.com/legal/report/transaction) and provide us with the transaction ID of the purchase that you wish to withdraw from.
 *   If you withdraw from your purchase, we will provide you with a refund in the same payment method you used for your purchase within 3 business days (note, however, that it may take longer for such refunds to appear in your account depending on the payment method).
 
-_In short: If you buy Coins from an App Store, you will have to contact the App Store about refunds and changing your mind unless, under applicable law, TikTok is required to provide you a refund. If you buy Coins directly from TikTok, depending on where you live, you may have a right to change your mind._
+  
+
+_In short: If you buy Coins from an app store (other than the Google Play Store), you will have to contact the app store about refunds and changing your mind unless, under applicable law, TikTok is required to provide you a refund. If you buy Coins directly from TikTok, depending on where you live, you may have a right to change your mind._
+
+  
 
 **3\. Gifts**
 -------------
@@ -126,40 +164,54 @@ The type and number of Gifts activated in a LIVE is used by TikTok to determine 
 
 Because Gifts are accessed with immediate effect and consumed immediately upon activation, they are **not returnable or refundable in any circumstances**.
 
+  
+
 _In short: You can use Coins to access and activate Gifts to express yourself and interact with content you enjoy. Gifting does not transfer anything of value to other users._
+
+  
 
 **4\. Diamonds**
 ----------------
 
 TikTok uses Diamonds to recognize a user's popularity and ranking on the Platform (each, a “**Diamond**”). Users collect Diamonds based on the level of viewer engagement their content receives. The more popular a user is, and the more high-quality contributions they provide on the Platform, the more Diamonds TikTok allocates to them.
 
-A user's popularity (measured in Diamonds and ranking) is one of several factors TikTok takes into account to determine the Rewards it may give a user under the applicable Rewards Program Terms and our Rewards Policy.
+A user's popularity (measured in Diamonds and ranking) is one of several factors TikTok takes into account to determine the Rewards it may give a user under the applicable Rewards Program Terms and our [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-row).
 
 Diamonds do not automatically entitle a user to receive Rewards, including a Reward Payment.
 
 If we believe a user's popularity (and their associated Diamonds and/or ranking) has been influenced by a breach of our [Terms of Service](https://www.tiktok.com/legal/terms-of-service), [Community Guidelines](https://www.tiktok.com/community-guidelines), applicable Rewards Program Terms, this Virtual Items Policy, and/or, if they are a creator, our [LIVE Monetization Guidelines](https://www.tiktok.com/live/creators/en-US/rules_and_guidance/live_monetization_guidelines) or [Creator Code of Conduct](https://www.tiktok.com/creator-academy/en/article/creator-code-of-conduct), TikTok may apply a proportionate reduction to the number of Diamonds collected by that user at its sole discretion. Where appropriate, we will let you know if we do this.
 
+  
+
 _In short: TikTok may allocate Diamonds to you to measure your popularity and the popularity of your content on our Platform. Popularity is a factor TikTok takes into account to determine the Rewards it may offer you._
+
+  
 
 **5\. Points**
 --------------
 
-Points are digital items TikTok may allocate to users when they complete Engagement Actions (as defined in the Rewards Policy), or as part of a Referral Program (each, a “**Point**”). In some cases, subject to applicable Virtual Items Terms, Rewards Program Terms, and/or applicable Rewards Program-specific provisions, users may be eligible to redeem Points for a Reward. However, Points do not automatically entitle a user to claim any Reward.
+Points are digital items TikTok may allocate to users when they complete Engagement Actions (as defined in the [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-row)), or as part of a Referral Program (each, a “**Point**”). In some cases, subject to applicable Virtual Items Terms, Rewards Program Terms, and/or applicable Rewards Program-specific provisions, users may be eligible to redeem Points for a Reward. However, Points do not automatically entitle a user to claim any Reward.
 
 The number of Points required to redeem a Reward, and what Rewards are available for redemption, will depend on the applicable Rewards Program.
 
+  
+
 _In short: You may be eligible to receive Points by completing certain activities, and in some cases Points may be redeemed for a Reward._
+
+  
 
 **6\. Your Rights**
 -------------------
 
 We give you permission (called a limited license) to use Virtual Items only for your personal use on the Platform consistent with the uses as determined by TikTok and this Virtual Items Policy and any applicable Virtual Items Terms. This means you have no right or title in Virtual Items except as expressly stated in this Virtual Items Policy and any applicable Virtual Items Terms. **You cannot buy, sell, assign, transfer or exchange Virtual Items outside of the Platform, or attempt to sell, assign, transfer, give or trade Virtual Items** otherwise than as expressly permitted in this Virtual Items Policy, any applicable Virtual Items Terms, or otherwise by us in applicable Reward Program Terms.
 
-We may terminate or suspend your right to access Virtual Items, or to buy Coins, immediately and without notice if we believe that you have breached our [Terms of Service](https://www.tiktok.com/legal/terms-of-service), [Community Guidelines](https://www.tiktok.com/community-guidelines), this Virtual Items Policy, any applicable Virtual Items Terms, and/or, if you are a creator, our [LIVE Monetization Guidelines](https://www.tiktok.com/live/creators/en-US/rules_and_guidance/live_monetization_guidelines) or [Creator Code of Conduct](https://www.tiktok.com/creator-academy/en/article/creator-code-of-conduct).
+We may terminate or suspend your right to access Virtual Items, or to buy Coins, immediately and without notice if we believe that you have breached our [Terms of Service](https://www.tiktok.com/legal/terms-of-service), [Community Guidelines](https://www.tiktok.com/community-guidelines), this Virtual Items Policy, any applicable Virtual Items Terms, and/or, if you are a creator, our [LIVE Monetization Guidelines](https://www.tiktok.com/live/creators/en-US/rules_and_guidance/live_monetization_guidelines) or [Creator Code of Conduct](https://www.tiktok.com/creator-academy/en/article/creator-code-of-conduct). We also reserve the right to remove or update your access to Virtual Items where an error has occurred.
 
 If your account on the Platform is deactivated or terminated before you use your Virtual Items (including any available Coins), you will not be entitled to a refund or any additional access to, or value from, such Virtual Items, unless required by applicable law, so we encourage you to use your Virtual Items (where possible) before you cease to have access to your account.
 
-_In short: Your permission to use Virtual Items is subject to TikTok's rules. If you break our rules, TikTok can take action against you, which may include terminating your access to Virtual Items, including Coins you purchased._
+  
+
+_In short: Your permission to use Virtual Items is subject to TikTok's rules. If you break our rules, TikTok can take action against you, which may include terminating your access to Virtual Items, including Coins you purchased. TikTok may also terminate your access to Virtual Items if they were given to you in error._
 
 **7\. Contact us**
 ------------------
