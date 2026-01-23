@@ -73,7 +73,7 @@ All rating icons are protected trademarks of the respective rating authority, an
 Understanding your target audience selection
 --------------------------------------------
 
-To better serve users, it’s important to provide accurate information about your app. In addition to filling out the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655), you’ll also need to provide details about your app’s target audience and content. Depending on the target audience selections you make, your app may be subject to additional Google Play policies. For example:
+To better serve users, it’s important to provide accurate information about your app. In addition to filling out the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655#How%20to%20complete%20a%20rating%20questionnaire), you’ll also need to provide details about your app’s target audience and content. Depending on the target audience selections you make, your app may be subject to additional Google Play policies. For example:
 
 |     |     |
 | --- | --- |
