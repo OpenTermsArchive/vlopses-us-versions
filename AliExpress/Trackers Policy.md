@@ -104,12 +104,12 @@ The third-party SDKs we integrate primarily serve your needs. Therefore, we may 
 | Category | Description of the purpose | Personal data processed | Legal basis |
 | Payment | Support in-app payments | Location Information<br><br>MAC Address<br><br>Bluetooth Information<br><br>SSID<br><br>Network Information<br><br>IMEI, MEID<br><br>File Directory<br><br>IMSI<br><br>Device Information<br><br>BSSID<br><br>Application List<br><br>ICCID<br><br>Carrier Information<br><br>IP Address<br><br>Sensor Information | Contractual necessity |
 |     |     |     |     |
-| Performance monitoring | Application monitoring, intelligent alerts, and improved application quality. | IP address<br><br>Running application process information<br><br>File directory<br><br>System SHELL commands | ●<br><br>Our legitimate interests to provide, operate and improve our application<br><br>●<br><br>Contractual necessity |
+| Application stability support | Ensure application stability | IP address<br><br>Running application process information<br><br>File directory<br><br>System SHELL commands | ●<br><br>Our legitimate interests to provide, operate and improve our application<br><br>●<br><br>Contractual necessity |
 |     |     |     |     |
-| Framework | Log collection is used to improve capabilities in R&D, operations, security and other scenarios. | System SHELL commands |     |
+| Framework | Application Log collection is used to improve capabilities in R&D, operations, security and other scenarios. | System SHELL commands |     |
 |     | Media management and image loading framework | Application information |     |
 | Security | Security protection for Application operation, network requests, account registration and login, etc. | Storage file, directory, and space status<br><br>Application list<br><br>Source Dir<br><br>Running application tasks and process information<br><br>File destination |     |
-| Statistics | For statistical analysis purposes | Storage file, directory, and space status<br><br>IMEI, MEID<br><br>Running application process information<br><br>File directory<br><br>Device information<br><br>Android ID |     |
+| Statistics | For statistical purposes | Storage file, directory, and space status<br><br>IMEI, MEID<br><br>Running application process information<br><br>File directory<br><br>Android ID |     |
 | Platform services | H5 page display rendering | Photo album<br><br>Application list<br><br>Source Dir<br><br>Sensor information<br><br>Operator information<br><br>File directory<br><br>BSSID<br><br>OAID<br><br>Network information<br><br>location information<br><br>Currently running application process information<br><br>Device information<br><br>Application installation time<br><br>Android ID |     |
 |     | Support users from other channels to register, log in, and share content within the application. |     |     |
 |     | Provide other basic services for application |     |     |
@@ -117,7 +117,7 @@ The third-party SDKs we integrate primarily serve your needs. Therefore, we may 
 | Application function support | Application function support | IMEI，MEID<br><br>BSSID<br><br>MAC<br><br>SSID<br><br>Source Dir<br><br>Currently running application process information<br><br>Network information<br><br>location information<br><br>IP Address<br><br>File directory |     |
 |     |     |     |     |
 | General components | Common application components, including but not limited to network, push notifications, UI, login, stability, exception monitoring, performance loading, etc. | Calendar Storage files, directories, space status<br><br>Images, photos, videos<br><br>Contacts <br><br>Audio <br><br>Photo Album <br><br>Hardware Serial Number <br><br>Location Information <br><br>Android ID <br><br>Device Information <br><br>Sensor Information <br><br>MAC <br><br>Carrier Information <br><br>ICCID <br><br>Application Installation Time <br><br>SSID <br><br>Source Dir <br><br>IMEI, MEID <br><br>System Shell Commands <br><br>File Directory <br><br>IMSI <br><br>GAID Application List <br><br>Running Application Tasks and Process Information <br><br>IP Address <br><br>Account Information <br><br>Clipboard Information <br><br>Network Information <br><br>BSSID <br><br>OAID <br><br>Bluetooth Information |     |
-| Advertisement | Provide advertising services | OAID | ●<br><br>Consent<br><br>●<br><br>Our legitimate interests to develop marketing activities and to promote our products and services to you |
+| Advertisement | Provide advertising services | OAID | ●<br><br>Consent<br><br>●<br><br>Or our legitimate interests to develop marketing activities and to promote our products and services to you |
 
 【Changes to the Cookie Notice】
 
