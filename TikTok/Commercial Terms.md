@@ -152,21 +152,13 @@ Where ads are placed in Australia and/or New Zealand, the following terms will a
 
 #### TikTok Business Products (Data) Terms
 
-**These terms apply with effect from: 29 July 2024** 
-
-  
+**These terms apply with effect from: 22 January 2026**
 
 These terms (the **"TikTok Business Products (Data) Terms**") apply to Business Products Data that you share with us or enable us to access in connection with your use of any TikTok Business Products. 
 
-  
-
 These TikTok Business Products (Data) Terms apply to any Business Products Data that you share with us or enable us to access in connection with any TikTok pilots, tests, alpha or beta programs that you participate in from time to time. They apply whether you share Business Products Data with us directly (for example by implementing our Device Data Collection Tools) or indirectly (for example, when you authorize us to integrate with your data provider, measurement partner, or data management platform). When we process Contact Details for the purposes of our Custom Audiences (Customer File) Product, our Special Product Terms apply in the circumstances described in Clause 2.9 of these TikTok Business Products (Data) Terms.  Lead Generation Products and Lead Generation Data (as defined in the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms)) are governed by the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms) and not these TikTok Business Products (Data) Terms.
 
-  
-
 By clicking "**Accept**" or "**Agree**", or otherwise by using any of the TikTok Business Products, you agree (on your own behalf and on behalf of any person for whom you act) as follows:
-
-  
 
  **1     Definitions and interpretation**
 
@@ -182,6 +174,7 @@ By clicking "**Accept**" or "**Agree**", or otherwise by using any of the TikTok
 | "**Event Data**" | means information that you share or enable us to access in connection with your use of TikTok Business Account Tools and TikTok for Business Tools about individuals or their device (including HTTP header information such as user agent, IP address, country, language, and information about the web browser or app used), including actions they take on your (or third party) sites, apps and stores (such as visits to your sites or stores, installations of your apps, and purchases of your products). |
 | "**Matched IDs**" | has the meaning given in Clause 3.1. |
 | "**Special Product Terms**" | means terms and conditions that apply to TikTok's processing of Contact Details in connection with the specific advertising or social products listed in Clause 2.9. |
+| "**TikTok**", "**we" and "us"** | have the meanings given in the General Commercial Terms (as defined in Clause 6.3(b)), unless otherwise stated in the [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms). |
 | "**TikTok Business Account Tools**" | mean the TikTok products you can access when you sign up and log in to your TikTok app or [TikTok.com](http://tiktok.com/) account and choose a ‘Business Account’ account type, to the extent that you can send, or enable TikTok to access, Business Products Data through such products. |
 | "**TikTok Business Products**" | mean TikTok Business Account Tools, TikTok for Business Tools and TikTok Developer Tools. |
 | "**TikTok Developer Tools**" | mean TikTok's developer products (including the “Share to TikTok SDK” and embed functionality) as listed on [https://developers.tiktok.com/](https://developers.tiktok.com/) from time to time, to the extent that you can send, or enable TikTok to access, Business Products Data through such products. |
@@ -189,29 +182,17 @@ By clicking "**Accept**" or "**Agree**", or otherwise by using any of the TikTok
 
 **2       Requirements for sharing and enabling access to Business Products Data**  
 
-  
-
 2.1     When you use the TikTok Business Products you share with us, or enable us to access, Business Products Data. We process the Business Products Data for the purposes described in Clause 3 and in accordance with applicable data protection laws. The type(s) of Business Products Data that you share or enable us to access (whether Contact Details, Developer Data and/or Events Data) will depend on the specific TikTok Business Products you use. 
-
-  
 
 2.2     We will implement appropriate technical and organizational measures to protect the Business Products Data from and against a breach of security leading to its accidental or unlawful destruction, loss, alteration, unauthorized disclosure, or access.  
 
 2.3     If you share Contact Details with us, or otherwise enable us to access Contact Details using TikTok Business Products, for matching purposes, then those Contact Details will be hashed prior to transmission to us to protect individuals' privacy.  
 
-  
-
 2.4     TikTok will not provide audiences you create to other advertisers unless you or your service providers share audiences with other advertisers through the TikTok for Business Tools, subject to the restrictions and requirements of those tools and our terms. Further we will not share such audiences with third parties other than where we have your authorization to do so, where they are service providers to you or to us, or where we believe we are required to do so by law. You acknowledge that we may provide access to and/or a copy of Business Products Data to any individual who exercises their right of access in accordance with applicable data protection laws. 
-
-  
 
 2.5     You must only share with us or enable us to access Business Products Data in a manner that is transparent and lawful. You (and any agency or data provider that you may use) must therefore have provided all necessary transparency notices, and have all necessary rights, permissions and lawful bases (including consent, if and where required) required by applicable laws in order to share with us or enable us to access Business Products Data for use in accordance with Clause 3.   
 
-  
-
 2.6     If you receive any request, complaint or other correspondence relating to your use of the TikTok Business Products or the processing of any Business Products Data under these TikTok Business Products (Data) Terms, you will promptly notify TikTok and provide all information, cooperation and assistance as TikTok reasonably requires in order to respond to such correspondence in accordance with any timescales that may apply under applicable law.
-
-  
 
 2.7     Subject to Clause 2.8, if you are using the TikTok Business Products, or sharing or enabling access to Business Products Data, on behalf of (or together with) a third party (e.g. if you are an agent or a data provider acting on behalf of an advertiser), you represent and warrant that you are duly authorized by such third party: 
 
@@ -219,15 +200,11 @@ By clicking "**Accept**" or "**Agree**", or otherwise by using any of the TikTok
 
 (b)     to enter these TikTok Business Products (Data) Terms on behalf of such third party and bind it to these TikTok Business Products (Data) Terms. You will only use or share the Business Products Data or any audiences or reports generated through use of the Business Products Data with or on behalf of such third party. 
 
-  
-
 2.8     You will not share with us or enable us to access Business Products Data that you know or ought reasonably to know is from or about Children or that includes health or financial information, or other categories of sensitive information (including any information defined as sensitive or special category data under applicable laws, regulations and applicable industry guidelines). For the purposes of this Clause, the term "**Children**" includes: 
 
 (a)     any individual under the age of 13; and  
 
 (b)     any individual who is under the age of majority in the territory in which they reside who is not permitted under applicable local laws to consent on their own behalf to processing of their Business Products Data (where consent is required for such processing under applicable local laws).  
-
-  
 
 2.9     Special Product Terms apply to TikTok's processing of Contact Details in connection with specific TikTok Business Products listed below, and these TikTok Business Products (Data) Terms do not apply to the extent that TikTok's processing of Contact Details is subject to such Special Product Terms. For these purposes, Special Product Terms apply to processing of Contact Details in connection with: 
 
@@ -237,11 +214,7 @@ By clicking "**Accept**" or "**Agree**", or otherwise by using any of the TikTok
 
 For the avoidance of doubt, any Event Data and/or Developer Data accessed in connection with Clauses 2.9 (a) and (b), remains subject to these TikTok Business Products (Data) Terms.  
 
-  
-
 **3     How TikTok uses Business Products Data**  
-
-  
 
 3.1     Depending on the TikTok Business Products you use, we will use Business Products Data for the following purposes:
 
@@ -258,11 +231,7 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
 **4     Accessing or storing information on end user devices**  
 
-  
-
 4.1     This Clause 4.1 applies when you use any TikTok Business Products that involve TikTok's access to or storage of information on an end user's device, including but not limited to the TikTok Pixel or other similar tracking technologies (such as access to data using pixels, cookies, APIs, SDKs etc.) (collectively "Device Data Collection Tools" or "DDCTs").  
-
-  
 
 4.2     You (or partners acting on your behalf) may not place DDCTs, or allow others to place DDCTs, associated with your ad account on digital properties (including websites and apps) that you do not own without our written permission. 
 
@@ -286,23 +255,13 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
 (iii)     how and where users can opt out of the collection and use of information for ad targeting.  
 
-  
-
 4.4     Where applicable law and/or platform standards (such as Apple or Google platform terms) require consent for the access to or storage of information on an end user's device (such as but not limited to the European Economic Area and the United Kingdom), you must ensure, that you have obtained all necessary and verifiable prior consents to permit TikTok's lawful collection and/or storage of information on the end user's device in connection with your use of the applicable TikTok Business Products and DDCTs.   
-
-  
 
 **5     Jurisdiction Specific Terms.**  
 
-  
-
 5.1     The parties acknowledge and agree that additional [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms) may apply to the provision and use of the TikTok Business Products, TikTok Business Products Data, and data collected on TikTok properties in connection with the TikTok Business Products or your ads on TikTok properties. Where applicable to the TikTok Business Products, such [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms) are incorporated into these [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/policy/business-products-terms) by reference.   
 
-  
-
 **6     Miscellaneous** 
-
-  
 
 6.1     Modification and Termination.  
 
@@ -310,11 +269,7 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
 (b)     We may modify, suspend or terminate your access to, or discontinue the availability of, any of the TikTok Business Products at any time, including, without limitation, where we determine that you have breached these TikTok Business Products (Data) Terms.  
 
-  
-
 6.2     Retention. Subject to these TikTok Business Products (Data) Terms and any applicable [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms), we may retain Event Data for a maximum of 18 months. We will retain any audiences you create using the Event Data until you delete them via your account tools or 12 months from the date you last amended or used such audience. 
-
-  
 
 6.3     Conflicts  
 
@@ -324,17 +279,13 @@ For the avoidance of doubt, any Event Data and/or Developer Data accessed in con
 
 (i)     the [TikTok for Business Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service) apply when you use TikTok for Business Tools; 
 
-(ii)     the [TikTok Terms of Service](https://www.tiktok.com/legal/page/us/terms-of-service/en) apply when you use TikTok Business Accounts Tools; and 
+(ii)     the [TikTok Terms of Service](https://www.tiktok.com/legal/terms-of-service) apply when you use TikTok Business Accounts Tools; and 
 
 (iii)     the [TikTok Developer Terms of Service](https://www.tiktok.com/legal/page/global/tik-tok-developer-terms-of-service/en) apply when you use TikTok Developer Tools.
 
 In the event of any conflict between these TikTok Business Products (Data) Terms and any of the General Commercial Terms, these TikTok Business Products (Data) Terms shall take precedence solely with respect to your use of the TikTok Business Products, and solely to the extent of the conflict. In the event of any conflict between these TikTok Business Products (Data) Terms and the [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms), the [Jurisdiction Specific Terms](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms) shall take precedence, and solely to the extent of the conflict.  
 
-  
-
 6.4     Monitor compliance. We reserve the right to monitor your compliance with these TikTok Business Products (Data) Terms and you agree upon request to provide reasonable documentary evidence of your compliance with these TikTok Business Product (Data) Terms. 
-
-  
 
 6.5     Disclosures. Nothing in these TikTok Business Products (Data) Terms prevent us from making disclosures to our users in relation to TikTok Business Products as we may be advised or as we may determine are appropriate or required under applicable law.
 
@@ -344,25 +295,27 @@ In the event of any conflict between these TikTok Business Products (Data) Terms
 
   
 
-Last Revised: March 2025  Previous Versions: [Here](https://ads.tiktok.com/i18n/official/article?aid=10020372).
+Last Revised: January 2026  Previous Versions: [Here](https://ads.tiktok.com/i18n/official/article?aid=10020372).
 
   
 
 1               Your Relationship with Us 
 
-1.1            These TikTok For Business Commercial Terms of Service (these “**Commercial Terms**”) govern your use of TikTok’s products and/or services, in connection with your TikTok For Business, TikTok Ads Manager or TikTok Business Center accounts (“**Commercial Products**”). Commercial Products also include any other TikTok products and/or services, where you accept these Commercial Terms as a condition of access or use. These Commercial Terms form a legally binding contract between you and TikTok. 
+1.1           These TikTok For Business Commercial Terms of Service (these “**Commercial Terms**”) govern your use of TikTok’s products and/or services, in connection with your TikTok For Business, TikTok Ads Manager or TikTok Business Center accounts (“**Commercial Products**”). Commercial Products also include any other TikTok products and/or services, where you accept these Commercial Terms as a condition of access or use. These Commercial Terms form a legally binding contract between you and TikTok. 
 
-1.2           For purposes of  these Commercial Terms only, and unless otherwise specified:
+1.2           For purposes of these Commercial Terms only, and unless otherwise specified:
 
- “**TikTok**”, “**we**”, and “**us**” means either:
+ “**TikTok**”, “**we**”, and “**us**” means either: 
 
-*   ▪​TikTok Inc. (US), if you are based in North America (excluding Mexico);
+●       BD TikTok USA LLC (US) ("**TT Commerce & Global Services**"), if you are based in the United States;
 
-*   ▪​TikTok Information Technologies UK Limited (UK), if you are based in the United Kingdom;
+●       TikTok Inc. (US), if you are based in Canada;
 
-*   ▪​TikTok Technology Limited (Ireland), if you are based in the EEA or Switzerland; or
+●       TikTok Information Technologies UK Limited (UK), if you are based in the United Kingdom;
 
-*   ▪​TikTok Pte. Ltd. (Singapore), if you are based in any other geographic area.
+●       TikTok Technology Limited (Ireland), if you are based in the EEA or Switzerland; or
+
+●       TikTok Pte. Ltd. (Singapore), if you are based in any other geographic area.
 
 “**You**” or “**your**” means the entity or individual using the Commercial Products for its business or commercial purposes. 
 
@@ -398,7 +351,7 @@ Last Revised: March 2025  Previous Versions: [Here](https://ads.tiktok.com/i18n
 
 (g)            If you use TikTok's Lead Generation Products, (as defined in the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms)) you agree to the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms).
 
-(h)         If you authorize your third-party measurement partner(s) to send you TikTok European Data or TikTok Brazilian Data (in each case, as defined in the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller)), you agree to the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller).
+(h)            If you authorize your third-party measurement partner(s) to send you TikTok European Data or TikTok Brazilian Data (in each case, as defined in the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller)), you agree to the [Controller to Controller Data Terms](https://ads.tiktok.com/i18n/official/policy/controller-to-controller).
 
 (i)             If you are granted rights to use trademarks, trade and product names, logos, icons, symbols or designs owned or used by TikTok, you agree to the [Brand Guidelines](https://tiktokbrandbook.com/d/HhXfjVK1Poj9/legal).
 
@@ -626,7 +579,7 @@ You and TikTok waive any rights to sue in court and receive a judge or jury tria
 
 (vi)           Waiver of Class or Consolidated Actions
 
-You and TikTok agree to waive any right to have Claims decided on a class, collective or representative basis, except as set forth in this Section 14.2(b)(vi) (“Class Action Waiver”). In any case in which (1) Claims are filed as a class, collective, or representative action and (2) a civil court of competent jurisdiction finds all or part of the Class Action Waiver unenforceable, the class, collective, and/or representative action must be litigated in a civil court of competent jurisdiction. This provision does not prevent you or TikTok from participating in a settlement on a class-wide, collective, or representative basis.
+You and TikTok agree to waive any right to have Claims decided on a class, collective or representative basis, except as set forth in this Section 14.2(b)(vi) (“**Class Action Waiver**”). In any case in which (1) Claims are filed as a class, collective, or representative action and (2) a civil court of competent jurisdiction finds all or part of the Class Action Waiver unenforceable, the class, collective, and/or representative action must be litigated in a civil court of competent jurisdiction. This provision does not prevent you or TikTok from participating in a settlement on a class-wide, collective, or representative basis.
 
 (vii)         Survival
 
@@ -724,7 +677,7 @@ If you are based outside of the United States, United Kingdom, EEA, Switzerland,
 
 #### TIKTOK FOR BUSINESS ADVERTISING TERMS
 
-Last Revised: September 2025  Previous Versions: [Here](https://ads.tiktok.com/i18n/official/article?aid=10021673).
+Last Revised: January 2026  Previous Versions: [Here](https://ads.tiktok.com/i18n/official/article?aid=10021673).
 
   
 
@@ -744,7 +697,9 @@ Last Revised: September 2025  Previous Versions: [Here](https://ads.tiktok.com/
 
 (d)            The Contracting Entity is: (i) responsible for providing any Ad Services you purchase, and (ii) the entity which you will be obligated to pay for such Ad Services. 
 
-(e)            If you have any claim related to Ad Services, you agree that such claims will be made solely against the Contracting Entity. Any claims and disputes (whether contractual or otherwise) arising out of or relating to these Advertising Terms or their subject matter will be governed by the law of the jurisdiction where the Contracting Entity is formed or registered, and resolved in accordance with Sections 14.2 - 14.5 of the Commercial Terms, as applicable. Notwithstanding the foregoing, TikTok has discretion to pursue payment disputes in the local courts of the jurisdiction where the Contracting Entity is formed or registered, or where you are formed or registered. Any other claims relating to the Commercial Products (that are not related to Ad Services) will be made against the TikTok entity you contract with under the [Commercial Terms](https://ads.tiktok.com/i18n/official/article?aid=10004628) and resolved in accordance with Section 14 of the [Commercial Terms](https://ads.tiktok.com/i18n/official/article?aid=10004628).
+(e)            If you have any claim related to Ad Services, you agree that such claims will be made solely against the Contracting Entity. Any claims and disputes (whether contractual or otherwise) arising out of or relating to these Advertising Terms or their subject matter will be governed by the law of the jurisdiction where the Contracting Entity is formed or registered, and resolved in accordance with Sections 14.2 - 14.5 of the Commercial Terms, as applicable. Notwithstanding the foregoing, (i) TikTok has discretion to pursue payment disputes in the local courts of the jurisdiction where the Contracting Entity is formed or registered, or where you are formed or registered; and, (ii) where the Contracting Entity is TT Commerce & Global Services, claims arising out of or relating to these Advertising Terms or their subject matter will be governed by the law and venue of the state of California. 
+
+(f)             Any other claims relating to the Commercial Products (that are not related to Ad Services) will be made against the TikTok entity you contract with under the [Commercial Terms](https://ads.tiktok.com/i18n/official/article?aid=10004628) and resolved in accordance with Section 14 of the [Commercial Terms](https://ads.tiktok.com/i18n/official/article?aid=10004628).
 
 2        Payment
 
