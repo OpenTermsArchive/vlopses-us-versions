@@ -1362,7 +1362,7 @@ If you keep using Copilot after the updates take effect, you’re agreeing to th
 
 - - -
 
-Pilot programs policies
+Pilot Programs Policies
 =======================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1375,21 +1375,21 @@ These policies apply to pilot programs enabled to test Microsoft Advertising pro
 
 **Pilot programs are Microsoft Confidential. Any information that you may acquire, become aware of or otherwise learn as a part of your participation in these pilot programs may not be publicly divulged or communicated to external third parties.**
 
-Casinos, sports betting, lotteries, and fantasy sports—Argentina
+Casinos, Sports Betting, Lotteries, and Fantasy Sports—Argentina
 ----------------------------------------------------------------
 
-*   In addition to the below requirements, advertisers must also comply with applicable [gambling policies](#apex/ads/en/60216/0).
+*   In addition to the below requirements, advertisers must also comply with applicable [Gambling Policies](#apex/ads/en/60216/0).
 *   The allowed forms of gambling differ in each Argentinian province.
 *   Self-serve advertisers are not eligible for this pilot, accounts must be managed.
 *   Casinos, sports betting, lotteries and fantasy sports are allowed in Buenos Aires province and the City of Buenos Aires.
 *   Lotteries are allowed in all provinces except the following: Santiago del Estro, Tierra del Fuego, Antártida e Islas del Atlantico Sur, and Tucumán.
 *   Daily fantasy sports are allowed in the following provinces Córdoba, Corrientes, and Entre Ríos.
-*   Eligible advertisers must apply via our [Gambling policies and contests participation form](https://go.microsoft.com/fwlink?LinkId=2306532).
+*   Eligible advertisers must apply via our [Gambling Policies and Contests Participation Form](https://go.microsoft.com/fwlink?LinkId=2306532).
 
-Online casinos—United States
+Online Casinos—United States
 ----------------------------
 
-*   In addition to the below requirements, advertisers must also comply with applicable [gambling policies](#apex/ads/en/60216/0).
+*   In addition to the below requirements, advertisers must also comply with applicable [Gambling Policies](#apex/ads/en/60216/0).
 *   Self-serve advertisers are not eligible for this pilot, account must be managed.
 *   Advertisers must provide proof of license/eligibility for each state that they will be targeting and are responsible for ensuring proper targeting is applied to campaigns.
 *   At this time, the pilot is open in the following states only:
@@ -1399,12 +1399,12 @@ Online casinos—United States
     *   New Jersey
     *   Pennsylvania
     *   Rhode Island
-*   Eligible advertisers must apply via our [Gambling policies and contests participation form](https://go.microsoft.com/fwlink?LinkId=2306532).
+*   Eligible advertisers must apply via our [Gambling Policies and Contests Participation Form](https://go.microsoft.com/fwlink?LinkId=2306532).
 
-Sports betting—United States
+Sports Betting—United States
 ----------------------------
 
-*   In addition to the below requirements, advertisers must also comply with applicable [gambling policies](#apex/ads/en/60216/0).
+*   In addition to the below requirements, advertisers must also comply with applicable [Gambling Policies](#apex/ads/en/60216/0).
 *   Self-serve advertisers are not eligible for this pilot, account must be managed.
 *   Advertisers must provid e proof of license/eligibility for each state that they will be targeting and are responsible for ensuring proper targeting is applied to campaigns.
 *   At this time, the pilot is open in the following states only:
@@ -1440,14 +1440,14 @@ Sports betting—United States
     *   Washington D.C.
     *   Wyoming
 *   Sites must not accept or procure bets from residents of states where online gambling is disallowed, such as Washington or Texas.
-*   Eligible advertisers must apply via our [Gambling policies and contests participation form](https://go.microsoft.com/fwlink?LinkId=2306532).
+*   Eligible advertisers must apply via our [Gambling Policies and Contests Participation Form](https://go.microsoft.com/fwlink?LinkId=2306532).
 
 Cryptocurrency Wallet
 ---------------------
 
 Cryptocurrency wallet advertisers that meet specific criteria may be allowed in Search with pre-approval in the markets listed in the country's restrictions below as a pilot.
 
-Advertisers need to submit a [Cryptocurrency wallet enablement form](https://go.microsoft.com/fwlink?LinkId=2344391) to be considered. 
+Advertisers need to submit a [Cryptocurrency Wallet Enablement Form](https://go.microsoft.com/fwlink?LinkId=2344391) to be considered. 
 
 Program requirements:
 
@@ -1480,10 +1480,10 @@ Cryptocurrency wallets can be permitted if advertisers meet the criteria below:
     *   Disclosure of any potential risks associated with the value fluctuations of crypto assets, along with the underlying reasons
     *   Crypto assets can only be used for payment with the recipient's consent
 
-Contract for difference CFD
+Contract for Difference CFD
 ---------------------------
 
-Contact for difference (CFD) advertisers that meet specific criteria may be allowed in Search with pre-approval in the markets listed in the country restrictions below. To apply for pre-approval, advertisers must comply with the requirements below as well as market-specific criteria provided for the markets they plan to target. Please complete and submit the [to be considered.](https://go.microsoft.com/fwlink?LinkId=%202344591)
+Contact for difference (CFD) advertisers that meet specific criteria may be allowed in Search with pre-approval in the markets listed in the country restrictions below. To apply for pre-approval, advertisers must comply with the requirements below as well as market-specific criteria provided for the markets they plan to target. Please complete and submit the [To Be Considered.](https://go.microsoft.com/fwlink?LinkId=%202344591)
 
 *   Advertisers must comply with all regulations and licensing requirements for the specific locations where their ads will be serving. This includes, but is not limited to any required disclaimers, risk warnings, or labelling requirements.
 *   If there are regulations or licensing requirements that an advertiser does not meet for a location such as a specific state, the advertiser must exclude that location from their targeting.
