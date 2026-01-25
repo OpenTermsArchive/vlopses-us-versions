@@ -642,6 +642,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Windows Live Mail
 *   Windows Live Writer
 *   Word Flow
+*   Xbox apps and websites
 *   Xbox Cloud Gaming
 *   Xbox Game Pass
 *   Xbox Game Studios games, apps and websites
@@ -1195,6 +1196,7 @@ The following products, apps and services are covered by the Microsoft Services 
 *   Windows Live Mail
 *   Windows Live Writer
 *   Word Flow
+*   Xbox apps and websites
 *   Xbox Cloud Gaming
 *   Xbox Game Pass
 *   Xbox Game Studios games, apps and websites
