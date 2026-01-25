@@ -1369,7 +1369,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 These policies apply to pilot programs enabled to test Microsoft Advertising products or features. Advertisers participating in pilot programs must follow the existing [Microsoft Advertising policies](#apex/ads/en/60205/0), as well as the specific policies listed below.
 
