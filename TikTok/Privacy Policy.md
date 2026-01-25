@@ -2,6 +2,16 @@ U.S.
 
 Privacy Policy
 
+*   Information We Collect
+*   How We Use Your Information
+*   How We Share Your Information
+*   Your Rights and Choices
+*   Data Security and Retention
+*   Children and Teens
+*   Other Rights
+*   Privacy Policy Updates
+*   Contact Us
+
 _Last updated: January 22, 2026_
 
   
