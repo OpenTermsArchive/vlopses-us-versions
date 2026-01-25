@@ -1375,6 +1375,31 @@ These policies apply to pilot programs enabled to test Microsoft Advertising pro
 
 **Pilot programs are Microsoft Confidential. Any information that you may acquire, become aware of or otherwise learn as a part of your participation in these pilot programs may not be publicly divulged or communicated to external third parties.**
 
+Predictions Markets—United States
+---------------------------------
+
+*   Advertiser must be authorized by the Commodity Futures Trading Commission as a Designated Contract Market (DCM) whose primary business must be the listing of Exchange Listed Event Contracts; or Advertiser must be authorized as a Brokerage by the National Futures Association (NFA) to offer third-party access to products listed by a DCM that meets the criteria specified above.
+*   Prediction market ads must comply with all Microsoft Advertising policies, including the [Disallowed Content](#apex/ads/en/60208/0) and [Restricted Content](#apex/ads/en/60216/0) policies. Prediction market ads may not promote or monetize subject matter that Microsoft Advertising does not otherwise permit advertisers to promote, for example election outcomes, geopolitical conflicts, or natural disasters. In addition, prediction market advertisements must not promote or facilitate predictions about outcomes involving the death, serious harm, loss of liberty, or loss of fundamental rights of an identified or identifiable individual.
+*   Eligible advertisers must apply via the [Predictions Market Application](https://go.microsoft.com/fwlink?LinkId=2361413) to be considered.
+*   The following states are eligible for this pilot:
+    *   Alaska
+    *   California
+    *   Florida
+    *   Georgia
+    *   Kansas
+    *   Kentucky
+    *   Missouri
+    *   Nebraska
+    *   New Hampshire
+    *   New Jersey
+    *   New Mexico
+    *   Ohio
+    *   Oklahoma
+    *   Texas
+    *   Virginia
+    *   West Virginia
+    *   Wyoming
+
 Casinos, Sports Betting, Lotteries, and Fantasy Sports—Argentina
 ----------------------------------------------------------------
 
@@ -1503,30 +1528,6 @@ Country/region: Germany United Kingdom
 *   No bonuses or similar inducements. (e.g., sign-up offers, “refer-a-friend”) are allowed in CFD ads.
 
 Advertisers must be licensed by the [Financial Conduct Authority (FCA)](https://go.microsoft.com/fwlink?LinkId=2344585).
-
-Predictions Markets—United States
----------------------------------
-
-*   Advertiser must be authorized by the Commodity Futures Trading Commission as a Designated Contract Market (DCM) whose primary business must be the listing of Exchange-Listed Event Contracts; or Advertiser must be authorized as a Brokerage by the National Futures Association (NFA) to offer third-party access to products listed by a DCM that meets the criteria specified above.
-*   Eligible advertisers must apply via the [Predictions Market Application](https://go.microsoft.com/fwlink?LinkId=2361413) to be considered.
-*   The following states are eligible for this pilot:
-    *   Alaska
-    *   California
-    *   Florida
-    *   Georgia
-    *   Kansas
-    *   Kentucky
-    *   Missouri
-    *   Nebraska
-    *   New Hampshire
-    *   New Jersey
-    *   New Mexico
-    *   Ohio
-    *   Oklahoma
-    *   Texas
-    *   Virginia
-    *   West Virginia
-    *   Wyoming
 
 - - -
 
