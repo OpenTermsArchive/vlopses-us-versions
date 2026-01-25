@@ -1543,6 +1543,11 @@ Country/region: Germany United Kingdom
 
 Advertisers must be licensed by the [Financial Conduct Authority (FCA)](https://go.microsoft.com/fwlink?LinkId=2344585).
 
+Cryptocurrency and related products—Audience Ads
+------------------------------------------------
+
+Audience Ads for cryptocurrency exchanges are now allowed in all markets where Microsoft accepts cryptocurrency advertising. Advertisers must comply with all applicable Cryptocurrency and Related Products policies [Cryptocurrency Advertising Program Participation Form](https://go.microsoft.com/fwlink?LinkId=2262333).
+
 - - -
 
 Microsoft – Terms of Use
