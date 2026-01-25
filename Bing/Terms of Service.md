@@ -1504,6 +1504,30 @@ Country/region: Germany United Kingdom
 
 Advertisers must be licensed by the [Financial Conduct Authority (FCA)](https://go.microsoft.com/fwlink?LinkId=2344585).
 
+Predictions Markets—United States
+---------------------------------
+
+*   Advertiser must be authorized by the Commodity Futures Trading Commission as a Designated Contract Market (DCM) whose primary business must be the listing of Exchange-Listed Event Contracts; or Advertiser must be authorized as a Brokerage by the National Futures Association (NFA) to offer third-party access to products listed by a DCM that meets the criteria specified above.
+*   Eligible advertisers must apply via the [Predictions Market Application](https://go.microsoft.com/fwlink?LinkId=2361413) to be considered.
+*   The following states are eligible for this pilot:
+    *   Alaska
+    *   California
+    *   Florida
+    *   Georgia
+    *   Kansas
+    *   Kentucky
+    *   Missouri
+    *   Nebraska
+    *   New Hampshire
+    *   New Jersey
+    *   New Mexico
+    *   Ohio
+    *   Oklahoma
+    *   Texas
+    *   Virginia
+    *   West Virginia
+    *   Wyoming
+
 - - -
 
 Microsoft – Terms of Use
