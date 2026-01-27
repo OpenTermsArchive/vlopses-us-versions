@@ -5266,7 +5266,7 @@ Certain locations, industries, and trade associations have their own codes for a
 
 This isn’t an exhaustive explanation of local legal requirements in each location. You’re still responsible for researching and complying with local laws where your business operates, and in any location your ads target.
 
-In some limited circumstances, violations of local law may be considered egregious and result in [account suspension](https://support.google.com/google-ads/answer/9841640). If this happens, all ads in the suspended account will stop running, and you may not be able to advertise using Google Ads again. Any related accounts may also be permanently suspended and your new accounts may be automatically suspended at setup. Learn more about [What happens if you violate our policies](https://support.google.com/google-ads/answer/9841640).
+In some limited circumstances, violations of local law may be considered egregious and result in [account suspension](https://support.google.com/google-ads/answer/9841640). If this happens, all ads in the suspended account will stop running, and you may not be able to advertise using Google Ads or Display & Video 360 again. Any related accounts may also be permanently suspended and your new accounts may be automatically suspended at setup. Learn more about [What happens if you violate our policies](https://support.google.com/google-ads/answer/9841640).
 
 For Display & Video 360 ad disapprovals, learn more about how to [Find and fix rejected creatives](https://support.google.com/displayvideo/answer/12726387). You can also [Appeal a Display & Video 360 account suspension](https://support.google.com/displayvideo/answer/13007800).
 
@@ -5285,11 +5285,11 @@ Trade sanctions violation
 
 > You’re required to comply with applicable sanctions and export regulations, including sanctions administered by the [Office of Foreign Assets Control](https://www.treasury.gov/resource-center/sanctions/Pages/default.aspx) (OFAC), and agree to not cause Google to violate these regulations.
 > 
-> > Using Google Ads for or on behalf of restricted entities or individuals is not allowed.
+> > Using Google Ads or Display & Video 360 for or on behalf of restricted entities or individuals is not allowed.
 > > 
-> > Using Google Ads for or on behalf of entities or individuals located in sanctioned countries or regions is not allowed.
+> > Using Google Ads or Display & Video 360 for or on behalf of entities or individuals located in sanctioned countries or regions is not allowed.
 > 
-> Google Ads isn't available to any entities or individuals that are restricted under applicable trade sanctions and export compliance laws. It's also not available to entities or individuals owned by, controlled by or acting for or on behalf of restricted entities or individuals.
+> Google Ads and Display & Video 360 aren't available to any entities or individuals that are restricted under applicable trade sanctions and export compliance laws. It's also not available to entities or individuals owned by, controlled by or acting for or on behalf of restricted entities or individuals.
 > 
 > > Ad campaigns that geographically target embargoed countries or territories are not allowed.
 > > 
@@ -5297,7 +5297,9 @@ Trade sanctions violation
 > > 
 > > Ad campaigns that are run by or on behalf of entities or individuals that are restricted under applicable trade sanctions and regulations are not allowed.
 > 
-> Google must comply with sanctions imposed by OFAC. Entities and individuals who are restricted cannot create or use a Google Ads account or have Google Ads used on their behalf. People who are located in or ordinarily reside in [embargoed countries or territories](https://support.google.com/google-ads/answer/6163740) cannot create or use a Google Ads account. Currently, there are embargoes on Crimea, Cuba, so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR), Iran, and North Korea.
+> Google must comply with sanctions imposed by OFAC. Entities and individuals who are restricted cannot create or use a Google Ads or Display & Video 360 account or have Google Ads or Display & Video 360 used on their behalf. People who are located in or ordinarily reside in [embargoed countries or territories](https://support.google.com/google-ads/answer/6163740) cannot create or use a Google Ads or Display & Video 360 account. Currently, there are embargoes on Crimea, Cuba, so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR), Iran, and North Korea.
+
+For Display & Video 360 ad disapprovals, learn more about how to [Find and fix rejected creatives](https://support.google.com/displayvideo/answer/12726387). You can also [Appeal a Display & Video 360 account suspension](https://support.google.com/displayvideo/answer/13007800).
 
 Learn how to [fix a suspended account](https://support.google.com/adwordspolicy/answer/6381844).
 
