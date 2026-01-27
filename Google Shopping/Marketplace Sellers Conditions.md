@@ -5260,8 +5260,6 @@ Legal requirements
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
-Display & Video 360 users must comply with this Google Ads policy. Visit the [Display & Video 360 help center](https://support.google.com/displayvideo/answer/6027406) for additional restrictions.
-
 You're required to comply with the local laws and regulations of any area your ads target, in addition to Google Ads policies. You're expected to familiarize yourself with the local laws and regulations for any location your ads target.
 
 Certain locations, industries, and trade associations have their own codes for advertising and marketing. You can refer to this [List of advertising codes](https://support.google.com/adspolicy/answer/11108174) for some of the codes that may apply.
@@ -5269,6 +5267,8 @@ Certain locations, industries, and trade associations have their own codes for a
 This isn’t an exhaustive explanation of local legal requirements in each location. You’re still responsible for researching and complying with local laws where your business operates, and in any location your ads target.
 
 In some limited circumstances, violations of local law may be considered egregious and result in [account suspension](https://support.google.com/google-ads/answer/9841640). If this happens, all ads in the suspended account will stop running, and you may not be able to advertise using Google Ads again. Any related accounts may also be permanently suspended and your new accounts may be automatically suspended at setup. Learn more about [What happens if you violate our policies](https://support.google.com/google-ads/answer/9841640).
+
+For Display & Video 360 ad disapprovals, learn more about how to [Find and fix rejected creatives](https://support.google.com/displayvideo/answer/12726387). You can also [Appeal a Display & Video 360 account suspension](https://support.google.com/displayvideo/answer/13007800).
 
 * * *
 
