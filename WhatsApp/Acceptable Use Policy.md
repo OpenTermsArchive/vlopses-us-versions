@@ -52,6 +52,16 @@ We may take additional actions as reflected in the WhatsApp Terms of Service.
 WhatsApp Business Messaging Policy
 ==================================
 
+#### Table of Contents
+
+[Overview](#overview)[Best Practices](#best_practices)[Steps to Take if Your Account is Suspended or Terminated](#steps_to_take_if_your_account_is_suspended_or_terminated)[Policy for WhatsApp Commerce Features (including offering goods or services for sale)](#policies_for_whatsapp_commerce_features)[Policy on Government and Political Use](#policy_on_government_and_political_use)
+
+#### Table of Contents
+
+Jump To
+
+[Overview](#overview)[Best Practices](#best_practices)[Steps to Take if Your Account is Suspended or Terminated](#steps_to_take_if_your_account_is_suspended_or_terminated)[Policy for WhatsApp Commerce Features (including offering goods or services for sale)](#policies_for_whatsapp_commerce_features)[Policy on Government and Political Use](#policy_on_government_and_political_use)
+
 ### \_\_\_\_
 
 Overview
