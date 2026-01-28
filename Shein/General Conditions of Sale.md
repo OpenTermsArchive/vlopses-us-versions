@@ -18,25 +18,25 @@ Table of Contents
 
 Non-Returnable Items
 
-| Non-Returnable Items |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.webp) Non-Returnable Items |
 | --- |
 | • **Bodysuits, lingerie, underwear, jewelry, accessories, cosmetics, pet products, clearance items and any other final sale items** for which return is noted as not being supported on the product page.<br><br>• **Free gifts.**<br><br>• **Customized items.** In addition, order cancellation for customized items is not supported. |
 
 Return Requirements for Return-Eligible Items
 
-| All Clothing Items, Including Wedding Dresses, Suits, and other Formal Attire |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.webp) All Clothing Items, Including Wedding Dresses, Suits, and other Formal Attire |
 | --- |
 | Items must be returned in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached and the hygiene sticker (if applicable) intact. |
-| Human Hair Wigs |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/3c/1725956467f0c8518ef0253e32db91f0d68ed2f87c.webp) Human Hair Wigs |
 | --- |
 | Items must be returned in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached. Specifically, items will be inspected for evidence of washing, bleaching, cutting, or other alteration or damage. |
-| Shoes, Bags & Luggage |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/ed/172595647281aa2a5ec981edf3c67197398083c04d.webp) Shoes, Bags & Luggage |
 | --- |
 | Items must be returned in new, unworn, undamaged condition with the original branded boxes and all accessories (e.g., shoe-buckles, shoelaces, and dust bags). Shoes must have been tried only on a soft, clean surface. |
-| Furniture |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/fc/17259564768c7c3234fa11d3c8182c71cc36e81cae.webp) Furniture |
 | --- |
 | Items must be returned in new, unused, and undamaged condition, and in the original packaging (including all accessories, manuals, and parts included). |
-| Electronics |
+| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/03/1725956480f6d1d191fd8c6feb165fe14f21f058c7.webp) Electronics |
 | --- |
 | • Cell phones, laptops, tablets, projectors, 3D printers, earphones, smart watches, gaming consoles (such as PlayStation and Switch consoles), and other electronics must be returned in new, unused, inactivated condition, in their original packaging.<br><br>  <br><br>• If these items arrived to you damaged, or did not start upon arrival, or malfunctioned within 30 days after the delivery date, not due to your misuse or other action, please contact us immediately and return the item, postmarked within 30 days after the delivery date, in its original packaging and with all manuals and parts included. We will inspect and test it upon arrival at our warehouse. If our testing determines that the product was damaged, did not start, or malfunctioned, through customer misuse, tampering or other customer action, or if the returned product is missing parts, manuals, or the original packaging, then the return will be rejected. If you need to claim a manufacturer’s warranty, we can help you contact the manufacturer.<br><br>  <br><br>• Note: If you have saved any personal information on an electronics item that you intend to return, first erase this information completely by following manufacturer instructions before returning the items to us. |
 | All Other Categories |
