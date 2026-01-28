@@ -153,6 +153,8 @@ These apps must:
 
 Learn more here about these requirements and how to comply in our [Help Center](https://support.google.com/googleplay/android-developer/answer/14747720) article.
 
+Choose a section to give feedback on
+
 - - -
 
 Inappropriate Content
@@ -266,6 +268,8 @@ Additional Information
 *   We may allow the limited sale of tobacco products in food/grocery delivery apps, in certain regions, and subject to age-gating safeguards (such as ID check at delivery).
 *   We may allow the sale of products marketed as nicotine cessation aids subject to age-gating safeguards.
 
+Choose a section to give feedback on
+
 - - -
 
 Google Play's Target API Level Policy
@@ -297,6 +301,8 @@ For exact timelines and exceptions, please refer to this [Help Center article](h
 | Target an Android API level within one year of the latest major Android release if you are submitting a new app or app update to Google Play. | Don't ignore target API level requirements; non-compliance blocks new apps and app updates submission to Google Play and discoverability for new users with devices targeting newer Android versions, if the app is existing on Google Play. |
 | Ensure your existing app targets an Android API level within 2 years of the latest major Android release to stay discoverable to users on newer Android OS versions. | Don't delay updating your app's target API level; Start the migration process at least 3 months before the deadline to give yourself enough time to test for and address any compatibility issues. |
 | Request target API level extensions through Play Console. |     |
+
+Choose a section to give feedback on
 
 - - -
 
@@ -408,6 +414,8 @@ Personal loan apps targeting the listed countries must comply with additional re
 Examples of common violations
 
 ![](//lh3.googleusercontent.com/URFEoDBYeyZBpF7w8DWhe6BdvNm53j4U_-Wm0hq-ZmuttArlO_9u9tKBf3VT-CA8eSk=w600-h1100)
+
+Choose a section to give feedback on
 
 - - -
 
@@ -521,6 +529,8 @@ We only allow daily fantasy sports (DFS) apps, as defined by applicable local la
 *   App must prevent use from US States or US territories in which the developer does not hold a license required for daily fantasy sports apps; and
 *   App must prevent use from US States or US territories where daily fantasy sports apps are not legal.
 
+Choose a section to give feedback on
+
 - - -
 
 Illegal Activities
@@ -533,6 +543,8 @@ Examples of common violations
 *   Facilitating the sale or purchase of illegal drugs.
 *   Depicting or encouraging the use or sale of drugs, alcohol, or tobacco by minors.
 *   Instructions for growing or manufacturing illegal drugs.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -570,6 +582,8 @@ Examples of common violations
 *   Apps with user generated content (UGC) that lack sufficient safeguards against threats, harassment, or bullying, particularly toward minors.
 *   Posts, comments, or photos within an app that are primarily intended to harass or single out another person for abuse, malicious attack, or ridicule.
 *   Apps that continually fail to address user complaints about objectionable content.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -619,6 +633,8 @@ Examples of violations
 *   Apps that sell bundles of NFTs without disclosing the specific contents and values of the NFTs.
 *   Pay-to-play social casino games, such as slot machines, that reward NFTs.
 
+Choose a section to give feedback on
+
 - - -
 
 AI-Generated Content
@@ -638,6 +654,8 @@ To ensure user safety and in accordance with Google Play’s [Policy Coverage](h
 For resources on industry best practices in safeguarding generative AI apps, please see our [Help Center](https://support.google.com/googleplay/android-developer/answer/16353813) article.
 
 Apps that generate content using AI must contain in-app user reporting or flagging features that allow users to report or flag offensive content to developers without needing to exit the app. Developers should utilize user reports to inform content filtering and moderation in their apps.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -688,6 +706,8 @@ Examples of violations
 
 *   Apps that sell bundles of NFTs without disclosing the specific contents and values of the NFTs.
 *   Pay-to-play social casino games, such as slot machines, that reward NFTs.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -862,6 +882,8 @@ Learn more about this policy in our [Help Center](https://support.google.com/goo
 | Avoid proxying APIs. Do not function as a proxy by intercepting or calling APIs outside the container. | Don't make it appear that apps are running in a secure environment when they are not. |
 | Review the policy requirements for [on-device Android containers](https://support.google.com/googleplay/android-developer/answer/13609005). |     |
 
+Choose a section to give feedback on
+
 - - -
 
 Misrepresentation
@@ -890,6 +912,8 @@ We do not allow apps or developer accounts that:
 | Ensure your app's title, icon, and description honestly represent its functionality and purpose. | Don't hide or misrepresent your identity or who owns the app. |
 | Be truthful about your country of origin and location in your developer profile. | Don't falsify your country of origin to target users in another country. |
 | If your app relates to politics, social issues, or public concerns, be **extra transparent** about who you are and any affiliations you may have. | Don't coordinate with other developers, apps, or websites to hide your identity or mislead users, especially about political or social content. |
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1069,6 +1093,8 @@ An application that utilizes a variety of evasion techniques in order to serve t
 
 Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
+Choose a section to give feedback on
+
 - - -
 
 Impersonation
@@ -1103,6 +1129,8 @@ Examples of common violations
 *   Apps that violate the [Android Brand Guidelines](https://developer.android.com/distribute/tools/promote/brand.html).
 
 For frequently asked questions about the Impersonation policy, see this [Help Center](https://support.google.com/googleplay/android-developer/answer/16341334) article.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1165,6 +1193,8 @@ Example violations:
 *   Disruptive ads
 *   Unauthorized Use or Imitation of System Functionality
 
+Choose a section to give feedback on
+
 - - -
 
 Hostile Downloaders
@@ -1184,6 +1214,8 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 *   They don't drive downloads without user interaction; and
 *   All software downloads are initiated by consenting users.
 
+Choose a section to give feedback on
+
 - - -
 
 Ad Fraud
@@ -1200,6 +1232,8 @@ Examples of common violations
 *   An app sending fake installation attribution clicks to get paid for installations that did not originate from the sender’s network.
 *   An app that pops up ads when the user is not within the app interface.
 *   False representations of the ad inventory by an app, for example, an app that communicates to ad networks that it is running on an iOS device when it is in fact running on an Android device; an app that misrepresents the package name that is being monetized.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1222,12 +1256,16 @@ Examples of common violations
 
 For additional examples involving ads, please refer to the [Ads policy](https://support.google.com/googleplay/android-developer/answer/9857753).
 
+Choose a section to give feedback on
+
 - - -
 
 Social Engineering
 ==================
 
 We do not allow apps that pretend to be another app with the intention of deceiving users into performing actions that the user intended for the original trusted app.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1397,6 +1435,8 @@ Google Play Services version 4.0 introduced new APIs and an ID for use by advert
 
 For more information, refer to our [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en&ref_topic=9877467&sjid=6999504764305276050-NA).
 
+Choose a section to give feedback on
+
 - - -
 
 App Promotion
@@ -1414,6 +1454,8 @@ Examples of common violations
 *   Text or image in the app title, icon, or developer name that indicate store performance or ranking, price or promotional information, or that suggests relations to existing Google Play programs.
 
 It is your responsibility to ensure that any ad networks, affiliates, or ads associated with your app comply with these policies.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1471,6 +1513,8 @@ Examples of common violations
 *   Keep your app’s description succinct and straightforward. Shorter descriptions tend to result in a better user experience, especially on devices with smaller displays. Excessive length, detail, improper formatting, or repetition can result in a violation of this policy.
 *   Remember that your listing should be suitable for a general audience. Avoid using inappropriate text, images or videos in your listing and adhere to the guidelines above.
 
+Choose a section to give feedback on
+
 - - -
 
 User Ratings, Reviews, and Installs
@@ -1501,6 +1545,8 @@ Examples of common violations in ratings and reviews
      
 *   Include references to helpful resources such as a support address or FAQ page.
 
+Choose a section to give feedback on
+
 - - -
 
 News & Magazines
@@ -1523,6 +1569,8 @@ In addition, News & Magazine apps must:
 *   Provide users with clear information about the publishing sources of third-party content (such as when provided by news & magazine aggregators apps). 
 *   Provide users with an in-app content preview prior to purchase (if membership or subscription is required).
 *   Not have affiliate marketing or ad revenue as its primary purpose.
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1566,6 +1614,9 @@ Examples of common violations
 *   Creating multiple apps with highly similar functionality, content, and user experience. If these apps are each small in content volume, developers should consider creating a single app that aggregates all the content.
     
     ![](//lh3.googleusercontent.com/6viGjA--lsmMb74UZL8pAO9YY34hHWCDtxkfQAHlK_pbBAmLd9kq8P39lckZh2ayv8LY=w895)
+    
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1597,6 +1648,8 @@ Examples of common violations
 *   Apps that don’t install
 *   Apps that install, but don’t load ![](//lh3.googleusercontent.com/8Stc92Uebx_6XLNG0-cE6IlFertNFab0nNjhdKrihRS3teDiGk1ePWnAcC5w6W_qIg=h839)
 *   Apps that load, but are not responsive ![](//lh3.googleusercontent.com/VG3exQhozTq3qrIuen3HBMeLGDWBtedEkseEgSlyBMVtuYGJQ-OD3gruKvXogAozuDA=h839)
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1741,6 +1794,8 @@ If you use AdMob, refer to the [AdMob Help Center](https://support.google.com/a
 
 It is your responsibility to ensure your app satisfies all requirements concerning advertisements, in-app purchases, and commercial content. Contact your ads SDK provider(s) to learn more about their content policies and advertising practices.
 
+Choose a section to give feedback on
+
 - - -
 
 Policy Coverage
@@ -1776,7 +1831,9 @@ You can choose to disable some of these protections in your device settings. But
 
 #### How Privacy alerts work
 
-Google Play Protect will alert you if an app is removed from the Google Play Store because the app may access your personal information and you’ll have an option to uninstall the app.
+Google Play Protect will alert you if an app is removed from the Google Play Store because the app may access your personal information and you’ll have an option to uninstall the app. 
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1864,7 +1921,9 @@ Google Play Developer Accounts are intended for active developers who publish an
 
 [Dormant account closure](https://support.google.com/googleplay/android-developer/answer/11605267) will result in your account being closed. Any reports, statistics, insights, or other information within Play Console will no longer be available to you unless your dormant account is reinstated. Your registration fee is not refundable and will be forfeited. Before we close your dormant account, we will notify you using the contact information that you provided for that account.
 
-Closure of a dormant account will not limit your ability to create a new account in the future if you decide to publish on Google Play.
+Closure of a dormant account will not limit your ability to create a new account in the future if you decide to publish on Google Play. 
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1886,6 +1945,8 @@ If you need more information regarding an enforcement action or a rating/comment
 *   [Report inappropriate apps & comments](https://support.google.com/googleplay/android-developer/answer/113417)
 *   [My app has been removed from Google Play](https://support.google.com/googleplay/android-developer/answer/2477981)
 *   [Understanding Google Play developer account terminations](https://support.google.com/googleplay/android-developer/answer/2491922)
+
+Choose a section to give feedback on
 
 - - -
 
@@ -1981,6 +2042,8 @@ Developers can pay to be displayed in clearly marked sections of Google Play thr
 
 We want to ensure users have a positive experience when navigating Google Play and can discover the apps they want, as well as new and undiscovered titles, and useful information about those apps.  We therefore consider the user experience when designing all aspects of Google Play, for example, how we group apps, where and how many ads to show in results, and the formats we use to present apps to users. The more helpful and engaging the user experience is on Google Play, the more often users will return to discover and install new apps.
 
+Choose a section to give feedback on
+
 - - -
 
 Availability of Features and Services
@@ -2002,3 +2065,5 @@ For example, in limited cases, some Google apps may have access to information n
 *   Lastly, some Google apps may have access to Google Play features that differ from what is available to other developers due to a variety of business considerations and security concerns. For example, in a few limited instances, some features of Google Play’s billing system are only available to a small number of Google apps. Movies and TV content as well as books sold on Google Play and in the Google Play Movies & TV and Google Play Books apps, for instance, can be pre-ordered, but such capability is not available to all developers due to scalability challenges. Google Stadia subscriptions can be billed to a family form of payment in the Google Stadia app, but since the definition of a family/group may differ from app to app, this capability has not been extended to other developers. Further, Google streamlines the distribution and updates of Google Play Services for AR and certain payments libraries when users install apps whose features may depend on this software.  User trust concerns limit our ability to make such capability widely available. Finally, Google Play allows some Google apps to access new unreleased Google software or test their apps with Google employees in ways that are not available for third party apps because of security concerns or commercial sensitivities.  
 
 In all instances, Google listens and works hard to ensure that all developers have the tools and capabilities they need to successfully grow their businesses.
+
+Choose a section to give feedback on
