@@ -7,10 +7,6 @@ Last Updated: December 2025
 
 ### Microsoft Privacy Statement
 
-Microsoft Privacy Statement
-
-Personal data we collect
-
 *   [Personal data we collect](#mainpersonaldatawecollectmodule)
 *   [How we use personal data](#mainhowweusepersonaldatamodule)
 *   [Reasons we share personal data](#mainreasonswesharepersonaldatamodule)
