@@ -1,6 +1,8 @@
 Terms of Use
 ============
 
+Copy link
+
 Welcome to Instagram!  
   
 These Terms of Use (or “Terms”) govern your access and use of Instagram, except where we expressly state that separate terms (and not these) apply, and provide information about the Instagram Service (the “Service”), outlined below. The Meta Terms of Service do not apply to this Service.  
