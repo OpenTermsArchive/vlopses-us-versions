@@ -365,6 +365,8 @@ While these policies are more commonly at issue, it is important to remember tha
 
 To learn more, please visit our [Help Center](https://support.google.com/googleplay/android-developer/answer/13326895).
 
+Choose a section to give feedback on
+
 - - -
 
 Malware
@@ -543,6 +545,8 @@ An application that utilizes a variety of evasion techniques in order to serve t
 
 Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
 
+Choose a section to give feedback on
+
 - - -
 
 Google Play's Target API Level Policy
@@ -574,6 +578,8 @@ For exact timelines and exceptions, please refer to this [Help Center article](h
 | Target an Android API level within one year of the latest major Android release if you are submitting a new app or app update to Google Play. | Don't ignore target API level requirements; non-compliance blocks new apps and app updates submission to Google Play and discoverability for new users with devices targeting newer Android versions, if the app is existing on Google Play. |
 | Ensure your existing app targets an Android API level within 2 years of the latest major Android release to stay discoverable to users on newer Android OS versions. | Don't delay updating your app's target API level; Start the migration process at least 3 months before the deadline to give yourself enough time to test for and address any compatibility issues. |
 | Request target API level extensions through Play Console. |     |
+
+Choose a section to give feedback on
 
 - - -
 
@@ -715,6 +721,8 @@ While these policies are more commonly at issue, it is important to remember tha
 
 To learn more, please visit our [Help Center](https://support.google.com/googleplay/android-developer/answer/13326895).
 
+Choose a section to give feedback on
+
 - - -
 
 Families Self-Certified Ads SDK Policy
@@ -775,6 +783,8 @@ It is your responsibility to ensure that your SDK or mediation platform is compl
 
 Please refer to the [Families Self-Certified Ads SDK Program](https://support.google.com/googleplay/android-developer/answer/9900633/) page for more details on Program requirements.
 
+Choose a section to give feedback on
+
 - - -
 
 Play Console Requirements
@@ -812,6 +822,8 @@ As always, you should make sure that your app provides a stable, engaging, respo
 
 Remember, it is your responsibility to review the [Developer Distribution Agreement](https://play.google.com/intl/en_us/about/developer-distribution-agreement.html) and all [Developer Program Policies](https://play.google.com/about/developer-content-policy/#!?modal_active=none) to ensure that your app fully complies.
 
+Choose a section to give feedback on
+
 - - -
 
 Data Access
@@ -844,6 +856,8 @@ We are continuously working to ensure developers have the information they need 
 ### **Data Request**
 
 To make a request for data that you do not believe is already available via Play Console or other tools, please use this [form](https://support.google.com/googleplay/android-developer/contact/general_contact).
+
+Choose a section to give feedback on
 
 - - -
 
@@ -3612,3 +3626,5 @@ Remember, it is your responsibility to review the [Developer Distribution Agreem
 * * *
 
 [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html)
+
+Choose a section to give feedback on
