@@ -134,16 +134,6 @@ Permissions and APIs that Access Sensitive Information
 
 _**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-To help ensure user safety and transparency, we are updating our [Accessibility API](https://support.google.com/googleplay/android-developer/answer/16324062#accessibility) policy to clarify and reinforce our existing rules that any use of this API that enables an app to autonomously initiate, plan, and execute actions is prohibited. Such behavior can change user settings without permission, circumvent Android’s privacy controls, and leverage the user interface in a deceptive manner by executing actions without the user’s knowledge or consent.
-
-(effective January 28, 2026)
-
-To preview the updated “Permissions and APIs that Access Sensitive Information” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16585319).
-
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
 To promote user trust, Google Play mandates that requesting permissions and APIs that access sensitive user data must be necessary for the app's core functionalities as promoted in your Google Play listing and limited to user consented purposes.  Sensitive data must never be misused, under-disclosed, or accessed unnecessarily. Request permissions and sensitive APIs incrementally, explaining each level. Use data only as consented to, and obtain new consent for other purposes. Please review the full policy to ensure compliance.
@@ -365,10 +355,13 @@ Google Play permits the use of the AccessibilityService API across a wide range 
 The Accessibility API cannot be used to:
 
 *   Change user settings without their permission or prevent the ability for users to disable or uninstall any app or service unless authorized by a parent or guardian through a parental control app or by authorized administrators through enterprise management software; 
-*   Work around Android built-in privacy controls and notifications; or
+*   Work around Android built-in platform security controls, privacy controls and notifications; or
 *   Change or leverage the user interface in a way that is deceptive or otherwise violates Google Play Developer Policies. 
 
-The Accessibility API is not designed and cannot be requested for remote call audio recording. 
+The Accessibility API is not designed and cannot be requested for:
+
+*   remote call audio recording
+*   an app that autonomously initiates, plans, and executes actions or decisions
 
 The use of the Accessibility API must be documented in the Google Play listing.
 
@@ -376,9 +369,11 @@ The use of the Accessibility API must be documented in the Google Play listing.
 
 Apps with a core functionality intended to directly support people with disabilities are eligible to use the **IsAccessibilityTool** to appropriately publicly designate themselves as an accessibility app.
 
-Apps not eligible for **IsAccessibilityTool** may not use the flag and must meet prominent disclosure and consent requirements as outlined in the [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en&ref_topic=9877467) as the accessibility related functionality is not obvious to the user. Please refer to the [AccessibilityService API](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) help center article for more information.
+Apps not eligible for **IsAccessibilityTool** may not use the flag and must meet prominent disclosure and consent requirements as outlined in the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en&ref_topic=9877467) policy as the accessibility related functionality is not obvious to the user. 
 
 Apps must use more narrowly scoped [APIs and permissions](https://developer.android.com/privacy/best-practices#permissions) in lieu of the Accessibility API when possible to achieve the desired functionality. 
+
+Please refer to the [AccessibilityService API](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) help center article for more information regarding prohibited use cases and guidance for using IsAccessibilityTool.
 
 ![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
 
