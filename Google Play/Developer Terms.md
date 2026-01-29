@@ -864,7 +864,7 @@ Choose a section to give feedback on
 Developer Program Policy
 ========================
 
-_(effective January 1, 2026, unless otherwise stated)_
+_(effective January 28, 2026, unless otherwise stated)_
 
 * * *
 
@@ -1026,6 +1026,15 @@ We don't allow apps that facilitate the sale of tobacco or products containing n
 
 * * *
 
+### Age-Restricted Content and Functionality
+
+To help ensure the safety of children and prevent access to potentially harmful content, apps meeting the descriptions below are required to use the [Play Console functionality and tools to block minors](https://support.google.com/googleplay/android-developer/answer/9867159):
+
+1.  Apps that facilitate [Real Money Gambling, Games, and Contests](https://support.google.com/googleplay/android-developer/answer/9877032).
+2.  Apps that facilitate [matchmaking or dating](https://support.google.com/googleplay/android-developer/answer/16838200).
+
+* * *
+
 ### **Financial Services**
 
 We don't allow apps that expose users to deceptive or harmful financial products and services.
@@ -1096,7 +1105,7 @@ This policy applies to apps which offer loans directly, lead generators, and tho
 Personal loan apps targeting the listed countries must comply with additional requirements and provide supplementary documentation as part of the Financial features declaration within [Play Console](https://play.google.com/console/app/app-content/finance-declaration). Apps that provide EWA loans are subject to these requirements to the extent applicable in the relevant jurisdictions. You must, upon Google Play's request, provide additional information or documents relating to your compliance with the applicable regulatory and licensing requirements.
 
 1.  **India**
-    *   If you are licensed by the Reserve Bank of India (RBI) to provide personal loans, you must submit a copy of your license for our review.
+    *   Only apps that submit a license and are on the “Digital lending apps (DLAs) deployed by Regulated Entities” list of the Reserve Bank of India (RBI) may submit personal loan apps to Google Play for review (see this [Help Center article](https://support.google.com/googleplay/android-developer/answer/16604194) for guidance).
     *   If you are not directly engaged in money lending activities and are only providing a platform to facilitate money lending by registered Non-Banking Financial Companies (NBFCs) or banks to users, you will need to accurately reflect this in the declaration.
         *   In addition, the names of all registered NBFCs and banks must be prominently disclosed in your app’s description.
 2.  **Indonesia**
@@ -1119,6 +1128,12 @@ Personal loan apps targeting the listed countries must comply with additional re
     *   Personal loan apps targeting Thailand, with interest rates at or above 15%, must obtain a valid license from the Bank of Thailand (BoT) or the Ministry of Finance (MoF). Developers must provide documentation that proves their ability to provide or facilitate personal loans in Thailand. This documentation should include:
         *   A copy of their license issued by the Bank of Thailand to operate as a personal loan provider or nano finance organization.
         *   A copy of their Pico-finance business license issued by the Ministry of Finance to operate as a Pico or Pico-plus lender.
+    *   All personal loan apps targeting Thailand must display the following details in the Google Play listing:
+        *   The name of the loan service provider(s) licensed by the Bank of Thailand (BoT) or the Fiscal Policy Office (FPO). 
+        *   Legal entity name for the developer.
+        *   Maximum interest rates and all fees.
+    *   In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
+        *   The statement “This is a non-regulated loan provider under the BoT/FPO”.
 
 **Here is an example of a common violation:**
 
@@ -1293,20 +1308,20 @@ If your app contains or promotes health content and services, you must ensure yo
 
 #### **Health and Medical Apps**
 
-If your app offers health-related features or information as part of its functionality, or accesses health data to support non-health features, it must comply with the existing Google Play Developer Policies, including [Privacy, Deception and Device Abuse](https://support.google.com/googleplay/android-developer/topic/9877467?sjid=4099002138806266388-AP), in addition to the below requirements:
+If your app offers health-related features or information as part of its functionality, or accesses health data to support non-health features, it must comply with the existing Google Play Developer Policies, including [Privacy, Deception and Device Abuse](https://support.google.com/googleplay/android-developer/topic/9877467.sjid=4099002138806266388-AP), in addition to the below requirements:
 
 *   **Console Declaration:**
-    *   All developers must complete the Health apps declaration form on the App content page (Policy > App content) in Play Console. Learn more about providing information for the [Health apps declaration form.](https://support.google.com/googleplay/android-developer/answer/14738291?hl=en&sjid=10375825365799251391-AP)
+    *   All developers must complete the Health apps declaration form on the App content page (Monitor & Improve >Policy > App content) in Play Console. Learn more about [providing information for the Health apps declaration form](https://support.google.com/googleplay/android-developer/answer/14738291#medical_device_apps).
 *   **Privacy Policy and Prominent Disclosure Requirements:**
     *   Your app must post a privacy policy link in the designated field within Play Console, and a privacy policy link or text within the app itself. Please make sure your privacy policy is available on an active, publicly accessible and non-geofenced URL (no PDFs) and is non-editable (as per the [Data safety section](https://support.google.com/googleplay/android-developer/answer/10144311#safetysection)).
     *   Your app’s privacy policy must, together with any in-app disclosures, comprehensively disclose the access, collection, use, and sharing of [personal or sensitive user data](https://support.google.com/googleplay/android-developer/answer/10144311), not limited by the data disclosed in the Data safety section above. For any functionality or data regulated by [dangerous or runtime permissions](https://developer.android.com/guide/topics/permissions/overview#dangerous-permission-prompt), the app must fulfill all applicable [prominent disclosure and consent requirements](https://support.google.com/googleplay/android-developer/answer/10144311).
-    *   Permissions that are not required for a health app to perform its core functionality should not be requested and unused permissions must be removed. For the list of permissions that are considered in scope of health related sensitive data, see [What permissions are in scope of the health apps policy?](https://support.google.com/googleplay/android-developer/answer/13996367#zippy=%2Cwhat-permissions-are-in-scope-of-the-health-apps-policy:~:text=What%20permissions%20are%20in%20scope%20of%20the%20health%20apps%20policy%3F)
+    *   Permissions that are not required for a health app to perform its core functionality should not be requested and unused permissions must be removed. For the list of permissions that are considered in scope of health related sensitive data, see [What permissions are in scope of the health apps policy.](https://support.google.com/googleplay/android-developer/answer/13996367#zippy=%2Cwhat-permissions-are-in-scope-of-the-health-apps-policy:~:text=What%20permissions%20are%20in%20scope%20of%20the%20health%20apps%20policy%3F)
     *   If your app is not primarily a health app, but has health-related features and accesses health data, it is still in scope of the Health App policy. It should be clear to the user the connection between the app’s core functionality and the collection of health related data (for example, insurance providers, games apps that collect a user’s activity data as a way to advance game play etc.). The app’s privacy policy must reflect this limited use.
 *   **Health and Medical Functionalities:**
     *   We don’t allow apps with health and medical related functionalities that are misleading or potentially harmful. 
-    *   Apps that connect to external hardware or devices (for example, blood glucose monitors) to perform their medical function, must clearly disclose these external hardware requirements in the app description. The app must not imply that it can function independently of the required external hardware.
-    *   Apps that use device sensors (for example, camera) for health functions must clearly state device compatibility information in the app description. For example, apps with oximetry functionality using only device sensors must properly disclose which device models can support the functionality.
-    *   Apps that have received regulatory clearance or approval as a medical device must provide proof of such approval upon request. Apps that are not regulated and approved by a relevant health authority must include a clear disclaimer indicating that the app is not a medical device and does not diagnose, treat, cure, or prevent any medical condition.
+    *   Apps that connect to external hardware or devices (e.g., blood glucose monitors) to perform their medical function, must clearly disclose these external hardware requirements in the app description. The app must not imply that it can function independently of the required external hardware.
+    *   Apps that use device sensors (e.g., camera) for health functions must clearly state device compatibility information in the app description. For example, apps with oximetry functionality using only device sensors must properly disclose which device models can support the functionality.
+    *   Apps that are regulated because they are a medical device must be declared as such and information required by [this article](https://support.google.com/googleplay/android-developer/answer/14738291#medical_device_apps?hl=en&sjid=4927646806855805859-NC) must be completed. These apps will be identified as a “Medical Device” on Google Play. Apps that are regulated as a medical device must provide proof of approval, clearance or certification by the relevant authority upon request. Other health and medical apps must include a clear disclaimer in their app description indicating that the app is “not a medical device and does not diagnose, treat, cure, or prevent any medical condition.”
     *   Apps must also remind users to consult a healthcare professional for medical advice, diagnosis, or treatment.
 *   **Additional requirements:**  
     If your health app qualifies for one of the following designations, you must comply with relevant requirements:
@@ -1314,7 +1329,7 @@ If your app offers health-related features or information as part of its functio
     *   **Contact Tracing/Health Status apps:** If your app is a contact tracing and/or health status app, please select “Disease Prevention and Public Health” in Play Console, and provide the required information via the advance notice form above.
     *   **Human Subjects Research Apps:** Apps conducting health-related human subjects research must follow all rules and regulations; including but not limited to, obtaining informed consent from participants or, in the case of minors, their parent or guardian. Health Research apps should also secure approval from an Institutional Review Board (IRB) and/or equivalent independent ethics committee unless otherwise exempt. Proof of such approval must be provided upon request.
 
-For more information about health and medical apps, see [this help center article](https://support.google.com/googleplay/android-developer/answer/13996367).
+For more information about health and medical apps, see [Health app categories and additional information.](https://support.google.com/googleplay/android-developer/answer/13996367)
 
 Health Connect Data
 -------------------
@@ -1389,6 +1404,8 @@ For the purposes of this policy, we consider blockchain-based content to be toke
 The purchase, holding, or exchange of cryptocurrencies should be conducted through certified services in regulated jurisdictions.
 
 You must also comply with applicable regulations for any region or country that your app targets and avoid publishing your app where your products and services are prohibited. Google Play may request you to provide additional information or documents regarding your compliance with any applicable regulatory or licensing requirements.
+
+To learn more about country-specific requirements, please review this [Help Center](https://support.google.com/googleplay/android-developer/answer/16329703) article.
 
 #### Cryptomining
 
@@ -1705,10 +1722,13 @@ Accessibility API
 The Accessibility API cannot be used to:
 
 *   Change user settings without their permission or prevent the ability for users to disable or uninstall any app or service unless authorized by a parent or guardian through a parental control app or by authorized administrators through enterprise management software; 
-*   Work around Android built-in privacy controls and notifications; or
+*   Work around Android built-in platform security controls, privacy controls and notifications; or
 *   Change or leverage the user interface in a way that is deceptive or otherwise violates Google Play Developer Policies. 
 
-The Accessibility API is not designed and cannot be requested for remote call audio recording. 
+The Accessibility API is not designed and cannot be requested for:
+
+*   remote call audio recording
+*   an app that autonomously initiates, plans, and executes actions or decisions
 
 The use of the Accessibility API must be documented in the Google Play listing.
 
@@ -1716,9 +1736,11 @@ The use of the Accessibility API must be documented in the Google Play listing.
 
 Apps with a core functionality intended to directly support people with disabilities are eligible to use the **IsAccessibilityTool** to appropriately publicly designate themselves as an accessibility app.
 
-Apps not eligible for **IsAccessibilityTool** may not use the flag and must meet prominent disclosure and consent requirements as outlined in the [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en&ref_topic=9877467) as the accessibility related functionality is not obvious to the user. Please refer to the [AccessibilityService API](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) help center article for more information.
+Apps not eligible for **IsAccessibilityTool** may not use the flag and must meet prominent disclosure and consent requirements as outlined in the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?hl=en&ref_topic=9877467) policy as the accessibility related functionality is not obvious to the user. 
 
 Apps must use more narrowly scoped [APIs and permissions](https://developer.android.com/privacy/best-practices#permissions) in lieu of the Accessibility API when possible to achieve the desired functionality. 
+
+Please refer to the [AccessibilityService API](https://support.google.com/googleplay/android-developer/answer/10964491?hl=en) help center article for more information regarding prohibited use cases and guidance for using IsAccessibilityTool.
 
 Request Install Packages Permission
 -----------------------------------
