@@ -183,11 +183,11 @@ We disclose/share personal information with the following categories of recipien
 
 ·       **Marketing and advertising partners**, such as Google, X, Facebook, and Instagram, and providers of analytics services relating to users’ behavior such as Appsflyer and Criteo, so that they may tailor the content you see when visiting our Platform for analytics and/or advertising purposes. These partners may combine information they collect on our Platform with data on their platforms and data they collect from other websites or through other sources in order to conduct targeted advertising. The processing activities of these third parties marketing platforms are governed by their own privacy policies, not this Privacy Policy (please refer to Section F . COOKIES below);
 
-·      **Payment service providers** that provide payment processing services, such as Alipay Singapore E-Commerce Private Limited. Please note some activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;
+·      **Payment service providers** that provide payment processing services, such as AISG E-Commerce Private Limited. Please note some activities of payment service providers may be governed by their own privacy policies, not this Privacy Policy;
 
 ·        **Credit risk assessment providers,**  to conduct risk assessment on Sellers to determine whether a Seller can be permitted to make an advance withdrawal  or to conduct risk assessment on Buyers to determine whether a Buyer can be permitted to apply for some payment services (such as Buy now pay later);
 
-·      **Logistics partners** such as Hangzhou Cainiao Logistics Information Technology Co., Ltd for providing delivery services for Buyers and Sellers, including return and exchange of products, and warehousing services for Sellers;
+·      **Logistics partners,** to provide delivery services for Buyers and Sellers, including but not limited to the return and exchange of products for buyers, and warehousing services for Sellers;
 
 ·         **Customs agents for customs clearance purposes**, where applicable to support Buyers and Sellers with international sales/purchases;
 
