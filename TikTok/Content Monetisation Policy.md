@@ -78,7 +78,7 @@ You can turn on the content disclosure setting before or after you post your con
 1\. Go to your profile and select the post.  
 2\. Tap the **More options** … button on the side of the post.  
 3\. Tap **Ad settings** at the bottom. You may need to scroll across.  
-4\. Turn the **Disclose commercial content** setting on, then select whether you're promoting **Your brand** or **Branded content**.  
+4\. Turn the **Disclose commercial content** setting on.  
 5\. Select whether you are promoting **Your brand** or **Branded content**, such as a third-party brand, product, or service.  
 ༚ If this is **Branded content**, you will be able to tag a **Brand Partner** to allow for easier discovery and collaboration with the brand.  
 6\. Tap **Save**, then tap **Continue** to confirm.  
