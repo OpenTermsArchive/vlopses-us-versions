@@ -83,7 +83,10 @@ This content covers how to appeal Community Guidelines strikes and removals. If 
 
 When we remove your content for a Community Guidelines violation, you may be issued a strike. Strikes are issued when content on YouTube is flagged for review, either by members of the YouTube community or our smart detection technology, and our review teams decide that it does not follow our Community Guidelines. If your channel gets a strike, you'll get an email, notifications on mobile and desktop, and an alert in your channel settings the next time you sign in to YouTube.
 
-Before you start, review the [policy related to the strike](https://support.google.com/youtube/topic/2803176). We also list examples of content that result in a Community Guidelines strike. For warnings and strikes, you can appeal for 6 months after the warning or strike was issued. For content removals, you have up to 1 year after your content was removed to submit an appeal. This 1 year window applies to all types of content removals including videos, posts, playlists, thumbnails and URLs. 
+Before you start, review the [policy related to the strike](https://support.google.com/youtube/topic/2803176). We also list examples of content that result in a Community Guidelines strike. For warnings and strikes, you can appeal for 6 months after the warning or strike was issued. For content removals, you have up to 1 year after your content was removed to submit an appeal. This 1 year window applies to all types of content removals including videos, posts, playlists, thumbnails and URLs.
+
+Appeal a video removal
+----------------------
 
 #### YouTube Studio app for Android
 
@@ -114,7 +117,7 @@ Appeal a Community Guidelines strike
 
 When we remove your content for a Community Guidelines violation, you may be issued a strike. Strikes are issued when content on YouTube is flagged for review, either by members of the YouTube community or our smart detection technology, and our review teams decide that it does not follow our Community Guidelines. If your channel gets a strike, you'll get an email, notifications on mobile and desktop, and an alert in your channel settings the next time you sign in to YouTube.
 
-Before you start, review the [policy related to the strike](https://support.google.com/youtube/topic/2803176). We also list examples of content that result in a Community Guidelines strike. You can appeal for 6 months after the warning or strike was issued. 
+Before you start, review the [policy related to the strike](https://support.google.com/youtube/topic/2803176). We also list examples of content that result in a Community Guidelines strike. You can appeal for 6 months after the warning or strike was issued.
 
 #### Appeal a strike 
 
@@ -129,14 +132,14 @@ If you've received a Community Guidelines strike for links in your content, make
 **If it’s a playlist or thumbnail:**  
 You’ll receive an email if your playlist or thumbnail was removed for violating our Community Guidelines. If you think that your content doesn't violate the Community Guidelines and was removed in error, use the form provided in the email to appeal.
 
-**Note**: Videos can be taken down for many reasons. If you're having trouble appealing a video removal, it may have been removed for reasons other than a Community Guidelines violation. You can troubleshoot video takedowns in this [Help Center article](https://support.google.com/youtube/answer/6395024). 
+**Note**: Videos can be taken down for many reasons. If you're having trouble appealing a video removal, it may have been removed for reasons other than a Community Guidelines violation. You can troubleshoot video takedowns in this [Help Center article](https://support.google.com/youtube/answer/6395024).
 
 ### After you submit an appeal
 
 You'll get an email from YouTube letting you know the result of your appeal request. One of the following will happen:
 
 *   If we find that your content followed our Community Guidelines, we'll reinstate it and remove the strike from your channel. If you appeal a warning and the appeal is granted, the next offense will be a warning.
-*   If we find your content followed our Community Guidelines, but isn’t appropriate for all audiences, we’ll apply an age-restriction. If it’s a video, it won’t be visible to users who are signed out, are under 18 years of age, or have [Restricted Mode](https://support.google.com/youtube/answer/174084?hl=en) turned on. If it’s a custom thumbnail, it will be removed.
+*   If we find your content followed our Community Guidelines, but isn’t appropriate for all audiences, we’ll apply an age-restriction. If it’s a video, it won’t be visible to users who are signed out, are under 18 years of age, or have [Restricted Mode](https://support.google.com/youtube/answer/174084?hl=en) turned on. If it’s a custom thumbnail, it will be removed.
 *   If we find that your content was in violation of our Community Guidelines, the strike will stay and the video will remain down from the site. There's no additional penalty for appeals that are rejected.
 
 You may appeal each strike only once.
