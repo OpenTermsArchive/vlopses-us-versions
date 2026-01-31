@@ -34,6 +34,14 @@ When you post content that promotes a brand, product, or service, your content i
   
 The content disclosure setting allows you to add a disclosure to your post to clearly indicate that your content is commercial in nature. This includes content that promotes a brand, product, or service, whether you're promoting your own business or posting branded content on behalf of a third party, such as a company.
 
+  
+**Why should I use the Content Disclosure setting?**
+
+*   **Organized analytics:** Organize and track brand partnership analytics in one place.
+*   **Showcase results:** Share performance stats with brands easily.
+*   **Simplify Spark Ads:** Streamline the ad approval process.
+*   **Stay compliant:** Ensure your content meets FTC and TikTok guidelines.
+
 ###   
   
   
@@ -62,6 +70,7 @@ You can turn on the content disclosure setting before or after you post your con
 2\. On the post screen, tap **Content disclosure and ads**. If you're not part of [TikTok One](https://ads.tiktok.com/creative), tap **More options** … and tap **Content disclosure and ads**.  
 3\. Turn the **Disclose commercial content** setting on.  
 4\. Select whether you're promoting **Your brand** or **Branded content**, such as a third-party brand, product, or service.  
+༚ If this is **Branded content**, you will be able to tag a **Brand Partner** to allow for easier discovery and collaboration with the brand.  
 5\. Tap **Save**, then tap **Continue** to confirm.  
 6\. Exit out of the **More options** menu, then tap **Post**.  
   
@@ -70,13 +79,15 @@ You can turn on the content disclosure setting before or after you post your con
 2\. Tap the **More options** … button on the side of the post.  
 3\. Tap **Ad settings** at the bottom. You may need to scroll across.  
 4\. Turn the **Disclose commercial content** setting on, then select whether you're promoting **Your brand** or **Branded content**.  
-5\. Tap **Save**, then tap **Continue** to confirm.  
+5\. Select whether you are promoting **Your brand** or **Branded content**, such as a third-party brand, product, or service.  
+༚ If this is **Branded content**, you will be able to tag a **Brand Partner** to allow for easier discovery and collaboration with the brand.  
+6\. Tap **Save**, then tap **Continue** to confirm.  
   
 **From LIVE settings**  
 1\. Tap the **Add post +** button at the bottom.  
-2\. Tap **LIVE** at the bottom. You may need to scroll across.  
+2\. Tap **LIVE** at the bottom.  
 3\. Tap **Settings**, then tap **Content disclosure**.  
-4\. Turn the **Disclose LIVE content** setting on, then select whether you're promoting your **Own brand** or **Branded content**.  
+4\. Turn the **Disclose LIVE content** setting on, then select whether you're promoting your **Own brand** or **Branded content**, such as a third-party brand, product, or service.  
 5\. Tap **Save**, then tap **Continue**.  
 6\. Adjust other LIVE settings, then tap **Go LIVE**.
 
@@ -86,8 +97,22 @@ You can turn on the content disclosure setting before or after you post your con
 1\. Click **Upload** on the side panel.  
 2\. Click **Select videos**, then choose the file you'd like to upload.  
 3\. Click **Show more**. You may have to scroll down.  
-4\. Turn the **Disclose post content** setting on, then select whether you're promoting **Your brand** or **Branded content**.  
-5\. Adjust other settings, then click **Post**.
+4\. Turn the **Disclose post content** setting on, then select whether you're promoting **Your brand** or **Branded content**, such as a third-party brand, product, or service.  
+5\. Adjust other settings, then click **Post**.  
+  
+
+**Why should I tag a brand partner?**
+
+• **Easy Discovery:** All brand partner tagged content will show up in **Content Suite** for brands to easily find and activate as Spark Ads in their ads campaigns.
+
+• **Ads Authorization:** By tagging a brand partner, creators can preemptively provide ads authorization for paid ads usage.
+
+• **Post Insights:** Once creators tag a brand partner, the brand will be able to have access to asset-level post insight analytics via Content Suite, similar to what creators see in their video analytics.  
+  
+
+**What does tagging a brand partner do?**
+
+When you tag a **brand partner** in content disclosure settings, in addition to easier discovery by brands, you can grant ads authorization (60-day by default) for easier activation as an advertiser ad—in addition to anchor authorization, which allows a brand to add their applicable links to the video for their campaign.
 
 - - -
 
