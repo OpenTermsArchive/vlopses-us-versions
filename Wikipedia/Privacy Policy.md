@@ -937,7 +937,7 @@ Data collection risk tiering grid
 | **What should WMF teams do next?** |     |     |     |
 | **Things to do for _all risk tiers_** | *   Once you have assessed your tier of risk using this tiering grid, log data collection activity in the [data collection activity log form](https://docs.google.com/forms/d/e/1FAIpQLSc8TxVpVp5gAI2zfVBrYoNYPDtZm9w1b1ePox63H_oUb6u1aA/viewform).<br>*   If you decide later to use the data obtained for a new purpose, please reassess your tier of risk using the tiering grid and submit a new data collection activity log form. |     |     |
 | **Additional things to do depending on your data collection activity and risk tier** | **For surveys**: Fill out the [survey privacy statement](https://office.wikimedia.org/wiki/Survey_privacy_statement) to supplement your data collection activity log form. |     |     |
-| **For all other data collection activities**: Submit data collection activity to the [L3SC request form](https://form.asana.com/?k=3s2GnIIOHcAw2lLjpawLVQ&d=3758245663860) to supplement your data collection activity log form, for review by Privacy Engineering and Privacy Legal (+ other teams if needed). Reviewers will suggest mitigation measures to make it low or medium risk.<br><br>During the L3SC process, the reviewers will request approval of the data collection activity from a director or higher that the team that owns the data collection activity in order to proceed with high-risk collection activities. | **For all other data collection activities**: Submit data collection activity to the [L3SC request form](https://form.asana.com/?k=3s2GnIIOHcAw2lLjpawLVQ&d=3758245663860) for review by Privacy Engineering and Privacy Legal (+ other teams if needed). Reviewers will suggest mitigation measures to make it low risk.<br><br>During the L3SC process, reviewers will request approval of the data collection activity from the engineering manager of the team that owns the data collection activity in order to proceed with medium-risk collection activities. | **For all other data collection activities**: No additional review by Privacy Engineering or Privacy Legal is necessary. |
+| **For all other data collection activities**: Submit data collection activity to the [L3SC request form](https://office.wikimedia.org/wiki/Legal,_Safety_%26_Security_Service_Center) to supplement your data collection activity log form, for review by Privacy Engineering and Privacy Legal (+ other teams if needed). Reviewers will suggest mitigation measures to make it low or medium risk.<br><br>During the L3SC process, the reviewers will request approval of the data collection activity from a director or higher that the team that owns the data collection activity in order to proceed with high-risk collection activities. | **For all other data collection activities**: Submit data collection activity to the [L3SC request form](https://office.wikimedia.org/wiki/Legal,_Safety_%26_Security_Service_Center) for review by Privacy Engineering and Privacy Legal (+ other teams if needed). Reviewers will suggest mitigation measures to make it low risk.<br><br>During the L3SC process, reviewers will request approval of the data collection activity from the engineering manager of the team that owns the data collection activity in order to proceed with medium-risk collection activities. | **For all other data collection activities**: No additional review by Privacy Engineering or Privacy Legal is necessary. |
 
 Recurring or changes to existing data collection activities
 -----------------------------------------------------------
@@ -982,7 +982,7 @@ Definitions
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_Collection\_Guidelines&oldid=491463](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_Collection_Guidelines&oldid=491463)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_Collection\_Guidelines&oldid=548341](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_Collection_Guidelines&oldid=548341)"
 
 - - -
 
@@ -1023,7 +1023,7 @@ Note: the country protection list is a reference guide for countries potentially
     *   Get Privacy approval
     *   Anyone can initiate an update/amendment but approval must be sought across the board before implementing
     *   Ongoing feedback immediately following launch, regular recalibration thereafter (say, every quarter or half)
-*   **Q: What should I do if I am unsure whether to reach out to the Legal and Security teams?** When in doubt, it is better to err on the side of caution and submit a [L3SC request](https://form.asana.com/?k=aAGG5GWszINptGYPostbaQ&d=3758245663860).
+*   **Q: What should I do if I am unsure whether to reach out to the Legal and Security teams?** When in doubt, it is better to err on the side of caution and submit a [L3SC request](https://office.wikimedia.org/wiki/Legal,_Safety_%26_Security_Service_Center).
 
 ### Threshold table
 
@@ -1097,7 +1097,7 @@ _Below, "X > Y > Z" means that X is riskier than Y, which is in turn riskier tha
 Contact us
 ----------
 
-If you think that these guidelines have potentially been breached, or if you have questions or comments about compliance with the guidelines, please contact us at privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+If you think that these guidelines have potentially been breached, or if you have questions or comments about compliance with the guidelines, please contact us at privacy-help![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
 
 Notes
 -----
@@ -1114,7 +1114,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_publication\_guidelines&oldid=519916](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_publication_guidelines&oldid=519916)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_publication\_guidelines&oldid=548343](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_publication_guidelines&oldid=548343)"
 
 - - -
 
