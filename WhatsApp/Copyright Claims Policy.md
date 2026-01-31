@@ -16,7 +16,19 @@ As explained in more detail in our Privacy Policy, we do not retain our users' m
 
 Copyright is a legal right that seeks to protect original works of authorship (example: books, music, film, art). Generally, copyright protects original expression such as words or images. It does not protect facts and ideas, although it may protect the original words or images used to describe an idea. Copyright also doesn’t protect things like names, titles and slogans; however, another legal right called a trademark might protect those.
 
-If you believe content on WhatsApp violates your copyrighted work, you can report it by filling out [contact form](https://www.whatsapp.com/contact/forms/5071674689613749/).
+If you believe content on WhatsApp violates your copyrighted work, you can report it by filling out this [contact form](https://www.whatsapp.com/contact/forms/5071674689613749/) or by contacting our designated agent at the following address:
+
+WhatsApp Copyright Agent
+
+WhatsApp LLC
+
+1601 Willow Road
+
+Menlo Park, CA 94025
+
+Phone: (650) 543-4800
+
+Email: ip@whatsapp.com
 
 Before you report a claim of copyright infringement, you may want to send a message to the relevant WhatsApp user you believe may be infringing your copyright. You may be able to resolve the issue with them directly.
 
