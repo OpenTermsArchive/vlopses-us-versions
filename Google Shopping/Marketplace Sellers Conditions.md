@@ -4829,13 +4829,18 @@ Your account may also be temporarily suspended for the following reasons.
 
 ### Billing and payment requirements
 
-Regarding payments and billing, your account may be suspended for one of the following reasons: Promotional code abuse, Requesting a chargeback, Suspicious payment activity, Unpaid balance.
+Regarding payments and billing, your account may be suspended for one of the following reasons:
+
+*   Promotional code abuse
+*   Requesting a chargeback
+*   Suspicious payment activity
+*   Unpaid balance
 
 Learn more [about Billing and payment requirements.](https://support.google.com/adspolicy/answer/13704200)
 
 ### Google Ads Policy requirements
 
-We take legal requirements and the safety of users seriously. Advertiser actions that put our users, Google, or our partners at risk can lead to an account suspension from using Google Ads. Learn more about [Google Ads Policy account suspensions](https://support.google.com/adspolicy/answer/2375414)
+We take legal requirements and the safety of users seriously. Advertiser actions that put our users, Google, or our partners at risk can lead to an account suspension from using Google Ads. Learn more about [Google Ads Policy account suspensions](https://support.google.com/adspolicy/answer/2375414)
 
 > *   [Egregious policy violations](http://support.google.com/adspolicy/answer/2375414#EgregiousViolation)
 > *   [Google Ads Policy account suspensions FAQs](http://support.google.com/adspolicy/answer/2375414#FAQs)
@@ -4850,7 +4855,7 @@ If you suspect any unauthorized activity in your ads accounts or emails connecte
 
 ### Age requirements on Google Accounts
 
-When creating a Google Account, you should provide **your own age — not the age of your business**. If we find that you are violating the Age requirements on Google accounts, we will suspend your account.
+When creating a Google Account, you should provide **your own age — not the age of your business**. If we find that you are violating the Age requirements on Google accounts, we'll suspend your account.
 
 **Learn more about [age requirements on Google accounts](https://support.google.com/adspolicy/answer/1350409).**
 
