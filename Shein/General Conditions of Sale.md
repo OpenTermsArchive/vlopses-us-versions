@@ -18,34 +18,34 @@ Table of Contents
 
 Non-Returnable Items
 
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.webp) Non-Returnable Items |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/e4/1725956456114362647537af5bf069fb298d29a35b.png) Non-Returnable Items |
 | --- |
 | • **Bodysuits, lingerie, underwear, jewelry, accessories, cosmetics, pet products, clearance items and any other final sale items** for which return is noted as not being supported on the product page.<br><br>• **Free gifts.**<br><br>• **Customized items.** In addition, order cancellation for customized items is not supported. |
 
 Return Requirements for Return-Eligible Items
 
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.webp) All Clothing Items, Including Wedding Dresses, Suits, and other Formal Attire |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/c4/1725956463fda8ca1c288d2b3c875280c5796ea0bf.png) All Clothing Items, Including Wedding Dresses, Suits, and other Formal Attire |
 | --- |
 | Items must be returned in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached and the hygiene sticker (if applicable) intact. |
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/3c/1725956467f0c8518ef0253e32db91f0d68ed2f87c.webp) Human Hair Wigs |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/3c/1725956467f0c8518ef0253e32db91f0d68ed2f87c.png) Human Hair Wigs |
 | --- |
 | Items must be returned in new, unworn, unwashed, undamaged, and unaltered condition and have the original tags attached. Specifically, items will be inspected for evidence of washing, bleaching, cutting, or other alteration or damage. |
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/ed/172595647281aa2a5ec981edf3c67197398083c04d.webp) Shoes, Bags & Luggage |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/ed/172595647281aa2a5ec981edf3c67197398083c04d.png) Shoes, Bags & Luggage |
 | --- |
 | Items must be returned in new, unworn, undamaged condition with the original branded boxes and all accessories (e.g., shoe-buckles, shoelaces, and dust bags). Shoes must have been tried only on a soft, clean surface. |
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/fc/17259564768c7c3234fa11d3c8182c71cc36e81cae.webp) Furniture |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/fc/17259564768c7c3234fa11d3c8182c71cc36e81cae.png) Furniture |
 | --- |
 | Items must be returned in new, unused, and undamaged condition, and in the original packaging (including all accessories, manuals, and parts included). |
-| ![](//img.ltwebstatic.com/images3_ach/2024/09/10/03/1725956480f6d1d191fd8c6feb165fe14f21f058c7.webp) Electronics |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/03/1725956480f6d1d191fd8c6feb165fe14f21f058c7.png) Electronics |
 | --- |
 | • Cell phones, laptops, tablets, projectors, 3D printers, earphones, smart watches, gaming consoles (such as PlayStation and Switch consoles), and other electronics must be returned in new, unused, inactivated condition, in their original packaging.<br><br>  <br><br>• If these items arrived to you damaged, or did not start upon arrival, or malfunctioned within 30 days after the delivery date, not due to your misuse or other action, please contact us immediately and return the item, postmarked within 30 days after the delivery date, in its original packaging and with all manuals and parts included. We will inspect and test it upon arrival at our warehouse. If our testing determines that the product was damaged, did not start, or malfunctioned, through customer misuse, tampering or other customer action, or if the returned product is missing parts, manuals, or the original packaging, then the return will be rejected. If you need to claim a manufacturer’s warranty, we can help you contact the manufacturer.<br><br>  <br><br>• Note: If you have saved any personal information on an electronics item that you intend to return, first erase this information completely by following manufacturer instructions before returning the items to us. |
-| All Other Categories |
+| ![](https://img.ltwebstatic.com/images3_ach/2024/09/10/92/1725956484d9d39e8fcf42e9d3d2e8ea8fc8eb6508.png) All Other Categories |
 | --- |
 | Items must be returned in their original, unused, unaltered, and unwashed, condition with all tags attached and in their original packaging. |
 
 Return Request Process(Including Combined Returns)
 
-  
+![img](https://img.ltwebstatic.com/v4/p/ach/2025/08/20/29/17556736267ae1f9bddedb2fa8914fe2f2bf50ad61.png)  
 
 1\. Sign into your SHEIN User Account.
 
@@ -71,9 +71,9 @@ Return Methods and Return Fees
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Happy Returns  <br>Store drop-off | QR Code | No  | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>  <br><br>For the second and subsequent refunds from the same order, **7.99 USD** shipping fee will be deducted from your refund for each return. |
-| USPS<br><br>Store drop-off | QR Code | No  |
-| USPS<br><br>Store drop-off | Return Label | Yes |
+| ![img](https://img.ltwebstatic.com/v4/p/ccc/2025/08/20/b4/1755674589e15b16e0acd97c09144e3378b4a63479.png)  <br>Happy Returns  <br>Store drop-off | QR Code | No  | **Return shipping is free on your first return** of one or multiple returnable items for **EVERY order** within the Voluntary Return Window.<br><br>  <br><br>For the second and subsequent refunds from the same order, **7.99 USD** shipping fee will be deducted from your refund for each return. |
+| ![img](https://img.ltwebstatic.com/images3_ach/2024/09/10/c0/172595649142f707014ccc8a278c72627a1f46fc1a.png)  <br><br>USPS<br><br>Store drop-off | QR Code | No  |
+| ![img](https://img.ltwebstatic.com/images3_ach/2024/09/10/c0/172595649142f707014ccc8a278c72627a1f46fc1a.png)  <br><br>USPS<br><br>Store drop-off | Return Label | Yes |
 | Self-Return | Depends on your logistics provider |     | Use any logistics company convenient for you to send the package to our return address. You need to pay the return fee directly to your logistics provider. Under certain conditions, the return shipping cost may be eligible for reimbursement. |
 
 NOTE:
@@ -86,7 +86,7 @@ NOTE:
 
 Modifying A Return Request
 
-  
+![img](https://img.ltwebstatic.com/v4/p/ach/2025/08/20/6a/17556738281a7ac57c8824ef34f6dc69a3a5de47e9.png)  
 
 Go to " [My Orders](https://us.shein.com/user/orders/list) "→Click “Returns” → Click “ Return & Refund Record ” → Click “Details” → Click “Modify Return Items” ,select the item(s) you would like to add/delete, indicate the reason→Submit request.
 
@@ -96,7 +96,7 @@ Go to " [My Orders](https://us.shein.com/user/orders/list) "→Click “Returns�
 
 Locating the QR Code/Return Label
 
-  
+![img](https://img.ltwebstatic.com/images3_ach/2024/09/10/c5/172595652564a62d4ac03be3380c51cb4a188895f8.png)  
 
 Go to " [My Orders](https://us.shein.com/user/orders/list) "→Click “Returns” → Click “ Return & Refund Record ” → Click “Details” → Click “Save the Label” to view and download the Return Label
 
@@ -130,9 +130,7 @@ Typically received within **1-10** business days after items are returned and pa
 
 ● To ensure a smooth and timely refund process, please make sure that the item(s) you are returning match(es) the details listed on your SHEIN return request. Returned items must be shipped using the correct Return Label or QR Code. Any discrepancies may cause delays or prevent us from being able to process your return.
 
-● If you receive a faulty, damaged, or incorrect item, please contact Customer Service within the return period. We will investigate the issue and provide a suitable solution, including a refund if applicable.
-
-● If you have any issues with your order, please contact Customer Support within 90 days after the purchase date.
+● If you receive a faulty or damaged item, please contact Customer Service within 90 days from the order date. We will investigate the issue and provide a suitable solution, including a refund if applicable.
 
 **NOTE: The original shipping fee, if any, is non-refundable.**
 
