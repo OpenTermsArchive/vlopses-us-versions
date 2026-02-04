@@ -1,36 +1,3 @@
-![](https://www.sheingroup.com/wp-content/uploads/2023/04/shein-default-image.png)
-
-Code of Ethics
-==============
-
-SHEIN is a group of affiliated companies operating under several brand names throughout the world. Collectively, the SHEIN Group provides consumer access to a global e-commerce platform or, in some jurisdictions, a marketplace, offering consumer products, fashion, home goods, and related products.
-
-SHEIN has adopted a code of ethics to enable employees, contractors, suppliers, and other SHEIN related parties to understand how to comply with applicable anti-corruption laws and regulations, and our ethical commitments.
-
-**Conflicts of Interest**
-
-We have set out a framework applicable to all employees, contractors, and suppliers to operate its business free from conflicts of interest. SHEIN prohibits individuals from using their position with us or through related relationships for private gain or to obtain benefits for close relatives. Prohibiting personal or family benefits includes instances of financial or related interest or any other unethical or illicit behavior.
-
-**Anti-Bribery and Anti-Corruption**
-
-SHEIN is committed to doing business with integrity and in accordance with the highest anti-bribery and anti-corruption standards. All employees, contractors, suppliers, and other third parties are required to comply with applicable laws and are forbidden from offering or accepting improper payments and benefits.
-
-**Anti-Discrimination**
-
-We are committed to creating and maintaining working environments that respect individuals’ dignity and values. SHEIN does not tolerate sexual or other forms of harassment, discrimination, or retaliation either by its employees or its suppliers. SHEIN employees are given equal employment and promotion opportunities. SHEIN does not discriminate based on nationality, ethnicity, race, color, creed, sex, gender, gender identity, gender expression, ancestry, age, location, appearance and figure, religion, sexual orientation, political views, physical or mental disability, protected medical condition, family background and marital status, or other personal characteristics. SHEIN expects and requires its suppliers to do the same in accordance with our Supplier Code of Conduct and the SHEIN Supplier Responsibility Standards.
-
-**Confidentiality**
-
-SHEIN’s confidential information is vital to its business. Employees, contractors, suppliers, and other SHEIN related parties are required to keep confidential the various business, technical, and financial information they receive from us in the course of their work. Employees are required to abide by the terms of their applicable Confidential Information and Invention Assignment Agreements. Suppliers are required to abide by the terms of their respective Supplier Agreements.
-
-**Labor Commitment**
-
-SHEIN recognizes that its responsibilities extend throughout our supply chains. We are committed to doing business with suppliers that share our commitment to human rights, and have developed and implemented a robust set of supply chain management policies and programs to govern this. SHEIN strictly prohibits the use of forced labor and child labor, and in accordance with our SHEIN  Responsible Sourcing (SRS) Policy, will immediately terminate any suppliers found with such violations. SHEIN employees and third-party contractors, vendors, or suppliers are informed and trained on SHEIN’s efforts to prevent and eliminate any potential risks of forced labor and child labor within its supply chain.
-
-_Last updated April 2024_
-
-- - -
-
 SHEIN CODE OF BUSINESS CONDUCT AND ETHICS
 
 1. Introduction
