@@ -3578,7 +3578,7 @@ In some cases of repeated policy violations, you'll receive a warning notificati
 Local inventory ads and free local product listings policies
 ============================================================
 
-The [local inventory ads](https://support.google.com/merchants/answer/3057972) and free local product listings feature are designed to surface local product and store information to users when the item they're searching for is available nearby. It's available for retailers who have local brick and mortar business locations in Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Colombia, Czech Republic, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, India, Indonesia, Ireland, Israel, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Republic of Korea, Romania, Saudi Arabia, Singapore, Slovakia, South Africa, Spain, Sweden, Switzerland, Taiwan, Thailand, the UK, Ukraine, the US, UAE, and Vietnam.
+The [local inventory ads](https://support.google.com/merchants/answer/3057972) and free local product listings feature are designed to surface local product and store information to users when the item they're searching for is available nearby. It's available for retailers who have local brick and mortar business locations in Argentina, Australia, Austria, Belgium, Brazil, Canada, Chile, Colombia, Czech Republic, Denmark, Finland, France, Germany, Greece, Hong Kong, Hungary, India, Indonesia, Ireland, Israel, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Norway, Philippines, Poland, Portugal, Republic of Korea, Romania, Saudi Arabia, Singapore, Slovakia, South Africa, Spain, Sweden, Switzerland, Taiwan, Thailand, Turkey, the UK, Ukraine, the US, UAE, and Vietnam.
 
 To participate in local inventory ads and free local product listings, you must adhere to [Shopping ads policies](https://support.google.com/merchants/answer/188484) and the following exceptions and additions.
 
@@ -3612,6 +3612,12 @@ Your customers' PII shouldn't be provided with any local inventory ads and free 
 If you breach this provision and provide PII to Google, you remain solely responsible for the disclosed PII.
 
 Google won't disclose timestamps, inventory numbers, quantities, or extended amounts that are identifiable to your company. However, Google may publicly disclose generalized availability data.
+
+**Troubleshooting common issues**:
+
+*   **Missing inventory data or disapproved products**: If your products are disapproved or show as 'Limited' due to missing inventory data, ensure you have submitted a local product inventory data source in Merchant Center. This data source needs attributes like store\_code, id, availability, quantity, and price. Also, confirm that local inventory ads and/or free local listings are enabled as destinations for your data sources. Allow 24-48 hours for processing after updates. If the 'No physical stores found in countries of sale' error occurs, double-check your linked Google Business Profile, ensure store locations are verified with store codes, and that your local inventory data source has matching store codes.
+*   **Mismatched data source attributes**: Verify that the store code in your local inventory data source matches your Google Business Profile store codes. The item\_id in the local inventory data source must align with the id in your primary product data source. Check for consistent data source labels and language settings. Ensure your local inventory data source is correctly set up as a 'local product inventory' type.
+*   **Online-only businesses**: If your business is online-only and you're viewing local listing issues, disable 'Local inventory ads' and 'Free local listings' in Merchant Center (Settings > Add-ons > Your add-ons). Uncheck "Free Local Listings" and "Local inventory ads" as Marketing methods in your data source set-up.
 
 ### Tip
 
