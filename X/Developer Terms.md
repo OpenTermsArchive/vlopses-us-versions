@@ -578,6 +578,8 @@ The following additional rules apply for any use of the X services or features l
 
 **Once someone on your service authenticates via _Sign in with X_ you must clearly display their X identity.** X identity includes the person’s current X @handle, avatar, and X logo. Any display of someone’s X followers on your service must clearly show that the relationship is associated with X.
 
+You agree that X may, from time to time, review your Sign in with X option and, in its sole discretion, remove this X feature from your service.
+
 ### X Cards
 
 **To ensure a quality experience you must develop your Card to render across all platforms where Cards are displayed.** Additional rules that you must follow when using Cards include:
