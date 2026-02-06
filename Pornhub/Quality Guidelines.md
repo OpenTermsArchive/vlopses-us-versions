@@ -1,11 +1,14 @@
 **English**
 -----------
 
-At  Pornhub,  we are dedicated to making our platform accessible to all. We encourage you to share your comments and feedback about the accessibility of our sites. This feedback should include any challenges you may have encountered during your visit.
+**If your inquiry is related to difficulties with registration, login or payments, please contact** [Support](https://www.pornhub.com/support). 
 
-Your input will help us improve our sites and provide an experience with accessibility in mind.
+At Pornhub, we are dedicated to making our platform accessible to all. This means ensuring that people with disabilities can access, understand, navigate, and interact with our content and features effectively. 
 
-You can provide feedback using one of the options below: 
+We encourage you to share your comments and feedback about the accessibility of our sites. Your input will help us improve our features and provide an experience that is accessible and inclusive for all users.
+
+You can provide feedback using one of the options below:   
+ 
 
 1.  Email – [accessibilityfeedback@pornhub.com](mailto:accessibilityfeedback@pornhub.com) 
     
@@ -22,11 +25,13 @@ The collection of all accessibility feedback is overseen by the Director of Trus
 **French**
 ----------
 
-Chez Pornhub,  nous nous engageons à rendre notre plateforme accessible à tous. Nous vous encourageons à partager vos commentaires et remarques sur l’accessibilité de notre site et à y inclure tous les obstacles encourus lors de votre navigation sur nos plateformes web.                                                                                                    
+**Si votre demande concerne des difficultés d'inscription, de connexion ou de paiement, veuillez contacter le** [support](https://www.pornhub.com/support).
 
-Votre contribution nous aidera à améliorer nos sites et à offrir une expérience axée sur l’accessibilité.
+Chez Pornhub, nous nous engageons à rendre notre plateforme accessible à tous. Cela signifie veiller à ce que les personnes en situation de handicap puissent accéder, comprendre, naviguer et interagir efficacement avec notre contenu et nos fonctionnalités.
 
-Vous pouvez fournir des commentaires en utilisant l’une des options ci-dessous :
+Nous vous encourageons à partager vos commentaires et retours sur l'accessibilité de nos sites. Vos retours nous aideront à améliorer nos fonctionnalités et à offrir une expérience accessible et inclusive pour tous les utilisateurs.
+
+Vous pouvez fournir vos commentaires en utilisant l'une des options ci-dessous :
 
 1.  Courriel – [accessibilityfeedback@pornhub.com](mailto:accessibilityfeedback@pornhub.com) 
     
