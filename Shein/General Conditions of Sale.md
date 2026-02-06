@@ -120,11 +120,9 @@ Quality Check for Returns
 
 Refunds
 
-Typically received within **1-10** business days after items are returned and pass quality inspection.
-
 | Return Shipment | Return Receipt | Warehouse QC | SHEIN Refund | Financial Institution Process Time |
 | --- | --- | --- | --- | --- |
-| 5-7 days |     | 5-7 days | 1 day | The time it takes for you to see the refund depends on your financial institution.<br><br>[View the detailed refund time](https://us.shein.com/refund-a-1703.html) |
+| 5-7 days |     | 5-7 days | 1 day | It usually takes 1-10 business days, depending on your financial institution.<br><br>[Click here for details](https://us.shein.com/refund-a-1703.html) |
 
 ● The refund will be issued to the original payment method or your SHEIN Wallet, per your request.
 
