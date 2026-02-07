@@ -64,7 +64,7 @@ Certificate of Authentication or Expert Testimony
 
 Pinterest provides a certification from its records custodian with each production but is not generally able to provide in person testimony or expert witness.
 
-Emergency contact
+Contact information Emergency contact
 
 If you are a user and aware of **imminent harm to an individual or individuals**, please contact local law enforcement authorities immediately.
 
@@ -73,6 +73,14 @@ In a situation where there is an emergency involving danger of death or serious 
 **We'll only respond to emails from law enforcement. If you aren't law enforcement and have an issue, browse our help articles. Emailing this alias is considered abuse and may result in action being taken on your Pinterest account.**
 
 Pinterest will review and respond to these requests on a case-by-case basis.
+
+Telephone contact
+
+Authorized law enforcement officials may contact Pinterest regarding legal process, emergency requests, and related inquiries at the following number:
+
+(415) 636-9043.
+
+Inquiries received through this contact are promptly addressed.
 
 Public position on bulk government surveillance requests
 
