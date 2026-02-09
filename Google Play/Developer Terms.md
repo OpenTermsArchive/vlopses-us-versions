@@ -3650,3 +3650,46 @@ Remember, it is your responsibility to review the [Developer Distribution Agreem
 [Developer Distribution Agreement](https://play.google.com/about/developer-distribution-agreement.html)
 
 Choose a section to give feedback on
+
+- - -
+
+Understanding Google Play’s Cryptocurrency Exchanges and Software Wallets Policy
+================================================================================
+
+To ensure a safe and compliant ecosystem for users, Google Play has established specific guidelines for the publication of cryptocurrency exchanges and software wallets. Cryptocurrency exchanges and software wallets can only be published in the following countries/regions if the app complies with local laws and industry standards.
+
+**Note:** Non-custodial wallets are out of scope of the [Cryptocurrency Exchanges and Software Wallets](https://support.google.com/googleplay/android-developer/answer/13607354#cryptocurrency_exchanges) policy.
+
+If your targeted location is not on the list, you may continue to publish cryptocurrency exchanges and software wallets. However, due to the rapidly evolving regulatory landscape worldwide, developers are expected to obtain any additional licensure requirements per local laws. Google Play may also request you to provide further information regarding your compliance in a given jurisdiction not listed below.
+
+### About the process
+
+1.  Under **App Content**, declare that your app is a cryptocurrency exchange and/or software wallet in the Financial Features Declaration.
+2.  If your app is targeting any of the countries/regions listed below, you will be served location-specific forms to complete. If you don’t have the required registration or licensing information for certain locations, remove them from your app’s targeting countries/regions. Learn more about [distributing to specific countries](https://support.google.com/googleplay/android-developer/answer/7550024?hl=en-GB&sjid=17489113584702041295-NC).
+
+Note that any other local legal requirements must also be complied with.
+
+|     |     |     |
+| --- | --- | --- |
+| **Country/Region** | **Cryptocurrency Exchanges** | **Cryptocurrency Software Wallets** |
+| Bahrain | The developer must hold the appropriate Crypto-Asset Services licence from the Central Bank of Bahrain (CBB). |     |
+| Canada | The developer must be registered with FINTRAC (CANAFE) as a money services business. |     |
+| Hong Kong | The developer must 'opt-in' the licensing regime and have obtained a type 1 (dealing in securities) licence and type 7 licence (providing automated trading services) licence from the Securities and Futures Commission (SFC) of Hong Kong. | Not required |
+| Indonesia | The developer must hold the appropriate Crypto Asset Physical Trader licence from the Bappebti. | Not required |
+| Israel | The developer must be either (a) licensed by the CMISA (רשות שוק ההון, ביטוח וחיסכון) as a Financial Services Provider or (b) licensed by the Bank of Israel (בנק ישראל) as a banking corporation. |     |
+| Japan | The developer must be duly registered as a crypto asset exchange service provider with the Financial Services Agency (金融庁) of Japan. |     |
+| Philippines | The developer must have obtained a certificate of authority as a Money Services Business from the Philippine Central Bank (BSP). |     |
+| South Africa | The developer must be registered with the Financial Sector Conduct Authority (FSCA). |     |
+| South Korea | The developer must have successfully filed a virtual asset service providers (VASP) Report with the Commissioner of the Korea Financial Intelligence Unit (KoFIU). |     |
+| Switzerland | The developer must be licensed by the Financial Market Supervisory Authority (FINMA) in Switzerland. |     |
+| Thailand | The developer must have obtained the relevant Digital Asset Business licence from the Securities and Exchange Commission (SEC) of Thailand. | Not required |
+| United Arab Emirates | The developer must be licensed by (a) the Financial Services Regulatory Authority (FSRA), (b) the Virtual Asset Regulatory Authority (VARA) or (c) the Dubai Financial Services Authority (DFSA). |     |
+| United Kingdom | The developer must be registered with the Financial Conduct Authority (FCA). |     |
+| United States | The developer must be either (a) registered with FinCEN as a Money Services Business and with a state as a money transmitter or (b) a federal or state chartered bank entity. |     |
+| European Union<br><br>Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France\*, Germany\*\*, Greece, Hungary, Ireland, Italy\*\*\*, Latvia, Lithuania, Luxemburg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain and Sweden | The developer must be authorised as a crypto-asset service provider (CASP) under the markets in crypto-assets (MiCA) regulation by a relevant national competent authority. Any other local legal requirements, including any national-level restrictions or requirements beyond MiCA, must also be complied with.<br><br>**\*France**<br><br>Developers targeting only France have until June 30, 2026, to abide by the requirements above.<br><br>If you plan on distributing in France prior to June 30, 2026, and have not been authorised as a crypto-asset service provider (CASP) under the markets in crypto-assets (MiCA) regulation by a relevant national competent authority, you must be registered with the AMF (Autorité des Marchés Financiers) as a Digital Asset Service Provider (DASP). However, such country-based licenses for Cryptocurrency Exchanges and Software Wallets will remain valid only until June 30, 2026. Effective July 1, 2026, only MiCA licenses will be accepted.<br><br>**\*\*Germany**<br><br>Developers targeting only Germany have until December 30, 2025, to abide by the requirements above.<br><br>If you plan on distributing in Germany prior to December 30, 2025, and have not been authorised as a crypto-asset service provider (CASP) under the markets in crypto-assets (MiCA) regulation by a relevant national competent authority, you must hold the appropriate license(s) for Cryptocurrency Exchanges and Software Wallets, e.g. financial brokering services license, multilateral trading facility license and/or crypto custody business license with the BaFin (Bundesanstalt für Finanzdienstleistungsaufsicht). However, such country-based licenses for Cryptocurrency Exchanges and Software Wallets will remain valid only until December 30, 2025. Effective December 31, 2025, only MiCA licenses will be accepted.<br><br>**\*\*\*Italy**  <br>Developers enrolled with the Organismo Agenti e Mediatori (OAM) as of December 27, 2024 may continue to target Italy until December 30, 2025. <br><br>After December 30, 2025, the above OAM-enrolled developers may only continue to target Italy until June 30, 2026, if they (or a company belonging to their group) have submitted an application to obtain an authorisation as a crypto-asset service provider (CASP) under the markets in crypto-assets (MiCAR) regulation by a relevant national competent authority. Where, within this time period, the MiCAR authorisation is denied, developers must cease to target Italy immediately. Effective June 30, 2026, only MiCAR licenses will be accepted. |     |
+
+### Related content
+
+Read our [Cryptocurrency Exchanges and Software Wallets](https://support.google.com/googleplay/android-developer/answer/13607354) policy.
+
+Choose a section to give feedback on
