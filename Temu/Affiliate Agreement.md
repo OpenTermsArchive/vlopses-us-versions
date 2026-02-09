@@ -238,7 +238,7 @@ _Entire Agreement._This Policy is the final, complete and exclusive agreement of
 
 If you have any questions, please email [influencer@temu.com](mailto: influencer@temu.com).
 
-Last Updated: Nov 12, 2025
+Last Updated: Feb 9, 2026
 
 Exhibit A - Affiliate Earnings Terms and Conditions
 ---------------------------------------------------
