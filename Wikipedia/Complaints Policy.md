@@ -683,6 +683,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Vigilant~enwiki](https://meta.wikimedia.org/wiki/Special:CentralAuth/Vigilant~enwiki "m:Special:CentralAuth/Vigilant~enwiki"), since 8 December 2025
 *   [NatsirttheMan](https://meta.wikimedia.org/wiki/Special:CentralAuth/NatsirttheMan "m:Special:CentralAuth/NatsirttheMan"), since 9 February 2026
 *   [Henry200034](https://meta.wikimedia.org/wiki/Special:CentralAuth/Henry200034 "m:Special:CentralAuth/Henry200034"), since 9 February 2026
+*   [Slowking4](https://meta.wikimedia.org/wiki/Special:CentralAuth/Slowking4 "m:Special:CentralAuth/Slowking4"), since 10 February 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
