@@ -1949,9 +1949,7 @@ Learn more about [Rights Manager](https://l.facebook.com/l.php?u=https%3A%2F%2Fr
 Content protection
 ------------------
 
-Content protection is for individual content creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. At this time, content protection can be accessed in professional dashboard in the Facebook app on mobile devices.
-
-Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
+Content protection is for individual content creators seeking to manage and protect their original content. It uses the same technology as Rights Manager to detect video matches across Facebook and Instagram, but the features of the tool are tailored specifically to creators. Learn more about [content protection](https://www.facebook.com/business/help/1024655109288450?helpref=faq_content).
 
 Actions that you can take with our copyright management tools
 -------------------------------------------------------------
@@ -1961,7 +1959,7 @@ When your content is detected on a Page, profile or Instagram account, you can c
 *   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
 *   **Block**: Prevent the matching content from being visible to anyone other than the Page, profile or Instagram account that posted it.
 *   **Monetise**: You may be able to claim money earned from a video that is eligible for monetisation on Meta platforms. Note: At this time, this feature is not available to all creators using content protection and/or Rights Manager.
-*   **Apply attribution or ownership links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
+*   **Apply credit or ownership links**: You may be able to insert a banner below selected Facebook matches linking it to your own content, Page or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
 
 If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and grant access to protection features specific to your needs.
