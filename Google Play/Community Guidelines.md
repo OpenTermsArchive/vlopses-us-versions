@@ -275,7 +275,7 @@ Choose a section to give feedback on
 Google Play's Target API Level Policy
 =====================================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -694,7 +694,7 @@ Choose a section to give feedback on
 Device and Network Abuse
 ========================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -869,7 +869,7 @@ Choose a section to give feedback on
 Misrepresentation
 =================
 
-_**Disclaimer:** Policy summaries are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict_
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
@@ -1117,8 +1117,14 @@ Choose a section to give feedback on
 Mobile Unwanted Software
 ========================
 
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 Mobile Unwanted Software
 ------------------------
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To ensure a safe and great user experience, this policy builds on the Google [Unwanted Software Policy](https://www.google.com/about/unwanted-software-policy.html) by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy/) and the Google Play Store. Apps that violate these principles are potentially harmful to the user experience and we will take actions to protect users from them. Your app must deliver its promised value, be transparent about its functions and clearly disclose any bundled software. It must not misrepresent the device’s state, impersonate others or generate fake ad traffic. You must handle all user data securely and in compliance with our [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. Apps that interfere with device usability, show disruptive ads or mimic system prompts are prohibited. Please review the full policy to ensure compliance.
 
 At Google, we believe that if we focus on the user, all else will follow. In our [Software Principles](https://www.google.com/about/software-principles.html) and the [Unwanted Software policy](https://www.google.com/about/unwanted-software-policy.html), we provide general recommendations for software that delivers a great user experience. This policy builds on the Google Unwanted Software policy by outlining principles for the [Android ecosystem](https://www.android.com/mobile-unwanted-software-policy) and the Google Play store. Software that violates these principles is potentially harmful to the user experience, and we will take steps to protect users from it.
 
@@ -1173,6 +1179,17 @@ Example violations:
 *   Disruptive ads
 *   Unauthorized Use or Imitation of System Functionality
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Be transparent with users about your app's functionality and present a clear value proposition that your app delivers on. | Don’t trick users into installing your app or disabling device security protections, such as, Google Play Protect. |
+| Handle personal and sensitive user data securely and ensure compliance with [User Data](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638967622926708071-1089367679&rd=1) policies. | Don’t disrupt or interfere with other apps on the user's device or the device's normal functions. |
+| Ensure the uninstall process is simple, clear and straightforward. | Don't display disruptive or unexpected advertisements. |
+| Disclose all bundled software and explicitly explain any system changes and allow user review and approval. | Don’t misrepresent the device's state with fake security or virus alerts and don’t  mimic system-level notifications or other app prompts. |
+| Ensure ads are easily dismissible and don't disrupt device use. | Don’t mislead users or impersonate other apps, developers or entities. |
+
 Choose a section to give feedback on
 
 - - -
@@ -1180,7 +1197,13 @@ Choose a section to give feedback on
 Hostile Downloaders
 ===================
 
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 ### **Hostile Downloaders**
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Google Play prohibits "hostile downloaders"—apps that download other Mobile Unwanted Software (MUwS). An app is flagged as a hostile downloader if it's believed to be designed to spread MUwS or if at least 5% of its downloads are determined to be MUwS. This policy does not apply to major browsers or file-sharing apps, as long as they only download software with the user's explicit consent and initiation. Please review the full policy to ensure compliance.
 
 Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
 
@@ -1194,6 +1217,15 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 *   They don't drive downloads without user interaction; and
 *   All software downloads are initiated by consenting users.
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure your app doesn’t include any code that spreads MUwS. | Don’t include any code in your app that spreads MUwS. |
+| Monitor downloads to stay well below the 5% MUwS threshold. | Don’t Exceed the 5% MUwS threshold (25 MUwS per 500 downloads). |
+| Ensure all app downloads are initiated by a consenting user, if your app's purpose is to download other files (like a browser or file-sharing). | Don’t include functionality that drives app downloads without explicit user interaction, if your app's purpose is to download other files (like a browser or file-sharing). |
+
 Choose a section to give feedback on
 
 - - -
@@ -1201,7 +1233,13 @@ Choose a section to give feedback on
 Ad Fraud
 ========
 
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 ### Ad Fraud
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To maintain the mobile ad ecosystem trust, Google Play strictly prohibits Ad Fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054), and defined as any ad interaction that tricks an ad network into believing traffic is from real user interest. This includes showing hidden ads, auto-clicking ads, faking install attributions, showing ads outside the app, or misrepresenting your app's identity (like its package name or device type) to ad networks. Please review the full policy to ensure compliance.
 
 Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tricking an ad network into believing traffic is from authentic user interest is ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en&ref_topic=2745287). Ad fraud may be the byproduct of developers implementing ads in disallowed ways, such as showing hidden ads, automatically clicking ads, altering or modifying information and otherwise leveraging non-human actions (spiders, bots, etc.) or human activity designed to produce invalid ad traffic. Invalid traffic and ad fraud is harmful to advertisers, developers, and users, and leads to long-term loss of trust in the mobile Ads ecosystem.
 
@@ -1213,6 +1251,16 @@ Examples of common violations
 *   An app that pops up ads when the user is not within the app interface.
 *   False representations of the ad inventory by an app, for example, an app that communicates to ad networks that it is running on an iOS device when it is in fact running on an Android device; an app that misrepresents the package name that is being monetized.
 
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Ensure all ads are visible to users and properly rendered within the app interface. | Don't render ads that are hidden, off-screen, or invisible to the user. |
+| Ensure all ad clicks are a direct result of genuine, intentional user interactions. | Don't automatically generate clicks or use bots, scripts, or other non-human actions to create ad traffic. |
+| Accurately represent your app's identity to ad networks, including its correct package name, device type (e.g., Android), and all ad inventory. | Don't implement ads in a way that tricks or incentivizes users into accidental clicks. |
+| Ensure all traffic, clicks, and installation attributions are the result of authentic user interest. | Don't display ads (like pop-ups) when the user is not actively in your app. |
+
 Choose a section to give feedback on
 
 - - -
@@ -1220,7 +1268,13 @@ Choose a section to give feedback on
 Unauthorized Use or Imitation of System Functionality
 =====================================================
 
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
 ### Unauthorized Use or Imitation of System Functionality
+
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+Users trust system notifications and warnings to be timely, relevant, and important. Our policy protects this trust by prohibiting apps or ads from imitating or interfering with system functionality. Please review the full policy to ensure compliance.
 
 We don’t allow apps or ads that mimic or interfere with system functionality, such as notifications or warnings. System level notifications may only be used for an app’s integral features, such as an airline app that notifies users of special deals, or a game that notifies users of in-game promotions.
 
@@ -1235,6 +1289,15 @@ Examples of common violations
  
 
 For additional examples involving ads, please refer to the [Ads policy](https://support.google.com/googleplay/android-developer/answer/9857753).
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Use system notifications only for your app's integral features. | Don't mimic or interfere with system notifications or warnings. |
+| Clearly attribute notifications to your app so users know the source. | Don’t trigger notifications to promote a different app or a third-party service. |
+| Review the [Ads policy](https://support.google.com/googleplay/android-developer/answer/9857753) for more specific guidance on ad implementation. | Don’t create notifications or alerts that look like they are from the device’s operating system. |
 
 Choose a section to give feedback on
 
