@@ -1,7 +1,7 @@
 YouTube Paid Service Terms of Service
 =====================================
 
-#### Effective as of September 26, 2025 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250812-en))
+#### Effective as of February 11, 2026 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250926-en))
 
 #### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
 
@@ -183,7 +183,7 @@ You consent to and agree that any communications, documents or other materials t
 **1.        Your Acceptance**
 -----------------------------
 
-By purchasing a subscription to YouTube TV, you agree to the Paid Service terms above, as well as these additional terms. YouTube TV is a digital streaming-only service offered on full time basis to paying subscribers in the US via authorized YouTube players and/or players on permitted devices. YouTube TV is distinct and separate from all other YouTube offerings. YouTube TV is a logged-in only, 13+ experience. If you are under 13, please do not use YouTube or YouTube TV. Please note: YouTube TV accounts are for personal, non-commercial, residential use only - use of a YouTube TV account is not permitted in any group viewing spaces.
+By purchasing a subscription to any YouTube TV plan, you agree to the Paid Service terms above, as well as these additional terms. YouTube TV is a digital streaming-only service offered on a full time basis to paying subscribers in the US via authorized YouTube players and/or players on permitted devices. YouTube TV is distinct and separate from all other YouTube offerings. YouTube TV is a logged-in only, 13+ experience. If you are under 13, please do not use YouTube or YouTube TV. Please note: YouTube TV accounts are for personal, non-commercial, residential use only - use of a YouTube TV account is not permitted in any group viewing spaces.
 
 **2.        Authorization**
 ---------------------------
@@ -197,7 +197,7 @@ YouTube reserves the right to terminate a subscription or take other appropriate
 **3.        Content**
 ---------------------
 
-The content in YouTube TV is unique, subject to all the content restrictions listed here and may change at any time. YouTube TV subscribers may not allow any person or device to download the content available through YouTube TV or allow any person or device to view YouTube TV content online or through an unauthorized device. Additionally, YouTube TV content may not always be available or may not be available on all devices. For instance, YouTube TV is restricted from distributing NFL football games on any portable device (including, but not limited to, wireless phones, pagers, smart phones and personal digital assistants).
+The content in YouTube TV is unique, subject to all the content restrictions listed here and may change at any time. YouTube TV subscribers may not allow any person or device to download the content available through YouTube TV or allow any person or device to view YouTube TV content online or through an unauthorized device. Additionally, YouTube TV content may not always be available or may not be available on all devices.
 
 Some content may not be authorized for particular geographic or metropolitan areas, some content may not be authorized for particular devices, and/or some programming may not be available or may be blacked out and substitute programming may be shown instead. Google’s content partners have discretion over the programming they include in YouTube TV and may modify programs, program elements, promotional or other materials at any time. Content availability may also differ by time zone.
 
@@ -216,19 +216,24 @@ YouTube TV prohibits downloadable (other than caching), sideloadable, transferab
 **4.        Payment**
 ---------------------
 
-Only paying subscribers or subscribers authorized to receive the content through a promotion (including a trial) will be authorized to access content in YouTube TV. Note that at the end of trials, subscribers will automatically be charged the regular monthly fee for the programming service, unless the subscriber cancels the service. Subscribers can cancel at any time by clicking cancel within the app or contacting support. Upon cancellation, subscribers still may be charged for the current billing period. The monthly fee charged for YouTube TV covers the content within the selected package, with no additional fees or surcharges. Additional content or additional packages may be available for an additional cost. YouTube TV requires an up-to-date and valid payment instrument to maintain continued access to the content. For questions about refunds, billing or pro-rated charges, please see the [Help Center](https://support.google.com/youtube/?p=commerce_topic).
+Only paying subscribers or subscribers authorized to receive the content through a promotion (including a trial) will be authorized to access content in YouTube TV. Note that at the end of trials, subscribers will automatically be charged the regular monthly fee for the programming service, unless the subscriber cancels the service. Subscribers can cancel at any time by clicking cancel within the app or contacting support. Upon cancellation, subscribers still may be charged for the current billing period. The monthly fee charged for YouTube TV covers the content within the selected plan, with no additional fees or surcharges. Additional content or additional packages may be available for an additional cost. YouTube TV requires an up-to-date and valid payment instrument to maintain continued access to the content. For questions about refunds, billing or pro-rated charges, please see the [Help Center](https://support.google.com/youtube/?p=commerce_topic).
 
-**5.        Shared Accounts**
+**5.        Promotional Offers**
+--------------------------------
+
+We may provide promotional offers from time to time. For clarity, some promotional offers may not be combined. Upon expiration of any promotional offer(s), you will be charged the full price of the YouTube TV plan. Promotions may be subject to additional terms. Promotions may vary by billing platform and in duration or eligibility requirements.
+
+**6.        Shared Accounts**
 -----------------------------
 
 Each YouTube TV subscription comes with 5 additional accounts. All shared accounts must be from the same household or family living together, as determined by electronic check-ins every 30-90 days. Subscribers may not share their recordings with anyone, even if they are sharing a subscription. All YouTube TV accounts will be limited to 3 concurrent streams. A YouTube TV subscription comes with access for 6 different Google accounts but a given subscriber may only register 10 devices in a given calendar month to an account, and no more than 30 devices to an account in a given calendar year. When the device limitation is reached, additional devices may not be added.
 
-**6.        Prohibitions**
+**7.        Prohibitions**
 --------------------------
 
 The YouTube TV logo and other trademarks, graphics, logos, scripts, and sounds are trademarks of Google and/or its content partners. None of the trademarks or content displayed through YouTube TV may be used by a subscriber, copied, downloaded, or otherwise exploited. YouTube TV will monitor and protect content on the service from piracy, unauthorized access, distribution, or use. Subscribers do not gain any sponsorship, affiliation or association with the content, networks, programs or any content producer through their use of the YouTube TV service. Content partners are the exclusive owner of the programming service and content distributed on YouTube TV, even when a copy of the content is stored by a subscriber. Subscribers do not obtain any proprietary rights in a programming service or content by using the service.
 
-**7.        Privacy & Security**
+**8.        Privacy & Security**
 --------------------------------
 
 In YouTube TV, as with all Google products and services, the [Google](https://www.google.com/policies/privacy/) [privacy policy](https://www.google.com/policies/privacy/) controls the use, collection and sharing of data. YouTube TV may share aggregated data with its content partners.
@@ -239,7 +244,7 @@ Because YouTube TV may be accessible from various permitted devices (i.e., mobil
 
 YouTube TV may actively recommend content, market and promote the YouTube TV service and related services to users through algorithmically driven, personalized recommendations tools to deliver optimized personalized results. YouTube TV may also collect results and metrics related to the personalized content delivery and/or the marketing campaign(s) for distribution to our partners, within the scope of the Google privacy policy. YouTube TV will not change or otherwise interfere, or authorize, facilitate or enable the change of or other interference with the subscriber's channel selection or equipment that is tuned for viewing or recording, unless specifically authorized by the subscriber. YouTube TV may supply security and content protection updates, including security patches, from time to time; such security enhancements must be promptly downloaded, installed, or otherwise implemented by the subscriber upon notification of their availability.
 
-**8.        Measurement**
+**9.        Measurement**
 -------------------------
 
 Our content licensors, as well as our advertisers, seek to measure the performance of their creative material across many platforms, including YouTube TV. YouTube TV may feature Nielsen proprietary measurement software, which will enable subscribers to contribute to market research, such as Nielsen TV Ratings. Accordingly, YouTube TV may permit the use of third-party measurement software that enables third parties (such as Nielsen) to include subscriber viewing on YouTube TV in calculating measurement statistics such as TV Ratings. To learn more about the information that Nielsen software may collect, please see the Nielsen Digital Measurement Privacy Policy at https://www.nielsen.com/digitalprivacy. That policy includes information about subscriber choices with regard to Nielsen measurement software on YouTube TV. For choices with regard to Nielsen measurement software on the YouTube TV mobile application, please visit "About Nielsen Measurement" in the mobile application’s settings.
@@ -339,7 +344,7 @@ Some ST Services content may not be authorized, and therefore may not be availab
 **4.        Accessing the ST Services**
 ---------------------------------------
 
-You may purchase an NFL Sunday Ticket subscription as an add-on to your YouTube TV Base Package or directly on YouTube through Primetime Channels. You may purchase NFL Sunday Ticket as a recurring subscription or a one-time purchase. Recurring subscriptions will be identified at the point of purchase. After you purchase an NFL Sunday Ticket subscription, you may be entitled to access the ST Services on both YouTube TV and Primetime Channels. For more information, please visit our [Help Center](https://support.google.com/youtube/answer/13316318). When you access the ST Services on YouTube TV, the [Additional Terms for YouTube TV](https://www.youtube.com/t/terms_paidservice#youtubetv) will apply. When you access the ST Services on Primetime Channels, the [Additional Terms for Primetime Channels](https://www.youtube.com/t/terms_paidservice#primetime) will apply. For information about the concurrent stream rules that apply to your membership, please visit our [Help Center](https://support.google.com/youtubetv/answer/13316318#zippy=%2chow-many-streams-do-i-get).  
+You may purchase an NFL Sunday Ticket subscription as an add-on to a YouTube TV plan or directly on YouTube through Primetime Channels. You may purchase NFL Sunday Ticket as a recurring subscription or a one-time purchase. Recurring subscriptions will be identified at the point of purchase. After you purchase an NFL Sunday Ticket subscription, you may be entitled to access the ST Services on both YouTube TV and Primetime Channels. For more information, please visit our [Help Center](https://support.google.com/youtube/answer/13316318). When you access the ST Services on YouTube TV, the [Additional Terms for YouTube TV](https://www.youtube.com/t/terms_paidservice#youtubetv) will apply. When you access the ST Services on Primetime Channels, the [Additional Terms for Primetime Channels](https://www.youtube.com/t/terms_paidservice#primetime) will apply. For information about the concurrent stream rules that apply to your membership, please visit our [Help Center](https://support.google.com/youtubetv/answer/13316318#zippy=%2chow-many-streams-do-i-get).  
 
 ### **4.1        YouTube TV and Primetime Channels Sunday Ticket Offer Terms**
 
@@ -347,11 +352,11 @@ Please review the [YouTubeTV](https://tv.youtube.com/learn/offer-terms/) and [P
 
 ### **4.2        NFL Sunday Ticket Subscription Purchased on YouTube TV**
 
-If you purchase a NFL Sunday Ticket subscription on YouTube TV, you must maintain your YouTube TV Base Plan to access the ST Services. If you cancel or pause your YouTube TV Base Plan, you will lose access to the ST Services. If you restart your YouTube TV Base Plan, you will regain access to the ST Services.
+If you purchase a NFL Sunday Ticket subscription on YouTube TV, you must maintain a YouTube TV plan to access the ST Services. If you cancel or pause your YouTube TV plan, you will lose access to the ST Services. If you restart your YouTube TV plan, you will regain access to the ST Services.
 
 ### **4.3        NFL Sunday Ticket Subscription Purchased on Primetime Channels**
 
-If you purchase an NFL Sunday Ticket subscription directly on YouTube through Primetime Channels, you are not required to maintain a YouTube TV Base Plan to access the ST Services.
+If you purchase an NFL Sunday Ticket subscription directly on YouTube through Primetime Channels, you are not required to maintain a YouTube TV plan to access the ST Services.
 
 You may also use your NFL Sunday Ticket subscription credentials to access the ST Services through the NFL’s owned and operated websites and apps, and where otherwise made accessible by NFL Enterprises LLC, through its owned and operated platforms (together, the “**NFL Websites and Apps**”). Your use of the ST Services on the NFL Website and Apps is subject to the NFL Websites and Apps terms of service and privacy policy.
 
@@ -510,23 +515,23 @@ These Arbitration Terms are governed by the FAA and (only to the extent not inco
 **Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (and accepted payment methods)**
 =======================================================================================================================
 
-**1.        Introduction**
---------------------------
+**1\. Introduction**
+--------------------
 
 These Additional Terms for YouTube Premium, YouTube Music Premium and YouTube Premium Lite (“**Premium Service Terms**”) govern your use of and access to [YouTube Premium](https://support.google.com/youtube/answer/6305537), [YouTube Music Premium](https://support.google.com/youtube/answer/6305537) and [YouTube Premium Lite](https://support.google.com/youtube/answer/15968883)  (each  a “**Premium Service**” and collectively the “**Premium Services**”). The Premium Services include the membership plans that are currently offered and any additional services or plans under the Premium Services that Google might make available. Your purchase of any Premium Service and any use of the Premium Services are subject to: these Premium Service Terms;  these [Paid Service Terms of Service](https://www.youtube.com/t/terms_paidservice); and the [YouTube Terms of Service](https://www.youtube.com/t/terms). We’ll refer to these documents together as the “**Terms**”. If there is a conflict between these Premium Service Terms and the Paid Service Terms, these Premium Service Terms will take precedence.
 
-**2.        Your Acceptance**
------------------------------
+**2\. Your Acceptance**
+-----------------------
 
 You must have an active Google account to sign up for a Premium Service. If you do not have a Google account at the time that you sign up for a Premium Service, you will be required to create one. Any suspension or termination of your Google account may cause your access to any Premium Service to be suspended or terminated. The Premium Services may vary by geographical location, device, and operational system and may also vary in price, plan and feature offerings. [Learn more](https://support.google.com/youtube/answer/6305537). Please read the Terms carefully and make sure that you understand them. If you do not understand the Terms, or do not accept any part of them, then you may not use any Premium Service. By accessing or using any Premium Service, you accept the provisions set forth in the Terms.
 
-**3.        Geographical Restrictions**
----------------------------------------
+**3\. Geographical Restrictions**
+---------------------------------
 
 Your use of and access to any Premium Service should be used from the country or territory where you signed up for that Premium Service. Accessing or using any Premium Service predominantly outside of that country, or attempting to misrepresent your sign-up country, is a violation of the Premium Service Terms and may result in termination of your access to the Premium Services. If you move to a new country, you may be required to re-subscribe to the Premium Services there to maintain your access, subject to the Premium Service's availability, pricing, and feature offerings in that new country. [Learn more](https://support.google.com/youtube/answer/6307365).
 
-**4.        Plans**
--------------------
+**4\. Plans**
+-------------
 
 **4.1         Individual Plans**
 --------------------------------
@@ -548,29 +553,28 @@ Student memberships are only available to full-time students at approved higher 
 
 Some memberships are available for pre-paid purchase and give access to membership benefits for a fixed period of time. Pre-paid plans are purchased upfront for a select duration and do not automatically renew. You may have up to 24 months of pre-paid access. Once the time period you purchased ends, you will lose access to your benefits. If you wish to terminate access before the expiration of your pre-paid plan, please contact YouTube Support. No partial refunds are available. Availability of pre-paid plans may vary by operational system, country or duration. [Learn more](https://support.google.com/youtube/answer/11417260).
 
-**5.        Trials**
---------------------
+**5\. Trials**
+--------------
 
 We may offer no-cost Premium Service trials (“**Premium** **Service** **Trials**”) from time to time. Only first time Premium Service subscribers may be eligible for Premium Service Trials, introductory offers or promotional pricing. Except for Google Workspace Individual edition accounts, Google Workspace accounts may not be eligible for Premium Service Trials. You can sign up for only one Premium Service Trial  per payment method. [Learn more](https://support.google.com/youtube/answer/10324204).
 
-**6.        Promotional Offers**
---------------------------------
+**6.** **Promotional Offers**
 
 We may provide promotional offers from time to time. If you are eligible for more than one promotional offer, these offers may be applied in subsequent billing cycles. For clarity, some promotional offers may not be combined. Upon expiration of the promotional offer(s), you will be charged the full price of the Premium Service. Promotions may be subject to additional terms. Promotions may vary by country or billing platform and in duration or eligibility requirements.
 
-**7.        Features**
-----------------------
+**7\. Features**
+----------------
 
 [Features](https://support.google.com/youtube/answer/6308116) included with your Premium Services may come with certain restrictions, may vary by plan, device, country or for other reasons. Some features may be experimental, and we reserve the right to update or remove them at any time without any notice. You must have an Internet connection to stream or download content ([Supported devices).](https://support.google.com/youtube/go/red_devices) Some restrictions may apply for downloads ([Learn more](https://support.google.com/youtube/answer/6308116#offline)) and streaming limits ([Learn more](https://support.google.com/youtube/answer/7361503)). For clarity, ads or promotions may appear during live events streamed on YouTube, such as sporting events. [Learn more](https://support.google.com/youtube/answer/6308116#zippy=%2Cwatch-videos-without-ads). 
 
-**8.        Billing and Accepted Payment Methods**
---------------------------------------------------
+**8\. Billing and Accepted Payment Methods**
+--------------------------------------------
 
 You must have a valid and [accepted payment method](https://support.google.com/youtube/answer/10239146) on file in order to purchase a Premium Service. Google may change or restrict the use of the accepted payment methods from time to time, which may include a requirement to use a form of payment issued in the country in which you purchase the Premium Service. Changes in pricing of your Premium Service are subject to the Paid Service Terms of Service. For recurring plans, your payment method on file will be automatically charged the price of the plan every billing period starting on the first billing date until your Premium Service is cancelled.
 
-**9.        Suspensions and Cancellations**
--------------------------------------------
+**9\. Suspensions and Cancellations**
+-------------------------------------
 
 We reserve the right to restrict, pause, or cancel your use and access to any Premium Service (including any plans, Premium Service Trials, or promotional offers) as well as refuse sign ups to any Premium Service, including taking appropriate action (such as suspension of your YouTube account) for any violation of the Terms, applicable laws or Google policies.
 
-You can cancel your Premium Service at any time. The cancellation will take effect at the end of your billing period. In certain territories in accordance with applicable law, you may cancel your Premium Service immediately by contacting the YouTube Support team, in which case you may be eligible for a refund. [Learn more](https://support.google.com/youtube/topic/12013284).
+You can cancel your Premium Service at any time. The cancellation will take effect at the end of your billing period. In certain territories in accordance with applicable law, you may cancel your Premium Service immediately by contacting the YouTube Support team, in which case you may be eligible for a refund. [Learn more](https://support.google.com/youtube/answer/12014038).
