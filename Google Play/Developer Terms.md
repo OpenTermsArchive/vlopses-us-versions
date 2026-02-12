@@ -372,6 +372,10 @@ Choose a section to give feedback on
 Malware
 =======
 
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+
+To maintain a safe Android ecosystem, Google Play prohibits any malicious code, including third-party SDKs integrated into apps, that could put users, their data, or their devices at risk. Please review the full policy to ensure compliance.
+
 Our Malware policy is simple, the Android ecosystem including the Google Play store, and user devices should be free from malicious behaviors (for example, malware). Through this fundamental principle we strive to provide a safe Android ecosystem for our users and their Android devices.
 
  Malware is any code that could put a user, a user's data, or a device at risk. Malware includes, but is not limited to, Potentially Harmful Applications (PHAs), binaries, or framework modifications, consisting of categories such as trojans, phishing, and spyware apps, and we are continuously updating and adding new categories.
@@ -544,6 +548,16 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 An application that utilizes a variety of evasion techniques in order to serve the user different, or fake, application functionality. These apps mask themselves as legitimate applications or games to appear innocuous to app stores and users and use techniques such as obfuscation, dynamic code loading, or cloaking to reveal potentially harmful content.
 
 Riskware is similar to other PHA categories, specifically Trojan, with the main difference being the techniques used to obfuscate the malicious activity.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Thoroughly vet all code in your app, including third-party SDKs, to ensure they do not exhibit malware-like behaviors such as spyware, trojans, or phishing, even unintentionally. | Integrate code that abuses elevated privileges to compromise system integrity, roots devices without explicit user consent and awareness, or employs maskware techniques to evade detection of malicious behavior. |
+| Consider using tools to check for security vulnerabilities or backdoors that enable unwanted remote operations. | Use third-party SDKs that collect and transmit personal data for monitoring without proper user disclosure and consent (i.e. stalkerware). Incorporate code that will cause deceptive billing practices involving SMS, calls, or toll fraud. |
+| Ensure third-party SDKs don’t collect and/or exfiltrate user data without policy-compliant functionality and/or adequate notice or consent (Spyware). | Use third-party SDKs that perform Denial of Service attacks or act as a Hostile Downloader. |
+| Ensure your app does not include third-party SDKs that violate the Android permissions model by gaining elevated privileges through the access of device data for an undisclosed purpose. |     |
 
 Choose a section to give feedback on
 
