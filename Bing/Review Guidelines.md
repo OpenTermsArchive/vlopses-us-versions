@@ -34,7 +34,7 @@ If an advertiser violates any policy, they are given a “strike.” An advertis
 *   [Product ads](#apex/ads/en/60214/0)
 *   [Relevance and quality](#apex/ads/en/60215/0)
 *   [Restricted content](#apex/ads/en/60216/0)
-*   [Text guidelines](#apex/ads/en/60217/0)
+*   [Text guidelines](#apex/ads/en/60217/-1)
 
 Learn more about [repeated violations and strikes](#apex/ads/en/60403/-1)
 
