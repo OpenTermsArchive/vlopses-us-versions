@@ -20,7 +20,7 @@ Advertisers who violate policy may, at Microsoft's discretion, be given a “str
 *   [Product ads policies](#apex/ads/en/60214/0)
 *   [Relevance and quality](#apex/ads/en/60215/0)
 *   [Restricted content](#apex/ads/en/60216/0)
-*   [Text guidelines](#apex/ads/en/60217/0)
+*   [Text guidelines](#apex/ads/en/60217/-1)
 
 What happens with each strike?
 ------------------------------
