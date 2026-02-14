@@ -982,7 +982,7 @@ Definitions
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_Collection\_Guidelines&oldid=548341](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_Collection_Guidelines&oldid=548341)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_Collection\_Guidelines&oldid=552233](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_Collection_Guidelines&oldid=552233)"
 
 - - -
 
