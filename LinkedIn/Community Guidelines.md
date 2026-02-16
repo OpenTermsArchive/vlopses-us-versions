@@ -164,7 +164,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Violent and graphic content
 ---------------------------
 
-Last updated: 2 years ago
+Last updated: 3 years ago
 
 We remove depictions of extreme violence, along with image or video content that is excessively gory, gruesome, or disturbingly shocking.
 
