@@ -21,7 +21,9 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 “**Affiliate**” means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
 
-“**Applicable Data Protection Legislation**” means, as applicable to the processing of Controller Personal Data, any national, federal, EU, state, provincial or other privacy, data security or data protection law or regulation, including European Data Protection Legislation, the LGPD, U.S. State Data Protection Laws, and Japan Privacy Laws.
+“**Applicable Data Protection Legislation**” means, as applicable to the processing of Controller Personal Data, any national, federal, EU, state, provincial or other privacy, data security or data protection law or regulation, including European Data Protection Legislation, the LGPD, U.S. State Data Protection Laws, Japan Privacy Laws, and rules that govern the processing of Bulk Sensitive Data.
+
+“**Bulk Sensitive Data**” means bulk U.S. sensitive personal data or government-related data, each as defined in 28 C.F.R. Part 202 on Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons.
 
 “**Controller Data Subject**” means a data subject to whom Controller Personal Data relates.
 
@@ -375,12 +377,13 @@ under or in connection with the Agreement and the BR Controller SCCs combined wi
 
 6.2**No Modification of BR Controller SCCs**. Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any BR Controller SCCs or the LGPD.
 
-_Google Controller-Controller Data Protection Terms, Version 9_
+_Google Controller-Controller Data Protection Terms, Version 10_
 
-_22 August 2025_
+_17 February 2026_
 
 **Previous Versions**
 
+*   [22 August 2025](https://kstatic.googleusercontent.com/files/ed00055941075412e65f0cebcbaa1999307c28b03b3891a43b37b588e690db73f267931ecbae0f5224e9d8a1755d71ca8b6846eaa009fac3e732eb6e901c4b23)
 *   [4 June 2024](https://kstatic.googleusercontent.com/files/c85766a885b2e6476beb063c02d94a479f01a42fb326e85a2b2ae11be9860774f1e10e8aa6a60fecf932acf7dd3ac1bb85345ef7588325f2455731bd35e54399)
 *   [1 September 2023](https://kstatic.googleusercontent.com/files/1a249e353a14b3fbe88870fda1fd6bc1d33e64e80520466108653ab6ec44a3c8f00beaa9d250f1371687ae0fffa2a9569de99f37f98b0f896c1ee64ef605a84d)
 *   [23 January 2023](https://kstatic.googleusercontent.com/files/6f82e9d177f1e876ffae5ea09414a704a54fc41b0cf956a898a3d067a7833c1abb9faedcc81f46711f97896b559f302f2f378c1488103e622f1c2850d3e27066)
