@@ -2857,7 +2857,8 @@ Example violations:
 
 * * *
 
-### **Hostile Downloaders**
+**Hostile Downloaders**
+-----------------------
 
 Code that isn't in itself unwanted software, but downloads other mobile unwanted software (MUwS).
 
@@ -2873,7 +2874,8 @@ Major browsers and file-sharing apps aren't considered hostile downloaders as lo
 
 * * *
 
-### Ad Fraud
+Ad Fraud
+--------
 
 Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tricking an ad network into believing traffic is from authentic user interest is ad fraud, which is a form of [invalid traffic](https://support.google.com/admob/answer/3342054?hl=en&ref_topic=2745287). Ad fraud may be the byproduct of developers implementing ads in disallowed ways, such as showing hidden ads, automatically clicking ads, altering or modifying information and otherwise leveraging non-human actions (spiders, bots, etc.) or human activity designed to produce invalid ad traffic. Invalid traffic and ad fraud is harmful to advertisers, developers, and users, and leads to long-term loss of trust in the mobile Ads ecosystem.
 
@@ -2887,7 +2889,8 @@ Ad fraud is strictly prohibited. Ad interactions generated for the purpose of tr
 
 * * *
 
-### Unauthorized Use or Imitation of System Functionality
+Unauthorized Use or Imitation of System Functionality
+-----------------------------------------------------
 
 We don’t allow apps or ads that mimic or interfere with system functionality, such as notifications or warnings. System level notifications may only be used for an app’s integral features, such as an airline app that notifies users of special deals, or a game that notifies users of in-game promotions.
 
