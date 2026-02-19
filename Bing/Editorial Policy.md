@@ -1,4 +1,4 @@
-General ad requirements
+General Ad Requirements
 =======================
 
 This topic focuses on the general ad requirements for ads on Microsoft Advertising.
@@ -17,7 +17,7 @@ This page was last updated on January 26, 2026.
 
 Our general ad requirements are designed to create a high-quality experience for our users, advertisers, and publishers. These guidelines ensure that advertisements are relevant, non-intrusive, and adhere to industry standards for content and presentation. By maintaining these standards, we foster a trustworthy environment where users feel safe and advertisers can effectively reach their audience.
 
-Ads must:
+Ads Must:
 ---------
 
 *   Ensure that the ad copy and landing pages comply with all [Microsoft Advertising Policies](#apex/ads/en/52023/1).
@@ -40,7 +40,7 @@ Text
 *   Titles should be title-cased in English-speaking markets. Titles should be sentence-cased in German-, French-, Spanish-, Italian-, and Dutch-speaking markets. Descriptions must be sentence case.
 *   Legitimate acronyms and advertiser brand names that are registered in all capital letters are allowed.
 
-**Grammar, punctuation, and spelling**
+**Grammar, Punctuation, and Spelling**
 
 *   Grammar and spelling must be correct unless the incorrect grammar or spelling is part of the corporate or product branding.
 *   One exclamation point or question mark is allowed per sentence in ad text.
@@ -51,13 +51,13 @@ Text
 *   Spelling of dynamic text, such as that used for {keyword}, {param2}, and {param3}, must be correct.
     *   If you bid on misspelled keywords, do not use them in ad groups that contain {keyword} dynamic text.
 
-**Symbols, special characters, and abbreviations**
+**Symbols, Special Characters, and Abbreviations**
 
 *   Use numbers, letters, and symbols in a way that reflects normal speech.
 *   Only one price or % allowed per ad. This includes discounts and price reductions, such as 25% 50% off! or $99.99 $89.99 $79.99!
 *   Consecutive, non-alphanumeric characters are not allowed. For example, "TV - Only $5.95/Mo!!!"
 *   Use of italic, bold, superscript, subscript or other enhanced or resized fonts is not allowed.
-*   Use of the trademark symbol ™ or copyright symbol ® in the ad title or ad text is not allowed unless the trademark is already registered or in the process of application. For more information, please see the [Intellectual property policies](#apex/ads/en/60211/0).
+*   Use of the trademark symbol ™ or copyright symbol ® in the ad title or ad text is not allowed unless the trademark is already registered or in the process of application. For more information, please see the [Intellectual Property Policies](#apex/ads/en/60211/0).
 *   Symbols not used as part of the language of the ad are not allowed in ad copy. For example, the following types of symbols and characters are not allowed in the ad title, ad text or keyword list:
     *   Wingdings, dingbats, arrows, bullets, or other symbols used to draw attention to an ad.
     *   Mathematical symbols such as <, >, =
@@ -75,27 +75,27 @@ Text
     *   A plus sign (+) may be used in place of "plus."
     *   An asterisk (\*) may be used to denote travel category stars—"4\* hotel," for example.
 
-**Word count and character limits** **Search**
+**Word Count and Character Limits** **Search**
 
 *   Minimum word count. A combined total of at least 3 words is required in your title and descriptive text.
-*   Character limitations. If your ad title, ad text or destination URL exceeds certain character limitations, you will receive an error message. Character limits are calculated with dynamic text included in the calculation. For additional information on character limits please visit our [help page](#apex/ads/en/56812/0).
+*   Character limitations. If your ad title, ad text or destination URL exceeds certain character limitations, you will receive an error message. Character limits are calculated with dynamic text included in the calculation. For additional information on character limits please visit our [Help Page](#apex/ads/en/56812/0).
 
-**URL characters**
+**URL Characters**
 
 Display URLs and final URLs may only be in Latin, ASCII characters and must not contain accents or diacritics. Display URLs and final URLs with non-Latin characters — such as Chinese or Russian characters, for example — and Latin characters with accents and diacritics — such as http://contosé.com, for example — will be rejected.
 
 **Search**
 
-_URL types_
+_URL Types_
 
 *   Display URL: The web page address that appears in your ad text.
 *   Final URL: The upgraded version of the URL address of the page on your website that people reach when they click your ad from a desktop or laptop.
 *   Tracking URL: The address that enables you to track performance.
 *   Landing page URL: The address of the final web page where users end up after clicking an ad.
 
-_Final and landing page URL_
+_Final and Landing Page URL_
 
-The final URL must work properly and resolve to a single working website. It cannot connect to an email address or a file or result in a page with a 404 or other 4xx status code. [The Microsoft Advertising crawler](https://go.microsoft.com/fwlink?LinkId=690094) should not be blocked by your website Additionally, non-standard characters and IP addresses are disallowed.
+The final URL must work properly and resolve to a single working website. It cannot connect to an email address or a file or result in a page with a 404 or other 4xx status code. [The Microsoft Advertising Crawler](https://go.microsoft.com/fwlink?LinkId=690094) should not be blocked by your website Additionally, non-standard characters and IP addresses are disallowed.
 
 ![The final URL must work properly and resolve to a single working website.](https://help.ads.microsoft.com/resources/targeted/Bing_Ads/EN/Policies_CreativeSpecs10.png)
 
@@ -104,14 +104,14 @@ _Display URL_
 *   The final URL determines the display URL; however, relevant content subfolders can be added.
 *   Display URLs in a single ad group must use the same top-level URL domain. For example, your ad group can feature display URLs with multiple folders – such as Microsoft.com/Office and Microsoft.com/Skype – but it may not feature multiple display URLs with different top-level domains – such as Microsoft.com and Contoso.com.
 
-_URL mismatch_
+_URL Mismatch_
 
 *   The display URL must match the landing page URL.
 *   If a tracking template is used to redirect the user, the landing page URL domain and content must match the final URL domain and content.
 
 ![The display URL must match the landing page URL.](https://help.ads.microsoft.com/resources/targeted/Bing_Ads/EN/Policies_CreativeSpecs11.png)
 
-_Acceptable URL mismatch_
+_Acceptable URL Mismatch_
 
 Limited to the following circumstances, non-matching display and landing page URLs are acceptable.
 
@@ -136,7 +136,7 @@ Limited to the following circumstances, non-matching display and landing page UR
     *   Final URL: products.microsoft.com/?office...
     *   Landing Page URL: products.microsoft.com/?office...
 
-Ad language
+Ad Language
 -----------
 
 *   The language used in the ad must be appropriate for the market in which the ad is displayed.
@@ -156,14 +156,14 @@ Please select a market from the dropdown menu above.
 Imagery
 -------
 
-*   Images must be high resolution and clear.  Images may not be fuzzy, obscured, or unreadable. Images must comply with our [Creative specs](#apex/ads/en/60207/0).
+*   Images must be high resolution and clear.  Images may not be fuzzy, obscured, or unreadable. Images must comply with our [Creative Specs](#apex/ads/en/60207/0).
 *   The image may not resolve in “image not available” or similar. 
 *   Distorted or overly cropped images are not allowed. 
 *   The image must be relevant to the product that is being promoted. 
 *   Ads cannot appear to be part of the targeted site and imitate the look, feel or functionality (example: An ad on MSN should not look like an MSN featured story or have links that mimic editorial links).
 *   Ads cannot have non-functional elements.
 *   Ads that use standalone buttons as images that lack clear context explaining their function are prohibited.
-*   Advertisers should use accurate brand or logos. For example, do not use old, outdated logos or logos that do not match the product or service advertised (for example image of a Windows Phone associated to a Microsoft Surface ad text).[Microsoft Advertising Intellectual Property policies](#apex/ads/en/60211/0) also apply.
+*   Advertisers should use accurate brand or logos. For example, do not use old, outdated logos or logos that do not match the product or service advertised (for example image of a Windows Phone associated to a Microsoft Surface ad text).[Microsoft Advertising Intellectual Property Policies](#apex/ads/en/60211/0) also apply.
 *   In ads with multiple product and price offerings, offers and associated images must be consistent in quality, theme, and relevance to each other. 
 *   Multiple disparate brands cannot be used in the same creative unless there is a brand partnership campaign.
 
@@ -190,7 +190,7 @@ Video
 *   All movie trailers must be rated for all audiences and include all required disclosures. 
 *   Video ads must adhere to all other policies. 
 
-Ad functionality
+Ad Functionality
 ----------------
 
 *   Individualized content is not allowed.
@@ -232,7 +232,7 @@ Additional resources
 
 - - -
 
-General ad requirements
+General Ad Requirements
 =======================
 
 This topic focuses on the general ad requirements for ads on Microsoft Advertising.
@@ -251,7 +251,7 @@ This page was last updated on January 26, 2026.
 
 Our general ad requirements are designed to create a high-quality experience for our users, advertisers, and publishers. These guidelines ensure that advertisements are relevant, non-intrusive, and adhere to industry standards for content and presentation. By maintaining these standards, we foster a trustworthy environment where users feel safe and advertisers can effectively reach their audience.
 
-Ads must:
+Ads Must:
 ---------
 
 *   Ensure that the ad copy and landing pages comply with all [Microsoft Advertising Policies](#apex/ads/en/52023/1).
@@ -274,7 +274,7 @@ Text
 *   Titles should be title-cased in English-speaking markets. Titles should be sentence-cased in German-, French-, Spanish-, Italian-, and Dutch-speaking markets. Descriptions must be sentence case.
 *   Legitimate acronyms and advertiser brand names that are registered in all capital letters are allowed.
 
-**Grammar, punctuation, and spelling**
+**Grammar, Punctuation, and Spelling**
 
 *   Grammar and spelling must be correct unless the incorrect grammar or spelling is part of the corporate or product branding.
 *   One exclamation point or question mark is allowed per sentence in ad text.
@@ -285,13 +285,13 @@ Text
 *   Spelling of dynamic text, such as that used for {keyword}, {param2}, and {param3}, must be correct.
     *   If you bid on misspelled keywords, do not use them in ad groups that contain {keyword} dynamic text.
 
-**Symbols, special characters, and abbreviations**
+**Symbols, Special Characters, and Abbreviations**
 
 *   Use numbers, letters, and symbols in a way that reflects normal speech.
 *   Only one price or % allowed per ad. This includes discounts and price reductions, such as 25% 50% off! or $99.99 $89.99 $79.99!
 *   Consecutive, non-alphanumeric characters are not allowed. For example, "TV - Only $5.95/Mo!!!"
 *   Use of italic, bold, superscript, subscript or other enhanced or resized fonts is not allowed.
-*   Use of the trademark symbol ™ or copyright symbol ® in the ad title or ad text is not allowed unless the trademark is already registered or in the process of application. For more information, please see the [Intellectual property policies](#apex/ads/en/60211/0).
+*   Use of the trademark symbol ™ or copyright symbol ® in the ad title or ad text is not allowed unless the trademark is already registered or in the process of application. For more information, please see the [Intellectual Property Policies](#apex/ads/en/60211/0).
 *   Symbols not used as part of the language of the ad are not allowed in ad copy. For example, the following types of symbols and characters are not allowed in the ad title, ad text or keyword list:
     *   Wingdings, dingbats, arrows, bullets, or other symbols used to draw attention to an ad.
     *   Mathematical symbols such as <, >, =
@@ -309,27 +309,27 @@ Text
     *   A plus sign (+) may be used in place of "plus."
     *   An asterisk (\*) may be used to denote travel category stars—"4\* hotel," for example.
 
-**Word count and character limits** **Search**
+**Word Count and Character Limits** **Search**
 
 *   Minimum word count. A combined total of at least 3 words is required in your title and descriptive text.
-*   Character limitations. If your ad title, ad text or destination URL exceeds certain character limitations, you will receive an error message. Character limits are calculated with dynamic text included in the calculation. For additional information on character limits please visit our [help page](#apex/ads/en/56812/0).
+*   Character limitations. If your ad title, ad text or destination URL exceeds certain character limitations, you will receive an error message. Character limits are calculated with dynamic text included in the calculation. For additional information on character limits please visit our [Help Page](#apex/ads/en/56812/0).
 
-**URL characters**
+**URL Characters**
 
 Display URLs and final URLs may only be in Latin, ASCII characters and must not contain accents or diacritics. Display URLs and final URLs with non-Latin characters — such as Chinese or Russian characters, for example — and Latin characters with accents and diacritics — such as http://contosé.com, for example — will be rejected.
 
 **Search**
 
-_URL types_
+_URL Types_
 
 *   Display URL: The web page address that appears in your ad text.
 *   Final URL: The upgraded version of the URL address of the page on your website that people reach when they click your ad from a desktop or laptop.
 *   Tracking URL: The address that enables you to track performance.
 *   Landing page URL: The address of the final web page where users end up after clicking an ad.
 
-_Final and landing page URL_
+_Final and Landing Page URL_
 
-The final URL must work properly and resolve to a single working website. It cannot connect to an email address or a file or result in a page with a 404 or other 4xx status code. [The Microsoft Advertising crawler](https://go.microsoft.com/fwlink?LinkId=690094) should not be blocked by your website Additionally, non-standard characters and IP addresses are disallowed.
+The final URL must work properly and resolve to a single working website. It cannot connect to an email address or a file or result in a page with a 404 or other 4xx status code. [The Microsoft Advertising Crawler](https://go.microsoft.com/fwlink?LinkId=690094) should not be blocked by your website Additionally, non-standard characters and IP addresses are disallowed.
 
 ![The final URL must work properly and resolve to a single working website.](https://help.ads.microsoft.com/resources/targeted/Bing_Ads/EN/Policies_CreativeSpecs10.png)
 
@@ -338,14 +338,14 @@ _Display URL_
 *   The final URL determines the display URL; however, relevant content subfolders can be added.
 *   Display URLs in a single ad group must use the same top-level URL domain. For example, your ad group can feature display URLs with multiple folders – such as Microsoft.com/Office and Microsoft.com/Skype – but it may not feature multiple display URLs with different top-level domains – such as Microsoft.com and Contoso.com.
 
-_URL mismatch_
+_URL Mismatch_
 
 *   The display URL must match the landing page URL.
 *   If a tracking template is used to redirect the user, the landing page URL domain and content must match the final URL domain and content.
 
 ![The display URL must match the landing page URL.](https://help.ads.microsoft.com/resources/targeted/Bing_Ads/EN/Policies_CreativeSpecs11.png)
 
-_Acceptable URL mismatch_
+_Acceptable URL Mismatch_
 
 Limited to the following circumstances, non-matching display and landing page URLs are acceptable.
 
@@ -370,7 +370,7 @@ Limited to the following circumstances, non-matching display and landing page UR
     *   Final URL: products.microsoft.com/?office...
     *   Landing Page URL: products.microsoft.com/?office...
 
-Ad language
+Ad Language
 -----------
 
 *   The language used in the ad must be appropriate for the market in which the ad is displayed.
@@ -390,14 +390,14 @@ Please select a market from the dropdown menu above.
 Imagery
 -------
 
-*   Images must be high resolution and clear.  Images may not be fuzzy, obscured, or unreadable. Images must comply with our [Creative specs](#apex/ads/en/60207/0).
+*   Images must be high resolution and clear.  Images may not be fuzzy, obscured, or unreadable. Images must comply with our [Creative Specs](#apex/ads/en/60207/0).
 *   The image may not resolve in “image not available” or similar. 
 *   Distorted or overly cropped images are not allowed. 
 *   The image must be relevant to the product that is being promoted. 
 *   Ads cannot appear to be part of the targeted site and imitate the look, feel or functionality (example: An ad on MSN should not look like an MSN featured story or have links that mimic editorial links).
 *   Ads cannot have non-functional elements.
 *   Ads that use standalone buttons as images that lack clear context explaining their function are prohibited.
-*   Advertisers should use accurate brand or logos. For example, do not use old, outdated logos or logos that do not match the product or service advertised (for example image of a Windows Phone associated to a Microsoft Surface ad text).[Microsoft Advertising Intellectual Property policies](#apex/ads/en/60211/0) also apply.
+*   Advertisers should use accurate brand or logos. For example, do not use old, outdated logos or logos that do not match the product or service advertised (for example image of a Windows Phone associated to a Microsoft Surface ad text).[Microsoft Advertising Intellectual Property Policies](#apex/ads/en/60211/0) also apply.
 *   In ads with multiple product and price offerings, offers and associated images must be consistent in quality, theme, and relevance to each other. 
 *   Multiple disparate brands cannot be used in the same creative unless there is a brand partnership campaign.
 
@@ -424,7 +424,7 @@ Video
 *   All movie trailers must be rated for all audiences and include all required disclosures. 
 *   Video ads must adhere to all other policies. 
 
-Ad functionality
+Ad Functionality
 ----------------
 
 *   Individualized content is not allowed.
