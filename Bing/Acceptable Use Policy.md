@@ -1,4 +1,4 @@
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -19,21 +19,21 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
-The penalty varies by the nature of the violation, and the number of violations. [Learn more](#apex/ads/en/60210/0)
+The penalty varies by the nature of the violation, and the number of violations. [Learn More](#apex/ads/en/60210/0)
 
 ##### Note
 
-Go back to [Disallowed content](#apex/ads/en/60208/0)
+Go back to [Disallowed Content](#apex/ads/en/60208/0)
 
 Additional resources
 --------------------
@@ -47,7 +47,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -68,21 +68,21 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
-The penalty varies by the nature of the violation, and the number of violations. [Learn more](#apex/ads/en/60210/0)
+The penalty varies by the nature of the violation, and the number of violations. [Learn More](#apex/ads/en/60210/0)
 
 ##### Note
 
-Go back to [Disallowed content](#apex/ads/en/60208/0)
+Go back to [Disallowed Content](#apex/ads/en/60208/0)
 
 Additional resources
 --------------------
@@ -96,7 +96,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -117,21 +117,21 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
-The penalty varies by the nature of the violation, and the number of violations. [Learn more](#apex/ads/en/60210/0)
+The penalty varies by the nature of the violation, and the number of violations. [Learn More](#apex/ads/en/60210/0)
 
 ##### Note
 
-Go back to [Disallowed content](#apex/ads/en/60208/0)
+Go back to [Disallowed Content](#apex/ads/en/60208/0)
 
 Additional resources
 --------------------
@@ -145,7 +145,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -166,21 +166,21 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
-The penalty varies by the nature of the violation, and the number of violations. [Learn more](#apex/ads/en/60210/0)
+The penalty varies by the nature of the violation, and the number of violations. [Learn More](#apex/ads/en/60210/0)
 
 ##### Note
 
-Go back to [Disallowed content](#apex/ads/en/60208/0)
+Go back to [Disallowed Content](#apex/ads/en/60208/0)
 
 Additional resources
 --------------------
@@ -194,7 +194,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -215,21 +215,21 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
-The penalty varies by the nature of the violation, and the number of violations. [Learn more](#apex/ads/en/60210/0)
+The penalty varies by the nature of the violation, and the number of violations. [Learn More](#apex/ads/en/60210/0)
 
 ##### Note
 
-Go back to [Disallowed content](#apex/ads/en/60208/0)
+Go back to [Disallowed Content](#apex/ads/en/60208/0)
 
 Additional resources
 --------------------
@@ -243,7 +243,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -264,21 +264,21 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
-The penalty varies by the nature of the violation, and the number of violations. [Learn more](#apex/ads/en/60210/0)
+The penalty varies by the nature of the violation, and the number of violations. [Learn More](#apex/ads/en/60210/0)
 
 ##### Note
 
-Go back to [Disallowed content](#apex/ads/en/60208/0)
+Go back to [Disallowed Content](#apex/ads/en/60208/0)
 
 Additional resources
 --------------------
@@ -292,7 +292,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -313,14 +313,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -338,7 +338,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -359,14 +359,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -384,7 +384,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -405,14 +405,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -430,7 +430,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -451,14 +451,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -476,7 +476,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -497,14 +497,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -522,7 +522,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -543,14 +543,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -568,7 +568,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -589,14 +589,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -614,7 +614,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -635,14 +635,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -660,7 +660,7 @@ Additional resources
 
 - - -
 
-Unmoderated user-generated content
+Unmoderated User-Generated Content
 ==================================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -681,14 +681,14 @@ Microsoft is committed to ensuring that all advertisements comply with legal sta
 
 Therefore, we prohibit advertising for sites or apps that contain unmoderated user-generated content (UGC). This includes, but is not limited to, content that:
 
-*   **Lacks proper moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
-*   **Compromises privacy:** UGC that discloses personal information without consent or violates privacy laws.
+*   **Lacks Proper Moderation:** Platforms or services that do not have adequate measures in place to monitor and remove harmful or inappropriate content.
+*   **Compromises Privacy:** UGC that discloses personal information without consent or violates privacy laws.
 
-**Examples of prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
+**Examples of Prohibited UGC:***   Forums or social media platforms that do not actively moderate user posts for hate speech or illegal activities.
 *   Video-sharing platforms that allow the upload of copyrighted material without proper licensing.
   
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
