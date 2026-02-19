@@ -1,4 +1,4 @@
-Creative specs
+Creative Specs
 ==============
 
 Information about creative specifications for Microsoft Advertising Display, Native, and Video ads that will be served on Microsoft Publishers including MSN, Outlook, mobile, Xbox, and more.
@@ -7,7 +7,7 @@ Get information about creative specifications for Microsoft Advertising Display,
 
 [Display ads creative specs](#apex/ads/en/60207/0/#exp6)
 
-Display advertising overview
+Display Advertising Overview
 ----------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -21,7 +21,7 @@ All advertising must conform to the .
 Microsoft Invest
 ----------------
 
-**HTML5 Creative Guidelines and Specifications**
+**Html5 Creative Guidelines and Specifications**
 
 To serve on the Xandr platform and other third-party platforms, all HTML5 creatives must adhere to the guidelines and specifications listed here, our creative standards, and any other guidelines that may apply.
 
@@ -30,23 +30,23 @@ Adhere to these guidelines and specifications when creating HTML5 creatives:
 *   All hosted HTML5 creatives must be uploaded in a single zip file.
 *   The zip file must contain an index.html file that resides at the root of the zip file and not in a subfolder.
 *   The index.html file should be a complete and valid HTML document that includes the <html>, <head>, and <body> entities.
-*   The _clickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _clickTag_ parameter ensures that:
+*   The _ClickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _ClickTag_ parameter ensures that:
     *   Clicks are tracked properly when the creative is served.
     *   The corresponding landing page can be opened when the creative is clicked.
-*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [HTML5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB standards](https://go.microsoft.com/fwlink?LinkId=2262548).
+*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [Html5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB Standards](https://go.microsoft.com/fwlink?LinkId=2262548).
 
 Creative designers can reference the following guides when creating new HTML5 creatives:
 
-*   [Use IAB's HTML5 clickTag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
-*   [Build an HTML5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
-*   [Build an HTML5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
+*   [Use IAB's Html5 Clicktag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
+*   [Build an Html5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
+*   [Build an Html5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
 
 Ad traffickers can reference the following guides for integrating HTML5 creatives, which have been created in Google Web Designer and Adobe Edge, into websites efficiently:
 
-*   [Integrating the HTML5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
-*   [Integrating the HTML5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
+*   [Integrating the Html5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
+*   [Integrating the Html5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
 
-Microsoft Advertising platform Display
+Microsoft Advertising Platform Display
 --------------------------------------
 
 **Deliverables**
@@ -62,7 +62,7 @@ Microsoft Advertising platform Display
 | Expandable | Not supported |
 | File size | Max 1GB |
 
-Advertising on Microsoft owned and operated (O&O) publishers
+Advertising on Microsoft Owned and Operated (O&O) Publishers
 ------------------------------------------------------------
 
 Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported through Microsoft Invest as well as via third-party platforms. While these options support a broad range of features and ad sizes, Microsoft O&O has the requirements documented below.
@@ -87,7 +87,7 @@ Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported throu
 | Data reported | 3rd Party Rich Media partners will typically provide impressions and click-through data, as well as enhanced metrics. Please consult your Certified Rich Media partner of choice for more details. |
 | Data collection | Microsoft permits advertisers to collect user-provided personal information (for example, through web forms embedded in ads). Advertisers may be required to modify ad units or provide additional disclosure in order to be acceptable for advertising on Microsoft sites. Advertisers wishing to collect personal information within advertisements (according to specifications above) must follow these guidelines: Clearly identify the organization, provide link to privacy policy, Identify purpose for collection information. |
 
-Supported ad dimensions
+Supported Ad Dimensions
 -----------------------
 
 |     | MSN | Outlook | Mobile | Xbox |
@@ -105,7 +105,7 @@ Supported ad dimensions
 Deliverables
 ------------
 
-**MSN, Outlook, Mobile**
+**Msn, Outlook, Mobile**
 
 | File | Required format | Dimensions | Maximum file size |
 | --- | --- | --- | --- |
@@ -123,12 +123,12 @@ Deliverables
 | Static banner | PSD, JPG | 400 x 225 (Home)  <br>468 x 263 (Store) | N/A |
 | Full screen video | MOV, MP4 | 1920 x 1080 | Highest quality possible, uncompressed |
 
-Display ads performance standards
+Display Ads Performance Standards
 ---------------------------------
 
 This section describes the methodology, metrics, and standards Microsoft uses to assess the performance of display ads, where ad performance in this context refers to the weight or heaviness of an ad. The standards documented below are in alignment with the [IAB Guidelines](https://go.microsoft.com/fwlink?LinkId=2262551) published in July 2017. Ads that do not comply with the performance standards outlined below will be prohibited from displaying on Microsoft online properties.
 
-**Background: Why display ad performance is important**
+**Background: Why Display Ad Performance Is Important**
 
 Better ad performance is a win-win for ad providers and publishers. Said another way:
 
@@ -158,7 +158,7 @@ This section describes each of the three performance metrics in more detail, inc
 
 ##### Important
 
-Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [browser intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
+Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [Browser Intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
   
 If a creative satisfies any of the following criteria, it is considered heavy:
 
@@ -168,7 +168,7 @@ If a creative satisfies any of the following criteria, it is considered heavy:
 
 [Native ads creative specs](#apex/ads/en/60207/0/#exp405)
 
-MSN Native
+Msn Native
 ----------
 
 **Overview**
@@ -187,7 +187,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 | Sponsor (Brand) | Text | < 25 characters |     |
 | URL | Text |     |     |
 
-**Creative best practices for programmatic Native**
+**Creative Best Practices for Programmatic Native**
 
 *   Turbo-charge your call-to-action: Immediately highlight your main point with eye-catching wording to create urgency and drive engagement.
 *   Choose compelling images: People, particularly shown experiencing an emotion associated with your headline, increase impact. Also, avoid text overlays on image assets.
@@ -196,7 +196,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
 Outlook Native
 --------------
@@ -223,11 +223,11 @@ Creative best practice - Turbo-charge your call-to-action: Immediately highlight
 
 **Examples**
 
-_Outlook PC web_
+_Outlook PC Web_
 
 **Examples**
 
-_Outlook mobile web_
+_Outlook Mobile Web_
 
 Microsoft Audience Network
 --------------------------
@@ -241,7 +241,7 @@ Getting started is simple.
 *   For image-based ads: Upload an image, copy, and URL. Microsoft Advertising will format your content to match the unique look and feel of the publisher site, whether it's displayed on a smartphone, tablet, or laptop.
 *   For Video & Connected TV ads: Upload your video creative, adhering to our video quality ratings that are outlined below. The quality of your video will determine where your ads can serve—the higher the video quality, the more premium placements you'll be able to access. Note, Video & Connected TV ads are currently in open beta; so, they may not be available yet to all advertisers. Get in touch with your account team to know more.
 
-**Image-based ad deliverables**
+**Image-Based Ad Deliverables**
 
 | Ad components | File type | Dimensions |
 | --- | --- | --- |
@@ -253,7 +253,7 @@ Getting started is simple.
 | URL | Text | 1024 characters max |
 | Mobile URL | Text | 1024 characters max |
 
-**Creative best practices for audience ads**
+**Creative Best Practices for Audience Ads**
 
 *   Images are recommended to have no text or logo overlay for maximum flexibility.
 *   Some publishers prohibit the use of embedded text within images.
@@ -268,33 +268,33 @@ Getting started is simple.
 *   The image must be clearly relevant to the product or service being advertised.
 *   Image assets used for Audience Ads share the same dimensions as Google Display Network, Meta Audience Network, and Yahoo Gemini.
 
-**Safe area**
+**Safe Area**
 
 Publishers place "sponsored" or "ad" icons typically near the bottom of the image along with the headline and business name text. This should be considered when choosing image content.
 
 Audience ads allow individual image cropping to support all aspect ratios for each ad experience. Using the preview tool is important to validate each ad experience. If your ad isn't showing as expected in each aspect ratio, you can re-crop it.
 
-**Ad variants**
+**Ad Variants**
 
-_Audience Network wide image (1:91:1)_  
+_Audience Network Wide Image (1:91:1)_  
 
-_Microsoft Edge single carousel (1:78:1)_  
+_Microsoft Edge Single Carousel (1:78:1)_  
 
-_MSN in-article ad (1.5:1)_  
+_Msn in-Article Ad (1.5:1)_  
 
-_MSN small headline (1.33:1)_  
+_Msn Small Headline (1.33:1)_  
 
-_Audience Network square image (1:1)_  
+_Audience Network Square Image (1:1)_  
 
-_Outlook.com web desktop (text)_  
+_Outlook.com Web Desktop (text)_  
 
-_Outlook.com mobile web (text)_  
+_Outlook.com Mobile Web (text)_  
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
-**Video-based ad deliverables**
+**Video-Based Ad Deliverables**
 
 With Video & Connected TV ads, advertisers can reach their audience across a wide range of online Video and Connected TV inventory. To access more premium online video and CTV inventory, advertisers need to upload higher quality assets.
 
@@ -327,7 +327,7 @@ Use the below guidelines to understand what the requirements are for each of the
 
 [Video ads creative specs](#apex/ads/en/60207/0/#exp718)
 
-Video advertising overview
+Video Advertising Overview
 --------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -350,7 +350,7 @@ To serve on the Microsoft Invest platform, all video creatives must adhere to th
 | Video size and bitrate | 2160 px; 30000 kpbs  <br>1280 px; 8000 kpbs  <br>1080 px; 7000 kpbs  <br>720 px; 2500, 2000, 1700, 1100, 600 kpbs  <br>432 px; 1700, 1500, 1000, 500 kpbs  <br>_Note_: 1280 x 720 px @ 2500 kbps recommended minimum. |
 | VAST | Version 2.0 or higher is supported. |
 
-**Guidelines and specifications for third-party video creatives**
+**Guidelines and Specifications for Third-Party Video Creatives**
 
 Adhere to these guidelines and specifications when creating video creatives that will be trafficked through a third-party ad server:
 
@@ -364,17 +364,17 @@ Adhere to these guidelines and specifications when creating video creatives that
     *   2500 kbps (optimized for high-speed connections)
 *   Use secure tags in all cases. If you are trafficking VPAID creatives, make sure to properly secure every referenced file.
 
-Video & Connected TV ads - Microsoft Advertising Platform
+Video & Connected TV Ads - Microsoft Advertising Platform
 ---------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | Video & Connected TV |
 | --- | --- |
 | Linear video | Yes |
 | Linear video \| VPAID | No  |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -382,7 +382,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Mid-roll | Yes |
 | Post-roll | Yes |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -391,7 +391,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Standard video metrics | Yes |
 | Click-through URL | No  |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -400,7 +400,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | VPAID 1.0 (Flash) | No  |
 | VPAID 2.0 (JS) | No  |
 
-**User experience**
+**User Experience**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -440,17 +440,17 @@ Use the below guidelines to understand what the requirements are for each of the
 | Track conformance | N/A | N/A | File should contain only 1 video and 1 audio track. |
 | Duration conformance | N/A | N/A | Video and audio track durations should match with tolerance of 500 ms. |
 
-Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
+Third-Party Video Advertising on Microsoft Publishers (Msn, In-App, Xbox, Mcg)
 ------------------------------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
 | Linear video | Yes | Yes | Yes | Yes | Yes |
 | Linear video \| VPAID | Yes | Yes | No  | No  | Yes |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -458,7 +458,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Mid-roll | Yes | No  | No  | No  | No  |
 | Post-roll | No  | No  | No  | No  | No  |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -467,7 +467,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Standard video metrics | Yes | Yes | Yes | Yes | Yes |
 | Click-through URL | Yes | Yes | Yes | N/A | Yes |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -476,7 +476,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | VPAID 1.0 (Flash) | No  | No  | No  | No  | No  |
 | VPAID 2.0 (JS) | Yes | Yes | No  | No  | Yes |
 
-**User experience**
+**User Experience**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -518,7 +518,7 @@ _Xbox_
 *   Click to video only.
 *   Key art assets (i.e. Layered PSD, AI, EPS, illustrations, photos, fonts) are needed for our design team to build out static banners, video banner overlays, and landing experience branded pages.
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 This specification covers linear video ad formats that are third-party served (ad is delivered via [IAB's Video Ad Serving Template (VAST)](https://go.microsoft.com/fwlink?LinkId=2262195)).
 
@@ -532,7 +532,7 @@ All third-party ad servers must meet the below requirements:
 *   Media files present in the ad response should provide the full range of supported frame sizes and bit rates, sorted in order of preference HD, Mobile HD, SD, Mobile SD (specifications as indicated in the above table). Please do not attempt to perform device/bandwidth detection to scope the available media files list; players will make the appropriate bit rate selection client-side.
 *   Pop-up and pop-under windows are not supported on any product.
 
-**VAST wrapper ads**
+**VAST Wrapper Ads**
 
 *   Ad tag tokens will not be evaluated at runtime by the player. The VAST ad tag URL should be returned fully decorated by the ad server returning the wrapper ad response. This includes but is not limited to cache busting tokens.
 *   The maximum number of chained wrappers supported is currently 3 with the 4th tag expected to provide an inline ad response. Chains longer than this number cannot be guaranteed for delivery or reporting accuracy.
@@ -566,11 +566,11 @@ All third-party ad servers must meet the below requirements:
         *   If the video playback pauses on click, the ad must render a resume button over the video content so that the user can resume the ad and reach the content experience.
         *   The VPAID AdClickThru event must be raised for video click-thrus. If the ad opts to handle the click thru directly, the destination page must open in a new (non-modal) tab/window and must not replace the current window/frame.
 
-_IAB VPAID 2.0 support limitations_
+_IAB VPAID 2.0 Support Limitations_
 
 *   Only VAST 3.0 delivery is supported at this time (see related linear video spec for more details), it is important to note that skip functionality is not supported within the player. Therefore, if skip functionality is desired VPAID 2.0 should be used.
 
-_VPAID vendor certification_
+_VPAID Vendor Certification_
 
 All VPAID vendors must submit test assets for certification prior for running VPAID ads on Microsoft Advertising properties. Please work with your account team representative to submit for VPAID vendor certification. VPAID vendors are expected to VAST deliver their VPAID ad content. If the VPAID vendor will also serve linear video through the same ad server to Microsoft Advertising, they should submit for both VAST and VPAID vendor certification. Otherwise, if the VAST payload is mostly static and does not vary by advertiser, only VPAID certification is required.
 
@@ -582,7 +582,7 @@ _VPAID Interface Requirements_
 *   VPAID ad must update the adRemainingTime property with the actual duration of the ad or clearly indicating an unknown value within the first second after the video start event.
 *   AdStarted event and AdImpression event must fire as simultaneously as possible.
 
-_Cross-domain data request_
+_Cross-Domain Data Request_
 
 Vendor ad servers, CDNs, and all server-side resources referenced in the VAST tag and VPAID ad must allow Microsoft & Microsoft partner domains (\*msn.com; \*.fwmrm.net; \*.s-msn.com) to access cross-site data via the following method:
 
@@ -590,28 +590,28 @@ Vendor ad servers, CDNs, and all server-side resources referenced in the VAST ta
     *   Example CORS response header:  
         Access-Control-Allow-Origin: \*
 
-**Other third-party served ad policies**
+**Other Third-Party Served Ad Policies**
 
-_Discrepancy rates between ad servers_
+_Discrepancy Rates Between Ad Servers_
 
 Microsoft does not provide guarantees relating to 3rd party served discrepancies but will commit to investigate discrepancies that exceed accepted industry standard discrepancy rates.
 
-_Server-to-server ad calls_
+_Server-to-Server Ad Calls_
 
 Microsoft does not currently employ server-to-server ad calls for vendor ad tags. Furthermore, it is strongly preferred that Microsoft provided ad tags for third-party sourced inventory are called directly from the client, however, server-to-server ad calls can be supported provided the following attributes are communicated to the MSFT ad server on the ad call (work with your account team to get specific query-string parameters for these attributes).
 
 *   Client IP address
 *   User agent
 
-_Max tracking pixels per event_
+_Max Tracking Pixels per Event_
 
 While no hard limit is enforced on the MSFT properties, the maximum recommended number of tracking pixels per event is set at five (5). This limit is proposed to reduce risk of latent or dropped event tracking and ensure discrepancy rates within industry norms.
 
-**Metrics & reporting**
+**Metrics & Reporting**
 
 The following events are supported across the video product portfolio for first-party and third-party served ads.
 
-_Video events_
+_Video Events_
 
 *   Play (impression)
 *   Video click
@@ -626,16 +626,16 @@ _Video events_
 
 **Examples**
 
-_MSN video_
+_Msn Video_
 
-Outstream and video in display
+Outstream and Video in Display
 ------------------------------
 
 **Overview**
 
 This specification covers linear video ad formats for third-party served (ad is delivered via IAB's Video Ad Serving Template (VAST)). Please refer to the section and columns headers when reading this document as some elements of the specification vary depending on which party is serving the ad.
 
-**Ad specifications**
+**Ad Specifications**
 
 |     |     |
 | --- | --- |
@@ -649,7 +649,7 @@ This specification covers linear video ad formats for third-party served (ad is 
 | Frameworks | VPAID 2.0 |
 | Player technology | HTML5 |
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 Outstream video ad creative must be delivered by certified third-party ad servers. All third-party ad servers must be certified with Microsoft for each IAB standard and version. Work with your representative to verify certification or request certification for new vendors.
 
@@ -676,9 +676,9 @@ Outstream video ad creative must be delivered by certified third-party ad server
 
 **Examples**
 
-_Outstream video_
+_Outstream Video_
 
-_Video in display_
+_Video in Display_
 
 Additional resources
 --------------------
@@ -689,7 +689,7 @@ Additional resources
 
 - - -
 
-Creative specs
+Creative Specs
 ==============
 
 Information about creative specifications for Microsoft Advertising Display, Native, and Video ads that will be served on Microsoft Publishers including MSN, Outlook, mobile, Xbox, and more.
@@ -698,7 +698,7 @@ Get information about creative specifications for Microsoft Advertising Display,
 
 [Display ads creative specs](#apex/ads/en/60207/0/#exp6)
 
-Display advertising overview
+Display Advertising Overview
 ----------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -712,7 +712,7 @@ All advertising must conform to the .
 Microsoft Invest
 ----------------
 
-**HTML5 Creative Guidelines and Specifications**
+**Html5 Creative Guidelines and Specifications**
 
 To serve on the Xandr platform and other third-party platforms, all HTML5 creatives must adhere to the guidelines and specifications listed here, our creative standards, and any other guidelines that may apply.
 
@@ -721,23 +721,23 @@ Adhere to these guidelines and specifications when creating HTML5 creatives:
 *   All hosted HTML5 creatives must be uploaded in a single zip file.
 *   The zip file must contain an index.html file that resides at the root of the zip file and not in a subfolder.
 *   The index.html file should be a complete and valid HTML document that includes the <html>, <head>, and <body> entities.
-*   The _clickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _clickTag_ parameter ensures that:
+*   The _ClickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _ClickTag_ parameter ensures that:
     *   Clicks are tracked properly when the creative is served.
     *   The corresponding landing page can be opened when the creative is clicked.
-*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [HTML5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB standards](https://go.microsoft.com/fwlink?LinkId=2262548).
+*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [Html5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB Standards](https://go.microsoft.com/fwlink?LinkId=2262548).
 
 Creative designers can reference the following guides when creating new HTML5 creatives:
 
-*   [Use IAB's HTML5 clickTag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
-*   [Build an HTML5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
-*   [Build an HTML5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
+*   [Use IAB's Html5 Clicktag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
+*   [Build an Html5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
+*   [Build an Html5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
 
 Ad traffickers can reference the following guides for integrating HTML5 creatives, which have been created in Google Web Designer and Adobe Edge, into websites efficiently:
 
-*   [Integrating the HTML5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
-*   [Integrating the HTML5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
+*   [Integrating the Html5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
+*   [Integrating the Html5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
 
-Microsoft Advertising platform Display
+Microsoft Advertising Platform Display
 --------------------------------------
 
 **Deliverables**
@@ -753,7 +753,7 @@ Microsoft Advertising platform Display
 | Expandable | Not supported |
 | File size | Max 1GB |
 
-Advertising on Microsoft owned and operated (O&O) publishers
+Advertising on Microsoft Owned and Operated (O&O) Publishers
 ------------------------------------------------------------
 
 Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported through Microsoft Invest as well as via third-party platforms. While these options support a broad range of features and ad sizes, Microsoft O&O has the requirements documented below.
@@ -778,7 +778,7 @@ Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported throu
 | Data reported | 3rd Party Rich Media partners will typically provide impressions and click-through data, as well as enhanced metrics. Please consult your Certified Rich Media partner of choice for more details. |
 | Data collection | Microsoft permits advertisers to collect user-provided personal information (for example, through web forms embedded in ads). Advertisers may be required to modify ad units or provide additional disclosure in order to be acceptable for advertising on Microsoft sites. Advertisers wishing to collect personal information within advertisements (according to specifications above) must follow these guidelines: Clearly identify the organization, provide link to privacy policy, Identify purpose for collection information. |
 
-Supported ad dimensions
+Supported Ad Dimensions
 -----------------------
 
 |     | MSN | Outlook | Mobile | Xbox |
@@ -796,7 +796,7 @@ Supported ad dimensions
 Deliverables
 ------------
 
-**MSN, Outlook, Mobile**
+**Msn, Outlook, Mobile**
 
 | File | Required format | Dimensions | Maximum file size |
 | --- | --- | --- | --- |
@@ -814,12 +814,12 @@ Deliverables
 | Static banner | PSD, JPG | 400 x 225 (Home)  <br>468 x 263 (Store) | N/A |
 | Full screen video | MOV, MP4 | 1920 x 1080 | Highest quality possible, uncompressed |
 
-Display ads performance standards
+Display Ads Performance Standards
 ---------------------------------
 
 This section describes the methodology, metrics, and standards Microsoft uses to assess the performance of display ads, where ad performance in this context refers to the weight or heaviness of an ad. The standards documented below are in alignment with the [IAB Guidelines](https://go.microsoft.com/fwlink?LinkId=2262551) published in July 2017. Ads that do not comply with the performance standards outlined below will be prohibited from displaying on Microsoft online properties.
 
-**Background: Why display ad performance is important**
+**Background: Why Display Ad Performance Is Important**
 
 Better ad performance is a win-win for ad providers and publishers. Said another way:
 
@@ -849,7 +849,7 @@ This section describes each of the three performance metrics in more detail, inc
 
 ##### Important
 
-Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [browser intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
+Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [Browser Intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
   
 If a creative satisfies any of the following criteria, it is considered heavy:
 
@@ -859,7 +859,7 @@ If a creative satisfies any of the following criteria, it is considered heavy:
 
 [Native ads creative specs](#apex/ads/en/60207/0/#exp405)
 
-MSN Native
+Msn Native
 ----------
 
 **Overview**
@@ -878,7 +878,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 | Sponsor (Brand) | Text | < 25 characters |     |
 | URL | Text |     |     |
 
-**Creative best practices for programmatic Native**
+**Creative Best Practices for Programmatic Native**
 
 *   Turbo-charge your call-to-action: Immediately highlight your main point with eye-catching wording to create urgency and drive engagement.
 *   Choose compelling images: People, particularly shown experiencing an emotion associated with your headline, increase impact. Also, avoid text overlays on image assets.
@@ -887,7 +887,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
 Outlook Native
 --------------
@@ -914,11 +914,11 @@ Creative best practice - Turbo-charge your call-to-action: Immediately highlight
 
 **Examples**
 
-_Outlook PC web_
+_Outlook PC Web_
 
 **Examples**
 
-_Outlook mobile web_
+_Outlook Mobile Web_
 
 Microsoft Audience Network
 --------------------------
@@ -932,7 +932,7 @@ Getting started is simple.
 *   For image-based ads: Upload an image, copy, and URL. Microsoft Advertising will format your content to match the unique look and feel of the publisher site, whether it's displayed on a smartphone, tablet, or laptop.
 *   For Video & Connected TV ads: Upload your video creative, adhering to our video quality ratings that are outlined below. The quality of your video will determine where your ads can serve—the higher the video quality, the more premium placements you'll be able to access. Note, Video & Connected TV ads are currently in open beta; so, they may not be available yet to all advertisers. Get in touch with your account team to know more.
 
-**Image-based ad deliverables**
+**Image-Based Ad Deliverables**
 
 | Ad components | File type | Dimensions |
 | --- | --- | --- |
@@ -944,7 +944,7 @@ Getting started is simple.
 | URL | Text | 1024 characters max |
 | Mobile URL | Text | 1024 characters max |
 
-**Creative best practices for audience ads**
+**Creative Best Practices for Audience Ads**
 
 *   Images are recommended to have no text or logo overlay for maximum flexibility.
 *   Some publishers prohibit the use of embedded text within images.
@@ -959,33 +959,33 @@ Getting started is simple.
 *   The image must be clearly relevant to the product or service being advertised.
 *   Image assets used for Audience Ads share the same dimensions as Google Display Network, Meta Audience Network, and Yahoo Gemini.
 
-**Safe area**
+**Safe Area**
 
 Publishers place "sponsored" or "ad" icons typically near the bottom of the image along with the headline and business name text. This should be considered when choosing image content.
 
 Audience ads allow individual image cropping to support all aspect ratios for each ad experience. Using the preview tool is important to validate each ad experience. If your ad isn't showing as expected in each aspect ratio, you can re-crop it.
 
-**Ad variants**
+**Ad Variants**
 
-_Audience Network wide image (1:91:1)_  
+_Audience Network Wide Image (1:91:1)_  
 
-_Microsoft Edge single carousel (1:78:1)_  
+_Microsoft Edge Single Carousel (1:78:1)_  
 
-_MSN in-article ad (1.5:1)_  
+_Msn in-Article Ad (1.5:1)_  
 
-_MSN small headline (1.33:1)_  
+_Msn Small Headline (1.33:1)_  
 
-_Audience Network square image (1:1)_  
+_Audience Network Square Image (1:1)_  
 
-_Outlook.com web desktop (text)_  
+_Outlook.com Web Desktop (text)_  
 
-_Outlook.com mobile web (text)_  
+_Outlook.com Mobile Web (text)_  
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
-**Video-based ad deliverables**
+**Video-Based Ad Deliverables**
 
 With Video & Connected TV ads, advertisers can reach their audience across a wide range of online Video and Connected TV inventory. To access more premium online video and CTV inventory, advertisers need to upload higher quality assets.
 
@@ -1018,7 +1018,7 @@ Use the below guidelines to understand what the requirements are for each of the
 
 [Video ads creative specs](#apex/ads/en/60207/0/#exp718)
 
-Video advertising overview
+Video Advertising Overview
 --------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -1041,7 +1041,7 @@ To serve on the Microsoft Invest platform, all video creatives must adhere to th
 | Video size and bitrate | 2160 px; 30000 kpbs  <br>1280 px; 8000 kpbs  <br>1080 px; 7000 kpbs  <br>720 px; 2500, 2000, 1700, 1100, 600 kpbs  <br>432 px; 1700, 1500, 1000, 500 kpbs  <br>_Note_: 1280 x 720 px @ 2500 kbps recommended minimum. |
 | VAST | Version 2.0 or higher is supported. |
 
-**Guidelines and specifications for third-party video creatives**
+**Guidelines and Specifications for Third-Party Video Creatives**
 
 Adhere to these guidelines and specifications when creating video creatives that will be trafficked through a third-party ad server:
 
@@ -1055,17 +1055,17 @@ Adhere to these guidelines and specifications when creating video creatives that
     *   2500 kbps (optimized for high-speed connections)
 *   Use secure tags in all cases. If you are trafficking VPAID creatives, make sure to properly secure every referenced file.
 
-Video & Connected TV ads - Microsoft Advertising Platform
+Video & Connected TV Ads - Microsoft Advertising Platform
 ---------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | Video & Connected TV |
 | --- | --- |
 | Linear video | Yes |
 | Linear video \| VPAID | No  |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1073,7 +1073,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Mid-roll | Yes |
 | Post-roll | Yes |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1082,7 +1082,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Standard video metrics | Yes |
 | Click-through URL | No  |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1091,7 +1091,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | VPAID 1.0 (Flash) | No  |
 | VPAID 2.0 (JS) | No  |
 
-**User experience**
+**User Experience**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1131,17 +1131,17 @@ Use the below guidelines to understand what the requirements are for each of the
 | Track conformance | N/A | N/A | File should contain only 1 video and 1 audio track. |
 | Duration conformance | N/A | N/A | Video and audio track durations should match with tolerance of 500 ms. |
 
-Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
+Third-Party Video Advertising on Microsoft Publishers (Msn, In-App, Xbox, Mcg)
 ------------------------------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
 | Linear video | Yes | Yes | Yes | Yes | Yes |
 | Linear video \| VPAID | Yes | Yes | No  | No  | Yes |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1149,7 +1149,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Mid-roll | Yes | No  | No  | No  | No  |
 | Post-roll | No  | No  | No  | No  | No  |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1158,7 +1158,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Standard video metrics | Yes | Yes | Yes | Yes | Yes |
 | Click-through URL | Yes | Yes | Yes | N/A | Yes |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1167,7 +1167,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | VPAID 1.0 (Flash) | No  | No  | No  | No  | No  |
 | VPAID 2.0 (JS) | Yes | Yes | No  | No  | Yes |
 
-**User experience**
+**User Experience**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1209,7 +1209,7 @@ _Xbox_
 *   Click to video only.
 *   Key art assets (i.e. Layered PSD, AI, EPS, illustrations, photos, fonts) are needed for our design team to build out static banners, video banner overlays, and landing experience branded pages.
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 This specification covers linear video ad formats that are third-party served (ad is delivered via [IAB's Video Ad Serving Template (VAST)](https://go.microsoft.com/fwlink?LinkId=2262195)).
 
@@ -1223,7 +1223,7 @@ All third-party ad servers must meet the below requirements:
 *   Media files present in the ad response should provide the full range of supported frame sizes and bit rates, sorted in order of preference HD, Mobile HD, SD, Mobile SD (specifications as indicated in the above table). Please do not attempt to perform device/bandwidth detection to scope the available media files list; players will make the appropriate bit rate selection client-side.
 *   Pop-up and pop-under windows are not supported on any product.
 
-**VAST wrapper ads**
+**VAST Wrapper Ads**
 
 *   Ad tag tokens will not be evaluated at runtime by the player. The VAST ad tag URL should be returned fully decorated by the ad server returning the wrapper ad response. This includes but is not limited to cache busting tokens.
 *   The maximum number of chained wrappers supported is currently 3 with the 4th tag expected to provide an inline ad response. Chains longer than this number cannot be guaranteed for delivery or reporting accuracy.
@@ -1257,11 +1257,11 @@ All third-party ad servers must meet the below requirements:
         *   If the video playback pauses on click, the ad must render a resume button over the video content so that the user can resume the ad and reach the content experience.
         *   The VPAID AdClickThru event must be raised for video click-thrus. If the ad opts to handle the click thru directly, the destination page must open in a new (non-modal) tab/window and must not replace the current window/frame.
 
-_IAB VPAID 2.0 support limitations_
+_IAB VPAID 2.0 Support Limitations_
 
 *   Only VAST 3.0 delivery is supported at this time (see related linear video spec for more details), it is important to note that skip functionality is not supported within the player. Therefore, if skip functionality is desired VPAID 2.0 should be used.
 
-_VPAID vendor certification_
+_VPAID Vendor Certification_
 
 All VPAID vendors must submit test assets for certification prior for running VPAID ads on Microsoft Advertising properties. Please work with your account team representative to submit for VPAID vendor certification. VPAID vendors are expected to VAST deliver their VPAID ad content. If the VPAID vendor will also serve linear video through the same ad server to Microsoft Advertising, they should submit for both VAST and VPAID vendor certification. Otherwise, if the VAST payload is mostly static and does not vary by advertiser, only VPAID certification is required.
 
@@ -1273,7 +1273,7 @@ _VPAID Interface Requirements_
 *   VPAID ad must update the adRemainingTime property with the actual duration of the ad or clearly indicating an unknown value within the first second after the video start event.
 *   AdStarted event and AdImpression event must fire as simultaneously as possible.
 
-_Cross-domain data request_
+_Cross-Domain Data Request_
 
 Vendor ad servers, CDNs, and all server-side resources referenced in the VAST tag and VPAID ad must allow Microsoft & Microsoft partner domains (\*msn.com; \*.fwmrm.net; \*.s-msn.com) to access cross-site data via the following method:
 
@@ -1281,28 +1281,28 @@ Vendor ad servers, CDNs, and all server-side resources referenced in the VAST ta
     *   Example CORS response header:  
         Access-Control-Allow-Origin: \*
 
-**Other third-party served ad policies**
+**Other Third-Party Served Ad Policies**
 
-_Discrepancy rates between ad servers_
+_Discrepancy Rates Between Ad Servers_
 
 Microsoft does not provide guarantees relating to 3rd party served discrepancies but will commit to investigate discrepancies that exceed accepted industry standard discrepancy rates.
 
-_Server-to-server ad calls_
+_Server-to-Server Ad Calls_
 
 Microsoft does not currently employ server-to-server ad calls for vendor ad tags. Furthermore, it is strongly preferred that Microsoft provided ad tags for third-party sourced inventory are called directly from the client, however, server-to-server ad calls can be supported provided the following attributes are communicated to the MSFT ad server on the ad call (work with your account team to get specific query-string parameters for these attributes).
 
 *   Client IP address
 *   User agent
 
-_Max tracking pixels per event_
+_Max Tracking Pixels per Event_
 
 While no hard limit is enforced on the MSFT properties, the maximum recommended number of tracking pixels per event is set at five (5). This limit is proposed to reduce risk of latent or dropped event tracking and ensure discrepancy rates within industry norms.
 
-**Metrics & reporting**
+**Metrics & Reporting**
 
 The following events are supported across the video product portfolio for first-party and third-party served ads.
 
-_Video events_
+_Video Events_
 
 *   Play (impression)
 *   Video click
@@ -1317,16 +1317,16 @@ _Video events_
 
 **Examples**
 
-_MSN video_
+_Msn Video_
 
-Outstream and video in display
+Outstream and Video in Display
 ------------------------------
 
 **Overview**
 
 This specification covers linear video ad formats for third-party served (ad is delivered via IAB's Video Ad Serving Template (VAST)). Please refer to the section and columns headers when reading this document as some elements of the specification vary depending on which party is serving the ad.
 
-**Ad specifications**
+**Ad Specifications**
 
 |     |     |
 | --- | --- |
@@ -1340,7 +1340,7 @@ This specification covers linear video ad formats for third-party served (ad is 
 | Frameworks | VPAID 2.0 |
 | Player technology | HTML5 |
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 Outstream video ad creative must be delivered by certified third-party ad servers. All third-party ad servers must be certified with Microsoft for each IAB standard and version. Work with your representative to verify certification or request certification for new vendors.
 
@@ -1367,9 +1367,9 @@ Outstream video ad creative must be delivered by certified third-party ad server
 
 **Examples**
 
-_Outstream video_
+_Outstream Video_
 
-_Video in display_
+_Video in Display_
 
 Additional resources
 --------------------
@@ -1380,7 +1380,7 @@ Additional resources
 
 - - -
 
-Creative specs
+Creative Specs
 ==============
 
 Information about creative specifications for Microsoft Advertising Display, Native, and Video ads that will be served on Microsoft Publishers including MSN, Outlook, mobile, Xbox, and more.
@@ -1389,7 +1389,7 @@ Get information about creative specifications for Microsoft Advertising Display,
 
 [Display ads creative specs](#apex/ads/en/60207/0/#exp6)
 
-Display advertising overview
+Display Advertising Overview
 ----------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -1403,7 +1403,7 @@ All advertising must conform to the .
 Microsoft Invest
 ----------------
 
-**HTML5 Creative Guidelines and Specifications**
+**Html5 Creative Guidelines and Specifications**
 
 To serve on the Xandr platform and other third-party platforms, all HTML5 creatives must adhere to the guidelines and specifications listed here, our creative standards, and any other guidelines that may apply.
 
@@ -1412,23 +1412,23 @@ Adhere to these guidelines and specifications when creating HTML5 creatives:
 *   All hosted HTML5 creatives must be uploaded in a single zip file.
 *   The zip file must contain an index.html file that resides at the root of the zip file and not in a subfolder.
 *   The index.html file should be a complete and valid HTML document that includes the <html>, <head>, and <body> entities.
-*   The _clickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _clickTag_ parameter ensures that:
+*   The _ClickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _ClickTag_ parameter ensures that:
     *   Clicks are tracked properly when the creative is served.
     *   The corresponding landing page can be opened when the creative is clicked.
-*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [HTML5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB standards](https://go.microsoft.com/fwlink?LinkId=2262548).
+*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [Html5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB Standards](https://go.microsoft.com/fwlink?LinkId=2262548).
 
 Creative designers can reference the following guides when creating new HTML5 creatives:
 
-*   [Use IAB's HTML5 clickTag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
-*   [Build an HTML5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
-*   [Build an HTML5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
+*   [Use IAB's Html5 Clicktag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
+*   [Build an Html5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
+*   [Build an Html5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
 
 Ad traffickers can reference the following guides for integrating HTML5 creatives, which have been created in Google Web Designer and Adobe Edge, into websites efficiently:
 
-*   [Integrating the HTML5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
-*   [Integrating the HTML5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
+*   [Integrating the Html5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
+*   [Integrating the Html5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
 
-Microsoft Advertising platform Display
+Microsoft Advertising Platform Display
 --------------------------------------
 
 **Deliverables**
@@ -1444,7 +1444,7 @@ Microsoft Advertising platform Display
 | Expandable | Not supported |
 | File size | Max 1GB |
 
-Advertising on Microsoft owned and operated (O&O) publishers
+Advertising on Microsoft Owned and Operated (O&O) Publishers
 ------------------------------------------------------------
 
 Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported through Microsoft Invest as well as via third-party platforms. While these options support a broad range of features and ad sizes, Microsoft O&O has the requirements documented below.
@@ -1469,7 +1469,7 @@ Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported throu
 | Data reported | 3rd Party Rich Media partners will typically provide impressions and click-through data, as well as enhanced metrics. Please consult your Certified Rich Media partner of choice for more details. |
 | Data collection | Microsoft permits advertisers to collect user-provided personal information (for example, through web forms embedded in ads). Advertisers may be required to modify ad units or provide additional disclosure in order to be acceptable for advertising on Microsoft sites. Advertisers wishing to collect personal information within advertisements (according to specifications above) must follow these guidelines: Clearly identify the organization, provide link to privacy policy, Identify purpose for collection information. |
 
-Supported ad dimensions
+Supported Ad Dimensions
 -----------------------
 
 |     | MSN | Outlook | Mobile | Xbox |
@@ -1487,7 +1487,7 @@ Supported ad dimensions
 Deliverables
 ------------
 
-**MSN, Outlook, Mobile**
+**Msn, Outlook, Mobile**
 
 | File | Required format | Dimensions | Maximum file size |
 | --- | --- | --- | --- |
@@ -1505,12 +1505,12 @@ Deliverables
 | Static banner | PSD, JPG | 400 x 225 (Home)  <br>468 x 263 (Store) | N/A |
 | Full screen video | MOV, MP4 | 1920 x 1080 | Highest quality possible, uncompressed |
 
-Display ads performance standards
+Display Ads Performance Standards
 ---------------------------------
 
 This section describes the methodology, metrics, and standards Microsoft uses to assess the performance of display ads, where ad performance in this context refers to the weight or heaviness of an ad. The standards documented below are in alignment with the [IAB Guidelines](https://go.microsoft.com/fwlink?LinkId=2262551) published in July 2017. Ads that do not comply with the performance standards outlined below will be prohibited from displaying on Microsoft online properties.
 
-**Background: Why display ad performance is important**
+**Background: Why Display Ad Performance Is Important**
 
 Better ad performance is a win-win for ad providers and publishers. Said another way:
 
@@ -1540,7 +1540,7 @@ This section describes each of the three performance metrics in more detail, inc
 
 ##### Important
 
-Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [browser intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
+Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [Browser Intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
   
 If a creative satisfies any of the following criteria, it is considered heavy:
 
@@ -1550,7 +1550,7 @@ If a creative satisfies any of the following criteria, it is considered heavy:
 
 [Native ads creative specs](#apex/ads/en/60207/0/#exp405)
 
-MSN Native
+Msn Native
 ----------
 
 **Overview**
@@ -1569,7 +1569,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 | Sponsor (Brand) | Text | < 25 characters |     |
 | URL | Text |     |     |
 
-**Creative best practices for programmatic Native**
+**Creative Best Practices for Programmatic Native**
 
 *   Turbo-charge your call-to-action: Immediately highlight your main point with eye-catching wording to create urgency and drive engagement.
 *   Choose compelling images: People, particularly shown experiencing an emotion associated with your headline, increase impact. Also, avoid text overlays on image assets.
@@ -1578,7 +1578,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
 Outlook Native
 --------------
@@ -1605,11 +1605,11 @@ Creative best practice - Turbo-charge your call-to-action: Immediately highlight
 
 **Examples**
 
-_Outlook PC web_
+_Outlook PC Web_
 
 **Examples**
 
-_Outlook mobile web_
+_Outlook Mobile Web_
 
 Microsoft Audience Network
 --------------------------
@@ -1623,7 +1623,7 @@ Getting started is simple.
 *   For image-based ads: Upload an image, copy, and URL. Microsoft Advertising will format your content to match the unique look and feel of the publisher site, whether it's displayed on a smartphone, tablet, or laptop.
 *   For Video & Connected TV ads: Upload your video creative, adhering to our video quality ratings that are outlined below. The quality of your video will determine where your ads can serve—the higher the video quality, the more premium placements you'll be able to access. Note, Video & Connected TV ads are currently in open beta; so, they may not be available yet to all advertisers. Get in touch with your account team to know more.
 
-**Image-based ad deliverables**
+**Image-Based Ad Deliverables**
 
 | Ad components | File type | Dimensions |
 | --- | --- | --- |
@@ -1635,7 +1635,7 @@ Getting started is simple.
 | URL | Text | 1024 characters max |
 | Mobile URL | Text | 1024 characters max |
 
-**Creative best practices for audience ads**
+**Creative Best Practices for Audience Ads**
 
 *   Images are recommended to have no text or logo overlay for maximum flexibility.
 *   Some publishers prohibit the use of embedded text within images.
@@ -1650,33 +1650,33 @@ Getting started is simple.
 *   The image must be clearly relevant to the product or service being advertised.
 *   Image assets used for Audience Ads share the same dimensions as Google Display Network, Meta Audience Network, and Yahoo Gemini.
 
-**Safe area**
+**Safe Area**
 
 Publishers place "sponsored" or "ad" icons typically near the bottom of the image along with the headline and business name text. This should be considered when choosing image content.
 
 Audience ads allow individual image cropping to support all aspect ratios for each ad experience. Using the preview tool is important to validate each ad experience. If your ad isn't showing as expected in each aspect ratio, you can re-crop it.
 
-**Ad variants**
+**Ad Variants**
 
-_Audience Network wide image (1:91:1)_  
+_Audience Network Wide Image (1:91:1)_  
 
-_Microsoft Edge single carousel (1:78:1)_  
+_Microsoft Edge Single Carousel (1:78:1)_  
 
-_MSN in-article ad (1.5:1)_  
+_Msn in-Article Ad (1.5:1)_  
 
-_MSN small headline (1.33:1)_  
+_Msn Small Headline (1.33:1)_  
 
-_Audience Network square image (1:1)_  
+_Audience Network Square Image (1:1)_  
 
-_Outlook.com web desktop (text)_  
+_Outlook.com Web Desktop (text)_  
 
-_Outlook.com mobile web (text)_  
+_Outlook.com Mobile Web (text)_  
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
-**Video-based ad deliverables**
+**Video-Based Ad Deliverables**
 
 With Video & Connected TV ads, advertisers can reach their audience across a wide range of online Video and Connected TV inventory. To access more premium online video and CTV inventory, advertisers need to upload higher quality assets.
 
@@ -1709,7 +1709,7 @@ Use the below guidelines to understand what the requirements are for each of the
 
 [Video ads creative specs](#apex/ads/en/60207/0/#exp718)
 
-Video advertising overview
+Video Advertising Overview
 --------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -1732,7 +1732,7 @@ To serve on the Microsoft Invest platform, all video creatives must adhere to th
 | Video size and bitrate | 2160 px; 30000 kpbs  <br>1280 px; 8000 kpbs  <br>1080 px; 7000 kpbs  <br>720 px; 2500, 2000, 1700, 1100, 600 kpbs  <br>432 px; 1700, 1500, 1000, 500 kpbs  <br>_Note_: 1280 x 720 px @ 2500 kbps recommended minimum. |
 | VAST | Version 2.0 or higher is supported. |
 
-**Guidelines and specifications for third-party video creatives**
+**Guidelines and Specifications for Third-Party Video Creatives**
 
 Adhere to these guidelines and specifications when creating video creatives that will be trafficked through a third-party ad server:
 
@@ -1746,17 +1746,17 @@ Adhere to these guidelines and specifications when creating video creatives that
     *   2500 kbps (optimized for high-speed connections)
 *   Use secure tags in all cases. If you are trafficking VPAID creatives, make sure to properly secure every referenced file.
 
-Video & Connected TV ads - Microsoft Advertising Platform
+Video & Connected TV Ads - Microsoft Advertising Platform
 ---------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | Video & Connected TV |
 | --- | --- |
 | Linear video | Yes |
 | Linear video \| VPAID | No  |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1764,7 +1764,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Mid-roll | Yes |
 | Post-roll | Yes |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1773,7 +1773,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Standard video metrics | Yes |
 | Click-through URL | No  |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1782,7 +1782,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | VPAID 1.0 (Flash) | No  |
 | VPAID 2.0 (JS) | No  |
 
-**User experience**
+**User Experience**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -1822,17 +1822,17 @@ Use the below guidelines to understand what the requirements are for each of the
 | Track conformance | N/A | N/A | File should contain only 1 video and 1 audio track. |
 | Duration conformance | N/A | N/A | Video and audio track durations should match with tolerance of 500 ms. |
 
-Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
+Third-Party Video Advertising on Microsoft Publishers (Msn, In-App, Xbox, Mcg)
 ------------------------------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
 | Linear video | Yes | Yes | Yes | Yes | Yes |
 | Linear video \| VPAID | Yes | Yes | No  | No  | Yes |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1840,7 +1840,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Mid-roll | Yes | No  | No  | No  | No  |
 | Post-roll | No  | No  | No  | No  | No  |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1849,7 +1849,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Standard video metrics | Yes | Yes | Yes | Yes | Yes |
 | Click-through URL | Yes | Yes | Yes | N/A | Yes |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1858,7 +1858,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | VPAID 1.0 (Flash) | No  | No  | No  | No  | No  |
 | VPAID 2.0 (JS) | Yes | Yes | No  | No  | Yes |
 
-**User experience**
+**User Experience**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -1900,7 +1900,7 @@ _Xbox_
 *   Click to video only.
 *   Key art assets (i.e. Layered PSD, AI, EPS, illustrations, photos, fonts) are needed for our design team to build out static banners, video banner overlays, and landing experience branded pages.
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 This specification covers linear video ad formats that are third-party served (ad is delivered via [IAB's Video Ad Serving Template (VAST)](https://go.microsoft.com/fwlink?LinkId=2262195)).
 
@@ -1914,7 +1914,7 @@ All third-party ad servers must meet the below requirements:
 *   Media files present in the ad response should provide the full range of supported frame sizes and bit rates, sorted in order of preference HD, Mobile HD, SD, Mobile SD (specifications as indicated in the above table). Please do not attempt to perform device/bandwidth detection to scope the available media files list; players will make the appropriate bit rate selection client-side.
 *   Pop-up and pop-under windows are not supported on any product.
 
-**VAST wrapper ads**
+**VAST Wrapper Ads**
 
 *   Ad tag tokens will not be evaluated at runtime by the player. The VAST ad tag URL should be returned fully decorated by the ad server returning the wrapper ad response. This includes but is not limited to cache busting tokens.
 *   The maximum number of chained wrappers supported is currently 3 with the 4th tag expected to provide an inline ad response. Chains longer than this number cannot be guaranteed for delivery or reporting accuracy.
@@ -1948,11 +1948,11 @@ All third-party ad servers must meet the below requirements:
         *   If the video playback pauses on click, the ad must render a resume button over the video content so that the user can resume the ad and reach the content experience.
         *   The VPAID AdClickThru event must be raised for video click-thrus. If the ad opts to handle the click thru directly, the destination page must open in a new (non-modal) tab/window and must not replace the current window/frame.
 
-_IAB VPAID 2.0 support limitations_
+_IAB VPAID 2.0 Support Limitations_
 
 *   Only VAST 3.0 delivery is supported at this time (see related linear video spec for more details), it is important to note that skip functionality is not supported within the player. Therefore, if skip functionality is desired VPAID 2.0 should be used.
 
-_VPAID vendor certification_
+_VPAID Vendor Certification_
 
 All VPAID vendors must submit test assets for certification prior for running VPAID ads on Microsoft Advertising properties. Please work with your account team representative to submit for VPAID vendor certification. VPAID vendors are expected to VAST deliver their VPAID ad content. If the VPAID vendor will also serve linear video through the same ad server to Microsoft Advertising, they should submit for both VAST and VPAID vendor certification. Otherwise, if the VAST payload is mostly static and does not vary by advertiser, only VPAID certification is required.
 
@@ -1964,7 +1964,7 @@ _VPAID Interface Requirements_
 *   VPAID ad must update the adRemainingTime property with the actual duration of the ad or clearly indicating an unknown value within the first second after the video start event.
 *   AdStarted event and AdImpression event must fire as simultaneously as possible.
 
-_Cross-domain data request_
+_Cross-Domain Data Request_
 
 Vendor ad servers, CDNs, and all server-side resources referenced in the VAST tag and VPAID ad must allow Microsoft & Microsoft partner domains (\*msn.com; \*.fwmrm.net; \*.s-msn.com) to access cross-site data via the following method:
 
@@ -1972,28 +1972,28 @@ Vendor ad servers, CDNs, and all server-side resources referenced in the VAST ta
     *   Example CORS response header:  
         Access-Control-Allow-Origin: \*
 
-**Other third-party served ad policies**
+**Other Third-Party Served Ad Policies**
 
-_Discrepancy rates between ad servers_
+_Discrepancy Rates Between Ad Servers_
 
 Microsoft does not provide guarantees relating to 3rd party served discrepancies but will commit to investigate discrepancies that exceed accepted industry standard discrepancy rates.
 
-_Server-to-server ad calls_
+_Server-to-Server Ad Calls_
 
 Microsoft does not currently employ server-to-server ad calls for vendor ad tags. Furthermore, it is strongly preferred that Microsoft provided ad tags for third-party sourced inventory are called directly from the client, however, server-to-server ad calls can be supported provided the following attributes are communicated to the MSFT ad server on the ad call (work with your account team to get specific query-string parameters for these attributes).
 
 *   Client IP address
 *   User agent
 
-_Max tracking pixels per event_
+_Max Tracking Pixels per Event_
 
 While no hard limit is enforced on the MSFT properties, the maximum recommended number of tracking pixels per event is set at five (5). This limit is proposed to reduce risk of latent or dropped event tracking and ensure discrepancy rates within industry norms.
 
-**Metrics & reporting**
+**Metrics & Reporting**
 
 The following events are supported across the video product portfolio for first-party and third-party served ads.
 
-_Video events_
+_Video Events_
 
 *   Play (impression)
 *   Video click
@@ -2008,16 +2008,16 @@ _Video events_
 
 **Examples**
 
-_MSN video_
+_Msn Video_
 
-Outstream and video in display
+Outstream and Video in Display
 ------------------------------
 
 **Overview**
 
 This specification covers linear video ad formats for third-party served (ad is delivered via IAB's Video Ad Serving Template (VAST)). Please refer to the section and columns headers when reading this document as some elements of the specification vary depending on which party is serving the ad.
 
-**Ad specifications**
+**Ad Specifications**
 
 |     |     |
 | --- | --- |
@@ -2031,7 +2031,7 @@ This specification covers linear video ad formats for third-party served (ad is 
 | Frameworks | VPAID 2.0 |
 | Player technology | HTML5 |
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 Outstream video ad creative must be delivered by certified third-party ad servers. All third-party ad servers must be certified with Microsoft for each IAB standard and version. Work with your representative to verify certification or request certification for new vendors.
 
@@ -2058,9 +2058,9 @@ Outstream video ad creative must be delivered by certified third-party ad server
 
 **Examples**
 
-_Outstream video_
+_Outstream Video_
 
-_Video in display_
+_Video in Display_
 
 Additional resources
 --------------------
@@ -2071,7 +2071,7 @@ Additional resources
 
 - - -
 
-Creative specs
+Creative Specs
 ==============
 
 Information about creative specifications for Microsoft Advertising Display, Native, and Video ads that will be served on Microsoft Publishers including MSN, Outlook, mobile, Xbox, and more.
@@ -2080,7 +2080,7 @@ Get information about creative specifications for Microsoft Advertising Display,
 
 [Display ads creative specs](#apex/ads/en/60207/0/#exp6)
 
-Display advertising overview
+Display Advertising Overview
 ----------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -2094,7 +2094,7 @@ All advertising must conform to the .
 Microsoft Invest
 ----------------
 
-**HTML5 Creative Guidelines and Specifications**
+**Html5 Creative Guidelines and Specifications**
 
 To serve on the Xandr platform and other third-party platforms, all HTML5 creatives must adhere to the guidelines and specifications listed here, our creative standards, and any other guidelines that may apply.
 
@@ -2103,23 +2103,23 @@ Adhere to these guidelines and specifications when creating HTML5 creatives:
 *   All hosted HTML5 creatives must be uploaded in a single zip file.
 *   The zip file must contain an index.html file that resides at the root of the zip file and not in a subfolder.
 *   The index.html file should be a complete and valid HTML document that includes the <html>, <head>, and <body> entities.
-*   The _clickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _clickTag_ parameter ensures that:
+*   The _ClickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _ClickTag_ parameter ensures that:
     *   Clicks are tracked properly when the creative is served.
     *   The corresponding landing page can be opened when the creative is clicked.
-*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [HTML5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB standards](https://go.microsoft.com/fwlink?LinkId=2262548).
+*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [Html5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB Standards](https://go.microsoft.com/fwlink?LinkId=2262548).
 
 Creative designers can reference the following guides when creating new HTML5 creatives:
 
-*   [Use IAB's HTML5 clickTag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
-*   [Build an HTML5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
-*   [Build an HTML5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
+*   [Use IAB's Html5 Clicktag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
+*   [Build an Html5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
+*   [Build an Html5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
 
 Ad traffickers can reference the following guides for integrating HTML5 creatives, which have been created in Google Web Designer and Adobe Edge, into websites efficiently:
 
-*   [Integrating the HTML5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
-*   [Integrating the HTML5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
+*   [Integrating the Html5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
+*   [Integrating the Html5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
 
-Microsoft Advertising platform Display
+Microsoft Advertising Platform Display
 --------------------------------------
 
 **Deliverables**
@@ -2135,7 +2135,7 @@ Microsoft Advertising platform Display
 | Expandable | Not supported |
 | File size | Max 1GB |
 
-Advertising on Microsoft owned and operated (O&O) publishers
+Advertising on Microsoft Owned and Operated (O&O) Publishers
 ------------------------------------------------------------
 
 Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported through Microsoft Invest as well as via third-party platforms. While these options support a broad range of features and ad sizes, Microsoft O&O has the requirements documented below.
@@ -2160,7 +2160,7 @@ Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported throu
 | Data reported | 3rd Party Rich Media partners will typically provide impressions and click-through data, as well as enhanced metrics. Please consult your Certified Rich Media partner of choice for more details. |
 | Data collection | Microsoft permits advertisers to collect user-provided personal information (for example, through web forms embedded in ads). Advertisers may be required to modify ad units or provide additional disclosure in order to be acceptable for advertising on Microsoft sites. Advertisers wishing to collect personal information within advertisements (according to specifications above) must follow these guidelines: Clearly identify the organization, provide link to privacy policy, Identify purpose for collection information. |
 
-Supported ad dimensions
+Supported Ad Dimensions
 -----------------------
 
 |     | MSN | Outlook | Mobile | Xbox |
@@ -2178,7 +2178,7 @@ Supported ad dimensions
 Deliverables
 ------------
 
-**MSN, Outlook, Mobile**
+**Msn, Outlook, Mobile**
 
 | File | Required format | Dimensions | Maximum file size |
 | --- | --- | --- | --- |
@@ -2196,12 +2196,12 @@ Deliverables
 | Static banner | PSD, JPG | 400 x 225 (Home)  <br>468 x 263 (Store) | N/A |
 | Full screen video | MOV, MP4 | 1920 x 1080 | Highest quality possible, uncompressed |
 
-Display ads performance standards
+Display Ads Performance Standards
 ---------------------------------
 
 This section describes the methodology, metrics, and standards Microsoft uses to assess the performance of display ads, where ad performance in this context refers to the weight or heaviness of an ad. The standards documented below are in alignment with the [IAB Guidelines](https://go.microsoft.com/fwlink?LinkId=2262551) published in July 2017. Ads that do not comply with the performance standards outlined below will be prohibited from displaying on Microsoft online properties.
 
-**Background: Why display ad performance is important**
+**Background: Why Display Ad Performance Is Important**
 
 Better ad performance is a win-win for ad providers and publishers. Said another way:
 
@@ -2231,7 +2231,7 @@ This section describes each of the three performance metrics in more detail, inc
 
 ##### Important
 
-Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [browser intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
+Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [Browser Intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
   
 If a creative satisfies any of the following criteria, it is considered heavy:
 
@@ -2241,7 +2241,7 @@ If a creative satisfies any of the following criteria, it is considered heavy:
 
 [Native ads creative specs](#apex/ads/en/60207/0/#exp405)
 
-MSN Native
+Msn Native
 ----------
 
 **Overview**
@@ -2260,7 +2260,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 | Sponsor (Brand) | Text | < 25 characters |     |
 | URL | Text |     |     |
 
-**Creative best practices for programmatic Native**
+**Creative Best Practices for Programmatic Native**
 
 *   Turbo-charge your call-to-action: Immediately highlight your main point with eye-catching wording to create urgency and drive engagement.
 *   Choose compelling images: People, particularly shown experiencing an emotion associated with your headline, increase impact. Also, avoid text overlays on image assets.
@@ -2269,7 +2269,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
 Outlook Native
 --------------
@@ -2296,11 +2296,11 @@ Creative best practice - Turbo-charge your call-to-action: Immediately highlight
 
 **Examples**
 
-_Outlook PC web_
+_Outlook PC Web_
 
 **Examples**
 
-_Outlook mobile web_
+_Outlook Mobile Web_
 
 Microsoft Audience Network
 --------------------------
@@ -2314,7 +2314,7 @@ Getting started is simple.
 *   For image-based ads: Upload an image, copy, and URL. Microsoft Advertising will format your content to match the unique look and feel of the publisher site, whether it's displayed on a smartphone, tablet, or laptop.
 *   For Video & Connected TV ads: Upload your video creative, adhering to our video quality ratings that are outlined below. The quality of your video will determine where your ads can serve—the higher the video quality, the more premium placements you'll be able to access. Note, Video & Connected TV ads are currently in open beta; so, they may not be available yet to all advertisers. Get in touch with your account team to know more.
 
-**Image-based ad deliverables**
+**Image-Based Ad Deliverables**
 
 | Ad components | File type | Dimensions |
 | --- | --- | --- |
@@ -2326,7 +2326,7 @@ Getting started is simple.
 | URL | Text | 1024 characters max |
 | Mobile URL | Text | 1024 characters max |
 
-**Creative best practices for audience ads**
+**Creative Best Practices for Audience Ads**
 
 *   Images are recommended to have no text or logo overlay for maximum flexibility.
 *   Some publishers prohibit the use of embedded text within images.
@@ -2341,33 +2341,33 @@ Getting started is simple.
 *   The image must be clearly relevant to the product or service being advertised.
 *   Image assets used for Audience Ads share the same dimensions as Google Display Network, Meta Audience Network, and Yahoo Gemini.
 
-**Safe area**
+**Safe Area**
 
 Publishers place "sponsored" or "ad" icons typically near the bottom of the image along with the headline and business name text. This should be considered when choosing image content.
 
 Audience ads allow individual image cropping to support all aspect ratios for each ad experience. Using the preview tool is important to validate each ad experience. If your ad isn't showing as expected in each aspect ratio, you can re-crop it.
 
-**Ad variants**
+**Ad Variants**
 
-_Audience Network wide image (1:91:1)_  
+_Audience Network Wide Image (1:91:1)_  
 
-_Microsoft Edge single carousel (1:78:1)_  
+_Microsoft Edge Single Carousel (1:78:1)_  
 
-_MSN in-article ad (1.5:1)_  
+_Msn in-Article Ad (1.5:1)_  
 
-_MSN small headline (1.33:1)_  
+_Msn Small Headline (1.33:1)_  
 
-_Audience Network square image (1:1)_  
+_Audience Network Square Image (1:1)_  
 
-_Outlook.com web desktop (text)_  
+_Outlook.com Web Desktop (text)_  
 
-_Outlook.com mobile web (text)_  
+_Outlook.com Mobile Web (text)_  
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
-**Video-based ad deliverables**
+**Video-Based Ad Deliverables**
 
 With Video & Connected TV ads, advertisers can reach their audience across a wide range of online Video and Connected TV inventory. To access more premium online video and CTV inventory, advertisers need to upload higher quality assets.
 
@@ -2400,7 +2400,7 @@ Use the below guidelines to understand what the requirements are for each of the
 
 [Video ads creative specs](#apex/ads/en/60207/0/#exp718)
 
-Video advertising overview
+Video Advertising Overview
 --------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -2423,7 +2423,7 @@ To serve on the Microsoft Invest platform, all video creatives must adhere to th
 | Video size and bitrate | 2160 px; 30000 kpbs  <br>1280 px; 8000 kpbs  <br>1080 px; 7000 kpbs  <br>720 px; 2500, 2000, 1700, 1100, 600 kpbs  <br>432 px; 1700, 1500, 1000, 500 kpbs  <br>_Note_: 1280 x 720 px @ 2500 kbps recommended minimum. |
 | VAST | Version 2.0 or higher is supported. |
 
-**Guidelines and specifications for third-party video creatives**
+**Guidelines and Specifications for Third-Party Video Creatives**
 
 Adhere to these guidelines and specifications when creating video creatives that will be trafficked through a third-party ad server:
 
@@ -2437,17 +2437,17 @@ Adhere to these guidelines and specifications when creating video creatives that
     *   2500 kbps (optimized for high-speed connections)
 *   Use secure tags in all cases. If you are trafficking VPAID creatives, make sure to properly secure every referenced file.
 
-Video & Connected TV ads - Microsoft Advertising Platform
+Video & Connected TV Ads - Microsoft Advertising Platform
 ---------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | Video & Connected TV |
 | --- | --- |
 | Linear video | Yes |
 | Linear video \| VPAID | No  |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -2455,7 +2455,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Mid-roll | Yes |
 | Post-roll | Yes |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -2464,7 +2464,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Standard video metrics | Yes |
 | Click-through URL | No  |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -2473,7 +2473,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | VPAID 1.0 (Flash) | No  |
 | VPAID 2.0 (JS) | No  |
 
-**User experience**
+**User Experience**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -2513,17 +2513,17 @@ Use the below guidelines to understand what the requirements are for each of the
 | Track conformance | N/A | N/A | File should contain only 1 video and 1 audio track. |
 | Duration conformance | N/A | N/A | Video and audio track durations should match with tolerance of 500 ms. |
 
-Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
+Third-Party Video Advertising on Microsoft Publishers (Msn, In-App, Xbox, Mcg)
 ------------------------------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
 | Linear video | Yes | Yes | Yes | Yes | Yes |
 | Linear video \| VPAID | Yes | Yes | No  | No  | Yes |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -2531,7 +2531,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Mid-roll | Yes | No  | No  | No  | No  |
 | Post-roll | No  | No  | No  | No  | No  |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -2540,7 +2540,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Standard video metrics | Yes | Yes | Yes | Yes | Yes |
 | Click-through URL | Yes | Yes | Yes | N/A | Yes |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -2549,7 +2549,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | VPAID 1.0 (Flash) | No  | No  | No  | No  | No  |
 | VPAID 2.0 (JS) | Yes | Yes | No  | No  | Yes |
 
-**User experience**
+**User Experience**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -2591,7 +2591,7 @@ _Xbox_
 *   Click to video only.
 *   Key art assets (i.e. Layered PSD, AI, EPS, illustrations, photos, fonts) are needed for our design team to build out static banners, video banner overlays, and landing experience branded pages.
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 This specification covers linear video ad formats that are third-party served (ad is delivered via [IAB's Video Ad Serving Template (VAST)](https://go.microsoft.com/fwlink?LinkId=2262195)).
 
@@ -2605,7 +2605,7 @@ All third-party ad servers must meet the below requirements:
 *   Media files present in the ad response should provide the full range of supported frame sizes and bit rates, sorted in order of preference HD, Mobile HD, SD, Mobile SD (specifications as indicated in the above table). Please do not attempt to perform device/bandwidth detection to scope the available media files list; players will make the appropriate bit rate selection client-side.
 *   Pop-up and pop-under windows are not supported on any product.
 
-**VAST wrapper ads**
+**VAST Wrapper Ads**
 
 *   Ad tag tokens will not be evaluated at runtime by the player. The VAST ad tag URL should be returned fully decorated by the ad server returning the wrapper ad response. This includes but is not limited to cache busting tokens.
 *   The maximum number of chained wrappers supported is currently 3 with the 4th tag expected to provide an inline ad response. Chains longer than this number cannot be guaranteed for delivery or reporting accuracy.
@@ -2639,11 +2639,11 @@ All third-party ad servers must meet the below requirements:
         *   If the video playback pauses on click, the ad must render a resume button over the video content so that the user can resume the ad and reach the content experience.
         *   The VPAID AdClickThru event must be raised for video click-thrus. If the ad opts to handle the click thru directly, the destination page must open in a new (non-modal) tab/window and must not replace the current window/frame.
 
-_IAB VPAID 2.0 support limitations_
+_IAB VPAID 2.0 Support Limitations_
 
 *   Only VAST 3.0 delivery is supported at this time (see related linear video spec for more details), it is important to note that skip functionality is not supported within the player. Therefore, if skip functionality is desired VPAID 2.0 should be used.
 
-_VPAID vendor certification_
+_VPAID Vendor Certification_
 
 All VPAID vendors must submit test assets for certification prior for running VPAID ads on Microsoft Advertising properties. Please work with your account team representative to submit for VPAID vendor certification. VPAID vendors are expected to VAST deliver their VPAID ad content. If the VPAID vendor will also serve linear video through the same ad server to Microsoft Advertising, they should submit for both VAST and VPAID vendor certification. Otherwise, if the VAST payload is mostly static and does not vary by advertiser, only VPAID certification is required.
 
@@ -2655,7 +2655,7 @@ _VPAID Interface Requirements_
 *   VPAID ad must update the adRemainingTime property with the actual duration of the ad or clearly indicating an unknown value within the first second after the video start event.
 *   AdStarted event and AdImpression event must fire as simultaneously as possible.
 
-_Cross-domain data request_
+_Cross-Domain Data Request_
 
 Vendor ad servers, CDNs, and all server-side resources referenced in the VAST tag and VPAID ad must allow Microsoft & Microsoft partner domains (\*msn.com; \*.fwmrm.net; \*.s-msn.com) to access cross-site data via the following method:
 
@@ -2663,28 +2663,28 @@ Vendor ad servers, CDNs, and all server-side resources referenced in the VAST ta
     *   Example CORS response header:  
         Access-Control-Allow-Origin: \*
 
-**Other third-party served ad policies**
+**Other Third-Party Served Ad Policies**
 
-_Discrepancy rates between ad servers_
+_Discrepancy Rates Between Ad Servers_
 
 Microsoft does not provide guarantees relating to 3rd party served discrepancies but will commit to investigate discrepancies that exceed accepted industry standard discrepancy rates.
 
-_Server-to-server ad calls_
+_Server-to-Server Ad Calls_
 
 Microsoft does not currently employ server-to-server ad calls for vendor ad tags. Furthermore, it is strongly preferred that Microsoft provided ad tags for third-party sourced inventory are called directly from the client, however, server-to-server ad calls can be supported provided the following attributes are communicated to the MSFT ad server on the ad call (work with your account team to get specific query-string parameters for these attributes).
 
 *   Client IP address
 *   User agent
 
-_Max tracking pixels per event_
+_Max Tracking Pixels per Event_
 
 While no hard limit is enforced on the MSFT properties, the maximum recommended number of tracking pixels per event is set at five (5). This limit is proposed to reduce risk of latent or dropped event tracking and ensure discrepancy rates within industry norms.
 
-**Metrics & reporting**
+**Metrics & Reporting**
 
 The following events are supported across the video product portfolio for first-party and third-party served ads.
 
-_Video events_
+_Video Events_
 
 *   Play (impression)
 *   Video click
@@ -2699,16 +2699,16 @@ _Video events_
 
 **Examples**
 
-_MSN video_
+_Msn Video_
 
-Outstream and video in display
+Outstream and Video in Display
 ------------------------------
 
 **Overview**
 
 This specification covers linear video ad formats for third-party served (ad is delivered via IAB's Video Ad Serving Template (VAST)). Please refer to the section and columns headers when reading this document as some elements of the specification vary depending on which party is serving the ad.
 
-**Ad specifications**
+**Ad Specifications**
 
 |     |     |
 | --- | --- |
@@ -2722,7 +2722,7 @@ This specification covers linear video ad formats for third-party served (ad is 
 | Frameworks | VPAID 2.0 |
 | Player technology | HTML5 |
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 Outstream video ad creative must be delivered by certified third-party ad servers. All third-party ad servers must be certified with Microsoft for each IAB standard and version. Work with your representative to verify certification or request certification for new vendors.
 
@@ -2749,9 +2749,9 @@ Outstream video ad creative must be delivered by certified third-party ad server
 
 **Examples**
 
-_Outstream video_
+_Outstream Video_
 
-_Video in display_
+_Video in Display_
 
 Additional resources
 --------------------
@@ -2762,7 +2762,7 @@ Additional resources
 
 - - -
 
-Creative specs
+Creative Specs
 ==============
 
 Information about creative specifications for Microsoft Advertising Display, Native, and Video ads that will be served on Microsoft Publishers including MSN, Outlook, mobile, Xbox, and more.
@@ -2771,7 +2771,7 @@ Get information about creative specifications for Microsoft Advertising Display,
 
 [Display ads creative specs](#apex/ads/en/60207/0/#exp6)
 
-Display advertising overview
+Display Advertising Overview
 ----------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -2785,7 +2785,7 @@ All advertising must conform to the .
 Microsoft Invest
 ----------------
 
-**HTML5 Creative Guidelines and Specifications**
+**Html5 Creative Guidelines and Specifications**
 
 To serve on the Xandr platform and other third-party platforms, all HTML5 creatives must adhere to the guidelines and specifications listed here, our creative standards, and any other guidelines that may apply.
 
@@ -2794,23 +2794,23 @@ Adhere to these guidelines and specifications when creating HTML5 creatives:
 *   All hosted HTML5 creatives must be uploaded in a single zip file.
 *   The zip file must contain an index.html file that resides at the root of the zip file and not in a subfolder.
 *   The index.html file should be a complete and valid HTML document that includes the <html>, <head>, and <body> entities.
-*   The _clickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _clickTag_ parameter ensures that:
+*   The _ClickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _ClickTag_ parameter ensures that:
     *   Clicks are tracked properly when the creative is served.
     *   The corresponding landing page can be opened when the creative is clicked.
-*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [HTML5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB standards](https://go.microsoft.com/fwlink?LinkId=2262548).
+*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [Html5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB Standards](https://go.microsoft.com/fwlink?LinkId=2262548).
 
 Creative designers can reference the following guides when creating new HTML5 creatives:
 
-*   [Use IAB's HTML5 clickTag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
-*   [Build an HTML5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
-*   [Build an HTML5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
+*   [Use IAB's Html5 Clicktag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
+*   [Build an Html5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
+*   [Build an Html5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
 
 Ad traffickers can reference the following guides for integrating HTML5 creatives, which have been created in Google Web Designer and Adobe Edge, into websites efficiently:
 
-*   [Integrating the HTML5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
-*   [Integrating the HTML5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
+*   [Integrating the Html5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
+*   [Integrating the Html5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
 
-Microsoft Advertising platform Display
+Microsoft Advertising Platform Display
 --------------------------------------
 
 **Deliverables**
@@ -2826,7 +2826,7 @@ Microsoft Advertising platform Display
 | Expandable | Not supported |
 | File size | Max 1GB |
 
-Advertising on Microsoft owned and operated (O&O) publishers
+Advertising on Microsoft Owned and Operated (O&O) Publishers
 ------------------------------------------------------------
 
 Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported through Microsoft Invest as well as via third-party platforms. While these options support a broad range of features and ad sizes, Microsoft O&O has the requirements documented below.
@@ -2851,7 +2851,7 @@ Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported throu
 | Data reported | 3rd Party Rich Media partners will typically provide impressions and click-through data, as well as enhanced metrics. Please consult your Certified Rich Media partner of choice for more details. |
 | Data collection | Microsoft permits advertisers to collect user-provided personal information (for example, through web forms embedded in ads). Advertisers may be required to modify ad units or provide additional disclosure in order to be acceptable for advertising on Microsoft sites. Advertisers wishing to collect personal information within advertisements (according to specifications above) must follow these guidelines: Clearly identify the organization, provide link to privacy policy, Identify purpose for collection information. |
 
-Supported ad dimensions
+Supported Ad Dimensions
 -----------------------
 
 |     | MSN | Outlook | Mobile | Xbox |
@@ -2869,7 +2869,7 @@ Supported ad dimensions
 Deliverables
 ------------
 
-**MSN, Outlook, Mobile**
+**Msn, Outlook, Mobile**
 
 | File | Required format | Dimensions | Maximum file size |
 | --- | --- | --- | --- |
@@ -2887,12 +2887,12 @@ Deliverables
 | Static banner | PSD, JPG | 400 x 225 (Home)  <br>468 x 263 (Store) | N/A |
 | Full screen video | MOV, MP4 | 1920 x 1080 | Highest quality possible, uncompressed |
 
-Display ads performance standards
+Display Ads Performance Standards
 ---------------------------------
 
 This section describes the methodology, metrics, and standards Microsoft uses to assess the performance of display ads, where ad performance in this context refers to the weight or heaviness of an ad. The standards documented below are in alignment with the [IAB Guidelines](https://go.microsoft.com/fwlink?LinkId=2262551) published in July 2017. Ads that do not comply with the performance standards outlined below will be prohibited from displaying on Microsoft online properties.
 
-**Background: Why display ad performance is important**
+**Background: Why Display Ad Performance Is Important**
 
 Better ad performance is a win-win for ad providers and publishers. Said another way:
 
@@ -2922,7 +2922,7 @@ This section describes each of the three performance metrics in more detail, inc
 
 ##### Important
 
-Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [browser intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
+Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [Browser Intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
   
 If a creative satisfies any of the following criteria, it is considered heavy:
 
@@ -2932,7 +2932,7 @@ If a creative satisfies any of the following criteria, it is considered heavy:
 
 [Native ads creative specs](#apex/ads/en/60207/0/#exp405)
 
-MSN Native
+Msn Native
 ----------
 
 **Overview**
@@ -2951,7 +2951,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 | Sponsor (Brand) | Text | < 25 characters |     |
 | URL | Text |     |     |
 
-**Creative best practices for programmatic Native**
+**Creative Best Practices for Programmatic Native**
 
 *   Turbo-charge your call-to-action: Immediately highlight your main point with eye-catching wording to create urgency and drive engagement.
 *   Choose compelling images: People, particularly shown experiencing an emotion associated with your headline, increase impact. Also, avoid text overlays on image assets.
@@ -2960,7 +2960,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
 Outlook Native
 --------------
@@ -2987,11 +2987,11 @@ Creative best practice - Turbo-charge your call-to-action: Immediately highlight
 
 **Examples**
 
-_Outlook PC web_
+_Outlook PC Web_
 
 **Examples**
 
-_Outlook mobile web_
+_Outlook Mobile Web_
 
 Microsoft Audience Network
 --------------------------
@@ -3005,7 +3005,7 @@ Getting started is simple.
 *   For image-based ads: Upload an image, copy, and URL. Microsoft Advertising will format your content to match the unique look and feel of the publisher site, whether it's displayed on a smartphone, tablet, or laptop.
 *   For Video & Connected TV ads: Upload your video creative, adhering to our video quality ratings that are outlined below. The quality of your video will determine where your ads can serve—the higher the video quality, the more premium placements you'll be able to access. Note, Video & Connected TV ads are currently in open beta; so, they may not be available yet to all advertisers. Get in touch with your account team to know more.
 
-**Image-based ad deliverables**
+**Image-Based Ad Deliverables**
 
 | Ad components | File type | Dimensions |
 | --- | --- | --- |
@@ -3017,7 +3017,7 @@ Getting started is simple.
 | URL | Text | 1024 characters max |
 | Mobile URL | Text | 1024 characters max |
 
-**Creative best practices for audience ads**
+**Creative Best Practices for Audience Ads**
 
 *   Images are recommended to have no text or logo overlay for maximum flexibility.
 *   Some publishers prohibit the use of embedded text within images.
@@ -3032,33 +3032,33 @@ Getting started is simple.
 *   The image must be clearly relevant to the product or service being advertised.
 *   Image assets used for Audience Ads share the same dimensions as Google Display Network, Meta Audience Network, and Yahoo Gemini.
 
-**Safe area**
+**Safe Area**
 
 Publishers place "sponsored" or "ad" icons typically near the bottom of the image along with the headline and business name text. This should be considered when choosing image content.
 
 Audience ads allow individual image cropping to support all aspect ratios for each ad experience. Using the preview tool is important to validate each ad experience. If your ad isn't showing as expected in each aspect ratio, you can re-crop it.
 
-**Ad variants**
+**Ad Variants**
 
-_Audience Network wide image (1:91:1)_  
+_Audience Network Wide Image (1:91:1)_  
 
-_Microsoft Edge single carousel (1:78:1)_  
+_Microsoft Edge Single Carousel (1:78:1)_  
 
-_MSN in-article ad (1.5:1)_  
+_Msn in-Article Ad (1.5:1)_  
 
-_MSN small headline (1.33:1)_  
+_Msn Small Headline (1.33:1)_  
 
-_Audience Network square image (1:1)_  
+_Audience Network Square Image (1:1)_  
 
-_Outlook.com web desktop (text)_  
+_Outlook.com Web Desktop (text)_  
 
-_Outlook.com mobile web (text)_  
+_Outlook.com Mobile Web (text)_  
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
-**Video-based ad deliverables**
+**Video-Based Ad Deliverables**
 
 With Video & Connected TV ads, advertisers can reach their audience across a wide range of online Video and Connected TV inventory. To access more premium online video and CTV inventory, advertisers need to upload higher quality assets.
 
@@ -3091,7 +3091,7 @@ Use the below guidelines to understand what the requirements are for each of the
 
 [Video ads creative specs](#apex/ads/en/60207/0/#exp718)
 
-Video advertising overview
+Video Advertising Overview
 --------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -3114,7 +3114,7 @@ To serve on the Microsoft Invest platform, all video creatives must adhere to th
 | Video size and bitrate | 2160 px; 30000 kpbs  <br>1280 px; 8000 kpbs  <br>1080 px; 7000 kpbs  <br>720 px; 2500, 2000, 1700, 1100, 600 kpbs  <br>432 px; 1700, 1500, 1000, 500 kpbs  <br>_Note_: 1280 x 720 px @ 2500 kbps recommended minimum. |
 | VAST | Version 2.0 or higher is supported. |
 
-**Guidelines and specifications for third-party video creatives**
+**Guidelines and Specifications for Third-Party Video Creatives**
 
 Adhere to these guidelines and specifications when creating video creatives that will be trafficked through a third-party ad server:
 
@@ -3128,17 +3128,17 @@ Adhere to these guidelines and specifications when creating video creatives that
     *   2500 kbps (optimized for high-speed connections)
 *   Use secure tags in all cases. If you are trafficking VPAID creatives, make sure to properly secure every referenced file.
 
-Video & Connected TV ads - Microsoft Advertising Platform
+Video & Connected TV Ads - Microsoft Advertising Platform
 ---------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | Video & Connected TV |
 | --- | --- |
 | Linear video | Yes |
 | Linear video \| VPAID | No  |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3146,7 +3146,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Mid-roll | Yes |
 | Post-roll | Yes |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3155,7 +3155,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Standard video metrics | Yes |
 | Click-through URL | No  |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3164,7 +3164,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | VPAID 1.0 (Flash) | No  |
 | VPAID 2.0 (JS) | No  |
 
-**User experience**
+**User Experience**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3204,17 +3204,17 @@ Use the below guidelines to understand what the requirements are for each of the
 | Track conformance | N/A | N/A | File should contain only 1 video and 1 audio track. |
 | Duration conformance | N/A | N/A | Video and audio track durations should match with tolerance of 500 ms. |
 
-Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
+Third-Party Video Advertising on Microsoft Publishers (Msn, In-App, Xbox, Mcg)
 ------------------------------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
 | Linear video | Yes | Yes | Yes | Yes | Yes |
 | Linear video \| VPAID | Yes | Yes | No  | No  | Yes |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3222,7 +3222,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Mid-roll | Yes | No  | No  | No  | No  |
 | Post-roll | No  | No  | No  | No  | No  |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3231,7 +3231,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Standard video metrics | Yes | Yes | Yes | Yes | Yes |
 | Click-through URL | Yes | Yes | Yes | N/A | Yes |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3240,7 +3240,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | VPAID 1.0 (Flash) | No  | No  | No  | No  | No  |
 | VPAID 2.0 (JS) | Yes | Yes | No  | No  | Yes |
 
-**User experience**
+**User Experience**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3282,7 +3282,7 @@ _Xbox_
 *   Click to video only.
 *   Key art assets (i.e. Layered PSD, AI, EPS, illustrations, photos, fonts) are needed for our design team to build out static banners, video banner overlays, and landing experience branded pages.
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 This specification covers linear video ad formats that are third-party served (ad is delivered via [IAB's Video Ad Serving Template (VAST)](https://go.microsoft.com/fwlink?LinkId=2262195)).
 
@@ -3296,7 +3296,7 @@ All third-party ad servers must meet the below requirements:
 *   Media files present in the ad response should provide the full range of supported frame sizes and bit rates, sorted in order of preference HD, Mobile HD, SD, Mobile SD (specifications as indicated in the above table). Please do not attempt to perform device/bandwidth detection to scope the available media files list; players will make the appropriate bit rate selection client-side.
 *   Pop-up and pop-under windows are not supported on any product.
 
-**VAST wrapper ads**
+**VAST Wrapper Ads**
 
 *   Ad tag tokens will not be evaluated at runtime by the player. The VAST ad tag URL should be returned fully decorated by the ad server returning the wrapper ad response. This includes but is not limited to cache busting tokens.
 *   The maximum number of chained wrappers supported is currently 3 with the 4th tag expected to provide an inline ad response. Chains longer than this number cannot be guaranteed for delivery or reporting accuracy.
@@ -3330,11 +3330,11 @@ All third-party ad servers must meet the below requirements:
         *   If the video playback pauses on click, the ad must render a resume button over the video content so that the user can resume the ad and reach the content experience.
         *   The VPAID AdClickThru event must be raised for video click-thrus. If the ad opts to handle the click thru directly, the destination page must open in a new (non-modal) tab/window and must not replace the current window/frame.
 
-_IAB VPAID 2.0 support limitations_
+_IAB VPAID 2.0 Support Limitations_
 
 *   Only VAST 3.0 delivery is supported at this time (see related linear video spec for more details), it is important to note that skip functionality is not supported within the player. Therefore, if skip functionality is desired VPAID 2.0 should be used.
 
-_VPAID vendor certification_
+_VPAID Vendor Certification_
 
 All VPAID vendors must submit test assets for certification prior for running VPAID ads on Microsoft Advertising properties. Please work with your account team representative to submit for VPAID vendor certification. VPAID vendors are expected to VAST deliver their VPAID ad content. If the VPAID vendor will also serve linear video through the same ad server to Microsoft Advertising, they should submit for both VAST and VPAID vendor certification. Otherwise, if the VAST payload is mostly static and does not vary by advertiser, only VPAID certification is required.
 
@@ -3346,7 +3346,7 @@ _VPAID Interface Requirements_
 *   VPAID ad must update the adRemainingTime property with the actual duration of the ad or clearly indicating an unknown value within the first second after the video start event.
 *   AdStarted event and AdImpression event must fire as simultaneously as possible.
 
-_Cross-domain data request_
+_Cross-Domain Data Request_
 
 Vendor ad servers, CDNs, and all server-side resources referenced in the VAST tag and VPAID ad must allow Microsoft & Microsoft partner domains (\*msn.com; \*.fwmrm.net; \*.s-msn.com) to access cross-site data via the following method:
 
@@ -3354,28 +3354,28 @@ Vendor ad servers, CDNs, and all server-side resources referenced in the VAST ta
     *   Example CORS response header:  
         Access-Control-Allow-Origin: \*
 
-**Other third-party served ad policies**
+**Other Third-Party Served Ad Policies**
 
-_Discrepancy rates between ad servers_
+_Discrepancy Rates Between Ad Servers_
 
 Microsoft does not provide guarantees relating to 3rd party served discrepancies but will commit to investigate discrepancies that exceed accepted industry standard discrepancy rates.
 
-_Server-to-server ad calls_
+_Server-to-Server Ad Calls_
 
 Microsoft does not currently employ server-to-server ad calls for vendor ad tags. Furthermore, it is strongly preferred that Microsoft provided ad tags for third-party sourced inventory are called directly from the client, however, server-to-server ad calls can be supported provided the following attributes are communicated to the MSFT ad server on the ad call (work with your account team to get specific query-string parameters for these attributes).
 
 *   Client IP address
 *   User agent
 
-_Max tracking pixels per event_
+_Max Tracking Pixels per Event_
 
 While no hard limit is enforced on the MSFT properties, the maximum recommended number of tracking pixels per event is set at five (5). This limit is proposed to reduce risk of latent or dropped event tracking and ensure discrepancy rates within industry norms.
 
-**Metrics & reporting**
+**Metrics & Reporting**
 
 The following events are supported across the video product portfolio for first-party and third-party served ads.
 
-_Video events_
+_Video Events_
 
 *   Play (impression)
 *   Video click
@@ -3390,16 +3390,16 @@ _Video events_
 
 **Examples**
 
-_MSN video_
+_Msn Video_
 
-Outstream and video in display
+Outstream and Video in Display
 ------------------------------
 
 **Overview**
 
 This specification covers linear video ad formats for third-party served (ad is delivered via IAB's Video Ad Serving Template (VAST)). Please refer to the section and columns headers when reading this document as some elements of the specification vary depending on which party is serving the ad.
 
-**Ad specifications**
+**Ad Specifications**
 
 |     |     |
 | --- | --- |
@@ -3413,7 +3413,7 @@ This specification covers linear video ad formats for third-party served (ad is 
 | Frameworks | VPAID 2.0 |
 | Player technology | HTML5 |
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 Outstream video ad creative must be delivered by certified third-party ad servers. All third-party ad servers must be certified with Microsoft for each IAB standard and version. Work with your representative to verify certification or request certification for new vendors.
 
@@ -3440,9 +3440,9 @@ Outstream video ad creative must be delivered by certified third-party ad server
 
 **Examples**
 
-_Outstream video_
+_Outstream Video_
 
-_Video in display_
+_Video in Display_
 
 Additional resources
 --------------------
@@ -3453,7 +3453,7 @@ Additional resources
 
 - - -
 
-Creative specs
+Creative Specs
 ==============
 
 Information about creative specifications for Microsoft Advertising Display, Native, and Video ads that will be served on Microsoft Publishers including MSN, Outlook, mobile, Xbox, and more.
@@ -3462,7 +3462,7 @@ Get information about creative specifications for Microsoft Advertising Display,
 
 [Display ads creative specs](#apex/ads/en/60207/0/#exp6)
 
-Display advertising overview
+Display Advertising Overview
 ----------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -3476,7 +3476,7 @@ All advertising must conform to the .
 Microsoft Invest
 ----------------
 
-**HTML5 Creative Guidelines and Specifications**
+**Html5 Creative Guidelines and Specifications**
 
 To serve on the Xandr platform and other third-party platforms, all HTML5 creatives must adhere to the guidelines and specifications listed here, our creative standards, and any other guidelines that may apply.
 
@@ -3485,23 +3485,23 @@ Adhere to these guidelines and specifications when creating HTML5 creatives:
 *   All hosted HTML5 creatives must be uploaded in a single zip file.
 *   The zip file must contain an index.html file that resides at the root of the zip file and not in a subfolder.
 *   The index.html file should be a complete and valid HTML document that includes the <html>, <head>, and <body> entities.
-*   The _clickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _clickTag_ parameter ensures that:
+*   The _ClickTag_ parameter must be referenced in the URL of all HTML5 creatives. _Note_: The _ClickTag_ parameter ensures that:
     *   Clicks are tracked properly when the creative is served.
     *   The corresponding landing page can be opened when the creative is clicked.
-*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [HTML5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB standards](https://go.microsoft.com/fwlink?LinkId=2262548).
+*   Creative designers can either use their own code or the helper code provided in the Xandr HTML5 library to integrate HTML5 creatives into websites efficiently. For more information, see our [Html5 Library](https://go.microsoft.com/fwlink?LinkId=2262622), [Walkthrough for Manually Created Ads](https://go.microsoft.com/fwlink?LinkId=2262383), and [IAB Standards](https://go.microsoft.com/fwlink?LinkId=2262548).
 
 Creative designers can reference the following guides when creating new HTML5 creatives:
 
-*   [Use IAB's HTML5 clickTag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
-*   [Build an HTML5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
-*   [Build an HTML5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
+*   [Use IAB's Html5 Clicktag Standard](https://go.microsoft.com/fwlink?LinkId=2262623)
+*   [Build an Html5 Creative in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262384)
+*   [Build an Html5 Creative in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262385)
 
 Ad traffickers can reference the following guides for integrating HTML5 creatives, which have been created in Google Web Designer and Adobe Edge, into websites efficiently:
 
-*   [Integrating the HTML5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
-*   [Integrating the HTML5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
+*   [Integrating the Html5 Library with Ads Created in Google Web Designer](https://go.microsoft.com/fwlink?LinkId=2262289)
+*   [Integrating the Html5 Library with Ads Created in Adobe Edge](https://go.microsoft.com/fwlink?LinkId=2262459)
 
-Microsoft Advertising platform Display
+Microsoft Advertising Platform Display
 --------------------------------------
 
 **Deliverables**
@@ -3517,7 +3517,7 @@ Microsoft Advertising platform Display
 | Expandable | Not supported |
 | File size | Max 1GB |
 
-Advertising on Microsoft owned and operated (O&O) publishers
+Advertising on Microsoft Owned and Operated (O&O) Publishers
 ------------------------------------------------------------
 
 Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported through Microsoft Invest as well as via third-party platforms. While these options support a broad range of features and ad sizes, Microsoft O&O has the requirements documented below.
@@ -3542,7 +3542,7 @@ Advertising on Microsoft O&Os such as MSN.com and Outlook.com is supported throu
 | Data reported | 3rd Party Rich Media partners will typically provide impressions and click-through data, as well as enhanced metrics. Please consult your Certified Rich Media partner of choice for more details. |
 | Data collection | Microsoft permits advertisers to collect user-provided personal information (for example, through web forms embedded in ads). Advertisers may be required to modify ad units or provide additional disclosure in order to be acceptable for advertising on Microsoft sites. Advertisers wishing to collect personal information within advertisements (according to specifications above) must follow these guidelines: Clearly identify the organization, provide link to privacy policy, Identify purpose for collection information. |
 
-Supported ad dimensions
+Supported Ad Dimensions
 -----------------------
 
 |     | MSN | Outlook | Mobile | Xbox |
@@ -3560,7 +3560,7 @@ Supported ad dimensions
 Deliverables
 ------------
 
-**MSN, Outlook, Mobile**
+**Msn, Outlook, Mobile**
 
 | File | Required format | Dimensions | Maximum file size |
 | --- | --- | --- | --- |
@@ -3578,12 +3578,12 @@ Deliverables
 | Static banner | PSD, JPG | 400 x 225 (Home)  <br>468 x 263 (Store) | N/A |
 | Full screen video | MOV, MP4 | 1920 x 1080 | Highest quality possible, uncompressed |
 
-Display ads performance standards
+Display Ads Performance Standards
 ---------------------------------
 
 This section describes the methodology, metrics, and standards Microsoft uses to assess the performance of display ads, where ad performance in this context refers to the weight or heaviness of an ad. The standards documented below are in alignment with the [IAB Guidelines](https://go.microsoft.com/fwlink?LinkId=2262551) published in July 2017. Ads that do not comply with the performance standards outlined below will be prohibited from displaying on Microsoft online properties.
 
-**Background: Why display ad performance is important**
+**Background: Why Display Ad Performance Is Important**
 
 Better ad performance is a win-win for ad providers and publishers. Said another way:
 
@@ -3613,7 +3613,7 @@ This section describes each of the three performance metrics in more detail, inc
 
 ##### Important
 
-Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [browser intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
+Since September 2020, Chromium based browsers including Google Chrome and Microsoft Edge has introduced a new [Browser Intervention](https://go.microsoft.com/fwlink?LinkId=2262194) that monitors ad iframes and may redirect them to an error page (Heavy ad intervention) if resource use exceeds specified criteria. Video advertisements, in particular, may be more vulnerable to this intervention, which impacts iframes that load more than 4 MB of data.  
   
 If a creative satisfies any of the following criteria, it is considered heavy:
 
@@ -3623,7 +3623,7 @@ If a creative satisfies any of the following criteria, it is considered heavy:
 
 [Native ads creative specs](#apex/ads/en/60207/0/#exp405)
 
-MSN Native
+Msn Native
 ----------
 
 **Overview**
@@ -3642,7 +3642,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 | Sponsor (Brand) | Text | < 25 characters |     |
 | URL | Text |     |     |
 
-**Creative best practices for programmatic Native**
+**Creative Best Practices for Programmatic Native**
 
 *   Turbo-charge your call-to-action: Immediately highlight your main point with eye-catching wording to create urgency and drive engagement.
 *   Choose compelling images: People, particularly shown experiencing an emotion associated with your headline, increase impact. Also, avoid text overlays on image assets.
@@ -3651,7 +3651,7 @@ Getting started is simple. Upload an image, logo, copy, and URL into the AppNexu
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
 Outlook Native
 --------------
@@ -3678,11 +3678,11 @@ Creative best practice - Turbo-charge your call-to-action: Immediately highlight
 
 **Examples**
 
-_Outlook PC web_
+_Outlook PC Web_
 
 **Examples**
 
-_Outlook mobile web_
+_Outlook Mobile Web_
 
 Microsoft Audience Network
 --------------------------
@@ -3696,7 +3696,7 @@ Getting started is simple.
 *   For image-based ads: Upload an image, copy, and URL. Microsoft Advertising will format your content to match the unique look and feel of the publisher site, whether it's displayed on a smartphone, tablet, or laptop.
 *   For Video & Connected TV ads: Upload your video creative, adhering to our video quality ratings that are outlined below. The quality of your video will determine where your ads can serve—the higher the video quality, the more premium placements you'll be able to access. Note, Video & Connected TV ads are currently in open beta; so, they may not be available yet to all advertisers. Get in touch with your account team to know more.
 
-**Image-based ad deliverables**
+**Image-Based Ad Deliverables**
 
 | Ad components | File type | Dimensions |
 | --- | --- | --- |
@@ -3708,7 +3708,7 @@ Getting started is simple.
 | URL | Text | 1024 characters max |
 | Mobile URL | Text | 1024 characters max |
 
-**Creative best practices for audience ads**
+**Creative Best Practices for Audience Ads**
 
 *   Images are recommended to have no text or logo overlay for maximum flexibility.
 *   Some publishers prohibit the use of embedded text within images.
@@ -3723,33 +3723,33 @@ Getting started is simple.
 *   The image must be clearly relevant to the product or service being advertised.
 *   Image assets used for Audience Ads share the same dimensions as Google Display Network, Meta Audience Network, and Yahoo Gemini.
 
-**Safe area**
+**Safe Area**
 
 Publishers place "sponsored" or "ad" icons typically near the bottom of the image along with the headline and business name text. This should be considered when choosing image content.
 
 Audience ads allow individual image cropping to support all aspect ratios for each ad experience. Using the preview tool is important to validate each ad experience. If your ad isn't showing as expected in each aspect ratio, you can re-crop it.
 
-**Ad variants**
+**Ad Variants**
 
-_Audience Network wide image (1:91:1)_  
+_Audience Network Wide Image (1:91:1)_  
 
-_Microsoft Edge single carousel (1:78:1)_  
+_Microsoft Edge Single Carousel (1:78:1)_  
 
-_MSN in-article ad (1.5:1)_  
+_Msn in-Article Ad (1.5:1)_  
 
-_MSN small headline (1.33:1)_  
+_Msn Small Headline (1.33:1)_  
 
-_Audience Network square image (1:1)_  
+_Audience Network Square Image (1:1)_  
 
-_Outlook.com web desktop (text)_  
+_Outlook.com Web Desktop (text)_  
 
-_Outlook.com mobile web (text)_  
+_Outlook.com Mobile Web (text)_  
 
 **Example**
 
-_MSN homepage PC web_
+_Msn Homepage PC Web_
 
-**Video-based ad deliverables**
+**Video-Based Ad Deliverables**
 
 With Video & Connected TV ads, advertisers can reach their audience across a wide range of online Video and Connected TV inventory. To access more premium online video and CTV inventory, advertisers need to upload higher quality assets.
 
@@ -3782,7 +3782,7 @@ Use the below guidelines to understand what the requirements are for each of the
 
 [Video ads creative specs](#apex/ads/en/60207/0/#exp718)
 
-Video advertising overview
+Video Advertising Overview
 --------------------------
 
 Microsoft Display Advertising falls into three categories providing ad serving options as well as advertising opportunities on and off Microsoft owned properties.
@@ -3805,7 +3805,7 @@ To serve on the Microsoft Invest platform, all video creatives must adhere to th
 | Video size and bitrate | 2160 px; 30000 kpbs  <br>1280 px; 8000 kpbs  <br>1080 px; 7000 kpbs  <br>720 px; 2500, 2000, 1700, 1100, 600 kpbs  <br>432 px; 1700, 1500, 1000, 500 kpbs  <br>_Note_: 1280 x 720 px @ 2500 kbps recommended minimum. |
 | VAST | Version 2.0 or higher is supported. |
 
-**Guidelines and specifications for third-party video creatives**
+**Guidelines and Specifications for Third-Party Video Creatives**
 
 Adhere to these guidelines and specifications when creating video creatives that will be trafficked through a third-party ad server:
 
@@ -3819,17 +3819,17 @@ Adhere to these guidelines and specifications when creating video creatives that
     *   2500 kbps (optimized for high-speed connections)
 *   Use secure tags in all cases. If you are trafficking VPAID creatives, make sure to properly secure every referenced file.
 
-Video & Connected TV ads - Microsoft Advertising Platform
+Video & Connected TV Ads - Microsoft Advertising Platform
 ---------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | Video & Connected TV |
 | --- | --- |
 | Linear video | Yes |
 | Linear video \| VPAID | No  |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3837,7 +3837,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Mid-roll | Yes |
 | Post-roll | Yes |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3846,7 +3846,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | Standard video metrics | Yes |
 | Click-through URL | No  |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3855,7 +3855,7 @@ Video & Connected TV ads - Microsoft Advertising Platform
 | VPAID 1.0 (Flash) | No  |
 | VPAID 2.0 (JS) | No  |
 
-**User experience**
+**User Experience**
 
 |     | Video & Connected TV |
 | --- | --- |
@@ -3895,17 +3895,17 @@ Use the below guidelines to understand what the requirements are for each of the
 | Track conformance | N/A | N/A | File should contain only 1 video and 1 audio track. |
 | Duration conformance | N/A | N/A | Video and audio track durations should match with tolerance of 500 ms. |
 
-Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
+Third-Party Video Advertising on Microsoft Publishers (Msn, In-App, Xbox, Mcg)
 ------------------------------------------------------------------------------
 
-**Ad types**
+**Ad Types**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
 | Linear video | Yes | Yes | Yes | Yes | Yes |
 | Linear video \| VPAID | Yes | Yes | No  | No  | Yes |
 
-**Linear video ad slots**
+**Linear Video Ad Slots**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3913,7 +3913,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Mid-roll | Yes | No  | No  | No  | No  |
 | Post-roll | No  | No  | No  | No  | No  |
 
-**Ad serving capabilities**
+**Ad Serving Capabilities**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3922,7 +3922,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | Standard video metrics | Yes | Yes | Yes | Yes | Yes |
 | Click-through URL | Yes | Yes | Yes | N/A | Yes |
 
-**IAB ad standards**
+**IAB Ad Standards**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3931,7 +3931,7 @@ Third-party video advertising on Microsoft publishers (MSN, In-app, Xbox, MCG)
 | VPAID 1.0 (Flash) | No  | No  | No  | No  | No  |
 | VPAID 2.0 (JS) | Yes | Yes | No  | No  | Yes |
 
-**User experience**
+**User Experience**
 
 |     | PC browse | Mobile browse | In-app | Xbox | MCG |
 | --- | --- | --- | --- | --- | --- |
@@ -3973,7 +3973,7 @@ _Xbox_
 *   Click to video only.
 *   Key art assets (i.e. Layered PSD, AI, EPS, illustrations, photos, fonts) are needed for our design team to build out static banners, video banner overlays, and landing experience branded pages.
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 This specification covers linear video ad formats that are third-party served (ad is delivered via [IAB's Video Ad Serving Template (VAST)](https://go.microsoft.com/fwlink?LinkId=2262195)).
 
@@ -3987,7 +3987,7 @@ All third-party ad servers must meet the below requirements:
 *   Media files present in the ad response should provide the full range of supported frame sizes and bit rates, sorted in order of preference HD, Mobile HD, SD, Mobile SD (specifications as indicated in the above table). Please do not attempt to perform device/bandwidth detection to scope the available media files list; players will make the appropriate bit rate selection client-side.
 *   Pop-up and pop-under windows are not supported on any product.
 
-**VAST wrapper ads**
+**VAST Wrapper Ads**
 
 *   Ad tag tokens will not be evaluated at runtime by the player. The VAST ad tag URL should be returned fully decorated by the ad server returning the wrapper ad response. This includes but is not limited to cache busting tokens.
 *   The maximum number of chained wrappers supported is currently 3 with the 4th tag expected to provide an inline ad response. Chains longer than this number cannot be guaranteed for delivery or reporting accuracy.
@@ -4021,11 +4021,11 @@ All third-party ad servers must meet the below requirements:
         *   If the video playback pauses on click, the ad must render a resume button over the video content so that the user can resume the ad and reach the content experience.
         *   The VPAID AdClickThru event must be raised for video click-thrus. If the ad opts to handle the click thru directly, the destination page must open in a new (non-modal) tab/window and must not replace the current window/frame.
 
-_IAB VPAID 2.0 support limitations_
+_IAB VPAID 2.0 Support Limitations_
 
 *   Only VAST 3.0 delivery is supported at this time (see related linear video spec for more details), it is important to note that skip functionality is not supported within the player. Therefore, if skip functionality is desired VPAID 2.0 should be used.
 
-_VPAID vendor certification_
+_VPAID Vendor Certification_
 
 All VPAID vendors must submit test assets for certification prior for running VPAID ads on Microsoft Advertising properties. Please work with your account team representative to submit for VPAID vendor certification. VPAID vendors are expected to VAST deliver their VPAID ad content. If the VPAID vendor will also serve linear video through the same ad server to Microsoft Advertising, they should submit for both VAST and VPAID vendor certification. Otherwise, if the VAST payload is mostly static and does not vary by advertiser, only VPAID certification is required.
 
@@ -4037,7 +4037,7 @@ _VPAID Interface Requirements_
 *   VPAID ad must update the adRemainingTime property with the actual duration of the ad or clearly indicating an unknown value within the first second after the video start event.
 *   AdStarted event and AdImpression event must fire as simultaneously as possible.
 
-_Cross-domain data request_
+_Cross-Domain Data Request_
 
 Vendor ad servers, CDNs, and all server-side resources referenced in the VAST tag and VPAID ad must allow Microsoft & Microsoft partner domains (\*msn.com; \*.fwmrm.net; \*.s-msn.com) to access cross-site data via the following method:
 
@@ -4045,28 +4045,28 @@ Vendor ad servers, CDNs, and all server-side resources referenced in the VAST ta
     *   Example CORS response header:  
         Access-Control-Allow-Origin: \*
 
-**Other third-party served ad policies**
+**Other Third-Party Served Ad Policies**
 
-_Discrepancy rates between ad servers_
+_Discrepancy Rates Between Ad Servers_
 
 Microsoft does not provide guarantees relating to 3rd party served discrepancies but will commit to investigate discrepancies that exceed accepted industry standard discrepancy rates.
 
-_Server-to-server ad calls_
+_Server-to-Server Ad Calls_
 
 Microsoft does not currently employ server-to-server ad calls for vendor ad tags. Furthermore, it is strongly preferred that Microsoft provided ad tags for third-party sourced inventory are called directly from the client, however, server-to-server ad calls can be supported provided the following attributes are communicated to the MSFT ad server on the ad call (work with your account team to get specific query-string parameters for these attributes).
 
 *   Client IP address
 *   User agent
 
-_Max tracking pixels per event_
+_Max Tracking Pixels per Event_
 
 While no hard limit is enforced on the MSFT properties, the maximum recommended number of tracking pixels per event is set at five (5). This limit is proposed to reduce risk of latent or dropped event tracking and ensure discrepancy rates within industry norms.
 
-**Metrics & reporting**
+**Metrics & Reporting**
 
 The following events are supported across the video product portfolio for first-party and third-party served ads.
 
-_Video events_
+_Video Events_
 
 *   Play (impression)
 *   Video click
@@ -4081,16 +4081,16 @@ _Video events_
 
 **Examples**
 
-_MSN video_
+_Msn Video_
 
-Outstream and video in display
+Outstream and Video in Display
 ------------------------------
 
 **Overview**
 
 This specification covers linear video ad formats for third-party served (ad is delivered via IAB's Video Ad Serving Template (VAST)). Please refer to the section and columns headers when reading this document as some elements of the specification vary depending on which party is serving the ad.
 
-**Ad specifications**
+**Ad Specifications**
 
 |     |     |
 | --- | --- |
@@ -4104,7 +4104,7 @@ This specification covers linear video ad formats for third-party served (ad is 
 | Frameworks | VPAID 2.0 |
 | Player technology | HTML5 |
 
-**Third-party ad served video (VAST)**
+**Third-Party Ad Served Video (VAST)**
 
 Outstream video ad creative must be delivered by certified third-party ad servers. All third-party ad servers must be certified with Microsoft for each IAB standard and version. Work with your representative to verify certification or request certification for new vendors.
 
@@ -4131,9 +4131,9 @@ Outstream video ad creative must be delivered by certified third-party ad server
 
 **Examples**
 
-_Outstream video_
+_Outstream Video_
 
-_Video in display_
+_Video in Display_
 
 Additional resources
 --------------------
