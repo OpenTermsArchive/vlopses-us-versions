@@ -1,4 +1,4 @@
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -51,7 +51,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -61,7 +61,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -79,7 +79,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -132,7 +132,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -142,7 +142,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -160,7 +160,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -213,7 +213,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -223,7 +223,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -241,7 +241,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -294,7 +294,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -304,7 +304,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -322,7 +322,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -375,7 +375,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -385,7 +385,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -403,7 +403,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -456,7 +456,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -466,7 +466,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -484,7 +484,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -537,7 +537,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -547,7 +547,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -565,7 +565,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -618,7 +618,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -628,7 +628,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -646,7 +646,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -699,7 +699,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -709,7 +709,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -727,7 +727,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -780,7 +780,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -790,7 +790,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -808,7 +808,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -861,7 +861,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -871,7 +871,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -889,7 +889,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -942,7 +942,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -952,7 +952,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -970,7 +970,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1023,7 +1023,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1033,7 +1033,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1051,7 +1051,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1104,7 +1104,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1114,7 +1114,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1132,7 +1132,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1185,7 +1185,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1195,7 +1195,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1213,7 +1213,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1266,7 +1266,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1276,7 +1276,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1294,7 +1294,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1347,7 +1347,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1357,7 +1357,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1375,7 +1375,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1428,7 +1428,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1438,7 +1438,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1456,7 +1456,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1509,7 +1509,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1519,7 +1519,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1537,7 +1537,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1590,7 +1590,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1600,7 +1600,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1618,7 +1618,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1671,7 +1671,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1681,7 +1681,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1699,7 +1699,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1752,7 +1752,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1762,7 +1762,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1780,7 +1780,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1833,7 +1833,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1843,7 +1843,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1861,7 +1861,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1914,7 +1914,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -1924,7 +1924,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -1942,7 +1942,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -1995,7 +1995,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -2005,7 +2005,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -2023,7 +2023,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -2076,7 +2076,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -2086,7 +2086,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -2104,7 +2104,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -2157,7 +2157,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -2167,7 +2167,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
@@ -2185,7 +2185,7 @@ Additional resources
 
 - - -
 
-Nudity and suggestive content
+Nudity and Suggestive Content
 =============================
 
 Microsoft Advertising Network policies help advertisers and partners learn what makes a great ad, as well as what is and isn't allowed in them.
@@ -2238,7 +2238,7 @@ Ad content featuring moderate skin exposure or contextual nudity is generally al
 
 ##### Note
 
-**Best practices:**
+**Best Practices:**
 
 1\. What kinds of skin exposure may be acceptable in promotional content?
 
@@ -2248,7 +2248,7 @@ Partial nudity may be considered acceptable when the ad image is contextually ap
 
 A helpful guideline is to consider the image as if it were a still from a film on pause, then ask the question "Is what’s about to happen next appropriate for a family audience?” If the answer is yes, the creative likely aligns with Microsoft standards.
 
-What happens when an ad policy is violated
+What Happens When an Ad Policy is Violated
 ------------------------------------------
 
 The penalty varies by the nature of the violation, and the number of violations.
