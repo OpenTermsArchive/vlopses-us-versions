@@ -89,4 +89,4 @@ If you are looking for more information about the DMCA and relevant procedure, y
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Digital\_Millennium\_Copyright\_Act\_(%22DMCA%22)\_Policy&oldid=455043](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Digital_Millennium_Copyright_Act_\(%22DMCA%22\)_Policy&oldid=455043)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Digital\_Millennium\_Copyright\_Act\_(%22DMCA%22)\_Policy&oldid=554035](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Digital_Millennium_Copyright_Act_\(%22DMCA%22\)_Policy&oldid=554035)"
