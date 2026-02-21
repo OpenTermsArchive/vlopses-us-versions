@@ -5,23 +5,26 @@ These guidelines are for businesses promoting their presence on Pinterest, and p
   
 We’re happy to have you promote your Pinterest presence and content. Just make sure your ads and marketing materials don’t suggest that Pinterest is sponsoring your promotions or formally affiliated in any way.
 
-The basics
+**The basics**
 
-**Pinterest logo**
+
+------------------
+
+Pinterest logo
 
 *   Only use the Pinterest badge (please don’t use our wordmark)  
       
     
 *   Always include a call to action when using our badge  
+      
     
-
 *   Always display your Pinterest account when you use our badge in a non-interactive environment  
       
     
 *   Always use our badge templates to ensure call to action text is proportionate to the Pinterest badge
     
 
-**Product screens**
+Product screens
 
 *   Call out your Pinterest account somewhere within the treatment  
       
@@ -29,7 +32,7 @@ The basics
 *   Interface images should match the device you show (ex. a mobile view should show the mobile interface, etc.)
     
 
-**Language**
+Language
 
 *   Whenever you reference Pinterest, make sure to also reference your Pinterest account  
       
@@ -45,25 +48,33 @@ The basics
     Popular on Pinterest  
       
     
-
 *   **Do not use this language for your Pins:**  
     Trending on Pinterest  
     Trending Pins
     
 
-Full guidelines
+**Full guidelines**
 
-Our logo
+
+-----------------------
+
+### 
+
+**Our logo**
 
 Our primary logo is a script white “P” placed within a red circle. Use the EPS and high resolution PNGs provided below. The logo may also be black or white when color usage is limited. Do not alter our logo with other elements like filters or effects.
 
 [View logo assets](https://www.pinterest-assets.com/asset-management/2THWMKDBK3GQ?WS=AssetManagement&Flat=y&FR_=1&W=1504&H=694)
 
+#### 
+
 **Logo examples**
 
-Primary red logo.
+Primary red logo
 
-Secondary black or white.
+Secondary black or white
+
+#### 
 
 **Things to avoid when using our logo**
 
@@ -75,116 +86,146 @@ Do not remove the P from the circle.
 
 Do not alter the logo color.
 
-Call to action lockups
+### 
+
+**Call to action lockups**
 
 We offer templates for interactive call to action lockups that link to your Pinterest profile. You can also make your own, using the guidance below.
 
 [View interactive CTA lockups](https://www.pinterest-assets.com/Package/2THWMKDBK5R4)
 
+#### 
+
 **Interactive call to action lockup guidance**
 
-**No container**
+No container
 
-**Gray container over white**
+Gray container over white
 
-**White container**
+White container
 
-**Static call to action lockup guidance**  
-Follow these guidedlines for any static, non-interactive CTAs that link people to your Pinterest profile. If your audience is more familiar with Pinterest, you can simply use your Pinterest account handle. If your audince isn’t as familiar with Pinterest, you might want to write out your full account URL for clearer context. In all cases you may use your own brand typeface.
+#### 
 
-**Centered CTA**  
+**Static call to action lockup guidance**
+
+Follow these guidelines for any static, non-interactive CTAs that link people to your Pinterest profile. If your audience is more familiar with Pinterest, you can simply use your Pinterest account handle. If your audience isn’t as familiar with Pinterest, you might want to write out your full account URL for clearer context. In all cases you may use your own brand typeface.
+
+Centered CTA
+
 Pinterest badge centered above a CTA and your account handle
 
-**Left-aligned CTA**  
+Left-aligned CTA
+
 Pinterest badge set to the left of a CTA and your account handle
 
-**Centered account URL**  
+Centered account URL
+
 Pinterest badge centered above full account URL
 
-**Left-aligned account URL**  
-Pinterest badge set to the left of a CTA and your account handle.  
-Note: The CTA does should not mention “Pinterest” as it is included within the URL.
+Left-aligned account URL
 
-**Account URL only**  
+Pinterest badge set to the left of a CTA and your account handle. Note: The CTA should not mention “Pinterest” as it is included within the URL.
+
+Account URL only
+
 Your full Pinterest URL may appear without our badge.
 
-**CTA and account URL**  
-A CTA and full account URL may appear without our badge.  
- Note: The CTA should not mention “Pinterest,” as it is already included within the URL.
+CTA and account URL
 
-Broadcast and social
+A CTA and full account URL may appear without our badge. Note: The CTA should not mention “Pinterest,” as it is already included within the URL.
 
-Broadcast and social lockups should always include clear links to your Pinterest profile. Use of our badge without a link to your own account incorrectly implies a partnership, sponsorship or endorsement.  
+### 
+
+**Broadcast and social**
+
+Broadcast and social lockups should always include clear links to your Pinterest profile. Use of our badge without a link to your own account incorrectly implies a partnership, sponsorship or endorsement.    
   
 To use Pinterest in video, television or film, you must submit a written request to your partner manager at Pinterest. The partner manager needs to review each potential use. Please reach out at least 10 business days in advance to avoid production delays.
 
 Centered lockups are recommended for all social and broadcast formats.
 
-Language
+### 
 
-**Acceptable call to action phrases**  
- Our primary call to action is “Follow on Pinterest.” You can also use the following phrases to talk about your account:  
+**Language**
+
+Acceptable call to action phrases
+
+Our primary call to action is “Follow on Pinterest.” You can also use the following phrases to talk about your account:  
   
 Follow us on Pinterest  
 Popular on Pinterest  
 Find us on Pinterest  
 Visit us on Pinterest  
 Find more ideas on Pinterest  
-Get inspired on Pinterest  
-  
-**Unacceptable phrases**  
+Get inspired on Pinterest
+
+Unacceptable phrases
+
 Never use any of the following phrases when referring to Pinterest:  
   
 Trending on Pinterest  
 Trending Pins  
-Any phrase that uses “Pin” as a verb (use “save” instead)  
-  
-**When can you say “Popular on Pinterest?”**  
-A Pin is only considered popular if it registers high impressions, clicks or saves within Pinterest Analytics. Remember that Pinterest Analytics only shows your own Pin performance. To provide the right context, make sure to put your own Pinterest URL after any “Popular on Pinterest” labels.  
-  
-**Naming and visuals for your apps and services**  
+Any phrase that uses “Pin” as a verb (use “save” instead)
+
+When can you say “Popular on Pinterest?”
+
+A Pin is only considered popular if it registers high impressions, clicks or saves within Pinterest Analytics. Remember that Pinterest Analytics only shows your own Pin performance. To provide the right context, make sure to put your own Pinterest URL after any “Popular on Pinterest” labels.
+
+Naming and visuals for your apps and services
+
 If you’re creating an app, website or other service designed to be used with Pinterest, develop your own branding that doesn’t use Pinterest brand elements.
 
-Don’t use “Pin,” “Pinterest” or any variations of “Pinterest” in your name or domain name.
+*   Don’t use “Pin,” “Pinterest” or any variations of “Pinterest” in your name or domain name.  
+      
+    
+*   Don’t use any Pinterest marks, logos, graphics or similar variations as part of your logo or branding.
+    
 
-Don’t use any Pinterest marks, logos, graphics or similar variations as part of your logo or branding.
+### 
 
-Product depictions
+**Product depictions**
 
-When depicting Pinterest in your marketing, always make sure the interface matches the device. For example: when depicting Pinterest within a photo of a phone, make sure you’re using the mobile Pinterest interface. The same applies for tablet and desktop depictions. This applies to all elements of Pinterest, including Pins, boards, the grid view or any other element.  
+When depicting Pinterest in your marketing, always make sure the interface matches the device. For example: when depicting Pinterest within a photo of a phone, make sure you’re using the mobile Pinterest interface. The same applies for tablet and desktop depictions. This applies to all elements of Pinterest, including Pins, boards, the grid view or any other element.    
   
 Please note that you are responsible for obtaining all rights to any imagery represented in your marketing materials.
 
-Press assets
+### 
+
+**Press assets**
 
 Please refer to the below file packages for press assets.
 
-**Product screens**
+Product screens
 
 [View screens](https://www.pinterest-assets.com/Package/2THWMKDBKMVK)
 
-**Footage of our product and Pinners**
+Footage of our product and Pinners
 
-[View images](https://www.pinterest-assets.com/CS.aspx?VP3=SearchResult&VBID=2THW9EP8EONK&PN=1&WS=PackagePres)
+[View footage](https://www.pinterest-assets.com/asset-management/2THWMK3H2PLJ?WS=AssetManagement)﻿
 
-**Footage of our office and employees**
+Footage of our office and employees
 
 [View footage](https://pnt-prod.orangelogic.com/AssetLink/bqw1850w2yo32d0l60p1fd8upeqd47ty.mp4)
 
-**Leadership photos**
+Leadership photos
 
 [View photos](https://www.pinterest-assets.com/Package/2THWMKDBKD47)
 
-Press inquiries
+### 
 
-**Press requests**  
+**Press inquiries**
+
+Press requests
+
 Email [press@pinterest.com](mailto:press@pinterest.com)  
-Only members of the press will receive a response. Visit our [Help Center](https://help.pinterest.com/) for all other inquiries.  
-  
-**Request a speaker**  
+Only members of the press will receive a response. Visit our [Help Center](https://help.pinterest.com/en/) for all other inquiries.  
+
+Request a speaker
+
 Fill out our [speaker form](https://newsroom.pinterest.com/request-a-speaker)  
-  
-**Subscribe**  
+
+Subscribe
+
 Get the [RSS feed](https://newsroom.pinterest.com/subscribe/rss)
 
 - - -
