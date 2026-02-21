@@ -62,7 +62,7 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_API\_Usage\_Guidelines&oldid=522696](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_API_Usage_Guidelines&oldid=522696)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_API\_Usage\_Guidelines&oldid=556362](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_API_Usage_Guidelines&oldid=556362)"
 
 - - -
 
