@@ -878,7 +878,7 @@ The absence of a product or service name or logo from this list does not constit
 | AppleCare One℠ | service and support programs |
 | Apple Certified Trainer℠ | certification services |
 | Apple Consultants Network℠ | consultant services |
-| Apple Fitness+℠ | fitness subscription service |
+| Apple Fitness+® | fitness subscription service |
 | Apple Messages for Business® | communications service |
 | Apple Music Atlas® | music technology services |
 | Apple News® | news aggregation service |
@@ -1069,6 +1069,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of January 28, 2025.
+This list includes updates as of February 19, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
