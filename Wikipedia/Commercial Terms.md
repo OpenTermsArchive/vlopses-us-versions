@@ -52,4 +52,4 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Commercial\_Sales\_and\_Contracts\_Policy&oldid=520573](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Commercial_Sales_and_Contracts_Policy&oldid=520573)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Commercial\_Sales\_and\_Contracts\_Policy&oldid=556268](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Commercial_Sales_and_Contracts_Policy&oldid=556268)"
