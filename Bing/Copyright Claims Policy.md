@@ -378,7 +378,6 @@ Certain Brand Assets have Specific Brand and Product Guidelines providing guidan
 *   [Windows](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Windows_trademark_guidelines_2025.pdf)
 *   [Microsoft 365](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_365_trademark_guidelines_2024_.pdf)
 *   [Microsoft Edge](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Edge_trademark_guidelines_2025.pdf)
-*   [Skype](https://www.skype.com/en/legal/brand-guidelines/)
 *   [Microsoft Bing](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Bing_trademark_guidelines_2025.pdf)
 *   [Microsoft Surface](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Surface_trademark_guidelines_2025V2.0.pdf)
 
