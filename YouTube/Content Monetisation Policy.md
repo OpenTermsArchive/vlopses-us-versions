@@ -468,7 +468,7 @@ Super Thanks lets creators earn revenue from viewers who want to show extra grat
 Virtual Items Program Policies for Creators
 ===========================================
 
-The Virtual Items Module is available to US creators in the YouTube Partner Program (YPP) that want to unlock Virtual Items features. Enabling Virtual Items can help you build community, engage with fans, and earn money or other benefits.
+The Virtual Items Module is available to eligible creators in the YouTube Partner Program (YPP) that want to unlock Virtual Items features. Enabling Virtual Items can help you build community, engage with fans, and earn money or other benefits.
 
 Virtual Items include these features:
 
@@ -503,7 +503,14 @@ You must meet these minimum requirements to be eligible for the Virtual Items pr
 
 *   Channel is in the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
 *   Be at least 18 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
-    *   **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+    
+    **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+    
+
+*   Be at least 19 years old with a [verified AdSense account](https://support.google.com/adsense/answer/7568896) or other form of age verification accepted by Google.
+    
+    **Note:** If you do not see the Virtual Items Module, you may need to take action to be eligible. Reference the section below on how to verify your AdSense account.
+    
 *   Live in a [country or region where the individual Virtual Items are available](https://support.google.com/youtube/answer/15535963#availability).
 
 ### Verifying Your AdSense Account
