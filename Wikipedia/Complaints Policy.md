@@ -6,7 +6,7 @@ From Wikimedia Foundation Governance Wiki
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Wikimedia Foundation Universal Code of Conduct
 
@@ -806,8 +806,6 @@ In extremely rare situations, the Foundation may become aware of circumstances a
 
 Removal of user rights are usually either permanent or long term. Rebuilding trust is not impossible, which is why individuals are encouraged to reflect on their actions leading up to their advanced rights removal and consider how they may best serve the communities moving forward. In situations of long term removals, and once the no-rights period has elapsed, a contributor may have to fulfill additional criteria before they are permitted to reapply for advanced rights; those are made known to them at the time of the removal of advanced rights.
 
-  
-
 Use of advanced rights by Foundation staff
 ------------------------------------------
 
@@ -858,8 +856,6 @@ The Foundation staff members usually performing office actions are:
 The office actions will usually come from a role account, with the username User:WMFOffice. In some cases, like performing DMCA takedowns, office actions may be performed by one's staff account. Either way, they will be clearly indicated both during and after to prevent ambiguities.
 
 Wikimedia administrators and others who have the technical power to revert or edit office actions are strongly cautioned against doing so. Unauthorized modifications to office actions will not only be reverted, but may lead to sanctions by the Foundation, such as revocation of the rights of the individual involved. When in doubt, community members should consult the Foundation member of staff that performed the office action, or their line manager. However, details regarding an office action are only shared to the extent that they do not compromise the safety of users, the public or the project.
-
-  
 
 Timeline of office actions
 --------------------------
@@ -933,4 +929,4 @@ If you think that the office actions listed under this policy have been abused, 
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Office\_Actions\_Policy&oldid=544443](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Office_Actions_Policy&oldid=544443)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Office\_Actions\_Policy&oldid=556145](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Office_Actions_Policy&oldid=556145)"
