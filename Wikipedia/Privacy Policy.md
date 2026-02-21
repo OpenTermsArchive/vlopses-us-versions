@@ -9,7 +9,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Wikimedia Foundation Privacy Policy
 
@@ -432,7 +432,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=544281](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=544281)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=555910](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=555910)"
 
 - - -
 
@@ -442,7 +442,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 As stated in our , Wikimedia believes strongly in the values of privacy and transparency. To that end, we have created this Cookie Statement as a clear reference guide to the use of cookies on Wikimedia Sites. This Cookie Statement explains how we use cookies (and other locally stored data technologies), how we use third-party cookies, and how you can manage your cookie options. For more information on our privacy practices, please visit our .
 
@@ -453,7 +453,7 @@ What is a cookie?
 
 A "cookie" is a tiny data file that we transfer onto your computer, mobile phone, or any other device that you use to access the Wikimedia Sites, and is generally used for authentication and tracking. Every cookie expires after a certain period of time, but that period varies depending on what the cookie is used for and how your browser is configured.
 
-Cookies are often categorized based on how long they remain active before they expire. A "session" cookie is one that generally expires when you close your web browser or mobile application. A "persistent" cookie is one that remains in your device, even after you close your browser or mobile application.  A persistent cookie expires according to the duration set by us, or when you delete it manually. You can .
+Cookies are often categorized based on how long they remain active before they expire. A "session" cookie is one that generally expires when you close your web browser or mobile application. A "persistent" cookie is one that remains in your device, even after you close your browser or mobile application. A persistent cookie expires according to the duration set by us, or when you delete it manually. You can .
 
 You may remove or disable cookies through your browser settings. For more information on how to manage your cookie options, please see [Section 3](#options) of this Cookie Statement below.
 
@@ -481,7 +481,7 @@ Here are a few examples:
 
 **Preferences:**
 
-These cookies store your preferences, so that they can be remembered the next time you use the Wikimedia Sites, for a more customized experience. These cookies are useful for recognizing and maintaining your language preference, remembering changes you have made to text size, fonts and other display preferences, so we can provide you with the look and feel that you want, and more.  
+These cookies store your preferences, so that they can be remembered the next time you use the Wikimedia Sites, for a more customized experience. These cookies are useful for recognizing and maintaining your language preference, remembering changes you have made to text size, fonts and other display preferences, so we can provide you with the look and feel that you want, and more.
 
 Here are a few examples:
 
@@ -517,7 +517,7 @@ Here are a few examples:
 
 We will never use third-party cookies on our wikis unless we get your permission to do so. These cookies would allow us to render services provided by third parties, such as "like" and "share" buttons. When a third party provides these kinds of services, they may require the use of a cookie in order to provide their services.
 
-If you ever come across a third-party cookie transferred to your device during your access of the Wikimedia wiki sites, where you did not take any action to authorize the use and/or transfer of that cookie  (such as one that may have been mistakenly placed by another user or administrator), please report that cookie to us at privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+If you ever come across a third-party cookie transferred to your device during your access of the Wikimedia wiki sites, where you did not take any action to authorize the use and/or transfer of that cookie (such as one that may have been mistakenly placed by another user or administrator), please report that cookie to us at privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
 
 **A note about Wikimedia Foundation non-wiki sites:**
 
@@ -549,11 +549,11 @@ Thanks!
 
 * * *
 
-**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.**
+Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie\_statement&oldid=530799](https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie_statement&oldid=530799)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie\_statement&oldid=554509](https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie_statement&oldid=554509)"
 
 - - -
 
@@ -697,7 +697,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Access\_to\_Nonpublic\_Personal\_Data\_Policy&oldid=538989](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy&oldid=538989)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Access\_to\_Nonpublic\_Personal\_Data\_Policy&oldid=556416](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy&oldid=556416)"
 
 - - -
 
@@ -897,7 +897,7 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=546404](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=546404)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=556267](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=556267)"
 
 - - -
 
@@ -1114,7 +1114,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_publication\_guidelines&oldid=548343](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_publication_guidelines&oldid=548343)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_publication\_guidelines&oldid=556207](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_publication_guidelines&oldid=556207)"
 
 - - -
 
@@ -1464,7 +1464,7 @@ _[Donor Privacy Policy (2009)](https://foundation.wikimedia.org/w/index.php?titl
 
 * * *
 
-**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.**
+Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.
 
 [+/-](https://foundation.wikimedia.org/w/index.php?title=Template:Privacy_policy_navigation_2&action=edit)
 
@@ -1474,7 +1474,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Donor\_privacy\_policy&oldid=518161](https://foundation.wikimedia.org/w/index.php?title=Policy:Donor_privacy_policy&oldid=518161)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Donor\_privacy\_policy&oldid=554789](https://foundation.wikimedia.org/w/index.php?title=Policy:Donor_privacy_policy&oldid=554789)"
 
 - - -
 
@@ -1558,7 +1558,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Wikimedia Foundation Privacy Policy
 
@@ -1981,4 +1981,4 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=544281](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=544281)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=555910](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=555910)"
