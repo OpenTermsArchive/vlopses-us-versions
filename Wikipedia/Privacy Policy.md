@@ -1197,6 +1197,7 @@ If we make exceptions to these guidelines, we will notify the community by descr
 *   CampaignEvents extension: An exception exists for data collected by the . The extension collects the global user IDs of event organizers and event participants, as well as which events users organized or attended and when participants registered for an event. In order for the extension features to work consistently, data collected by the CampaignEvents extension may be retained indefinitely.
 *   Sound logo contest: There is a short-term extension applying to data collected as part of contest entries to allow the brand studios team to evaluate entries in preparation for announcing the winner in February 2023. The retained data will be deleted, aggregated or de-identified within 90 days after the winner is announced.
 *   hCaptcha trial: There is a short-term extension applying to data collected as part of the to analyze the effectiveness of the risk scores and any changes in registration, edit, revert, and block rates. The retained data will be deleted, aggregated, or de-identified within 180 days.
+*   Webrequest table: There is a recurring short-term extension for data from the wmf.webrequest table. This data occasionally needs to be retained longer than usual to enable investigation of automated traffic spikes impacting our readership metrics. When the need arises, the data will be retained for an extra 90 days beyond the ordinary 90-day deletion period. After the 180 day period, the affected data will be purged and retention settings will reset back to 90 days.
 *   In rare cases, we, or particular users with certain administrative rights as described in our Privacy Policy, may need to retain your personal information, including your IP address and user agent information, for as long as reasonably necessary (which may be longer than the period described in the table above) to:
     *   enforce or investigate potential violations of our Terms of Use, this , or any Foundation or user community-based policies;
     *   investigate and defend ourselves against legal threats or actions;
@@ -1236,7 +1237,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_Foundation\_Data\_Retention\_Guidelines&oldid=553221](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_Foundation_Data_Retention_Guidelines&oldid=553221)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_Foundation\_Data\_Retention\_Guidelines&oldid=553598](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_Foundation_Data_Retention_Guidelines&oldid=553598)"
 
 - - -
 
