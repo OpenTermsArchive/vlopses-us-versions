@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-Effective date: February 22nd, 2026
+Effective date: February 23rd, 2026
 
 Last modified: July 10th, 2025
 
