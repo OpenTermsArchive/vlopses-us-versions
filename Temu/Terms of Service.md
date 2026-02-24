@@ -1,5 +1,5 @@
-Temu | U.S. | Terms of Use
-==========================
+Temu | United States | Terms of Use
+===================================
 
 Last Updated: November 7, 2025
 
