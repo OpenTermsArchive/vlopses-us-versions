@@ -4,8 +4,8 @@
 Google Play Developer Distribution Agreement
 ============================================
 
-Effective as of September 15, 2025 ([view archived version](https://play.google/developer-distribution-agreement/archive.html))
--------------------------------------------------------------------------------------------------------------------------------
+Effective as of September 15, 2025 | [Archived versions](https://play.google/developer-distribution-agreement/archive-versions.html)
+------------------------------------------------------------------------------------------------------------------------------------
 
 1\. Definitions
 ---------------
@@ -223,7 +223,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU UNDERSTAND AND EXPRESSLY AGREE THAT 
 *   [Privacy & Terms](https://www.google.com/policies/privacy/)
 *   [Help](https://support.google.com/mobile/?p=play_faq)
 
-Change language or region: България - български Česko - čeština Danmark - dansk Österreich - Deutsch Belgien - Deutsch Schweiz - Deutsch Deutschland - Deutsch Liechtenstein - Deutsch Luxemburg - Deutsch Κύπρος - Ελληνικά Ελλάδα - Ελληνικά United Kingdom - English Singapore - English United States - English Argentina - español España - español México - español Eesti - eesti Suomi - suomi Belgique - français Canada - français France - français Luxembourg - français Éire - Gaeilge ישראל - עברית Hrvatska - hrvatski Magyarország - magyar Indonesia - Indonesia Italia - italiano 日本 - 日本語 대한민국 - 한국어 Lietuva - lietuvių Latvija - latviešu Malta - Malti Norge - norsk bokmål België - Nederlands Nederland - Nederlands Polska - polski Brasil - português Portugal - português România - română Россия - русский Slovensko - slovenčina Slovenija - slovenščina Sverige - svenska ไทย - ไทย Türkiye - Türkçe Việt Nam - Tiếng Việt 中国 - 中文 中國香港特別行政區 - 中文 台灣 - 中文
+Change language or region: България - български Česko - čeština Danmark - dansk Österreich - Deutsch Belgien - Deutsch Schweiz - Deutsch Deutschland - Deutsch Liechtenstein - Deutsch Luxemburg - Deutsch Κύπρος - Ελληνικά Ελλάδα - Ελληνικά United Kingdom - English Ireland - English Singapore - English United States - English Argentina - español España - español México - español Eesti - eesti Suomi - suomi Belgique - français Canada - français France - français Luxembourg - français Éire - Gaeilge ישראל - עברית Hrvatska - hrvatski Magyarország - magyar Indonesia - Indonesia Italia - italiano 日本 - 日本語 대한민국 - 한국어 Lietuva - lietuvių Latvija - latviešu Malta - Malti Norge - norsk bokmål België - Nederlands Nederland - Nederlands Polska - polski Brasil - português Portugal - português România - română Россия - русский Slovensko - slovenčina Slovenija - slovenščina Sverige - svenska ไทย - ไทย Türkiye - Türkçe Việt Nam - Tiếng Việt 中国 - 中文 中國香港特別行政區 - 中文 台灣 - 中文
 
 - - -
 
