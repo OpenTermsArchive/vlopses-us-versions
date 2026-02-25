@@ -4102,7 +4102,7 @@ We strive to provide shoppers with access to transparent, authentic, and helpful
 
 **Important for accurate Product Ratings display**:
 
-*   Ensure your Merchant Center account is enabled for the Product Ratings program. Learn more [About Product Ratings](https://support.google.com/ads-help/answer/14852566).
+*   Ensure your Merchant Center account is enabled for the Product Ratings program. Learn more [About Product Ratings](https://support.google.com/merchants/answer/14620705).
 *   Your product feed must contain unique product identifiers (UPIs) such as [GTIN `[gtin]`](https://support.google.com/merchants/answer/6324461) (highly recommended), or [MPN `[mpn]`](https://support.google.com/merchants/answer/6324482) and [brand `[brand]`](https://support.google.com/merchants/answer/6324351). These identifiers must be consistent between your product feed and your reviews feed.
 *   Regularly check your product review feed for errors and ensure it meets Google's policies and format requirements.
 *   If you use a third-party review aggregator, coordinate with them to ensure proper feed submission and identifier alignment. A high match rate between products and reviews is crucial for ratings to display correctly.
