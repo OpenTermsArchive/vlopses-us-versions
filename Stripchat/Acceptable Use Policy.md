@@ -1,7 +1,7 @@
 Stripchat Parental Control Guide
 ================================
 
-Effective date: February 25th, 2026
+Effective date: February 26th, 2026
 
 Last modified: September 21st, 2023
 
