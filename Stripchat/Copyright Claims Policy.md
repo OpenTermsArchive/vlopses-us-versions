@@ -1,7 +1,7 @@
 Digital Millennium Copyright Act Policy (Notice & Takedown)
 ===========================================================
 
-Effective date: February 25th, 2026
+Effective date: February 26th, 2026
 
 Last modified: July 10th, 2025
 
