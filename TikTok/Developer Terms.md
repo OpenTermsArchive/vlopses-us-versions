@@ -597,7 +597,7 @@ If the user is trying to post commercial content (i.e. commercial content toggle
 
   
 
-![](https://sf16-va.tiktokcdn.com/obj/tiktok-open-platform/ttop_doc_images/0a0d2b2d52bb33c76e7b356d4f142750)
+![](https://sf16-sg.tiktokcdn.com/obj/tiktok-open-platform/ttop_doc_images/0a0d2b2d52bb33c76e7b356d4f142750)
 
   
 
