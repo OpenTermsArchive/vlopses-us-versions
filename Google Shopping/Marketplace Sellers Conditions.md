@@ -5135,6 +5135,8 @@ If you believe there's been an error, and that you haven’t violated our policy
 Customer Match policy
 =====================
 
+Use [the Data Manager API](https://developers.devsite.corp.google.com/data-manager/api/devguides/audiences/google-ads/customer-match) for your Customer Match workflows for an improved developer experience and access to additional features. It is recommended that you avoid implementing new Customer Match workflows using the Google Ads API.
+
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
 This policy applies to advertisers using [Customer Match](https://support.google.com/google-ads/answer/6379332) for campaigns on Search, Shopping, Display, YouTube, or Gmail.
