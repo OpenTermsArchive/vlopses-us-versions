@@ -5383,4 +5383,4 @@ Access Google's [Transparency Report](https://www.google.com/transparencyreport/
 Need help?
 ----------
 
-If you have questions about our policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
+If you have questions about the policies, review the policy guidelines and examples provided or [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
