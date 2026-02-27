@@ -1,9 +1,9 @@
 Terms of Use
 ============
 
-Effective date: February 26th, 2026
+Effective date: February 27th, 2026
 
-Last modified: July 10th, 2025
+Last modified: February 26th, 2026
 
 [](#eligibility)[](#grantOfUse)[](#intellectualProperty)[](#userIdentityVerification)[](#userSubmissions)[](#contentOnTheWebsite)[](#userConduct)[](#tokensAndPayments)[](#servicesOnWebsite)[](#trustAndSafety)[](#recommendationSystems)[](#recordings)[](#privacyPolicy)[](#copyright)[](#modification)[](#indemnification)[](#disclaimer)[](#adr)[](#choiceOfLaw)[](#generalTerms)
 
@@ -26,7 +26,7 @@ You must be of legal age according to your country’s law to use this website. 
 
 You must be at least eighteen (18) years of age to use the Website, unless the age of majority in your jurisdiction is greater than eighteen (18) years of age, in which case you must be at least the age of majority in your jurisdiction. Use of the Website is not permitted where prohibited by law.
 
-The provisions of the [The Content Reporting and Appeal Procedure](https://support.stripchat.com/hc/en-us/articles/15413983450769-The-Content-Reporting-and-Appeal-Procedure) and the related definitions are incorporated by reference herein and shall be deemed to have the same force and effect as if set forth in full herein.
+The provisions of the [Reporting and Internal Complaint-Handling System](https://support.stripchat.com/hc/en-us/articles/22537205709585-Reporting-and-Internal-Complaint-Handling-System) and the related definitions are incorporated by reference herein and shall be deemed to have the same force and effect as if set forth in full herein.
 
 2\. Grant of Use
 ----------------
