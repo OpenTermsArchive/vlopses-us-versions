@@ -11,7 +11,7 @@ For SHEIN customers, this Privacy Policy ( **"Policy"** ) explains how your pers
 
 In the United States, the Site and the App are provided by SHEIN US Services, LLC. who is responsible for collecting, processing, and protecting your personal data. In this Policy, the terms “SHEIN,” “Company,” “we,” “us,” and “our” refer to SHEIN US Services, LLC.
 
-**Please read our [](https://us.shein.com/Terms-and-Conditions-a-399.html)[Terms and Conditions](https://us.shein.com/Terms-and-Conditions-a-399.html) and this Policy before accessing or using our Services. If you cannot agree with this Policy or the Terms and Conditions, please do not access or use our Services.**
+**Please read our [](javascript:;)[Terms and Conditions](https://us.shein.com/Terms-and-Conditions-a-399.html) and this Policy before accessing or using our Services. If you cannot agree with this Policy or the Terms and Conditions, please do not access or use our Services.**
 
 **Policy Modification:** SHEIN may change this Policy from time to time, to reflect how we process your data, and if we make changes, we will revise the effective date or last modified date at the top of this Policy. If we make changes that materially affect your privacy rights, we will attempt to provide advanced notice (including via real- or near real-time disclosures) or otherwise via the Site, or by some other means of contact so that you have a reasonable opportunity to review the changes before you continue to use the Site or the Services.
 
