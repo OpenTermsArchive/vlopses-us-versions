@@ -375,11 +375,11 @@ Certain Brand Assets have Specific Brand and Product Guidelines providing guidan
  
 
 *   [Microsoft](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/legal/intellectualproperty/trademarks/Microsoft_logo_third_party_usage_guidance_.pdf)
-*   [Windows](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Windows_trademark_guidelines_2025.pdf)
-*   [Microsoft 365](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_365_trademark_guidelines_2024_.pdf)
-*   [Microsoft Edge](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Edge_trademark_guidelines_2025.pdf)
-*   [Microsoft Bing](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Bing_trademark_guidelines_2025.pdf)
-*   [Microsoft Surface](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Surface_trademark_guidelines_2025V2.0.pdf)
+*   [Windows](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Windows_Trademark_Guidelines_2026.pdf)
+*   [Microsoft 365](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/FY26_Microsoft_365_trademark_guidelines.pdf)
+*   [Microsoft Edge](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Edge_trademark_guidelines_2026.pdf)
+*   [Microsoft Bing](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Bing_Trademark_Guidelines_2026.pdf)
+*   [Microsoft Surface](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/mscle/documents/presentations/Microsoft_Surface_trademark_guidelines_2026.pdf)
 
 * * *
 
