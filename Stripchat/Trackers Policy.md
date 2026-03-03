@@ -1,7 +1,7 @@
 Cookies Policy
 ==============
 
-Effective date: March 2nd, 2026
+Effective date: March 3rd, 2026
 
 Last modified: February 18th, 2025
 
