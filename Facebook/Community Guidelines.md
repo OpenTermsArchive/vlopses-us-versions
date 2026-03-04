@@ -123,51 +123,6 @@ We Remove:
 *   In the context of home entry or interpersonal violence that is proportional to the violence responded to and is an immediate threat
     
 *   The potential impact on voice outweighs the risk of imminent violence
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with violence and incitement
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -320,47 +275,6 @@ We Remove:
 *   Threats to go to an election site to monitor or watch voters or election officials’ activities if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
     
 *   Threats to go to a post-election activity site if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with coordinating harm and promoting crime
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -513,47 +427,6 @@ We Remove:
 *   Threats to go to an election site to monitor or watch voters or election officials’ activities if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
     
 *   Threats to go to a post-election activity site if combined with a reference to intimidation (e.g., “Let’s show them who's boss!,”, “They want a war? We’ll give them a war.”).
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with coordinating harm and promoting crime
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -1003,50 +876,6 @@ We do not allow:
 
 Content that attempts to buy, sell, trade, coordinate the trade of, donate, gift or ask for recalled goods.
 
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with restricted goods and services
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
-
 - - -
 
 Fraud, Scams, and Deceptive Practices
@@ -1362,46 +1191,6 @@ For the following Community Standards, we require additional information and/or 
 
 In certain cases, we allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with fraud, scams, and deceptive practices
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
-
 - - -
 
 Suicide, Self-Injury, and Eating Disorders
@@ -1648,50 +1437,6 @@ We may remove content that identifies alleged victims of child sexual exploitati
 
 We may remove content created for the purpose of identifying a private minor if there is a risk to the minor’s safety, when requested by Law Enforcement, Government, Trusted Partner, or the content is self-reported by the minor or the minor’s parent/legal guardian
 
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with child sexual exploitation, abuse and nudity
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
-
 - - -
 
 Adult Sexual Exploitation
@@ -1799,46 +1544,6 @@ We may restrict visibility to people over the age of 18 and include a warning la
 In addition to our at-scale policy of removing content that threatens or advocates rape or other non-consensual sexual touching, we may also disable the posting account.
 
 We may also enforce on content shared by a third party that identifies survivors of sexual assault when reported by an authorized representative or Trusted Partner.
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with adult sexual exploitation
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -2054,53 +1759,6 @@ Do not:
         *   Content that targets them based on a protected characteristic, or,
             
         *   Content or behavior otherwise deemed to be objectionable in local context
-            
-        
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with bullying and harassment
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -2159,46 +1817,6 @@ Under our Human Exploitation policies, our reviewers and automated systems may a
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We may remove content that offers a job in locations that are high-risk for labor exploitation when confirmed by law enforcement, local non-governmental organizations, or other trusted partners
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with human exploitation
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -2370,48 +1988,6 @@ For the following Community Standards, we require additional information and/or 
 *   Source material that purports to reveal nonpublic information relevant to an election shared as part of a foreign government influence operation.
     
     *   We remove reporting on such a leak by state-controlled media entities from the country behind the leak.
-        
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with privacy violations
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -2531,50 +2107,6 @@ Do not post:
 In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
 
 Note: if you are a European Union user, and are seeing content that you believe violates hate speech laws within your country, you can submit a legal removal request to [Facebook](https://www.facebook.com/help/contact/319149701968527) or [Instagram](https://help.instagram.com/contact/406206379945942).
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with hateful conduct
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -2752,50 +2284,6 @@ We may allow:
 
 Imagery of a person’s violent death or life-threatening event when the depiction is incidental
 
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with violent and graphic content
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
-
 - - -
 
 Adult Nudity and Sexual Activity
@@ -2953,51 +2441,6 @@ For the following content, we include a label so that people are aware the conte
 For the following Community Standards, we require additional information and/or context to enforce:
 
 *   In certain cases, **we will allow content for ages 18 and older with a label** that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirised or attributed to something or someone else in order to mock or criticize them.
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with adult nudity and sexual activity
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3075,47 +2518,6 @@ For the following content, we limit the ability to view the content to adults, a
 For the following Community Standards, we require additional information and/or context to enforce:
 
 *   In certain cases, we will allow content that may otherwise violate the Community Standards when it is determined that the content is satirical. Content will only be allowed if the violating elements of the content are being satirized or attributed to something or someone else in order to mock or criticize them.
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with adult sexual solicitation and sexually explicit language
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3185,51 +2587,6 @@ In the following scenarios, we may request additional information about an accou
 *   Creating or using an account or other entity through automated means, such as scripting (unless the scripting activity occurs through authorized routes and does not otherwise violate our policies)
     
 *   Empty accounts with prolonged dormancy
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with account integrity
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3282,47 +2639,6 @@ On Facebook, we will seek further information before taking actions ranging from
 *   Create an account that represents a non-human entity, such as a business, pet, or fictional character
     
 *   Maintain empty profiles with prolonged dormancy
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with authentic identity representation
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3390,52 +2706,6 @@ We do not allow:
     *   Transferring admin or moderation responsibilities for a page or group to another user based on their interest in the page or group, rather than an exchange of value.
         
     *   Posting or sharing clearly identified Branded Content.
-        
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-Data
-
-[View the latest Community Standards Enforcement Report](https://transparency.meta.com/data/community-standards-enforcement/)
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with spam
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3483,47 +2753,6 @@ Attempts to share, develop, host, or distribute malicious or harmful code, inclu
 *   Threatening, admitting to, or enabling hacking - Including by sharing or advertising software, courses, or products that enable people to circumvent security systems, including software that encourages hacking of software or credentials
     
 *   Providing online infrastructure, including web hosting services, domain name system servers and ad networks that enables abusive links such that a majority of those links on our services violate the spam or cybersecurity sections of the Community Standards.
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with cybersecurity
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3568,47 +2797,6 @@ We do not allow:
 *   Entities to engage in, or claim to engage in Foreign Interference, defined as Coordinated Inauthentic Behavior where the network operators are not located in the same country as the audience the operation targets
     
 *   Governments that have instituted sustained blocks of social media to use their official departments, agencies, and embassies to deny the use of force or violent events in the context of an attack against the territorial integrity of another state in violation of Article 2(4) of the UN charter.
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with inauthentic behavior
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3711,47 +2899,6 @@ For the following content, we include an informative label:
 Media can be edited in a variety of ways. In many cases, these changes are benign, such as content being cropped or shortened for artistic reasons or music being added. In other cases, the manipulation is not apparent and could mislead.
 
 *   **Content Digitally Created or Altered that May Mislead.** For content that does not otherwise violate the Community Standards, we may place an informative label on the face of content – or reject content submitted as an advertisement – when the content is a photorealistic image or video, or realistic sounding audio, that was digitally created or altered and creates a particularly high risk of materially deceiving the public on a matter of public importance.
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with misinformation
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3799,47 +2946,6 @@ For the following Community Standards, we require additional information and/or 
 *   Change the name on the profile if it violates our Community Standards, in accordance with our Authentic Name policy
     
 *   Add friends or followers to the profile if they were removed following the deceased’s passing
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with memorialization
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3888,46 +2994,6 @@ We remove accounts that:
     
 
 We allow content that Is authorized by the rights holder and follows established fair use principles
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with Third-Party Intellectual Property Infringement
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -3993,47 +3059,6 @@ We allow content that uses intellectual property rights owned and/or licensed by
 *   Explicitly permitted by Meta in writing, and/or
     
 *   Consistent with the guidelines in the Meta [Brand Resource Center](https://about.meta.com/brand/resources/).
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with using Meta intellectual property and licenses
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -4053,47 +3078,6 @@ We comply with requests for removal of:
 *   Accounts when requested by the account owner
     
 *   Accounts belonging to an incapacitated individual when requested by an authorized representative with Proof of Authority and medical documentation confirming incapacitation
-    
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with user requests
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
@@ -4116,46 +3100,6 @@ We comply with:
 For the following Community Standards, we require additional information and/or context to enforce:
 
 We may remove content created for the purpose of identifying a private minor if there may be a risk to the minor’s safety when requested by a user, government, law enforcement or external child safety experts.
-
-User experiences
-
-See some examples of what enforcement looks like for people on Facebook, such as: what it looks like to report something you don’t think should be on Facebook, to be told you’ve violated our Community Standards and to see a warning screen over certain content.
-
-**Note:** We’re always improving, so what you see here may be slightly outdated compared to what we currently use.
-
-USER EXPERIENCE
-
-Reporting
-
-USER EXPERIENCE
-
-Post-report communication
-
-USER EXPERIENCE
-
-Takedown experience
-
-USER EXPERIENCE
-
-Warning screens
-
-[Enforcement](https://transparency.meta.com/enforcement/)
-
-We have the same policies around the world, for everyone on Facebook.
-
-[Review teams](https://transparency.meta.com/enforcement/detecting-violations/how-review-teams-work/)
-
-Our global team of over 15,000 reviewers work every day to keep people on Facebook safe.
-
-[Stakeholder engagement](https://transparency.meta.com/policies/improving/stakeholders-help-us-develop-community-standards/)
-
-Outside experts, academics, NGOs and policymakers help inform the Facebook Community Standards.
-
-Get help with additional protection of minors
-
-Learn what you can do if you see something on Facebook that goes against our Community Standards.
-
-[Visit our Help Center](https://www.facebook.com/help/263149623790594?ref=tc)
 
 - - -
 
