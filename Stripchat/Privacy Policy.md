@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective date: March 3rd, 2026
+Effective date: March 4th, 2026
 
 Last modified: July 24th, 2025
 
