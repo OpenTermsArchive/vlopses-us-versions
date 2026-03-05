@@ -309,14 +309,6 @@ Choose a section to give feedback on
 Financial Services
 ==================
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-For [personal loan apps in Thailand](https://support.google.com/googleplay/android-developer/answer/9876821#thailand), we’re updating the Google Play listing requirements to display additional information such as the loan service provider, maximum interest rates, and all fees. This applies immediately to new apps, and existing apps will have until March 4, 2026 to come into compliance. For more details, go to the [Policy Deadlines](https://support.google.com/googleplay/android-developer/table/12921780) page.
-
-To preview the updated “Financial Services” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16597822).
-
 We don't allow apps that expose users to deceptive or harmful financial products and services.
 
 For the purposes of this policy, we consider financial products and services to be those related to the management or investment of money and cryptocurrencies, including personalized advice.
@@ -408,6 +400,12 @@ Personal loan apps targeting the listed countries must comply with additional re
     *   Personal loan apps targeting Thailand, with interest rates at or above 15%, must obtain a valid license from the Bank of Thailand (BoT) or the Ministry of Finance (MoF). Developers must provide documentation that proves their ability to provide or facilitate personal loans in Thailand. This documentation should include:
         *   A copy of their license issued by the Bank of Thailand to operate as a personal loan provider or nano finance organization.
         *   A copy of their Pico-finance business license issued by the Ministry of Finance to operate as a Pico or Pico-plus lender.
+    *   All personal loan apps targeting Thailand must display the following details in the Google Play listing:
+        *   The name of the loan service provider(s) licensed by the Bank of Thailand (BoT) or the Fiscal Policy Office (FPO). 
+        *   Legal entity name for the developer.
+        *   Maximum interest rates and all fees.
+    *   In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
+        *   The statement “This is a non-regulated loan provider under the BoT/FPO”.
 
 Examples of common violations
 
