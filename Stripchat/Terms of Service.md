@@ -1,10 +1,6 @@
 Terms of Use
 ============
 
-Effective date: March 5th, 2026
-
-Last modified: February 26th, 2026
-
 [](#eligibility)[](#grantOfUse)[](#intellectualProperty)[](#userIdentityVerification)[](#userSubmissions)[](#contentOnTheWebsite)[](#userConduct)[](#tokensAndPayments)[](#servicesOnWebsite)[](#trustAndSafety)[](#recommendationSystems)[](#recordings)[](#privacyPolicy)[](#copyright)[](#modification)[](#indemnification)[](#disclaimer)[](#adr)[](#choiceOfLaw)[](#generalTerms)
 
 In Short
