@@ -1,10 +1,6 @@
 Stripchat Parental Control Guide
 ================================
 
-Effective date: March 5th, 2026
-
-Last modified: September 21st, 2023
-
 As a Restricted to Adults (RTA) compliant website, we understand the importance of providing parents and guardians with the necessary information to control and restrict their children’s access to any adult entertainment streaming website, including Stripchat.
 
 We value the well-being of minors and hope that this guide can help you implement effective parental controls.
