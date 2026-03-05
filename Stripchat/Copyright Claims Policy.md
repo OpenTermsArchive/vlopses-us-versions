@@ -1,10 +1,6 @@
 Digital Millennium Copyright Act Policy (Notice & Takedown)
 ===========================================================
 
-Effective date: March 5th, 2026
-
-Last modified: July 10th, 2025
-
 Although Our site is not based in the United States, we respect the intellectual property rights of copyright holders, and thus voluntarily comply with the Notice and Takedown provisions of the Digital Millennium Copyright Act of 1998 (“DMCA”). We do not permit copyright infringing activities or infringement of intellectual property rights on Our Site, and will promptly and without prior notice remove all content if properly notified of infringements on third party’s intellectual property rights. Repeat infringers will have their access and/or privileges terminated.
 
 Our website (“site”) qualifies as a “Service Provider” within the meaning of 17 U.S.C. §512(k)(1) of the Digital Millennium Copyright Act of 1998 (“DMCA”). Consequently, it is entitled to a certain protection against claims of copyright infringement under the DMCA, commonly referred to as the “safe harbor” provisions.
