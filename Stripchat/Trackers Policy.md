@@ -1,10 +1,6 @@
 Cookies Policy
 ==============
 
-Effective date: March 5th, 2026
-
-Last modified: February 18th, 2025
-
 is the publisher and operator (referred to as the “Company”, “we”, “our” or “us”) of the stripchat website, namely [stripchat.com](https://stripchat.com/) (referred to as the “Website”).  
 
 is a limited liability company, registered in the Republic of Cyprus under registration number HE 349515, having its registered office at
