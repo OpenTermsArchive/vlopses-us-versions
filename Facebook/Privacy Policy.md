@@ -567,6 +567,15 @@ How we show ads and other sponsored or commercial content
 
 When you use our Products, you see ads and sponsored or commercial content, such as product listings in Shops. Meta personalises your ads on and across Meta Company Products. You also see ads shown through [Meta Audience Network](https://www.facebook.com/help/119468292028768/?helpref=search&entry_point=POLICY_SUBPAGE%3A2.subpage.2-HowWeShowAds&locale2=en_US) or commercial content when you visit other apps. We use your information to show you ads paid for by advertisers, businesses and organisations. We want everything that you see to be interesting and useful to you.
 
+To decide what to show you and others, we use information that we have about you, including:
+
+*   Your profile information
+*   Your activity on and off our Products, including information that we receive through cookies and similar technologies, according to your settings
+*   Content that you create or interact with across Facebook and Instagram
+*   Interactions with [AI at Meta](https://www.facebook.com/privacy/genai?entry_point=POLICY_SUBPAGE%3A2.subpage.2-HowWeShowAds&locale2=en_US)
+*   Things we infer about you, such as topics that we think you may be interested in
+*   Information about your friends, followers or other connections, including their activity or interests
+
 [See some examples.\[30\]](https://mbasic.facebook.com/privacy/policy/printable?entry_point=POLICY_SUBPAGE%3A2.subpage.2-HowWeShowAds&locale2=en_US#annotation-30)
 
 We also use information that's been de-identified, aggregated or anonymised so that it no longer identifies individuals, to show you ads.
