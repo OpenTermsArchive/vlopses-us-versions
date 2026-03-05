@@ -1093,27 +1093,11 @@ Organizations and individuals designated by Meta as Violent Non-state Actors or 
 
 A Violence Inducing Entity (General) is a non-state actor that:
 
-*   Uses weapons as a part of their training, communication, or presence; and are structured or operate as unofficial military or security forces; AND
+*   Has as its stated goal or intended function to provide, through violence, an unsanctioned governmental enforcing function (such as, police, military, immigration) in place of, or in addition to, the government itself; or to disrupt through violence a governmental enforcing function;
     
-
-*   Coordinates in preparation for inter-community violence or civil war; OR
+*   Has engaged in a substantial step towards this stated goal on Meta’s platforms; and
     
-*   Advocates for violence against government officials or violent disruptions of civic events; OR
-    
-*   Engages in theft, vandalism, burglary or other damage to property; OR
-    
-*   Engages in mid-severity violence at civic events; OR
-    
-*   Promotes bringing weapons to a location when the stated intent is to intimidate people amid a protest
-    
-
-A **Violence Inducing Conspiracy Network** is a non-state actor that:
-
-*   Is identified by a name, mission statement, symbol, or shared lexicon; AND
-    
-*   Promotes unfounded theories that attempts to explain the ultimate causes of significant social and political problems, events and circumstances with claims of secret plots by two or more powerful actors; AND
-    
-*   Has explicitly advocated for or has been directly linked to a pattern of offline physical harm by adherents motivated by the desire to draw attention to or redress the supposed harms identified in the unfounded theories promoted by the network.
+*   Has engaged in multiple instances of threatening or inciting high-severity violence (online or offline);
     
 
 A **Hate Banned Entity** is a non-state actor that:
