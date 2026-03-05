@@ -11,7 +11,7 @@ If you’re a copyright owner or authorized to act on behalf of one, you can rep
 
 When we get your copyright report, we’ll take appropriate action, which may include disabling or removing access to the reported content on Pinterest.
 
-If we disable or remove access to content in response to a copyright infringement report , we may notify the person who saved it on Pinterest so they have the opportunity to send a counter notification. We may also send a complete copy of the notice to others, as appropriate.
+If we disable or remove access to content in response to a copyright infringement report , we may notify the person who saved it on Pinterest so they have the opportunity to send a counter notification. We may also send, as appropriate, a complete copy of the notice, including your full legal name, copyright owner, and contact information, to users whose content has been disabled or removed. Users may use the information you provide to contact you about the notice and attempt to resolve the issue.
 
 Submit a copyright infringement report
 ======================================
