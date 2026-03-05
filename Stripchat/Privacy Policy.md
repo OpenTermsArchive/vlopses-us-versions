@@ -1,10 +1,6 @@
 Privacy Policy
 ==============
 
-Effective date: March 5th, 2026
-
-Last modified: July 24th, 2025
-
 is the publisher and operator (referred to as the “Company”, “we”, “our” or “us”) of the Stripchat website, namely [stripchat.com](https://stripchat.com/) (referred to as the “Website”).  
 
 The Company is committed to protecting your privacy and handling your personal data in an open and transparent manner. The personal data that we collect and process will vary depending on how you use the Website.
