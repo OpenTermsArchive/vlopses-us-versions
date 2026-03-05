@@ -1136,7 +1136,7 @@ Choose a section to give feedback on
 Developer Program Policy
 ========================
 
-_(effective January 28, 2026, unless otherwise stated)_
+_(effective March 4, 2026, unless otherwise stated)_
 
 * * *
 
@@ -1400,6 +1400,12 @@ Personal loan apps targeting the listed countries must comply with additional re
     *   Personal loan apps targeting Thailand, with interest rates at or above 15%, must obtain a valid license from the Bank of Thailand (BoT) or the Ministry of Finance (MoF). Developers must provide documentation that proves their ability to provide or facilitate personal loans in Thailand. This documentation should include:
         *   A copy of their license issued by the Bank of Thailand to operate as a personal loan provider or nano finance organization.
         *   A copy of their Pico-finance business license issued by the Ministry of Finance to operate as a Pico or Pico-plus lender.
+    *   All personal loan apps targeting Thailand must display the following details in the Google Play listing:
+        *   The name of the loan service provider(s) licensed by the Bank of Thailand (BoT) or the Fiscal Policy Office (FPO). 
+        *   Legal entity name for the developer.
+        *   Maximum interest rates and all fees.
+    *   In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
+        *   The statement “This is a non-regulated loan provider under the BoT/FPO”.
 
 **Here is an example of a common violation:**
 
