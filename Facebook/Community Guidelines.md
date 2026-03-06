@@ -1490,7 +1490,7 @@ Content, activity or interactions that attempts to exploit people by:
         
     
 
-*   Promoting, threatening to share, or offering to make non-real non-consensual intimate imagery (NCII) either by applications, services, or instructions, even if there is no (near) nude commercial or non-commercial imagery shared in the content (sometimes referred to as “nudify” apps).
+*   Promoting, threatening to share, or offering to make NCII or kissing imagery through applications or services (including AI), or instructions, even if there is no commercial or non-commercial imagery shared in the content (sometimes referred to as “nudify” apps or “AI kissing” apps).
     
 *   Sharing secretly taken non-commercial imagery focusing on a person's commonly sexualized body parts (such as breasts, groin, buttocks, or thighs), a person in a sexually suggestive pose, or of a person engaged in sexual activity, and is shared with an intent to mock, sexualize or reveal the identity of the person depicted in the imagery. This imagery is commonly known as "creepshots" or "upskirts".
     
