@@ -784,9 +784,11 @@ As with all office actions, reverting DMCA notice takedowns without appropriate 
 
 The safety of minors is extremely important for us, and we go to great lengths to help assure it. To that effect, if we believe minors are at risk, we will take actions right away. These actions aim at mitigating both conduct as well as content promoting child abuse. Child abuse may be discussed educationally as part of the content of Wikimedia projects, but never promotionally or with the purpose of titillation.
 
-Pursuing or facilitating inappropriate adult–child relationships is not acceptable in the Wikimedia projects. This type of activity may include, but is not limited to, posting child pornography or any material depicting inappropriate sexual acts between adults and minors that violate applicable law, distributing or trafficking obscene material against minors that is unlawful under applicable law, conducting communications with under-aged users through the Wikimedia projects in an attempt to groom them or attempting to move their communications to platforms outside of the Wikimedia projects for grooming purposes, or attempting to approach minors inappropriately during Wikimedia in-person events.In contrast, contact for the purpose of organising and running school-related editathons is acceptable. Read more about our .
+Pursuing or facilitating inappropriate adult–child relationships is not acceptable in the Wikimedia projects. This type of activity may include, but is not limited to, posting child pornography or any material depicting inappropriate sexual acts between adults and minors that violate applicable law, distributing or trafficking obscene material against minors that is unlawful under applicable law, conducting communications with under-aged users through the Wikimedia projects in an attempt to groom them or attempting to move their communications to platforms outside of the Wikimedia projects for grooming purposes, or attempting to approach minors inappropriately during Wikimedia in-person events. In contrast, contact for the purpose of organising and running school-related editathons is acceptable. Read more about our .
 
 Concerns about child safety are reviewed and appropriate actions are taken as a matter of priority. Instances we believe to be child pornography, including information brought to our attention through requests for nonpublic user information, are reported to the [National Center for Missing and Exploited Children](https://www.missingkids.com/home) (NCMEC), in line with our . If your request has already been reported to NCMEC or relates to a case being handled by NCMEC, please include the case or report information in your request. The Foundation may also take additional actions against individuals found be engaging in such activities such as alerting local or international law enforcement.
+
+  
 
 Secondary office actions
 ------------------------
@@ -930,4 +932,4 @@ If you think that the office actions listed under this policy have been abused, 
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Office\_Actions\_Policy&oldid=556145](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Office_Actions_Policy&oldid=556145)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Office\_Actions\_Policy&oldid=558453](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Office_Actions_Policy&oldid=558453)"
