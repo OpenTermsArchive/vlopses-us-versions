@@ -419,7 +419,7 @@ Sexual Content
 
 Community Guidelines Explainer Series
 
-Updated: February 2025
+Updated: March 2026
 
 ### 
 
@@ -429,33 +429,59 @@ We strive to protect Snapchatters from unsolicited sexual content or abuse. Our 
 
 ### 
 
-What you should expect
+Prohibited Conduct
 
 We prohibit the following sexual harms: 
 
-*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery, grooming for sexual purposes, sexual extortion (sextortion), or the sexualization of children. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements. 
+*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery; grooming for sexual purposes; sexual extortion (sextortion); or attempts to persuade, trick, or coerce a minor with the intent of sexual abuse or exploitation the sexualization of children. We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements.
     
-*   Any communication or behavior that attempts to persuade, trick, or coerce a minor with the intent of sexual abuse or exploitation, or which leverages fear or shame to keep a minor silent.
+*   The sexualization of minors or sharing of minor nudity, whether involving real individuals or fictional, synthetic, or digitally created representations, regardless of whether it rises to the level of child sexual exploitation.
     
-*   All other forms of sexual exploitation, including sex trafficking, sextortion, and deceptive sexual practices, including efforts to coerce or entice users to provide nudes. 
+*   Adult sexual exploitation, including non-consensual sexual content, sextortion, and deceptive sexual practices, such as efforts to coerce or entice users to provide nude imagery.
     
-*   Producing, sharing, or threatening to share non-consensual intimate imagery (NCII)––including sexual photos or videos taken or shared without permission, as well as “revenge porn” or behavior that threatens to share, exploit, or expose individuals’ intimate images or videos without their consent.
+*   Producing, sharing, or threatening to create or share non-consensual intimate imagery (NCII)––including sexual or intimate photos or videos taken or shared without permission, depictions of private acts (such as bathing or using the bathroom), as well as “revenge porn” or behavior that threatens to share, exploit, or expose individuals’ intimate images or videos without their consent.
     
-*   All forms of sexual harassment. This may include making unwanted advances, sharing graphic and unsolicited content, or sending obscene requests or sexual invitations to other users.
+*   Sharing or creating AI-generated sexual content, including offering or promoting “nudify” services or applications.
     
-*   Promoting, distributing, or sharing pornographic content, including photos, videos, or even highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
+*   Sexual harassment, which may include making unwanted advances, sharing graphic and unsolicited content, or sending obscene requests or sexual invitations to other users.
     
-*   Offers of sexual services, including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual chat or video services).
+*   Promoting, distributing, or sharing pornographic content, including photos, videos, or highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
+    
+*   Offers or solicitation of sexual services (whether paid or unpaid), including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual subscription services, or sexual chat or video services).
     
 
   
-We do allow for non-sexual nudity in certain contexts, such as breastfeeding, medical procedures, and other similar depictions.
+We do allow for non-sexual nudity in certain contexts, such as breastfeeding, medical procedures, and other similar depictions provided the subject has provided their consent.
+
+### 
+
+Our efforts to protect users 
+
+  
+
+We aim to consider both safety and privacy in our approach to protecting users. We use a combination of automated tools and human review intended to prevent users from being exposed to pornographic content or other sexual harms or exploitation on public surfaces (such as Spotlight, Public Stories, and Maps). 
+
+We use automated tools to help identify and remove certain known illegal child sexual exploitation photos and videos, including: 
+
+*   Microsoft’s PhotoDNA (to detect duplicates of known illegal images) 
+    
+*   Google’s CSAI Match (to detect duplicates of known illegal videos)
+    
+*   Google’s Content Safety API (to aid in detecting novel, “never-before-hashed” imagery)
+    
+
+We use similar technology to help identify and remove certain non-consensual intimate imagery. We participate in the Take It Down program run by the National Center for Missing and Exploited Children (NCMEC), receiving and leveraging hashes of nude or partially nude imagery supplied by minors that they want to prevent from spreading online. We also participate in StopNCII, a similar program for people who are 18 or older, run by South West Grid for Learning (SWGfL) based in the UK. In addition, in some cases, we use behavioral “signals” to identify potentially illegal or harmful activity so that we can proactively remove bad actors and report them to authorities as appropriate. 
+
+When we become aware of sexually explicit or exploitative content, we act swiftly to remove the offending content, enforce against the violating account, and where appropriate, escalate to NCMEC and/or law enforcement. We work closely with NCMEC and law enforcement to maintain a feedback loop on the effectiveness of our policies.
 
 ### 
 
 Takeaway
 
-We prohibit sexual exploitation and sexually explicit content of any kind. We report child sexual exploitation to the appropriate authorities, in line with legal requirements. We want users to feel safe and comfortable using Snap. If you ever feel unsafe, do not hesitate to reach out to local law enforcement, if applicable, and block offending users. We also encourage you to [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US) violating content or accounts to Snapchat so we can take appropriate action. 
+We prohibit sexual exploitation and sexually explicit content of any kind, including the sexual exploitation of children, sharing non-consensual intimate imagery (NCII), sextortion, sexual harassment, pornography, and offers of sexual services. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). When we discover severe harm involving sexual content, we lock the offending account and report it to authorities where appropriate. 
+
+  
+We want users to feel safe and comfortable using Snap. If you ever feel unsafe or believe you may be in immediate danger, consider contacting your local law enforcement, where appropriate, and block offending users. We also encourage you to [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US) violating content or accounts to Snapchat so we can take appropriate action.
 
 Up Next:
 
