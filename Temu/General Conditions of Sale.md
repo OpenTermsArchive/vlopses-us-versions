@@ -160,7 +160,7 @@ For more information about Temu credits, please visit: About credit balance.
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/c3d293c8f42841e78dd97207ba1ef81d.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/1b9f087a9c5443c8b3eec416ef5e9560.png?imageView2/q/70/format/avif)
 
 7\. Important Notice
 
