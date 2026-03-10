@@ -122,8 +122,6 @@ You frequently publish inauthentic content that misleads people (even if the sub
 
 - - -
 
-**PLEASE NOTE: WE’VE UPDATED THESE SNAP MONETIZATION TERMS.  THE PRIOR VERSION IS AVAILABLE** [**HERE**](https://www.snap.com/monetization-terms-old)**.  THESE UPDATED SNAP MONETIZATION TERMS WILL BECOME EFFECTIVE AS OF THE DATE BELOW.**
-
 Snap Monetization Terms
 
 
