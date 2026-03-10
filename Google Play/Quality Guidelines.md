@@ -25,8 +25,8 @@ If you do not agree with the rating assigned to your app, you can appeal directl
 
 - - -
 
-Requirements related to content ratings for apps, games and the ads served on both
-==================================================================================
+Content rating requirements for apps, games, and the ads served on both
+=======================================================================
 
 You can communicate familiar and locally relevant content ratings to your users and help improve app engagement by targeting the right audience for your content and for the ads that appear in it. To create a good experience for your users, make sure your app’s content ratings are locally relevant and familiar to the target audience.
 
@@ -36,7 +36,7 @@ This article covers several critical aspects of content ratings:
 *   [How content ratings are used](#How content ratings are used)
 *   [Understanding your target audience selection](#Understanding your target audience selection)
 *   [How to manage target audience and app content settings](#How to manage target audience and app content settings)
-*   [How to make sure ads are suitable for your app’s content rating](#How to make sure ads are suitable for your app’s content rating)
+*   [How to make sure ads are suitable for your app’s content rating](#How_to_make_sure_ads_are_suitable_for_your_apps_content_rating)
 *   [How to complete a rating questionnaire](#How to complete a rating questionnaire)
 *   [Understanding your content ratings results](#Understanding your content ratings results)
 *   [How to appeal your content rating](#How to appeal your content rating)
@@ -48,12 +48,12 @@ How apps receive content ratings
 
 Your app’s content ratings are assigned by separate rating authorities and determined by your questionnaire responses. Because they are independent third parties, each rating authority uses its own methodology to assign ratings. (See [Rating authorities and descriptions](https://support.google.com/googleplay/android-developer/answer/9859655#ratings).)
 
-To receive a rating for each of your apps and games, fill out a rating questionnaire in Google Play Console. Provide accurate, complete information about the nature of your app’s content. Your questionnaire responses determine the ratings assigned to your app. After you submit your information, you’ll receive a content rating from multiple rating authorities no matter where you’re located. Google Play will display that rating on your app.
+To receive a rating for each of your apps and games, fill out a rating questionnaire in Google Play Console. Provide accurate, complete information about the nature of your app’s content. Your questionnaire responses determine the ratings assigned to your app. After you submit your information, you’ll receive a content rating from multiple rating authorities no matter where you’re located. Google Play will display that rating on your app.
 
 You need to complete the content rating questionnaire for both your new and existing apps, including:
 
-*   New apps submitted to Google Play Console
-*   Existing apps that are active on Google Play but lack a rating
+*   New apps submitted to Google Play Console
+*   Existing apps that are active on Google Play but lack a rating
 *   All app updates where there has been a change to your content or features that would affect the responses to the questionnaire
 
 To benefit your users, include the assigned rating when advertising your app in each respective region, following these [display guidelines](https://www.globalratings.com/display.aspx).
@@ -63,9 +63,10 @@ How content ratings are used
 
 App ratings are meant to do more than reflect the intended audience. They’re meant to help consumers, especially parents, identify whether the app is appropriate for what the consumers are looking for, along with other purposes, like:
 
-*   Blocking or filtering your content in certain territories or to specific users where legally required
-*   European Economic Area (EEA), UK, Switzerland, and Australia only: Blocking the acquisition and purchase of mature content for non-supervised accounts that are not confirmed adults
-*   EEA, UK, Switzerland, and Australia only: Blocking or filtering mature content from Google Play search and browse pages for declared teens or "high confidence" teens, except through deep linking
+*   Blocking or filtering your content in certain territories or to specific users where legally required.
+*   In the European Economic Area (EEA), Australia, Brazil (beginning March 2026), Singapore (beginning March 2026), Switzerland and the United Kingdom only, for users determined to be minors:
+    *   Blocking the acquisition and purchase of mature content (such as 18+ rated apps or games)
+    *   Blocking or filtering mature content from Google Play search and browse pages, except through deep linking
 *   Evaluating your app’s eligibility for special developer programs
 
 All rating icons are protected trademarks of the respective rating authority, and their misuse may result in legal action. Find specifics about rating icon usage on each [rating authority’s website](https://www.globalratings.com/contact-us.aspx).
@@ -77,27 +78,27 @@ To better serve users, it’s important to provide accurate information about yo
 
 |     |     |
 | --- | --- |
-| Your app is designed primarily for children under 13 | You must comply with Google Play [Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements, including the requirement to use only [Families Self-Certified Ads SDKs](https://support.google.com/googleplay/android-developer/answer/12289447) to serve ads. |
+| Your app is designed primarily for children under 13 | You must comply with Google Play [Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements, including the requirement to use only [Families Self-Certified Ads SDKs](https://support.google.com/googleplay/android-developer/answer/12289447) to serve ads. |
 | Your app is designed for everyone, including children | Any apps that have at least one target audience age group that includes children must comply with Google Play [Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements, including the requirement to use only [Families Self-Certified Ads SDKs](https://support.google.com/googleplay/android-developer/answer/12289447) to serve ads to children and users of unknown age. |
-| Your app is not designed for children | You must still meet the requirements outlined in Google Play [Developer Program policies](https://play.google.com/about/developer-content-policy/) and [Developer Distribution Agreement](https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html). |
+| Your app is not designed for children | You must still meet the requirements outlined in Google Play [Developer Program policies](https://play.google.com/about/developer-content-policy/) and [Developer Distribution Agreement](https://play.google.com/intl/ALL_us/about/developer-distribution-agreement.html). |
 
 **Note**: For more insight on this topic, see [Managing target audience and app content settings](https://support.google.com/googleplay/android-developer/answer/9867159?hl=en).
 
 How to manage target audience and app content settings
 ------------------------------------------------------
 
-If you create a new app or publish an update to an existing app, you’ll be required to declare your app’s target age group. Any apps that include children in their target audience must comply with Google Play's [Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements. Before filling out the "Target audience and content" section, you must have [declared whether or not your app contains ads](https://support.google.com/googleplay/android-developer/answer/9859455#ads) and [provided instructions for app access](https://support.google.com/googleplay/android-developer/answer/9815348#app_access). You must also [add a privacy policy](https://support.google.com/googleplay/android-developer/answer/9859455).
+If you create a new app or publish an update to an existing app, you’ll be required to declare your app’s target age group. Any apps that include children in their target audience must comply with Google Play's [Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements. Before filling out the "Target audience and content" section, you must have [declared whether or not your app contains ads](https://support.google.com/googleplay/android-developer/answer/9859455#ads) and [provided instructions for app access](https://support.google.com/googleplay/android-developer/answer/9815348#app_access). You must also [add a privacy policy](https://support.google.com/googleplay/android-developer/answer/9859455).
 
-For detailed instructions on how to declare your app’s target age group, read [Manage target audience and app content settings](https://support.google.com/googleplay/android-developer/answer/9867159?hl=en).
+For detailed instructions on how to declare your app’s target age group, read [Manage target audience and app content settings](https://support.google.com/googleplay/android-developer/answer/9867159?hl=en).
 
 How to make sure ads are suitable for your app’s content rating
 ---------------------------------------------------------------
 
-Ads and their associated offers (like an ad promoting the download of another app) must be appropriate for your app’s content rating. Even if all of your app-specific content complies with our policies and matches your app’s content rating, you also need to check the ads and offers shown in your app to make sure they’re appropriate for that rating. For examples of ads that don’t match an app’s content rating, review the [Inappropriate Ads](https://support.google.com/googleplay/android-developer/answer/9857753#inappropriate) policy. 
+Ads and their associated offers (like an ad promoting the download of another app) must be appropriate for your app’s content rating. Even if all of your app-specific content complies with our policies and matches your app’s content rating, you also need to check the ads and offers shown in your app to make sure they’re appropriate for that rating. For examples of ads that don’t match an app’s content rating, review the [Inappropriate Ads](https://support.google.com/googleplay/android-developer/answer/9857753#inappropriate) policy.
 
-Setting your ad filters appropriately helps make sure ad services and ad content are appropriate for your app’s content rating. 
+Setting your ad filters appropriately helps make sure ad services and ad content are appropriate for your app’s content rating.
 
-*   Check with your ad service provider to make sure the advertising campaigns you selected will only show content that matches your app’s content rating. 
+*   Check with your ad service provider to make sure the advertising campaigns you selected will only show content that matches your app’s content rating.
 *   If you use AdMob, review the [AdMob Help Center article](https://support.google.com/admob/answer/7562142?hl=en&ref_topic=7384665) for steps about how to use blocking controls and set the right ad content rating.
 
 How to complete a rating questionnaire
@@ -107,19 +108,19 @@ Make sure to provide accurate responses to the content rating questionnaire. If 
 
 Unrated apps also may be removed from Google Play. To prevent your apps from being listed as Unrated, open Google Play Console, go to the **[App content](https://play.google.com/console/app/app-content/summary)** page, and fill out the questionnaire for each of your apps as soon as possible.
 
-Follow these steps to take the rating questionnaire. It’s critical to provide complete and accurate responses to every question.
+Follow these steps to take the rating questionnaire. It’s critical to provide complete and accurate responses to every question.
 
-1.  Open Google Play Console and go to the [**App content**](https://play.google.com/console/app/app-content/summary) page (**Policy** > **App content)**.
+1.  Open Google Play Console and go to the [**App content**](https://play.google.com/console/app/app-content/summary) page (**Policy** > **App content)**.
 2.  Click **Start**.
-3.  Review the information about the questionnaire and enter your email address.
-    *   Your email address will be used for correspondence with [International Age Rating Coalition (IARC)](https://www.globalratings.com/) .
+3.  Review the information about the questionnaire and enter your email address.
+    *   Your email address will be used for correspondence with [International Age Rating Coalition (IARC)](https://www.globalratings.com/).
 4.  Select a category and click **Next**.
 5.  Complete the questionnaire.
     *   To change any of your responses after you’ve completed a section, click **Edit**.
     *   If you’ve started taking the questionnaire and want to finish later, click **Save draft**. Each app can have one draft questionnaire at a time.
-6.  Your responses will generate calculated ratings shown on the **Summary** page. Review the ratings and click **Submit**. If you don’t think the ratings accurately reflect your content, you can retake the questionnaire. Click **Start new questionnaire** on the **Content rating** page.
+6.  Your responses will generate calculated ratings shown on the **Summary** page. Review the ratings and click **Submit**. If you don’t think the ratings accurately reflect your content, you can retake the questionnaire. Click **Start new questionnaire** on the **Content rating** page.
 
-After you’ve submitted the calculated ratings, you can review them along with your questionnaires in the "Target audience and content" section of the **App content** page.
+After you’ve submitted the calculated ratings, you can review them along with your questionnaires in the "Target audience and content" section of the **App content** page.
 
 Understanding your content ratings results
 ------------------------------------------
@@ -128,7 +129,7 @@ Your app can earn different ratings in different territories because rating stan
 
 Rating authorities participating in IARC may change your app's rating after a review. If a rating authority overrides your app rating and you want to update your responses, you’ll need to complete the questionnaire again.
 
-**Note**: The calculated rating shown on the **Summary** page may not be the rating shown to users on Google Play. App updates and submissions can be rejected for misrepresenting an app's content. Your questionnaire responses may be used to generate ratings for specific territories as required by local law.
+**Note**: The calculated rating shown on the **Summary** page may not be the rating shown to users on Google Play. App updates and submissions can be rejected for misrepresenting an app's content. Your questionnaire responses may be used to generate ratings for specific territories as required by local law.
 
 How to appeal your content rating
 ---------------------------------
@@ -245,8 +246,6 @@ GRAC - South Korea
 
 Learn more on the [GRAC website](http://www.grac.or.kr/english/)
 
- 
-
 In countries and territories that aren’t represented by a participating rating authority, a separate rating will suggest the age appropriateness of an app or game.
 
 IARC Generic
@@ -297,7 +296,7 @@ Unrated
 
 Refused classification
 
-On a limited basis, rating authorities can refuse classification for an app distributed in their territory. This means that the distribution of the app or game is not allowed in the rating authority's territory.
+On a limited basis, rating authorities can refuse classification for an app distributed in their territory. This means that the distribution of the app or game is not allowed in the rating authority's territory.
 
 If an app or game is refused classification in a territory:
 
@@ -307,9 +306,9 @@ If an app or game is refused classification in a territory:
 
 If one of your apps or games receives this designation and you want to file an appeal, you can appeal using the URL provided in your email notification from IARC.
 
- Additional resources
----------------------
+Additional resources
+--------------------
 
 ### Related content
 
-*   Learn more about Google Play Policies in [Play Academy](https://www.youtube.com/watch?v=J_mQc_nYPjk&t=450s).
+*   Learn more about Google Play Policies in [Play Academy](https://www.youtube.com/watch?v=J_mQc_nYPjk&t=450s).
