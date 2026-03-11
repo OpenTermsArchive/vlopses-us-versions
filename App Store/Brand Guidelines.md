@@ -554,6 +554,7 @@ The absence of a product or service name or logo from this list does not constit
 | Apple CarPlay® | software feature |
 | Apple Cash® | software feature |
 | Apple Cinema Display® | computer monitor |
+| Apple Creator Studio™ | suite of application programs |
 | Apple Immersive Video™ | entertainment format |
 | Apple Intelligence™ | personal intelligence system |
 | Apple Invites™ | application program |
@@ -755,7 +756,10 @@ The absence of a product or service name or logo from this list does not constit
 | Pages® | application program |
 | Phat FX® | application feature |
 | Photo Booth® | application program |
+| Photomator® | application program |
 | Photonic Engine® | camera feature |
+| Pixelmator® | application program |
+| Pixelmator Pro® | application program |
 | Pixlet® | compression application program |
 | Podcast Logo® | application feature |
 | PowerBook® | computer |
@@ -808,6 +812,7 @@ The absence of a product or service name or logo from this list does not constit
 | Smart Strings® | application feature |
 | Smart Tempo® | application feature |
 | SnapBack™ | application feature |
+| Sneaky Sasquatch® | video game |
 | Soundtrack® | application program |
 | Spaces® | operating system feature |
 | Spotlight® | software utility |
@@ -933,6 +938,7 @@ The absence of a product or service name or logo from this list does not constit
 | Platoon® | entertainment services |
 | Power for Impact® | clean energy initiative |
 | ProCare℠ | service and support program |
+| Radio Spins® | music technology services |
 | Shop different℠ | slogan |
 | Shazam® | entertainment services |
 | Tap to Cash℠ | software feature |
@@ -1069,6 +1075,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of February 28, 2026.
+This list includes updates as of March 5, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
