@@ -3584,6 +3584,16 @@ To participate in local inventory ads and free local product listings, you must 
 
 **Supported languages:** Currently, direct local inventory ads and free local product listings support is offered in English, French, German, and Portuguese. For all other languages, please refer to our Help Center content.
 
+* * *
+
+**On this page**
+
+*   [Exceptions](#exception)
+*   [Additional requirements](#additional_requirements)
+*   [Troubleshooting common issues](#troubleshooting_common_issues)
+
+* * *
+
 Exceptions
 ----------
 
@@ -3592,20 +3602,21 @@ The following Shopping ads policies don't apply to local inventory ads and free 
 *   **Online payment and transaction requirements**. Your site doesn't require an online checkout and payment option. If you offer online checkout and payment, you must adhere to website policies, including the posting of return and refund information. [Learn more about quality standards for your ads and website](https://support.google.com/merchants/answer/6149970#ed)
 *   **Shipping**. Given that local inventory ads and free local product listings require an in-store purchase and pickup, no shipping information is required.
 
+* * *
+
 Additional requirements
 -----------------------
 
 The following additional restrictions apply to participate in local inventory ads and free local product listings (not Shopping ads):
 
-*   You must have a local brick and mortar business location where customers can physically visit, view, and purchase the desired item.
-*   If you require customers to be a club or store member to purchase products, you’re ineligible to participate in local inventory ads and free local product listings. However, you’re eligible to participate if non-members are also allowed to purchase, even if at a different price. If you offer tiered pricing, you must submit the non-member price using the [price `[price]`](https://support.google.com/merchants/answer/6324371) attribute and ensure this non-member price is clearly displayed on your landing page. Member-specific pricing must be submitted using the [loyalty program `[loyalty_program]`](https://support.google.com/merchants/answer/14819809#loyalty_program) attribute.
-*   You must include any additional fees charged at checkout in the total product price. Follow tax and pricing according to your online offers and add any other additional fees to the product [price](https://support.google.com/merchants/answer/6324371). For additional fees charged only in certain locations, we recommend using [merchant hosted local storefront (full)](https://support.google.com/merchants/answer/9212322) so your products are eligible to serve for all locations.
-*   You can't advertise via local inventory ads and free local product listings if your store's primary purpose is to promote products that violate Shopping ads' content policies.
-*   You must be physically located in the country for which your ads are targeted.
-*   You may be asked to participate in [inventory verifications](https://support.google.com/merchants/answer/7083859).
+*   **Brick and mortar business location**: You must have a local brick and mortar business location where customers can physically visit, view, and purchase the desired item.
+*   **No membership exclusivity**: If you require customers to be a club or store member to purchase products, you’re ineligible to participate in local inventory ads and free local product listings. However, you’re eligible to participate if non-members are also allowed to purchase, even if at a different price. If you offer tiered pricing, you must submit the non-member price using the [price `[price]`](https://support.google.com/merchants/answer/6324371) attribute and ensure this non-member price is clearly displayed on your landing page. Member-specific pricing must be submitted using the [loyalty program `[loyalty_program]`](https://support.google.com/merchants/answer/14819809#loyalty_program) attribute.
+*   **Additional fees**: You must include any additional fees charged at checkout in the total product price. Follow tax and pricing according to your online offers and add any other additional fees to the product [price](https://support.google.com/merchants/answer/6324371). For additional fees charged only in certain locations, we recommend using [merchant hosted local storefront (full)](https://support.google.com/merchants/answer/9212322) so your products are eligible to serve for all locations.
+*   **Content policies**: You can't advertise via local inventory ads and free local product listings if your store's primary purpose is to promote products that violate Shopping ads' content policies.
+*   **Country**: You must be physically located in the country for which your ads are targeted.
+*   **Inventory verifications**: You may be asked to participate in [inventory verifications](https://support.google.com/merchants/answer/7083859).
 
-Personally identifiable information (PII)
------------------------------------------
+**Important**: Personally identifiable information (PII)
 
 Your customers' PII shouldn't be provided with any local inventory ads and free local product listings data. For example, don't include names, email addresses, phone numbers, customer identifiers, payment method information, credit card information, club card codes, or any other demographic information that would allow attribution of such information to a particular individual.
 
@@ -3613,13 +3624,16 @@ If you breach this provision and provide PII to Google, you remain solely respon
 
 Google won't disclose timestamps, inventory numbers, quantities, or extended amounts that are identifiable to your company. However, Google may publicly disclose generalized availability data.
 
-**Troubleshooting common issues**:
+* * *
 
-*   **Missing inventory data or disapproved products**: If your products are disapproved or show as 'Limited' due to missing inventory data, ensure you have submitted a local product inventory data source in Merchant Center. This data source needs attributes like store\_code, id, availability, quantity, and price. Also, confirm that local inventory ads and/or free local listings are enabled as destinations for your data sources. Allow 24-48 hours for processing after updates. If the 'No physical stores found in countries of sale' error occurs, double-check your linked Google Business Profile, ensure store locations are verified with store codes, and that your local inventory data source has matching store codes.
-*   **Mismatched data source attributes**: Verify that the store code in your local inventory data source matches your Google Business Profile store codes. The item\_id in the local inventory data source must align with the id in your primary product data source. Check for consistent data source labels and language settings. Ensure your local inventory data source is correctly set up as a 'local product inventory' type.
+Troubleshooting common issues
+-----------------------------
+
+*   **Missing inventory data or disapproved products**: If your products are disapproved or show as 'Limited' due to missing inventory data, ensure you have submitted a local product inventory data source in Merchant Center. This data source needs attributes like `store_code`, `id`, `availability`, `quantity`, and `price`. Also, confirm that local inventory ads and/or free local listings are enabled as destinations for your data sources. Allow 24-48 hours for processing after updates. If the 'No physical stores found in countries of sale' error occurs, double-check your linked Google Business Profile, ensure store locations are verified with store codes, and that your local inventory data source has matching store codes.
+*   **Mismatched data source attributes**: Verify that the store code in your local inventory data source matches your Google Business Profile store codes. The `item_id` in the local inventory data source must align with the id in your primary product data source. Check for consistent data source labels and language settings. Ensure your local inventory data source is correctly set up as a 'local product inventory' type.
 *   **Online-only businesses**: If your business is online-only and you're viewing local listing issues, disable 'Local inventory ads' and 'Free local listings' in Merchant Center (Settings > Add-ons > Your add-ons). Uncheck "Free Local Listings" and "Local inventory ads" as Marketing methods in your data source set-up.
 
-### Tip
+**Tip**:
 
 Retailers participating in local inventory ads and free local product listings must adhere to all standard data quality requirements, including accurate inventory and pricing data (for example, quantity and price are up-to-date). If you're having issues with your local inventory ads or free local product listings, go to our [Contact Us form](https://support.google.com/merchants/troubleshooter/9029731).
 
@@ -3819,7 +3833,7 @@ Google may withdraw or terminate the Services at any time immediately at Google�
 Google Customer Reviews guidelines
 ==================================
 
-This article provides details about where Google Customer Reviews is available, eligibility guidelines, and policies.
+This article provides details about Google Customer Reviews availablity, eligibility guidelines, and policies.
 
 **On this page**
 
@@ -3832,7 +3846,7 @@ This article provides details about where Google Customer Reviews is available, 
 Availability
 ------------
 
-Google Customer Reviews is available in the following countries: Algeria, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Belize, Bhutan, Brazil, Burkina Faso, Cameroon, Canada, Chad, Chile, China, Colombia, Costa Rica, Cote d'Ivoire, Czechia, Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, France, Gabon, Germany, Guatemala, Guyana, Honduras, Hong Kong, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kuwait, Libya, Liechtenstein, Luxembourg, Malaysia, Maldives, Mali, Mexico, Morocco, Namibia, the Netherlands, New Zealand, Nicaragua, Norway, Oman, Panama, Papua New Guinea, Paraguay, the Philippines, Poland, Portugal, Puerto Rico, Qatar, Russia, Saudi Arabia, Singapore, South Africa, South Korea, Spain, State of Palestine, Sweden, Switzerland, Taiwan, Thailand, Timor-Leste, Tunisia, Turkey, Ukraine, the United Arab Emirates, the United Kingdom, the United States, Uruguay, Venezuela, Vietnam
+Google Customer Reviews is available in the following countries: Algeria, Argentina, Australia, Austria, Bahamas, Bahrain, Belgium, Belize, Bhutan, Brazil, Burkina Faso, Cameroon, Canada, Chad, Chile, China, Colombia, Costa Rica, Cote d'Ivoire, Czechia, Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Fiji, France, Gabon, Germany, Guatemala, Guyana, Honduras, Hong Kong, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kuwait, Libya, Liechtenstein, Luxembourg, Malaysia, Maldives, Mali, Mexico, Morocco, Namibia, the Netherlands, New Zealand, Nicaragua, Norway, Oman, Panama, Papua New Guinea, Paraguay, the Philippines, Poland, Portugal, Puerto Rico, Qatar, Russia, Saudi Arabia, Singapore, South Africa, South Korea, Spain, State of Palestine, Sweden, Switzerland, Taiwan, Thailand, Timor-Leste, Tunisia, Turkey, Ukraine, the United Arab Emirates, the United Kingdom, the United States, Uruguay, Venezuela, Vietnam.
 
 * * *
 
@@ -3841,9 +3855,9 @@ Basic eligibility requirements
 
 To use Google Customer Reviews, your checkout flow must include a separate order confirmation page and meet the following technical requirements:
 
-*   Your platform must allow you to add JavaScript code to all of your site’s web pages.
-*   Some e-commerce platforms redirect customers to a third-party domain during checkout (for example, Shopify or CoreCommerce). If you use such a platform, redirect customers back to your domain's order-confirmation page. This must occur after they complete the checkout process.
-*   Your site’s order confirmation page must be encrypted (for example, only accessed using HTTPS).
+*   **JavaScript code allowed**: Your platform must allow you to add JavaScript code to all of your site’s web pages.
+*   **Redirecting requirement**: Some e-commerce platforms redirect customers to a third-party domain during checkout (for example, Shopify or CoreCommerce). If you use such a platform, redirect customers back to your domain's order-confirmation page. This must occur after they complete the checkout process.
+*   **Encryption requirement**: Your site’s order confirmation page must be encrypted (for example, only accessed using HTTPS).
 
 **Note**: To participate in Google Customer Reviews, consent to the agreement for your country. You can review the agreement when you sign up.
 
