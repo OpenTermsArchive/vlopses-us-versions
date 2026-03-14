@@ -106,8 +106,6 @@ How to complete a rating questionnaire
 
 Make sure to provide accurate responses to the content rating questionnaire. If you have questions about the rating assigned to your app, contact the rating authority directly using the link provided in your certificate email. Misrepresentation of your app’s content may result in its removal or suspension.
 
-Unrated apps also may be removed from Google Play. To prevent your apps from being listed as Unrated, open Google Play Console, go to the **[App content](https://play.google.com/console/app/app-content/summary)** page, and fill out the questionnaire for each of your apps as soon as possible.
-
 Follow these steps to take the rating questionnaire. It’s critical to provide complete and accurate responses to every question.
 
 1.  Open Google Play Console and go to the [**App content**](https://play.google.com/console/app/app-content/summary) page (**Policy** > **App content)**.
@@ -287,12 +285,6 @@ Google Play Rating - Applies in Russia
 | ![18](//storage.googleapis.com/support-kms-prod/5F338C1358DDEA867F364A1316E20BE9203F) | **Rated 18+**<br><br>Recommended for mature audiences only. |
 
 ### Other
-
-Unrated
-
-| Rating | Description |
-| --- | --- |
-| ![Unrated](//lh6.ggpht.com/SKdY9wVw3QjGNVhf0XVpViN3xKDzMemJIh-pJ5w_qO00-dQoexvaPoLdniRd1Z1s0A=w24) | **Unrated**<br><br>Warning - content has not yet been rated. Unrated apps may potentially contain content appropriate for mature audiences only. |
 
 Refused classification
 
