@@ -434,7 +434,7 @@ Harassment and Bullying
 
 Community Guidelines Explainer Series
 
-Updated: February 2025
+Updated: March 2026
 
 ### 
 
