@@ -1980,7 +1980,7 @@ Rules on Product Safety and Compliance on AliExpress
 
 Release date: /
 
-Revision date: January 15, 2026
+Revision date: March 16, 2026
 
   
 
@@ -2015,7 +2015,7 @@ The following are the rules related to product safety and compliance on AliExpre
 | Biocides | [Notes on Regulations Governing the Export of Biocide Product](https://rule.aliexpress.com/rule-channels/37978936/131630255)<br><br>[Notice on Strengthening Control of Biocide Product](https://rule.aliexpress.com/rule-channels/37978936/132341102)<br><br>[Notice on Sale of Hand Sanitizer Products in Australia](https://sell.aliexpress.com/__pc/WURvUJjUKT.htm) |     |
 | Lights | [Notes on Regulations Governing the Export of Lamp](https://sell.aliexpress.com/__pc/IXn0m2UvcG.htm)<br><br>[AliExpress Ban on the Sale of Mercury-containing Products](https://rule.aliexpress.com/rule-channels/37978936/147928969)<br><br>[AliExpress Announcement on Strengthening Qualification Control over Mosquito Killer Lamps Sold to United States of America](https://rule.aliexpress.com/rule-channels/37978936/188179150) |     |
 | Timber and Timber Products | [Notes on Regulations Governing the Export of Timber and Timber Products](https://sell.aliexpress.com/__pc/wKJVp0oY7Z.htm) |     |
-| Household Products | [AliExpress Ban the Sale of expanding beads to Japan](https://rule.aliexpress.com/rule-channels/37978936/138498442)<br><br>[AliExpress Compliance Requirements for Clothing Storage Unit Products](https://rule.aliexpress.com/rule-channels/37978936/157823799)<br><br>[Announcement on Strengthening Control of Novelty Lighters](https://rule.aliexpress.com/rule-channels/37978936/160658383)<br><br>[AliExpress Ban on the Sale of Re-ignitable Candles to Canada](https://rule.aliexpress.com/rule-channels/37978936/183977950)<br><br>[AliExpress Ban on the Sale of Corded Window Coverings and Curtain Rope/Bead Chain Accessories in the US, Canada, and Australia](https://rule.aliexpress.com/rule-channels/37978936/184368635)<br><br>[AliExpress Ban on the Sale of Drain Cleaners to the EU](https://rule.aliexpress.com/rule-channels/37978936/232097040)<br><br>[AliExpress Announcement on the Ban of Knife Sales in the UK](https://rule.aliexpress.com/rule-channels/37978936/235402474) |     |
+| Household Products | [AliExpress Ban the Sale of expanding beads to Japan](https://rule.aliexpress.com/rule-channels/37978936/138498442)<br><br>[AliExpress Compliance Requirements for Clothing Storage Unit Products](https://rule.aliexpress.com/rule-channels/37978936/157823799)<br><br>[Announcement on Strengthening Control of Novelty Lighters](https://rule.aliexpress.com/rule-channels/37978936/160658383)<br><br>[AliExpress Ban on the Sale of Re-ignitable Candles to Canada](https://rule.aliexpress.com/rule-channels/37978936/183977950)<br><br>[AliExpress Ban on the Sale of Corded Window Coverings and Curtain Rope/Bead Chain Accessories in the US, Canada, and Australia](https://rule.aliexpress.com/rule-channels/37978936/184368635)<br><br>[AliExpress Ban on the Sale of Drain Cleaners to the EU](https://rule.aliexpress.com/rule-channels/37978936/232097040)<br><br>[AliExpress Announcement on the Ban of Knife Sales in the UK, FR and IT](https://rule.aliexpress.com/rule-channels/37978936/235402474) |     |
 
 \[Others\]
 ==========
