@@ -348,7 +348,7 @@ Harmful False or Deceptive Practices
 
 ----------------------------------------
 
-[Read Next](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-US)
+[Read Next](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-practices?lang=en-US)
 
 - - -
 
