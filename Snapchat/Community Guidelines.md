@@ -116,7 +116,7 @@ Harmful False or Deceptive Practices
 *   We prohibit fraud and other deceptive practices, including undisclosed paid or sponsored content, the promotion of fraudulent (counterfeit) goods or services or get-rich-quick schemes, or imitating Snapchat or Snap Inc.
     
 
-[Learn More](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-US)
+[Learn More](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-practices?lang=en-US)
 
 Information and Q&A
 
