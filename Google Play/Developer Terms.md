@@ -1971,6 +1971,24 @@ Files and directory attributes on a user’s device are regarded as personal and
 *   Apps should only request access to device storage which is critical for the app to function, and may not request access to device storage on behalf of any third-party for any purpose that is unrelated to critical user-facing app functionality.
 *   Android devices running R or later, will require the [`` `MANAGE_EXTERNAL_STORAGE` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EMANAGE_EXTERNAL_STORAGE%3C/code%3E) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (“All files access”) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable “All files access” for their app under “Special app access” settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
 
+Photo and Video Permissions
+---------------------------
+
+Photos and videos on a user’s device are regarded as personal and sensitive user data subject to Google Play's [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638283094302146844-815564681&rd=1). Apps may only access photos and videos for purposes directly related to app functionality, and may not request access on behalf of any third-party for any purpose unrelated to user-facing app functionality. For a more privacy preserving experience, we encourage the use of a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
+
+Apps requiring broad access to photos and video files located in shared storage on devices must successfully pass an appropriate access review and demonstrate a core use case that requires persistent or frequent photo/video access of files located in shared storage. Apps that have a one-time or infrequent need to access these files are requested to use a system picker, such as the Android [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
+
+Broad access to photos and videos are also subject to the following requirements:
+
+*   Apps that target Android 13 (API level 33) or later, require the [`` `READ_MEDIA_IMAGES` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_IMAGES%3C/code%3E) permission or [`` `READ_MEDIA_VIDEO` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_VIDEO%3C/code%3E) permission in order to obtain broad access to photos or video files located in shared storage on the device. All apps that target Android 13 and above and request the `READ_MEDIA_IMAGES` or `READ_MEDIA_VIDEO` permissions must successfully pass an appropriate access review before publishing.
+    *   Apps that request access to the `` `READ_MEDIA_VIDEO` `` or `` `READ_MEDIA_IMAGES` `` permission must successfully demonstrate a core use case that requires persistent or frequent need of photo/video access located in shared storage.
+
+If your app does not require or qualify for broad access to the `` `READ_MEDIA_VIDEO` `` or `` `READ_MEDIA_IMAGES` `` permissions, you must remove it from your app’s manifest in order to successfully meet the policy review requirements.
+
+In accordance with the [`Restricted Permissions policy`](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en), you must make a reasonable effort to accommodate users who do not grant broad access to media files on their device. This includes gracefully facilitating an accommodative app experience where users can still enjoy the feature or core functionality of your app.
+
+Apps that have a legitimate access case for photos or videos, but do not qualify for the `` `READ_MEDIA_IMAGES` `` nor `` `READ_MEDIA_VIDEO` `` permission may use a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker). For additional information, please see this [Help Center](https://support.google.com/googleplay/android-developer/answer/14115180) article.
+
 Package (App) Visibility Permission
 -----------------------------------
 
