@@ -219,12 +219,6 @@ We prohibit the following: 
     
 *   Encouraging, promoting, providing instructions for, or engaging in dangerous behavior. This includes engaging in activities likely to be imitated that could lead to serious harm or injury, such as high-risk challenges, stunts, reckless driving, or other behavior that poses a risk to the person doing it, someone else, or the public. 
     
-*   Glorification of self-harm, including the promotion of self-injury, self-mutilation, suicide, or eating disorders. 
-    
-*   Encouraging or engaging in violent or threatening behavior, including any content expressing an intention to cause serious physical or emotional harm to a person, a group of people, or damage to their property. Where content indicates a credible and imminent threat to human life or safety, our teams may alert law enforcement agencies who may be positioned to intervene. 
-    
-*   Vigilante activity. This includes coordinated efforts to intimidate or take physical action against individuals or communities outside proper legal process. 
-    
 *   Encouraging the ingesting, injection, inhalation, or other self-administering of physically harmful substances or of substances in sufficient quantities as to be physically harmful. 
     
 *   Content that glorifies, or risks inciting, violent or harmful behavior toward people or animals.  
