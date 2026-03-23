@@ -28,7 +28,7 @@ Contents
 Temu | Return and Refund Policy
 ===============================
 
-Last Updated: Aug 27, 2025 PDT
+Last Updated: Mar 22, 2026 PDT
 
 If you are not satisfied with what you bought on Temu, you may be eligible to return it and get a refund by following the simple procedure set out in this Return and Refund Policy.
 
@@ -167,6 +167,14 @@ Once the refund is processed, your financial institution will need additional ti
 I. The address attached to your package is NOT the return address you should use. If you send the return package to any other address, the processing time for your return may be delayed. You should send the return package to the address on the return label provided with your purchase.
 
 II. Please make sure that you do NOT accidentally include any items in your return package that you do not wish to return. If you have accidentally included a wrong item, please contact Customer Service. We cannot promise that wrong items will be found and returned and we do not store or provide refunds or compensation for such items.
+
+III. To protect the fairness and integrity of the platform, Temu may conduct holistic analyses of return behavior. Return requests that are inconsistent with Temu's return policies may be considered indicative of return fraud or abuse of return services.
+
+Return fraud or abuse may include, but is not limited to, conduct such as repeatedly engaging in abnormal or improper use of return services, including making improperly frequent or excessive returns, sending back empty packages or packages containing irrelevant items, intentionally falsifying evidence (e.g., manipulated labels) to support refund claims.
+
+Such fraudulent or abusive return behavior is strictly prohibited under our platform rules. If such behavior is confirmed following Temu's review, Temu reserves the right to take reasonable measures to prevent fraud or abuse, based on the nature, frequency, and impact of the conduct involved (such as limiting certain return options, or restricting account functions or suspending the account).
+
+For clarity, nothing in this policy prevents or limits you exercising your rights under applicable statutory consumer guarantees. Temu may modify this policy at any time.
 
 If you have any questions regarding returns or this policy:
 
