@@ -242,7 +242,7 @@ We escalate cases to law enforcement where we believe there may be an imminent t
 
 Takeaway
 
-Our approach to responding to threats, violence, and harm areis tailored to the situation. When it comes to threats to oneself, our teams work to identify the best means of support via safety resources. Where others are under threat, we strive for safe outcomes both through the enforcement of our policies and, where nappropriate, by involving law enforcement.
+Our approach to responding to threats, violence, and harm areis tailored to the situation. When it comes to threats to oneself, our teams work to identify the best means of support via safety resources. Where others are under threat, we strive for safe outcomes both through the enforcement of our policies and, where appropriate, by involving law enforcement.
 
 Doing our part to support the safety and well-being of our community is a top priority across our company.
 
@@ -313,7 +313,7 @@ Users must generally comply with their local laws while using Snapchat. However,
 
 ### 
 
-Our efforts to protect users 
+Our efforts to protect users
 
   
 
@@ -394,11 +394,14 @@ Our efforts to protect users 
 
   
 
-We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to harassment or bullying on public surfaces (such as Spotlight, Public Stories and Maps). 
+We aim to balance safety and privacy in our approach to protecting users. We use a combination of automated tools and human review to prevent users from being exposed to hate, terrorism, or violent extremism on public surfaces (such as Spotlight, Public Stories and Maps). 
 
-We built Snapchat to connect real friends and limit unwanted exposure. By default, users can receive messages only from people they’ve added as friends. Users can also make their profiles private and block users from seeing or contacting them. For users under the age of 18, profiles are private by default, and for users under the age of 16, profiles can only be set to private. 
+  
 
-We encourage users to report when they experience or observe violations of these rules. We take a victim-centric approach when evaluating harassment and bullying by considering whether a user perceives a situation as bullying or harassment when they are the target of such conduct. Our moderation teams aim to ensure that each user feels safe and comfortable using Snapchat.
+Snap uses automated tools to help identify content we have reason to believe supports, glorifies, or furthers the objectives of terrorist or violent extremist entities. As a member of the Global Internet Forum to Counter Terrorism (GIFCT), we use GIFCT’s resources to help identify and remove known terrorist and violent extremist content. We also work with third party vendors and experts to help stay current on emerging trends in order to accurately identify and take action on such content. We also use signal-based detection methods to identify and disrupt violent extremist networks. 
+
+  
+We work with law enforcement, as appropriate, to prevent the spread of content relating to terrorism and violent extremism. Snap’s approach is to maintain established protocols for assisting law-enforcement authorities globally, including dedicated channels for responding to potential imminent harm situations, subject to strict legal safeguards. More information for law enforcement can be found [here](https://values.snap.com/safety/safety-enforcement?lang=en-US).
 
 ### 
 
@@ -474,7 +477,7 @@ We expect users to respect others’ personal privacy. Snap prohibits the follow
 
 ### 
 
-Our efforts to protect users 
+Our efforts to protect users
 
   
 
@@ -550,7 +553,7 @@ We do allow for non-sexual nudity in certain contexts, such as breastfeeding, me
 
 ### 
 
-Our efforts to protect users 
+Our efforts to protect users
 
   
 
