@@ -40,7 +40,7 @@ We want Snapchat to be a safe and positive experience for everyone. We reserve t
 
 Community Guidelines
 
-Our Community Guidelines apply to all content and behavior on Snapchat's platform and products, and cover the following topics:
+apply to all content and behavior on Snapchat's platform and products, and cover the following topics:
 
 Sexual Content
 
