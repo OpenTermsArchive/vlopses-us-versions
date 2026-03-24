@@ -37,21 +37,21 @@ Popular articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
 
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
+
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=popular_articles)
-
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=popular_articles)
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
 
 Popular articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
 
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
+
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=popular_articles)
-
-[What's the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=popular_articles)
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
 
 Related topics
 --------------
@@ -2033,11 +2033,11 @@ Related articles
 
 [How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Watch live videos on Facebook](https://www.facebook.com/help/1468879913412530/?helpref=related_articles)
+[A video that I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
+
+[How Facebook uses your video to confirm your identity](https://www.facebook.com/help/384498659759786/?helpref=related_articles)
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
-
-[A video that I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
@@ -2045,10 +2045,10 @@ Related articles
 
 [How Facebook determines which videos are "For you"](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Watch live videos on Facebook](https://www.facebook.com/help/1468879913412530/?helpref=related_articles)
+[A video that I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
+
+[How Facebook uses your video to confirm your identity](https://www.facebook.com/help/384498659759786/?helpref=related_articles)
 
 [Get a video of you taken down from Facebook](https://www.facebook.com/help/212578708772880/?helpref=related_articles)
-
-[A video that I posted on Facebook was removed immediately. What happened, and what are my options?](https://www.facebook.com/help/444933372561104/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
