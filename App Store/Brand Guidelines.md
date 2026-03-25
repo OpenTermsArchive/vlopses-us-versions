@@ -12,13 +12,13 @@ We believe that powerful marketing will help bring continued success for your ap
 App Store Badges
 ----------------
 
-Include App Store badges in all digital and printed marketing materials as a clear call to action to get your app. App Store badges are available in 40 localizations to help you reach a broader audience. Versions are available for the App Store for iPhone and iPad, the Mac App Store, and Apple TV.
+Include App Store badges in all digital and printed marketing materials as a clear call to action to get your app. App Store badges are available in 50 localizations to help you reach a broader audience. Versions are available for the App Store for iPhone and iPad, the Mac App Store, and Apple TV.
 
 ### Marketing Tools
 
 Generate embeddable code that leads to your App Store product page and displays an App Store badge, your app icon, or a QR code. You can also download specific badges based on language and style.
 
-[App Store Marketing Tools](https://tools.applemediaservices.com/app-store/)
+[App Store Marketing Tools](https://toolbox.marketingtools.apple.com/app-store/)
 
 * * *
 
@@ -36,7 +36,7 @@ The alternative white badge is designed to give you greater versatility and can 
 
 Apple provides badge artwork with the modifiers _Download on the_ and _Pre-order on the_ translated into regional languages. The service mark _App Store_ always appears in English. Never translate _App Store_ or create your own localized badge.
 
-Available in Azərbaycan dili, Bahasa Indonesia, Bahasa Melayu, Catalan, Čeština, Dansk, Deutsch, Eesti Keel, English, Español, Français, Hrvatski, Italiano, Latviski, Lietuviškai, Magyar, Malti, Nederlands, Norsk, Polski, Português, Português Brasil, Pусский, Română, Slovenčina, Slovenščina, Suomi, Svenska, Tagalog, Tiếng Việt, Türkçe, Ελληνικά, Україна, हिंदी, български, עברית, العربية , ภาษาไทย, 한국어, 日本語, 简体中文, 繁體中文.
+Available in Azərbaycan dili, Bahasa Indonesia, Bahasa Melayu, Catalan, Čeština, Dansk, Deutsch, Eesti Keel, English, Español, Français, Hrvatski, Italiano, Latviski, Lietuviškai, Magyar, Malti, Nederlands, Norsk, Polski, Português, Português Brasil, Pусский, Română, Slovenčina, Slovenski, Slovenščina, Suomi, Svenska, Tagalog, Tiếng Việt, Türkçe, Ελληνικά, Україна, български, עברית, اردو, العربية, हिंदी, मराठी, বাংলা, ਪੰਜਾਬੀ, ગુજરાતી, ଓଡିଆ, தமிழ், తెలుగు, ಕನ್ನಡ, മലയാളം, ภาษาไทย, 한국어, 日本語, 简体中文, 繁體中文.
 
 ### Badge Use
 
@@ -50,7 +50,7 @@ Use only the badge artwork provided in these guidelines. Don’t use icons, logo
 
 Generate short links or embeddable code that lead to your App Store product page and display your app icon, a QR code, or an App Store badge.
 
-[View App Store marketing tools](https://tools.applemediaservices.com/app-store/)
+[View App Store marketing tools](https://toolbox.marketingtools.apple.com/app-store/)
 
 Headline
 --------
