@@ -291,12 +291,12 @@ Does adding WhatsApp to Accounts Center affect whether Meta uses your informatio
 
 Having your accounts in the same Accounts Center does not affect whether your info is used if you choose to share it with businesses or if you message them on our products.
 
-Learn more about [how Meta uses your information across your accounts in the same Accounts Center](https://www.meta.com/help/accounts-center/Information-used-across-accounts/).
+Learn more about [how Meta uses your information across your accounts in the same Accounts Center](https://www.meta.com/help/accounts-center/433719745369721/).
 
 Which of your settings will change
 ----------------------------------
 
-Adding your WhatsApp account to Accounts Center will allow you to manage certain settings in one place for your WhatsApp accounts, and any other accounts you have in the same Accounts Center. These include things like adjusting your profile information across accounts, and whether to always cross-post Status across your apps. For a full list of settings controlled through Accounts Center, read more [here](https://www.meta.com/help/accounts-center/manage-settings-across-accounts/).
+Adding your WhatsApp account to Accounts Center will allow you to manage certain settings in one place for your WhatsApp accounts, and any other accounts you have in the same Accounts Center. These include things like adjusting your profile information across accounts, and whether to always cross-post Status across your apps. For a full list of settings controlled through Accounts Center, read more [here](https://www.meta.com/help/accounts-center/1894490827562393/).
 
 If you don’t want to add your WhatsApp account to Accounts Center
 -----------------------------------------------------------------
@@ -308,7 +308,7 @@ If you add your WhatsApp account to Accounts Center and then change your mind
 
 If you add your WhatsApp account to Accounts Center, you allow us to combine and use your information across accounts in Accounts Center on different [Meta Company Products](https://faq.whatsapp.com/532729362019677). You can remove your WhatsApp account from Accounts Center at any time.
 
-If you remove your WhatsApp account from Accounts Center, we’ll stop [combining your info](https://www.meta.com/help/accounts-center/Information-used-across-accounts/) between your WhatsApp account and the other accounts still in your Accounts Center within 7 days. If you remove your WhatsApp account, your previously combined info would remain combined.
+If you remove your WhatsApp account from Accounts Center, we’ll stop [combining your info](https://www.meta.com/help/accounts-center/433719745369721/) between your WhatsApp account and the other accounts still in your Accounts Center within 7 days. If you remove your WhatsApp account, your previously combined info would remain combined.
 
 You opted out of sharing your WhatsApp account information with Meta in 2016. How does adding your WhatsApp account to Accounts Center impact you
 -------------------------------------------------------------------------------------------------------------------------------------------------
