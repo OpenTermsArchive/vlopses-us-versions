@@ -197,7 +197,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Restricted goods and services
 -----------------------------
 
-Last updated: 1 week ago
+Last updated: 2 weeks ago
 
 We don’t allow individuals or entities to engage in inappropriate or unsafe commercial transactions on our platform. We remove content that promotes, distributes, facilitates access to, or attempts to sell illegal or otherwise restricted goods and services.
 
