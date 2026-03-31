@@ -687,6 +687,12 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Ohlumon](https://meta.wikimedia.org/wiki/Special:CentralAuth/Ohlumon "m:Special:CentralAuth/Ohlumon"), since 12 February 2026
 *   [Beautiful Pony](https://meta.wikimedia.org/wiki/Special:CentralAuth/Beautiful_Pony "m:Special:CentralAuth/Beautiful Pony"), since 2 March 2026
 *   [Adfgeeyl](https://meta.wikimedia.org/wiki/Special:CentralAuth/Adfgeeyl "m:Special:CentralAuth/Adfgeeyl"), since 30 March 2026
+*   [Sadko](https://meta.wikimedia.org/wiki/Special:CentralAuth/Sadko "m:Special:CentralAuth/Sadko"), since 30 March 2026
+*   [CarRadovan](https://meta.wikimedia.org/wiki/Special:CentralAuth/CarRadovan "m:Special:CentralAuth/CarRadovan"), since 30 March 2026
+*   [MareBG](https://meta.wikimedia.org/wiki/Special:CentralAuth/MareBG "m:Special:CentralAuth/MareBG"), since 30 March 2026
+*   [Боки](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D0%91%D0%BE%D0%BA%D0%B8 "m:Special:CentralAuth/Боки"), since 30 March 2026
+*   [Ruach Chayim](https://meta.wikimedia.org/wiki/Special:CentralAuth/Ruach_Chayim "m:Special:CentralAuth/Ruach Chayim"), since 30 March 2026
+*   [НиколаБ](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%91 "m:Special:CentralAuth/НиколаБ"), since 30 March 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
