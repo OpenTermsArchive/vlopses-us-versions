@@ -135,7 +135,7 @@ From mediawiki.org
 
 |     |     |
 | --- | --- |
-| ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/OOjs_UI_icon_check-constructive.svg/40px-OOjs_UI_icon_check-constructive.svg.png) | This page documents a community policy for Wikimedia technical spaces. |
+| ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/OOjs_UI_icon_check-constructive.svg/40px-OOjs_UI_icon_check-constructive.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail) | This page documents a community policy for Wikimedia technical spaces. |
 
 This is a **code of conduct for Wikimedia technical spaces**. It applies both within physical spaces, such as Wikimedia technical events and Wikimedia technical presentations in other events, and virtual spaces (MediaWiki.org, [wikitech.wikimedia.org](https://wikitech.wikimedia.org/wiki/ "wikitech:"), [Phabricator](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator "Special:MyLanguage/Phabricator") [](https://www.mediawiki.org/wiki/Phabricator "Phabricator"), [Gerrit Code Review](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit "Special:MyLanguage/Gerrit"), [technical mailing lists](https://meta.wikimedia.org/wiki/Mailing_lists/Overview#MediaWiki_and_technical "m:Mailing lists/Overview"), [technical IRC channels](https://meta.wikimedia.org/wiki/IRC/Channels#MediaWiki_and_technical "m:IRC/Channels"), [Etherpad](https://www.mediawiki.org/wiki/Special:MyLanguage/Etherpad "Special:MyLanguage/Etherpad") [](https://www.mediawiki.org/wiki/Etherpad "Etherpad"), and other development-oriented spaces operated by the Wikimedia Foundation).
 
@@ -167,13 +167,13 @@ Harassment and other types of inappropriate behaviour are unacceptable in all pu
 Report a problem
 ----------------
 
-_**In case of threats of harm and other urgent situations**, notify the relevant authorities first (if possible) and [email the Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Requests_for_user_information_procedures_%26_guidelines#Emergency_Requests "wmf:Requests for user information procedures & guidelines") via emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org ([more information](https://meta.wikimedia.org/wiki/Special:MyLanguage/Threats_of_harm "m:Special:MyLanguage/Threats of harm"))._
+_**In case of threats of harm and other urgent situations**, notify the relevant authorities first (if possible) and [email the Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Requests_for_user_information_procedures_%26_guidelines#Emergency_Requests "wmf:Requests for user information procedures & guidelines") via emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org ([more information](https://meta.wikimedia.org/wiki/Special:MyLanguage/Threats_of_harm "m:Special:MyLanguage/Threats of harm"))._
 
 People who experience or observe unacceptable behaviour are encouraged to follow any of these steps:
 
 1.  Ask the person who is behaving unacceptably to stop. Make them aware of this Code of Conduct.
 2.  If you are at an event, report the problem to the event organisers, or a designated contact.
-3.  Report the problem directly to the [Code of Conduct Committee](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee "Special:MyLanguage/Code of Conduct/Committee") via **techconduct![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org**. You can also send a report to the Committee if you reported an incident elsewhere but were not satisfied with the response.
+3.  Report the problem directly to the [Code of Conduct Committee](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee "Special:MyLanguage/Code of Conduct/Committee") via **techconduct![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org**. You can also send a report to the Committee if you reported an incident elsewhere but were not satisfied with the response.
 
 Reports can be as short as a notification with a link, but more information will help us understand what is happening. You can include:
 
