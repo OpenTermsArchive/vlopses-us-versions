@@ -176,6 +176,12 @@ Invalid data and data anomalies include, but are not limited to, the following:
 
 (xi)You may not use doorway pages to optimize rankings for one or more specific search results and redirect visitors to another website or page.
 
+• You will not use incorporation of keywords or links that are invisible or illegible to users (e.g., text the same color as the background, zero font size, or elements hidden via CSS) but intended for search engines. Media Partner and New Influencers will not load metadata, body content, or Alt tags with irrelevant or repetitive keywords ("Keyword Stuffing") in an unnatural manner.
+
+• You will not place promotional content or Referral Links/Codes on high-authority third-party domains (e.g., .edu, .gov, or reputable news sites) without authorization. This includes, but is not limited to, the exploitation of security vulnerabilities or the abuse of public forums and comment sections
+
+• You will not use automated or manual methods to flood third-party platforms (including but not limited to blogs, forums, and social media) with identical or substantially similar content incorporating Referral Links/Codes. Such activities, especially when conducted for the purpose of capturing search traffic or manipulating search engine rankings, are considered a material breach of this agreement.
+
 (xii)You may not push emails or messages without Temu’s prior consent. You may not use false or misleading words or promotional terms in emails and messages.
 
 (xiii)You may not track repeat visits to Temu’s website without making a purchase to serve retargeting ads to potential buyers.
