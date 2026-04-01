@@ -64,7 +64,7 @@ How content ratings are used
 App ratings are meant to do more than reflect the intended audience. They’re meant to help consumers, especially parents, identify whether the app is appropriate for what the consumers are looking for, along with other purposes, like:
 
 *   Blocking or filtering your content in certain territories or to specific users where legally required.
-*   In the European Economic Area (EEA), Australia, Brazil (beginning March 2026), Singapore (beginning March 2026), Switzerland and the United Kingdom only, for users determined to be minors:
+*   In the European Economic Area (EEA), Australia, Brazil, Singapore, Switzerland and the United Kingdom only, for users determined to be minors:
     *   Blocking the acquisition and purchase of mature content (such as 18+ rated apps or games)
     *   Blocking or filtering mature content from Google Play search and browse pages, except through deep linking
 *   Evaluating your app’s eligibility for special developer programs
