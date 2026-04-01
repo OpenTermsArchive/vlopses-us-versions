@@ -68,9 +68,7 @@ Contact information Emergency contact
 
 If you are a user and aware of **imminent harm to an individual or individuals**, please contact local law enforcement authorities immediately.
 
-In a situation where there is an emergency involving danger of death or serious physical injury, law enforcement can submit a request for disclosure of user information to Pinterest. This request can be submitted through our Law Enforcement Portal or by contacting us at our emergency law enforcement email: lawenforcement \[at\] pinterest.com (lawenforcement\[at\]pinterest\[dot\]com) with “Emergency” in the subject line.
-
-**We'll only respond to emails from law enforcement. If you aren't law enforcement and have an issue, browse our help articles. Emailing this alias is considered abuse and may result in action being taken on your Pinterest account.**
+In a situation where there is an emergency involving danger of death or serious physical injury, law enforcement can submit a request for disclosure of user information to Pinterest. This request can be submitted through our Law Enforcement Portal.
 
 Pinterest will review and respond to these requests on a case-by-case basis.
 
