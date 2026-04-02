@@ -1,6 +1,6 @@
 Imprint
 
-**Subject to the** \[[Terms & Conditions](javascript:;)\] **and the** \[[Privacy & Cookie Policy](javascript:;)\] **, our Services for US are provided by:**
+**Subject to the** \[[Terms & Conditions](https://us.shein.com/Terms-and-Conditions-a-399.html)\] **and the** \[[Privacy & Cookie Policy](https://us.shein.com/Privacy-Security-Policy-a-282.html)\] **, our Services for US are provided by:**
 
 **SHEIN US SERVICES, LLC**
 
