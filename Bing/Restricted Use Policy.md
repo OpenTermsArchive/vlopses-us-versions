@@ -2269,12 +2269,6 @@ Additional resources
 DSA Qualified Researcher Program
 ================================
 
-![](https://support.content.office.net/en-us/media/0b1fe818-4ce3-46e9-8851-111cec3c540c.png)
-
-You’re invited to try Microsoft 365 for free
-
-[Unlock now](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?ocid=cmmg0xwkzn4)
-
 The DSA is a landmark regulation designed to foster a safer, more transparent digital environment in the European Union. Article 40 specifically empowers vetted researchers to request data from Bing, to support independent research into systemic risks and the effectiveness of risk mitigation measures in the EU online ecosystem.  
 
 Under this framework, our Digital Services Coordinator of establishment (CnAM) will vet researchers and research projects. Once approved, Bing will provide access to datasets that are not publicly available, enabling deeper analysis of online trends, content moderation, and societal impacts. This process is designed to support public oversight and academic inquiry, while safeguarding user privacy and platform integrity. 
