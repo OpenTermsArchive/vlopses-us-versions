@@ -274,8 +274,6 @@ The content rating system for apps (not including games) in South Korea is based
 
 Google Play Rating - Applies in Russia
 
-**Note**: If you haven't filled out the new Content Rating questionnaire, your app(s) will be listed as Unrated.
-
 | Rating | Description |
 | --- | --- |
 | ![3](//storage.googleapis.com/support-kms-prod/3219CE948468EE70FD289F0B22ECAEEEDEED) | **Rated 3+**<br><br>Generally suitable for all audiences. Note that apps with this rating may not be specifically designed for children. |
