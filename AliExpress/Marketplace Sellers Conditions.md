@@ -2,7 +2,7 @@ AliExpress Seller Basic Rules (Violations and Penalty Rules)
 
 Release date: /
 
-Revision date: August 18, 2025
+Revision date: April 2, 2026
 
 Note: Texts highlighted in red are revisions or additions made this time.
 
@@ -124,53 +124,53 @@ Section II Violation Types and Handling Measures
 
 **Article 82** Intellectual Property Prohibited and Restricted Sales Violations
 
-For details, please refer to [AliExpress Intellectual Property Policy](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/uz0s1adxynipabwp) and the[AliExpress Prohibited and Restricted Product Information List](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/zqnolc0rqiqao6qv).
+For details, please refer to [AliExpress Intellectual Property Policy](https://rule.aliexpress.com/rule-channels/37978936/127561565) and the[AliExpress Prohibited and Restricted Product Information List](https://rule.aliexpress.com/rule-channels/37978936/127561551).
 
 ### **Severe Intellectual Property Violations**
 
 **Article 83** Severe Intellectual Property Violations
 
-For details, please refer to [AliExpress Intellectual Property Policy](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/uz0s1adxynipabwp).
+For details, please refer to [AliExpress Intellectual Property Policy](https://rule.aliexpress.com/rule-channels/37978936/127561565).
 
 ### **Transaction and Other Violations**
 
 **Article 84** Transaction Violations
 
-(i) Order uploading rate rules: Refer to [AliExpress – Rules on Order Uploading Rate Assessment](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/or0ke0y5pdhgf7od).
+(i) Order uploading rate rules: Refer to [AliExpress – Rules on Order Uploading Rate Assessment](https://rule.aliexpress.com/rule-channels/37978936/137340636).
 
-(ii) False shipment: Refer to [AliExpress – Rules on False Shipment](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/hy3as9n49ekvb7a1).
+(ii) False shipment: Refer to [AliExpress – Rules on False Shipment](https://rule.aliexpress.com/rule-channels/37978936/137340843).
 
-(iii) Goods review rules: Refer to [AliExpress – Rules on Goods Review](https://rule.aliexpress.com/rule-channels/36963666/180243868).
+(iii) Goods review rules: Refer to [AliExpress – Rules on Goods Review](https://rule.aliexpress.com/rule-channels/37978936/180243954).
 
-(iv) Malicious harassment: Refer to [AliExpress – Rules on Malicious Harassment](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/axg44ig2bowc6csi).
+(iv) Malicious harassment: Refer to [AliExpress – Rules on Malicious Harassment](https://rule.aliexpress.com/rule-channels/37978936/137260452).
 
-(v) Illegal profit: Refer to [AliExpress – Rules on Illegal Profit](https://rule.aliexpress.com/rule-channels/36963666/122523667).
+(v) Illegal profit: Refer to [AliExpress – Rules on Illegal Profit](https://rule.aliexpress.com/rule-channels/37978936/137340525).
 
-(vi) Severe disruption of platform order: Refer to [AliExpress – Rules on Severe Disruption of Platform Order](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/za7e3eg6onvy5bvz).
+(vi) Severe disruption of platform order: Refer to [AliExpress – Rules on Severe Disruption of Platform Order](https://rule.aliexpress.com/rule-channels/37978936/137260610).
 
-(vii) Unfair competition: Refer to [AliExpress – Rules on Unfair Competition](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/az66gglzglli8550).
+(vii) Unfair competition: Refer to [AliExpress – Rules on Unfair Competition](https://rule.aliexpress.com/rule-channels/37978936/137340205).
 
-(viii) Breach of commitment: Refer to [AliExpress – Penalty Rules for Breach of Commitment](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/lqyk79adyv4vz23i).
+(viii) Breach of commitment: Refer to [AliExpress – Penalty Rules for Breach of Commitment](https://rule.aliexpress.com/rule-channels/37978936/137340711).
 
-(ix) Inducing early receipt: Refer to [AliExpress – Rules on Inducing Early Receipt](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/npckm15bnq1o8q7q).
+(ix) Inducing early receipt: Refer to [AliExpress – Rules on Inducing Early Receipt](https://rule.aliexpress.com/rule-channels/37978936/137340442).
 
-(x) Inducing off-platform transactions: Refer to [AliExpress – Rules on Inducing Off-Platform Transactions](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/hrg33kyw7bgp865k).
+(x) Inducing off-platform transactions: Refer to [AliExpress – Rules on Inducing Off-Platform Transactions](https://rule.aliexpress.com/rule-channels/37978936/137340393).
 
-(xi) Seriously malicious ultra-low prices: Refer to [AliExpress – Rules on Seriously Malicious Ultra-Low Prices](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/ni7afhwvz07u35g3).
+(xi) Seriously malicious ultra-low prices: Refer to [AliExpress – Rules on Seriously Malicious Ultra-Low Prices](https://rule.aliexpress.com/rule-channels/37978936/137340306).
 
 (xii) Forgery of qualification certificates or appeal materials: Sellers must ensure that submitted qualification certificates or appeal documents are truthful and legally valid. If there is obvious suspicion of forgery, or if such materials are verified as fake by the rights holder, official authorities, or other recognized institutions, AliExpress reserves the right to penalize or permanently close the seller's account.
 
 (xiii) Any other conduct that AliExpress deems as violating the platform rules, disrupting market order, or infringing on the rights of consumers or other sellers. AliExpress reserves the right to publish or notify additional or amended violations within a reasonable period.
 
-(xiv) Disclosure of personal information: Refer to [AliExpress – Rules on Personal Information Disclosure](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/kez3g8zgkcyfogig).
+(xiv) Disclosure of personal information: Refer to [AliExpress – Rules on Personal Information Disclosure](https://rule.aliexpress.com/rule-channels/37978936/137260525).
 
-(xv) Non-shipment after the transaction: Refer to [AliExpress – Rules on Non-shipment After the Transaction](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/sgw3pg859cwz6gr7).
+(xv) Non-shipment after the transaction: Refer to [AliExpress – Rules on Non-shipment After the Transaction](https://rule.aliexpress.com/rule-channels/37978936/127561581).
 
-(xvi) Credit and sales volume manipulation: Refer to [AliExpress – Rules on Credit and Sales Volume Manipulation and its supplemental interpretations](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/rvqmvo98oy8a16lg).
+(xvi) Credit and sales volume manipulation: Refer to [AliExpress – Rules on Credit and Sales Volume Manipulation and its supplemental interpretations](https://rule.aliexpress.com/rule-channels/37978936/137340756).
 
-(xvii) Truthful declaration obligation: Click to view [AliExpress Reaffirmation of Sellers'Obligation for Truthful Declarations](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/iuyog7o0kugyecek).
+(xvii) Truthful declaration obligation: Click to view [AliExpress Reaffirmation of Sellers'Obligation for Truthful Declarations](https://rule.aliexpress.com/rule-channels/37978936/137340598).
 
-(xviii) Abuse of reporting mechanism: Refer to [AliExpress – Rules on Abuse of Reporting](https://rule.aliexpress.com/rule-channels/36963666/137699600).
+(xviii) Abuse of reporting mechanism: Refer to [AliExpress – Rules on Abuse of Reporting](https://rule.aliexpress.com/rule-channels/37978936/138267621).
 
 **Article 85** Others
 
@@ -206,13 +206,13 @@ Sellers must engage in marketing in a lawful, compliant, and reasonable manner. 
 
 **Article 86** Goods Information Quality Violations
 
-(i) Search manipulation: Click to view [AliExpress – Rules on Search Manipulation](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/wfbcvewgc2ygsr3y).
+(i) Search manipulation: Click to view [AliExpress – Rules on Search Manipulation](https://rule.aliexpress.com/rule-channels/37978936/127561583).
 
 (ii) Unauthorized use of seller images: Click to view [AliExpress – Rules on Unauthorized Use of Seller Images](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/hl8e39yii6upga3c).
 
 (iii) Inactive product management: Click to view [AliExpress – Rules on Managing Inactive Goods](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/gnsxrmqy0qn99xeh).
 
-(iv) Posting non-contracted goods: Click to view [Rules and Implementation Details for Posting Non-Contracted Goods](https://aliexpressrulecenter.yuque.com/lh72i0/ad75rh/ein966dgfxcinsfd).
+(iv) Posting non-contracted goods: Click to view [Rules and Implementation Details for Posting Non-Contracted Goods](https://rule.aliexpress.com/rule-channels/37978936/137340560).
 
 (v) Inclusion of Contact Information or Advertisement-Oriented Goods
 
@@ -237,23 +237,23 @@ Section IV Liquidated Damages
 
 AliExpress
 
-[Chapter III Violations and Penalty Rules](#Nx2Oe)
+[Chapter III Violations and Penalty Rules](#VMnIG)
 
-[Section I Violation Handling Measures](#zGZWZ)
+[Section I Violation Handling Measures](#XQWGy)
 
-[Section II Violation Types and Handling Measures](#GOMCs)
+[Section II Violation Types and Handling Measures](#dZK1a)
 
-[Section III Four Categories of Violations and Penalties](#ERQ68)
+[Section III Four Categories of Violations and Penalties](#wUa4Z)
 
-[Intellectual Property Prohibited and Restricted Sales Violations](#OgyVy)
+[Intellectual Property Prohibited and Restricted Sales Violations](#N7ldx)
 
-[Severe Intellectual Property Violations](#G8dX6)
+[Severe Intellectual Property Violations](#z6O4x)
 
-[Transaction and Other Violations](#YLNOf)
+[Transaction and Other Violations](#ypcK7)
 
-[Goods Information Quality Violations](#pLvCF)
+[Goods Information Quality Violations](#yEP8W)
 
-[Section IV Liquidated Damages](#Pa03P)
+[Section IV Liquidated Damages](#ppc7M)
 
 - - -
 
