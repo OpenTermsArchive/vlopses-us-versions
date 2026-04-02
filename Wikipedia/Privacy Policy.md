@@ -897,7 +897,7 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=556267](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=556267)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Access\_to\_Temporary\_Account\_IP\_Addresses\_Policy&oldid=568135](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy&oldid=568135)"
 
 - - -
 
