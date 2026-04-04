@@ -32,6 +32,68 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=hc_fnav)
 
+Popular articles
+----------------
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
+
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
+
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
+
+Popular articles
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=popular_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=popular_articles)
+
+[What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=popular_articles)
+
+[What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=popular_articles)
+
+Related topics
+--------------
+
+[Notifications
+
+Change what you get notifications about on Facebook and decide how you get them.](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
+
+[Your home page
+
+Learn how Feed works, control what you see in Feed and react to posts.](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
+
+[Your privacy
+
+Learn how privacy settings help you connect and share with people that you know and trust.](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
+
+[Notifications](https://www.facebook.com/help/1036755649750898/?helpref=related_topics)
+
+[Your home page](https://www.facebook.com/help/753701661398957/?helpref=related_topics)
+
+[Your privacy](https://www.facebook.com/help/238318146535333/?helpref=related_topics)
+
+*   [About](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.meta.com%2F%3Futm_source%3Dhelp-center%26utm_medium%3Dreferral)
+
+*   [Privacy](https://www.facebook.com/privacy/explanation/)
+
+*   [Terms and policies](https://www.facebook.com/policies/)
+
+*   [Ad choices](https://www.facebook.com/help/568137493302217/)
+
+*   [Careers](https://www.facebook.com/careers/)
+
+*   [Cookies](https://www.facebook.com/policies/cookies/)
+
+*   [Create ad](https://www.facebook.com/business/)
+
+*   [Create Page](https://www.facebook.com/pages/creation/)
+
+* * *
+
+© 2026 Meta
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -153,14 +215,6 @@ What is trademark infringement?
 ===============================
 
 Copy link
-
-What is trademark dilution?
-
-What is 'likelihood of confusion'?
-
-What are limits to trademark rights?
-
-I have a different question
 
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
@@ -332,14 +386,6 @@ What is a counterfeit?
 ======================
 
 Copy link
-
-Report counterfeit goods
-
-What is trademark infringement?
-
-Counterfeit sales on Facebook
-
-I have a different question
 
 A counterfeit good is a knock-off or replica version of another company's product. It usually copies the trademark (name or logo) and/or distinctive features of that other company's product to imitate a genuine product. The manufacture, promotion or sale of counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognised as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -627,6 +673,14 @@ How do I report trademark infringement on Facebook?
 ===================================================
 
 Copy link
+
+O que é violação de marca registada?
+
+Como posso contactar o infrator?
+
+O que acontece após o relatório?
+
+Tenho uma questão diferente
 
 Meta can't adjudicate disputes between third parties, and so we wouldn't be in a position to act on trademark reports that require an in-depth trademark analysis or a real-world dispute outside Facebook. In these situations, rather than contacting Meta, you may want to contact the party that you believe is infringing your rights directly, or seek any resolution in court or by other judicial means.
 
@@ -1616,16 +1670,6 @@ iPad App Help
 Facebook Lite App Help
 
 More
-
-Apelar remoção de conteúdo
-
-Contactar proprietário dos direitos
-
-Conteúdo removido por engano
-
-O que é uma contra-notificação DMCA?
-
-Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
