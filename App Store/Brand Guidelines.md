@@ -621,6 +621,7 @@ The absence of a product or service name or logo from this list does not constit
 | EnVerb® | application feature |
 | EtherTalk™ | interface card/network |
 | Exposé® | computer software |
+| EyeSight® | display |
 | Face ID® | secure authentication |
 | FaceTime® | voice and video calling |
 | FairPlay® | software technology |
@@ -1075,6 +1076,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of March 5, 2026.
+This list includes updates as of April 1, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
