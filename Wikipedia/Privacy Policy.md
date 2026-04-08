@@ -1484,7 +1484,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 The **IP Information tool** helps users protect the Wikimedia projects by providing information they need about IP addresses. As a condition of access, users must agree to the following policy.
 
@@ -1507,7 +1507,7 @@ Users who meet the are eligible to use the IP Info tool and all data offered by 
 
 Users may voluntarily give up their access to the tool at any time by visiting Special:Preferences.
 
-Concerns about potential abuse of the IP Information tool may be brought to a by placing a request on . Stewards are authorized to terminate a user's access to the IP Information tool if the user is determined to have misused the tool. If necessary, requests for review by Foundation staff can be made through **ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org** and user access removed in line with the . Complaints about infringements of the will be escalated for review by the .
+Concerns about potential abuse of the IP Information tool may be brought to a by placing a request on . Stewards are authorized to terminate a user's access to the IP Information tool if the user is determined to have misused the tool. If necessary, requests for review by Foundation staff can be made through **ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org** and user access removed in line with the . Complaints about infringements of the will be escalated for review by the .
 
 To ensure accountability, a log is kept of tool usage and of which users have access to the tool. Further details are provided below.
 
@@ -1537,7 +1537,7 @@ In the course of keeping the Sites and its users safe, users may sometimes need 
 *   All users of this tool may disclose IP information to other users of the IP Information tool with access rights on an as-needed basis. To check if a user has access to the tool, please confirm within the local Site's page for the ipinfo-viewer right. When possible, users should direct other users of the tool to the relevant contributions page rather than disclose IP information directly.
 *   Users who have agreed to the separate may also disclose IP information as permitted under that policy (including any under that policy).
 
-If IP information needs to be disclosed in connection with a , immediately email emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org with details of the request so that it can be evaluated for possible disclosure by or on behalf of the Wikimedia Foundation.
+If IP information needs to be disclosed in connection with a , immediately email emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org with details of the request so that it can be evaluated for possible disclosure by or on behalf of the Wikimedia Foundation.
 
 See also
 --------
