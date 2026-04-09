@@ -5,7 +5,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -13,7 +13,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -86,7 +86,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -94,7 +94,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -167,7 +167,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -175,7 +175,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -248,7 +248,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -256,7 +256,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -329,7 +329,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -337,7 +337,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -410,7 +410,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -418,7 +418,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -491,7 +491,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -499,7 +499,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -572,7 +572,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -580,7 +580,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -653,7 +653,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -661,7 +661,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -734,7 +734,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -742,7 +742,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -815,7 +815,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -823,7 +823,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -896,7 +896,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -904,7 +904,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -977,7 +977,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -985,7 +985,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1058,7 +1058,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1066,7 +1066,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1139,7 +1139,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1147,7 +1147,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1220,7 +1220,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1228,7 +1228,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1301,7 +1301,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1309,7 +1309,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1382,7 +1382,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1390,7 +1390,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1463,7 +1463,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1471,7 +1471,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1544,7 +1544,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1552,7 +1552,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1625,7 +1625,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1633,7 +1633,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1706,7 +1706,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1714,7 +1714,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1787,7 +1787,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1795,7 +1795,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1868,7 +1868,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1876,7 +1876,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -1949,7 +1949,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -1957,7 +1957,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -2030,7 +2030,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -2038,7 +2038,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -2111,7 +2111,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -2119,7 +2119,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
@@ -2192,7 +2192,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Important
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Note
 
@@ -2200,7 +2200,7 @@ This policy applies to all ad types except Text Search Ads.
 
 ##### Important
 
-This page was last updated on December 10, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft restricts nudity and skin exposure in ads to ensure ad content is appropriate for our users. With that in mind, the following ad content is prohibited.
 
