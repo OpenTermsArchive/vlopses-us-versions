@@ -5,7 +5,7 @@ This topic focuses on the general ad requirements for ads on Microsoft Advertisi
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -13,7 +13,7 @@ This policy applies to all ad types.
 
 ##### Note
 
-This page was last updated on January 26, 2026.
+This page was last updated on April 8, 2026.
 
 Our general ad requirements are designed to create a high-quality experience for our users, advertisers, and publishers. These guidelines ensure that advertisements are relevant, non-intrusive, and adhere to industry standards for content and presentation. By maintaining these standards, we foster a trustworthy environment where users feel safe and advertisers can effectively reach their audience.
 
@@ -239,7 +239,7 @@ This topic focuses on the general ad requirements for ads on Microsoft Advertisi
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -247,7 +247,7 @@ This policy applies to all ad types.
 
 ##### Note
 
-This page was last updated on January 26, 2026.
+This page was last updated on April 8, 2026.
 
 Our general ad requirements are designed to create a high-quality experience for our users, advertisers, and publishers. These guidelines ensure that advertisements are relevant, non-intrusive, and adhere to industry standards for content and presentation. By maintaining these standards, we foster a trustworthy environment where users feel safe and advertisers can effectively reach their audience.
 
