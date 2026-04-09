@@ -5,7 +5,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -13,7 +13,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -54,7 +54,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -62,7 +62,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -103,7 +103,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -111,7 +111,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -152,7 +152,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -160,7 +160,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -201,7 +201,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -209,7 +209,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -250,7 +250,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -258,7 +258,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -299,7 +299,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -307,7 +307,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -345,7 +345,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -353,7 +353,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -391,7 +391,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -399,7 +399,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -437,7 +437,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -445,7 +445,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -483,7 +483,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -491,7 +491,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -529,7 +529,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -537,7 +537,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -575,7 +575,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -583,7 +583,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -621,7 +621,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -629,7 +629,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
@@ -667,7 +667,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -675,7 +675,7 @@ This policy applies to all ad types.
 
 ##### Important
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 Microsoft is committed to ensuring that all advertisements comply with legal standards and uphold the highest levels of integrity and trustworthiness.
 
