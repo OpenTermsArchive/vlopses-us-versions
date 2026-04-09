@@ -2651,7 +2651,7 @@ Explore the policy
 ------------------
 
 [AI at Meta
-----------](#1)[](#2)[More resources
+----------](#1)[More resources
 --------------](#3)
 
 Other policies[Terms of Service
