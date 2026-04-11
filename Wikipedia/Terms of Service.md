@@ -384,7 +384,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Terms and Conditions
 --------------------
@@ -393,7 +393,7 @@ Terms and Conditions
 *   After signing up, you will receive a text message from **21527** on your mobile number.
 *   Message and data rates may apply for any messages sent to you from us and to us from you. Message frequency varies.
 *   You can cancel the SMS service at any time. To discontinue receiving SMS messages from Wikimedia Foundation, text **`STOP`** to **21527**. We will send you an SMS message to confirm that you have been unsubscribed. After this, you will no longer receive SMS messages from us. If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again.
-*   If you are experiencing issues with the messaging program, you can reply with the keyword **HELP** to **21527** for assistance. You can also receive help by contacting **donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org** or calling **+1-415-839-6885**.
+*   If you are experiencing issues with the messaging program, you can reply with the keyword **HELP** to **21527** for assistance. You can also receive help by contacting **donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org** or calling **+1-415-839-6885**.
 *   Carriers are not liable for delayed or undelivered messages.
 
 Privacy Statement
