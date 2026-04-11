@@ -4,7 +4,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 This policy was by the Wikimedia Foundation Board of Trustees on December 8, 2021
 
@@ -99,7 +99,7 @@ Implementation of this human rights policy is coordinated by the Foundation's cr
 
 ### Grievance
 
-The Foundation commits to continued evaluation and improvement of existing on-platform channels and grievance mechanisms on the Wikimedia Projects. Wikimedia trustees, officers, employees, volunteers, and independent contractors with a concern about the human rights implications of our actions can raise a claim via our . Other stakeholders may communicate concerns to talktohumanrights![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+The Foundation commits to continued evaluation and improvement of existing on-platform channels and grievance mechanisms on the Wikimedia Projects. Wikimedia trustees, officers, employees, volunteers, and independent contractors with a concern about the human rights implications of our actions can raise a claim via our . Other stakeholders may communicate concerns to talktohumanrights![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 ### Accountability
 
