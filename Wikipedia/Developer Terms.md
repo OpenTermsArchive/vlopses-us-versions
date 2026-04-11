@@ -4,7 +4,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Version 1.0
 -----------
@@ -33,7 +33,7 @@ When using Wikimedia APIs, an operator must not:
 
 Operators should use our APIs within the guidelines described in this policy and other technical documentation for each API. For the avoidance of doubt, the existence of this policy does not require members of the Wikimedia community to get prior permission from the Wikimedia Foundation before using the APIs in a manner consistent with this policy. Rather, we want people to be aware of uses that could result in disruption of their API usage, so operators know how to use Wikimedia's shared resources properly.
 
-If your use case might fall outside the bounds of the policy described here and you would like to receive an exception or clarification, please submit a request to legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+If your use case might fall outside the bounds of the policy described here and you would like to receive an exception or clarification, please submit a request to legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 In situations where a limit may affect an operator's use, the Foundation may contact the operator to discuss the nature of the limits and any exceptions that may be needed. This is only possible if the operator's scripts adhere to the User-Agent policy and include up-to-date contact information.
 
@@ -74,9 +74,9 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
-[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Screenshot_of_a_map_on_Wikivoyage_displaying_San_Francisco%27s_Financial_District.png/250px-Screenshot_of_a_map_on_Wikivoyage_displaying_San_Francisco%27s_Financial_District.png)](https://foundation.wikimedia.org/wiki/File:Screenshot_of_a_map_on_Wikivoyage_displaying_San_Francisco%27s_Financial_District.png)
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Screenshot_of_a_map_on_Wikivoyage_displaying_San_Francisco%27s_Financial_District.png/250px-Screenshot_of_a_map_on_Wikivoyage_displaying_San_Francisco%27s_Financial_District.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Screenshot_of_a_map_on_Wikivoyage_displaying_San_Francisco%27s_Financial_District.png)
 
 Screenshot of a dynamic map on English Wikivoyage displaying
 
@@ -122,7 +122,7 @@ While we aim to provide a useful service for the Wikimedia community and beyond,
 
 Things naturally change over time. To ensure this policy accurately reflects our practices and the law, we reserve the right to modify it.
 
-We will provide reasonable notice of updates to this page by sending announcements to <wikitech-l![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)lists.wikimedia.org> ([more info](https://lists.wikimedia.org/mailman/listinfo/wikitech-l)) and <maps-l![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)lists.wikimedia.org> ([more info](https://lists.wikimedia.org/mailman/listinfo/maps-l)) at least 14 days before changes are made. Please review the most recent version of this policy. You accept the new version of this policy if you use the site after we announce an update. We will save a copy of the previous versions of this policy.
+We will provide reasonable notice of updates to this page by sending announcements to <wikitech-l![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)lists.wikimedia.org> ([more info](https://lists.wikimedia.org/mailman/listinfo/wikitech-l)) and <maps-l![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)lists.wikimedia.org> ([more info](https://lists.wikimedia.org/mailman/listinfo/maps-l)) at least 14 days before changes are made. Please review the most recent version of this policy. You accept the new version of this policy if you use the site after we announce an update. We will save a copy of the previous versions of this policy.
 
 Where does the map data come from?
 ----------------------------------
@@ -160,7 +160,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 The govern your use of . In addition:
 
