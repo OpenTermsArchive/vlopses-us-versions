@@ -3118,16 +3118,6 @@ About recommendations on Facebook
 
 Copy link
 
-O que são recomendações?
-
-Como funcionam as recomendações?
-
-Não quero recomendações
-
-O que não é recomendado?
-
-Tenho uma pergunta diferente
-
 We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, groups or events) that people do not already follow. Some examples of our recommendations experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join. Some entities might have limited or no access to features that encourage engagement, and might not be as widely recommended on Facebook as other entities.
 
 Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalising recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook friends in common, we may suggest that person as a potential new friend for you.
