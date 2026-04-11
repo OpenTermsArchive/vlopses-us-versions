@@ -4,7 +4,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Under the (17 U.S.C. § 512)("DMCA"), the Wikimedia Foundation ("WMF") may be required to remove content from a Wikimedia project in response to an official DMCA request to take down the content. The Act creates a , or a legal exemption, from copyright infringement liability for Internet service providers (ISPs) and other intermediaries. This immunity has been an asset for the entire free knowledge movement and it has been critical to upholding many of the user freedoms that have contributed to the movement's success. To retain this safe harbor status, WMF is required to comply with a validly formulated notice and remove potentially infringing works.
 
