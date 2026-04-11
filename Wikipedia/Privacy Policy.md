@@ -442,7 +442,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 As stated in our , Wikimedia believes strongly in the values of privacy and transparency. To that end, we have created this Cookie Statement as a clear reference guide to the use of cookies on Wikimedia Sites. This Cookie Statement explains how we use cookies (and other locally stored data technologies), how we use third-party cookies, and how you can manage your cookie options. For more information on our privacy practices, please visit our .
 
@@ -517,13 +517,15 @@ Here are a few examples:
 
 We will never use third-party cookies on our wikis unless we get your permission to do so. These cookies would allow us to render services provided by third parties, such as "like" and "share" buttons. When a third party provides these kinds of services, they may require the use of a cookie in order to provide their services.
 
-If you ever come across a third-party cookie transferred to your device during your access of the Wikimedia wiki sites, where you did not take any action to authorize the use and/or transfer of that cookie (such as one that may have been mistakenly placed by another user or administrator), please report that cookie to us at privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+If you ever come across a third-party cookie transferred to your device during your access of the Wikimedia wiki sites, where you did not take any action to authorize the use and/or transfer of that cookie (such as one that may have been mistakenly placed by another user or administrator), please report that cookie to us at privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 **A note about Wikimedia Foundation non-wiki sites:**
 
 Some non-wiki Wikimedia Foundation sites are hosted by a third-party service provider.
 
 Sites hosted by WordPress VIP may have the WordPress Stats module enabled. Stats is a service that allows us to understand how many visitors we get to our WordPress-hosted non-wiki sites, their location by country, and which pages, posts and links are the most popular. Only the Wikimedia Foundation and the service provider, Automattic/WordPress, have access to the raw Stats data, which is retained for a maximum of 30 days. For more information about Stats, see WordPress' [support page on the module](https://en.support.wordpress.com/stats/).
+
+The [Wikipedia Store](https://store.wikimedia.org/pages/copy-of-privacy-policy) is hosted by Shopify and is integrated with our TikTok Shop. This integration includes a tracking pixel from TikTok that measures traffic and campaign performance. Our implementation includes TikTok's [limited data use](https://business-api.tiktok.com/portal/docs/pixel-limited-data-use/v1.3) feature and the ability to opt-out of data sharing with TikTok through your cookie preferences. For information about how TikTok uses information, see their [Partner Privacy Policy](https://www.tiktok.com/legal/page/global/partner-privacy-policy/en).
 
 Sites hosted by Civilized Discourse Construction Kit, Inc., known as Discourse forums, use cookies for functionality purposes and to store preferences. Only the Wikimedia Foundation and the service provider have access to the raw data. For more information about the cookies and their retention periods, see Discourse's [information about cookies](https://www.discourse.org/privacy#heading--cookies). Please note that the Wikimedia Foundation has not configured its Discourse forums to use Google Analytics, serve advertisements, or process donations; Discourse cookies related to those purposes are not used in our Sites.
 
@@ -543,7 +545,7 @@ Turning off the browser's cookies will prevent tracking pixels from tracking you
 Where can I find more information?
 ----------------------------------
 
-Please read through our for more information. If you have any further questions, contact privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+Please read through our for more information. If you have any further questions, contact privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 Thanks!
 
@@ -553,7 +555,7 @@ Please note that in the event of any differences in meaning or interpretation be
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie\_statement&oldid=554509](https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie_statement&oldid=554509)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie\_statement&oldid=570736](https://foundation.wikimedia.org/w/index.php?title=Policy:Cookie_statement&oldid=570736)"
 
 - - -
 
@@ -907,7 +909,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 The right to privacy is at the core of how communities contribute to Wikimedia projects — upholding this right is a central aspect of WMF’s . These data collection guidelines outline best practices at the Wikimedia Foundation for managing privacy risk in data collection. They complement WMF’s and , providing guidance about how to handle potentially sensitive data through the entirety of its life cycle at WMF. Taken together, these guidelines contribute to our commitment to protect users' data as elaborated in our .
 
@@ -992,7 +994,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 The right to privacy is at the core of how communities contribute to Wikimedia projects and upholding this right is central to our . These data publication guidelines are the best practices at the Wikimedia Foundation for managing risk in data publication. They complement our and contribute to our commitment to protect users' data as elaborated in our .
 
@@ -1097,7 +1099,7 @@ _Below, "X > Y > Z" means that X is riskier than Y, which is in turn riskier tha
 Contact us
 ----------
 
-If you think that these guidelines have potentially been breached, or if you have questions or comments about compliance with the guidelines, please contact us at privacy-help![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+If you think that these guidelines have potentially been breached, or if you have questions or comments about compliance with the guidelines, please contact us at privacy-help![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 Notes
 -----
@@ -1247,7 +1249,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 This page documents the Wikimedia Foundation's donor privacy policy. You can make a donation to the Wikimedia Foundation at .
 
@@ -1367,9 +1369,9 @@ To enhance your experience with Wikimedia Fundraising Services, we use your geog
 Accessing Your Donor Information
 --------------------------------
 
-WMF works hard to accurately process and maintain Donor Information. If you would like to request to access, correct, update, suppress, restrict or delete the Personal Information we have about you, object to our processing of such Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another organization (to the extent this right to data portability is provided to you by applicable law), please let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. While we will make reasonable efforts to comply with your request consistent with applicable law, there are certain situations where we may not grant your request (such as when we cannot adequately verify your identity to give you access to Personal Information, when we are legally required to retain information, or when we are not technologically able to change or delete information at that time).
+WMF works hard to accurately process and maintain Donor Information. If you would like to request to access, correct, update, suppress, restrict or delete the Personal Information we have about you, object to our processing of such Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another organization (to the extent this right to data portability is provided to you by applicable law), please let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org. While we will make reasonable efforts to comply with your request consistent with applicable law, there are certain situations where we may not grant your request (such as when we cannot adequately verify your identity to give you access to Personal Information, when we are legally required to retain information, or when we are not technologically able to change or delete information at that time).
 
-All emails sent relating to Wikimedia Fundraising Services (with the exception of receipts or administrative notices) include an easy option to unsubscribe. If you would like to change your communication preferences, you (or an authorized representative) can let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org at any time, or clicking the unsubscribe link in an email you receive from us.
+All emails sent relating to Wikimedia Fundraising Services (with the exception of receipts or administrative notices) include an easy option to unsubscribe. If you would like to change your communication preferences, you (or an authorized representative) can let us know by contacting us at donate![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org at any time, or clicking the unsubscribe link in an email you receive from us.
 
 ### Sharing Donor Information
 
@@ -1422,7 +1424,7 @@ Contact us
 
 WMF values what our donors have to say about our services and our policies. If you have questions or suggestions about this policy, or the information collected under the Donor Privacy Policy, we want to hear from you. See our for information on how to reach out. For more information about the privacy practices that govern the [Wikimedia projects](https://wikimedia.org/), please review our main .
 
-If you are located in the European Economic Area and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at EUrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)com, or via mail at:
+If you are located in the European Economic Area and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at EUrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)com, or via mail at:
 
 Bird & Bird GDPR Representative Ireland
 
@@ -1434,7 +1436,7 @@ D02 AY28
 
 Ireland
 
-If you are an individual located in the United Kingdom, and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at UKrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)com, or via mail at:
+If you are an individual located in the United Kingdom, and have questions about your personal data or would like to request to access, update, or delete it, you may contact our representative via email at UKrepresentative.Wikimedia![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)twobirds![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)com, or via mail at:
 
 Bird & Bird GDPR Representative Services UK
 
