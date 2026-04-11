@@ -4,7 +4,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 Purpose
 -------
