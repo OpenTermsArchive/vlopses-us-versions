@@ -698,7 +698,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://meta.wikimedia.org/w/index.php?title=WMF\_Global\_Ban\_Policy&oldid=29872033](https://meta.wikimedia.org/w/index.php?title=WMF_Global_Ban_Policy&oldid=29872033)"
+Retrieved from "[https://meta.wikimedia.org/w/index.php?title=WMF\_Global\_Ban\_Policy&oldid=30394991](https://meta.wikimedia.org/w/index.php?title=WMF_Global_Ban_Policy&oldid=30394991)"
 
 - - -
 
