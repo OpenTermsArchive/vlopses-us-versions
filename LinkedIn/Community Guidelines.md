@@ -116,7 +116,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 How we enforce our Professional Community Policies
 --------------------------------------------------
 
-Last updated: 10 months ago
+Last updated: 11 months ago
 
 Violating our [User Agreement](https://www.linkedin.com/legal/user-agreement) and our [Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) can result in action against your account, or content, or access to certain features. Depending on the severity of the violation, we may limit the visibility of certain content, label it, or remove it entirely.
 
@@ -135,7 +135,7 @@ Content that would normally violate the letter of our policies may be allowed in
 Harassment and abusive content
 ------------------------------
 
-Last updated: 8 months ago
+Last updated: 9 months ago
 
 As a professional network, LinkedIn maintains a high standard for safe and civil conversations between members. Our policies prohibit a wide range of actions and behaviors associated with harassment, bullying, or other abusive conduct.
 
@@ -332,7 +332,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Hateful and derogatory content
 ------------------------------
 
-Last updated: 8 months ago
+Last updated: 9 months ago
 
 Hate speech, symbols, and groups are prohibited on LinkedIn. We remove content that attacks, denigrates, intimidates, dehumanizes, incites or threatens hatred, violence, prejudicial or discriminatory action against individuals or groups because of their actual or perceived race, ethnicity, national origin, caste, gender, gender identity, sexual orientation, religious affiliation, or disability status.
 
