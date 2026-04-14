@@ -123,102 +123,68 @@ From mediawiki.org
 
 [Translate this page](https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Code+of+Conduct&action=page&filter=&action_source=translate_page "Special:Translate")
 
-| Code of Conduct for  <br>Wikimedia Technical Spaces |
-| --- |
-| **[Principles](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct "Special:MyLanguage/Code of Conduct")** |
-| **[Report a problem](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct#Report_a_problem "Special:MyLanguage/Code of Conduct")**[](#Report_a_problem) |
-| [Handling cases](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Cases "Special:MyLanguage/Code of Conduct/Cases")[](https://www.mediawiki.org/wiki/Code_of_Conduct/Cases "Code of Conduct/Cases") |
-| [Committee](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee "Special:MyLanguage/Code of Conduct/Committee") [](https://www.mediawiki.org/wiki/Code_of_Conduct/Committee "Code of Conduct/Committee")([members](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee/Members "Special:MyLanguage/Code of Conduct/Committee/Members") [](https://www.mediawiki.org/wiki/Code_of_Conduct/Committee/Members "Code of Conduct/Committee/Members")) |
-| [Amendments](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Amendments "Special:MyLanguage/Code of Conduct/Amendments")[](https://www.mediawiki.org/wiki/Code_of_Conduct/Amendments "Code of Conduct/Amendments") |
-| [FAQ](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/FAQ "Special:MyLanguage/Code of Conduct/FAQ")[](https://www.mediawiki.org/wiki/Code_of_Conduct/FAQ "Code of Conduct/FAQ") |
-| [v](https://www.mediawiki.org/wiki/Template:Code_of_Conduct "Template:Code of Conduct") **·** [d](https://www.mediawiki.org/wiki/Template_talk:Code_of_Conduct) **·** [e](https://www.mediawiki.org/w/index.php?title=Template:Code_of_Conduct&action=edit) |
+  
+{{Infobox Club de fo[Template:Ébauche](https://www.mediawiki.org/w/index.php?title=Template:%C3%89bauche&action=edit&redlink=1 "Template:Ébauche (page does not exist)") football
+
+| couleur cadre            = F70
+
+| couleur écriture         = FFF
+
+| personnage blanc         =
+
+| nom                      = Association Asdela Academie
+
+| logo                     =
+
+| nom complet              = Asdela Football Club
+
+| surnoms                  =
+
+| date de fondation        = 2007
+
+| couleurs                 = [Bleu](https://www.mediawiki.org/w/index.php?title=Bleu_\(couleur\)&action=edit&redlink=1 "Bleu (couleur) (page does not exist)") et [Rouge et Blanc](https://www.mediawiki.org/w/index.php?title=Rouge_et_Blanc&action=edit&redlink=1 "Rouge et Blanc (page does not exist)")
+
+| équipement sportif       = 
+
+| capacité                 =
+
+| siège                    =
+
+| président                =D’embélé Laciné
+
+| entraîneur               =Andrien Bonny
+
+| championnat actuel       = [Ligue Non](https://www.mediawiki.org/w/index.php?title=Championnat_de_C%C3%B4te_d%27Ivoire_de_football&action=edit&redlink=1 "Championnat de Côte d'Ivoire de football (page does not exist)")
+
+| site web                 = www.asdelafootballclub@gmail.com
+
+| palmarès national         =
+
+| palmarès international    =
+
+| pattern\_da1=\_whiteborder | pattern\_da1=\_thinwhitesides | pattern\_sa1=\_whiteborder | pattern\_so1= |
+
+| leftarm1=F70 | Dody1=F70 | rightSarm1=F70 | sTorts1=F70 | soks1=F70|
+
+}}
+
+L'**Asdela Academie FC** ("ASDELA  FC") est un club [ivoirien](https://www.mediawiki.org/w/index.php?title=C%C3%B4te_d%27Ivoire&action=edit&redlink=1 "Côte d'Ivoire (page does not exist)") de [football](https://www.mediawiki.org/w/index.php?title=Football&action=edit&redlink=1 "Football (page does not exist)") basé à [Abidjan](https://www.mediawiki.org/w/index.php?title=Abidjan&action=edit&redlink=1 "Abidjan (page does not exist)"). Le club évolue en [Ligue Non](https://www.mediawiki.org/w/index.php?title=Le_championnat_d%E2%80%99abidjan_de_C%C3%B4te_d%27Ivoire_de_football&action=edit&redlink=1 "Le championnat d’abidjan de Côte d'Ivoire de football (page does not exist)").
+
+ASDELA FC est le club d'Ivoire Académie, une académie de football (sport-étude).
+
+Histoire
+--------
 
 |     |     |
 | --- | --- |
-| ![](//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/OOjs_UI_icon_check-constructive.svg/40px-OOjs_UI_icon_check-constructive.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail) | This page documents a community policy for Wikimedia technical spaces. |
+| ![](//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/OOjs_UI_icon_puzzle-ltr-warning.svg/40px-OOjs_UI_icon_puzzle-ltr-warning.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail) | **Please help [expand](https://www.mediawiki.org/wiki/Special:EditPage/Code_of_Conduct "Special:EditPage/Code of Conduct") this page.** More information might be found on the [talk page](https://www.mediawiki.org/wiki/Talk:Code_of_Conduct "Talk:Code of Conduct"). |
 
-This is a **code of conduct for Wikimedia technical spaces**. It applies both within physical spaces, such as Wikimedia technical events and Wikimedia technical presentations in other events, and virtual spaces (MediaWiki.org, [wikitech.wikimedia.org](https://wikitech.wikimedia.org/wiki/ "wikitech:"), [Phabricator](https://www.mediawiki.org/wiki/Special:MyLanguage/Phabricator "Special:MyLanguage/Phabricator") [](https://www.mediawiki.org/wiki/Phabricator "Phabricator"), [Gerrit Code Review](https://www.mediawiki.org/wiki/Special:MyLanguage/Gerrit "Special:MyLanguage/Gerrit"), [technical mailing lists](https://meta.wikimedia.org/wiki/Mailing_lists/Overview#MediaWiki_and_technical "m:Mailing lists/Overview"), [technical IRC channels](https://meta.wikimedia.org/wiki/IRC/Channels#MediaWiki_and_technical "m:IRC/Channels"), [Etherpad](https://www.mediawiki.org/wiki/Special:MyLanguage/Etherpad "Special:MyLanguage/Etherpad") [](https://www.mediawiki.org/wiki/Etherpad "Etherpad"), and other development-oriented spaces operated by the Wikimedia Foundation).
+[Template:Portail](https://www.mediawiki.org/w/index.php?title=Template:Portail&action=edit&redlink=1 "Template:Portail (page does not exist)")
 
-Principles
-----------
+[Catégorie:Club ivoirien de football de U 18](https://www.mediawiki.org/w/index.php?title=Cat%C3%A9gorie:Club_ivoirien_de_football_de_U_18&action=edit&redlink=1 "Catégorie:Club ivoirien de football de U 18 (page does not exist)")
 
-In the interest of fostering an open and welcoming community, we are committed to making participation in Wikimedia technical projects a respectful and harassment-free experience for everyone, regardless of gender, gender identity and expression, sex, sexual orientation, disability, neuroatypicality, physical appearance, body size, race, ethnicity, national origin, age, political affiliation, or religion.
-
-Technical skills and community status make no difference to the right to be respected and the obligation to respect others. Newcomers and other contributors with limited experience in our community deserve a welcoming attitude and constructive feedback. Prolific contributions and technical expertise are not a justification for lower standards of behaviour.
-
-Unacceptable behaviour
-----------------------
-
-Harassment and other types of inappropriate behaviour are unacceptable in all public and private Wikimedia technical spaces. Examples include but are not limited to:
-
-*   Personal attacks, violence, threats of violence, threats of legal action, or deliberate intimidation.
-*   Offensive, derogatory, or discriminatory comments.
-*   Gratuitous or off-topic use of sexual language or imagery.
-*   Inappropriate or unwanted attention, touching, or physical contact (sexual or otherwise).
-*   Inappropriate or unwanted public or private communication, following, or any form of stalking.
-*   Unwanted photography or recording.
-*   Disclosure of a person's identity or other private information without their consent. Disclosure of some identifying information is not consent to disclose other identifying information.
-*   Inappropriate or unwanted publication of private communication. Publishing or reporting private communication or personally identifying information for the purposes of reporting harassment (as explained here) and/or in the case of whistleblowing, is acceptable.
-*   Harming the discussion or community with methods such as sustained disruption, interruption, or blocking of community collaboration (i.e. trolling).
-*   Discrimination, particularly against marginalised and otherwise underrepresented groups. Targeted outreach to such groups is allowed and encouraged.
-*   Using the code of conduct system for purposes other than reporting genuine violations of the code of conduct (e.g., retaliating against a reporter or victim by filing a report claiming their response was harassment).
-*   Attempting to circumvent a decision of the [Committee](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee "Special:MyLanguage/Code of Conduct/Committee"), e.g. unblocking someone during a period the Committee banned them.
-
-Report a problem
-----------------
-
-_**In case of threats of harm and other urgent situations**, notify the relevant authorities first (if possible) and [email the Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Requests_for_user_information_procedures_%26_guidelines#Emergency_Requests "wmf:Requests for user information procedures & guidelines") via emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org ([more information](https://meta.wikimedia.org/wiki/Special:MyLanguage/Threats_of_harm "m:Special:MyLanguage/Threats of harm"))._
-
-People who experience or observe unacceptable behaviour are encouraged to follow any of these steps:
-
-1.  Ask the person who is behaving unacceptably to stop. Make them aware of this Code of Conduct.
-2.  If you are at an event, report the problem to the event organisers, or a designated contact.
-3.  Report the problem directly to the [Code of Conduct Committee](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee "Special:MyLanguage/Code of Conduct/Committee") via **techconduct![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org**. You can also send a report to the Committee if you reported an incident elsewhere but were not satisfied with the response.
-
-Reports can be as short as a notification with a link, but more information will help us understand what is happening. You can include:
-
-*   Your contact information (e.g. Wikimedia and Phabricator usernames), if you want to identify yourself.
-*   Your account of the incident:
-    *   Where and when it happened.
-    *   A description of the unacceptable behaviour.
-    *   Who was involved and who saw it happen.
-    *   Whether the incident is ongoing.
-*   Any additional information that will help us fully understand the problem, such as previous incidents or special circumstances.
-*   Links to public records of the incident, if any.
-*   Screenshots showing what exactly happened.
-
-Reports are processed confidentially. For more information, see [Confidentiality](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee#Confidentiality "Special:MyLanguage/Code of Conduct/Committee").
-
-Go to [Code of Conduct/Cases](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Cases "Special:MyLanguage/Code of Conduct/Cases") to learn about how reports to the Committee are processed.
-
-Attribution and re-use
-----------------------
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/) ([revision 49054013](https://github.com/CoralineAda/contributor_covenant/blob/490540137a39fa746a1708a2188015b12b17249b/CODE_OF_CONDUCT.md)), the jQuery Code of Conduct ([revision 91777886](https://github.com/jquery/jquery.org/commit/9177788605c1846c14326ed0074f1bafac480dbd)), the [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) ([v1.0](https://github.com/todogroup/opencodeofconduct/blob/gh-pages/index.md)), and the [Citizen Code of Conduct](https://web.archive.org/web/20180707014644/http://citizencodeofconduct.org/), along with the WMF [Friendly space policy](https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy "wmf:Policy:Friendly space policy").
-
-Text from the Contributor Covenant and the jQuery Code of Conduct is used under the [MIT Licence](https://github.com/CoralineAda/contributor_covenant/blob/master/LICENSE) (Contributor Covenant has changed its licence to CC BY 4.0 now). The text from the Open Code of Conduct is used under a [Creative Commons Attribution licence](https://github.com/todogroup/opencodeofconduct/blob/gh-pages/LICENSE). The text from the Citizen Code of Conduct is used under a [Creative Commons Share-alike Attribution](https://creativecommons.org/licenses/by-sa/4.0/) licence. The overall text is under MediaWiki.org's standard licence ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
-
-We value each other's contributions and each contributor's commitment to making our technical spaces friendly spaces for everyone. We encourage other projects to adopt and adapt this code of conduct regardless of whether they use Wikimedia technical infrastructure.
-
-See also
---------
-
-Tracked in [Phabricator](https://phabricator.wikimedia.org/ "phabricator:")  
-**[Task T90908](https://phabricator.wikimedia.org/T90908 "phabricator:T90908")**  
-
-*   [Code of Conduct/FAQ](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/FAQ "Special:MyLanguage/Code of Conduct/FAQ")[](https://www.mediawiki.org/wiki/Code_of_Conduct/FAQ "Code of Conduct/FAQ")
-*   [Bug management/Phabricator etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/Bug_management/Phabricator_etiquette "Special:MyLanguage/Bug management/Phabricator etiquette")[](https://www.mediawiki.org/wiki/Bug_management/Phabricator_etiquette "Bug management/Phabricator etiquette")
-*   [m:Harassment policies](https://meta.wikimedia.org/wiki/Special:MyLanguage/Harassment_policies "m:Special:MyLanguage/Harassment policies")
-*   [wmf:Friendly space policy](https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy "wmf:Policy:Friendly space policy") and [m:Grants:Friendly space expectations](https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Friendly_space_expectations "m:Special:MyLanguage/Grants:Friendly space expectations")
-*   [wmf:Terms of Use#4. Refraining from Certain Activities](https://foundation.wikimedia.org/wiki/Terms_of_Use._Refraining_from_Certain_Activities "wmf:Terms of Use. Refraining from Certain Activities")
-*   [m:Mailing lists/Guidelines](https://meta.wikimedia.org/wiki/Special:MyLanguage/Mailing_lists/Guidelines "m:Special:MyLanguage/Mailing lists/Guidelines")
-*   [m:Community Capacity Development/Conflict management](https://meta.wikimedia.org/wiki/Special:MyLanguage/Community_Capacity_Development/Conflict_management "m:Special:MyLanguage/Community Capacity Development/Conflict management")
-*   [Code of Conduct policy](https://foundation.wikimedia.org/wiki/Policy:Code_of_conduct_policy "wmf:Policy:Code of conduct policy") for all Wikimedia Foundation staff and members of its Board of Trustees
-*   [Expected behavior](https://www.mediawiki.org/wiki/Special:MyLanguage/Expected_behavior "Special:MyLanguage/Expected behavior")[](https://www.mediawiki.org/wiki/Expected_behavior "Expected behavior")
-*   [m:Code of conduct](https://meta.wikimedia.org/wiki/Special:MyLanguage/Code_of_conduct "m:Special:MyLanguage/Code of conduct"), related links
-*   [Public meeting notes related to the CoC](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Meetings "Special:MyLanguage/Code of Conduct/Meetings")
-*   [Tenure in April 2018 - Resolution regarding CoC presence on MediaWiki](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee/Tenure_April2018/Resolution_regarding_CoC_presence_on_MediaWiki "Special:MyLanguage/Code of Conduct/Committee/Tenure April2018/Resolution regarding CoC presence on MediaWiki")
+[Catégorie:Club de football à Abidjan](https://www.mediawiki.org/w/index.php?title=Cat%C3%A9gorie:Club_de_football_%C3%A0_Abidjan&action=edit&redlink=1 "Catégorie:Club de football à Abidjan (page does not exist)")
 
 ![](https://www.mediawiki.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://www.mediawiki.org/w/index.php?title=Code\_of\_Conduct&oldid=7942451](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=7942451)"
+Retrieved from "[https://www.mediawiki.org/w/index.php?title=Code\_of\_Conduct&oldid=8340241](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8340241)"
