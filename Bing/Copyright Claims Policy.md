@@ -3,7 +3,7 @@ Intellectual Property Policies
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -11,7 +11,7 @@ This policy applies to all ad types.
 
 ##### Note
 
-This page was last updated on January 6, 2026.
+This page was last updated on April 8, 2026.
 
 As an advertiser, you are responsible for ensuring that your keywords and ad content, including trademarks and logos, do not infringe or violate the intellectual property rights of others.
 
@@ -90,7 +90,7 @@ Microsoft Advertising Network policies help advertisers and partners learn what 
 
 ##### Note
 
-To ensure consistency worldwide, Microsoft Advertising enforce our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
+To ensure consistency worldwide, Microsoft Advertising enforces our policies across our ad network using the English version. We provide translated versions as a courtesy to our clients, though the translations are not meant to change the content or meaning of the official policy language.
 
 ##### Important
 
@@ -98,7 +98,7 @@ This policy applies to all ad types.
 
 ##### Note
 
-This page was last updated on December 8, 2025.
+This page was last updated on April 8, 2026.
 
 As part of our commitment to provide the highest quality customer experience and to mitigate significant risks to public safety, we prohibit sites and apps that promote or facilitate unauthorized sharing of copyrighted content, or where the primary intent is to provide software or platforms that enable unauthorized sharing of copyrighted content.
 
