@@ -4959,16 +4959,16 @@ If we have indications that you are misusing our appeals function, we will suspe
 Which policies are considered to be egregious?
 ----------------------------------------------
 
-> *   [Circumventing systems](https://support.google.com/adspolicy/answer/6020954#901)
-> *   [Coordinated deceptive practices](https://support.google.com/adspolicy/answer/6020955#373)
+> *   [Circumventing systems](https://support.google.com/adspolicy/answer/15938075)
+> *   [Coordinated deceptive practices](https://support.google.com/adspolicy/answer/15938072)
 > *   [Counterfeit](https://support.google.com/adspolicy/answer/176017)
-> *   [Malicious software](https://support.google.com/adspolicy/answer/6020954#311)
-> *   [Prescription opioid painkillers](https://support.google.com/adspolicy/answer/176031#451)
-> *   [Promotion of unauthorized pharmacies](https://support.google.com/adspolicy/answer/176031#422)
-> *   [Unacceptable business practices](https://support.google.com/adspolicy/answer/6020955)
+> *   [Malicious software](https://support.google.com/adspolicy/answer/15939580)
+> *   [Prescription opioid painkillers](https://support.google.com/adspolicy/answer/15595821)
+> *   [Promotion of unauthorized pharmacies](https://support.google.com/adspolicy/answer/15595821)
+> *   [Unacceptable business practices](https://support.google.com/adspolicy/answer/15938071)
 > *   [Trade sanctions violation](https://support.google.com/adspolicy/answer/6023676#338)
-> *   [Sexually explicit content](https://support.google.com/adspolicy/answer/6015406#364)
-> *   [Child sexual abuse and exploitation](https://support.google.com/adspolicy/answer/6015406#366)
+> *   [Sexually explicit content](https://support.google.com/adspolicy/answer/16490050)
+> *   [Child sexual abuse and exploitation](https://support.google.com/adspolicy/answer/16520034)
 
 * * *
 
