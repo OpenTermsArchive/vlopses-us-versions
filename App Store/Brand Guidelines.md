@@ -943,10 +943,10 @@ The absence of a product or service name or logo from this list does not constit
 | Shop different℠ | slogan |
 | Shazam® | entertainment services |
 | Tap to Cash℠ | software feature |
-| Time to Run℠ | fitness program |
-| Time to Run and Push℠ | fitness program |
+| Time to Run® | fitness program |
+| Time to Run or Push® | fitness program |
 | Time to Walk® | fitness program |
-| Time to Walk and Push® | fitness program |
+| Time to Walk or Push® | fitness program |
 | Today at Apple® | experiential programs |
 | Vingle® | feature of online store |
 
@@ -1076,6 +1076,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of April 1, 2026.
+This list includes updates as of April 14, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
