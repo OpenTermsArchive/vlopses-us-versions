@@ -739,7 +739,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 [+/-](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Access_to_Temporary_Account_IP_Addresses_Policy/Summary&action=edit)
 
@@ -810,9 +810,9 @@ In the course of keeping the projects and other users safe, users may still need
 *   When it is reasonably believed to be necessary, users with access to temporary account IP addresses may also disclose the IP addresses in appropriate venues that enable them to enforce or investigate potential violations of our , the Privacy Policy, or any Wikimedia Foundation or user community-based policies. Appropriate venues for such disclosures include public pages dedicated to and . If such a disclosure is later shown to have been unnecessary or mistaken, then the IP address should be promptly removed from the page text and revision-deletion considered.
 *   Users who have agreed to the separate may also disclose temporary account IP addresses as permitted under that policy.
 
-If temporary account IP addresses need to be disclosed in connection to a , immediately email emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org with details of the request so that it can be evaluated for possible Foundation disclosure.
+If temporary account IP addresses need to be disclosed in connection to a , immediately email emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org with details of the request so that it can be evaluated for possible Foundation disclosure.
 
-Users can report any formal and informal requests they receive that do not fall under the authorized scope of this policy, including subpoenas from law enforcement, government agencies, attorneys, or other third parties, to the Wikimedia Foundation's legal department at legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.
+Users can report any formal and informal requests they receive that do not fall under the authorized scope of this policy, including subpoenas from law enforcement, government agencies, attorneys, or other third parties, to the Wikimedia Foundation's legal department at legal![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 Minimum requirements for access
 -------------------------------
@@ -871,13 +871,13 @@ Removing access
 
 An unnecessary or mistaken use or disclosure of temporary account IP addresses on its own is not grounds for removing the user right; a repeated pattern, intentional misuse, or local community consensus should be shown for removal. Users who are sitewide blocked from editing a Wikimedia project will lose access to temporary account IP addresses on that project.
 
-Members of a user group with automatic access who do not wish to have these access privileges should contact ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org.  are authorized to remove access rights for a user with automatic access if the user is determined to have repeatedly or intentionally misused the temporary account IP addresses or local community consensus dictates removal.
+Members of a user group with automatic access who do not wish to have these access privileges should contact ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.  are authorized to remove access rights for a user with automatic access if the user is determined to have repeatedly or intentionally misused the temporary account IP addresses or local community consensus dictates removal.
 
 [Other users](#Other_users) who have been given the user right manually may voluntarily give up their access at any time by visiting . This action is logged. If a user given the user right manually is determined to have repeatedly or intentionally misused temporary account IP addresses, or local community consensus dictates removal, then the users authorized to grant the right are also authorized to remove the right.
 
 Requests for stewards to remove or amend access to temporary account IP addresses may be placed on . When there is community consensus regarding revocation of a user's access rights, a link to the discussion must be provided.
 
-If necessary, requests for review by staff can be made through ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia.org, and user access rights removed in line with the . Complaints about infringements of the  will be escalated for review by the .
+If necessary, requests for review by staff can be made through ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org, and user access rights removed in line with the . Complaints about infringements of the  will be escalated for review by the .
 
 To ensure accountability, a log is kept of which users have access to temporary account IP addresses.
 
