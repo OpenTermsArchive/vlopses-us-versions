@@ -134,6 +134,20 @@ Permissions and APIs that Access Sensitive Information
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+*   To better protect user privacy, we're updating our [Location Permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the [location button](https://android-developers.googleblog.com/2026/03/location-privacy.html) as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
+    (effective October 28, 2026)
+    
+
+*   We're introducing the [Contacts Permissions](https://support.google.com/googleplay/android-developer/answer/16909972#contacts-permissions) policy to govern broad access of users' contacts. Apps that don't need broad access must use the [Android Contact Picker](https://developer.android.com/about/versions/17/features/contact-picker), a more secure, easy-to-integrate alternative that minimizes data collection and improves user safety.  
+    (This is a new policy, and will be effective October 28, 2026.)
+    
+
+To preview the updated “Permissions and APIs that Access Sensitive Information” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16909972).
+
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
 To promote user trust, Google Play mandates that requesting permissions and APIs that access sensitive user data must be necessary for the app's core functionalities as promoted in your Google Play listing and limited to user consented purposes.  Sensitive data must never be misused, under-disclosed, or accessed unnecessarily. Request permissions and sensitive APIs incrementally, explaining each level. Use data only as consented to, and obtain new consent for other purposes. Please review the full policy to ensure compliance.
@@ -171,6 +185,23 @@ Certain Restricted Permissions may be subject to additional requirements as deta
 | Follow the [User Data](https://support.google.com/googleplay/android-developer/answer) policy, because all data accessed through these permissions is sensitive. | Don't deny a user a reasonable alternative if they decline a Restricted Permission; ensure the app remains functional. |
 | Request dangerous permissions (for example, `READ_CALENDAR`) with a runtime request and a clear explanation. | Don't request without justification. Only request a restricted permission for a compelling, critical feature that has no alternative. |
 | Direct users to the system settings page for approval of special permissions (for example, `SYSTEM_ALERT_WINDOW`). |     |
+
+* * *
+
+Restricted Permissions with minimum scope alternatives
+------------------------------------------------------
+
+System pickers and alternatives like [Sharesheet](https://developer.android.com/training/sharing/send#why-to-use-system-sharesheet) are designed to support a privacy-oriented path for developers. Photos, Videos, Contacts, and other personal and sensitive data gated by restricted permissions should be treated with privacy best practices. Your app should only request and carry the sensitive permissions below if minimum scope alternatives are not sufficient to provide your core user functionality. For more information, see our [Help Center](https://support.google.com/googleplay/android-developer/answer/16935362).
+
+*   Photo and Video Permissions
+    ---------------------------
+    
+
+*   All user Photos are personal and sensitive data subject to the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311) policy.
+    
+
+*   Apps that target Android 13 or later (API level 33+) may only request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions if system pickers (like the [Android Photo Picker](https://developer.android.com/training/data-storage/shared/photo-picker)) are not sufficient for your app to provide core user functionality. Apps that still request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions must submit a Play Console declaration to demonstrate access needs for Photos and why Android Photo Picker (or alternatives) would not suffice.
+    
 
 * * *
 
@@ -268,43 +299,6 @@ Files and directory attributes on a user’s device are regarded as personal and
 | Clearly define and document your app's core functionality in your app review. | Don't store or share data beyond essential and disclosed needs. |
 | Clearly prompt users to enable “[All files access](https://developer.android.com/about/versions/11/privacy/storage#all-files-access)” for your app under “Special app access” settings. |     |
 | Ensure you review the [Android R requirements](https://goo.gle/play-help-all-files-access) for more information. |     |
-
-* * *
-
-Photo and Video Permissions
----------------------------
-
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy****Summary**
-
-To protect user privacy and security, Google Play requires apps that request `` `READ_MEDIA_IMAGES` `` or `` `READ_MEDIA_VIDEO` `` permissions to show strong, legitimate core use cases for persistent or frequent access to photos and videos. If your app does _not_ qualify for this access, you should remove the permissions. Instead, use a system picker like the more privacy-preserving Android Photo Picker for one-time or infrequent needs. Please review the full policy to ensure compliance.
-
-![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
-
-Photos and videos on a user’s device are regarded as personal and sensitive user data subject to Google Play's [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638283094302146844-815564681&rd=1). Apps may only access photos and videos for purposes directly related to app functionality, and may not request access on behalf of any third-party for any purpose unrelated to user-facing app functionality. For a more privacy preserving experience, we encourage the use of a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
-
-Apps requiring broad access to photos and video files located in shared storage on devices must successfully pass an appropriate access review and demonstrate a core use case that requires persistent or frequent photo/video access of files located in shared storage. Apps that have a one-time or infrequent need to access these files are requested to use a system picker, such as the Android [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
-
-Broad access to photos and videos are also subject to the following requirements:
-
-*   Apps that target Android 13 (API level 33) or later, require the [`` `READ_MEDIA_IMAGES` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_IMAGES%3C/code%3E) permission or [`` `READ_MEDIA_VIDEO` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_VIDEO%3C/code%3E) permission in order to obtain broad access to photos or video files located in shared storage on the device. All apps that target Android 13 and above and request the `READ_MEDIA_IMAGES` or `READ_MEDIA_VIDEO` permissions must successfully pass an appropriate access review before publishing.
-    *   Apps that request access to the `` `READ_MEDIA_VIDEO` `` or `` `READ_MEDIA_IMAGES` `` permission must successfully demonstrate a core use case that requires persistent or frequent need of photo/video access located in shared storage.
-
-If your app does not require or qualify for broad access to the `` `READ_MEDIA_VIDEO` `` or `` `READ_MEDIA_IMAGES` `` permissions, you must remove it from your app’s manifest in order to successfully meet the policy review requirements.
-
-In accordance with the [`Restricted Permissions policy`](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en), you must make a reasonable effort to accommodate users who do not grant broad access to media files on their device. This includes gracefully facilitating an accommodative app experience where users can still enjoy the feature or core functionality of your app.
-
-Apps that have a legitimate access case for photos or videos, but do not qualify for the `` `READ_MEDIA_IMAGES` `` nor `` `READ_MEDIA_VIDEO` `` permission may use a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker). For additional information, please see this [Help Center](https://support.google.com/googleplay/android-developer/answer/14115180) article.
-
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
-
-|     |     |
-| --- | --- |
-| **Do** | **Don't** |
-| Submit a [declaration form](https://goo.gle/play-permission-decl-form) in your Play Console. | Don't collect more photo or video data than necessary. |
-| Use a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photo-picker) if you don’t need broad access. | Don't attempt to bypass or manipulate user consent. |
-| Provide evidence to justify your use case during app review. | Don't block or gate functionality if a user declines a non-critical permission. Instead, use a system picker to gracefully handle the file request. |
-| Clearly explain to users why your app needs these permissions. |     |
-| Review the [Details on Google Play's Photo and Video Permissions policy](https://support.google.com/googleplay/android-developer/answer/14115180) for more information. |     |
 
 * * *
 
