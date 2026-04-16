@@ -4,7 +4,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 **Trademark policy**
 
@@ -319,7 +319,7 @@ While we have certain legal obligations, we do not want trademark requirements t
 
 We are also thinking creatively about how we can make it easier for community members to use the marks to further the Wikimedia .
 
-To that end, we have introduced a liberal solution in the trademark policy for particular uses of Wikimedia marks called the "[Quick License](#QuickLicense)." It is a Quick License because instead of requesting a license and waiting for it to be prepared, community members just need to fill it out and email it to trademarks![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. While the Quick License makes trademark use easier for common community uses, it includes some measures to maintain trademark protection of the Wikimedia marks. The license includes a quality control requirement and a reservation of a right to terminate the license if a mark is used in a way that is inconsistent with the Wikimedia mission.
+To that end, we have introduced a liberal solution in the trademark policy for particular uses of Wikimedia marks called the "[Quick License](#QuickLicense)." It is a Quick License because instead of requesting a license and waiting for it to be prepared, community members just need to fill it out and email it to trademarks![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org. While the Quick License makes trademark use easier for common community uses, it includes some measures to maintain trademark protection of the Wikimedia marks. The license includes a quality control requirement and a reservation of a right to terminate the license if a mark is used in a way that is inconsistent with the Wikimedia mission.
 
 ### 5\. What else is new?
 
@@ -352,7 +352,7 @@ It is a trademark that is a text-only word (like "Wikipedia" or "Wikimedia") tha
 
 #### 1.2 What is a "non-stylized wordmark"?
 
-Non-stylized wordmarks are simply words like "Wikimedia" and the project names, like "Wikipedia," "Wiktionary," and so on. In comparison, the stylized wordmarks are these names in their special formats, such as with certain fonts. For example, the special format for the "Wikipedia" wordmark looks like this: [![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wikipedia_wordmark.svg/120px-Wikipedia_wordmark.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikipedia_wordmark.svg). Both stylized and non-stylized wordmarks are trademarks of the Wikimedia Foundation.
+Non-stylized wordmarks are simply words like "Wikimedia" and the project names, like "Wikipedia," "Wiktionary," and so on. In comparison, the stylized wordmarks are these names in their special formats, such as with certain fonts. For example, the special format for the "Wikipedia" wordmark looks like this: [![](//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Wikipedia_wordmark.svg/120px-Wikipedia_wordmark.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikipedia_wordmark.svg). Both stylized and non-stylized wordmarks are trademarks of the Wikimedia Foundation.
 
 #### 1.3 What is "trade dress"?
 
