@@ -1062,6 +1062,16 @@ Choose a section to give feedback on
 Play Console Requirements
 =========================
 
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+To ensure a safe and trusted ecosystem, we're introducing the [Account Transfer](https://support.google.com/googleplay/android-developer/answer/16911971#account_transfer) policy to require developers to use the official "Transfer ownership" workflow within the Play Console. If eligible, use this process to transfer your developer account.
+
+(effective May 27, 2026)
+
+To preview the updated “Play Console Requirements” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16911971).
+
 To ensure the safety and security of our vibrant app ecosystem, Google Play requires all developers to complete Play Console requirements, including any profiles that are linked to your Play Console developer account. Verified information will be shown on Google Play to help users build trust and confidence with developers. Learn more about the [information that’s displayed on Google Play](https://support.google.com/googleplay/android-developer/answer/10841920?sjid=14472573657234789663-AP#developer-information).
 
 Google Play offers two developer account types: Personal and Organization. Selecting the correct type of developer account and completing the necessary verifications is key to a smooth onboarding experience. Learn more about [choosing a developer account type](https://support.google.com/googleplay/android-developer/answer/13634885).
@@ -1136,7 +1146,7 @@ Choose a section to give feedback on
 Developer Program Policy
 ========================
 
-_(effective March 4, 2026, unless otherwise stated)_
+_(effective April 15, 2026, unless otherwise stated)_
 
 * * *
 
@@ -1287,7 +1297,7 @@ We don't allow apps that facilitate the sale of marijuana or marijuana products,
 
 We don't allow apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) or encourage the illegal or inappropriate use of alcohol, tobacco, or nicotine.
 
-**Additional information**
+**Here are some examples of common violations:**
 
 *   Depicting or encouraging the use or sale of alcohol or tobacco to minors is not allowed.
 *   Implying that consuming tobacco can improve social, sexual, professional, intellectual, or athletic standing is not allowed.
@@ -1303,7 +1313,7 @@ We don't allow apps that facilitate the sale of tobacco or products containing n
 To help ensure the safety of children and prevent access to potentially harmful content, apps meeting the descriptions below are required to use the [Play Console functionality and tools to block minors](https://support.google.com/googleplay/android-developer/answer/9867159):
 
 1.  Apps that facilitate [Real Money Gambling, Games, and Contests](https://support.google.com/googleplay/android-developer/answer/9877032).
-2.  Apps that facilitate [matchmaking or dating](https://support.google.com/googleplay/android-developer/answer/16838200).
+2.  Apps whose core functionality is to facilitate [matchmaking or dating](https://support.google.com/googleplay/android-developer/answer/16838200). Apps where matchmaking or dating is an incidental feature are not required to block minors, provided they implement appropriate age-gating safeguards to prevent minors from accessing those specific features.
 
 * * *
 
@@ -1407,7 +1417,7 @@ Personal loan apps targeting the listed countries must comply with additional re
     *   In addition to the above information, personal loan apps targeting Thailand, with interest rates below 15%, must also include the following:
         *   The statement “This is a non-regulated loan provider under the BoT/FPO”.
 
-**Here is an example of a common violation:**
+**Here are some examples of common violations:**
 
 ![](//lh3.googleusercontent.com/URFEoDBYeyZBpF7w8DWhe6BdvNm53j4U_-Wm0hq-ZmuttArlO_9u9tKBf3VT-CA8eSk=w600-h1100)
 
@@ -1578,7 +1588,8 @@ We don't allow apps that expose users to harmful health content and services. 
 
 If your app contains or promotes health content and services, you must ensure your app is compliant with any applicable laws and regulations.
 
-#### **Health and Medical Apps**
+Health and Medical Apps
+-----------------------
 
 If your app offers health-related features or information as part of its functionality, or accesses health data to support non-health features, it must comply with the existing Google Play Developer Policies, including [Privacy, Deception and Device Abuse](https://support.google.com/googleplay/android-developer/topic/9877467.sjid=4099002138806266388-AP), in addition to the below requirements:
 
@@ -1653,10 +1664,6 @@ We don’t allow apps containing misleading health claims that contradict existi
 ![](//x20web.corp.google.com/teams/play-kmt/no_crawl/arhc/images/quebec_cancer_example.png)
 
 (1) This app features medical or health-related claims (cures cancer) that are misleading.
-
-#### Medical Functionalities
-
-We don’t allow apps that feature medical or health-related functionalities that are misleading or potentially harmful. For example, we do not allow apps that claim to have oximetry functionality that is solely app-based. Oximeter apps must be supported by external hardware, wearable, or dedicated smartphone sensors designed to support oximetry functionality. These supported apps must also contain disclaimers in the metadata stating that they are not intended for medical use, are only designed for general fitness and wellness purposes, are not a medical device, and must properly disclose the compatible hardware model/device model.
 
 Payments - Clinical Services
 ----------------------------
@@ -1920,7 +1927,8 @@ Requests for permission and APIs that access sensitive information should make s
 
 Request permissions and APIs that access sensitive information to access data in context (via incremental requests), so that users understand why your app is requesting the permission. Use the data only for purposes that the user has consented to. If you later wish to use the data for other purposes, you must ask users and make sure they affirmatively agree to the additional uses.
 
-#### Restricted Permissions
+Restricted Permissions
+----------------------
 
 In addition to the above, restricted permissions are permissions that are designated as [Dangerous](https://developer.android.com/guide/topics/permissions/overview#dangerous_permissions), [Special](https://developer.android.com/guide/topics/permissions/overview#special_permissions),  [Signature](https://developer.android.com/guide/topics/permissions/overview#signature_permissions), or as documented below. These permissions are subject to the following additional requirements and restrictions:
 
@@ -1929,6 +1937,21 @@ In addition to the above, restricted permissions are permissions that are design
 *   Use of permissions in violation of Google Play [malware policies](https://support.google.com/googleplay/android-developer/answer/9888380) (including [Elevated Privilege Abuse](https://support.google.com/googleplay/android-developer/answer/9888380)) is expressly prohibited.
 
 Certain Restricted Permissions may be subject to additional requirements as detailed below. The objective of these restrictions is to safeguard user privacy. We may make limited exceptions to the requirements below in very rare cases where apps provide a highly compelling or critical feature and where there is no alternative method available to provide the feature. We evaluate proposed exceptions against the potential privacy or security impacts on users.
+
+Restricted Permissions with minimum scope alternatives
+------------------------------------------------------
+
+System pickers and alternatives like [Sharesheet](https://developer.android.com/training/sharing/send#why-to-use-system-sharesheet) are designed to support a privacy-oriented path for developers. Photos, Videos, Contacts, and other personal and sensitive data gated by restricted permissions should be treated with privacy best practices. Your app should only request and carry the sensitive permissions below if minimum scope alternatives are not sufficient to provide your core user functionality. For more information, see our [Help Center](https://support.google.com/googleplay/android-developer/answer/16935362).
+
+*   Photo and Video Permissions
+    ---------------------------
+    
+
+*   All user Photos are personal and sensitive data subject to the [User Data](https://support.google.com/googleplay/android-developer/answer/10144311) policy.
+    
+
+*   Apps that target Android 13 or later (API level 33+) may only request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions if system pickers (like the [Android Photo Picker](https://developer.android.com/training/data-storage/shared/photo-picker)) are not sufficient for your app to provide core user functionality. Apps that still request the `READ_MEDIA_IMAGES` and `READ_MEDIA_VIDEO` permissions must submit a Play Console declaration to demonstrate access needs for Photos and why Android Photo Picker (or alternatives) would not suffice.
+    
 
 SMS and Call Log Permissions
 ----------------------------
@@ -1970,24 +1993,6 @@ Files and directory attributes on a user’s device are regarded as personal and
 
 *   Apps should only request access to device storage which is critical for the app to function, and may not request access to device storage on behalf of any third-party for any purpose that is unrelated to critical user-facing app functionality.
 *   Android devices running R or later, will require the [`` `MANAGE_EXTERNAL_STORAGE` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EMANAGE_EXTERNAL_STORAGE%3C/code%3E) permission in order to manage access in shared storage. All apps that target R and request broad access to shared storage (“All files access”) must successfully pass an appropriate access review prior to publishing. Apps allowed to use this permission must clearly prompt users to enable “All files access” for their app under “Special app access” settings. For more information on the R requirements, please see this [help article](https://support.google.com/googleplay/android-developer/answer/9956427).
-
-Photo and Video Permissions
----------------------------
-
-Photos and videos on a user’s device are regarded as personal and sensitive user data subject to Google Play's [User Data policy](https://support.google.com/googleplay/android-developer/answer/10144311?visit_id=638283094302146844-815564681&rd=1). Apps may only access photos and videos for purposes directly related to app functionality, and may not request access on behalf of any third-party for any purpose unrelated to user-facing app functionality. For a more privacy preserving experience, we encourage the use of a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
-
-Apps requiring broad access to photos and video files located in shared storage on devices must successfully pass an appropriate access review and demonstrate a core use case that requires persistent or frequent photo/video access of files located in shared storage. Apps that have a one-time or infrequent need to access these files are requested to use a system picker, such as the Android [photo picker](https://developer.android.com/training/data-storage/shared/photopicker).
-
-Broad access to photos and videos are also subject to the following requirements:
-
-*   Apps that target Android 13 (API level 33) or later, require the [`` `READ_MEDIA_IMAGES` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_IMAGES%3C/code%3E) permission or [`` `READ_MEDIA_VIDEO` ``](https://developer.android.com/reference/android/Manifest.permission#%3Ccode%3EREAD_MEDIA_VIDEO%3C/code%3E) permission in order to obtain broad access to photos or video files located in shared storage on the device. All apps that target Android 13 and above and request the `READ_MEDIA_IMAGES` or `READ_MEDIA_VIDEO` permissions must successfully pass an appropriate access review before publishing.
-    *   Apps that request access to the `` `READ_MEDIA_VIDEO` `` or `` `READ_MEDIA_IMAGES` `` permission must successfully demonstrate a core use case that requires persistent or frequent need of photo/video access located in shared storage.
-
-If your app does not require or qualify for broad access to the `` `READ_MEDIA_VIDEO` `` or `` `READ_MEDIA_IMAGES` `` permissions, you must remove it from your app’s manifest in order to successfully meet the policy review requirements.
-
-In accordance with the [`Restricted Permissions policy`](https://support.google.com/googleplay/android-developer/answer/9888170?hl=en), you must make a reasonable effort to accommodate users who do not grant broad access to media files on their device. This includes gracefully facilitating an accommodative app experience where users can still enjoy the feature or core functionality of your app.
-
-Apps that have a legitimate access case for photos or videos, but do not qualify for the `` `READ_MEDIA_IMAGES` `` nor `` `READ_MEDIA_VIDEO` `` permission may use a system picker such as the [photo picker](https://developer.android.com/training/data-storage/shared/photopicker). For additional information, please see this [Help Center](https://support.google.com/googleplay/android-developer/answer/14115180) article.
 
 Package (App) Visibility Permission
 -----------------------------------
@@ -2216,8 +2221,6 @@ Apps or third-party code, like SDKs, with interpreted languages (JavaScript, Pyt
 
 We don’t allow code that introduces or exploits security vulnerabilities. Check out the [App Security Improvement Program](https://developer.android.com/google/play/asi.html#campaigns) to find out about the most recent security issues flagged to developers.
 
-**Here are some examples of common violations:**
-
 #### Examples of common Device and Network Abuse violations:
 
 *   Apps that block or interfere with another app displaying ads.
@@ -2396,6 +2399,18 @@ For exact timelines and exceptions, please refer to this [Help Center article](h
 
 * * *
 
+### **Use of SDKs In Apps**
+
+If you include an SDK in your app, you are responsible for ensuring that their third-party code and practices do not cause your app to violate Google Play Developer Program Policies. It is important to be aware of how the SDKs in your app handle user data and to ensure you know what permissions they use, what data they collect, and why.
+
+### SDK Requirements
+
+App developers often rely on third-party code (for example, an SDK) to integrate key functionality and services for their apps. When including an SDK in your app, you want to make sure that you can keep your users safe and your app secure from any vulnerabilities. In this section, we demonstrate how some of our existing privacy and security requirements apply in the SDK context and are designed to help developers safely and securely integrate SDKs into their apps.
+
+If you include an SDK in your app, you are responsible for ensuring that their third-party code and practices do not cause your app to violate Google Play Developer Program Policies. It is important to be aware of how the SDKs in your app handle user data and to ensure you know what permissions they use, what data they collect, and why.  Remember, an SDK's collection and handling of user data must align with your app's policy compliant use of said data.
+
+To help ensure your use of an SDK does not violate policy requirements, read and understand the following policies in their entirety and note some of their existing requirements pertaining to SDKs below:
+
 #### User Data Policy
 
 You must be transparent in how you handle user data (for example, information collected from or about a user, including device information). That means disclosing the access, collection, use, handling, and sharing of user data from your app, and limiting the use of the data to the policy compliant purposes disclosed.
@@ -2487,18 +2502,6 @@ See the full [malware policy](https://support.google.com/googleplay/android-deve
 *   An app that disables SELinux.
 *   An app includes an SDK that violates the Android permissions model by gaining elevated privileges through the access of device data for an undisclosed purpose.
 *   An app includes an SDK with code that tricks users into subscribing to or purchasing content via their mobile phone bill.
-
-### **Use of SDKs In Apps**
-
-If you include an SDK in your app, you are responsible for ensuring that their third-party code and practices do not cause your app to violate Google Play Developer Program Policies. It is important to be aware of how the SDKs in your app handle user data and to ensure you know what permissions they use, what data they collect, and why.
-
-### SDK Requirements
-
-App developers often rely on third-party code (for example, an SDK) to integrate key functionality and services for their apps. When including an SDK in your app, you want to make sure that you can keep your users safe and your app secure from any vulnerabilities. In this section, we demonstrate how some of our existing privacy and security requirements apply in the SDK context and are designed to help developers safely and securely integrate SDKs into their apps.
-
-If you include an SDK in your app, you are responsible for ensuring that their third-party code and practices do not cause your app to violate Google Play Developer Program Policies. It is important to be aware of how the SDKs in your app handle user data and to ensure you know what permissions they use, what data they collect, and why.  Remember, an SDK's collection and handling of user data must align with your app's policy compliant use of said data.
-
-To help ensure your use of an SDK does not violate policy requirements, read and understand the following policies in their entirety and note some of their existing requirements pertaining to SDKs below:
 
 Privilege escalation apps that root devices without user permission are classified as rooting apps.
 
@@ -2941,7 +2944,7 @@ Google Play supports a variety of monetization strategies to benefit developers 
 
 1.  Developers charging for app downloads from Google Play must use Google Play's billing system as the method of payment for those transactions.
 
-2.  Play-distributed apps requiring or accepting payment for access to in-app features or services, including any app functionality, digital content or goods (collectively “in-app purchases”), must use Google Play’s billing system for those transactions unless Section 3, Section 8, or Section 9 applies.
+2.  Play-distributed apps requiring or accepting payment for access to in-app features or services, including any app functionality, digital content or goods (collectively “in-app purchases”), must use Google Play’s billing system for those transactions unless Section 3, 8, or 9 applies.
     
     Examples of app features or services requiring use of Google Play's billing system include, but are not limited to, in-app purchases of:
     
@@ -2978,10 +2981,10 @@ Google Play supports a variety of monetization strategies to benefit developers 
 7.  Apps and games offering mechanisms to receive randomized virtual items from a purchase including, but not limited to, “loot boxes” must clearly disclose the odds of receiving those items in advance of, and in close and timely proximity to, that purchase.
     
 
-8.  Unless the conditions described in Section 3 apply, developers of Play-distributed apps requiring or accepting payment from users in these [countries/regions](https://support.google.com/googleplay/android-developer/answer/13821247) for access to in-app purchases may offer users an alternative billing system within the app alongside Google Play's billing system for those transactions if they successfully complete the billing declaration form for each respective program and agree to the additional terms and [program requirements](https://support.google.com/googleplay/android-developer/answer/12570971) included therein.
+8.  Developers serving users in [eligible countries/regions](https://support.google.com/googleplay/android-developer/answer/13821247) may offer users an alternative billing system within the app if they enroll in the [applicable program](https://support.google.com/googleplay/android-developer/topic/16471708) and agree to the additional terms and program requirements.
     
 
-9.  Developers of Play-distributed apps may lead users in the European Economic Area (EEA) outside the app, including to promote offers for digital in-app features and services. Developers who lead EEA users outside the app must successfully complete the [declaration form](https://support.google.com/googleplay/android-developer/contact/external_offers_program) for the program and agree to the additional terms and [program requirements](https://support.google.com/googleplay/android-developer/answer/14372887) included therein.
+9.  Developers may lead users in eligible countries/regions outside the app [subject to program requirements](https://support.google.com/googleplay/android-developer/topic/16470499)**,** provided they enroll in the applicable program and agree to the additional terms and [program requirements](https://support.google.com/googleplay/android-developer/topic/16470499).
     
 
 **Note:** To view timelines and frequently asked questions regarding this policy, please visit our [Help Center](https://support.google.com/googleplay/android-developer/answer/10281818).
@@ -3495,9 +3498,9 @@ We don’t allow apps that crash, force close, freeze, or otherwise function abn
 
 **Here are some examples of common violations:**
 
-*   Apps that **don’t install**
-*   Apps that install, but **don’t load** ![](//lh3.googleusercontent.com/8Stc92Uebx_6XLNG0-cE6IlFertNFab0nNjhdKrihRS3teDiGk1ePWnAcC5w6W_qIg=h839)
-*   Apps that load, but are **not responsive** ![](//lh3.googleusercontent.com/VG3exQhozTq3qrIuen3HBMeLGDWBtedEkseEgSlyBMVtuYGJQ-OD3gruKvXogAozuDA=h839)
+*   Apps that don’t install
+*   Apps that install, but don’t load ![](//lh3.googleusercontent.com/8Stc92Uebx_6XLNG0-cE6IlFertNFab0nNjhdKrihRS3teDiGk1ePWnAcC5w6W_qIg=h839)
+*   Apps that load, but are not responsive ![](//lh3.googleusercontent.com/VG3exQhozTq3qrIuen3HBMeLGDWBtedEkseEgSlyBMVtuYGJQ-OD3gruKvXogAozuDA=h839)
 
 * * *
 
