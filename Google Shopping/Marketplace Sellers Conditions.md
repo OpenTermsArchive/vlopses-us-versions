@@ -4964,7 +4964,7 @@ Which policies are considered to be egregious?
 > *   [Counterfeit](https://support.google.com/adspolicy/answer/176017)
 > *   [Malicious software](https://support.google.com/adspolicy/answer/15939580)
 > *   [Prescription opioid painkillers](https://support.google.com/adspolicy/answer/15595821)
-> *   [Promotion of unauthorized pharmacies](https://support.google.com/adspolicy/answer/15595821)
+> *   [Promotion of unauthorized pharmacies](https://support.google.com/adspolicy/answer/15596326)
 > *   [Unacceptable business practices](https://support.google.com/adspolicy/answer/15938071)
 > *   [Trade sanctions violation](https://support.google.com/adspolicy/answer/6023676#338)
 > *   [Sexually explicit content](https://support.google.com/adspolicy/answer/16490050)
