@@ -399,17 +399,21 @@ one hour, after which Customer must delete the cached Google Maps Content
 
 18_._6 Section 3.2.2 (a) (_Terms of Service and Privacy Policy)_ of the Google Maps Platform Terms of Service does not apply_._
 
-**19\. Maps Grounding Lite API (Experimental)**
-
-Maps Grounding Lite API is a pre-GA service that can be used by customers for testing. It is not permitted for production use at this stage.
+**19\. Maps Grounding Lite API**
 
 19.1 _Definitions_.
 
-"Grounded Output" means the output created when Google Maps Content is combined with the output of any Large Language Model.
+"Grounded Output" means the output created when Google Maps Content is combined with the output of any LLM.
 
 "Google Maps Content" means the content originating from Google Maps provided in the Grounded Output, including any content found on the landing pages of source links within the Grounded Output.
 
-19.2 _Permitted Use_. Subject to Customer’s compliance with the Agreement, the Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy), and this Section 19, Customer may use the Maps Grounding Lite API solely to ground an LLM to generate and display Grounded Output with associated Google Maps source links to end users of its Customer Application.
+"Large Language Model" or "LLM" means a generative artificial intelligence model trained on large datasets to recognize, summarize, translate, predict, and generate text or other content in response to user-provided prompts or queries.
+
+19.2 _Permitted Use_. For clarity, Google Maps Content contained in Grounded Output remains subject to use restrictions applicable to Google Maps Content in the Agreement, including the prohibition on model training. As a limited exception:
+
+19.2.1 to the prohibition on using Google Maps Content to create content, Customer may use the Maps Grounding Lite API to ground a LLM to generate and display Grounded Output to End Users if (i) Customer complies with the Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy) and (ii) Customer includes associated Google Maps source links with the Grounded Output;
+
+19.2.2 to the prohibition on caching or storing Google Maps Content, Customer may cache Grounded Output for up to thirty (30) consecutive days solely for the purpose of evaluating and optimizing the performance or display of the Grounded Output for the Customer Application.
 
 19.3 _Additional Restrictions_. In addition to the license restrictions in the Agreement, Customer will not, and will not permit its End Users or third-parties to, do any of the following:
 
@@ -417,9 +421,9 @@ Maps Grounding Lite API is a pre-GA service that can be used by customers for te
 
 19.3.2 use Grounded Output to train, develop, or improve any machine learning models or artificial intelligence systems;
 
-19.3.3 modify or intersperse content with the Grounded Output, insert interstitial content, or redirect users away from or inhibit the full display of any destination page;
+19.3.3 modify or intersperse content with the Grounded Output, insert interstitial content, or redirect users away from or inhibit the full display of any destination page.
 
-19.3.4 cache or store Grounded Output, except that Customer may cache Grounded Output for up to thirty (30) consecutive days solely for the purpose of evaluating and optimizing the performance or display of the Grounded Output for the Customer Application.
+19.4 _No Responsibility for LLMs._ Google is not responsible for the acts or omissions of any LLM provider. This includes, without limitation: (i) the accuracy or factual correctness of Grounded Output produced by an LLM, and (ii) excessive usage charges resulting from an LLM’s automated request behavior.
 
 #### C. ANALYTICS SERVICE TERMS
 
