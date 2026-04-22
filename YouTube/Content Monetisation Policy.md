@@ -310,6 +310,7 @@ What’s not included in the Creator Pool:
 *   Revenue associated with views of Shorts that are determined to be ineligible.
 *   Revenue associated with any ads shown upon opening the Shorts Feed before a Short is viewed (e.g. the YouTube Shorts Masthead).
 *   Revenue associated with any ads shown on navigational pages within the Shorts player.
+*   Revenue associated with Image Posts appearing in the Shorts Feed
 
 ### Understand with an example
 
