@@ -460,6 +460,8 @@ Maps Datasets API
 
 Maps Embed API
 
+Maps Grounding Lite API
+
 Maps JavaScript API
 
 Maps SDK for Android
