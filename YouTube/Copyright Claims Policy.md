@@ -56,7 +56,7 @@ The majority of copyright claims and removal requests on YouTube come from our a
 
 We empower uploaders to report wrongful takedown requests, and we measure how often creators push back against [removals](https://support.google.com/youtube/answer/2807684) and [Content ID claims](https://support.google.com/youtube/answer/2797454) in our [Copyright Transparency Report](https://transparencyreport.google.com/youtube-copyright/intro).
 
-Of the more than 1 billion Content ID claims made between July 2023 and December 2023, fewer than 1% have been disputed. Over 65% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim’s release. ([Source](https://transparencyreport.google.com/youtube-copyright/intro))
+Of the more than 2 billion Content ID claims made in 2024, fewer than 1% have been disputed. Over 70% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim’s release. ([Source](https://transparencyreport.google.com/youtube-copyright/intro))
 
 - - -
 
