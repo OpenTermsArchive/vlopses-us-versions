@@ -121,7 +121,7 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Unive
 
 From mediawiki.org
 
-[Translate this page](https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Code+of+Conduct&action=page&filter=&action_source=translate_page "Special:Translate")
+[Translate this page](https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Code+of+Conduct&action=page&filter=&action_source=translate_page "Special:Translate"); This page contains [changes](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8340243&diff=8351460) which are not marked for translation.
 
 | Code of Conduct for  <br>Wikimedia Technical Spaces |
 | --- |
@@ -210,10 +210,10 @@ Tracked in [Phabricator](https://phabricator.wikimedia.org/ "phabricator:")
 *   [Bug management/Phabricator etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/Bug_management/Phabricator_etiquette "Special:MyLanguage/Bug management/Phabricator etiquette")[](https://www.mediawiki.org/wiki/Bug_management/Phabricator_etiquette "Bug management/Phabricator etiquette")
 *   [m:Harassment policies](https://meta.wikimedia.org/wiki/Special:MyLanguage/Harassment_policies "m:Special:MyLanguage/Harassment policies")
 *   [wmf:Friendly space policy](https://foundation.wikimedia.org/wiki/Policy:Friendly_space_policy "wmf:Policy:Friendly space policy") and [m:Grants:Friendly space expectations](https://meta.wikimedia.org/wiki/Special:MyLanguage/Grants:Friendly_space_expectations "m:Special:MyLanguage/Grants:Friendly space expectations")
-*   [wmf:Terms of Use#4. Refraining from Certain Activities](https://foundation.wikimedia.org/wiki/Terms_of_Use._Refraining_from_Certain_Activities "wmf:Terms of Use. Refraining from Certain Activities")
+*   [wmf:Terms of Use#4. Refraining from Certain Activities](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#4._Refraining_from_Certain_Activities "wmf:Policy:Terms of Use")
 *   [m:Mailing lists/Guidelines](https://meta.wikimedia.org/wiki/Special:MyLanguage/Mailing_lists/Guidelines "m:Special:MyLanguage/Mailing lists/Guidelines")
 *   [m:Community Capacity Development/Conflict management](https://meta.wikimedia.org/wiki/Special:MyLanguage/Community_Capacity_Development/Conflict_management "m:Special:MyLanguage/Community Capacity Development/Conflict management")
-*   [Code of Conduct policy](https://foundation.wikimedia.org/wiki/Policy:Code_of_conduct_policy "wmf:Policy:Code of conduct policy") for all Wikimedia Foundation staff and members of its Board of Trustees
+*   [Code of Conduct policy](https://foundation.wikimedia.org/wiki/Policy:Wikimedia_Foundation_Code_of_Conduct "wmf:Policy:Wikimedia Foundation Code of Conduct") for all Wikimedia Foundation staff and members of its Board of Trustees
 *   [Expected behavior](https://www.mediawiki.org/wiki/Special:MyLanguage/Expected_behavior "Special:MyLanguage/Expected behavior")[](https://www.mediawiki.org/wiki/Expected_behavior "Expected behavior")
 *   [m:Code of conduct](https://meta.wikimedia.org/wiki/Special:MyLanguage/Code_of_conduct "m:Special:MyLanguage/Code of conduct"), related links
 *   [Public meeting notes related to the CoC](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Meetings "Special:MyLanguage/Code of Conduct/Meetings")
@@ -221,4 +221,4 @@ Tracked in [Phabricator](https://phabricator.wikimedia.org/ "phabricator:")
 
 ![](https://www.mediawiki.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://www.mediawiki.org/w/index.php?title=Code\_of\_Conduct&oldid=8340243](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8340243)"
+Retrieved from "[https://www.mediawiki.org/w/index.php?title=Code\_of\_Conduct&oldid=8351460](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8351460)"
