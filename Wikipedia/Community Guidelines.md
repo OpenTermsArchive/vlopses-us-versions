@@ -121,7 +121,7 @@ Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Unive
 
 From mediawiki.org
 
-[Translate this page](https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Code+of+Conduct&action=page&filter=&action_source=translate_page "Special:Translate"); This page contains [changes](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8340243&diff=8351460) which are not marked for translation.
+[Translate this page](https://www.mediawiki.org/w/index.php?title=Special:Translate&group=page-Code+of+Conduct&action=page&filter=&action_source=translate_page "Special:Translate")
 
 | Code of Conduct for  <br>Wikimedia Technical Spaces |
 | --- |
