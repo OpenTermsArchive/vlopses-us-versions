@@ -247,6 +247,8 @@ We will notify you as appropriate if we make material changes to this WhatsApp P
 Adding your WhatsApp account to an Accounts Center
 ==================================================
 
+Accounts Center will become your [Meta Account](https://www.meta.com/help/meta-account/876751767182450). We are gradually rolling out this update so you may see either Accounts Center or Meta Account settings as the place to manage your settings across apps. WhatsApp can be added optionally and will not be in a Meta Account unless you previously added it to your Accounts Center or choose to add it to your Meta Account when it's available to you.
+
 What is WhatsApp in Accounts Center
 -----------------------------------
 
