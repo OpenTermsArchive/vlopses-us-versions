@@ -279,7 +279,7 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 Temu may offer one or more withdrawal methods (e.g., PayPal,Temu credit, depending on your country of residence), each of which is subject to specific daily withdrawal limits and transaction caps. For example:
 
-• PayPal: Up to $1,000 for your first withdrawl. Up to $10,000 per day; max 5 withdrawals per day. • Temu credit: Up to $10,000 for your first withdrawl. Up to $10,000 per day; max 5 withdrawals per day.
+• PayPal: Up to $1,000 for your first withdrawal. Up to $10,000 per day; max 5 withdrawals per day. • Temu credit: Up to $10,000 for your first withdrawal. Up to $10,000 per day; max 5 withdrawals per day.
 
 8\. If the withdrawal method you choose involves different currencies, the applicable exchange rate shall be subject to the rate displayed on the withdrawal page at the time of withdrawal.
 
