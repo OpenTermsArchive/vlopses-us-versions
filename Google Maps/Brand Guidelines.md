@@ -1,32 +1,125 @@
-#### Terms and Conditions
+1.  [Brands](https://about.google/en-us/homepage/brands/)
+2.  Google
+3.  Trademarks and Terms
+4.  Terms and Conditions
 
-Overview of our brand terms and conditions
+Brands Select a brand Google
 
-*   If granted permission to use Google Brand Features, you will do so in accordance with our terms.
-*   If you are using Google Brand Features, you must indicate that those features belong to us.
+*   Android
+*   Android Auto
+*   Android Enterprise
+*   Android TV
+*   Android XR
+*   Cars with Google built-in
+*   Chrome
+*   Chromebook
+*   Diversity and inclusion
+*   Family Link
+*   Fast Pair
+*   Find Hub
+*   Fitbit
+*   Google
+*   Google Assistant
+*   Google Cast
+*   Google Gemini
+*   Google Lens
+*   Google Maps
+*   Google Meet
+*   Google Messages
+*   Google Nest
+*   Google Nest Display
+*   Google Nest Pro
+*   Google Nest Safety
+*   Google Nest Security
+*   Google Nest Speakers
+*   Google Nest Thermostat
+*   Google News
+*   Google One
+*   Google Pay & Google Wallet
+*   Google Photos
+*   Google Pixel
+*   Google Pixelbook
+*   Google Pixel Tablet
+*   Google Pixel Wearables
+*   Google Play
+*   Google Play Protect
+*   Google TV
+*   Google TV Streamer
+*   Google Wifi
+*   ND4C Guidance
+*   Quick Share
+*   Waze
+*   Wear OS by Google
+*   Works With Google Home
+*   YouTube
+*   YouTube Kids
+*   YouTube Music
+*   YouTube Premium
+*   YouTube TV
+
+Page selection Select a page Terms and Conditions
+
+*   Terms and Conditions
+
+  
+
+_language_ English - United States
+
+Terms and Conditions
+====================
+
+Terms for using Google Brand Features
+
+Contents
+
+*   [Overview](#overview)
+    
+*   [Complete Terms and Conditions](#complete-terms-and-conditions)
+    
+
+[#### Please note:
+
+To use Google logos or products in your work, click here to submit a request.](https://about.google/en-us/homepage/asset-approval/)
+
+Overview link
+
+Copy link 
+
+×
+
+
+------------------------------
+
+*   If granted permission to use Google Brand Features, please do so in accordance with our Terms.
+*   If you are using Google Brand Features, please indicate that those features belong to us.
 *   Our grant of permission at one point does not prevent us from revoking that permission at a later point.
-*   You agree that Google owns its brand features and that you will not challenge or attempt to challenge them.
+*   You agree that Google owns its Brand Features and that you will not challenge or attempt to challenge them.
 *   Google Brand Features are provided “as is.”
 
-Our complete brand terms and conditions
+Complete Terms and Conditions link
 
-If Google approves your request to use any Google trademarks, logos, web pages, screenshots, or other distinctive features (“Google Brand”), you agree to be bound by the following terms and conditions (the “Agreement”).  
+Copy link 
 
-You agree to comply with the Guidelines for Third Party Use of Google Brand Features. So long as you do so, and provided that Google expressly approves your permission request, Google grants you a non-transferable, non-exclusive, royalty-free limited license to use the Google’s Brand Features set forth in your corresponding Permission Request Form for the sole purpose and only for the materials set forth therein.  
+×
 
-Any use of the Google Brand Features must be accompanied by a notice that clearly indicates that the Google Brand Features are trademarks or distinctive brand features of Google LLC. Google reserves the right in its sole discretion to terminate or modify your permission to display the Google Brand Features and to take action against any use that does not conform to these terms and conditions, infringes any Google intellectual property or other right, or violates applicable law.  
 
-Except as set forth above, nothing herein grants or should be deemed to grant to you any right, title or interest in or to the Google Brand Features. Your use of the Google Brand Features will inure to the benefit of Google.  
+---------------------------------------------------
+
+If Google approves your request to use any Google trademarks, logos, web pages, screenshots, or other distinctive features (“Google Brand Features”), you agree to be bound by the following Terms and Conditions (the “Agreement”).
+
+You agree to comply with the [Trademark guidelines for proper usage](https://about.google/brands/google/trademarks-and-terms/trademark-guidelines-for-proper-usage/) of Google Brand Features. So long as you do so, and provided that Google expressly approves your permission request, Google grants you a non-transferable, non-exclusive, royalty-free limited license to use Google’s Brand Features set forth in your corresponding Permission Request Form for the sole purpose and only for the materials set forth therein.
+
+Any use of the Google Brand Features must be accompanied by a notice that clearly indicates that the Google Brand Features are trademarks or distinctive brand features of Google LLC. Google reserves the right in its sole discretion to terminate or modify your permission to display the Google Brand Features and to take action against any use that does not conform to these Terms and Conditions, infringes any Google intellectual property or other right, or violates applicable law.
+
+Except as set forth above, nothing herein grants or should be deemed to grant to you any right, title, or interest in or to the Google Brand Features. Your use of the Google Brand Features will inure to the benefit of Google.
 
 You agree not to challenge or assist others to challenge the Google Brand Features (except to the extent such restriction is prohibited by applicable law), and you agree not to register or attempt to register any domain names, trademarks, trade names, or other distinctive brand features that are confusingly similar to those of Google.
 
-The Google Brand Features are provided “as is” and Google disclaims any warranties either expressed or implied by law regarding the Google Brand Features, including warranties of noninfringement. Furthermore, because you are not being charged for use of the Google Brand Features, in no event shall Google be liable to you for the subject matter of this Agreement under any theory of liability including for any direct, indirect, incidental, special, consequential, punitive, exemplary or other damages arising out of this Agreement or the use of the Google Brand Features. This limitation shall apply even if Google was or should have been aware or advised of the possibility of such damages and notwithstanding any failure of essential purpose of any limited remedy stated herein. Some states do not allow exclusion of implied warranties or limitation of liability for incidental or consequential damages, so the above limitations or exclusions may not apply to you.
+The Google Brand Features are provided “as is” and Google disclaims any warranties either expressed or implied by law regarding the Google Brand Features, including warranties of noninfringement. Furthermore, because you are not being charged for use of the Google Brand Features, in no event shall Google be liable to you for the subject matter of this Agreement under any theory of liability including for any direct, indirect, incidental, special, consequential, punitive, exemplary, or other damages arising out of this Agreement or the use of the Google Brand Features. This limitation shall apply even if Google was or should have been aware or advised of the possibility of such damages and notwithstanding any failure of essential purpose of any limited remedy stated herein. Some states do not allow exclusion of implied warranties or limitation of liability for incidental or consequential damages, so the above limitations or exclusions may not apply to you.
 
-You may not assign your rights or delegate your obligations under this Agreement without Google’s prior written consent. This Agreement is not intended to benefit, nor shall it be deemed to give rise to, any rights in any third party. This Agreement will be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles. The venue for any dispute or claim arising out of or in connection with this Agreement shall be in Santa Clara County, California. The parties are independent contractors. Neither party shall be deemed to be an employee, agent, partner or legal representative of the other for any purpose and neither shall have any right, power or authority to create any obligation or responsibility on behalf of the other. The waiver by Google of a breach of any provision hereof shall not be taken or held to be a waiver of the provision itself. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provisions of this Agreement shall remain in full force and effect. This Agreement, the Guidelines for Third Party Use of Google Brand Features, and the Permission Request Form, constitute the entire agreement between the parties with respect to the subject matter hereof.
+You may not assign your rights or delegate your obligations under this Agreement without Google’s prior written consent. This Agreement is not intended to benefit, nor shall it be deemed to give rise to, any rights in any third party. This Agreement will be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles. The venue for any dispute or claim arising out of or in connection with this Agreement shall be in Santa Clara County, California. The parties are independent contractors. Neither party shall be deemed to be an employee, agent, partner, or legal representative of the other for any purpose and neither shall have any right, power, or authority to create any obligation or responsibility on behalf of the other. The waiver by Google of a breach of any provision hereof shall not be taken or held to be a waiver of the provision itself. If any provision of this Agreement is held by a court of competent jurisdiction to be contrary to law, such provision shall be changed and interpreted so as to best accomplish the objectives of the original provision to the fullest extent allowed by law and the remaining provisions of this Agreement shall remain in full force and effect. This Agreement, the Trademark guidelines for proper usage of Google Brand Features, and the Permission Request Form, constitute the entire agreement between the parties with respect to the subject matter hereof.
 
-Still can't find what you're looking for? Submit your request via our [formal request form](https://support.google.com/contact/brand_request_form).
-
-If you’ve found a website that uses a Google trademark inappropriately, we’d like to hear about it. [Report inappropriate use of a Google trademark](https://support.google.com/legal/troubleshooter/1114905/).
+[Back to top](#page-top)
 
 - - -
 
