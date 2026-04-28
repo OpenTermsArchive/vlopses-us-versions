@@ -60,7 +60,7 @@ If you do not receive the refund afterwards, please contact us for further assis
 
 Please make sure to keep the barcode of each item in your next purchase so that you can receive your refund smoothly.
 
-VII. After placing all the return items in one package, please print and tape the return label we provided onto the outside of the package. Send your package back from the nearest USPS/UPS location and you're done!
+VII. After placing all the return items in one package, please print and tape the return label we provided onto the outside of the package. Send your package back from the nearest Happy Returns/FedEx/USPS/UPS location and you're done!
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
