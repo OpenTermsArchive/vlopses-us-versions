@@ -1980,7 +1980,7 @@ Rules on Product Safety and Compliance on AliExpress
 
 Release date: /
 
-Revision date: April 27, 2026
+Revision date: April 28, 2026
 
   
 
@@ -2010,7 +2010,7 @@ The following are the rules related to product safety and compliance on AliExpre
 | **Industry category** | **Notice to regulations** |     |
 | Pesticides | [Notice on Distributing/Selling Pesticide Products to the United States](https://rule.aliexpress.com/rule-channels/37978936/134282418)<br><br>[Notice on the Suspension of Sale of Pesticides and Pesticide Device to Canada](https://rule.aliexpress.com/rule-channels/37978936/134282486)<br><br>[Announcement on Tightening Control of Pesticide Products to EU on AliExpress](https://rule.aliexpress.com/rule-channels/37978936/132341829)<br><br>[AliExpress Ban on the Sale of Farmland-use Pesticide Products](https://rule.aliexpress.com/rule-channels/37978936/133166937) |     |
 | Medical Devices | [Regulatory Requirements for Medical Devices Exported to Canada](https://rule.aliexpress.com/rule-channels/37978936/134282524)<br><br>[Notes on Regulations Governing the Export of Medical Devices](https://rule.aliexpress.com/rule-channels/36963666/127528218)<br><br>[Announcement on the Tightened Control of Medical Device Products on AliExpress](https://rule.aliexpress.com/rule-channels/36963666/122523400)<br><br>[Announcement on the Tightened Control of Dental Medical Device Products on AliExpress](https://rule.aliexpress.com/rule-channels/36963666/122523404)<br><br>[AliExpress Announcement on Strengthening Certification Control over Korea Orthodontic Devices](https://rule.aliexpress.com/rule-channels/37978936/146391775)<br><br>[AliExpress Announcement on Strengthening Certification Control over Japan Syringe-related Products](https://rule.aliexpress.com/rule-channels/37978936/163587367)<br><br>[AliExpress's Ban on the Sale of Counterfeit Anti-choking Devices in the UK](https://rule.aliexpress.com/rule-channels/37978936/166721448)<br><br>[AliExpress's announcement regarding the ban on the sale of Medical Devices in the Philippines](https://rule.aliexpress.com/rule-channels/37978936/240469851)<br><br>[AliExpress Announcement Regarding Prohibit Sale of Class III Medical Device, Medical Consultation & Healthcare Service](https://rule.aliexpress.com/rule-channels/37978936/243628385) |     |
-| Cosmetics | [Notes on Regulations Governing the Export of Cosmetics](https://rule.aliexpress.com/rule-channels/36963666/127528216)<br><br>[Announcement on the Submission of Qualifications for Special Cosmetics Products on AliExpress](https://rule.aliexpress.com/rule-channels/36963666/131465129)<br><br>[Marking/Labeling Requirements of Beauty and Personal Care Product](https://rule.aliexpress.com/rule-channels/37978936/132289376)<br><br>[AliExpress Ban on the Sale of TCA in cosmetics and skincare products to the EU and USA](https://rule.aliexpress.com/rule-channels/37978936/235352878)<br><br>[AliExpress Ban on the Sale of Cosmetics Products Containing TPO to the EU](https://rule.aliexpress.com/rule-channels/37978936/237057691)<br><br>[AliExpress Ban on the Sale of Cosmetics Products Containing Prohibited Peroxide to the EU](https://rule.aliexpress.com/rule-channels/37978936/240793912) |     |
+| Cosmetics | [Notes on Regulations Governing the Export of Cosmetics](https://rule.aliexpress.com/rule-channels/36963666/127528216)<br><br>[Announcement on the Submission of Qualifications for Special Cosmetics Products on AliExpress](https://rule.aliexpress.com/rule-channels/36963666/131465129)<br><br>[Marking/Labeling Requirements of Beauty and Personal Care Product](https://rule.aliexpress.com/rule-channels/37978936/132289376)<br><br>[AliExpress Ban on the Sale of TCA in cosmetics and skincare products to the EU and USA](https://rule.aliexpress.com/rule-channels/37978936/235352878)<br><br>[AliExpress Ban on the Sale of Cosmetics Products Containing TPO to the EU](https://rule.aliexpress.com/rule-channels/37978936/237057691)<br><br>[AliExpress Ban on the Sale of Cosmetics Products Containing Prohibited Peroxide to the EU](https://rule.aliexpress.com/rule-channels/37978936/240793912)<br><br>[AliExpress Announcement on the Prohibition of the Arbutin Overlimit Cosmetic Sales in the EU](https://rule.aliexpress.com/rule-channels/37978936/267685622) |     |
 | Food Supplement | [Announcement on Tightening Control of Health Food Products on AliExpress](https://rule.aliexpress.com/rule-channels/37978936/211428580) |     |
 | Biocides | [Notes on Regulations Governing the Export of Biocide Product](https://rule.aliexpress.com/rule-channels/37978936/131630255)<br><br>[Notice on Strengthening Control of Biocide Product](https://rule.aliexpress.com/rule-channels/37978936/132341102)<br><br>[Notice on Sale of Hand Sanitizer Products in Australia](https://rule.aliexpress.com/rule-channels/36963666/137686790) |     |
 | Lights | [Notes on Regulations Governing the Export of Lamp](https://rule.aliexpress.com/rule-channels/36963666/127528220)<br><br>[AliExpress Ban on the Sale of Mercury-containing Products](https://rule.aliexpress.com/rule-channels/37978936/147928969)<br><br>[AliExpress Announcement on Strengthening Qualification Control over Mosquito Killer Lamps Sold to United States of America](https://rule.aliexpress.com/rule-channels/37978936/188179150) |     |
@@ -2032,11 +2032,11 @@ The following are the rules related to product safety and compliance on AliExpre
 
 AliExpress
 
-[\[Science and technology category\]](#Oz5vB)
+[\[Science and technology category\]](#Visjp)
 
-[\[Beautiful category\]](#sCbT0)
+[\[Beautiful category\]](#fBllf)
 
-[\[Others\]](#sGy6H)
+[\[Others\]](#gk4vT)
 
 - - -
 
