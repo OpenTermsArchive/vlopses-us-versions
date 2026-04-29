@@ -28,7 +28,7 @@ Contents
 Temu | Return and Refund Policy
 ===============================
 
-Last Updated: Mar 22, 2026 PDT
+Last Updated: Apr 28, 2026 PDT
 
 If you are not satisfied with what you bought on Temu, you may be eligible to return it and get a refund by following the simple procedure set out in this Return and Refund Policy.
 
@@ -46,9 +46,9 @@ III. Select the items you would like to return and the reason for the return. De
 
 IV. If there is no need to return your items, then your final step is simply to select your refund method. You may choose to receive your refund as a Temu credit balance or be credited back via your original payment method. Make your selection and click "Submit".
 
-V. If you need to return your items, you will have the option to choose your return and refund methods. After you submit the request, we will provide you with a return label so that you can return the items. Return shipping is free on your first return of one or multiple returnable items for EVERY order within 90 days from the date of purchase with some exceptions. Pickup return method may charge for an additional fee.
+V. If you need to return your item(s), you will have the option to choose your return and refund methods. After you submit the request, we will provide you with a return label and/or a return code so that you can return the item(s). Return shipping is free on your first return of one or multiple returnable items for EVERY order within 90 days from the date of purchase with some exceptions. Pickup return method may charge for an additional fee.
 
-VI. Please place all returned items into one package and use the return label we provided to send it. The original barcode for each item should also be included.
+VI. Please place all returned items into one package and use the return label/code we provided when you send it back. Please note that if you use Happy Returns when returning the items, you do not need to pack the items. The original barcode for each item should also be included.
 
 If you cannot find it:
 
@@ -60,7 +60,13 @@ If you do not receive the refund afterwards, please contact us for further assis
 
 Please make sure to keep the barcode of each item in your next purchase so that you can receive your refund smoothly.
 
-VII. After placing all the return items in one package, please print and tape the return label we provided onto the outside of the package. Send your package back from the nearest Happy Returns/FedEx/USPS/UPS location and you're done!
+VII. After placing all the return items in one package, please print and tape the return label we provided onto the outside of the package.
+
+If your return method does not require a printed label, bring your package and return code to the drop-off location.
+
+If you choose Happy Returns when returning the items, you do not need to pack the items.
+
+Drop your package off at your nearest Happy Returns/FedEx/USPS/UPS location and you're done!
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
