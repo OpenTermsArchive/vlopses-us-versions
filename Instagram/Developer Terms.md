@@ -909,19 +909,15 @@ The following policies apply to messaging and calling APIs available on Facebook
     
 4.  Standard and Advanced Ads API access may be downgraded to Development access after 30 days of non-use.
     
-5.  Don't combine multiple end advertisers or their Meta business assets in the same ad account, unless otherwise approved by Meta in writing.
+5.  Don't combine multiple end advertisers or their Meta business assets in the same ad account, unless you meet the requirements described [here](https://developers.facebook.com/docs/development/terms-and-policies/separate-ad-accounts) or as otherwise approved by Meta in writing.
     
 6.  #### Transparency (Effective February 3, 2027)
     
-    a. Proactively disclose to each end advertiser (i) the amount that you spent on Meta advertising on behalf of such end advertiser, separate from your fees, and (ii) the associated fee structure you charge end advertisers.
+    a. If requested by an end advertiser, you must disclose to such end advertiser (i) the amount that you spent on Meta advertising on behalf of such end advertiser, separate from your fees, and the associated fee structure you charge, and (ii) the campaign configuration, campaign settings, and/or post-campaign reporting for the end advertiser’s Meta ad campaign, using Meta terminology. Unless required by law, we do not disclose this information proactively; however, if we identify or suspect a violation of this policy, we may, upon the end-advertiser's request, provide the disclosures in (i)–(ii). We may, but are not obligated to, notify you if such a disclosure occurs.
     
     b. Display Meta ad campaign reporting separately from other publishers.
     
-    c. If requested by an end advertiser, disclose the campaign configuration, campaign settings and/or post-campaign reporting for the end advertiser’s Meta ad campaign, using Meta terminology.
-    
-    d. We may disclose the campaign configuration, campaign settings and/or post-campaign reporting for the end advertiser’s Meta ad campaign (including the amount spent on Meta advertising and inventory cost) to your clients if they request it.
-    
-    e. We may require documentation from you to ensure your compliance with these terms and we may require you to disclose who your end advertisers are.
+    c. We may require documentation from you to ensure your compliance with these terms and we may require you to disclose who your end advertisers are.
     
 7.  Data Collection and Use:
     
