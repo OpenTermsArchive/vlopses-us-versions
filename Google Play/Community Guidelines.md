@@ -1471,8 +1471,8 @@ Hostile Downloaders
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-**Hostile Downloaders**
------------------------
+Hostile Downloaders
+-------------------
 
 ![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
 
