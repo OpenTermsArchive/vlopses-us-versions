@@ -5340,7 +5340,7 @@ For Display & Video 360 ad disapprovals, learn more about how to [Find and fix r
 
 * * *
 
-#### In this article
+**On this page**
 
 *   [Trade sanctions violation](#338)
 *   [Audiovisual Media Services Directive](#339)
