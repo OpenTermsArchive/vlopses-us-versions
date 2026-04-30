@@ -130,7 +130,7 @@ In the event the Program must be terminated due to an unforeseeable event, SHEIN
 
 SHEIN U.S. TERMS OF USE
 
-**Effective Date: August 15, 2025**
+**Effective Date: April 10, 2026**
 
 Welcome to SHEIN’s US web, mobile site and mobile application.
 
@@ -211,6 +211,16 @@ If you create a User Account, you will be provided with a SHEIN digital wallet (
 **2.5 Interactions with Other Users.** When interacting with others via the Services, including Third-Party Sellers, you should exercise caution and common sense to protect your personal safety and property, just as you would when interacting with other persons whom you do not know. You are solely responsible for your interactions with any other parties with whom you interact; provided, however, that SHEIN reserves the right, but has no obligation, to provide support in the event of disputes between you and any Third-Party Sellers or other users of the Services. YOU AGREE THAT NEITHER SHEIN NOR ITS LICENSORS IS RESPONSIBLE FOR THE CONDUCT, WHETHER ONLINE OR OFFLINE, OF ANY THIRD-PARTY SELLER OR OTHER USER OF THE SERVICES, AND THAT SHEIN MAKES NO REPRESENTATIONS WITH RESPECT TO YOUR INTERACTIONS WITH THEM. SHEIN AND ITS LICENSORS WILL NOT BE LIABLE FOR ANY CLAIM, INJURY OR DAMAGE ARISING IN CONNECTION WITH YOUR INTERACTIONS WITH THIRD-PARTY SELLERS OR OTHER USERS OF THE SERVICES, OR YOUR USE OF OR INABILITY TO USE ANY ITEMS PURCHASED FROM A THIRD-PARTY SELLER THROUGH THE SERVICES.
 
 **2.6 Accurate Information; Customs.** You must provide valid, complete, and accurate data of the type required on the Services when making a purchase, and it is your sole responsibility to make certain that such data is accurate. All names and addresses (including for shipping and payment) must also be accurate and valid. If any information is missing or is incorrect, and that leads to a shipment delay or cancellation during the customs clearance process, neither SHEIN nor any Third-Party Seller will be responsible or be obligated to offer any compensation to you whatsoever. You hereby authorize SHEIN to make statements, submit, amend and invalidate all declarations and documents necessary or useful to import goods ordered by you in your name and/or from your User Account. This includes the power to make and receive service and deliveries, request refunds of any levies, taxes and fees relating to the importation of goods, to conduct administrative appeal and court proceedings as well as enforcement proceedings and appeals and remedies at all instances, file applications, complaints, etc. with public authorities, courts and other institutions, file, withdraw and/or waive legal remedies and appeals against judgments, orders, arbitral awards, payment orders, or any other orders and decisions of whatever kind, receive monies, valuables and documents and/or deeds in connection with the purchase, shipment, or delivery of products you purchased or caused to be purchased via the Services. It also includes the right to instruct customs agents in the name and on behalf of you and to grant sub-authorization to customs agents and/or other representatives involved in handling matters relating to the importation of goods and complying with regulations regarding the importation of goods.
+
+**2.7 Age-Restricted Access**
+
+(1) Certain content and products available through the Services may be subject to applicable minimum age requirements, including products intended only for customers who are age 18 or older. By accessing such content or viewing or purchasing such products, you represent and warrant that you meet the applicable minimum age requirement. SHEIN may require you to complete an age check process (“Age Check”) before accessing such content and viewing or purchasing such products. This Age Check may include age confirmation prompts, or other age-assurance measures, and may be conducted by SHEIN or by third-party service providers acting on our behalf. If the Age Check is not completed, cannot be verified, or indicates that the minimum age requirement is not met, access to the relevant content or the ability to view or purchase the relevant product may be restricted or refused.
+
+(2) We may request you to reconfirm that you meet the applicable minimum age requirement, including when accessing age-restricted content or products from a different device, browser, account, or session, or during checkout, to help reasonably ensure that the device or account is not being accessed by persons who do not meet the applicable minimum age requirement.
+
+3) You represent and warrant that all information you provide during an Age Check is accurate and complete and agree not to permit any person who does not meet the applicable minimum age requirement to access age-restricted content or complete age-restricted transactions using your account, device, session, or verified status. Any attempt to circumvent, manipulate, or provide false information during, an Age Check constitutes a material breach of these Terms and may result in restriction of access, cancellation of orders, suspension or termination of your account, or other action permitted by these Terms or applicable law.
+
+(4) For information about how personal data may be processed in connection with an Age Check, please review our Privacy Notice and any supplemental notice provided at the time of the Age Check.
 
 3\. PRIVACY POLICY
 
@@ -468,30 +478,28 @@ The Services are intended for U.S.-based users and products sold on the Services
 
 - - -
 
-![](https://www.sheingroup.com/wp-content/uploads/2023/04/shein-default-image.png)
-
-Terms & Conditions
-==================
+Terms and Conditions
+--------------------
 
 **IMPORTANT NOTICE FOR RESIDENTS IN THE UNITED STATES ONLY: THIS AGREEMENT AND YOUR USE OF OUR SITE ARE SUBJECT TO BINDING ARBITRATION AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED BELOW.**
 
 **Effective Date: December 28, 2021**
 
-###### 1\. GENERAL
+#### 1\. GENERAL
 
-1.1 Scope. Welcome to SHEIN’s enterprise information pages [www.sheingroup.com](https://sheingroup.com/) (the “Site”).  These Terms & Conditions (“Agreement” or “Terms” ) constitute a contract between you and Roadget Business Pte. Ltd., as the operator of the Site (as defined below) (where applicable, “SHEIN,” “Company”, “we,” “us,” and “our” shall refer to Roadget Business Pte. Ltd. and “you” or “your” shall refer to the user of the Site and the services incorporated on our Site (the “Services”).
+1.1 Scope. Welcome to SHEIN’s enterprise information pages [www.sheingroup.com](https://web.archive.org/web/20251208102649/https://sheingroup.com/) (the “Site”). These Terms & Conditions (“Agreement” or “Terms” ) constitute a contract between you and Roadget Business Pte. Ltd., as the operator of the Site (as defined below) (where applicable, “SHEIN,” “Company”, “we,” “us,” and “our” shall refer to Roadget Business Pte. Ltd. and “you” or “your” shall refer to the user of the Site and the services incorporated on our Site (the “Services”).
 
-You must comply with these Terms in your use of the Site and only use the Site as permitted by applicable laws and regulations and these Terms, wherever you may be when you use them. In addition, the Site’s [Privacy Policy](https://www.sheingroup.com/privacy-policy/) is hereby incorporated by reference into these Terms as though fully set forth herein.
+You must comply with these Terms in your use of the Site and only use the Site as permitted by applicable laws and regulations and these Terms, wherever you may be when you use them. In addition, the Site’s [Privacy Policy](https://www.sheingroup.com/privacy-policy) is hereby incorporated by reference into these Terms as though fully set forth herein.
 
 1.2 Acceptance of Terms. To use the Site, you need to be at least 16 years old. Any accessing, browsing, or otherwise using the Site indicates your agreement to these Terms, and constitutes your representation and warranty to SHEIN that you are at least 16 years old. If you disagree with any part of the Terms, then you should immediately discontinue access or use of the Site. Please read this Agreement carefully before proceeding.
 
-If you have any questions regarding these Terms or our Privacy Policy, you may contact us at [legal@shein.com](mailto:legal@shein.com).
+If you have any questions regarding these Terms or our Privacy Policy, you may contact us at [legal@shein.com](https://web.archive.org/web/20251208102649/mailto:legal@shein.com).
 
 1.3 Updates to the Terms. We reserve the right to modify the Terms, including the Privacy Policy, at any time, in our sole discretion by notifying you of such changes by any reasonable means, including by posting revised Terms on the Site. Any such changes will not apply to any dispute between you and us arising prior to the date on which we posted the revised Terms incorporating such changes or otherwise notified you of such changes. The most current version of these Terms will be available on the Site and supersedes previous versions. You agree that it is your responsibility to check the Site for any updated Terms. In addition, by continuing to use or access the Site after we post any changes, you accept the updated Terms.
 
-###### 2\. USE OF THE SITE
+#### 2\. USE OF THE SITE
 
-2.1 Representations. When you use our Site, you represent and warrant that you are at least 16 years old or are visiting the Services under the supervision of a parent or guardian. Subject to these Terms, SHEIN hereby grants you a limited, revocable, non-transferable and non-exclusive license to access and use the Site by displaying it on your internet browser only for the purpose of learning about SHEIN, communicating with SHEIN, or for general informational purpose, and not for any commercial use or use on behalf of any third party, except as explicitly permitted by SHEIN in writing.  Any breach of these Terms will result in the immediate revocation of the license granted in this paragraph without notice to you.
+2.1 Representations. When you use our Site, you represent and warrant that you are at least 16 years old or are visiting the Services under the supervision of a parent or guardian. Subject to these Terms, SHEIN hereby grants you a limited, revocable, non-transferable and non-exclusive license to access and use the Site by displaying it on your internet browser only for the purpose of learning about SHEIN, communicating with SHEIN, or for general informational purpose, and not for any commercial use or use on behalf of any third party, except as explicitly permitted by SHEIN in writing. Any breach of these Terms will result in the immediate revocation of the license granted in this paragraph without notice to you.
 
 2.2 Limitations on Use. Except as permitted in the paragraph above, you may not reproduce, distribute, display, sell, lease, transmit, create derivative works from, translate, modify, reverse-engineer, disassemble, decompile or otherwise exploit the Services or any portion of them unless expressly permitted by us in writing. You may not make any commercial use of any of the information provided on the Site or make any use of the Services for the benefit of another business unless explicitly permitted by us in advance. We reserve the right to refuse Services in our discretion, including, without limitation, if we believe that your conduct violates applicable laws or is harmful to our interests.
 
@@ -506,17 +514,17 @@ Additionally, you agree not to:
 *   use the Site to distribute unsolicited promotional or commercial content, or solicit other persons using the Services for commercial purposes;
 *   otherwise attempt to interfere with the proper working of the Site.
 
-From time to time, we may restrict access to some or all parts of the Site at our discretion and for any reason or no reason.  We may also terminate your access to the Site at any time and for any reason at our sole discretion.  
+From time to time, we may restrict access to some or all parts of the Site at our discretion and for any reason or no reason. We may also terminate your access to the Site at any time and for any reason at our sole discretion.
 
-###### 3\. PRIVACY POLICY
+#### 3\. PRIVACY POLICY
 
-We respect your right to privacy. To fully understand how we collect and use your personal information, please see our [Privacy Policy](https://www.sheingroup.com/privacy-policy/). These Terms incorporate the Privacy Policy by reference as those the Privacy Policy is fully set forth in these Terms.
+We respect your right to privacy. To fully understand how we collect and use your personal information, please see our [Privacy Policy](https://www.sheingroup.com/privacy-policy). These Terms incorporate the Privacy Policy by reference as those the Privacy Policy is fully set forth in these Terms.
 
-###### 4\. ERRORS
+#### 4\. ERRORS
 
 While we strive to provide accurate information on the Site, errors may occur. In the event that information is inaccurate, misleading, or incorrect we may, at our discretion, update, correct, or delete the information at our discretion.
 
-###### 5\. INTELLECTUAL PROPERTY AND OWNERSHIP
+#### 5\. INTELLECTUAL PROPERTY AND OWNERSHIP
 
 5.1 Content. The Site, including all of their information and content, such as the text, software, scripts, graphics, photos, sounds, music, videos, and interactive features (collectively, “Content” provided by and with the Site belong at all times to SHEIN or to those who grant SHEIN the license for their use and is protected by the copyright laws in the jurisdiction where you reside and international copyright laws. You may use the Content only to the extent that we or the usage licensers authorize expressly.
 
@@ -526,13 +534,13 @@ While we strive to provide accurate information on the Site, errors may occur. I
 
 You agree not to engage in the use, copying, or distribution of or create derivative works from any of the Content other than expressly permitted herein. You agree not to circumvent, disable or otherwise interfere with security-related features of the Site or features that prevent or restrict use or copying of any Content or enforce limitations on use of the Site or the Content therein.
 
-###### 6\. THIRD PARTY LINKS AND RESOURCES
+#### 6\. THIRD PARTY LINKS AND RESOURCES
 
 Our Site may contain links to third-party sites that are not owned or controlled by us. References on our Site to any names, marks, products or services of third parties, or links to third-party sites or information, are not an endorsement, sponsorship, or recommendation of the third party or its information, products, or services.
 
 We have no control over, assume no responsibility for, and do not endorse or verify the content, privacy policies, or practices of any third-party sites or services, including, but not limited to, any third-party social media or mobile app platform with which the Services operate or otherwise interact. The Company is not responsible for the acts or omission of any operator of any such site or platform. Your use of any such third-party site or platform is at your own risk and will be governed by such third party’s terms and policies (including its privacy policies). We make no warranties or representations about the accuracy, completeness, or timeliness of any content posted on the Site by anyone other than us. We strongly advise you to read all third-party terms and conditions and privacy policies.
 
-###### 7\. EVENTS BEYOND OUR CONTROL
+#### 7\. EVENTS BEYOND OUR CONTROL
 
 We will not be liable for any non-compliance or delay in compliance with any of the obligations we assume under the Terms or other contracts when caused by events that are beyond our reasonable control ( “Force Majeure” ). Force Majeure shall include any act, event, failure to exercise, omission or accident that is beyond our reasonable control, including, among others, the following:
 
@@ -546,35 +554,35 @@ We will not be liable for any non-compliance or delay in compliance with any of 
 
 It shall be understood that our obligations deriving from the Terms or other contracts are suspended during the period in which Force Majeure remains in effect and we will be given an extension of the period in which to fulfil these obligations by an amount of time equal to the time the Force Majeure lasted. We will provide all reasonable resources to end the Force Majeure to the extent we can or to find a solution that enables us to fulfil our obligations under the Terms despite the Force Majeure.
 
-###### 8\. LIMITATION OF LIABILITY
+#### 8\. LIMITATION OF LIABILITY
 
-8.1 PLEASE READ THIS SECTION CAREFULLY SINCE IT LIMITS THE LIABILITY OF SHEIN TO YOU.  YOU HEREBY AGREE THAT:
+8.1 please read this section carefully since it limits the liability of SHEIN to you. You hereby agree that:
 
-*   BY USING THE SITE, YOU HEREBY ACKNOWLEDGE AND AGREE THAT WE ARE PROVIDING THE SITE ON AN “AS IS” “AS AVAILABLE” AND “WITH ALL DEFAULTS” BASIS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. WITHOUT LIMITING THE FOREGOING, AND TO THE EXTENT PERMITTED BY LAW, THE COMPANY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS OF ANY KIND INCLUDING ANY WARRANTY OR CONDITION OF MERCHANTABILITY, TITLE, ACCURACY, COMPLETENESS, UNINTERRUPTED OR ERROR-FREE SERVICE, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT, NON-INFRINGEMENT, AND ANY WARRANTIES ARISING OUT OF COURSE OF DEALING OR TRADE USAGE.
-*   SHEIN MAKES NO PROMISES WITH RESPECT TO, AND EXPRESSLY DISCLAIM ALL LIABILITY FOR: (A) PRODUCTS, SERVICES, INFORMATION, PROGRAMMING, AND/OR ANYTHING ELSE PROVIDED BY A THIRD PARTY THAT IS ACCESSIBLE TO YOU THROUGH THE SITE; OR (B) THE QUALITY OR CONDUCT OF ANY THIRD PARTY YOU ENCOUNTER IN CONNECTION WITH YOUR USE OF THE SERVICES.
-*   YOU AGREE THAT TO THE MAXIMUM EXTENT PERMITTED BY LAW, WE WILL NOT BE LIABLE TO YOU UNDER ANY THEORY OF LIABILITY. WITHOUT LIMITING THE FOREGOING, YOU AGREE THAT, TO THE MAXIMUM EXTENT PERMITTED BY LAW, COMPANY ENTITIES WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES, LOSS OF PROFITS, BUSINESS INTERRUPTION, REPUTATIONAL HARM, OR LOSS OF DATA (EVEN IF FORESEEABLE) ARISING OUT OF OR IN ANY WAY CONNECTED WITH YOUR USE OF, OR INABILITY TO USE, THE SERVICES.
-*   YOUR SOLE REMEDY FOR DISSATISFACTION WITH THE SITE IS TO CEASE USE OF THE SITE.
+*   By using the site, you hereby acknowledge and agree that we are providing the site on an “as is” “as available” and “with all defaults” basis, without warranty of any kind, express or implied. Without limiting the foregoing, and to the extent permitted by law, the company expressly disclaims any and all warranties and conditions of any kind including any warranty or condition of merchantability, title, accuracy, completeness, uninterrupted or error-free service, fitness for a particular purpose, quiet enjoyment, non-infringement, and any warranties arising out of course of dealing or trade usage.
+*   SHEIN makes no promises with respect to, and expressly disclaim all liability for: (a) products, services, information, programming, and/or anything else provided by a third party that is accessible to you through the site; or (b) the quality or conduct of any third party you encounter in connection with your use of the services.
+*   You agree that to the maximum extent permitted by law, we will not be liable to you under any theory of liability. Without limiting the foregoing, you agree that, to the maximum extent permitted by law, company entities will not be liable for any indirect, incidental, consequential, special, or exemplary damages, loss of profits, business interruption, reputational harm, or loss of data (even if foreseeable) arising out of or in any way connected with your use of, or inability to use, the services.
+*   Your sole remedy for dissatisfaction with the site is to cease use of the site.
 
-SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR EXCLUSIONS OF LIABILITY FOR CERTAIN TYPES OF DAMAGES. AS A RESULT, THE ABOVE LIMITATIONS AND EXCLUSIONS MAY NOT APPLY TO YOU IN WHOLE OR IN PART.
+Some jurisdictions do not allow limitations on implied warranties or exclusions of liability for certain types of damages. As a result, the above limitations and exclusions may not apply to you in whole or in part.
 
 8.2 For residents of the European Union, the United Kingdom, Switzerland, and any other country in the European Economic Area, please read the following items carefully:
 
 Notwithstanding anything to the contrary in the foregoing,
 
-*   your claim(s) for damages are excluded, except for such claims for damages arising from injury to life, body, health or from the breach of essential contractual obligations (cardinal obligations) and except for liability for other damages based on an intentional or grossly negligent breach of duty by the Company, its legal representatives, employees or vicarious agents. Material contractual obligations are those whose fulfillment is necessary to achieve the goal of the contract.  
+*   your claim(s) for damages are excluded, except for such claims for damages arising from injury to life, body, health or from the breach of essential contractual obligations (cardinal obligations) and except for liability for other damages based on an intentional or grossly negligent breach of duty by the Company, its legal representatives, employees or vicarious agents. Material contractual obligations are those whose fulfillment is necessary to achieve the goal of the contract.
 *   In the event of a breach of material contractual obligations, the Company shall only be liable for the foreseeable damage typical for the type of contract if such damage was caused by simple negligence, unless the damage claims are based on injury to life, body or health.
 *   The limitations of liability shall also apply in favor of the legal representatives, employees and vicarious agents of the Company if claims are asserted directly against them.
 *   Any applicable mandatory statutory provisions remain unaffected.
 
-###### **9\.** LEGAL DISPUTES AND ARBITRATION AGREEMENT
+#### **9.** LEGAL DISPUTES AND ARBITRATION AGREEMENT
 
-**FOR USERS IN THE UNITED STATES**  
+**FOR USERS IN THE UNITED STATES**
 
 LEGAL DISPUTES AND ARBITRATION AGREEMENT FOR USERS IN THE UNITED STATES
 
 9.1 US residents should Read the Following Clauses Carefully: It May Significantly Affect Your Legal Rights, Including Your Right to File a Lawsuit in Court
 
-9.1.1 Initial Dispute Resolution. We are available by email at [legal@shein.com](mailto:legal@shein.com) to address any concerns you may have regarding your use of the Site. Most concerns may be quickly resolved in this manner. Each of you and we agree to use best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
+9.1.1 Initial Dispute Resolution. We are available by email at [legal@shein.com](https://web.archive.org/web/20251208102649/mailto:legal@shein.com) to address any concerns you may have regarding your use of the Site. Most concerns may be quickly resolved in this manner. Each of you and we agree to use best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations which shall be a precondition to either party initiating a lawsuit or arbitration.
 
 9.1.2 Agreement to Binding Arbitration. If we do not reach an agreed upon solution within a period of thirty (30) days from the time informal dispute resolution is pursued pursuant to the immediately preceding paragraph, then either party may initiate binding arbitration. All claims arising out of or relating to the Terms (including their formation, performance and breach), your and our relationship and/or your use of the Services shall be finally settled by binding arbitration administered by JAMS, in accordance with the JAMS Streamlined Arbitration Rules and Procedures, excluding any rules or procedures governing or permitting class actions. Each party will have the right to use legal counsel in connection with arbitration at its own expense. You and we shall select a single neutral arbitrator in accordance with the JAMS Streamlined Arbitration Rules and Procedures. The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of the Terms, including, but not limited to, any claim that all or any part of the Terms is void or voidable. The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity. The arbitrator’s award shall be in writing and provide a statement of the essential findings and conclusions, shall be binding on you and us and may be entered as a judgment in any court of competent jurisdiction. The interpretation and enforcement of the Terms shall be subject to the Federal Arbitration Act. The JAMS rules governing the arbitration may be accessed at https://www.jamsadr.com/adr-rules-procedures. If you initiate arbitration, to the extent the filing fee for the arbitration exceeds Two Hundred and Fifty U.S. Dollars ($250.00), we will pay the additional cost. If we are required to pay the additional cost of the filing fees, you should submit a request for payment of fees to JAMS along with your form for initiating the arbitration, and we will make arrangements to pay all necessary fees directly to JAMS. We will also be responsible for paying all other arbitration costs arising in connection with the arbitration, other than costs incurred by you for legal counsel, travel and other out-of-pocket costs and expenses not constituting fees or amounts payable to JAMS. You will not be required to pay fees and costs incurred by us if you do not prevail in arbitration. We will also pay JAMS to reimburse you for any portion of the $250 filing fee that is more than what you would otherwise have to pay to file suit in a court of law.
 
@@ -586,7 +594,7 @@ You and we understand that, absent this mandatory provision, you and we would ha
 
 9.1.5 California Private Attorneys General Act (PAGA) Action. Notwithstanding the parties’ agreement to resolve all disputes through arbitration, either party may seek relief in a court of law for a claim arising under California’s Private Attorneys General Act.
 
-9.1.6 30-Day Right to Opt-Out. You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out by emailing us at [legal@shein.com](mailto:legal@shein.com). The notice must be sent within thirty (30) days of your agreement to the Terms, otherwise you shall be bound to arbitrate disputes in accordance with the terms of this Section. If you opt-out of these arbitration provisions, we also will not be bound by them.
+9.1.6 30-Day Right to Opt-Out. You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth above by sending written notice of your decision to opt-out by emailing us at [legal@shein.com](https://web.archive.org/web/20251208102649/mailto:legal@shein.com). The notice must be sent within thirty (30) days of your agreement to the Terms, otherwise you shall be bound to arbitrate disputes in accordance with the terms of this Section. If you opt-out of these arbitration provisions, we also will not be bound by them.
 
 9.1.7 Exclusive Venue for Litigation. To the extent that the arbitration provisions set forth above do not apply or if you have opted out of arbitration, you and we agree that any litigation between you and us shall be filed exclusively in state or federal courts located in California (except for small claims court actions which may be brought in the county where you reside). You and we expressly consent to exclusive jurisdiction in California for any litigation other than small claims court actions. In the event of litigation relating to the Terms or the Services, you and we agree to waive, to the maximum extent permitted by law, any right to a jury trial, except where a jury trial waiver is not permissible under applicable law.
 
@@ -604,7 +612,7 @@ You and we understand that, absent this mandatory provision, you and we would ha
 
 9.2.5 Waiver of class or consolidated actions. All claims and disputes must be arbitrated or litigated on an individual basis and not on a class basis. Claims of more than one customer or user cannot be arbitrated or litigated jointly or consolidated with those of any other customer or user.
 
-###### 10\. LEGAL TERMS
+#### 10\. LEGAL TERMS
 
 10.1 Assignment. You may not assign or transfer these Terms (or any of your rights or obligations under these Terms) without SHEIN’s prior written consent. Any attempted assignment or transfer without complying with the foregoing will be void. We may freely assign or transfer the Terms. The Terms inure to the benefit of and is binding upon the parties and their respective legal representatives, successors, and assigns.
 
@@ -616,11 +624,11 @@ No waiver of any term of the Terms shall be deemed a further or continuing waive
 
 10.4 Interpretation. In construing or interpreting the Terms, headings are for convenience only, and not to be considered.
 
-10.5 Applicable Law. Your use of our Site shall be governed by the law of Singapore. Notwithstanding the foregoing, if you are a resident of the United States, your use of our Site shall be governed by the laws of the United States.  
+10.5 Applicable Law. Your use of our Site shall be governed by the law of Singapore. Notwithstanding the foregoing, if you are a resident of the United States, your use of our Site shall be governed by the laws of the United States.
 
-###### 11\. COPYRIGHT INFRINGEMENT
+#### 11\. COPYRIGHT INFRINGEMENT
 
-As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe that material located on or linked to by the Company violates your copyright, you are encouraged to notify us in accordance with the applicable laws, including Digital Millennium Copyright Act. To do so, please send an email to [copyright@shein.com](mailto:copyright@shein.com) and include the following:
+As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe that material located on or linked to by the Company violates your copyright, you are encouraged to notify us in accordance with the applicable laws, including Digital Millennium Copyright Act. To do so, please send an email to [copyright@shein.com](https://web.archive.org/web/20251208102649/mailto:copyright@shein.com) and include the following:
 
 *   identify the copyrighted work that you claim has been infringed along with any copyright registration;
 *   identify the material or link on our Site that you claim is infringing your copyrighted work;
@@ -629,10 +637,10 @@ As we ask others to respect our intellectual property rights, we respect the int
 
 We will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material.
 
-###### 12\. BUSINESS TRANSFERS
+#### 12\. BUSINESS TRANSFERS
 
-If the Company or substantially all of its assets, were acquired, or in the unlikely event that the Company or its affiliates go out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of the Company may continue to use your personal information as set forth in this Agreement. For more information, please see our [Privacy Policy](https://www.sheingroup.com/privacy-policy/).
+If the Company or substantially all of its assets, were acquired, or in the unlikely event that the Company or its affiliates go out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of the Company may continue to use your personal information as set forth in this Agreement.
 
-###### 13\. CONTACT US
+#### 13\. CONTACT US
 
-We welcome your questions and comments about our privacy practices or these Terms. You may contact us anytime via email at [legal@shein.com](mailto:legal@shein.com).
+We welcome your questions and comments about our privacy practices or these Terms. You may contact us anytime via email at [legal@shein.com](https://web.archive.org/web/20251208102649/mailto:legal@shein.com).
