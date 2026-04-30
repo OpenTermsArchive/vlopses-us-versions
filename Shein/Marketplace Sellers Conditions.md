@@ -1,20 +1,18 @@
-![](https://www.sheingroup.com/wp-content/uploads/2023/04/shein-default-image.png)
-
 Animal Welfare Policy
-=====================
+---------------------
 
-SHEIN is a group of affiliated companies operating under several brand names throughout the world. Collectively, the SHEIN Group provides consumer access to a global e-commerce platform or, in some jurisdictions, a marketplace, offering consumer products, fashion, home goods, and related products. 
+SHEIN is a group of affiliated companies operating under several brand names throughout the world. Collectively, the SHEIN Group provides consumer access to a global e-commerce platform or, in some jurisdictions, a marketplace, offering consumer products, fashion, home goods, and related products.
 
-Animal welfare is important to us and no animals should be harmed in the making of our products. We are committed to improving animal welfare across our global supply chain and support ongoing animal welfare standards in the industry. 
+Animal welfare is important to us and no animals should be harmed in the making of our products. We are committed to improving animal welfare across our global supply chain and support ongoing animal welfare standards in the industry.
 
 **Welfare Principles**
 
-Our guiding briefs and general principles with regard to the treatment of animals in our products and supply chains align with the five freedoms set out by the World Organization for Animal Health (founded as OIE) in their Animal Health Codes and the Farm Animal Welfare Committee (FAWC): 
+Our guiding briefs and general principles with regard to the treatment of animals in our products and supply chains align with the five freedoms set out by the World Organization for Animal Health (founded as OIE) in their Animal Health Codes and the Farm Animal Welfare Committee (FAWC):
 
-*   **Nutrition**: Freedom from hunger or thirst by ready access to fresh water and a diet to maintain full health and vigour 
-*   **Physical environment**: Freedom from discomfort by providing an appropriate environment including shelter and a comfortable resting area 
-*   **Health**: Freedom from pain, injury or disease by prevention or rapid diagnosis and treatment 
-*   **Behavioural** **interactions**: Freedom to express (most) normal behaviour by providing sufficient space, proper facilities, and company of the animal’s own kind 
+*   **Nutrition**: Freedom from hunger or thirst by ready access to fresh water and a diet to maintain full health and vigour
+*   **Physical environment**: Freedom from discomfort by providing an appropriate environment including shelter and a comfortable resting area
+*   **Health**: Freedom from pain, injury or disease by prevention or rapid diagnosis and treatment
+*   **Behavioural** **interactions**: Freedom to express (most) normal behaviour by providing sufficient space, proper facilities, and company of the animal’s own kind
 *   **Mental state:** Freedom from fear and distress by ensuring conditions and treatment which avoid mental suffering 
 
 **Our Approach**
@@ -31,7 +29,7 @@ Our expectations of the responsible sourcing of products for both suppliers of S
 *   Not sell animal traps, baits, and deterrents for purposes of wild animal hunting, including live fish baits, glue traps, steel jaw leg-hold traps, and other similar hunting items.
 *   Not engage in animal testing of cosmetic products.
 
-Synthetic materials made to look like animal products must be clearly labelled as faux or other similar words (e.g. fake, imitation, artificial etc) on the product description to avoid confusion. Products that use animal-derived materials must not be labelled as “genuine” or “real” or other similar words (e.g. “genuine leather”, “real fur”) unless they are made from such materials.
+Synthetic materials made to look like animal products must be clearly labelled as faux or other similar words (e.g. fake, imitation, artificial etc.) on the product description to avoid confusion. Products that use animal-derived materials must not be labelled as “genuine” or “real” or other similar words (e.g. “genuine leather”, “real fur”) unless they are made from such materials.
 
 We encourage our suppliers to source according to recognized third party standards, in line with this policy especially for animal-derived materials, such as:
 
