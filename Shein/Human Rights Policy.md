@@ -188,5 +188,17 @@ Last updated April 2024
 
 - - -
 
-Application error: a client-side exception has occurred while loading www.sheingroup.com (see the browser console for more information).
-----------------------------------------------------------------------------------------------------------------------------------------
+Diversity, Equity and Inclusion Statement
+-----------------------------------------
+
+SHEIN is built on the idea that there is no single standard for beauty and that individuality has inherent value that should be expressed without fear of discrimination. We are committed to maintaining a diverse and inclusive business, that honors and respects the individuality of our customers and that maintains a fair and welcoming workplace for our employees so that they can bring their unique contributions to the company. Inclusion is both the key to our position in the marketplace and the key to creating an innovative and productive workforce.
+
+SHEIN employees are given equal employment and promotion opportunities. Our intent is to create a workplace that is welcoming and inclusive for people from any national or cultural background, any gender or sexual identity, any level of disability, any religious belief and any race or ethnic identify. We require all employees to abide by our Global Code of Ethics, which prohibits any form of harassment or discrimination based on nationality, ethnicity, race, color, creed, sex, gender, gender identity, gender expression, ancestry, age, location, appearance and figure, religion, sexual orientation, political views, physical or mental disability, protected medical condition, family background and marital status, or other personal characteristics.
+
+Furthermore, SHEIN expects and requires its suppliers to do the same in accordance with our Supplier Code of Conduct and in compliance with all applicable national, state and local laws related to anti-discrimination, anti-harassment and anti-retaliation as well as equal opportunity laws in the countries where they operate.
+
+We invest in structured systems such as training and awareness raising as well as support for informal tools like employee resource groups. This commitment is applied in our hiring, promotion and transfer decisions and in all aspects of the workplace such as training and mentorship opportunities.
+
+Beyond the workplace, SHEIN is committed to making fashion accessible to all people of all, seeking to support and serve a diverse customer base representing a beautiful mix of ethnicities, body types and socioeconomic backgrounds. We also seek to uplift the voices and talents of individuals who have traditionally lacked access to opportunity.
+
+_Last updated September 2022_
