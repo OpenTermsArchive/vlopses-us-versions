@@ -753,7 +753,7 @@ This classification is usually used in combination with other PHA categories. A 
 A Note on Uncommon Apps
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 If Google Play Protect lacks sufficient information to verify your new app's safety, it may be classified as "uncommon." This status doesn't mean your app is harmful, but that it needs further review. Please review the full policy to ensure compliance.
 
@@ -774,7 +774,7 @@ New and rare apps can be classified as uncommon if Google Play Protect doesn't h
 A Note on the Backdoor Category
 -------------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 A backdoor is code that enables malicious behavior. If dynamic code loading is used to perform harmful actions, your app will be in violation. You must ensure your app’s code does not enable any hidden, malicious functionality. If a vulnerability is found without malicious intent, you will be asked to patch it. Please review the full policy to ensure compliance.
 
