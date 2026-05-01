@@ -1,6 +1,12 @@
 How Bing delivers search results
 ================================
 
+![](https://support.content.office.net/en-us/media/0b1fe818-4ce3-46e9-8851-111cec3c540c.png)
+
+You’re invited to try Microsoft 365 for free
+
+[Unlock now](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?ocid=cmmg0xwkzn4)
+
 Last updated: March 2025
 
 _For previous versions, please see the archives  [here](https://www.bing.com/bingpolicies/archives)._
