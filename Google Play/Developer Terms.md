@@ -374,7 +374,7 @@ Malware
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 To maintain a safe Android ecosystem, Google Play prohibits any malicious code, including third-party SDKs integrated into apps, that could put users, their data, or their devices at risk. Please review the full policy to ensure compliance.
 
@@ -416,7 +416,7 @@ Visit [Google Play Protect](https://developers.google.com/android/play-protect/p
 Backdoors
 ---------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 To protect your users, you must remove any code that acts as a backdoor, which is defined as code facilitating unwanted or harmful remote-controlled operations. Please review the full policy to ensure compliance.
 
@@ -440,7 +440,7 @@ These operations may include behavior that would place the app, binary, or frame
 Billing Fraud
 -------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 To avoid billing fraud, you must remove any code that deceptively charges users without their explicit consent. This includes SMS fraud, Call fraud, and Toll fraud, which trick users into unwanted payments or subscriptions. Please review the full policy to ensure compliance.
 
@@ -477,7 +477,7 @@ Toll Fraud includes any type of billing except premium SMS and premium calls. Ex
 Stalkerware
 -----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 Google Play prohibits apps from monitoring another individual by collecting and transmitting personal and sensitive user data, unless the app is exclusively designed and marketed for parents to monitor their children or enterprise management for the monitoring of individual employees, provided they fully comply with strict requirements. Please review the full policy to ensure compliance.
 
@@ -518,7 +518,7 @@ Please reference the [Use of the isMonitoringTool Flag](https://support.google.c
 Denial of Service (DoS)
 -----------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 To protect your app and other systems, you must remove any code that, without user knowledge, attacks other systems or generates excessive network load without user knowledge. Please review the full policy to ensure compliance.
 
@@ -580,7 +580,7 @@ These apps can't cause harm to the Android user or device, but contain component
 Phishing
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 You must remove any code that engages in phishing by deceptively requesting a user's credentials or billing information and sending it to a third party. Please review the full policy to ensure compliance.
 
@@ -604,7 +604,7 @@ Common targets of phishing include banking credentials, credit card numbers, and
 Elevated Privilege Abuse
 ------------------------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 To avoid elevated privilege abuse violations, your app must not contain code that gains elevated privileges or breaks the Android security sandbox. This includes code that steals credentials from other apps, circumvents the Android permissions model, or disables core security features. Your app must also respect the user's control over their device. Please review the full policy to ensure compliance.
 
@@ -633,7 +633,7 @@ Privilege escalation apps that root devices without user permission are classifi
 Ransomware
 ----------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 Ransomware is malicious software that takes a user's device or data hostage, demanding payment or an action to restore control. You must not lock users out, encrypt data, or prevent uninstallation. This policy protects users from extortion. Please review the full policy to ensure compliance.
 
@@ -663,7 +663,7 @@ Code distributed with the device whose primary purpose is for subsidized device 
 Rooting
 -------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 Google Play allows non-malicious rooting but prohibits malicious rooting code. You must inform users in advance about rooting and ensure your app does not perform any other harmful actions. The goal is to ensure users consent to this powerful device change and are not exposed to additional malicious behavior. Please review the full policy to ensure compliance.
 
@@ -696,7 +696,7 @@ Code that sends unsolicited messages to the user's contacts or uses the device a
 Spyware
 -------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 Google Play prohibits the malicious collection or sharing of user or device data. Regardless of user consent or disclosure, data collection and sharing must be related to policy-compliant functionality. Please review the full policy to ensure compliance.
 
@@ -729,7 +729,7 @@ All apps must also comply with all Google Play Developer Program Policies, inclu
 Trojan
 ------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 A Trojan is code that contains a hidden, malicious component. This policy prohibits apps that perform undesirable actions against the user without their knowledge. As a developer, you must ensure your app's code is transparent and free of any hidden, harmful functionality. Please review the full policy to ensure compliance.
 
@@ -798,7 +798,7 @@ However, if an app allows arbitrary code execution and we don’t have any reaso
 Riskware
 --------
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 Riskware is an app that uses evasion techniques to hide malicious functionality. It masks itself as a legitimate app, using methods like obfuscation or dynamic code loading to reveal harmful content later. You must ensure your app is transparent and does not use such techniques to deceive reviewers or users. Please review the full policy to ensure compliance.
 
@@ -826,7 +826,7 @@ Google Play's Target API Level Policy
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy** **Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 Apps must target a recent Android API level to provide users with security and performance improvements. For new apps and app updates, you _must_ target an API level within one year of the latest major Android release; otherwise, Google Play will prevent your new app or app update submission. Existing apps that are not updated need to target an API level within two years of the latest major Android release to be visible to new users on newer Android versions. For exact timelines and exceptions, please refer to the [Help Center](https://support.google.com/googleplay/android-developer/answer/11926878) article.
 
