@@ -709,7 +709,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy or procedure is maintained by the .**  <br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 This page is a official policy, established by and endorsed by the Foundation as necessary for the operation of the sites under its jurisdiction.
 
@@ -719,7 +719,7 @@ In February 2024, this page was updated to expand the range of Office Actions to
 
 |     |     |
 | --- | --- |
-| [![](//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walnut.svg/40px-Walnut.svg.png)](https://foundation.wikimedia.org/wiki/File:Walnut.svg) | This page in a nutshell: Sometimes the Wikimedia Foundation may have to delete, protect, blank a page or take other actions without going through the normal site/community process(es) to do so. These changes may be temporary or permanent measures to prevent legal trouble or personal harm and _should not be undone_ by any user. |
+| [![](//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Walnut.svg/40px-Walnut.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Walnut.svg) | This page in a nutshell: Sometimes the Wikimedia Foundation may have to delete, protect, blank a page or take other actions without going through the normal site/community process(es) to do so. These changes may be temporary or permanent measures to prevent legal trouble or personal harm and _should not be undone_ by any user. |
 
 The office actions policy is a set of guidelines and regarding official changes to or removals of content on the Wikimedia projects, or actions against specific individuals, performed by Foundation staff members and under the authority of the Wikimedia Foundation, upon receipt of one or multiple complaints from the community or the public, or as required by law. Complaints that may lead to enforcement of office actions may include, but are not limited to, , , or systematic . All office actions are performed pursuant to the .
 
@@ -766,7 +766,7 @@ Being banned from local events does not automatically mean that one is banned fr
 *   Project specific. They may be applicable to any events relating to work and/or collaboration on particular projects or language projects, such as work on MediaWiki, Wikiprojects or the English Wikipedia.
 *   Time specific. Event bans may not necessarily be indefinite; they may be placed for a specific period.
 
-While an event ban may be lifted if it is found that it has served its purpose, continued abuse from the banned user may weigh into a decision by the Foundation to expand the ban. If notice of an event ban does not include a specific expiration date or note that it is irrevocable, an appeal may be sent to ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. (Event bans that are part of global bans or lead to global bans are not subject to appeal.)
+While an event ban may be lifted if it is found that it has served its purpose, continued abuse from the banned user may weigh into a decision by the Foundation to expand the ban. If notice of an event ban does not include a specific expiration date or note that it is irrevocable, an appeal may be sent to ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org. (Event bans that are part of global bans or lead to global bans are not subject to appeal.)
 
 Event bans may be one step before a global ban, as they are placed in situations where a complaint has been placed to the Foundation regarding user conduct that specifically occurs or may occur during in-person events. They may, however, exist in isolation, if the issue leading to the event ban is not a concern in online interaction or behavior.
 
@@ -774,7 +774,7 @@ Pursuant to this and the Foundation event bans policy, names or pseudonyms of in
 
 **DMCA compliance**
 
-The Foundation encourages people to first consider taking advantage of the existing community-led processes in order to report and resolve instances of copyright infringement. This can be done by reaching out to the Wikimedia volunteer email response team () at info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org with an informal request for content removal, including all relevant information in support of your request such as the location of the reported material and well as information that helps establish copyright ownership and the legality or illegality of the material's use.
+The Foundation encourages people to first consider taking advantage of the existing community-led processes in order to report and resolve instances of copyright infringement. This can be done by reaching out to the Wikimedia volunteer email response team () at info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org with an informal request for content removal, including all relevant information in support of your request such as the location of the reported material and well as information that helps establish copyright ownership and the legality or illegality of the material's use.
 
 In some cases, the Foundation may also receive requests to remove content from a Wikimedia Project through a formal DMCA takedown process. Before , the Foundation reviews every DMCA notice we receive to ensure that it complies with the requirements of the DMCA statute and United States copyright law. We reject notices that we do not believe are legally valid. Upon review of the request by the Foundation's Legal team, the removal itself will usually be performed by a Support & Safety team member, using their staff account. In the spirit of transparency, the Foundation informs the Wikimedia community each time it performs a DMCA takedown through (also for Commons-based requests), as well as through aggregate statistics, in its biannual .
 
@@ -873,7 +873,7 @@ Wikimedia administrators and others who have the technical power to revert or ed
 Timeline of office actions
 --------------------------
 
-[![A flowchart documenting the office actions workflow](//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Trust_and_Safety_Office_action_workflow.png/250px-Trust_and_Safety_Office_action_workflow.png)](https://foundation.wikimedia.org/wiki/File:Trust_and_Safety_Office_action_workflow.png)
+[![A flowchart documenting the office actions workflow](//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Trust_and_Safety_Office_action_workflow.png/250px-Trust_and_Safety_Office_action_workflow.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Trust_and_Safety_Office_action_workflow.png)
 
 The Office actions workflow (in English)
 
@@ -895,7 +895,7 @@ Office Actions, or Foundation decisions _not_ to take an Office Action, can be a
 
 Only individuals directly involved in a case may request review, either as an individual who requested the initial case or as an individual under investigation. Reviews may be requested following our decision (i.e., whether or not to take an Office Action), at the end of the investigation.
 
-Appeals against office actions should be sent by email to appeals![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org, setting out the reason(s) why it was inappropriate.
+Appeals against office actions should be sent by email to appeals![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org, setting out the reason(s) why it was inappropriate.
 
 With regards to office actions undertaken around investigations into the behavior of specific users, the volunteer has been formed to review appeals of eligible Trust & Safety office actions. More details may be found on the Trust & Safety Case Review Committee page.
 
@@ -938,7 +938,7 @@ Community members are welcome to but not expected or obliged to help enforce off
 
 **Abuse of office or staff actions.**
 
-If you think that the office actions listed under this policy have been abused, you can submit your concerns through ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png)org. This email address can also be used to report potential abuse by staff accounts such as inappropriate conduct or use of their advanced user rights.
+If you think that the office actions listed under this policy have been abused, you can submit your concerns through ca![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/20px-Dot.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)org. This email address can also be used to report potential abuse by staff accounts such as inappropriate conduct or use of their advanced user rights.
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
