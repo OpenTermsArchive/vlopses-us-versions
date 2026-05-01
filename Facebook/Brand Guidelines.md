@@ -21,7 +21,7 @@ Our logo has evolved over time, building on our past heritage, using an 'f' with
 
   
 
-Something Went Wrong
+Something went wrong
 
 We're having trouble playing this video.
 
