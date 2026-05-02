@@ -473,17 +473,6 @@ Please see this [Android developer guide](https://developer.android.com/health-a
 
 Apps distributed through Google Play must meet the following policy requirements in order to read and/or write data to Health Connect.
 
-![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
-
-|     |     |
-| --- | --- |
-| **Do** | **Don't** |
-| Your app must comply with the [Health apps policy](https://support.google.com/googleplay/android-developer/answer/12261419) if it qualifies as a health app or has health-related features and accesses health data including [Health Connect data](https://developer.android.com/reference/kotlin/androidx/health/connect/client/records/package-summary#classes). | Don't use [Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect) in high-risk apps (for example, aviation, control of life-critical systems such as pacemakers) or in apps that solely target children. |
-| See [Android Health Permissions: Guidance and FAQs](https://support.google.com/googleplay/android-developer/answer/12991134) to request access to Health Connect data types and other FAQs. | Don't sell or transfer user data for advertising, creditworthiness, or data brokers. |
-| Submit a [declaration form](https://goo.gle/play-permission-decl-form) in your Play Console and provide a clear and detailed justification explaining how your app will use the data to benefit the user. | Don't use with medical devices without required regulatory compliance/clearances. |
-| Request only the minimum necessary data types. | Don't access [Health Connect data](https://developer.android.com/reference/kotlin/androidx/health/connect/client/records/package-summary#classes) for secondary or unapproved purposes. |
-| Securely handle user data (for example, use modern cryptography). | Don't request data permissions beyond your app's core functionality. |
-
 #### **Appropriate Access to and Use of Health Connect**
 
 Health Connect may only be used in accordance with the applicable policies, terms and conditions, and for approved use cases as set forth in this policy. This means you may only request access to permissions when your application or service meets one of the approved use cases.
@@ -537,6 +526,17 @@ Health Connect handles health and fitness data that includes personal and sensit
 *   Information regarding handling all personal and sensitive user data securely, including transmitting it using modern cryptography (for example, over HTTPS).
 
 For more information on requirements for apps connecting to Health Connect, please see this [Help Center](https://support.google.com/googleplay/android-developer/answer/12991134) article.
+
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Your app must comply with the [Health apps policy](https://support.google.com/googleplay/android-developer/answer/12261419) if it qualifies as a health app or has health-related features and accesses health data including [Health Connect data](https://developer.android.com/reference/kotlin/androidx/health/connect/client/records/package-summary#classes). | Don't use [Health Connect](https://developer.android.com/health-and-fitness/guides/health-connect) in high-risk apps (for example, aviation, control of life-critical systems such as pacemakers) or in apps that solely target children. |
+| See [Android Health Permissions: Guidance and FAQs](https://support.google.com/googleplay/android-developer/answer/12991134) to request access to Health Connect data types and other FAQs. | Don't sell or transfer user data for advertising, creditworthiness, or data brokers. |
+| Submit a [declaration form](https://goo.gle/play-permission-decl-form) in your Play Console and provide a clear and detailed justification explaining how your app will use the data to benefit the user. | Don't use with medical devices without required regulatory compliance/clearances. |
+| Request only the minimum necessary data types. | Don't access [Health Connect data](https://developer.android.com/reference/kotlin/androidx/health/connect/client/records/package-summary#classes) for secondary or unapproved purposes. |
+| Securely handle user data (for example, use modern cryptography). | Don't request data permissions beyond your app's core functionality. |
 
 * * *
 
