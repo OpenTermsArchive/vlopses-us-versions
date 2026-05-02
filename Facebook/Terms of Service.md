@@ -536,6 +536,10 @@ The Seller agrees that it shall not be entitled to make any claim against Meta, 
 
 Meta AIs Terms of Service
 
+The [UK Meta AIs Terms of Service](https://www.facebook.com/legal/uk-ai-terms) govern the use of our Generative AI products and features by users in the United Kingdom. Please refer to these if you are a user in the United Kingdom.
+
+  
+
 These Terms of Service ("Terms") apply when you access and use Meta AIs and other software, tools, services, documentation, content, functionalities and generative AI features that we make available to you through any Meta product (collectively, "AIs"). These terms are a legally binding agreement between you and Meta Platforms, Inc. ("Meta", "we", "our" or "us"). By using AIs, you agree to be bound by these Terms, the [Meta Terms of Service](https://www.facebook.com/terms.php) and any other applicable terms and policies.
 
   
