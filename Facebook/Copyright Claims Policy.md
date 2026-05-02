@@ -1744,11 +1744,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use copyrighted content?
+
 What is fair use?
 
-Can I use content with credit?
-
-What if I bought the content?
+How to report copyright infringement?
 
 I have a different question
 
