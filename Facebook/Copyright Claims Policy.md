@@ -1304,13 +1304,11 @@ Related articles
 Copyright
 =========
 
-How to report copyright?
-
-My content was copied
+Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright infringement?
+What is copyright?
 
 I have a different question
 
