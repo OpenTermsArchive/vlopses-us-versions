@@ -286,24 +286,6 @@ Thank you for your interest in the YouTube API Services. The YouTube API Service
 YouTube API Services - Developer Policies Stay organized with collections Save and categorize content based on your preferences.
 ================================================================================================================================
 
-![Spark icon](/_static/images/icons/spark.svg)
-
-Page Summary
-------------
-
-outlined\_flag
-
-*   These policies govern the use of YouTube API Services, requiring developers to build stable, user-friendly applications that add value to YouTube while adhering to quality, honesty, and user privacy principles.
-    
-*   API clients must prioritize transparency regarding data usage, ensuring users understand how their information will be used and maintained, as well as properly identifying their purpose for data access, and providing clear methods for consent revocation.
-    
-*   Developers must adhere to strict guidelines on API access, usage, quotas, and compliance, including using the Google Developers Console, protecting API credentials, and requesting quota extensions through an API Compliance Audit.
-    
-*   The handling of YouTube data and content requires developers to obtain user consent, limit data storage durations, and avoid unauthorized activities like downloading content, modifying user data without permission, or aggregating data in prohibited ways.
-    
-*   API clients are prohibited from actions such as disrupting YouTube API Services, defrauding others, infringing copyrights, or selling ads on YouTube content, and child-directed API clients must comply with specific laws and restrictions like COPPA and GDPR.
-    
-
 **Note:** [Complying with the YouTube Developer Policies](https://developers.google.com/youtube/terms/developer-policies-guide) provides guidance and examples to help you ensure that your API clients follow specific portions of the YouTube API Services [Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](https://developers.google.com/youtube/terms/developer-policies) (API TOS). The guide offers insight into how YouTube enforces certain aspects of the API TOS, but it does not replace any existing documents.
 
 This document (the "**YouTube API Services Policies**" or "**Policies**") sets out the policies that you need to follow when accessing or using [YouTube API Services](#definition-youtube-api-services) in your service, product, or application. These Policies help you access and use [YouTube API Services](#definition-youtube-api-services) in ways that are consistent with YouTube's interests and that respect and foster the growth of YouTube's community of creators, viewers, content rights holders, and advertisers.
@@ -787,6 +769,10 @@ You and your [API Clients](#definition-api-client) must not, and must not encour
 
 If you are aware of anyone accessing or using [YouTube API Services](#definition-youtube-api-services) in a manner that is not compliant with these policies or any other part of the [Agreement](#definition-agreement), you may contact the YouTube API Services team to escalate the issue [using this form](https://support.google.com/youtube/contact/yt_api_form).
 
+### L. Additional policies on derived metrics and data storage
+
+These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics and/or store statistical data through the [standard quota extension request](https://support.google.com/youtube/contact/yt_api_form) from (starting June 01, 2026). The specific additional metrics and data storage allowances under these policies can be viewed in [Additional policies for derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy).
+
 IV. Definitions
 ---------------
 
@@ -1150,24 +1136,6 @@ The following API services are fully deprecated. They were subject to the deprec
 YouTube API Services Terms of Service - Revision History Stay organized with collections Save and categorize content based on your preferences.
 ===============================================================================================================================================
 
-![Spark icon](/_static/images/icons/spark.svg)
-
-Page Summary
-------------
-
-outlined\_flag
-
-*   This document outlines the revision history for YouTube API Services legal and policy documents, including Terms of Service, Branding Guidelines, Developer Policies, and Required Minimum Functionality.
-    
-*   Recent updates include the removal of references to the deprecated Android Player API, clarification of data retention policies, and new rules regarding nested iframe usage of the YouTube player.
-    
-*   New forms have been introduced for quota extension requests, audit appeals, and changes in control of API projects, enhancing the compliance processes.
-    
-*   Developers must adhere to these terms and policies, with the legal documents serving as the authoritative source of information, and compliance being highly important.
-    
-*   Developers can track changes to the Terms of Service via a revision history and an accompanying RSS feed that are available to subscribe to.
-    
-
 This page provides a revision history for the following documents:
 
 *   [YouTube API Services Terms of Service (Americas)](https://developers.google.com/youtube/terms/api-services-terms-of-service)
@@ -1181,6 +1149,10 @@ This page provides a revision history for the following documents:
 [Subscribe to this changelog](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml). [![Subscribe](/static/analytics/images/rss-o16.png)](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml)
 
 Note that, in all cases, the legal documents themselves are the authoritative source of information.
+
+### May 4, 2026
+
+Added the [Additional policies on derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy). These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics (such as custom scores, earnings estimates, suitability scoring etc.) and/or store statistical data through the [standard quota extension request form](https://support.google.com/youtube/contact/yt_api_form) (starting June 1, 2026).
 
 ### July 7, 2025
 
