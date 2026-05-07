@@ -731,7 +731,7 @@ Learn more about [Google ads](https://support.google.com/ads/answer/1634057).
 Partner Information Protection Addendum
 =======================================
 
-Version 13
+Version 14
 
 1. General.
 -----------
@@ -749,7 +749,7 @@ In this PIPA:
 
 (a) “**Affiliate**” means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
 
-(b) “**Applicable Data Protection Laws**” means privacy, data security, and data protection laws, directives, and regulations in any jurisdiction applicable to the Personal Information Processed under the Agreement including the GDPR, LGPD, U.S. State Data Protection Laws, and rules that govern the processing of Bulk Sensitive Data.
+(b) “**Applicable Data Protection Laws**” means privacy, data security, and data protection laws, directives, and regulations in any jurisdiction applicable to the Personal Information Processed under the Agreement including the GDPR, LGPD, NDPA, U.S. State Data Protection Laws, and rules that govern the processing of Bulk Sensitive Data.
 
 (c) “**Applicable Standards**” mean government standards, industry standards, codes of practice, guidance from Regulators, and best practices applicable to the parties’ Processing of Personal Information under the Agreement, including Data Transfer Solutions and the Payment Card Industry Data Security Standards (“**PCI DSS**”).
 
@@ -761,7 +761,7 @@ In this PIPA:
 
 (g) “**Data Controller**” means an entity that determines the purposes and means of Processing Personal Information. Data Controller also means “controller” as defined by Applicable Data Protection Laws, and “business” as defined by U.S. State Data Protection Laws.
 
-(h) “**Data Transfer Solution**” means a solution that enables the lawful transfer of Personal Information to a third country in accordance with the GDPR or other Applicable Data Protection Laws, including the EU-U.S. Data Privacy Framework, UK Extension to EU-U.S. Data Privacy Framework, Swiss-U.S. Data Privacy Framework (collectively, the “**Data Privacy Framework**”), or another valid data protection framework recognized as providing adequate protection under GDPR or other Applicable Data Protection Laws.
+(h) “**Data Transfer Solution**” means a solution that enables the lawful transfer of Personal Information to a third country in accordance with the GDPR or other Applicable Data Protection Laws, including the EU-U.S. Data Privacy Framework, UK Extension to EU-U.S. Data Privacy Framework, Swiss-U.S. Data Privacy Framework (collectively, the “**Data Privacy Framework**”), or another valid data protection framework or appropriate contractual framework recognized as providing adequate protection under GDPR or other Applicable Data Protection Laws.
 
 (i) “**Deidentified Data**” means “de-identified data” or “deidentified data” as defined by U.S. State Data Protection Laws.
 
@@ -783,21 +783,23 @@ In this PIPA:
 
 (r) “**LGPD**” means Brazilian Law no. 13,709 for the protection of personal data.
 
-(s) “**Personal Information**” means any information about an individual or information that is not specifically about an individual but, when combined with other information, may identify an individual or any other information that constitutes “**personal data**” or “**personal information**” within the meaning of Applicable Data Protection Laws and, without limitation, includes names, email addresses, postal addresses, telephone numbers, government identification numbers, financial account numbers, payment card information, credit report information, biometric information, online identifiers (including IP addresses and cookie identifiers), network and hardware identifiers and geolocation information, and that is Processed in connection with the Agreement.
+(s) “**NDPA**” means the Nigerian Data Protection Act 2023 and the Nigeria Data Protection Act - General Application and Implementation Directive 2025 (each as amended, superseded, or replaced).
 
-(t) “**Process**” or “**Processing**” will have the meaning provided under Applicable Data Protection Laws relevant to Personal Information, and where such definition is not specified, will have the meaning provided under the EU GDPR.
+(t) “**Personal Information**” means any information about an individual or information that is not specifically about an individual but, when combined with other information, may identify an individual or any other information that constitutes “**personal data**” or “**personal information**” within the meaning of Applicable Data Protection Laws and, without limitation, includes names, email addresses, postal addresses, telephone numbers, government identification numbers, financial account numbers, payment card information, credit report information, biometric information, online identifiers (including IP addresses and cookie identifiers), network and hardware identifiers and geolocation information, and that is Processed in connection with the Agreement.
 
-(u) “**reasonable**” means reasonable and appropriate to (i) the size, scope, and complexity of the parties’ Processing of Personal Information; (ii) the nature of Personal Information being Processed; and (iii) the need for privacy, confidentiality, and security of Personal Information.
+(u) “**Process**” or “**Processing**” will have the meaning provided under Applicable Data Protection Laws relevant to Personal Information, and where such definition is not specified, will have the meaning provided under the EU GDPR.
 
-(v) “**Receiving Controller**” means You or the Google Controller that receives Personal Information from the Google Controller or You under this PIPA as applicable. For purposes of the Controller-Controller SCCs, the data importer means the Receiving Controller.
+(v) “**reasonable**” means reasonable and appropriate to (i) the size, scope, and complexity of the parties’ Processing of Personal Information; (ii) the nature of Personal Information being Processed; and (iii) the need for privacy, confidentiality, and security of Personal Information.
 
-(w) “**Regulator**” or “**Regulatory**” means an entity with supervisory or regulatory authority over Google under Applicable Data Protection Laws.
+(w) “**Receiving Controller**” means You or the Google Controller that receives Personal Information from the Google Controller or You under this PIPA as applicable. For purposes of the Controller-Controller SCCs, the data importer means the Receiving Controller.
 
-(x) “**Third-Party Provider**” means an agent or other entity that a party to this Agreement authorizes to act on its behalf in connection with the Agreement. “Third Party Provider” includes “processor” within the meaning of the Controller-Controller SCCs.
+(x) “**Regulator**” or “**Regulatory**” means an entity with supervisory or regulatory authority over Google under Applicable Data Protection Laws.
 
-(y) “**U.S. State Data Protection Laws**” means all privacy, data security, and data protection laws, regulations or rules in the United States applicable to the Personal Information Processed for the Agreement, including without limitation the laws listed at [business.safety.google/usdataprotectionlaws](https://business.safety.google/usdataprotectionlaws).
+(y) “**Third-Party Provider**” means an agent or other entity that a party to this Agreement authorizes to act on its behalf in connection with the Agreement. “Third Party Provider” includes “processor” within the meaning of the Controller-Controller SCCs.
 
-(z) “**You**” or “**Your**” means the counterparty to Google (including any personnel, contractor, or agent acting on behalf of that party) described in the Agreement.
+(z) “**U.S. State Data Protection Laws**” means all privacy, data security, and data protection laws, regulations or rules in the United States applicable to the Personal Information Processed for the Agreement, including without limitation the laws listed at [business.safety.google/usdataprotectionlaws](https://business.safety.google/usdataprotectionlaws).
+
+(aa) “**You**” or “**Your**” means the counterparty to Google (including any personnel, contractor, or agent acting on behalf of that party) described in the Agreement.
 
 3. Data Controllers’ Mutual Representations and Warranties.
 -----------------------------------------------------------
@@ -910,12 +912,13 @@ Google may change this PIPA if the change:
 
 (d) does not: (i) result in a degradation of the overall security of Personal Information Processed under the Agreement; (ii) expand the scope of, or remove any restrictions on, either party’s right to use or otherwise Process the data in scope of the PIPA; and (iii) otherwise have a material adverse impact on the parties’ rights under this PIPA, as reasonably determined by Google.
 
-Partner Information Protection Addendum Version 13
+Partner Information Protection Addendum Version 14
 
-21 October 2025
+7 May 2026
 
 **Previous Versions**
 
+*   [21 October 2025](https://kstatic.googleusercontent.com/files/885b213d9599354fb99d14cb3f5250f9964c2c2dcc7763e39cc8948b25c1944d3992545441804ca6783517e40d3732cfc2c48dacf473f39956225df27431532b)
 *   [22 August 2025](https://kstatic.googleusercontent.com/files/f950c58d3a416b65e9a64854f08abf4ae74b8f64a83c1761301dd66b808005fcb79f8f38bc42af894f46c8cfd7e974e900664857943d95c04896014e6d19d1af)
 *   [10 June 2024](https://kstatic.googleusercontent.com/files/eb58aac4d86b05e0eabc582033f07a51e4044f762b6342a79be32c07236db8e2d3f9606e87320649844c5c9b57f7acfc95a8e239e599200e6ad1631c72624c1e)
 *   [29 September 2023](https://kstatic.googleusercontent.com/files/3a2582b1e36ad4f44757586879a2f6f2cefdbfded288278c9e72e75add1bec5ab40bed578d05ef07a8b5e7c1232ed211c4abaffa5f86f2e7e0a3ae266ef4fbf6)
