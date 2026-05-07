@@ -1,6 +1,8 @@
 Google Controller-Controller Data Protection Terms
 ==================================================
 
+Version 11
+
 Google and the other party agreeing to these terms (“**Partner**”) have entered into an agreement for the provision of the Controller Services (as amended from time to time, the “**Agreement**”).
 
 These Google Controller-Controller Data Protection Terms (including the appendix, “**Controller Terms**”) are entered into by Google and Partner and supplement the Agreement. These Controller Terms will be effective, and replace any previously applicable terms relating to their subject matter, from the Terms Effective Date.
@@ -21,7 +23,7 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 “**Affiliate**” means an entity that directly or indirectly controls, is controlled by, or is under common control with, a party.
 
-“**Applicable Data Protection Legislation**” means, as applicable to the processing of Controller Personal Data, any national, federal, EU, state, provincial or other privacy, data security or data protection law or regulation, including European Data Protection Legislation, the LGPD, U.S. State Data Protection Laws, Japan Privacy Laws, and rules that govern the processing of Bulk Sensitive Data.
+“**Applicable Data Protection Legislation**” means, as applicable to the processing of Controller Personal Data, any national, federal, EU, state, provincial or other privacy, data security or data protection law or regulation, including European Data Protection Legislation, the LGPD, NDPA, U.S. State Data Protection Laws, Japan Privacy Laws, and rules that govern the processing of Bulk Sensitive Data.
 
 “**Bulk Sensitive Data**” means bulk U.S. sensitive personal data or government-related data, each as defined in 28 C.F.R. Part 202 on Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons.
 
@@ -46,6 +48,8 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 "**Japan Privacy Law**" means Japan Act on the Protection of Personal Information (Act No. 57 of 2003).
 
 “**LGPD**” means the Brazilian General Data Protection Law (Lei Geral de Proteção de Dados Pessoais).
+
+“**NDPA**” means the Nigerian Data Protection Act 2023 and the Nigeria Data Protection Act - General Application and Implementation Directive 2025 (each as amended, superseded, or replaced).
 
 “**Swiss FDPA**” means, as applicable, the Federal Data Protection Act of 19 June 1992 (Switzerland) (with the Ordinance to the Federal Data Protection Act of 14 June 1993), or the revised Federal Data Protection Act of 25 September 2020 (with the Ordinance to the Federal Data Protection Act of 31 August 2022).
 
@@ -377,12 +381,13 @@ under or in connection with the Agreement and the BR Controller SCCs combined wi
 
 6.2**No Modification of BR Controller SCCs**. Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any BR Controller SCCs or the LGPD.
 
-_Google Controller-Controller Data Protection Terms, Version 10_
+_Google Controller-Controller Data Protection Terms, Version 11_
 
-_17 February 2026_
+_7 May 2026_
 
 **Previous Versions**
 
+*   [17 February 2026](https://kstatic.googleusercontent.com/files/1c94b98b5ab44075c0a2a65245474adffdf993e9b8d1c1ae5e93804d4a918d784b96897a8fae0d9c4683e5f151b67bd7c52a16a08108b056286676200322bd0e)
 *   [22 August 2025](https://kstatic.googleusercontent.com/files/ed00055941075412e65f0cebcbaa1999307c28b03b3891a43b37b588e690db73f267931ecbae0f5224e9d8a1755d71ca8b6846eaa009fac3e732eb6e901c4b23)
 *   [4 June 2024](https://kstatic.googleusercontent.com/files/c85766a885b2e6476beb063c02d94a479f01a42fb326e85a2b2ae11be9860774f1e10e8aa6a60fecf932acf7dd3ac1bb85345ef7588325f2455731bd35e54399)
 *   [1 September 2023](https://kstatic.googleusercontent.com/files/1a249e353a14b3fbe88870fda1fd6bc1d33e64e80520466108653ab6ec44a3c8f00beaa9d250f1371687ae0fffa2a9569de99f37f98b0f896c1ee64ef605a84d)
