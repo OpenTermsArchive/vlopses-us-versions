@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -1310,13 +1310,11 @@ Related articles
 Copyright
 =========
 
-How to report copyright?
+How do I protect my work?
 
-My content was copied
+Report copyright infringement
 
-Protect my copyrighted work
-
-What is copyright infringement?
+What is copyright law?
 
 I have a different question
 
@@ -1606,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1679,9 +1677,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
-
-I need legal advice
+Fair use in the EU?
 
 I have a different question
 
@@ -1756,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -1895,15 +1891,13 @@ Facebook Lite App Help
 
 More
 
-Contenuto rimosso per copyright
+Appeal content removal
 
-Contestare rimozione contenuto
+Contact rights owner
 
-Contattare titolare dei diritti
+DMCA counter-notification
 
-Cosa sono le procedure DMCA?
-
-Ho un'altra domanda
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -2064,11 +2058,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 
