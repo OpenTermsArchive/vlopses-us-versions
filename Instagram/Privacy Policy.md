@@ -11,6 +11,8 @@ What is the Privacy Policy and what does it cover?
 
 Effective December 16, 2025 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/version/25862970456621906/) | [See previous versions](https://privacycenter.instagram.com/policy/version/25862970456621906/?show_versions=1)
 
+Read the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso/) for more details about how we handle Personal Information and how to exercise your rights.
+
 We at Meta want you to understand what information we collect, and how we use and share it. That’s why we encourage you to read our Privacy Policy. This helps you use [Meta Products](https://privacycenter.instagram.com/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) in the way that’s right for you.
 
 In the Privacy Policy, we explain how we collect, use, share, retain and transfer information. We also let you know your rights. Each section of this Policy includes helpful examples and simpler language to make our practices easier to understand. We’ve also added links to resources where you can learn more about the privacy topics that interest you.
@@ -273,7 +275,7 @@ Port, download or delete your information
 
 [Delete your information or account](https://privacycenter.instagram.com/policy/?annotations[0]=6.ex.2-DeleteYourInformationOr)
 
-You can learn more about how privacy works on [Facebook](https://privacycenter.instagram.com/) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://www.facebook.com/help/contact/507739850846588) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
+You can learn more about how privacy works on [Facebook](https://privacycenter.instagram.com/) and on [Instagram](https://help.instagram.com/196883487377501?ref=dp), and in the [Facebook Help Center](https://www.facebook.com/help/). If you have questions about this policy, you can [contact us](https://help.meta.com/support/privacy) as described below. In some countries, you may also be able to contact the Data Protection Officer for Meta Platforms, Inc., and depending on your jurisdiction, you may also contact your local Data Protection Authority (“DPA”) directly.
 
 How long do we keep your information?
 
@@ -311,6 +313,10 @@ We may access or preserve your information for an extended amount of time. [Lear
 How will you know the Policy has changed?
 
 We'll notify you before we make material changes to this Policy. You’ll have the opportunity to review the revised Policy before you choose to continue using our Products.
+
+Privacy notice for United States residents
+
+You can learn more about the consumer privacy rights that may be available to you by reviewing the [United States Regional Privacy Notice](https://www.facebook.com/privacy/policies/uso).
 
 How to contact Meta with questions
 
