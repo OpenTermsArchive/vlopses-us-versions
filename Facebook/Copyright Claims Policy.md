@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
+What is a trademark?
+
+Report trademark infringement
+
+My trademark is infringed
+
+What is Brand Rights Protection?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -584,13 +594,15 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelować usunięcie treści
+Apelar remoção de conteúdo
 
-Apelować raport o znak towarowy
+Conteúdo removido por engano
 
-Apelować raport o własność intelektualną
+Contactar proprietário dos direitos
 
-I have a different question
+O que é uma marca registada?
+
+Tenho uma questão diferente
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1308,13 +1320,11 @@ Related articles
 Copyright
 =========
 
-How to report copyright?
-
-My content was copied
+Report copyright infringement
 
 Protect my copyrighted work
 
-What is copyright infringement?
+What is copyright?
 
 I have a different question
 
@@ -1677,7 +1687,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
