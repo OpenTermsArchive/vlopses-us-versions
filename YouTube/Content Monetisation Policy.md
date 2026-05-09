@@ -558,7 +558,7 @@ Signed-in viewers who meet the [requirements for virtual items](https://support.
 Which creators can earn from gifts?
 -----------------------------------
 
-US creators who are in the YouTube Partner Program (YPP) and have accepted and meet the requirements for the Virtual Items Module in YouTube Studio can earn.
+Creators in an [eligible country](https://support.google.com/youtube/answer/15535963) who are in the YouTube Partner Program (YPP) and have accepted and meet the requirements for the Virtual Items Module in YouTube Studio can earn.
 
 Should I verify my identity to get access to Virtual Items?
 -----------------------------------------------------------
