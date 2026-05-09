@@ -584,15 +584,13 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelar remoção de conteúdo
+Apelować usunięcie treści
 
-Conteúdo removido por engano
+Apelować raport o znak towarowy
 
-Contactar proprietário dos direitos
+Apelować raport o własność intelektualną
 
-O que é uma marca registada?
-
-Tenho uma questão diferente
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1310,11 +1308,13 @@ Related articles
 Copyright
 =========
 
-How do I protect my work?
+How to report copyright?
 
-Report copyright infringement
+My content was copied
 
-What is copyright law?
+Protect my copyrighted work
+
+What is copyright infringement?
 
 I have a different question
 
@@ -1891,13 +1891,15 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Contenuto rimosso per copyright
 
-Appeal content removal
+Contestare rimozione contenuto
 
-DMCA counter-notification
+Contattare titolare dei diritti
 
-I have a different question
+Cosa sono le procedure DMCA?
+
+Ho un'altra domanda
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
