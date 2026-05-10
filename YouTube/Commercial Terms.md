@@ -1,9 +1,9 @@
 YouTube Paid Service Terms of Service
 =====================================
 
-#### Vigente a partir del February 11, 2026 ([consulta la versión anterior](https://www.youtube.com/t/terms_paidservice?archive=20250926-en))
+#### Effective as of February 11, 2026 ([view previous version](https://www.youtube.com/t/terms_paidservice?archive=20250926-en))
 
-#### Xem Điều khoản dịch vụ bằng ngôn ngữ khác: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
+#### View the Terms of Service in other languages: [English](https://www.youtube.com/t/terms_paidservice?hl=en&override_hl=1)
 
 Please ensure you read the YouTube Paid Service Terms of Service in full, in addition to any Additional Terms that apply to the particular Paid Service(s) you are using.
 
