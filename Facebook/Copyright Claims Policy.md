@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -1310,15 +1310,13 @@ Related articles
 Copyright
 =========
 
-Rapportera upphovsrättsintrång
+Report copyright infringement
 
-Skydda mitt upphovsrättsskyddade verk
+Protect my copyrighted work
 
-Vad är Rights Manager?
+What is copyright?
 
-Vad händer om jag bryter mot upphovsrätten?
-
-Jag har en annan fråga
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -2118,13 +2116,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
-
-Where to find URLs?
-
 My copyright was infringed
 
-How to report copyright?
+Report copyright infringement
+
+What is a copyright report?
 
 I have a different question
 
