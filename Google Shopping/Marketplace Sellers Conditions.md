@@ -4261,10 +4261,31 @@ If you’re working with a third-party platform, some of these instructions may 
 
 - - -
 
-Vehicle ads policies (Beta)
-===========================
+Vehicle ads policies
+====================
 
-Vehicle ads are a performance focused, omnichannel, ad format which allows vehicle advertisers to promote their entire inventory of new and used vehicles to interested customers shopping for vehicles online. This format is relevant for any vehicle advertiser that wants to promote vehicle inventory for sale. Vehicle advertisers can participate by uploading their vehicle feeds to Merchant Center and running Performance Max campaigns in Google Ads to serve vehicle ads. Learn more about how to set up [vehicle ads](https://support.google.com/merchants/answer/11192503).
+Vehicle ads are a performance focused, omnichannel, ad format that allows vehicle advertisers to promote their entire inventory of new and used vehicles to interested customers shopping for vehicles online. This format is relevant for any vehicle advertiser that wants to promote vehicle inventory for sale.
+
+**On this page**
+
+*   [Important considerations for vehicle ads](#Important)
+*   [Requirements to participate in vehicle ads](#requirements)
+*   [Exceptions to shopping ads policies](#Exceptions)
+*   [Understanding issues in Merchant Center](#Understanding)
+*   [Vehicle ads beta features](#beta)
+
+Important considerations for vehicle ads
+----------------------------------------
+
+*   **Program targeting**: Ensure your feed settings in Merchant Center are configured to target only “Vehicle Ads”' Targeting Shopping Ads or Free Listings is not supported for vehicle sales and can lead to product disapproval or limited visibility.
+*   **Data accuracy**: Product disapprovals or 'Limited' status can also occur due to incorrect feed data. Pay close attention to:
+*   **Pricing**: The price in your feed and structured data must exactly match the price on your website landing page.
+*   **Landing pages**: Verify that landing page URLs are correct, accessible, and accurately reflect the vehicle being advertised.
+*   **Link templates**: If using link templates, ensure they include “?store={store\_code}” and redirect to the specific product landing page.
+*   **Mileage**: Use supported units (For example, ‘miles’ or ‘km’) and ensure accuracy on both the landing page and in the feed.
+*   **Required attributes**: All necessary attributes, such as image links and availability, must be present and correct.
+*   **Store codes**: The store code in your feed must match the store code provided in your store data. Learn more about [How to fix: Missing valid store code](https://support.google.com/merchants/answer/11355151)
+*   **Review process**: After submitting your feed or making updates, allow 24-48 hours for the changes to sync and for the review to complete. Products may initially appear as 'Pending initial data quality review' or 'Under Review'. Ensure your website has also passed the website eligibility review for the Vehicle Ads program for a smooth review process.
 
 To participate in our vehicle ads program, you must adhere to the [Shopping ads policies](https://support.google.com/merchants/answer/6149970) with the following requirements and exceptions.
 
@@ -4273,9 +4294,9 @@ Requirements to participate in vehicle ads
 
 **Note**: Exceptions to the requirements below may apply based on participation in [beta features](#beta).
 
-*   **Allowed vehicle types**: Non-commercial and passenger vehicles including recreational vehicles and campers
+*   **Allowed vehicle types**: Non-commercial and passenger vehicles including recreational vehicles **ATV’s, UTV’s, RV’s, non-motorized trailers** and campers
     *   Any vehicle that requires a special license to operate, permission to be bought, or aren’t equipped and licensed for use on public roads are excluded.
-    *   Examples of excluded vehicle types: ATV, motorcycles, motor bikes, boats, planes, farm vehicles, go-karts, race cars, and any vehicle requiring a commercial license.
+    *   Examples of excluded vehicle types: Motorcycles, motor bikes, boats, planes, farm vehicles, go-karts, race cars, and any vehicle requiring a commercial license.
 *   **For sale or lease only**: Vehicles available for subscription aren't supported
 *   **Vehicle auctions**: Vehicle auctions and auction pricing aren't supported
 *   **Vehicle parts**: Vehicle parts, accessories, tires, and services aren't supported
@@ -4285,13 +4306,13 @@ Requirements to participate in vehicle ads
     *   Examples are state vehicle dealer license, sales license, permit information, or business registration.
     *   A driver's license or sales receipts aren’t valid documentation to meet this requirement.
 *   **Direct sellers only**: Brokers aren't allowed to participate
-*   **Aggregators and original equipment manufacturers (OEMs)**: Aggregators and OEMs may only upload vehicles from dealerships with valid licenses in the required market.
-*   **Online delivery of vehicles**: Currently isn't supported
+*   **Aggregators and original equipment manufacturers (OEMs)**: Aggregators and OEMs may only upload vehicles from dealerships with valid licenses in the required market.
+*   **Online delivery of vehicles**: The program for advertisers offering online delivery of vehicles is in beta. Fill out this [form](https://support.google.com/merchants/contact/cuf_vehicle_ads_troubleshooting) to submit your interest.
 *   **Location**: You must have a brick and mortar business location for customers to physically visit, review, and/or purchase the vehicle in the state you are listing the vehicle for purchase
 *   **One account per state**: You may only list vehicles for sale in a single state within a single Merchant Center account
-*   **Image feed:** Vehicle ads have additional image feed specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
+*   **Image feed**: Vehicle ads have additional image feed specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
 
-Exceptions to Shopping ads policies
+Exceptions to shopping ads policies
 -----------------------------------
 
 The following Shopping ads policies don’t apply to vehicle ads:
@@ -4299,7 +4320,12 @@ The following Shopping ads policies don’t apply to vehicle ads:
 *   **[Unsupported shopping content](https://support.google.com/merchants/answer/6150006) \[vehicles\]**: Light passenger cars and trucks may be advertised using vehicle ads.
 *   **[Promote only products available for direct purchase](https://support.google.com/merchants/answer/6363310#promote-only-products-available-for-direct-purchase)**: Vehicle ads may lead a customer to complete a vehicle purchase in person and thus the policy for “Links promoted in Shopping ads and free listings need to lead users directly to a page that allows them to buy the advertised product” isn’t required for vehicle ads.
 *   **[Website requirements regarding online checkout](https://support.google.com/merchants/answer/6363310#website-requirements)**: The requirement for online payment and transaction requirements don’t apply to vehicle ads.
-*   **[Shipping](https://support.google.com/merchants/answer/7050921):** Given that vehicle ads require an in-store purchase and pickup, no shipping information is required.
+*   **[Shipping](https://support.google.com/merchants/answer/7050921)**: Given that vehicle ads require an in-store purchase and pickup, no shipping information is required.
+
+Understanding issues in Merchant Center
+---------------------------------------
+
+If your vehicle data and website don't comply with our policies, your offers might get disapproved or your account could be suspended. These issues can prevent your products from showing on Google. Learn more about i[ssues in Merchant Center](https://support.google.com/merchants/answer/12153802) and request a review.
 
 Vehicle ads beta features
 -------------------------
