@@ -696,6 +696,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Biofase](https://meta.wikimedia.org/wiki/Special:CentralAuth/Biofase "m:Special:CentralAuth/Biofase") / [Drew McNish](https://meta.wikimedia.org/wiki/Special:CentralAuth/Drew_McNish "m:Special:CentralAuth/Drew McNish"), since 7 April 2026
 *   [Rvitaletx](https://meta.wikimedia.org/wiki/Special:CentralAuth/Rvitaletx "m:Special:CentralAuth/Rvitaletx"), since 9 April 2026
 *   [Apokrif](https://meta.wikimedia.org/wiki/Special:CentralAuth/Apokrif "m:Special:CentralAuth/Apokrif"), since 14 April 2026
+*   [James Lawrie](https://meta.wikimedia.org/wiki/Special:CentralAuth/James_Lawrie "m:Special:CentralAuth/James Lawrie"), since 14 May 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
