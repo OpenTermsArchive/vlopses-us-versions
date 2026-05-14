@@ -25,7 +25,7 @@ Apple Books](https://www.apple.com/legal/intellectual-property/dispute-forms/boo
 [![](https://www.apple.com/legal/images/dispute-forms/podcasts-sq/podcasts-sq_large_2x.png)  
 Podcasts](https://www.apple.com/legal/intellectual-property/dispute-forms/podcasts/)
 
-For infringement claims related to iCloud, please use the below online form on this page. Please note that processing of claims for Apple Services will take longer without use of the appropriate online form.
+For infringement claims related to iCloud and Maps, please use the below online form on this page. Please note that processing of claims for Apple Services will take longer without use of the appropriate online form.
 
 **  
 Procedure for Making Claims of Infringement**  
