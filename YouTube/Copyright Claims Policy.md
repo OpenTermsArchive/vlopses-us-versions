@@ -200,7 +200,7 @@ Yes, if multiple videos belong to the same copyright strike and you believe they
 
 If my channel is terminated, can I submit a counter notification?
 
-Yes. You’ll need to submit by [email, fax, or mail](https://support.google.com/youtube/answer/2807684#email) since you don’t have access to YouTube Studio.
+Yes. You can submit a counter notification in YouTube Studio or by [email, fax, or mail](https://support.google.com/youtube/answer/2807684#email).
 
 How do I submit a counter notification as an EU DSA Article 86 designated organization?
 
