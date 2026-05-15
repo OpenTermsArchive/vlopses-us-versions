@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (e.g. brand name, logo) that dis
 Trademark
 =========
 
-What is a trademark?
-
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What does trademark protect?
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don't protect, how you can avoid infringing the trademarks of other people when posting to Facebook and how Facebook addresses reports of trademark infringement.
 
 If you believe that someone is infringing your trademark, you can report it to us by [filling in this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -463,9 +453,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
@@ -475,9 +465,9 @@ Related articles
 
 [How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
 
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
@@ -594,15 +584,13 @@ Content that I posted on Facebook was removed because it was reported for intell
 
 Copy link
 
-Apelar remoção de conteúdo
+Apelować usunięcie treści
 
-Conteúdo removido por engano
+Apelować raport o znak towarowy
 
-Contactar proprietário dos direitos
+Apelować raport o własność intelektualną
 
-O que é uma marca registada?
-
-Tenho uma questão diferente
+I have a different question
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
@@ -1565,11 +1553,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-Can I use public domain content?
+What is public domain?
+
+Copyright for my work
 
 I have a different question
 
@@ -1614,13 +1602,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
