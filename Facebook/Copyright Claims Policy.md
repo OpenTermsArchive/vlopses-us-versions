@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright violation
+Report copyright infringement
 
-Report trademark violation
+Report trademark infringement
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -756,13 +756,15 @@ If you own a registered trademark, you may be eligible to use Brand Rights Prote
 Copyright
 =========
 
-Protect my copyrighted work
+Rapportera upphovsrättsintrång
 
-Report copyright infringement
+Skydda mitt upphovsrättsskyddade verk
 
-What is Rights Manager?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -950,13 +952,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
+My content was removed
+
 What is fair use?
 
-Get permission to post
+How to get permission?
 
-Content in public domain
-
-What is copyright?
+What is public domain?
 
 I have a different question
 
@@ -1202,13 +1204,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Meld en krænkelse af ophavsret
+Report copyright infringement
 
-Kontakt den udpegede agent
+My copyright was infringed
 
-Send en besked til den, der har opslået indholdet
+Contact designated agent
 
-Jeg har et andet spørgsmål
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
