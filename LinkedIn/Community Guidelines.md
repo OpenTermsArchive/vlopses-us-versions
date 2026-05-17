@@ -384,7 +384,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Nudity and adult content
 ------------------------
 
-Last updated: 4 days ago
+Last updated: 5 days ago
 
 We remove content containing nudity or sexual activity.
 
