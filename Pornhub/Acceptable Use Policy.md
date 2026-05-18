@@ -1,7 +1,7 @@
 Non-Consensual Content Policy
 =============================
 
-**December 2025**
+**March 2026**
 
 Consent, as a rule and [value](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values), is paramount to the security of our users and integrity of our platform.
 
@@ -11,11 +11,11 @@ Content that we identify as a violation of our Non-Consensual Content Policy wil
 
 **What is considered a violation of our non-consensual content policy:**
 
-The recording or distribution of intimate images (that is, photos and videos that are generally understood to depict explicit sexual activity or nudity or partial nudity) without someone’s consent is a violation of that person’s privacy and is a severe violation of our [Terms of Service](https://www.pornhub.com/information/terms), and is **strictly prohibited**. Content featuring or promoting non-consensual acts, real or simulated, is also prohibited.
+The recording, distribution, or threatened distribution of intimate images (that is, photos and videos that are generally understood to depict explicit sexual activity or nudity or partial nudity) without someone’s consent is a violation of that person’s privacy and is a severe violation of our [Terms of Service](https://www.pornhub.com/information/terms) and is **strictly prohibited**. Content featuring or promoting non-consensual acts, real or simulated, is also prohibited.
 
 **Guidelines** 
 
-**Do NOT** use the platform to upload, post, or otherwise share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved. Examples of the types of content that violate this policy include, but are not limited to**\***:
+**Do NOT** use the platform to upload, post, threaten to post, or otherwise share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved. Examples of the types of content that violate this policy include, but are not limited to**\***:
 
 *   Videos or photos of any person, whether in a public or private setting, without that person’s valid written consent (such as hidden/spy camera content, or up-skirt content);
     
@@ -25,12 +25,14 @@ The recording or distribution of intimate images (that is, photos and videos tha
     
 *   “Doxing”, defined as exposing private and identifying information about a particular individual, including phone number, e-mail, address, or full name.
     
+*   Threatening to publish, distribute, or otherwise make available intimate images or videos of another person without their consent, including real, simulated, or AI-generated content, regardless of whether such content exists or is ultimately shared.
+    
 
 To help protect the integrity of the platform, we also **prohibit** content, including fictional, simulated, or animated, that features or depicts\*:
 
 *   Depictions of non-consensual sexual activity\*, including coerced or forced sexual acts, rape, or sexual assault;
 *   Persons appearing drugged, incapacitated, or intoxicated\*\* involved in sexual acts;
-*   Any “deepfakes” whatsoever (AI-generated, modified, or other manipulations of a person’s image, whether in picture or video, to deceive or mislead the viewer into believing that person is acting or speaking in the way presented).
+*   Any “deepfakes” whatsoever (AI-generated, modified, or other manipulations of a person’s image, whether in picture or video, to deceive or mislead the viewer into believing that person is acting or speaking in the way presented). This includes AI-generated or manipulated content that is likely to be mistaken for a real photographic, video, or other visual recording of an identifiable person.
 
 \* See our section below on _Sensitive Themes and Considerations for Consent_.
 
@@ -40,13 +42,13 @@ To help protect the integrity of the platform, we also **prohibit** content, inc
 
 It is important to remember that pornography does not always represent sexual interactions and behaviors typical of everyday life, and often depicts diverse fantasies and role-play scenarios by consenting amateurs and professionals. In all cases, whether professional or amateur, we expect content to adhere to Pornhub's [core values](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values) and [Terms of Service](https://www.pornhub.com/information/terms).
 
-When reviewing content depicting the sensitive themes listed below, we take the following into consideration to determine whether it violates our [Terms of Service](https://www.pornhub.com/information/terms). We recommend reviewing our detailed policy before uploading content involving these sensitive themes. Consent must be determinable by the reasonable observer from the material itself, which may be assessed either through clear verbal or visual cues.
+When reviewing content depicting the sensitive themes listed below, we take the following into consideration to determine whether it violates our [Terms of Service](https://www.pornhub.com/information/terms). We recommend reviewing our detailed policy before uploading content involving these sensitive themes. Consent must be determinable by the reasonable observer from the material itself, which may be assessed either through clear verbal or visual cues. Consent must apply to both the creation and distribution of the content, including AI-generated or manipulated representations.
 
 Note that we consider many factors to distinguish fantasy from reality. The following is a non-exhaustive list of what we consider sensitive themes. Accordingly, content engaging with the following themes is subject to removal, and appropriate account enforcement, where found to be in violation of our [Terms of Service](https://www.pornhub.com/information/terms):
 
 *   **Spells, Mesmerizing, or Possession**: We do not permit content where:
     *   A performer is depicted as incapacitated, or otherwise completely unconscious because of possession, spells, or mesmerizing;
-    *   Performers display signs of distress or panic during or after the act; or
+    *   Performers display signs of distress or panic before, during or after the act; or
     *   Realistic depictions of spellbound, mesmerized, or possessed performers engaged in or subjected to sexual acts.
 *   **Sleep**: Where there is a component of sleep in the content, the person must wake up within a reasonable time from the start of any sexual act(s) and consent must be made clear by that person.
 *   **Bondage and Restraints**: If a scene features the use of a gag, restraint(s), or other device(s) that would render a performer unable to clearly speak or move, consent to continued participation must be clearly determinable from the material itself, or where it cannot be, consent must be clearly determinable through other visual or verbal cues.
@@ -102,9 +104,9 @@ In all cases where we identify or are made aware of content that violates this p
 
 If you believe you have come across non-consensual content, or any other content that otherwise violates our [Terms of Service](https://www.pornhub.com/information/terms), we strongly encourage you to immediately alert us by [flagging](https://help.pornhub.com/hc/en-us/articles/360055147653-Report-Harmful-Content) the content for our review.
 
-If you are the victim or have first-hand knowledge that content violates our Non-Consensual Content policy, please report the content to us by completing and submitting our [**CONTENT REMOVAL REQUEST FORM**](https://www.pornhub.com/content-removal). Please include all relevant URL links to the content in question and we will address your request confidentially and remove the content expeditiously.
+If you are the victim or have first-hand knowledge that content violates our Non-Consensual Content policy, please report the content to us by completing and submitting our [Content Removal Request Form](https://www.pornhub.com/content-removal). Please include all relevant URL links to the content in question and we will address your request confidentially and remove the content expeditiously.
 
-Anyone can report violations of this policy using our [CONTENT REMOVAL REQUEST FORM](https://www.pornhub.com/content-removal), whether they have an account on our platform or not.
+Anyone can report violations of this policy using our [Content Removal Request Form](https://www.pornhub.com/content-removal), whether they have an account on our platform or not.
 
 **Additional Resources and Support** 
 
@@ -333,92 +335,12 @@ _Loveisrespect_ is a resource to empower youth to prevent and end dating abuse.
 Our Commitment to Trust and Safety
 ==================================
 
-At Pornhub, nothing is more important than the safety of our community and the trust of our users. Our core values, such as inclusivity and freedom of expression, are only possible when our platform maintains its safety and integrity and can be trusted by our adult users, as well as our business and content partners. We remain steadfast in our commitment to eliminating illegal content, including non-consensual intimate material and child sexual abuse material (CSAM). Every online platform shares this responsibility, and it requires collective action, cooperation, and constant vigilance.
-
-Over the years, we have deployed many measures to protect our platform from illegal and abusive content. We are continually improving our Trust and Safety policies to better identify, remove, review, and report illegal material, both before being made available on our platforms and once reported to us. While leading non-profit and advocacy groups recognize that our efforts have been effective, we understand that our efforts must be ongoing and always strive to innovate.
-
-In early 2020, we voluntarily registered to report to the National Center for Missing and Exploited Children (NCMEC) as part of their ESP program. In the spring of 2021, we issued our first transparency report, which provides more information about our approach to moderation, related policies, partnerships and Trust and Safety efforts. [Transparency Reports](https://help.pornhub.com/hc/en-us/sections/5357288459027-Transparency-Reports) are now published on a semi-annual basis. Further details on our policies can be found below.
-
-We also took additional steps to further protect our community, including banning content downloads and restricting the ability to upload to verified uploaders only. We continue to build upon our verification and moderation efforts through tools, technology, and partnerships, as they become available.
-
-Members of our Trusted Flagger Program, which now includes dozens of non-profit organizations, may alert us of potential CSAM or non-consensual content. Pornhub users may also alert us to potentially abusive material by using our user, content, and comment flagging features. Users may alert us to content that may be illegal or otherwise violate our [Terms of Service](https://www.pornhub.com/information/terms) by using the flagging feature found below all videos and photos, or by filling out our [Content Removal Request](https://www.pornhub.com/content-removal) (CRR) form.  Flags and CRRs are kept confidential, and we review all content that is brought to our attention by users through these means.
-
-**1\.** **Verified Content Creators**
-
-Only verified content creators may upload content to Pornhub. 
-
-**Who are "Verified Content Creators?"**
-
-Verified content creators include the following groups:
-
-*   Verified Models within the [Model Program](https://help.pornhub.com/hc/en-us/articles/4419879760403-How-to-Sign-Up-and-Join-the-Model-Program-)
-*   Verified Studios within the [Content Partner Program](https://help.pornhub.com/hc/en-us/articles/4419878848019-What-is-the-Content-Partner-Program-)
-
-**How Can Content Creators Get Verified?**
-
-Our Content Partners maintain proof of ID, age and consent for all performers who are featured in content uploaded to Pornhub.
-
-To become a member of the Model Program, the user must verify their age and identity before they are eligible to upload content to Pornhub. Members of the Model Program must also obtain, retain, and provide identification and evidence of consent to record and distribute for every performer appearing in their content before their content is uploaded to Pornhub. This requires the Model or Co-Performer to submit the following prior to upload:
-
-*   Government-issued photo identification for all performers
-*   Consent documentation, such as signed Release Forms, for all performers appearing in content uploaded to Pornhub
-
-To learn more about joining the Model Program, click [here](https://help.pornhub.com/hc/en-us/articles/4419879760403-How-to-Sign-Up-and-Join-the-Model-Program-).
-
-To learn more about our trusted third-party identification verification service, click [here](https://help.pornhub.com/hc/en-us/articles/19159382668435-Trust-and-Safety-Initiatives).
-
-**2\.** **Banning Downloads**
-
-We have removed the ability for users to download content from Pornhub. In tandem with our fingerprinting technology, this will help prevent previously removed content from being re-uploaded.
-
-**3\.** **Content Moderation**
-
-We use a combination of automated tools, artificial intelligence, and human review to help protect our community from illegal content. While all content is reviewed prior to going live on the platform, we also have additional layers of moderation, which audit our live sites by proactively sweeping content already uploaded for potential violations and identifying any breakdowns in the moderation process that could allow a piece of content that violates our Terms of Service to be available on our platform.
-
-Additionally, while our list of banned keywords on Pornhub is already extensive, we continue to ban new keywords on an ongoing basis. We also regularly monitor search terms within the platform for increases in phrasing that attempt to bypass the safeguards in place and adapt our banned keywords accordingly.
-
-Pornhub's content moderation process includes an extensive team of human moderators dedicated to manually reviewing every single upload before it is published, a thorough system for flagging, reviewing, and removing illegal material, parental controls, and the utilization of a variety of automated detection technologies for known and previously identified, or potentially inappropriate content. These technologies include:
-
-*   **CSAI Match**: YouTube’s proprietary [technology](https://www.youtube.com/csai-match/) for combating Child Sexual Abuse Imagery online.
-*   **Google Content Safety API**: Google's [artificial intelligence tool](https://protectingchildren.google/intl/en/) that helps detect illegal imagery.
-*   **PhotoDNA**: [Microsoft’s technology](https://www.microsoft.com/en-us/photodna) that aids in finding and removing known images of child exploitation.
-*   **MediaWise**: [Vobile](https://www.vobilegroup.com/)’s fingerprinting software that scans any new uploads for potential matches to unauthorized materials to protect against banned videos being re-uploaded to the platform.
-*   **Safer**: In November 2020, we became the first adult content platform to partner with [Thorn](https://www.thorn.org/), allowing us to begin using its [Safer](https://safer.io/) product on Pornhub, adding an additional layer of protection in our robust compliance and content moderation process. Safer joins the list of technologies that Pornhub utilizes to help protect visitors from unwanted or illegal material.
-*   **Instant Image Identifier**: The Centre for Expertise on Online Sexual Child Abuse ([Offlimits](https://offlimits.nl/)) tool, commissioned by the European Commission, detects known child abuse imagery using a triple verified database.
-*   **[NCMEC](https://www.missingkids.org/) Hash Sharing**: NCMEC’s database of known CSAM hashes, including hashes submitted by individuals who fingerprinted their own underage content via NCMEC’s [Take It Down](https://takeitdown.ncmec.org/) service.
-*   **[Internet Watch Foundation](https://www.iwf.org.uk/) (IWF) Hash List**: IWF’s database of known CSAM, sourced from hotline reports and the UK Home Office’s Child Abuse Image Database.
-*   **[StopNCII.org](https://www.stopncii.org/)**: A global initiative (developed by Meta & SWGfL) that prevents the spread of non-consensual intimate images (NCII) online. If any adult (18+) is concerned about their intimate images (or videos) being shared online without consent, they can create a digital fingerprint of their own material and prevent it from being shared across participating platforms.
-*   **Safeguard**: Safeguard is Pornhub’s proprietary image recognition technology designed with the purpose of combatting both child sexual abuse imagery and non-consensual content, by preventing the re-uploading of previously fingerprinted content to our platform.
-*   **Age Estimation**: We also utilize age estimation capabilities to analyze content uploaded to our platform using a combination of internal proprietary software and external technology in an effort to strengthen the varying methods we use to prevent the upload and publication of potential or actual CSAM.
-*   **Transcription Service**: Our transcription service transcribes the audio in uploaded videos to text. Transcribed text is then run against our list of banned words to assist our moderation team in identifying content that may violate our [Terms of Service](https://www.pornhub.com/information/terms) or [Community Guidelines](https://help.pornhub.com/hc/en-us/articles/4419900587155-Community-Guidelines).
-*   **Watermark Detection Service**: We utilize internal proprietary technology to detect watermarks identified in violative content to assist in identifying and removing new or related uploads of this content.
-
-Users may alert us to content that may be illegal or otherwise violates our [Terms of Service](https://www.pornhub.com/information/terms) by using the flagging feature, found below all videos and photos, or by filling out our [Content Removal Request](https://www.pornhub.com/content-removal) form.
-
-**4\. Trusted Flagger Program**
-
-Our [Trusted Flagger Program](https://help.pornhub.com/hc/en-us/articles/4419879221907) is an initiative to empower non-profit and NGO partners to alert us of content they believe violates our Terms of Service. The Trusted Flagger Program consists of more than 40 leading organizations in internet and child safety. Our partners have a direct line of access to our moderation team, and any content identified by a Trusted Flagger is immediately disabled. Members of the Trusted Flagger Program include: Cyber Civil Rights Initiative (United States of America), National Center for Missing & Exploited Children (United States of America), Internet Watch Foundation (United Kingdom), Point de Contact (France), Centre for Safer Internet Slovenia (Slovenia), ECPAT (Sweden), ECPAT (Taiwan).
-
-**5\.** **NCMEC Reporting**
-
-In early 2020, Pornhub voluntarily registered with NCMEC’s ESP program as part of an initiative to set up an automated reporting system for content that violates our [CSAM policy](https://help.pornhub.com/hc/en-us/articles/4419869793683). We will also continue to work with law enforcement globally to report and curb any instances involving illegal content.
-
-**6\.** **Transparency Reporting**
-
-Our [Transparency Reports](https://help.pornhub.com/hc/en-us/sections/5357288459027-Transparency-Reports) enable the public to better understand not only how we strive to keep our platform safe, but how we as a company are actively contributing to the fight against illegal and abusive content. These reports expand on our proactive and defensive strategies to prevent, detect, and remove illegal content, as well as content moderation results for the respective year.   
-
-Much like Facebook, Instagram, Twitter and other tech platforms, Pornhub seeks to be fully transparent about the data pertaining to violative content uploads and the quantitative results of our Trust and Safety efforts to prevent such material from appearing on our platform. We take pride in the fact that we are the first the adult platform to release a Transparency Report, having published our inaugural report in April 2021. We will continue to release these reports on an annual basis.
-
-PH
-
-* * *
-
 - - -
 
 Trust and Safety Initiatives
 ============================
 
-**June 2025**
+**April 2026**
 
 Our goal to achieve and set the highest level of Trust and Safety standards relies heavily on not only our internal policies and moderation team, but also on our array of external partnerships and technology. We have compiled a list of tools, Trust and Safety initiatives, and partnerships to provide more information about how we work to prevent and respond to illegal content on our platform, as well as ensuring user safety. 
 
@@ -500,7 +422,7 @@ Aylo participated in this working group, which worked to create a set of [princi
 
 **Yoti – Third-Party Identity Documentation Validation**
 
-Only verified content creators may upload content to Pornhub. 
+Only verified content creators may have content published to Pornhub. 
 
 Users who apply to the Model Program submit their identity documents for verification through a trusted third-party documentation validation and identity verification service provider. Members of the Model Program are also required to obtain, retain and provide identification and evidence of consent to record and distribute for every performer appearing in their content. 
 
@@ -510,7 +432,18 @@ Users who verify their identity with Yoti can trust that their personal data rem
 
 **Incode – Third-Party Identity Documentation Validation**
 
-In the second half of 2024, we have conducted testing with an additional IDV provider, Incode. The use of Incode's service is expected to be deployed during the first half of 2025.
+In 2025, we expanded our third-party identity document validation by incorporating services from Incode. Incode ID verification utilizes a multi-step process to confirm a user's identity, combining document verification, biometric authentication, and checks against government databases. Incode acts as a supplemental ID verification tool in conjunction with Yoti.
+
+**Renewing Co-Performer Consent**
+
+Members of the **Model Program** must obtain, retain, and provide identification and evidence of consent to record and distribute for every performer appearing in their content. This requires the Model or Co-Performer to provide [proof](https://help.pornhub.com/hc/en-us/articles/4419896613651-What-Co-Performer-Verification-Tools-are-Available) of age and consent via the following methods:
+
+*   Uploading valid government-issued photo identification for all performers **AND**
+*   Providing consent documentation, such as signed Release Forms, for all performers appearing in content uploaded to Pornhub
+
+If the performer depicted in the content has a verified model account on Pornhub, proof of age and consent can alternatively be provided by tagging them as a [Collaborator](https://help.pornhub.com/hc/en-us/articles/32737108701587-What-is-Collaborators) in the content.
+
+As of May 1, 2026, consent documentation must also be renewed every two years for co-performers whose consent has been provided via manually submitted release forms. If a co-performer’s consent has expired, new uploads featuring that individual cannot be published until a more recent release form, signed and dated within the last 6 months, is submitted. This update reflects our ongoing commitment to maintaining accurate, up-to-date consent records and strengthening protections for all individuals appearing on the platform. This requirement does not apply to co-performers that have been tagged as Collaborators or whose ID and consent have been verified through Yoti sign.
 
 **Deterrence Messaging**
 
@@ -524,7 +457,7 @@ Since the launch of our CSAM deterrence messaging, we have embarked on a similar
 
 **Trusted Flagger Program**
 
-Launched in 2020, our Trusted Flagger Program is now comprised of 55 members spanning over 35 countries, including the [Internet Watch Foundation](https://www.iwf.org.uk/) (UK), the [Cyber Civil Rights Initiative](https://cybercivilrights.org/) (USA), [End Child Prostitution and Trafficking](https://ecpat.org/) (Sweden/Taiwan), and [Point de Contact](https://www.pointdecontact.net/) (France). This program allows hotlines, helplines, government agencies, and other trusted organizations to disable content automatically and instantly from Pornhub, without awaiting our internal review. It is a significant step forward in identifying, removing, and reporting harmful and illegal content. In 2023 we added PermessoNegato (Italy), The RATI Foundation (India), The Centre for Exploited and Missing Children (Serbia), Cultivando Genero AC (Mexico), StopChikane (Denmark), and the Taipei Women’s Rescue Foundation (Taiwan).
+Launched in 2020, our Trusted Flagger Program is now comprised of 55 members spanning over 35 countries, including the [Internet Watch Foundation](https://www.iwf.org.uk/) (UK), the [Cyber Civil Rights Initiative](https://cybercivilrights.org/) (USA), [End Child Prostitution and Trafficking](https://ecpat.org/) (Sweden/Taiwan), and [Point de Contact](https://www.pointdecontact.net/) (France). This program allows hotlines, helplines, government agencies, and other trusted organizations to disable content automatically and instantly from Pornhub, without awaiting our internal review. It is a significant step forward in identifying, removing, and reporting harmful and illegal content. In 2023 we added PermessoNegato (Italy), The RATI Foundation (India), The Centre for Exploited and Missing Children (Serbia), Cultivando Genero AC (Mexico), StopChikane (Denmark), and the Taipei Women’s Rescue Foundation (Taiwan). In 2025 we added Zara Civil Courage and Anti-Racism (Austria), and the S.O.S Foundation Telefono Azzurro Children’s Rights (Italy).
 
 - - -
 
@@ -624,7 +557,7 @@ We work with multiple organizations whose work is dedicated to fighting child se
 Non-Consensual Content Policy
 =============================
 
-**December 2025**
+**March 2026**
 
 Consent, as a rule and [value](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values), is paramount to the security of our users and integrity of our platform.
 
@@ -634,11 +567,11 @@ Content that we identify as a violation of our Non-Consensual Content Policy wil
 
 **What is considered a violation of our non-consensual content policy:**
 
-The recording or distribution of intimate images (that is, photos and videos that are generally understood to depict explicit sexual activity or nudity or partial nudity) without someone’s consent is a violation of that person’s privacy and is a severe violation of our [Terms of Service](https://www.pornhub.com/information/terms), and is **strictly prohibited**. Content featuring or promoting non-consensual acts, real or simulated, is also prohibited.
+The recording, distribution, or threatened distribution of intimate images (that is, photos and videos that are generally understood to depict explicit sexual activity or nudity or partial nudity) without someone’s consent is a violation of that person’s privacy and is a severe violation of our [Terms of Service](https://www.pornhub.com/information/terms) and is **strictly prohibited**. Content featuring or promoting non-consensual acts, real or simulated, is also prohibited.
 
 **Guidelines** 
 
-**Do NOT** use the platform to upload, post, or otherwise share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved. Examples of the types of content that violate this policy include, but are not limited to**\***:
+**Do NOT** use the platform to upload, post, threaten to post, or otherwise share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved. Examples of the types of content that violate this policy include, but are not limited to**\***:
 
 *   Videos or photos of any person, whether in a public or private setting, without that person’s valid written consent (such as hidden/spy camera content, or up-skirt content);
     
@@ -648,12 +581,14 @@ The recording or distribution of intimate images (that is, photos and videos tha
     
 *   “Doxing”, defined as exposing private and identifying information about a particular individual, including phone number, e-mail, address, or full name.
     
+*   Threatening to publish, distribute, or otherwise make available intimate images or videos of another person without their consent, including real, simulated, or AI-generated content, regardless of whether such content exists or is ultimately shared.
+    
 
 To help protect the integrity of the platform, we also **prohibit** content, including fictional, simulated, or animated, that features or depicts\*:
 
 *   Depictions of non-consensual sexual activity\*, including coerced or forced sexual acts, rape, or sexual assault;
 *   Persons appearing drugged, incapacitated, or intoxicated\*\* involved in sexual acts;
-*   Any “deepfakes” whatsoever (AI-generated, modified, or other manipulations of a person’s image, whether in picture or video, to deceive or mislead the viewer into believing that person is acting or speaking in the way presented).
+*   Any “deepfakes” whatsoever (AI-generated, modified, or other manipulations of a person’s image, whether in picture or video, to deceive or mislead the viewer into believing that person is acting or speaking in the way presented). This includes AI-generated or manipulated content that is likely to be mistaken for a real photographic, video, or other visual recording of an identifiable person.
 
 \* See our section below on _Sensitive Themes and Considerations for Consent_.
 
@@ -663,13 +598,13 @@ To help protect the integrity of the platform, we also **prohibit** content, inc
 
 It is important to remember that pornography does not always represent sexual interactions and behaviors typical of everyday life, and often depicts diverse fantasies and role-play scenarios by consenting amateurs and professionals. In all cases, whether professional or amateur, we expect content to adhere to Pornhub's [core values](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values) and [Terms of Service](https://www.pornhub.com/information/terms).
 
-When reviewing content depicting the sensitive themes listed below, we take the following into consideration to determine whether it violates our [Terms of Service](https://www.pornhub.com/information/terms). We recommend reviewing our detailed policy before uploading content involving these sensitive themes. Consent must be determinable by the reasonable observer from the material itself, which may be assessed either through clear verbal or visual cues.
+When reviewing content depicting the sensitive themes listed below, we take the following into consideration to determine whether it violates our [Terms of Service](https://www.pornhub.com/information/terms). We recommend reviewing our detailed policy before uploading content involving these sensitive themes. Consent must be determinable by the reasonable observer from the material itself, which may be assessed either through clear verbal or visual cues. Consent must apply to both the creation and distribution of the content, including AI-generated or manipulated representations.
 
 Note that we consider many factors to distinguish fantasy from reality. The following is a non-exhaustive list of what we consider sensitive themes. Accordingly, content engaging with the following themes is subject to removal, and appropriate account enforcement, where found to be in violation of our [Terms of Service](https://www.pornhub.com/information/terms):
 
 *   **Spells, Mesmerizing, or Possession**: We do not permit content where:
     *   A performer is depicted as incapacitated, or otherwise completely unconscious because of possession, spells, or mesmerizing;
-    *   Performers display signs of distress or panic during or after the act; or
+    *   Performers display signs of distress or panic before, during or after the act; or
     *   Realistic depictions of spellbound, mesmerized, or possessed performers engaged in or subjected to sexual acts.
 *   **Sleep**: Where there is a component of sleep in the content, the person must wake up within a reasonable time from the start of any sexual act(s) and consent must be made clear by that person.
 *   **Bondage and Restraints**: If a scene features the use of a gag, restraint(s), or other device(s) that would render a performer unable to clearly speak or move, consent to continued participation must be clearly determinable from the material itself, or where it cannot be, consent must be clearly determinable through other visual or verbal cues.
@@ -725,9 +660,9 @@ In all cases where we identify or are made aware of content that violates this p
 
 If you believe you have come across non-consensual content, or any other content that otherwise violates our [Terms of Service](https://www.pornhub.com/information/terms), we strongly encourage you to immediately alert us by [flagging](https://help.pornhub.com/hc/en-us/articles/360055147653-Report-Harmful-Content) the content for our review.
 
-If you are the victim or have first-hand knowledge that content violates our Non-Consensual Content policy, please report the content to us by completing and submitting our [**CONTENT REMOVAL REQUEST FORM**](https://www.pornhub.com/content-removal). Please include all relevant URL links to the content in question and we will address your request confidentially and remove the content expeditiously.
+If you are the victim or have first-hand knowledge that content violates our Non-Consensual Content policy, please report the content to us by completing and submitting our [Content Removal Request Form](https://www.pornhub.com/content-removal). Please include all relevant URL links to the content in question and we will address your request confidentially and remove the content expeditiously.
 
-Anyone can report violations of this policy using our [CONTENT REMOVAL REQUEST FORM](https://www.pornhub.com/content-removal), whether they have an account on our platform or not.
+Anyone can report violations of this policy using our [Content Removal Request Form](https://www.pornhub.com/content-removal), whether they have an account on our platform or not.
 
 **Additional Resources and Support** 
 
@@ -956,30 +891,38 @@ _Loveisrespect_ is a resource to empower youth to prevent and end dating abuse.
 Animal Welfare Policy
 =====================
 
-**July 2022**
+**March 2026**
 
 Pornhub is a content-hosting and sharing platform for consenting adult use and entertainment only. At Pornhub, we denounce the involvement in any way of animals in any abusive and/or sexual context.
 
-That is why all forms of animal\* abuse and cruelty, whether physical or psychological is prohibited. More specifically, we don’t allow any visual or written content involving animal abuse, including “crushing.” We also prohibit content that involves or advocates for the sexual exploitation of animals, including as the object of sexual interest, and/or contact with an animal for a sexual purpose, including “bestiality.”
+That is why all forms of animal\* abuse and cruelty, whether physical or psychological is prohibited. More specifically, we don’t allow any visual or written content involving animal abuse, including “crushing.” We also prohibit content that involves or advocates for the sexual exploitation of animals, including as the object of sexual interest, and/or contact with an animal for a sexual purpose, including “bestiality.” This prohibition extends to any representation of bestiality, including any visual content that is or is likely to be mistaken for a photographic, film, video, or other visual recording of a person committing bestiality, including realistic, simulated, AI-generated, or otherwise manipulated depictions.
 
 Refer to our guideline below for some practical examples of **what we do NOT allow** on Pornhub.
 
-\* For the purposes of the present guideline, 'animal' is considered to be any actual, true, or realistic representation or depiction (including animated) non-human animal.
+\* For the purposes of the present guideline, 'animal' is considered to be any actual, true, simulated, animated, AI-generated, or otherwise manipulated representation or depiction of a non-human animal.
 
 **Guidelines** 
 
-The following guidelines apply to audio, written, and visual, as well as actual, simulated, and animated content 
+These guidelines apply to audio, written, and visual content, as well as actual, simulated, animated, and AI-generated content, whether the content is photorealistic or is clearly simulated content. 
 
-**Do NOT post any content (including animated) that** features, depicts, advocates for, or promotes**:**
+**Do NOT post any content that** features, depicts, advocates for, or promotes**:**
 
 *   Any sexual act or contact in sexual context, between a human and an animal, whether visual, verbal, or written.
+    
 *   Placement of animals by humans within cruel or unusual confinement, regardless of the presence of humans.
+    
 *   The depiction or appearance of emotional distress caused to an animal by a human.
+    
 *   Forcing animals into an act (violent or sexual) with a human or other animal.
+    
 *   Sexual arousal by, from, or with animals, whether visual, verbal, or written. 
+    
 *   Sexual activity while in proximity of an animal where the animal appears to be the primary focus and/or the object of arousal for the individual(s).
+    
 *   Subjecting animals to any type of bodily harm.
+    
 *   Animal and insect crushing.
+    
 
 **Enforcement**
 
