@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-**August 2025**
+**March 2026**
 
 Pornhub prides itself on being a safe space for our creators and users to upload and consume adult content. We take a number of steps to help protect the safety of our community and integrity of our platform, which is achieved in part by ensuring that all content that is uploaded to our platform adheres to our [**Terms of Service**](https://www.pornhub.com/information#terms).
 
@@ -9,48 +9,49 @@ To help our users understand what is and what is not allowed on our platform, we
 
 **Prohibited Content**
 
-Please see an overview of what is **not allowed** on Pornhub. These guidelines apply to audio, written, and visual content, as well as actual, simulated, and animated content.  **Do not post** content that:
+Please see an overview of what is **not allowed** on Pornhub. These guidelines apply to audio, written, and visual content, as well as actual, simulated, animated, and AI-generated content, whether the content is photorealistic or is clearly simulated content.  **Do not post** content that:
 
 **Is Illegal**, such that the content:
 
-*   *   Depicts, promotes, or advocates for illegal activity of any kind.
-    *   Depicts children, which is defined as any individual under the age of 18 per our [child sexual abuse material policy](https://help.pornhub.com/hc/en-us/articles/4419869793683-Child-Sexual-Abuse-Material-Policy).
-    *   Constitutes or promotes any form of human trafficking, including sex trafficking.
-    *   Involves [animal cruelty](https://help.pornhub.com/hc/en-us/articles/7906741373971-Animal-Welfare-Policy), including bestiality.
-    *   Involves death, snuff, torture, [violence](https://help.pornhub.com/hc/en-us/articles/4419863430291-Violent-Content-Policy), or the exploitation of a corpse.
+*   Depicts, promotes, or advocates for illegal activity of any kind.
+*   Depicts children, which is defined as any individual under the age of 18 per our [child sexual abuse material policy](https://help.pornhub.com/hc/en-us/articles/4419869793683-Child-Sexual-Abuse-Material-Policy).
+*   Constitutes or promotes any form of human trafficking, including sex trafficking.
+*   Involves [animal cruelty](https://help.pornhub.com/hc/en-us/articles/7906741373971-Animal-Welfare-Policy), including bestiality.
+*   Involves death, snuff, torture, [violence](https://help.pornhub.com/hc/en-us/articles/4419863430291-Violent-Content-Policy), or the exploitation of a corpse.
 
 **Is** [**Non-consensual**](https://help.pornhub.com/hc/en-us/articles/4419871787027-Non-Consensual-Content-Policy)**,** including content that:
 
-*   *   Depicts non-consensual acts, or the recording or distribution of intimate content without consent.
-    *   Depicts an individual’s likeness without their consent (including "deepfakes" or other forms of AI-generated or manipulated content).
-    *   Exposes private and identifying information about a particular individual (“doxing”).
+*   Depicts non-consensual acts, or the recording or distribution of intimate content without consent.
+*   Depicts an individual’s likeness without their consent (including "deepfakes" or other forms of AI-generated or manipulated content that is likely to be mistaken for a real visual recording of that individual).
+*   Exposes private and identifying information about a particular individual (“doxing”).
+*   Threatens to publish, distribute, or otherwise make available intimate images or videos of another individual without their consent, regardless of whether such content exists or is ultimately shared.
 
-**Harms or may cause harm to individuals**. This is considered content that:   
+**Harms or may cause harm to individuals**. This is considered content that:   
 
-*   *   Harasses, bullies, or threatens or encourages others to do so.
-    *   Constitutes [hate speech](https://help.pornhub.com/hc/en-us/articles/14512634908819-Hate-Speech-Policy) or inflammatory content, including violent extremism or political provocation.
-    *   Depicts, glorifies, encourages, promotes, or supports terrorism or violent extremist actors or acts.
-    *   Glorifies, promotes, or depicts acts of self-harm or suicide.
-    *   Glorifies or promotes eating disorders. 
+*   Harasses, bullies, or threatens or encourages others to do so.
+*   Constitutes [hate speech](https://help.pornhub.com/hc/en-us/articles/14512634908819-Hate-Speech-Policy) or inflammatory content, including violent extremism or political provocation.
+*   Depicts, glorifies, encourages, promotes, or supports terrorism or violent extremist actors or acts.
+*   Glorifies, promotes, or depicts acts of self-harm or suicide.
+*   Glorifies or promotes eating disorders. 
 
 **Is inauthentic or is an unauthorized use of the platform,** including content that**:**
 
-*   *   Is spam, misleading or misinformation.
-    *   Impersonates another individual.
-    *   Infringes upon [intellectual property rights](https://help.pornhub.com/hc/en-us/articles/4419861225107-Copyright).
+*   Is spam, misleading or misinformation.
+*   Impersonates another individual.
+*   Infringes upon [intellectual property rights](https://help.pornhub.com/hc/en-us/articles/4419861225107-Copyright).
 
 **Is** **otherwise unacceptable** on Pornhub, including content that:
 
-*   *   Promotes or arranges sexual services in exchange for money or goods.
-    *   Depicts, role-plays, or implies incest.
-    *   Involves feces of any kind or vomit with solid contents. 
-    *   Involves the use of certain drugs, or performers whose capacity to consent has been impeded by the use of drugs.   
-    *   Reacts to or tributes source content that has not been uploaded to Pornhub, or reacts to or tributes to more than one piece of content.
-    *   Features a sponsored product which offers or promotes illegal activity. 
-    *   Involves AI-generated content that is used in a realistic manner to alter the speech or behavior of the individual(s) depicted or any alterations to the individual(s) depicted which otherwise violate these guidelines.
-    *   Depicts a performer who has withdrawn consent from an existing consent agreement.
-    *   Violates an existing performer consent agreement by failing to adhere to the conditions of the agreement or misrepresenting the agreement.
-    *   Encourages conduct that would be considered a criminal offense, would give rise to civil liability, violate any law, or is otherwise inappropriate.
+*   Promotes or arranges sexual services in exchange for money or goods.
+*   Depicts, role-plays, or implies incest.
+*   Involves feces of any kind or vomit with solid contents. 
+*   Involves the use of certain drugs, or performers whose capacity to consent has been impeded by the use of drugs.   
+*   Reacts to or tributes source content that has not been uploaded to Pornhub, or reacts to or tributes to more than one piece of content.
+*   Features a sponsored product which offers or promotes illegal activity. 
+*   Involves AI-generated content that is used in a realistic manner to alter the speech or behavior of the individual(s) depicted or any alterations to the individual(s) depicted which otherwise violate these guidelines.
+*   Depicts a performer who has withdrawn consent from an existing consent agreement.
+*   Violates an existing performer consent agreement by failing to adhere to the conditions of the agreement or misrepresenting the agreement.
+*   Encourages conduct that would be considered a criminal offense, would give rise to civil liability, violate any law, or is otherwise inappropriate.
 
 \*This serves as an indicative list and does not constitute an exhaustive list. For the full description, please review our [Terms of Service](https://www.pornhub.com/information#terms), under the section entitled, Prohibited Uses. Pornhub reserves the right at all times to determine whether content is appropriate for our platform and in compliance with our terms of service, and may remove any content at any time, without prior notice and in its sole discretion, if such content is found to be in violation of our [Terms of Service](https://www.pornhub.com/information#terms), is otherwise objectionable or considered inappropriate for our platform.
 
@@ -72,21 +73,21 @@ In conjunction with our team of human moderators and regular audits of our platf
 
 These technologies include:
 
-*   *   [**Youtube’s CSAI Match**](https://www.youtube.com/csai-match/), a tool that assists in identifying known child sex abuse videos
-    *   [**Microsoft’s PhotoDNA**](https://www.microsoft.com/en-us/photodna), a tool that aids in detecting and removing known images of child sexual abuse
-    *   [**Google's Content Safety API**](https://protectingchildren.google/intl/en/#introduction), a cutting-edge artificial intelligence (AI) tool that scores and prioritizes content based on the likelihood of illegal imagery to assist reviewers in detecting unknown CSAM
-    *   [**Safer**](https://safer.io/ "https://safer.io/"), Thorn's comprehensive CSAM detection tool utilized to keep platforms free of abusive material
-    *   **Instant Image Identifier:** The Centre for Expertise on Online Sexual Child Abuse ([Offlimits](https://www.eokm.nl/)) tool, commissioned by the European Commission, detects known child abuse imagery using a triple verified database.
-    *   **MediaWise®** service from [Vobile](https://www.vobilegroup.com/)®, a state-of-the-art fingerprinting software and database, which scans all new user uploads to help prevent previously identified offending content from being re-uploaded.
-    *   **[NCMEC](https://www.missingkids.org/) Hash Sharing:** NCMEC’s database of known CSAM hashes, including hashes submitted by individuals who fingerprinted their own underage content via NCMEC’s [Take It Down](https://takeitdown.ncmec.org/) service. 
-    *   **[Internet Watch Foundation](https://www.iwf.org.uk/) (IWF) Hash List:** IWF’s database of known CSAM, sourced from hotline reports and the UK Home Office’s Child Abuse Image Database.
-    *   **[StopNCII.org](https://stopncii.org/)**: A global initiative (developed by Meta & SWGfL) that prevents the spread of non-consensual intimate images (NCII) online. If any adult (18+) is concerned about their intimate images (or videos) being shared online without consent, they can create a digital fingerprint of their own material and prevent it from being shared across participating platforms. 
-    *   **Safeguard:** our proprietary image fingerprinting and recognition technology designed with the purpose of combatting both child sexual abuse imagery and the distribution of non-consensual intimate images, and to help prevent the re-uploading of that content to our platform.
-    *   **Age Estimation:** We also utilize age estimation capabilities to analyze content uploaded to our platform using a combination of internal proprietary software and external technology in an effort to strengthen the varying methods we use to prevent the upload and publication of potential or actual CSAM.
-    *   **Transcription Service**: Our transcription service transcribes the audio in uploaded videos to text. Transcribed text is then run against our list of banned words to assist our moderation team in identifying content that may violate our [Terms of Service](https://www.pornhub.com/information/terms) or these guidelines. 
-        
-    *   **Watermark Detection Service**: We utilize internal proprietary technology to detect watermarks identified in violative content to assist in identifying and removing new or related uploads of this content.
-        
+*   [**Youtube’s CSAI Match**](https://www.youtube.com/csai-match/), a tool that assists in identifying known child sex abuse videos
+*   [**Microsoft’s PhotoDNA**](https://www.microsoft.com/en-us/photodna), a tool that aids in detecting and removing known images of child sexual abuse
+*   [**Google's Content Safety API**](https://protectingchildren.google/intl/en/#introduction), a cutting-edge artificial intelligence (AI) tool that scores and prioritizes content based on the likelihood of illegal imagery to assist reviewers in detecting unknown CSAM
+*   [**Safer**](https://safer.io/ "https://safer.io/"), Thorn's comprehensive CSAM detection tool utilized to keep platforms free of abusive material
+*   **Instant Image Identifier:** The Centre for Expertise on Online Sexual Child Abuse ([Offlimits](https://www.eokm.nl/)) tool, commissioned by the European Commission, detects known child abuse imagery using a triple verified database.
+*   **MediaWise®** service from [Vobile](https://www.vobilegroup.com/)®, a state-of-the-art fingerprinting software and database, which scans all new user uploads to help prevent previously identified offending content from being re-uploaded.
+*   [**NCMEC**](https://www.missingkids.org/) **Hash Sharing:** NCMEC’s database of known CSAM hashes, including hashes submitted by individuals who fingerprinted their own underage content via NCMEC’s [Take It Down](https://takeitdown.ncmec.org/) service. 
+*   [**Internet Watch Foundation**](https://www.iwf.org.uk/) **(IWF) Hash List:** IWF’s database of known CSAM, sourced from hotline reports and the UK Home Office’s Child Abuse Image Database.
+*   [**StopNCII.org**](https://stopncii.org/): A global initiative (developed by Meta & SWGfL) that prevents the spread of non-consensual intimate images (NCII) online. If any adult (18+) is concerned about their intimate images (or videos) being shared online without consent, they can create a digital fingerprint of their own material and prevent it from being shared across participating platforms. 
+*   **Safeguard:** our proprietary image fingerprinting and recognition technology designed with the purpose of combatting both child sexual abuse imagery and the distribution of non-consensual intimate images, and to help prevent the re-uploading of that content to our platform.
+*   **Age Estimation:** We also utilize age estimation capabilities to analyze content uploaded to our platform using a combination of internal proprietary software and external technology in an effort to strengthen the varying methods we use to prevent the upload and publication of potential or actual CSAM.
+*   **Transcription Service**: Our transcription service transcribes the audio in uploaded videos to text. Transcribed text is then run against our list of banned words to assist our moderation team in identifying content that may violate our [Terms of Service](https://www.pornhub.com/information/terms) or these guidelines. 
+    
+*   **Watermark Detection Service**: We utilize internal proprietary technology to detect watermarks identified in violative content to assist in identifying and removing new or related uploads of this content.
+    
 
 Together, these tools play a fundamental role in our shared fight against the dissemination of abusive content on our platform.
 
@@ -98,10 +99,10 @@ Where we identify or are made aware of content that may violate our [Terms of S
 
 Depending on the findings, our team may also:
 
-*   *   Utilize sophisticated industry-standard tools to fingerprint the content in question to block future uploads of the same content to our sites
-    *   Suspend or permanently terminate the associated user’s account, where appropriate
+*   Utilize sophisticated industry-standard tools to fingerprint the content in question to block future uploads of the same content to our sites
+*   Suspend or permanently terminate the associated user’s account, where appropriate
 
-In addition to the above, if content violates our [child sexual abuse material policy](https://help.pornhub.com/hc/en-us/articles/4419869793683-Child-Sexual-Abuse-Material-Policy), it will be reported to the National Center for Missing and Exploited Children (**[NCMEC](https://www.missingkids.org/)**).
+In addition to the above, if content violates our [child sexual abuse material policy](https://help.pornhub.com/hc/en-us/articles/4419869793683-Child-Sexual-Abuse-Material-Policy), it will be reported to the National Center for Missing and Exploited Children ([**NCMEC**](https://www.missingkids.org/)).
 
 - - -
 
