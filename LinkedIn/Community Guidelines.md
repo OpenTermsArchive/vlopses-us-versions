@@ -230,7 +230,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Dangerous organizations and individuals
 ---------------------------------------
 
-Last updated: 3 years ago
+Last updated: 4 years ago
 
 We do not allow organizations or individuals that espouse violence on LinkedIn, including terrorist organizations, violent extremist groups, and individuals affiliated with such groups or activity. We also restrict profiles and pages associated with dangerous organizations and individuals regardless of whether they have posted violative content.
 
@@ -304,7 +304,7 @@ To learn more about when we remove content that violates our Professional Commun
 Scams and fraud content
 -----------------------
 
-Last updated: 3 years ago
+Last updated: 4 years ago
 
 We don’t tolerate content intended to scam, defraud, or deceive others for monetary gain. We remove phishing links, malware, known or suspected scam content, and fraudulent content and permanently restrict the accounts of known fraudsters or scammers.
 
@@ -360,7 +360,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 Sexual innuendos and unwanted advances
 --------------------------------------
 
-Last updated: 3 years ago
+Last updated: 4 years ago
 
 Members come to LinkedIn to foster professional connections, learn new skills, and connect to economic opportunity, not to be sexually harassed or subjected to unwanted advances. We remove content that expresses physical or sexual attraction towards others, requests a romantic relationship, or subjects others to sexually suggestive or explicit content.
 
