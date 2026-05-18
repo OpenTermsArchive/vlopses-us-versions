@@ -7,9 +7,9 @@ Why was my content demonetized?
 
 My content was restricted
 
-What are prohibited formats?
+Appeal a monetization decision
 
-What is unoriginal content?
+What content is unoriginal?
 
 I have a different question
 
