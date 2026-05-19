@@ -3122,9 +3122,9 @@ About recommendations on Facebook
 
 Copy link
 
-What content is recommended?
+What content isn't recommended?
 
-Why was my content not recommended?
+Why wasn't my content recommended?
 
 How do recommendations work?
 
