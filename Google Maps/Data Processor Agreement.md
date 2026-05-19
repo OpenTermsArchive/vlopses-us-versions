@@ -9,13 +9,13 @@ These Google Controller-Controller Data Protection Terms (including the appendix
 
 If you are accepting these Controller Terms on behalf of Partner, you warrant that: (a) you have full legal authority to bind Partner to these Controller Terms; (b) you have read and understand these Controller Terms; and (c) you agree, on behalf of Partner, to these Controller Terms. If you do not have the legal authority to bind Partner, please do not accept these Controller Terms.
 
-1. Introduction
----------------
+1\. Introduction
+----------------
 
 These Controller Terms reflect the parties’ agreement on the processing of Controller Personal Data.
 
-2. Definitions and Interpretation
----------------------------------
+2\. Definitions and Interpretation
+----------------------------------
 
 2.1 In these Controller Terms:
 
@@ -67,15 +67,15 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 2.5 To the extent any translated version of these Controller Terms is inconsistent with the English version, the English version will govern.
 
-3. Application of these Controller Terms
-----------------------------------------
+3\. Application of these Controller Terms
+-----------------------------------------
 
 3.1 **General**. These Controller Terms will only apply to the Controller Services for which the parties agreed to these Controller Terms, for example: (a) the Controller Services for which Partner clicked to accept these Controller Terms; or (b) if the Agreement incorporates these Controller Terms by reference, the Controller Services that are the subject of the Agreement.
 
 3.2 **Incorporation of Additional Terms**. The Additional Terms supplement these Controller Terms.
 
-4. Roles and Restrictions on Processing
----------------------------------------
+4\. Roles and Restrictions on Processing
+----------------------------------------
 
 4.1 **Independent Controllers**. Subject to Section 4.3 (End Controllers), each party:
 
@@ -91,17 +91,17 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 4.4 **Transparency**. Partner acknowledges Google has published information about how Google uses information from sites, apps or other properties that use its services at [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites). Without prejudice to its obligations under Section 4.1(c), Partner may link to that page to provide Controller Data Subjects with information about Google's processing of Controller Personal Data.
 
-5. Liability
-------------
+5\. Liability
+-------------
 
 If the Agreement is governed by the laws of:
 
 (a) a state of the United States of America, then, regardless of anything else in the Agreement, the total liability of either party towards the other party under or in connection with these Controller Terms will be limited to the maximum monetary or payment-based amount at which that party’s liability is capped under the Agreement (and therefore, any exclusion of indemnification claims from the Agreement’s limitation of liability will not apply to indemnification claims under the Agreement relating to the Applicable Data Protection Legislation); or
 
-(b)a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement.
+(b) a jurisdiction that is not a state of the United States of America, then the liability of the parties under or in connection with these Controller Terms will be subject to the exclusions and limitations of liability in the Agreement.
 
-6. Effect of Controller Terms
------------------------------
+6\. Effect of Controller Terms
+------------------------------
 
 6.1 **Order of Precedence**. If there is any conflict or inconsistency between the Additional Terms, the remainder of these Controller Terms and/or the remainder of the Agreement then, subject to Sections 4.2 (Restrictions on Processing) and 6.2 (No Effect on Processor Terms), the following order of precedence will apply:
 
@@ -113,8 +113,8 @@ If the Agreement is governed by the laws of:
 
 6.2 **No Effect on Processor Terms**. These Controller Terms will not affect any separate terms between Google and Partner reflecting a controller-processor, processor-processor or processor-controller relationship for a service other than the Controller Services.
 
-7. Changes to these Controller Terms
-------------------------------------
+7\. Changes to these Controller Terms
+-------------------------------------
 
 7.1 **Changes to URLs**. From time to time, Google may change any URL referenced in these Controller Terms and the content at any such URL, except that Google may only change the list of potential Controller Services at [business.safety.google/services](https://business.safety.google/services/):
 
@@ -141,11 +141,11 @@ Appendix 1: Additional Terms for Applicable Data Protection Legislation
 
 **PART A - ADDITIONAL TERMS FOR EUROPEAN DATA PROTECTION LEGISLATION**
 
-1. Introduction
+**1\. Introduction**
 
 This Appendix 1, Part A will only apply to the extent that the European Data Protection Legislation applies to the processing of Controller Personal Data.
 
-2. Definitions
+**2\. Definitions**
 
 2.1 In this Appendix 1, Part A:
 
@@ -177,13 +177,13 @@ in each case, other than on the basis of an optional data protection framework.
 
 “**UK Controller Personal Data**” means Controller Personal Data of Controller Data Subjects located in the UK.
 
-2.2The terms “**data importer**” and “**data exporter**” have the meanings given in the Controller SCCs.
+2.2 The terms “**data importer**” and “**data exporter**” have the meanings given in the Controller SCCs.
 
-3. End Controllers
+**3\. End Controllers**
 
 The Google End Controllers are: (i) for European Controller Personal Data processed by Google, Google Ireland Limited, and where the Agreement is with a different Google Affiliate, that Affiliate will be the Google End Controller responsible for processing European Controller Personal Data in connection with billing for the Controller Services only (collectively, the “European End Controllers”); and (ii) for UK Controller Personal Data processed by Google, Google LLC. Each party will ensure that its End Controllers comply with the Controller SCCs, where applicable.
 
-4. Data Transfers
+**4\. Data Transfers**
 
 4.1 **Restricted European Transfers.** Either party may make Restricted European Transfers if it complies with the provisions on Restricted European Transfers in the European Data Protection Legislation.
 
@@ -197,27 +197,27 @@ The Google End Controllers are: (i) for European Controller Personal Data proces
 
 (a) **Application of Paragraph 4.3.** Paragraphs 4.3(b) (Use of Data Provider Personal Data) and 4.3(c) (Protection of Data Provider Personal Data) of this Appendix 1, Part A will only apply to the extent that:
 
-(i)a party (the “**Data Recipient**”) processes Controller Personal Data that is made available by the other party (the “**Data Provider**”) in connection with the Agreement (such Controller Personal Data, “**Data Provider Personal Data**”);
+(i) a party (the “**Data Recipient**”) processes Controller Personal Data that is made available by the other party (the “**Data Provider**”) in connection with the Agreement (such Controller Personal Data, “**Data Provider Personal Data**”);
 
 (ii) the Data Provider or its Affiliate is certified under a Data Transfer Solution; and
 
 (iii) the Data Provider notifies the Data Recipient of such Data Transfer Solution certification in writing.
 
-(b)**Use of Data Provider Personal Data.**
+(b) **Use of Data Provider Personal Data.**
 
 (i) To the extent that an applicable Data Transfer Solution includes an onward transfer principle, then pursuant to such onward transfer principle under the relevant Data Transfer Solution, the Data Recipient will only use Data Provider Personal Data for limited and specified purposes consistent with the consent provided by the relevant Controller Data Subjects.
 
-(ii)To the extent the Data Provider fails to obtain consent from the relevant Controller Data Subjects as required under the Agreement, the Data Recipient will not be in breach of paragraph 4.3(b)(i) of this Appendix 1, Part A if it uses Data Provider Personal Data consistent with the required consent.
+(ii) To the extent the Data Provider fails to obtain consent from the relevant Controller Data Subjects as required under the Agreement, the Data Recipient will not be in breach of paragraph 4.3(b)(i) of this Appendix 1, Part A if it uses Data Provider Personal Data consistent with the required consent.
 
-(c)**Protection of Data Provider Personal Data.**
+(c) **Protection of Data Provider Personal Data.**
 
-(i)The Data Recipient will provide a level of protection for Data Provider Personal Data that is at least equivalent to that required under the Agreement and applicable Data Transfer Solution.
+(i) The Data Recipient will provide a level of protection for Data Provider Personal Data that is at least equivalent to that required under the Agreement and applicable Data Transfer Solution.
 
 (ii) If the Data Recipient determines that it cannot comply with paragraph 4.3(c)(i), it will: (A) notify the Data Provider in writing; and (B) either cease processing the Data Provider Personal Data or take reasonable and appropriate steps to remedy such non-compliance.
 
-(d)**Data Transfer Solution Adoption and Certification.** Information about Google and/or its Affiliates’ adoption of, or certification under, any Data Transfer Solutions can be found at [https://policies.google.com/privacy/frameworks](https://policies.google.com/privacy/frameworks). The parties acknowledge that Google has certified under the Data Privacy Framework on behalf of itself and certain wholly-owned US subsidiaries. Google’s certification is available at https://www.dataprivacyframework.gov. The Data Privacy Framework will apply to any Restricted European Transfer to a certified Google entity in the US. This paragraph 4.3(d) (Data Transfer Solution Adoption and Certification) constitutes notice in writing of Google and or its Affiliates’ current certifications as at the Terms Effective Date for the purpose of paragraph 4.3(a)(iii) of this Appendix 1, Part A .
+(d) **Data Transfer Solution Adoption and Certification.** Information about Google and/or its Affiliates’ adoption of, or certification under, any Data Transfer Solutions can be found at [https://policies.google.com/privacy/frameworks](https://policies.google.com/privacy/frameworks). The parties acknowledge that Google has certified under the Data Privacy Framework on behalf of itself and certain wholly-owned US subsidiaries. Google’s certification is available at https://www.dataprivacyframework.gov. The Data Privacy Framework will apply to any Restricted European Transfer to a certified Google entity in the US. This paragraph 4.3(d) (Data Transfer Solution Adoption and Certification) constitutes notice in writing of Google and or its Affiliates’ current certifications as at the Terms Effective Date for the purpose of paragraph 4.3(a)(iii) of this Appendix 1, Part A .
 
-5. Controller SCCs
+**5\. Controller SCCs**
 
 5.1 **Transfers of European Controller Personal Data to Partner.** To the extent that:
 
@@ -235,7 +235,7 @@ Partner as data importer will be deemed to have entered into the Controller SCCs
 
 5.3 **Transfers of European Controller Personal Data to Google.** The parties acknowledge that to the extent Partner transfers European Controller Personal Data to Google, the Controller SCCs are not required because the address of Google Ireland Limited (the applicable Google End Controller) is in an Adequate Country and such transfers are Permitted European Transfers. This does not affect Google’s obligations under paragraph 4.1 (Restricted European Transfers) of this Appendix 1, Part A.
 
-5.4**Transfers of UK Controller Personal Data to Google.** To the extent that Partner transfers UK Controller Personal Data to Google, Partner as data exporter will be deemed to have entered into the Controller SCCs with Google LLC (the applicable Google End Controller) as data importer and the transfers will be subject to the Controller SCCs, because Google LLC’s address is not in an Adequate Country.
+5.4 **Transfers of UK Controller Personal Data to Google.** To the extent that Partner transfers UK Controller Personal Data to Google, Partner as data exporter will be deemed to have entered into the Controller SCCs with Google LLC (the applicable Google End Controller) as data importer and the transfers will be subject to the Controller SCCs, because Google LLC’s address is not in an Adequate Country.
 
 5.5 **Contacting Google; Partner Information**.
 
@@ -243,15 +243,15 @@ Partner as data importer will be deemed to have entered into the Controller SCCs
 
 (b) Partner acknowledges that Google is required under the Controller SCCs to record certain information, including (i) the identity and contact details of the data importer (including any contact person with responsibility for data protection); and (ii) the technical and organisational measures implemented by the data importer. Accordingly, Partner will, where requested and as applicable to Partner, provide such information to Google via such means as may be provided by Google, and will ensure that all information provided is kept accurate and up-to-date.
 
-5.6**Responding to Data Subject Enquiries**. The applicable data importer will be responsible for responding to enquiries from data subjects and the supervisory authority concerning the processing of applicable Controller Personal Data by the data importer.
+5.6 **Responding to Data Subject Enquiries**. The applicable data importer will be responsible for responding to enquiries from data subjects and the supervisory authority concerning the processing of applicable Controller Personal Data by the data importer.
 
-5.7**Data Deletion on Termination**. To the extent that:
+5.7 **Data Deletion on Termination**. To the extent that:
 
 (a) Google LLC acts as data importer and Partner acts as data exporter under the Controller SCCs; and
 
 (b) Partner terminates the Agreement in accordance with Clause 16(c) of the Controller SCCs, then for the purposes of Clause 16(d) of the Controller SCCs, Partner directs Google to delete Controller Personal Data, and, unless European Laws require storage, Google will facilitate such deletion as soon as is reasonably practicable, to the extent such deletion is reasonably possible (taking into account that Google is an independent Controller of such data, as well as the nature and functionality of the Controller Services).
 
-6.Liability if Controller SCCs Apply.
+**6\. Liability if Controller SCCs Apply.**
 
 If Controller SCCs apply under paragraph 5 (Controller SCCs) of this Appendix 1, Part A, then the total combined liability of:
 
@@ -261,33 +261,33 @@ If Controller SCCs apply under paragraph 5 (Controller SCCs) of this Appendix 1,
 
 under or in connection with the Agreement and the Controller SCCs combined will be subject to Section 5 (Liability). Clause 12 of the Controller SCCs will not affect the previous sentence.
 
-7.Third-Party Beneficiaries
+**7\. Third-Party Beneficiaries**
 
 If a party’s Affiliate is a party to the applicable Controller SCCs in accordance with paragraph 5 (Controller SCCs) of this Appendix 1, Part A, that Affiliate, , will be a third-party beneficiary of Section 4.3 (End Controllers) and paragraphs 3 (Google End Controllers), 5 (Controller SCCs) and 6 (Liability if Controller SCCs Apply) of this Appendix 1, Part A. To the extent this paragraph 7 (Third-Party Beneficiaries) conflicts or is inconsistent with any other clause in the Agreement, this paragraph 7 (Third-Party Beneficiaries) will apply.
 
-8. Precedence
+**8\. Precedence**
 
 8.1 If there is any conflict or inconsistency between the Controller SCCs, this Appendix 1, Part A, the remainder of these Controller Terms and/or the remainder of the Agreement, then the Controller SCCs will prevail.
 
-8.2**Additional Commercial Clauses**. Subject to the amendments in these Controller Terms, the Agreement remains in full force and effect. Paragraphs 5.5 (Contacting Google) to 5.7 (Data Deletion on Termination), and paragraph 6 (Liability if Controller SCCs Apply) of this Appendix 1, Part A are additional commercial clauses relating to the Controller SCCs as permitted by Clause 2(a) (Effect and invariability of the Clauses) of the Controller SCCs.
+8.2 **Additional Commercial Clauses**. Subject to the amendments in these Controller Terms, the Agreement remains in full force and effect. Paragraphs 5.5 (Contacting Google) to 5.7 (Data Deletion on Termination), and paragraph 6 (Liability if Controller SCCs Apply) of this Appendix 1, Part A are additional commercial clauses relating to the Controller SCCs as permitted by Clause 2(a) (Effect and invariability of the Clauses) of the Controller SCCs.
 
-8.3**No Modification of Controller SCCs**. Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any Controller SCCs or prejudice the fundamental rights or freedoms of data subjects under the European Data Protection Legislation.
+8.3 **No Modification of Controller SCCs**. Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any Controller SCCs or prejudice the fundamental rights or freedoms of data subjects under the European Data Protection Legislation.
 
 **PART B - ADDITIONAL TERMS FOR U.S. STATE DATA PROTECTION LAWS**
 
-1. Introduction
+**1\. Introduction**
 
-Google and Partner have entered into the [Google Controller-Controller Data Protection Terms](https://business.safety.google/controllerterms/) (“**Controller Terms**”), which supplement the Agreement. This Appendix 1, Part B reflects the parties’ agreement on the processing of personal information and Deidentified Data (as defined below) pursuant to the Agreement in connection with the US State Data Protection Laws, and is effective solely to the extent each US State Data Protection Law applies.
+Google and Partner have entered into the [Google Controller-Controller Data Protection Terms](https://business.safety.google/controllerterms) (“**Controller Terms**”), which supplement the Agreement. This Appendix 1, Part B reflects the parties’ agreement on the processing of personal information and Deidentified Data (as defined below) pursuant to the Agreement in connection with the US State Data Protection Laws, and is effective solely to the extent each US State Data Protection Law applies.
 
-2. Additional Definitions and Interpretation.
+**2\. Additional Definitions and Interpretation.**
 
 In this Appendix 1, Part B:
 
-(a)“**Deidentified Data**” means data information that is “deidentified” (as that term is defined by the CCPA) and “de-identified data” (as defined by US State Data Protection Laws), when disclosed by one party to the other.
+(a) “**Deidentified Data**” means data information that is “deidentified” (as that term is defined by the CCPA) and “de-identified data” (as defined by US State Data Protection Laws), when disclosed by one party to the other.
 
 (b) the terms “**business**”, “**consumer**”, “**personal information**”, “**sale(s)**”, “**sell**”, and “**share**” as used in this Appendix 1, Part B have the meanings given in the US State Data Protection Laws.
 
-3. **Mutual Terms.**
+**3\. Mutual Terms.**
 
 Each party:
 
@@ -299,7 +299,7 @@ Each party:
 
 3.4 Acknowledges that, to the extent Google discloses personal information to Partner pursuant to the Agreement, Google intends to disclose personal information to Partner only under an applicable exception to “sale” and “sharing,” each as defined by US State Data Protection Laws.
 
-4. Google’s CCPA Obligations.
+**4\. Google’s CCPA Obligations.**
 
 4.1 If Partner sells or shares personal information to Google that is subject to the CCPA, Google will:
 
@@ -311,29 +311,29 @@ Each party:
 
 (d) If Partner reasonably believes that Google is processing personal information in an unauthorized manner, Partner has the right to notify Google of such belief via the methods described at legal@google.com, and the parties will work together in good faith to remediate the allegedly violative processing activities, if necessary; and
 
-(e)Google will comply with applicable obligations under CCPA and will provide the same level of privacy protection as is required by CCPA.
+(e) Google will comply with applicable obligations under CCPA and will provide the same level of privacy protection as is required by CCPA.
 
-5. Changes to this Appendix 1, Part B.
+**5\. Changes to this Appendix 1, Part B.**
 
 In addition to Section 7 (Changes to these Controller Terms) of the Controller Terms, as applicable, Google may change this Appendix 1, Part B without notice if the change (a) is based on applicable law, applicable regulation, a court order, or guidance issued by a governmental regulator or agency or (b) does not have a material adverse impact on Partner under the US State Data Protection Laws, as reasonably determined by Google.
 
 **PART C - ADDITIONAL TERMS FOR JAPAN PRIVACY LAWS**
 
-1. Introduction
+**1\. Introduction**
 
 This Appendix 1, Part C will only apply to the extent that a Controller Data Subject is a Japanese citizen.
 
-2. Additional Obligations
+**2\. Additional Obligations**
 
-The parties will be subject to Section 4 (Data Controllers’ Mutual Obligations) and Section (Receiving Controller’s Obligations 5) of the Partner Information Protection Addendum available at [https://business.safety.google/pipa/](https://business.safety.google/pipa/).
+The parties will be subject to Section 4 (Data Controllers’ Mutual Obligations) and Section (Receiving Controller’s Obligations 5) of the Partner Information Protection Addendum available at [https://business.safety.googl](https://business.safety.google/pipa/)[e/pipa/](https://business.safety.google/pipa/).
 
 **PART D - ADDITIONAL TERMS FOR LGPD**
 
-1. Introduction
+**1\. Introduction**
 
 This Appendix 1, Part D will only apply to the extent that the LGPD applies to the processing of Controller Personal Data.
 
-2. Definitions
+**2\. Definitions**
 
 2.1 In this Appendix 1, Part D:
 
@@ -347,11 +347,11 @@ This Appendix 1, Part D will only apply to the extent that the LGPD applies to t
 
 The terms “**importer**” and “**exporter**” have the meanings given in the BR Controller SCCs.
 
-3. Data Transfers
+**3\. Data Transfers**
 
 3.1 **Brazilian Data Transfer Solution.** Either party may carry out an International Data Transfer (as defined by the BR Controller SCCs) of Controller Personal Data that are subject to the LGPD relying on a BR Data Transfer Solution. In such a case, section 4 (BR Controller SCCs) of this Appendix 1, Part C will not apply to such transfer.
 
-4. BR Controller SCCs
+**4\. BR Controller SCCs**
 
 4.1 **Transfers of Brazilian Controller Personal Data to Partner.** To the extent that:
 
@@ -365,7 +365,7 @@ Partner as importer will be deemed to have entered into the BR Controller SCCs w
 
 4.3 **Contacting Google.** Partner may contact Google in connection with the BR Controller SCCs at [juridicobrasil@google.com](mailto:juridicobrasil@google.com) or through such other means as may be provided by Google from time to time or as provided in the Agreement.
 
-5. Liability if BR Controller SCCs Apply.
+**5\. Liability if BR Controller SCCs Apply.**
 
 If BR Controller SCCs apply under Clause 4 (BR Controller SCCs) of this Appendix 1, Part D, then the total combined liability of:
 
@@ -375,26 +375,36 @@ If BR Controller SCCs apply under Clause 4 (BR Controller SCCs) of this Appendix
 
 under or in connection with the Agreement and the BR Controller SCCs combined will be subject to Section 5 (Liability) of the Controller Terms. Clause 17 of the BR Controller SCCs will not affect the previous sentence.
 
-6. Precedence
+**6\. Precedence**
 
-6.1If there is any conflict or inconsistency between the BR Controller SCCs, this Appendix 1, Part D, the remainder of these Controller Terms and/or the remainder of the Agreement, then the BR Controller SCCs will prevail.
+6.1 If there is any conflict or inconsistency between the BR Controller SCCs, this Appendix 1, Part D, the remainder of these Controller Terms and/or the remainder of the Agreement, then the BR Controller SCCs will prevail.
 
-6.2**No Modification of BR Controller SCCs**. Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any BR Controller SCCs or the LGPD.
+6.2 **No Modification of BR Controller SCCs**. Nothing in the Agreement (including these Controller Terms) is intended to modify or contradict any BR Controller SCCs or the LGPD.
 
 _Google Controller-Controller Data Protection Terms, Version 11_
 
 _7 May 2026_
 
-**Previous Versions**
+**Previous Versions**  
 
-*   [17 February 2026](https://kstatic.googleusercontent.com/files/1c94b98b5ab44075c0a2a65245474adffdf993e9b8d1c1ae5e93804d4a918d784b96897a8fae0d9c4683e5f151b67bd7c52a16a08108b056286676200322bd0e)
-*   [22 August 2025](https://kstatic.googleusercontent.com/files/ed00055941075412e65f0cebcbaa1999307c28b03b3891a43b37b588e690db73f267931ecbae0f5224e9d8a1755d71ca8b6846eaa009fac3e732eb6e901c4b23)
-*   [4 June 2024](https://kstatic.googleusercontent.com/files/c85766a885b2e6476beb063c02d94a479f01a42fb326e85a2b2ae11be9860774f1e10e8aa6a60fecf932acf7dd3ac1bb85345ef7588325f2455731bd35e54399)
-*   [1 September 2023](https://kstatic.googleusercontent.com/files/1a249e353a14b3fbe88870fda1fd6bc1d33e64e80520466108653ab6ec44a3c8f00beaa9d250f1371687ae0fffa2a9569de99f37f98b0f896c1ee64ef605a84d)
-*   [23 January 2023](https://kstatic.googleusercontent.com/files/6f82e9d177f1e876ffae5ea09414a704a54fc41b0cf956a898a3d067a7833c1abb9faedcc81f46711f97896b559f302f2f378c1488103e622f1c2850d3e27066)
-*   [22 September 2022](https://kstatic.googleusercontent.com/files/8cc24a0af5fb93e7263d56122d75ddb727488b2e6c9d18522d06627f5a5926d870481f16c642f538dd3e6c67d4cc3f23112baa6c71f36de55f356c4c683fb20c)
-*   [27 September 2021](https://business.safety.google/static/assets/pdf/controllerterms-20210927.pdf)
-*   [15 June 2021](https://business.safety.google/controllerterms-20210615/)
-*   [27 August 2020](https://business.safety.google/static/assets/pdf/controllerterms-20200827.pdf)
-*   [31 October 2019](https://business.safety.google/static/assets/pdf/controllerterms-20191031.pdf)
-*   [25 May 2018](https://business.safety.google/static/assets/pdf/controllerterms-20180525.pdf)
+*   [17 February 2026](https://www.gstatic.com/marketing-cms/8a/9d/ecff146d4257ab9994adcf9fd58a/google-controller-controller-data-protection-terms.pdf)  
+    
+*   [22 August 2025](https://www.gstatic.com/marketing-cms/db/49/b12928c44315ac5ce1ea2d4a879e/google-controller-controller-data-protection-terms.pdf)  
+    
+*   [4 June 2024](https://www.gstatic.com/marketing-cms/6d/63/9dc96637433a827307739d3b0ba3/controllerterms-20240604.pdf)  
+    
+*   [1 September 2023](https://www.gstatic.com/marketing-cms/80/cf/e603306b46c98cb670b8a866a7db/controllerterms-20230901.pdf)  
+    
+*   [23 January 2023](https://www.gstatic.com/marketing-cms/7c/8e/7ea6ff8f48a9aea988fcd8598fe1/controllerterms-20230123.pdf)  
+    
+*   [22 September 2022](https://www.gstatic.com/marketing-cms/ca/a7/0872ffd8411887be5f7b126cec37/controllerterms-20220922.pdf)  
+    
+*   [27 September 2021](https://www.gstatic.com/marketing-cms/67/07/44aa75e24244b4205993c2758ecd/controllerterms-20210927.pdf)  
+    
+*   [15 June 2021](https://business.safety.google/controllerterms-20210615)  
+    
+*   [27 August 2020](https://www.gstatic.com/marketing-cms/fd/68/920fa3384639b452b90ec596e57d/controllerterms-20200827.pdf)  
+    
+*   [31 October 2019](https://www.gstatic.com/marketing-cms/53/0c/c222cabd4699ad7afa199238e0c5/controllerterms-20191031.pdf)  
+    
+*   [25 May 2018](https://www.gstatic.com/marketing-cms/fd/e8/cfdc7e984bf6b6ecb0d4737c12d5/controllerterms-20180525.pdf)
