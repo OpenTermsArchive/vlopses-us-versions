@@ -1677,7 +1677,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
