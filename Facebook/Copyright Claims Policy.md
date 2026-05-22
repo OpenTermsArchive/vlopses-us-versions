@@ -1606,13 +1606,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
