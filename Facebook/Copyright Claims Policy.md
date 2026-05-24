@@ -1310,13 +1310,15 @@ Related articles
 Copyright
 =========
 
-Protect my copyrighted work
+Rapportera upphovsrättsintrång
 
-Report copyright infringement
+Skydda mitt upphovsrättsskyddade verk
 
-What is Rights Manager?
+Vad är Rights Manager?
 
-I have a different question
+Vad händer om jag bryter mot upphovsrätten?
+
+Jag har en annan fråga
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -2060,11 +2062,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Contact DMCA agent
+
+Report copyright infringement
+
 DMCA claim form
-
-DMCA contact details
-
-DMCA claim requirements
 
 I have a different question
 
@@ -2287,15 +2289,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Còraichean Manaidsear
+Apply for Rights Manager
 
-Dìon susbaint
+Report copyright infringement
 
-Cuir a-steach airson ruigsinneachd
+Content protection for creators
 
-Dèan aithris air briseadh dlighe-sgrìobhaidh
+What are my enforcement options?
 
-Tha ceist eadar-dhealaichte agam
+I have a different question
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
