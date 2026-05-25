@@ -1110,11 +1110,11 @@ Copy link
 
 Report a third-party app
 
+Third-party app terms
+
 My intellectual property infringed
 
 Contact app developer
-
-How to report copyright
 
 I have a different question
 
@@ -1679,7 +1679,9 @@ What is fair use?
 
 What are copyright exceptions?
 
-Fair use in the EU?
+Can I use copyrighted material?
+
+I need legal advice
 
 I have a different question
 
@@ -2062,11 +2064,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-Report copyright infringement
-
 DMCA claim form
+
+DMCA contact details
+
+DMCA claim requirements
 
 I have a different question
 
@@ -2289,15 +2291,15 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Còraichean Manaidsear
 
-Report copyright infringement
+Dìon susbaint
 
-Content protection for creators
+Cuir a-steach airson ruigsinneachd
 
-What are my enforcement options?
+Dèan aithris air briseadh dlighe-sgrìobhaidh
 
-I have a different question
+Tha ceist eadar-dhealaichte agam
 
 In addition to our other measures, including our online reporting forms and our repeat infringer policy, we use systems that flag content posted to Facebook that may contain copyrighted content owned by someone else. We provide tailored tooling specific to a content owner's demonstrated needs.
 
