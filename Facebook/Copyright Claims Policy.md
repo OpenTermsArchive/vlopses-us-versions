@@ -532,11 +532,11 @@ How can I make sure that the content I post to Facebook doesn't violate trademar
 
 Copy link
 
-What is trademark infringement?
-
 My content was removed
 
-How to avoid trademark issues?
+What is trademark infringement?
+
+Seek legal advice
 
 I have a different question
 
@@ -2008,13 +2008,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-Meld en krænkelse af ophavsret
+Report copyright infringement
 
-Kontakt den udpegede agent
+My copyright was infringed
 
-Send en besked til den, der har opslået indholdet
+Contact designated agent
 
-Jeg har et andet spørgsmål
+I have a different question
 
 If you believe that content on Facebook is infringing on your copyright, you can take one or more of the following actions:
 
