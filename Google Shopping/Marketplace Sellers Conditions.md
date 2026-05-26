@@ -537,7 +537,7 @@ Depending on the content you’re listing and the countries where your ads appea
 
 * * *
 
-**Need help?** Our [guided troubleshooter](https://support.google.com/merchants/troubleshooter/14812568) can help you resolve Healthcare and Medicine item-level disapprovals related to:
+**Need help?** Our [guided troubleshooter](https://support.google.com/merchants/troubleshooter/14812568) can help you resolve Healthcare and Medicine item-level disapprovals related to:
 
 *   Over-the-counter medication
 *   Prescription drugs
@@ -550,11 +550,11 @@ For guidance on other Healthcare and Medicine-related disapprovals, (such as tho
 
 * * *
 
-#### On this page
+**On this page**
 
 *   [Examples of what's allowed in some circumstances](#examples)
 *   [How does this policy differ from country to country?](#country)
-*   [What you can do if your product or account is disapproved](#disapproved)
+*   [What you can do if your product or account is disapproved](#disapproved)
 
 Examples of what's allowed in some circumstances
 ------------------------------------------------
@@ -563,13 +563,13 @@ Here are some of the kinds of content that we restrict under this policy:
 
 Prescription and behind-the-counter drugs
 
-> Google allows the listing of prescription and behind-the-counter drugs in the United States. In Canada, retailers are allowed to list prescription drugs. Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/) or .[pharmacy Verified Websites Program](https://www.safe.pharmacy/), and certified by Google. If you have already been certified by LegitScript or the NABP, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication). See a [non-exhaustive list of prescription drugs or active ingredients](https://support.google.com/merchants/answer/6165956) that are monitored under this policy. The promotion of prescription opioid painkillers is not allowed, per the policy below.
+> Google allows the listing of prescription and behind-the-counter drugs in the United States. In Canada, retailers are allowed to list prescription drugs. Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/) or .[pharmacy Verified Websites Program](https://www.safe.pharmacy/), and certified by Google. If you have already been certified by LegitScript or the NABP, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication). Check this [non-exhaustive list of prescription drugs or active ingredients](https://support.google.com/merchants/answer/6165956) that are monitored under this policy. The promotion of prescription opioid painkillers is not allowed, per the policy below.
 
 Over-the-counter medication
 
 > In some countries [listed below](#country), only online pharmacies may list over-the-counter medication products, provided that certification is available for the country involved and they meet the associated certification requirements. In the United States, no certification is required for the listing of over-the-counter medication. In other countries, if no certification process is available for a country, these products can’t be listed.
 > 
-> For variations of this policy, see [How does this policy differ from country to country.](#country)
+> For variations of this policy, check [How does this policy differ from country to country.](#country)
 
 Unapproved pharmaceuticals and supplements
 
@@ -577,7 +577,7 @@ Unapproved pharmaceuticals and supplements
 > 
 > *   Anything identified on the non-exhaustive list of [prohibited pharmaceuticals and supplements](https://support.google.com/merchants/answer/6165956).
 > *   Products that contain ephedra.
-> *   DHEA and melatonin products, unless specifically mentioned as allowed in an individual country. Please see the [How does this policy differ from country to country](#country) section for more information.
+> *   DHEA and melatonin products, unless specifically mentioned as allowed in an individual country. Check the [How does this policy differ from country to country](#country) section for more information.
 > *   Human chorionic gonadotropin (hCG) in relation to weight loss/weight control, or when promoted in conjunction with anabolic steroids.
 > *   Herbal and dietary supplements with active pharmaceutical or dangerous ingredients.
 > *   Products that make false or misleading health claims or sites whose primary purpose is to sell products that claim to be as effective as anabolic steroids, prescription weight-loss drugs, controlled substances and prescription erectile dysfunction drugs.
@@ -593,7 +593,7 @@ Unapproved pharmaceuticals and supplements
 > *   Calis, cealis or "herbal cialis" (which are similar to the prescription drug "Cialis")
 > *   D-Bol, Dinabol, or dianibol (which are similar to the anabolic steroid "Dianabol")
 > 
-> See the [How does this policy differ from country to country](#country) section below for variations of this policy.
+> Check the [How does this policy differ from country to country](#country) section below for variations of this policy.
 
 Prescription opioid painkillers
 
@@ -601,11 +601,11 @@ Prescription opioid painkillers
 
 Abortion
 
-> Google restricts the listing of abortion-related content, including abortion-inducing drugs. We have different requirements for listing these products based on the country you’re targeting. See below for details about these country requirements. Unless specifically mentioned in the country requirements below, Google allows the listing of abortion-related content.
+> Google restricts the listing of abortion-related content, including abortion-inducing drugs. We have different requirements for listing these products based on the country you’re targeting. Check below for details about these country requirements. Unless specifically mentioned in the country requirements below, Google allows the listing of abortion-related content.
 > 
 > Google doesn't allow abortion-related content that uses violent language or gruesome imagery.
 > 
-> See the [How does this policy differ from country to country](#country) section below for variations of this policy.
+> Check the [How does this policy differ from country to country](#country) section below for variations of this policy.
 
 Pet prescriptions and pharmacies
 
@@ -634,7 +634,7 @@ Medical test kits
 How does this policy differ from country to country?
 ----------------------------------------------------
 
-In addition to the requirements above, there may be further restrictions based on your target country. Click a country below to see additional requirements that you must meet in order for your listings to target that country.
+In addition to the requirements above, there may be further restrictions based on your target country. Click a country below to view additional requirements that you must meet in order for your listings to target that country.
 
 |     |     |     |
 | --- | --- | --- |
@@ -685,7 +685,7 @@ In addition to the requirements above, there may be further restrictions based o
 
 | **Product type** | **Details** |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Bundesamt für Sicherheit im Gesundheitswesen ([Federal Agency for Safety and Health Care](https://versandapotheken.basg.gv.at/)). Merchants must also be certified by Google.<br><br>Additionally, non-Austrian online pharmacies established within the EU/EEA who are registered as law requires in their home countries and are certified by Google ([see country specifics](#country)) can target cross-border over-the-counter drug sale listings at Austria. |
+| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Bundesamt für Sicherheit im Gesundheitswesen ([Federal Agency for Safety and Health Care](https://versandapotheken.basg.gv.at/)). Merchants must also be certified by Google.<br><br>Additionally, non-Austrian online pharmacies established within the EU/EEA who are registered as law requires in their home countries and are certified by Google (check [country specifics](#country)) can target cross-border over-the-counter drug sale listings at Austria. |
 
 ### Bahrain
 
