@@ -27,7 +27,8 @@ In order to provide our Services (as defined below) through our apps, services, 
 
 WhatsApp LLC ("WhatsApp," "our," "we," or "us") provides the services described below to you ("Services") unless you live in a country or territory in the European Economic Area (which includes the European Union) and any other included country or territory (collectively referred to as the "[European Region](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services)").
 
-### About Our Services
+About Our Services
+------------------
 
 *   **Privacy And Security Principles**. Since we started WhatsApp, we've built our Services with strong privacy and security principles in mind.
 *   **Connecting You With Other People**. We provide, and always strive to improve, ways for you to communicate with other WhatsApp users including through messages, voice and video calls, sending images and video, showing your status, and sharing your location with others when you choose. We may provide a convenient platform that enables you to send and receive money to or from other users across our platform. WhatsApp works with partners, service providers, and affiliated companies to help us provide ways for you to connect with their services.
@@ -51,11 +52,13 @@ NO ACCESS TO EMERGENCY SERVICES: There are important differences between our Ser
 
 **Fees And Taxes**. You are responsible for all carrier data plans, Internet fees, and other fees and taxes associated with your use of our Services.
 
-### Privacy Policy And User Data
+Privacy Policy And User Data
+----------------------------
 
 WhatsApp cares about your privacy. WhatsApp’s describes our data (including message) practices, including the types of information we receive and collect from you, how we use and share this information, and your rights in relation to the processing of information about you.
 
-### Acceptable Use Of Our Services
+Acceptable Use Of Our Services
+------------------------------
 
 **Our Terms And Policies**. You must use our Services according to our Terms and posted policies. If you violate our Terms or policies, we may take action with respect to your account, including disabling or suspending your account and, if we do, you agree not to create another account without our permission. Disabling or suspending your account will be in accordance with the "[Termination](https://www.whatsapp.com/legal/terms-of-service?eea=0#terms-of-service-availability-and-termination-of-our-services)" section below.
 
@@ -65,11 +68,13 @@ WhatsApp cares about your privacy. WhatsApp’s describes our data (including me
 
 **Keeping Your Account Secure**. You are responsible for keeping your device and your WhatsApp account safe and secure, and you must notify us promptly of any unauthorized use or security breach of your account or our Services.
 
-### Third-Party Services
+Third-Party Services
+--------------------
 
 Our Services may allow you to access, use, or interact with third-party websites, apps, content, other products and services, and [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products). For example, you may choose to use third-party data backup services (such as iCloud or Google Drive) that are integrated with our Services or interact with a share button on a third-party’s website that enables you to send information to your WhatsApp contacts. Please note that these Terms and our apply only to the use of our Services. When you use third-party products or services or [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products), their terms and privacy policies will govern your use of those products or services.
 
-### Licenses
+Licenses
+--------
 
 **Your Rights**. WhatsApp does not claim ownership of the information that you submit for your WhatsApp account or through our Services. You must have the necessary rights to such information that you submit for your WhatsApp account or through our Services and the right to grant the rights and licenses in our Terms.
 
@@ -79,23 +84,28 @@ Our Services may allow you to access, use, or interact with third-party websites
 
 **WhatsApp’s License To You**. We grant you a limited, revocable, non-exclusive, non-sublicensable, and non-transferable license to use our Services, subject to and in accordance with our Terms. This license is for the sole purpose of enabling you to use our Services in the manner permitted by our Terms. No licenses or rights are granted to you by implication or otherwise, except for the licenses and rights expressly granted to you.
 
-### Reporting Third-Party Copyright, Trademark, And Other Intellectual Property Infringement
+Reporting Third-Party Copyright, Trademark, And Other Intellectual Property Infringement
+----------------------------------------------------------------------------------------
 
 To report claims of third-party copyright, trademark, or other intellectual property infringement, please visit our . We may take action with respect to your account, including disabling or suspending your account, if you clearly, seriously or repeatedly infringe the intellectual property rights of others or where we are required to do so for legal reasons. Disabling or suspending your account will be in accordance with the "[Termination](https://www.whatsapp.com/legal/terms-of-service?eea=0#terms-of-service-availability-and-termination-of-our-services)" section below.
 
-### Disclaimers And Release
+Disclaimers And Release
+-----------------------
 
 YOU USE OUR SERVICES AT YOUR OWN RISK AND SUBJECT TO THE FOLLOWING DISCLAIMERS. WE ARE PROVIDING OUR SERVICES ON AN “AS IS” BASIS WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND FREEDOM FROM COMPUTER VIRUS OR OTHER HARMFUL CODE. WE DO NOT WARRANT THAT ANY INFORMATION PROVIDED BY US IS ACCURATE, COMPLETE, OR USEFUL, THAT OUR SERVICES WILL BE OPERATIONAL, ERROR FREE, SECURE, OR SAFE, OR THAT OUR SERVICES WILL FUNCTION WITHOUT DISRUPTIONS, DELAYS, OR IMPERFECTIONS. WE DO NOT CONTROL, AND ARE NOT RESPONSIBLE FOR, CONTROLLING HOW OR WHEN OUR USERS USE OUR SERVICES OR THE FEATURES, SERVICES, AND INTERFACES OUR SERVICES PROVIDE. WE ARE NOT RESPONSIBLE FOR AND ARE NOT OBLIGATED TO CONTROL THE ACTIONS OR INFORMATION (INCLUDING CONTENT) OF OUR USERS OR OTHER THIRD-PARTIES. YOU RELEASE US, OUR SUBSIDIARIES, AFFILIATES, AND OUR AND THEIR DIRECTORS, OFFICERS, EMPLOYEES, PARTNERS, AND AGENTS (TOGETHER, THE “WHATSAPP PARTIES”) FROM ANY CLAIM, COMPLAINT, CAUSE OF ACTION, CONTROVERSY, DISPUTE, OR DAMAGES (TOGETHER, “CLAIM”), KNOWN AND UNKNOWN, RELATING TO, ARISING OUT OF, OR IN ANY WAY CONNECTED WITH ANY SUCH CLAIM YOU HAVE AGAINST ANY THIRD-PARTIES. YOUR RIGHTS WITH RESPECT TO THE WHATSAPP PARTIES ARE NOT MODIFIED BY THE FOREGOING DISCLAIMER IF THE LAWS OF YOUR COUNTRY OR TERRITORY OF RESIDENCE, APPLICABLE AS A RESULT OF YOUR USE OF OUR SERVICES, DO NOT PERMIT IT. IF YOU ARE A UNITED STATES RESIDENT, YOU WAIVE ANY RIGHTS YOU MAY HAVE UNDER CALIFORNIA CIVIL CODE §1542, OR ANY OTHER SIMILAR APPLICABLE STATUTE OR LAW OF ANY OTHER JURISDICTION, WHICH SAYS THAT: A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, AND THAT IF KNOWN BY HIM OR HER WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY.
 
-### Limitation Of Liability
+Limitation Of Liability
+-----------------------
 
 THE WHATSAPP PARTIES WILL NOT BE LIABLE TO YOU FOR ANY LOST PROFITS OR CONSEQUENTIAL, SPECIAL, PUNITIVE, INDIRECT, OR INCIDENTAL DAMAGES RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES (HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, INCLUDING NEGLIGENCE), EVEN IF THE WHATSAPP PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR AGGREGATE LIABILITY RELATING TO, ARISING OUT OF, OR IN ANY WAY IN CONNECTION WITH OUR TERMS, US, OR OUR SERVICES WILL NOT EXCEED THE GREATER OF ONE HUNDRED DOLLARS ($100) OR THE AMOUNT YOU HAVE PAID US IN THE PAST TWELVE MONTHS. THE FOREGOING DISCLAIMER OF CERTAIN DAMAGES AND LIMITATION OF LIABILITY WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. THE LAWS OF SOME STATES OR JURISDICTIONS MAY NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO SOME OR ALL OF THE EXCLUSIONS AND LIMITATIONS SET FORTH ABOVE MAY NOT APPLY TO YOU. NOTWITHSTANDING ANYTHING TO THE CONTRARY IN OUR TERMS, IN SUCH CASES, THE LIABILITY OF THE WHATSAPP PARTIES WILL BE LIMITED TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
 
-### Indemnification
+Indemnification
+---------------
 
 If anyone brings a claim ("Third-Party Claim") against us related to your actions, information, or content on WhatsApp, or any other use of our Services by you, you will, to the maximum extent permitted by applicable law, indemnify, and hold the WhatsApp Parties harmless from and against all liabilities, damages, losses, and expenses of any kind (including reasonable legal fees and costs) relating to, arising out of, or in any way in connection with any of the following: (a) your access to or use of our Services, including information and content provided in connection therewith; (b) your breach of our Terms or applicable law; or (c) any misrepresentation made by you. You will cooperate as fully as required by us in the defense or settlement of any Third-Party Claim. Your rights with respect to WhatsApp are not modified by the foregoing indemnification if the laws of your country or territory of residence, applicable as a result of your use of our Services, do not permit it.
 
-### Dispute Resolution
+Dispute Resolution
+------------------
 
 **Forum And Venue**. If you are a WhatsApp user located in the United States or Canada, the "[Special Arbitration Provision For United States Or Canada Users](https://www.whatsapp.com/legal/terms-of-service?eea=0#terms-of-service-special-arbitration-provision-for-united-states-or-canada-users)" section below applies to you. Please also read that section carefully and completely. If you are not subject to the "[Special Arbitration Provision For United States Or Canada Users](https://www.whatsapp.com/legal/terms-of-service?eea=0#terms-of-service-special-arbitration-provision-for-united-states-or-canada-users)" section below, you agree that any claim or cause of action you have against WhatsApp relating to, arising out of, or in any way in connection with our Terms or our Services, and for any claim or cause of action that WhatsApp files against you, you and WhatsApp agree that any such claim or cause of action (each, a “Dispute,” and together, “Disputes”) will be resolved exclusively in the United States District Court for the Northern District of California or a state court located in San Mateo County in California, and you agree to submit to the personal jurisdiction of such courts for the purpose of litigating any such claim or cause of action, and the laws of the State of California will govern any such claim or cause of action without regard to conflict of law provisions. Without prejudice to the foregoing, you agree that, in our sole discretion, we may elect to resolve any Dispute we have with you that is not subject to arbitration in any competent court in the country in which you reside that has jurisdiction over the Dispute.
 
@@ -105,13 +115,15 @@ If anyone brings a claim ("Third-Party Claim") against us related to your action
 
 **See Below:** [**Special Arbitration Provision For United States Or Canada Users**](https://www.whatsapp.com/legal/terms-of-service?eea=0#terms-of-service-special-arbitration-provision-for-united-states-or-canada-users)
 
-### Availability And Termination Of Our Services
+Availability And Termination Of Our Services
+--------------------------------------------
 
 **Availability Of Our Services**. We are always trying to improve our Services. That means we may expand, add, or remove our Services, features, functionalities, and the support of certain devices and platforms. Our Services may be interrupted, including for maintenance, repairs, upgrades, or network or equipment failures. We may discontinue some or all of our Services, including certain features and the support for certain devices and platforms, at any time. Events beyond our control may affect our Services, such as events in nature and other force majeure events.
 
 We may modify, suspend, or terminate your access to or use of our Services anytime for any reason, such as if you violate the letter or spirit of our Terms or create harm, risk, or possible legal exposure for us, our users, or others. We may also disable or delete your account if it does not become active after account registration or if it remains inactive for an extended period of time. The following provisions will survive any termination of your relationship with WhatsApp: "Licenses," "Disclaimers And Release," "Limitation Of Liability," "Indemnification," "Dispute Resolution," "Availability Of Our Services," "Other," and "Special Arbitration Provision For United States Or Canada Users."
 
-### Other
+Other
+-----
 
 *   Unless a mutually executed agreement between you and us states otherwise, our Terms make up the entire agreement between you and us regarding WhatsApp and our Services, and supersede any prior agreements.
 *   We reserve the right to designate in the future that certain of our Services are governed by separate terms (where, as applicable, you may separately consent).
@@ -130,7 +142,8 @@ We may modify, suspend, or terminate your access to or use of our Services anyti
 *   We reserve all rights not expressly granted by us to you. In certain jurisdictions, you may have legal rights as a consumer, and our Terms are not intended to limit such consumer legal rights that may not be waived by contract.
 *   We always appreciate your feedback or other suggestions about WhatsApp and our Services, but you understand that you have no obligation to provide feedback or suggestions and that we may use your feedback or suggestions without any restriction or obligation to compensate you for them.
 
-### Special Arbitration Provision For United States Or Canada Users
+Special Arbitration Provision For United States Or Canada Users
+---------------------------------------------------------------
 
 PLEASE READ THIS SECTION CAREFULLY BECAUSE IT CONTAINS ADDITIONAL PROVISIONS APPLICABLE ONLY TO OUR UNITED STATES AND CANADA USERS. IF YOU ARE A WHATSAPP USER LOCATED IN THE UNITED STATES OR CANADA, YOU AND WE AGREE TO SUBMIT ALL DISPUTES TO BINDING INDIVIDUAL ARBITRATION, EXCEPT FOR THOSE THAT INVOLVE INTELLECTUAL PROPERTY DISPUTES AND EXCEPT THOSE THAT CAN BE BROUGHT IN SMALL CLAIMS COURT. THIS MEANS YOU WAIVE YOUR RIGHT TO HAVE SUCH DISPUTES RESOLVED IN COURT BY A JUDGE OR JURY. FINALLY, YOU MAY BRING A CLAIM ONLY ON YOUR OWN BEHALF, AND NOT ON BEHALF OF ANY OFFICIAL OR OTHER PERSON, OR CLASS OF PEOPLE. YOU WAIVE YOUR RIGHT TO PARTICIPATE IN, OR HAVE YOUR DISPUTE HEARD AND RESOLVED AS, A CLASS ACTION, A CLASS ARBITRATION, OR A REPRESENTATIVE ACTION.
 
