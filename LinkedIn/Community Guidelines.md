@@ -114,7 +114,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
 - - -
 
 How we enforce our Professional Community Policies
---------------------------------------------------
+==================================================
 
 Last updated: 1 year ago
 
@@ -133,7 +133,7 @@ Content that would normally violate the letter of our policies may be allowed in
 - - -
 
 Harassment and abusive content
-------------------------------
+==============================
 
 Last updated: 10 months ago
 
@@ -162,7 +162,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Violent and graphic content
----------------------------
+===========================
 
 Last updated: 3 years ago
 
@@ -195,7 +195,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Restricted goods and services
------------------------------
+=============================
 
 Last updated: 2 months ago
 
@@ -228,7 +228,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Dangerous organizations and individuals
----------------------------------------
+=======================================
 
 Last updated: 4 years ago
 
@@ -255,7 +255,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 False or misleading content
----------------------------
+===========================
 
 Last updated: 2 years ago
 
@@ -302,7 +302,7 @@ To learn more about when we remove content that violates our Professional Commun
 - - -
 
 Scams and fraud content
------------------------
+=======================
 
 Last updated: 4 years ago
 
@@ -358,7 +358,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Sexual innuendos and unwanted advances
---------------------------------------
+======================================
 
 Last updated: 4 years ago
 
@@ -404,7 +404,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Spam
-----
+====
 
 Last updated: 1 year ago
 
