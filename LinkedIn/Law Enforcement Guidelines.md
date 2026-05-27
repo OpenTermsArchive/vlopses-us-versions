@@ -1,5 +1,5 @@
 LinkedIn law enforcement data request guidelines
-------------------------------------------------
+================================================
 
 Last updated: 2 years ago
 
