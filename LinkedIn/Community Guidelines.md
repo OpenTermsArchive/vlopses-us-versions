@@ -330,7 +330,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Hateful and derogatory content
-------------------------------
+==============================
 
 Last updated: 10 months ago
 
@@ -382,7 +382,7 @@ Learn more about [how we enforce violations of our Professional Community Polici
 - - -
 
 Nudity and adult content
-------------------------
+========================
 
 Last updated: 2 weeks ago
 
