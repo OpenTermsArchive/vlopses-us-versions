@@ -14,13 +14,13 @@ Intellectual property
 
 Copy link
 
-Report copyright infringement
+Report copyright violation
 
-Report trademark infringement
+Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -1310,15 +1310,13 @@ Related articles
 Copyright
 =========
 
-Rapportera upphovsrättsintrång
+Protect my copyrighted work
 
-Skydda mitt upphovsrättsskyddade verk
+Report copyright infringement
 
-Vad är Rights Manager?
+What is Rights Manager?
 
-Vad händer om jag bryter mot upphovsrätten?
-
-Jag har en annan fråga
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1451,6 +1449,16 @@ How do you know if you own the copyright in a work
 
 Copy link
 
+Who owns copyright?
+
+My employer owns copyright?
+
+I appear in a photo
+
+Contact a copyright lawyer
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you are likely to own the copyright in that painting. Similarly, if you take a photo, you are likely to own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1547,11 +1555,11 @@ How long does copyright protection last?
 
 Copy link
 
-What is public domain?
-
 When does copyright expire?
 
-Can I use public domain content?
+What is public domain?
+
+Copyright for my work
 
 I have a different question
 
@@ -1596,13 +1604,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-My content was removed
-
 What is fair use?
 
-How to get permission?
+Get permission to post
 
-What is public domain?
+Content in public domain
+
+What is copyright?
 
 I have a different question
 
@@ -1744,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use copyrighted content?
-
 What is fair use?
 
-How to report copyright infringement?
+Can I use content with credit?
+
+What if I bought the content?
 
 I have a different question
 
@@ -2222,11 +2230,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-My copyright report
-
-Report number
+What is a report number?
 
 Respond to a report
+
+Who sees my report?
 
 I have a different question
 
