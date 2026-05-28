@@ -17,11 +17,11 @@ Brands Select a brand Google
 *   Family Link
 *   Fast Pair
 *   Find Hub
-*   Fitbit
 *   Google
 *   Google Assistant
 *   Google Cast
 *   Google Gemini
+*   Google Health
 *   Google Lens
 *   Google Maps
 *   Google Meet
