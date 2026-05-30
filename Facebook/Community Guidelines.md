@@ -2564,6 +2564,8 @@ We may restrict or disable accounts, other entities (Pages, groups, events) or b
     
 *   Demonstrate activity or behavior indicative of a clear violating purpose
     
+*   Belong to users under 18 that persistently violate our Community Standards by posting or sharing content that is not [age-appropriate](https://transparency.meta.com/policies/age-appropriate-content/), including (but not limited to) adult nudity or sexual activity, promotion or depiction of drugs, alcohol, or tobacco, graphic violence, or self-harm or eating disorders”
+    
 
 We may restrict or disable accounts, other entities (Pages, groups, events) or business assets (Business Managers, ad accounts) that are:
 
@@ -3126,7 +3128,9 @@ What content is not recommended?
 
 Why was my content not recommended?
 
-How do recommendations work?
+How do I get content recommended?
+
+What are Community Standards?
 
 I have a different question
 
