@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-What is copyright?
+My content was removed
 
-What is trademark?
+What is intellectual property?
 
 I have a different question
 
@@ -332,11 +332,13 @@ How long does trademark protection last?
 
 Copy link
 
-Renew trademark registration
+How long trademark rights last?
 
-Lose trademark rights
+Renew my trademark
 
-Trademark rights in EUIPO
+Lose my trademark rights
+
+My trademark is not registered
 
 I have a different question
 
@@ -385,7 +387,7 @@ Counterfeit sales on Facebook
 
 What is trademark infringement?
 
-Is selling counterfeits illegal?
+How to report counterfeits?
 
 I have a different question
 
@@ -1392,13 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1889,13 +1889,13 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Appeal content removal
 
-Appeal removed content
+Contact rights owner
 
 DMCA counter-notification
 
-My Page content removed
+My content was removed
 
 I have a different question
 
@@ -2006,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 
