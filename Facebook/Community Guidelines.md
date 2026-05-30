@@ -3128,9 +3128,7 @@ What content is not recommended?
 
 Why was my content not recommended?
 
-How do I get content recommended?
-
-What are Community Standards?
+How do recommendations work?
 
 I have a different question
 
