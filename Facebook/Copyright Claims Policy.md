@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-My content was removed
+What is copyright?
 
-What is intellectual property?
+What is trademark?
 
 I have a different question
 
@@ -332,13 +332,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long trademark rights last?
+Renew trademark registration
 
-Renew my trademark
+Lose trademark rights
 
-Lose my trademark rights
-
-My trademark is not registered
+Trademark rights in EUIPO
 
 I have a different question
 
@@ -1318,6 +1316,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tool
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1394,11 +1394,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-Copyright for my photos?
+Can I use copyrighted content?
 
-Copyright for my videos?
+What is fair use?
+
+My content was copied
 
 I have a different question
 
@@ -1608,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -2006,9 +2008,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
