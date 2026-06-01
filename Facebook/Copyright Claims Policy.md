@@ -18,9 +18,9 @@ Report copyright violation
 
 Report trademark violation
 
-What is copyright?
+My content was removed
 
-What is trademark?
+What is intellectual property?
 
 I have a different question
 
@@ -1396,13 +1396,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1679,7 +1677,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1756,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+How to get permission?
+
+How to report copyright violation?
 
 I have a different question
 
@@ -1816,13 +1814,11 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
 
-Video removed for copyright
+My video was removed
 
-My video was taken down
+Video removed for copyright
 
 I have a different question
 
@@ -1897,9 +1893,11 @@ More
 
 Appeal content removal
 
-My content was removed
+Contact rights owner
 
 DMCA counter-notification
+
+My content was removed
 
 I have a different question
 
@@ -2010,9 +2008,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
