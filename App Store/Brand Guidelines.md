@@ -531,7 +531,6 @@ The absence of a product or service name or logo from this list does not constit
 | AirDrop® | software feature |
 | AirMac® | wireless hardware/software solution |
 | AirPlay® | software feature |
-| AirPlay Logo® |     |
 | AirPods® | wireless headphones |
 | AirPods Max® | wireless headphones |
 | AirPods Pro® | wireless headphones |
@@ -539,10 +538,10 @@ The absence of a product or service name or logo from this list does not constit
 | AirPort Express® | wireless hardware/software solution |
 | AirPort Extreme® | wireless hardware/software solution |
 | AirPort Time Capsule® | wireless hard drive/Wi-Fi base station |
-| AirPower® | charging devices |
 | AirPrint® | software feature |
 | AirTag® | accessories |
 | AirTunes™ | application program |
+| AlarmKit™ | software framework |
 | Animoji® | messaging feature |
 | Aperture® | application program |
 | App Clip Code® | software feature |
@@ -587,7 +586,6 @@ The absence of a product or service name or logo from this list does not constit
 | AXLearn® | software framework |
 | Back to My Mac® | software feature |
 | Bonjour® | networking technology |
-| Bonjour logo® |     |
 | Boot Camp® | application program |
 | CallKit® | software framework |
 | Carbon® | software technology |
@@ -605,7 +603,6 @@ The absence of a product or service name or logo from this list does not constit
 | Cocoa® | software technology |
 | Cocoa Touch® | software technology |
 | ColorSync® | application program |
-| ColorSync logo® |     |
 | Co-ML® | software framework |
 | Core ML® | developer software |
 | Cover Flow® | application program |
@@ -632,9 +629,6 @@ The absence of a product or service name or logo from this list does not constit
 | Find My® | software feature |
 | Finder® | operating system software |
 | FireWire® | serial bus |
-| FireWire compliance logo™ |     |
-| FireWire logo™ |     |
-| FireWire symbol® |     |
 | Flyover® | software feature |
 | Force Touch® | trackpads |
 | Freeform® | application program |
@@ -652,7 +646,6 @@ The absence of a product or service name or logo from this list does not constit
 | HyperTalk™ | application program |
 | iAd WorkBench® | software |
 | iBeacon® | location and proximity detection technology |
-| iBeacon Logo™ |     |
 | iBook™ | computer |
 | iBooks® | application program |
 | iCal® | application program |
@@ -708,6 +701,7 @@ The absence of a product or service name or logo from this list does not constit
 | MacApp® | application program |
 | MacBook® | computer |
 | MacBook Air® | computer |
+| MacBook Neo™ | computer |
 | MacBook Pro® | computer |
 | Mac Catalyst® | software feature |
 | Macintosh® | computer |
@@ -716,10 +710,7 @@ The absence of a product or service name or logo from this list does not constit
 | Mac Pro® | computer |
 | Mac Studio® | computer |
 | MacTCP® | application program |
-| Mac Virtual Display™ | software feature |
-| Made for iPad logo® |     |
-| Made for iPhone logo® |     |
-| Made for iPod logo® |     |
+| Mac Virtual Display® | software feature |
 | Magic Keyboard® | computer peripheral device |
 | Magic Keyboard Folio® | computer peripheral device |
 | Magic Mouse® | computer peripheral device |
@@ -733,13 +724,11 @@ The absence of a product or service name or logo from this list does not constit
 | Memory Looks® | software feature |
 | Memory Mixes® | software feature |
 | Metal® | software technology |
-| Metal Logo™ |     |
 | MainStage® | application program |
 | Mission Control® | operating system feature |
 | Monaco® | computer font |
 | Motion® | application program |
 | MPX Module® | expansion module |
-| Multi-Touch™ | touchscreen interface |
 | Music Memos® | application program |
 | NameDrop® | software feature |
 | NetInfo™ | computer software |
@@ -749,7 +738,6 @@ The absence of a product or service name or logo from this list does not constit
 | Numbers® | application program |
 | Objective-C® | computer software |
 | OfflineRT™ | software feature |
-| Open Directory logo™ |     |
 | OpenCL® | software technology |
 | OpenPlay® | application program |
 | Optic ID® | secure authentication |
@@ -762,6 +750,7 @@ The absence of a product or service name or logo from this list does not constit
 | Pixelmator® | application program |
 | Pixelmator Pro® | application program |
 | Pixlet® | compression application program |
+| PKL™ | software framework |
 | Podcast Logo® | application feature |
 | PowerBook® | computer |
 | Power Mac® | computer |
@@ -779,7 +768,7 @@ The absence of a product or service name or logo from this list does not constit
 | QuickTime logo® |     |
 | QuickType® | software feature |
 | Reality Composer® | software |
-| Reality Composer Pro™ | software |
+| Reality Composer Pro® | software |
 | Reality Converter® | software |
 | RealityKit® | software |
 | ResearchKit® | software framework |
@@ -802,7 +791,6 @@ The absence of a product or service name or logo from this list does not constit
 | SiriKit® | developer software |
 | Siri Remote® | control device with touch and voice input |
 | Siri Shortcuts® | application program |
-| Skia™ | computer font |
 | Slofie® | software feature |
 | Smart Cover® | protective cover and stand |
 | Smart Folio® | protective cover and stand |
@@ -820,6 +808,7 @@ The absence of a product or service name or logo from this list does not constit
 | Stage Manager® | software feature |
 | StoreKit® | software framework |
 | Studio Display® | computer monitor |
+| Studio Display XDR™ | computer monitor |
 | StyleWriter™ | printer |
 | SuperDrive® | computer media device |
 | Super Retina® | display |
@@ -857,13 +846,6 @@ The absence of a product or service name or logo from this list does not constit
 | WeatherKit® | software framework |
 | WebObjects® | software |
 | WebScript™ | computer software |
-| Works with Apple CarPlay logo® |     |
-| Works with Apple Find My logo® |     |
-| Works with Apple Health logo™ |     |
-| Works with Apple Home logo™ |     |
-| Works with Apple HomeKit logo™ |     |
-| Works with Apple iBeacon logo® |     |
-| Works with iPhone logo® |     |
 | Xcode® | developer software |
 | Xcode Cloud® | developer platform |
 | Xgrid® | application program |
