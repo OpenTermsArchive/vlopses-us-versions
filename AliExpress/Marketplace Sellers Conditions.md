@@ -1126,7 +1126,7 @@ AliExpress Rules of Prohibited and Controlled Items - A Detailed Guidance
 
 Release date: July 30, 2024
 
-Revision date: April 29, 2026
+Revision date: June 1, 2026
 
 |     |     |
 | --- | --- |
@@ -1277,7 +1277,7 @@ Revision date: April 29, 2026
 | 4\. Other information regarding politics |     |     |     |     |     | General Violation: 0.5 Points Deduction per Violation |     |     |     |     |     |
 | \*\*\*Regulatory Basis\*\*\*<br><br>Domestic and international laws, regulations, and regulatory requirements.<br><br>This basis is for reference only and does not guarantee completeness, accuracy, or timeliness. AliExpress reserves the right to modify and supplement the content.<br><br>\*\*\*Reminder\*\*\*<br><br>AliExpress prohibits the listing of products and information containing political overtones, and promoting political purposes and agendas.<br><br>\*\*\*Risk Examples\*\*\*<br><br>Politically charged information regarding disputed territories and regions worldwide, and other relevant information prohibited by regulatory authorities |     |     |     |     |     |     |     |     |     |     |     |
 | (XIII) Tobacco |     |     |     |     |     |     |     |     |     |     |     |
-| 【Overview】<br><br>In compliance with domestic and international laws, regulations, and regulatory requirements, AliExpress prohibits the listing of tobacco products, e-liquids for e-cigarettes, and related products.<br><br>【Related Articles and Latest Announcements】<br><br>[About Electronic Cigarette Liquid](https://rule.alibaba.com/rule/detail/2751.htm) |     |     |     |     |     |     |     |     |     |     |     |
+| 【Overview】<br><br>In compliance with domestic and international laws, regulations, and regulatory requirements (Including but not limited to the U.S. FDA) , AliExpress prohibits the listing of tobacco products, e-liquids for e-cigarettes, and related products.<br><br>【Related Articles and Latest Announcements】<br><br>[About Electronic Cigarette Liquid](https://rule.alibaba.com/rule/detail/2751.htm) |     |     |     |     |     |     |     |     |     |     |     |
 | 1\. Finished cigarette products and tobacco products |     |     |     |     |     | General Violation: 6 Points Deduction per Violation |     |     |     |     |     |
 | \*\*\*Regulatory Basis\*\*\*<br><br>The Law of the People's Republic of China on Tobacco Monopoly and relevant laws, regulations, and regulatory requirements in the US and other countries and regions.<br><br>This basis is for reference only and does not guarantee completeness, accuracy, or timeliness. AliExpress reserves the right to modify and supplement the content.<br><br>\*\*\*Reminder\*\*\*<br><br>AliExpress prohibits the listing of any tobacco products and related information.<br><br>\*\*\*Risk Examples\*\*\*<br><br>Finished tobacco product: cigars, cigarettes<br><br>Other tobacco products: cigarettes, tobacco leaves, tobacco shreds, shag for pipes, reconstituted tobacco, chewing tobacco, snuff, molasses tobacco, hookah tobacco<br><br>\*\*\*FAQs\*\*\* |     |     |     |     |     |     |     |     |     |     |     |
 | 2\. E-liquids for e-cigarettes |     |     |     |     |     | General Violation: 6 Points Deduction per violation |     |     |     |     |     |
