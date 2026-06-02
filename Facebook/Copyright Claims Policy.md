@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
 
-What is intellectual property?
+What is copyright?
+
+What is trademark?
 
 I have a different question
 
@@ -1159,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
 Restore removed content
 
@@ -1316,6 +1316,8 @@ Protect my copyrighted work
 
 What is copyright?
 
+Rights Manager tool
+
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1392,13 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1608,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-How to get permission?
+What is public domain?
 
-Is my content copyrighted?
+What is intellectual property?
 
 I have a different question
 
@@ -1678,6 +1678,8 @@ What is fair use?
 Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1754,9 +1756,9 @@ What is copyright infringement?
 
 What is fair use?
 
-How to get permission?
+Can I use copyrighted content?
 
-How to report copyright violation?
+What if I give credit?
 
 I have a different question
 
@@ -1889,13 +1891,13 @@ Facebook Lite App Help
 
 More
 
-My content was removed
+Appeal content removal
 
-Appeal removed content
+Contact rights owner
 
 DMCA counter-notification
 
-My Page content removed
+My content was removed
 
 I have a different question
 
@@ -2006,9 +2008,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+Contact designated agent
 
-Someone used my photo
+My content was reported
 
 I have a different question
 
