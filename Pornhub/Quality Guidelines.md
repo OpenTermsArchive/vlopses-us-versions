@@ -20,7 +20,8 @@ We will provide acknowledgement of receipt of all feedback, except for those sub
 The collection of all accessibility feedback is overseen by the Director of Trust & Safety Operations.
 
 [**Canadian Initial Accessibility Plan June 1, 2025**](https://ei.phncdn.com/static/misc/legal/Canadian_Initial_Accessibility_Plan_PH_June_1_2025_1748870226.pdf)  
-[**European Accessibility Statement June 28, 2025**](https://ei.phncdn.com/static/misc/legal/European_Accessibility_Plan_PH_June_28_2025_1750699488.pdf)
+[**European Accessibility Statement June 28, 2025**](https://ei.phncdn.com/static/misc/legal/European_Accessibility_Plan_PH_June_28_2025_1750699488.pdf)  
+[**Canadian Accessibility Progress Report June 1, 2026**](https://ei.phncdn.com/static/misc/legal/Pornhub_Canadian_Accessibility_Progress_Report_June_1_2026_1780331847.pdf)  
 
 **French**
 ----------
