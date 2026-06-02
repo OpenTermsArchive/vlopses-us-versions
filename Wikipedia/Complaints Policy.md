@@ -704,6 +704,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [जंबो जेट](https://meta.wikimedia.org/wiki/Special:CentralAuth/%E0%A4%9C%E0%A4%82%E0%A4%AC%E0%A5%8B_%E0%A4%9C%E0%A5%87%E0%A4%9F "m:Special:CentralAuth/जंबो जेट"), since 27 May 2026
 *   [Abhinayakneta](https://meta.wikimedia.org/wiki/Special:CentralAuth/Abhinayakneta "m:Special:CentralAuth/Abhinayakneta"), since 27 May 2026
 *   [Adnankhanakay](https://meta.wikimedia.org/wiki/Special:CentralAuth/Adnankhanakay "m:Special:CentralAuth/Adnankhanakay"), since 27 May 2026
+*   [Alakmarsaify](https://meta.wikimedia.org/wiki/Special:CentralAuth/Alakmarsaify "m:Special:CentralAuth/Alakmarsaify"), since 1 June 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
