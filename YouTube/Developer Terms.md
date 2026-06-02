@@ -1150,6 +1150,10 @@ This page provides a revision history for the following documents:
 
 Note that, in all cases, the legal documents themselves are the authoritative source of information.
 
+### June 1, 2026
+
+Updated the [Additional policies on derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy) to clarify that if your use case is accepted for additional derived metrics, you may store some statistical data for a duration beyond 30 days.
+
 ### May 4, 2026
 
 Added the [Additional policies on derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy). These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics (such as custom scores, earnings estimates, suitability scoring etc.) and/or store statistical data through the [standard quota extension request form](https://support.google.com/youtube/contact/yt_api_form) (starting June 1, 2026).
