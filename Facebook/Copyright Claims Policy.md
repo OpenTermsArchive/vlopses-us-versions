@@ -1159,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
 Restore removed content
 
@@ -1315,8 +1315,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -1677,9 +1675,11 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
+
+How to dispute copyright?
 
 I have a different question
 
@@ -1754,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-How to get permission?
-
-How to report copyright violation?
+What if I modified content?
 
 I have a different question
 
@@ -2060,13 +2060,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
-
-DMCA online form
+Send a DMCA report
 
 DMCA contact information
 
-Complete copyright claim
+DMCA claim requirements
 
 I have a different question
 
@@ -2118,11 +2116,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is a copyright report?
 
-Where to find URLs?
+What info do I need?
 
-My copyright was infringed
+Where do I report copyright?
+
+My report was rejected
 
 I have a different question
 
@@ -2232,13 +2232,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I report?
+What is a report number?
 
-I need to update my report
+What info is shared?
 
-I received a message
-
-What information is shared?
+How to appeal a decision?
 
 I have a different question
 
@@ -2293,11 +2291,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+Protect my video content
 
-Actions for detected content
+Report copyrighted content
 
-Report copyright infringement
+What is Content Protection?
 
 I have a different question
 
