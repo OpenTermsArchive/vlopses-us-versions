@@ -1159,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
 Restore removed content
 
@@ -1315,6 +1315,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+Rights Manager tool
 
 I have a different question
 
@@ -1812,9 +1814,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-Why was my video removed?
-
 My video was removed
+
+Why was my video removed?
 
 Video removed for copyright
 
@@ -2058,13 +2060,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
-
 Contact DMCA agent
 
-My copyright was infringed
+DMCA online form
 
-How to contact Meta DMCA
+DMCA contact information
+
+Complete copyright claim
 
 I have a different question
 
@@ -2116,13 +2118,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
+What info to include?
 
-What info do I need?
+Where to find URLs?
 
-Where do I report copyright?
-
-My report was rejected
+My copyright was infringed
 
 I have a different question
 
@@ -2232,11 +2232,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
+What happens after I report?
 
-What info is shared?
+I need to update my report
 
-How to appeal a decision?
+I received a message
+
+What information is shared?
 
 I have a different question
 
