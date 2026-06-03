@@ -296,7 +296,4 @@ With respect to any personal data subject to the European Union General Data Pro
 
 * * *
 
-*    [![A LinkedIn social media icon](https://marketingportalresources.z13.web.core.windows.net/RE4D5Pb.svg)](https://www.linkedin.com/groups/12150358 "Follow on LinkedIn")
-*    [![A Facebook social media icon](https://marketingportalresources.z13.web.core.windows.net/RE4DAsH.svg)](https://www.facebook.com/BingForPartners "Follow on Facebook")
-
 [](#primaryArea)
