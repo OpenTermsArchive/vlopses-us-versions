@@ -4508,6 +4508,8 @@ Refer to the following non-exhaustive list of targeting features and how persona
 3\. Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
 4\. Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
 
+**Note**: Discovery and Demand Gen campaigns use advertiser-curated audiences by default and may be restricted from serving if targeting products and services that fall within sensitive interest categories.
+
 * * *
 
 Targeting restrictions to Access to opportunities categories (US and Canada)
@@ -4753,6 +4755,8 @@ Refer to the following non-exhaustive list of targeting features and how persona
 2\. ZIP code location targeting cannot be used for Housing, Employment, and Consumer Finance Ads in the United States and Canada.  
 3\. Users under the age of 18 are not eligible for personalized advertising of any kind, including serving based on Predefined Google Audiences. Advertisers using advertiser-curated audiences are prohibited from uploading customer information from viewers of child-directed content.  
 4\. Custom Segment audiences using sensitive creative assets or pointing to sensitive landing pages will only serve with Display campaigns to non-sensitive audiences or contextually. All other campaigns using Custom Segment audiences with sensitive creative assets or landing pages will not be eligible to serve.
+
+**Note**: Discovery and Demand Gen campaigns use advertiser-curated audiences by default and may be restricted from serving if targeting products and services that fall within sensitive interest categories.
 
 * * *
 
