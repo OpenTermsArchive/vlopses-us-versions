@@ -1159,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
 Restore removed content
 
@@ -1315,6 +1315,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+Rights Manager tool
 
 I have a different question
 
@@ -1557,11 +1559,11 @@ Copy link
 
 What is public domain?
 
-Copyright for my photo?
+When does copyright expire?
 
-Copyright for my video?
+Can I use public domain content?
 
-How long is copyright?
+How long does copyright last?
 
 I have a different question
 
@@ -1608,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -2058,13 +2060,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
-
 Contact DMCA agent
 
-My copyright was infringed
+DMCA online form
 
-How to contact Meta DMCA
+DMCA contact information
+
+Complete copyright claim
 
 I have a different question
 
