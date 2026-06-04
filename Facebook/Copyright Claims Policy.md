@@ -1159,9 +1159,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my report
+Withdraw my IP report
 
-Cancel my IP report
+Cancel copyright report
 
 Restore removed content
 
@@ -1675,11 +1675,9 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
-
-How to dispute copyright?
 
 I have a different question
 
@@ -1814,9 +1812,9 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
 Why was my video removed?
+
+My video was removed
 
 Video removed for copyright
 
@@ -2008,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 
@@ -2062,9 +2060,11 @@ Copy link
 
 Send a DMCA report
 
-DMCA contact information
+Contact DMCA agent
 
-DMCA claim requirements
+My copyright was infringed
+
+How to contact Meta DMCA
 
 I have a different question
 
@@ -2291,11 +2291,11 @@ Copy link
 
 Apply for Rights Manager
 
-Protect my video content
+Content protection for creators
 
-Report copyrighted content
+Actions for detected content
 
-What is Content Protection?
+Report copyright infringement
 
 I have a different question
 
