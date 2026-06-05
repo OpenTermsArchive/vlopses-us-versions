@@ -3,11 +3,11 @@ Instagram Content Monetization Policies
 
 Copy link
 
-Why was my content demonetized?
+My content was not monetized
 
-My content was rejected
+Why was my content rejected?
 
-Appeal a monetization decision
+What are prohibited formats?
 
 What are restricted categories?
 
