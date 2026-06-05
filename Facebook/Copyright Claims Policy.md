@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
+My content was removed
+
 Report copyright violation
 
 Report trademark violation
-
-My content was removed
 
 What is intellectual property?
 
@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
-Report trademark infringement
+Limits to trademark rights?
 
 I have a different question
 
@@ -648,9 +648,9 @@ My account was disabled
 
 My Page was removed
 
-Why was my account disabled?
+What is intellectual property?
 
-What is repeat infringer policy?
+My account disabled by mistake
 
 I have a different question
 
@@ -1316,8 +1316,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-Rights Manager tool
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1559,11 +1557,11 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
+Copyright for my photo?
 
-Can I use public domain content?
+Copyright for my video?
 
-How long does copyright last?
+How long is copyright?
 
 I have a different question
 
@@ -1610,9 +1608,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1677,7 +1675,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1754,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+Can I use copyrighted content?
+
+What if I give credit?
 
 I have a different question
 
@@ -2008,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
