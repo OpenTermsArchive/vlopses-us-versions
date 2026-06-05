@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+My trademark was infringed
 
-Limits to trademark rights?
+Report trademark infringement
 
 I have a different question
 
@@ -648,9 +648,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+Why was my account disabled?
 
-My account disabled by mistake
+What is repeat infringer policy?
 
 I have a different question
 
@@ -781,7 +781,9 @@ Report copyright infringement
 
 Report trademark infringement
 
-Report intellectual property
+Report someone else's IP
+
+How to report infringement
 
 I have a different question
 
@@ -1392,13 +1394,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1557,11 +1557,11 @@ Copy link
 
 What is public domain?
 
-Copyright for my photo?
+When does copyright expire?
 
-Copyright for my video?
+Can I use public domain content?
 
-How long is copyright?
+How long does copyright last?
 
 I have a different question
 
@@ -1675,7 +1675,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
@@ -1752,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-Can I use copyrighted content?
-
-What if I give credit?
+What if I modified content?
 
 I have a different question
 
