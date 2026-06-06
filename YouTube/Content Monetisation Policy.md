@@ -474,7 +474,7 @@ The Virtual Items Module is available to eligible creators in the YouTube Partne
 
 Virtual Items include these features:
 
-*   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams.
+*   **Jewels:** A digital item that your fans can buy to unlock and send gifts on your vertical live streams. Jewels can also be used to hype videos in [eligible regions](https://support.google.com/youtube/answer/15333704#hype-with-jewels-availability).
 *   **Gifts:** A digital item that fans can send on vertical live streams unlocked by purchasing Jewels. Gifts appear as an overlay on top of vertical live streams and let viewers react and show appreciation in real-time. When your fans use their Jewels to send gifts, you earn Rubies.
 *   **Rubies:** A digital item that represents your earnings when your fans send gifts on your live streams. Your earnings from Rubies will be paid to you with your other YouTube Partner Program earnings.
 
@@ -534,7 +534,6 @@ Virtual Items aren't available on the following types of live streams:
 *   Is age-restricted or [made for kids](https://support.google.com/youtube/topic/9689353)
 *   Is unlisted or private
 *   When live chat is turned off
-*   Horizontal live streams
 *   On YouTube Giving fundraisers
 
 How revenue works for Virtual Items
