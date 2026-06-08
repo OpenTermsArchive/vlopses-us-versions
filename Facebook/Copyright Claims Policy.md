@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-What is likelihood of confusion?
+My trademark was infringed
 
-Limits to trademark rights?
+Report trademark infringement
 
 I have a different question
 
@@ -873,9 +873,9 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-What is trademark infringement?
+What is trademark?
 
 What is fair use?
 
@@ -1055,7 +1055,9 @@ Report ad copyright
 
 Report ad trademark
 
-Report counterfeit ad
+Report ad counterfeit
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1316,8 +1318,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-Rights Manager tool
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1456,6 +1456,8 @@ Who owns my original work?
 What is copyright ownership?
 
 My employer owns my work?
+
+Contact a copyright attorney
 
 I have a different question
 
@@ -1608,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Do I need permission?
+Get permission to post
 
-What is public domain?
+My content was removed
 
 I have a different question
 
@@ -1675,7 +1677,7 @@ Copy link
 
 What is fair use?
 
-Copyright exceptions in EU
+What are copyright exceptions?
 
 My content was removed
 
@@ -2232,13 +2234,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens after I report?
+What is a report number?
 
-I need to update my report
+What info is shared?
 
-I received a message
-
-What information is shared?
+How to appeal a decision?
 
 I have a different question
 
