@@ -1055,9 +1055,7 @@ Report ad copyright
 
 Report ad trademark
 
-Report ad counterfeit
-
-How to use Brand Rights Protection
+Report counterfeit ad
 
 I have a different question
 
@@ -1457,8 +1455,6 @@ What is copyright ownership?
 
 My employer owns my work?
 
-Contact a copyright attorney
-
 I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
@@ -1677,7 +1673,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1893,11 +1889,9 @@ More
 
 Appeal content removal
 
-Contact rights owner
+My content was removed
 
 DMCA counter-notification
-
-My content was removed
 
 I have a different question
 
@@ -2008,9 +2002,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
