@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
-Report trademark infringement
-
-Brand Rights Protection
-
-Trademark law differences
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -791,7 +781,9 @@ Report copyright infringement
 
 Report trademark infringement
 
-Report intellectual property
+Report someone else's IP
+
+How to report infringement
 
 I have a different question
 
@@ -1169,9 +1161,9 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-Withdraw my IP report
+Withdraw my report
 
-Cancel copyright report
+Cancel my IP report
 
 Restore removed content
 
@@ -1325,8 +1317,6 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
-
-Rights Manager tool
 
 I have a different question
 
@@ -1764,11 +1754,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content with credit?
-
 What is fair use?
 
-What if I modified content?
+Can I use copyrighted content?
+
+What if I give credit?
 
 I have a different question
 
@@ -2128,11 +2118,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is a copyright report?
 
-Where to find URLs?
+What info do I need?
 
-My copyright was infringed
+Where do I report copyright?
+
+My report was rejected
 
 I have a different question
 
@@ -2301,11 +2293,11 @@ Copy link
 
 Apply for Rights Manager
 
-Content protection for creators
+Protect my video content
 
-Actions for detected content
+Report copyrighted content
 
-Report copyright infringement
+What is Content Protection?
 
 I have a different question
 
