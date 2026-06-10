@@ -114,9 +114,9 @@ Google has the ability to independently track Customer’s use of certain Servic
 
 1.3.1 The following definitions apply to this Section 1.3 (Caching):
 
-\*"_Downstream transactions"_ means to use the cached Google Maps Content associated with a particular End User’s account to avoid requiring that End User to enter the same information in an address field for current or future transactions.
+\*"_Downstream transactions_" means to use the cached Google Maps Content associated with a particular End User’s account to avoid requiring that End User to enter the same information in an address field for current or future transactions.
 
-\*\*"_Correction Requests"_ means to use the cached Google Maps Content associated with an End User’s account to request a correction on an address component (e.g., confirmationLevel, inferred, spellCorrected, replaced, or unexpected) received from the End User.
+\*\*"_Correction Requests_" means to use the cached Google Maps Content associated with an End User’s account to request a correction on an address component (e.g., confirmationLevel, inferred, spellCorrected, replaced, or unexpected) received from the End User.
 
 1.3.2 Table 1.3.2 (Address Validation API Caching Permissions) 
 
@@ -182,79 +182,95 @@ Historic values for a specific location and given time range
 
 Until the Agreement is terminated
 
-**3\. Directions API**
+**3\. Android Geocoder SDK (Restricted GA)**
 
-3.1 _Use without a Google Map_. Customer may use Google Maps Content from the Directions API in Customer Applications without a corresponding Google Map.
+3.1 _Use without a Google Map._ Customer may use Google Maps Content from the Android Geocoder SDK in Customer Applications without a corresponding Google Map.
 
-3.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Directions API in conjunction with a non-Google map.
+3.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Android Geocoder SDK in conjunction with a non-Google map.
 
-3.3 _Caching._ Customer may temporarily cache latitude and longitude values from the Directions API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values. 
+3.3 _Caching._ 
 
-**4\. Distance Matrix API**
+3.3.1 Customer may temporarily cache latitude (lat) and longitude (lng) values from the Android Geocoder SDK for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-4.1 _Use without a Google Map._ Customer may use Google Maps Content from the Distance Matrix API in Customer Applications without a corresponding Google Map.
+3.3.2 Customer may indefinitely cache latitude (lat), longitude (lng), formatted\_address, and the structured address values from the Android Geocoder SDK solely to support the direct, End User facing functionality of the Customer Application that initiated the request (e.g., displaying the address of a location in a weather application, associating location data with a photograph), only where the cache is not used as a replacement for making an additional call to the Services. Cached data must be logically isolated to the specific End User it is associated with and must not be used across multiple End Users.
 
-4.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Distance Matrix API in conjunction with a non-Google map.
+**4\. Directions API**
 
-**5\. Geocoding API**
+4.1 _Use without a Google Map_. Customer may use Google Maps Content from the Directions API in Customer Applications without a corresponding Google Map.
 
-5.1 _Use without a Google Map_. Customer may use Google Maps Content from the Geocoding API in Customer Applications without a corresponding Google Map.
+4.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Directions API in conjunction with a non-Google map.
 
-5.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Geocoding API in conjunction with a non-Google map.
+4.3 _Caching._ Customer may temporarily cache latitude and longitude values from the Directions API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values. 
 
-5.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geocoding API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+**5\. Distance Matrix API**
 
-**6\. Geolocation API**
+5.1 _Use without a Google Map._ Customer may use Google Maps Content from the Distance Matrix API in Customer Applications without a corresponding Google Map.
 
-6.1 _Use without a Google Map._ Customer may use Google Maps Content from the Geolocation API in Customer Applications without a corresponding Google Map.
+5.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Distance Matrix API in conjunction with a non-Google map.
 
-6.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Geolocation API in conjunction with a non-Google map.
+**6\. Geocoding API**
 
-6.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geolocation API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+6.1 _Use without a Google Map_. Customer may use Google Maps Content from the Geocoding API in Customer Applications without a corresponding Google Map.
 
-**7\. Google Earth** 
+6.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Geocoding API in conjunction with a non-Google map.
 
-7.1 _Definitions_. 
+6.3 _Caching._
 
-7.1.1 The definition of "Customer Application" in the Google Maps Platform Terms of Service is replaced with the following: "Customer Earth Project" means the project Customer creates in Google Earth and which has material value independent of the Services.
+_6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geocoding API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-7.1.2 The definition of "Customer Indemnified Materials" in the Google Maps Platform Terms of Service is replaced with the following: "Customer Indemnified Materials" means Customer Data, Customer Earth Project and Brand Guidelines.
+6.3.2 Customer may indefinitely cache latitude (lat), longitude (lng), formatted\_address, and the structured address values from the Geocoding API solely to support the direct, End User facing functionality of the Customer Application that initiated the request (e.g., displaying the address of a location in a weather application, associating location data with a photograph), only where the cache is not used as a replacement for making an additional call to the Services. Cached data must be logically isolated to the specific End User it is associated with and must not be used across multiple End Users. 
 
-7.1.3 "Ask Google Earth Generated Output" means responses that Google generates using Google Maps Content from Google Earth in response to a Customer initiated prompt.
+**7\. Geolocation API**
 
-7.1.4 "Customer Data" means (1) data provided to Google by Customer or End Users through the Services and stored in the Customer Earth Project, and (2) data that Customer or End Users derive from use of the Services that is substantially transformed or modified such that the Google Maps Content cannot (a) be identified as originating or deriving directly from Google Maps Content; (b) be reverse engineered to the original Google Maps Places Content; or (c) be used as a substitute for Google Maps Content.
+7.1 _Use without a Google Map._ Customer may use Google Maps Content from the Geolocation API in Customer Applications without a corresponding Google Map.
 
-7.1.5 "Generative AI Prohibited Use Policy" means the then-current Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy).
+7.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Geolocation API in conjunction with a non-Google map.
 
-7.2 _Data Layers_. Data layers and tables can be saved to a Customer Earth Project. Customer will not, and will not allow End Users to, download, export or copy Data layers and tables from Google Earth. 
+7.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geolocation API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-7.3 _Design Features._
+**8\. Google Earth** 
 
-7.3.1 The designs created by Customer or its End Users with Google Earth design features will be saved to Customers Google Earth Project and can be downloaded (e.g. as a KMZ or PNG file) if they are Customer Data. 
+8.1 _Definitions_. 
 
-7.3.2 _Disclaimer._ Google Earth design features are intended for conceptual planning and design. Google Earth design features should not be used for construction or structural engineering designs.
+8.1.1 The definition of "Customer Application" in the Google Maps Platform Terms of Service is replaced with the following: "Customer Earth Project" means the project Customer creates in Google Earth and which has material value independent of the Services.
 
-_7._4 _Ask Google Earth_.
+8.1.2 The definition of "Customer Indemnified Materials" in the Google Maps Platform Terms of Service is replaced with the following: "Customer Indemnified Materials" means Customer Data, Customer Earth Project and Brand Guidelines.
 
-7.4.1 Customer will not, and will not allow End Users to, download, export or copy Ask Google Earth Generated Outputs.
+8.1.3 "Ask Google Earth Generated Output" means responses that Google generates using Google Maps Content from Google Earth in response to a Customer initiated prompt.
 
-7.4.2 Customer and its End User’s use of Ask in Google Earth must comply with the Generative AI Prohibited Use Policy. A violation of the Generative AI Prohibited Use Policy will be considered a violation of the AUP.
+8.1.4 "Customer Data" means (1) data provided to Google by Customer or End Users through the Services and stored in the Customer Earth Project, and (2) data that Customer or End Users derive from use of the Services that is substantially transformed or modified such that the Google Maps Content cannot (a) be identified as originating or deriving directly from Google Maps Content; (b) be reverse engineered to the original Google Maps Places Content; or (c) be used as a substitute for Google Maps Content.
 
-_7._5 _Customer Data_.
+8.1.5 "Generative AI Prohibited Use Policy" means the then-current Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy).
 
-7.5.1 Customer is responsible for all Customer Data, including securing and maintaining all applicable rights required for Customer’s use of Customer Data.
+8.2 _Data Layers_. Data layers and tables can be saved to a Customer Earth Project. Customer will not, and will not allow End Users to, download, export or copy Data layers and tables from Google Earth. 
 
-7.5.2 To provide the Services in Google Earth, Google logs information and parameters generated by Customer’s use of the Services (including, but not limited to, search terms, prompts to Ask Google Earth, and inputs for creating generated designs) ("Earth Service Data"). Customer acknowledges and agrees that Google and its Affiliates may use and retain the Earth Service Data to provide and improve Google Earth, subject to the then-current Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
+8.3 _Design Features._
 
-_7._6 Section 3.2.2 (a) (_Terms of Service and Privacy Policy)_ of the Google Maps Platform Terms of Service does not apply_._
+8.3.1 The designs created by Customer or its End Users with Google Earth design features will be saved to Customers Google Earth Project and can be downloaded (e.g. as a KMZ or PNG file) if they are Customer Data. 
 
-**8\. Maps Datasets API**
+8.3.2 _Disclaimer._ Google Earth design features are intended for conceptual planning and design. Google Earth design features should not be used for construction or structural engineering designs.
 
-8.1 _No Personal Data._ Customer will not provide to Google any Personal Data via the Maps Datasets API.
+8_._4 _Ask Google Earth_.
 
-**9\. Maps Grounding Lite API**
+8.4.1 Customer will not, and will not allow End Users to, download, export or copy Ask Google Earth Generated Outputs.
 
-9.1 _Definitions_.
+8.4.2 Customer and its End User’s use of Ask in Google Earth must comply with the Generative AI Prohibited Use Policy. A violation of the Generative AI Prohibited Use Policy will be considered a violation of the AUP.
+
+8_._5 _Customer Data_.
+
+8.5.1 Customer is responsible for all Customer Data, including securing and maintaining all applicable rights required for Customer’s use of Customer Data.
+
+8.5.2 To provide the Services in Google Earth, Google logs information and parameters generated by Customer’s use of the Services (including, but not limited to, search terms, prompts to Ask Google Earth, and inputs for creating generated designs) ("Earth Service Data"). Customer acknowledges and agrees that Google and its Affiliates may use and retain the Earth Service Data to provide and improve Google Earth, subject to the then-current Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/).
+
+8_._6 Section 3.2.2 (a) (_Terms of Service and Privacy Policy)_ of the Google Maps Platform Terms of Service does not apply_._
+
+**9\. Maps Datasets API**
+
+9.1 _No Personal Data._ Customer will not provide to Google any Personal Data via the Maps Datasets API.
+
+**10\. Maps Grounding Lite API**
+
+10.1 _Definitions_.
 
 "Grounded Output" means output created when Google Maps Content is combined with the output of any LLM.
 
@@ -262,101 +278,101 @@ _7._6 Section 3.2.2 (a) (_Terms of Service and Privacy Policy)_ of the Google Ma
 
 "Large Language Model" or "LLM" means a generative artificial intelligence model trained on large datasets to recognize, summarize, translate, predict, and generate text or other content in response to user-provided prompts or queries.
 
-9.2 _Permitted Use_. For clarity, Google Maps Content contained in Grounded Output remains subject to use restrictions applicable to Google Maps Content in the Agreement, including the prohibition on model training. As a limited exception:
+10.2 _Permitted Use_. For clarity, Google Maps Content contained in Grounded Output remains subject to use restrictions applicable to Google Maps Content in the Agreement, including the prohibition on model training. As a limited exception:
 
-9.2.1 to the prohibition on using Google Maps Content to create content, Customer may use the Maps Grounding Lite API to ground a LLM to generate and display Grounded Output to End Users if (i) Customer complies with the Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy) and (ii) Customer includes associated Google Maps source links with the Grounded Output;
+10.2.1 to the prohibition on using Google Maps Content to create content, Customer may use the Maps Grounding Lite API to ground a LLM to generate and display Grounded Output to End Users if (i) Customer complies with the Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy) and (ii) Customer includes associated Google Maps source links with the Grounded Output;
 
-9.2.2 to the prohibition on caching or storing Google Maps Content, Customer may cache Grounded Output for up to thirty (30) consecutive days solely for the purpose of evaluating and optimizing the performance or display of the Grounded Output for the Customer Application.
+10.2.2 to the prohibition on caching or storing Google Maps Content, Customer may cache Grounded Output for up to thirty (30) consecutive days solely for the purpose of evaluating and optimizing the performance or display of the Grounded Output for the Customer Application.
 
-9.3 _Additional Restrictions_. In addition to the license restrictions in the Agreement, Customer will not, and will not permit its End Users or third-parties to, do any of the following:
+10.3 _Additional Restrictions_. In addition to the license restrictions in the Agreement, Customer will not, and will not permit its End Users or third-parties to, do any of the following:
 
-9.3.1 attempt to extract or otherwise separate Google Maps Content from the Grounded Output;
+10.3.1 attempt to extract or otherwise separate Google Maps Content from the Grounded Output;
 
-9.3.2 use Grounded Output to train, develop, or improve any machine learning models or artificial intelligence systems;
+10.3.2 use Grounded Output to train, develop, or improve any machine learning models or artificial intelligence systems;
 
-9.3.3 modify or intersperse content with the Grounded Output, insert interstitial content, or redirect users away from or inhibit the full display of any destination page.
+10.3.3 modify or intersperse content with the Grounded Output, insert interstitial content, or redirect users away from or inhibit the full display of any destination page.
 
-9.4 _No Responsibility for LLMs._ Google is not responsible for the acts or omissions of any LLM provider. This includes, without limitation: (i) the accuracy or factual correctness of Grounded Output produced by an LLM, and (ii) excessive usage charges resulting from an LLM’s automated request behavior.
+10.4 _No Responsibility for LLMs._ Google is not responsible for the acts or omissions of any LLM provider. This includes, without limitation: (i) the accuracy or factual correctness of Grounded Output produced by an LLM, and (ii) excessive usage charges resulting from an LLM’s automated request behavior.
 
-**10\. Navigation Connect API**
+**11\. Navigation Connect API**
 
 The following terms apply to the Navigation Connect API.
 
-10.1 _Definitions_.
+11.1 _Definitions_.
 
 *   "Covered Person" has the meaning given in 28 C.F.R. § 202.211.
 *   "Country of Concern" has the meaning given in 28 C.F.R. § 202.209 and includes China, Cuba, North Korea, Iran, Russia, and Venezuela. 
 *   "ISV" means a Customer that integrates the Service to provide functionality to third parties.
 *   "U.S. Data" means user location data of U.S. persons obtained through the Navigation Connect API.
 
-10.2 _U.S. Data Restrictions_.
+11.2 _U.S. Data Restrictions_.
 
-*   10.2.1 _Identity Verification_. Access to or continued use of U.S. Data is conditional upon Customer’s successful completion of identity verification. Google reserves the right to require Customer to verify its identity at any time. Customer must provide current, complete, and accurate evidence of its identity and legal business existence upon request.
-*   10.2.2 _Covered Persons_. When accessing U.S. Data, Customer represents and warrants that it is not a Covered Person and is not domiciled in a Country of Concern. Google may terminate access if Customer becomes a Covered Person or violates applicable U.S. regulations regarding Covered Persons. Customer may not send U.S. Data to, or facilitate the collection of U.S. Data by, a Covered Person.
+*   11.2.1 _Identity Verification_. Access to or continued use of U.S. Data is conditional upon Customer’s successful completion of identity verification. Google reserves the right to require Customer to verify its identity at any time. Customer must provide current, complete, and accurate evidence of its identity and legal business existence upon request.
+*   11.2.2 _Covered Persons_. When accessing U.S. Data, Customer represents and warrants that it is not a Covered Person and is not domiciled in a Country of Concern. Google may terminate access if Customer becomes a Covered Person or violates applicable U.S. regulations regarding Covered Persons. Customer may not send U.S. Data to, or facilitate the collection of U.S. Data by, a Covered Person.
 
-10.3 _Data Protection and Consent_. Customer must provide a current and accurate Privacy Policy to Google for display on the user consent screen.
+11.3 _Data Protection and Consent_. Customer must provide a current and accurate Privacy Policy to Google for display on the user consent screen.
 
-*   10.3.1 _Controller Role_. If Customer is a Data Controller (including an ISV acting as a Data Controller), Customer must provide its entity name and Privacy Policy for display to the end user to obtain consent. Customer must comply with such Privacy Policy and the terms described in the user consent.
-*   10.3.2 _Processor Role_. If Customer is acting solely as a Data Processor, Customer is not required to be displayed in the consent flow. However, the Customer must provide the entity name and Privacy Policy for the relevant Data Controller for display to the end user to obtain consent. Customer must ensure the Data Controller’s compliance with such Privacy Policy and the terms described in the user consent.
+*   11.3.1 _Controller Role_. If Customer is a Data Controller (including an ISV acting as a Data Controller), Customer must provide its entity name and Privacy Policy for display to the end user to obtain consent. Customer must comply with such Privacy Policy and the terms described in the user consent.
+*   11.3.2 _Processor Role_. If Customer is acting solely as a Data Processor, Customer is not required to be displayed in the consent flow. However, the Customer must provide the entity name and Privacy Policy for the relevant Data Controller for display to the end user to obtain consent. Customer must ensure the Data Controller’s compliance with such Privacy Policy and the terms described in the user consent.
 
-10.4 _Permitted and Prohibited Use_.
+11.4 _Permitted and Prohibited Use_.
 
-*   10.4.1 _Permitted Use_. Customer may use the Google Maps Content provided by the Navigation Connect API only for operational optimization, including improving service quality and supporting driver performance.
-*   10.4.2 _Prohibited Use_. Customer may not use Google Maps Content collected via the Navigation Connect API as a basis for adverse employment actions. This data shall not be used to monitor individual employee productivity for the purpose of disciplinary action, performance reviews, or termination.
+*   11.4.1 _Permitted Use_. Customer may use the Google Maps Content provided by the Navigation Connect API only for operational optimization, including improving service quality and supporting driver performance.
+*   11.4.2 _Prohibited Use_. Customer may not use Google Maps Content collected via the Navigation Connect API as a basis for adverse employment actions. This data shall not be used to monitor individual employee productivity for the purpose of disciplinary action, performance reviews, or termination.
 
-10.5 _Use without a Google Map_. Customer may use Google Maps Content from the Navigation Connect API in Customer Applications without a corresponding Google Map.
+11.5 _Use without a Google Map_. Customer may use Google Maps Content from the Navigation Connect API in Customer Applications without a corresponding Google Map.
 
-10.6 _No Use with a non-Google map_. Customer must not use Google Maps Content from the Navigation Connect API in conjunction with a non-Google map.
+11.6 _No Use with a non-Google map_. Customer must not use Google Maps Content from the Navigation Connect API in conjunction with a non-Google map.
 
-10.7 _Attribution_. Customer must display the relevant Google Maps or Waze branding to users on the Customer application as described in the Documentation.
+11.7 _Attribution_. Customer must display the relevant Google Maps or Waze branding to users on the Customer application as described in the Documentation.
 
-10.8 _Caching_. Customer may temporarily cache latitude (lat), longitude (lng), distance, duration, time, and estimated time of arrival values for up to 30 consecutive calendar days, after which Customer must delete the cached values.
+11.8 _Caching_. Customer may temporarily cache latitude (lat), longitude (lng), distance, duration, time, and estimated time of arrival values for up to 30 consecutive calendar days, after which Customer must delete the cached values.
 
-**11\. Navigation SDK**
+**12\. Navigation SDK**
 
-11.1 _Use without a Google Map._ Customer may use Google Maps Content from the Navigation SDK in Customer Applications without a corresponding Google Map.
+12.1 _Use without a Google Map._ Customer may use Google Maps Content from the Navigation SDK in Customer Applications without a corresponding Google Map.
 
-11.2 _No Use with a non-Google map._ Customer must not use Google Maps Content from the Navigation SDK in conjunction with a non-Google map.
+12.2 _No Use with a non-Google map._ Customer must not use Google Maps Content from the Navigation SDK in conjunction with a non-Google map.
 
-11.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Navigation SDK for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+12.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Navigation SDK for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**12\. Places Aggregate API**
+**13\. Places Aggregate API**
 
-12.1 _Customer Values._ For purposes of this Section 12.1 (Places Aggregate API), "Customer Value" means content created by combining POI Counts and third-party data or a metric Customer creates using proprietary business logic and that is substantially transformed in accordance with this Section 12.1 (Customer Values). Customer may use total counts of points of interest returned by the Places Aggregate API ("POI Count") to create Customer Values, if Customer ensures:
+13.1 _Customer Values._ For purposes of this Section 13.1 (Places Aggregate API), "Customer Value" means content created by combining POI Counts and third-party data or a metric Customer creates using proprietary business logic and that is substantially transformed in accordance with this Section 13.1 (Customer Values). Customer may use total counts of points of interest returned by the Places Aggregate API ("POI Count") to create Customer Values, if Customer ensures:
 
 (a) that the resulting Customer Value cannot be used as a substitute for POI Counts; or
 
 (b) that Customer and Customer’s End Users do not reverse engineer POI Count(s) or otherwise deduce from Customer Values.
 
-12.2 _Caching_. Customer may temporarily cache the POI Count for 30 consecutive calendar days solely for the purpose of calculating the Customer Value, after which Customer must delete the cached POI Count.
+13.2 _Caching_. Customer may temporarily cache the POI Count for 30 consecutive calendar days solely for the purpose of calculating the Customer Value, after which Customer must delete the cached POI Count.
 
-12.3 _Consumer Protections_. Customer will not use the Places Aggregate API in any manner that (i) violates any consumer protection laws or guidelines or (ii) directly or indirectly results in any decisions, scoring, or assessments by the Customer or any third-party regarding an individual that relates to housing, employment, credit, or insurance.
+13.3 _Consumer Protections_. Customer will not use the Places Aggregate API in any manner that (i) violates any consumer protection laws or guidelines or (ii) directly or indirectly results in any decisions, scoring, or assessments by the Customer or any third-party regarding an individual that relates to housing, employment, credit, or insurance.
 
-**13\. Places API (Legacy and New)**
+**14\. Places API (Legacy and New)**
 
-13.1 _Use without a Google Map._ Customer may use Google Maps Content from the Places API in Customer Applications without a corresponding Google Map.
+14.1 _Use without a Google Map._ Customer may use Google Maps Content from the Places API in Customer Applications without a corresponding Google Map.
 
-13.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Places API in conjunction with a non-Google map.
+14.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Places API in conjunction with a non-Google map.
 
-13.3 _Caching._ Customer may temporarily cache latitude and longitude values from the Places API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+14.3 _Caching._ Customer may temporarily cache latitude and longitude values from the Places API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**14\. Places UI Kit**
+**15\. Places UI Kit**
 
-14.1 _Places UI Kit usage_. Customer may use Places UI Kit in Customer Applications with or without any map, including a non-Google Map. This clause will prevail over the No Use with Non-Google Maps clause of the Agreement.
+15.1 _Places UI Kit usage_. Customer may use Places UI Kit in Customer Applications with or without any map, including a non-Google Map. This clause will prevail over the No Use with Non-Google Maps clause of the Agreement.
 
-14.2 _Caching_. Customer may temporarily cache latitude and longitude values from the Places UI Kit for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+15.2 _Caching_. Customer may temporarily cache latitude and longitude values from the Places UI Kit for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-14.3 _Use of Third-party products._ To the extent that Customer uses Places UI Kit with third-party products or services in its Customer Application, Customer does so at its own discretion. Customer is responsible for (a) compliance with any applicable laws, regulations, industry standards or other requirements; (b) any misalignment that may arise from such use; and (c) ensuring that any use with a third-party service is compliant with the restrictions in the Agreement, including, without limitation, the restrictions against caching and exporting Google Maps Content and creating content from Google Maps Content; and (d) complying with Google’s attribution requirements including making it clear to the End User what is Google Maps Content and what content is not from Google. Google does not warrant or endorse, and will not have any liability or responsibility to Customer or any other person for, Customer's use of third-party products or services or their combination with the Services.
+15.3 _Use of Third-party products._ To the extent that Customer uses Places UI Kit with third-party products or services in its Customer Application, Customer does so at its own discretion. Customer is responsible for (a) compliance with any applicable laws, regulations, industry standards or other requirements; (b) any misalignment that may arise from such use; and (c) ensuring that any use with a third-party service is compliant with the restrictions in the Agreement, including, without limitation, the restrictions against caching and exporting Google Maps Content and creating content from Google Maps Content; and (d) complying with Google’s attribution requirements including making it clear to the End User what is Google Maps Content and what content is not from Google. Google does not warrant or endorse, and will not have any liability or responsibility to Customer or any other person for, Customer's use of third-party products or services or their combination with the Services.
 
-14.4 _No Alteration of Google Attribution, Links, or Notices_. Customer may not remove, alter, or obscure Google provided attribution, links to terms, or user-facing notices.
+15.4 _No Alteration of Google Attribution, Links, or Notices_. Customer may not remove, alter, or obscure Google provided attribution, links to terms, or user-facing notices.
 
-**15\. Pollen API**
+**16\. Pollen API**
 
-15.1 _Permitted Use._ Customer may use the data retrieved from Pollen API in (a) pollen based routing solutions developed by Customer and (b) Customer environmental risk indices, insights, and forecasts.
+16.1 _Permitted Use._ Customer may use the data retrieved from Pollen API in (a) pollen based routing solutions developed by Customer and (b) Customer environmental risk indices, insights, and forecasts.
 
-15.2 _Caching_. Customer may temporarily cache the applicable Google Maps Content from the Pollen API for the applicable Caching Period pursuant to Table 15.2.1 (Caching Permissions).
+16.2 _Caching_. Customer may temporarily cache the applicable Google Maps Content from the Pollen API for the applicable Caching Period pursuant to Table 16.2.1 (Caching Permissions).
 
-Table 15.2.1 (Pollen API Caching Permissions)
+Table 16.2.1 (Pollen API Caching Permissions)
 
 |     |     |
 | --- | --- |
@@ -381,45 +397,45 @@ Heatmap values
 
 24 hours, after which Customer must delete the cached Google Maps Content
 
-**16\. Roads API**
+**17\. Roads API**
 
-16.1 _Use without a Google Map._ Customer may use Google Maps Content from the Roads API in Customer Applications without a corresponding Google Map.
+17.1 _Use without a Google Map._ Customer may use Google Maps Content from the Roads API in Customer Applications without a corresponding Google Map.
 
-16.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Roads API in conjunction with a non-Google map.
+17.2 _No use with a non-Google map_. Customer must not use Google Maps Content from the Roads API in conjunction with a non-Google map.
 
-16.3 _Caching_. Customer may temporarily cache latitude and longitude values from the Roads API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+17.3 _Caching_. Customer may temporarily cache latitude and longitude values from the Roads API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**17\. Route Optimization API**
+**18\. Route Optimization API**
 
-17.1 _Use without a Google Map._ Customer may use Google Maps Content from the Route Optimization API in Customer Applications without a corresponding Google Map_._
+18.1 _Use without a Google Map._ Customer may use Google Maps Content from the Route Optimization API in Customer Applications without a corresponding Google Map_._
 
-17.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Route Optimization API in conjunction with a non-Google map.
+18.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Route Optimization API in conjunction with a non-Google map.
 
-17.3 _Caching_. Customer may temporarily cache latitude (lat) and longitude (lng) values from the Route Optimization API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+18.3 _Caching_. Customer may temporarily cache latitude (lat) and longitude (lng) values from the Route Optimization API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-17.4 _SLA Exclusion._ Route Optimization API is not covered by the [Google Maps Platform Service Level Agreement](https://cloud.google.com/maps-platform/terms/sla).
+18.4 _SLA Exclusion._ Route Optimization API is not covered by the [Google Maps Platform Service Level Agreement](https://cloud.google.com/maps-platform/terms/sla).
 
-**18\. Routes API**
+**19\. Routes API**
 
-18.1 _Use without a Google Map_. Customer may use Google Maps Content from the Routes API in Customer Applications without a corresponding Google Map.
+19.1 _Use without a Google Map_. Customer may use Google Maps Content from the Routes API in Customer Applications without a corresponding Google Map.
 
-18.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Routes API in conjunction with a non-Google map.
+19.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Routes API in conjunction with a non-Google map.
 
-18.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Routes API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+19.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Routes API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**19\. Solar API**
+**20\. Solar API**
 
-19.1 _Permitted Use_**_._** Customer may use the Solar API only (a) to determine the feasibility of installing energy systems for a particular address or geographic area, (b) to design or install an energy system, or (c) for a Downstream Transaction. A "Downstream Transaction" means (i) the design of an energy system requested by a user for a particular address, (ii) the preparation and delivery of a commercial proposal for an energy system that is requested by a user for a particular address, or (iii) the preparation and delivery of marketing materials for an energy system where a user has opted-in to receiving such materials.
+20.1 _Permitted Use_**_._** Customer may use the Solar API only (a) to determine the feasibility of installing energy systems for a particular address or geographic area, (b) to design or install an energy system, or (c) for a Downstream Transaction. A "Downstream Transaction" means (i) the design of an energy system requested by a user for a particular address, (ii) the preparation and delivery of a commercial proposal for an energy system that is requested by a user for a particular address, or (iii) the preparation and delivery of marketing materials for an energy system where a user has opted-in to receiving such materials.
 
-19.2 _Caching_. Customer may temporarily cache the "Building Insights" and "Data Layers" from the Solar API ("Solar Data") for up to 30 consecutive calendar days, after which Customer must delete the cached Solar Data. The deletion obligation does not apply to Solar Data incorporated into fixed media (e.g. energy system design, feasibility study, commercial proposal, marketing materials) for use in a Downstream Transaction.
+20.2 _Caching_. Customer may temporarily cache the "Building Insights" and "Data Layers" from the Solar API ("Solar Data") for up to 30 consecutive calendar days, after which Customer must delete the cached Solar Data. The deletion obligation does not apply to Solar Data incorporated into fixed media (e.g. energy system design, feasibility study, commercial proposal, marketing materials) for use in a Downstream Transaction.
 
-**20\. Weather API**
+**21\. Weather API**
 
-20.1 _Restrictions._ Customers may not use Google Maps Content retrieved from Weather API to recreate a Google service or product (e.g. use data retrieved from Weather API in a weather app or weather model whose primary purpose is to provide weather information).
+21.1 _Restrictions._ Customers may not use Google Maps Content retrieved from Weather API to recreate a Google service or product (e.g. use data retrieved from Weather API in a weather app or weather model whose primary purpose is to provide weather information).
 
-20.2 _Caching._ Customers may temporarily cache the applicable Google Maps Content from the Weather API for the applicable Caching Period, pursuant to Table 20.2.1 (Weather API Caching Permissions).
+21.2 _Caching._ Customers may temporarily cache the applicable Google Maps Content from the Weather API for the applicable Caching Period, pursuant to Table 21.2.1 (Weather API Caching Permissions).
 
-20.2.1 (Weather API Caching Permissions)
+21.2.1 (Weather API Caching Permissions)
 
 |     |     |
 | --- | --- |
