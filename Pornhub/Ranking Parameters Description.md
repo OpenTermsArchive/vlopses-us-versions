@@ -8,7 +8,7 @@ _**Last Modified: March 11, 2024**_
 
 At Pornhub, your user experience is important to us.
 
-Given the nature of our services, this means we want to get tailored content, like videos, photos, and GIFs, to you while respecting your privacy, safety, and the laws and regulations in your jurisdiction. To do this, we’ve developed methods that give you what you want while keeping you safe and within the legal parameters of where you live. If you want safety and privacy specifics, check out our [Terms & Conditions](https://www.pornhub.com/information/terms), [Trust & Safety](https://help.pornhub.com/hc/en-us/categories/4419836212499) policy, [Privacy Policy](https://www.pornhub.com/information/privacy), and [EU DSA](https://www.pornhub.com/information/eu_dsa) pages.
+Given the nature of our services, this means we want to get tailored content, like videos, photos, and GIFs, to you while respecting your privacy, safety, and the laws and regulations in your jurisdiction. To do this, we’ve developed methods that give you what you want while keeping you safe and within the legal parameters of where you live. If you want safety and privacy specifics, check out our [Terms & Conditions](https://www.pornhub.com/information/terms), [Trust & Safety](https://help.pornhub.com/hc/en-us/categories/4419836212499) policy, [Privacy Notice](https://www.pornhub.com/information/privacy), and [EU DSA](https://www.pornhub.com/information/eu_dsa) pages.
 
 Here’s a look at how we deliver a top-notch user experience to you:
 
