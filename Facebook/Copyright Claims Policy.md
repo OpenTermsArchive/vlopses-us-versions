@@ -176,9 +176,9 @@ Copy link
 
 What is trademark dilution?
 
-My trademark was infringed
+What is likelihood of confusion?
 
-Report trademark infringement
+Limits to trademark rights?
 
 I have a different question
 
@@ -781,7 +781,9 @@ Report copyright infringement
 
 Report trademark infringement
 
-Report intellectual property
+Report someone else's IP
+
+How to report infringement
 
 I have a different question
 
@@ -822,11 +824,9 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report trademark infringement
+Report a username
 
-My trademark is used
-
-Contact username owner
+My trademark is infringed
 
 What is trademark infringement?
 
@@ -1055,7 +1055,9 @@ Report ad copyright
 
 Report ad trademark
 
-Report counterfeit ad
+Report ad counterfeit
+
+How to use Brand Rights Protection
 
 I have a different question
 
@@ -1392,11 +1394,13 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
+What is copyright infringement?
 
-Copyright for my photos?
+Can I use copyrighted content?
 
-Copyright for my videos?
+What is fair use?
+
+My content was copied
 
 I have a different question
 
@@ -1606,9 +1610,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -1889,11 +1893,9 @@ More
 
 Appeal content removal
 
-Contact rights owner
+My content was removed
 
 DMCA counter-notification
-
-My content was removed
 
 I have a different question
 
@@ -2289,11 +2291,11 @@ Copy link
 
 Apply for Rights Manager
 
-Protect my video content
+Content protection for creators
 
-Report copyrighted content
+Actions for detected content
 
-What is Content Protection?
+Report copyright infringement
 
 I have a different question
 
