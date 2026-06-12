@@ -234,13 +234,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register my trademark
+Register a trademark
 
 Trademark rights without registration
 
-Trademark protection outside US
+Register trademark outside US
 
-What is common law right?
+What is common law rights?
 
 I have a different question
 
@@ -332,11 +332,13 @@ How long does trademark protection last?
 
 Copy link
 
-Renew trademark registration
+How long trademark rights last?
 
-Lose trademark rights
+Renew my trademark
 
-Trademark rights in EUIPO
+Lose my trademark rights
+
+My trademark is not registered
 
 I have a different question
 
@@ -489,9 +491,9 @@ What is copyright?
 
 What is trademark?
 
-Copyright vs trademark
+Copyright infringement
 
-Protect my brand name
+Trademark infringement
 
 I have a different question
 
@@ -648,9 +650,9 @@ My account was disabled
 
 My Page was removed
 
-What is intellectual property?
+Why was my account disabled?
 
-My account disabled by mistake
+What is repeat infringer policy?
 
 I have a different question
 
@@ -822,9 +824,11 @@ Can I report a Facebook username for infringing my trademark?
 
 Copy link
 
-Report a username
+Report trademark infringement
 
-My trademark is infringed
+My trademark is used
+
+Contact username owner
 
 What is trademark infringement?
 
@@ -1392,13 +1396,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -1456,6 +1458,8 @@ Who owns my original work?
 What is copyright ownership?
 
 My employer owns my work?
+
+Contact a copyright attorney
 
 I have a different question
 
@@ -2006,9 +2010,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
