@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
+
+What is a trademark?
+
+Report trademark infringement
+
+Brand Rights Protection
+
+Trademark law differences
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -234,13 +244,13 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-Register a trademark
+Register my trademark
 
 Trademark rights without registration
 
-Register trademark outside US
+Trademark protection outside US
 
-What is common law rights?
+What is common law right?
 
 I have a different question
 
@@ -332,13 +342,11 @@ How long does trademark protection last?
 
 Copy link
 
-How long trademark rights last?
+Renew trademark registration
 
-Renew my trademark
+Lose trademark rights
 
-Lose my trademark rights
-
-My trademark is not registered
+Trademark rights in EUIPO
 
 I have a different question
 
@@ -1318,8 +1326,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-Rights Manager tool
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1459,8 +1465,6 @@ What is copyright ownership?
 
 My employer owns my work?
 
-Contact a copyright attorney
-
 I have a different question
 
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
@@ -1508,13 +1512,13 @@ What rights do I have as a copyright owner?
 
 Copy link
 
-What is copyright infringement?
+What are my copyright rights?
 
-My work was copied
+My content was copied
 
-Stop others using my work
+Report copyright infringement
 
-Grant permission to use
+What is fair use?
 
 I have a different question
 
@@ -1612,9 +1616,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -2062,13 +2066,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
