@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
-My content was removed
-
 Report copyright violation
 
 Report trademark violation
+
+My content was removed
 
 What is intellectual property?
 
@@ -49,6 +49,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
+
+What is a trademark?
+
+Report trademark infringement
+
+Brand Rights Protection
+
+Trademark law differences
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -992,13 +1002,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What is my report number?
+My trademark report number
 
-Why was my report rejected?
+Respond to a report
 
-How do I respond to Meta?
+Information shared in report
 
-What information is shared?
+What happens after I report?
 
 I have a different question
 
@@ -1114,9 +1124,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+App infringes my IP
 
 Contact app developer
+
+My idea was stolen
 
 I have a different question
 
@@ -1315,6 +1327,8 @@ Report copyright infringement
 Protect my copyrighted work
 
 What is copyright?
+
+Rights Manager tool
 
 I have a different question
 
@@ -2004,9 +2018,9 @@ Copy link
 
 Report copyright infringement
 
-My content was stolen
+My copyright was infringed
 
-Someone used my photo
+Contact designated agent
 
 I have a different question
 
@@ -2114,13 +2128,11 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
+What info to include?
 
-What info do I need?
+Where to find URLs?
 
-Where do I report copyright?
-
-My report was rejected
+My copyright was infringed
 
 I have a different question
 
