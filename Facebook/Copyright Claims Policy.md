@@ -1316,8 +1316,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-Rights Manager tool
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1754,11 +1752,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-Can I use copyrighted content?
-
-What if I give credit?
+What if I modified content?
 
 I have a different question
 
@@ -2058,13 +2056,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+Send a DMCA report
+
 Contact DMCA agent
 
-DMCA online form
+My copyright was infringed
 
-DMCA contact information
-
-Complete copyright claim
+How to contact Meta DMCA
 
 I have a different question
 
@@ -2116,11 +2114,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is a copyright report?
 
-Where to find URLs?
+What info do I need?
 
-My copyright was infringed
+Where do I report copyright?
+
+My report was rejected
 
 I have a different question
 
