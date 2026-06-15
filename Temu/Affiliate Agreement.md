@@ -284,13 +284,19 @@ Exhibit B – Endorsement Guideline
 
 Temu believes in full, fair and effective disclosures of material facts relating to the Affiliates’ relationship with Temu in accordance with applicable laws, regulations and guidelines, such as Federal Trade Balance/commission’ Guides Concerning Endorsements and Testimonials [https: //www.govinfo.gov/content/pkg/FR-2023-07-26/pdf/2023-14795.pdf](https://www.govinfo.gov/content/pkg/FR-2023-07-26/pdf/2023-14795.pdf).
 
-1\. Disclose Connection to Temu - When posting about the Temu or the Temu’s products or services, Affiliate must clearly disclose Affiliate’s “material connections” with the Temu, including the fact that Affiliate was afforded any consideration from the Temu or is being paid for a particular service. “Material connections” are defined as any connection between an Affiliate and a Temu that could affect the credibility consumers give to the Affiliate’s statements. Important examples of “material connections” include payments or other monetary compensation, loaner or free products and services, gifts and rewards, special access privileges and other incentives provided by a Temu to an Affiliate.
+1\. Disclose Connection to Temu - When posting about the Temu or the Temu’s products or services, Affiliate must clearly disclose Affiliate’s “material connections” with the Temu, including the fact that Affiliate was afforded any consideration from the Temu or is being paid for a particular service. “Material connections” are defined as any connection between an Affiliate and a Temu that could affect the credibility consumers give to the Affiliate’s statements. Important examples of “material connections” include payments or other monetary compensation, loaner or free products and services, gifts and rewards, special access privileges, percentage from affiliate links and other incentives provided by Temu to an Affiliate.
 
 2\. Maintain Clear and Prominent Disclosure - The above disclosure should be made in close proximity to any statements that the Affiliate makes about the Temu or the Temu’s products or services. This disclosure should be clear and prominent enough for consumers to view it when they are reading Affiliate’s posts. This means that the disclosure should not be buried behind links or in the Terms and Conditions (or in similar documents). In addition, the consumer should not be required to click on, scroll down or mouse over a link in order to view the disclosure. This also means that the disclosure should not be placed below the “more” button or in a “jumble of hashtags” that readers are not likely to read. When determining where to place a disclosure, consider the following:
 
-• A disclosure is required regardless of the space limitations of the medium (e.g., X(Twitter), Instagram), where the disclosure can be made via hashtags, such as #Temued, #paid or #ad.
+• Disclosures must be in writing and not only orally (for example, in the case of a video).
 
-• Hashtags such as #partner or #thanks without further context are unlikely to be considered sufficient.When in doubt, please consult Temu.
+• Disclosures must be in the same language as the post/video.
+
+• A disclosure is required regardless of the space limitations of the medium (e.g., X(Twitter), Instagram), where the disclosure can be made via hashtags, such as #advertising or #advertisement.
+
+• Hashtags such as #partner, #partnership, #gifting, #gifted, #ambassador, #sponsored, #collaboration or #thanks without further context are unlikely to be considered sufficient. When in doubt, please consult Temu.
+
+• As a general rule, the disclosure labels and hashtags must be placed at the beginning of the caption or on the first screen.
 
 • For Instagram, the disclosure should appear in the first two (2) lines of the post and above the “more” button.
 
@@ -302,24 +308,30 @@ Temu believes in full, fair and effective disclosures of material facts relating
 
 • In video or YouTube posts, the disclosure should appear in the video itself at the beginning of the video (note that this disclosure may also appear in the description box “above the fold” provided it also appears in the video itself).
 
-• Visual disclosures must stand out and be on the screen long enough to be noticed, read and understood.
+• Visual disclosures must stand out and be on the screen long enough to be noticed, read and understood. The disclosure must be prominent and clearly distinguished from other content and features. Please take into account several factors such as size, font, color, frames, and level of opacity.
 
 • As a best practice, include multiple disclosures throughout the course of the video (or one continuous disclosure). On YouTube, a visual disclosure that is obscured by ads will not be clear and conspicuous.
 
-3\. Give Your Honest and Truthful Opinions – Affiliate’s statements should always reflect Affiliate’s honest and truthful opinions and actual experiences. However, we do ask that all blog entries, Facebook posts, tweets, and/or comments be in good taste and free of inappropriate language and/or any content that promotes bigotry, racism or discrimination against an individual based on race, gender, religion, nationality, disability sexual orientation or age.
+• Please label each individual post, reel, or story, even if it is part of a broader endorsement arrangement with Temu, which is, for example, already disclosed in the Affiliate’s bio profile or website.
+
+3\. Give Your Honest and Truthful Opinions - Affiliate’s statements should always reflect Affiliate’s honest and truthful opinions and actual experiences. However, we do ask that all blog entries, Facebook posts, tweets, and/or comments be in good taste and free of inappropriate language and/or any content that promotes bigotry, racism or discrimination against an individual based on race, gender, religion, nationality, disability sexual orientation, age or, more generally, any statements prohibited by the community guidelines (if any) of the online platforms on which the statements are posted.
 
 4\. Only Make Factual Statements That Are Truthful and Can Be Verified - In an effort to accurately relay brand names, product attributes and program information, please refer to all Temu-provided materials, if available, when developing content pertaining to Temu or Temu’s products. Most importantly, Affiliate should only make factual statements about Temu or Temu’s product’s characteristics or quality which Affiliate knows for certain is true and can be verified. For example, Affiliate should not make statements about the performance of a product unless Affiliate has support for such claims.
 
 5\. Respect Intellectual Property Rights - Intellectual Property is the group of legal rights to works that people create or invent. Intellectual property rights typically include copyright, trademark, and trade secret rights, as well as the right to use someone's name, likeness or voice. Examples include photographs, videos, music, trademarks/logos, personal names/likenesses (including celebrities’ names/likenesses), and writings. Affiliate should never post or share any content that violates or infringes the intellectual property rights of any third party. If Affiliate is unsure about a work, particularly in instances where a work includes a third-party’s trademark/logo, or music, film or television clips, or a celebrity’s name, photo or image, Affiliate should check with Temu before using the work. A good rule of thumb is, if in doubt, do not post it.
 
-6\. Comply with other policies and laws – Affiliate should comply with all applicable laws, rules and regulations, as well as the terms, conditions, guidelines and policies of any social media platform or service that Affiliate uses in connection with the Services.
+6\. Comply with Other Policies and Laws - Affiliate should comply with all applicable laws, rules and regulations, as well as the terms, conditions, guidelines and policies of any social media platform or service that Affiliate uses in connection with the Services.
 
-7\. Do not alter – Affiliate should not alter or modify any logo, image, copyright or trademark provided by the Temu if Affiliate chooses to include such item in a blog entry, post or tweet.
+7\. Do Not Alter - Affiliate should not alter or modify any logo, image, copyright or trademark provided by the Temu if Affiliate chooses to include such item in a blog entry, post or tweet.
 
-8\. Do not be Inappropriate - Affiliate should not associate Temu or any of Temu’s products or services with any inappropriate or controversial content that would reflect poorly upon Temu or the Program.
+8\. Do Not be Inappropriate - Affiliate should not associate Temu or any of Temu’s products or services with any inappropriate or controversial content that would reflect poorly upon Temu or the Program.
 
-9\. Do not exhort to children – Affiliates must avoid making statements in Posts which encourage children to buy, or persuade an adult to buy for them, any Product or Service.
+9\. Do Not Exhort to Children - Affiliates must avoid making statements in posts which encourage children to buy, or persuade an adult to buy for them, any Product or Service. Affiliates must also consider the specific vulnerabilities of children when posting advertising content that may be viewed by children. It is particularly important to ensure that a child can easily understand that the content in question is an advertisement for Temu.
 
-10\. Respect Confidentiality - Affiliate may learn of confidential information that is not yet public. Affiliate shall take all necessary precautions in handling the confidential information and limit disclosures on a strict need-to-know basis. In the event Affiliate has any questions regarding the confidentially of specific knowledge obtained at the event, Affiliate should reach out to the appropriate contact at the Temu before sharing the information.
+10\. Do Not Post Objectionable Content - Affiliates must not post content with the following categories: profanity, obscenities, name-calling or otherwise offensive, objectionable or abusive content; harassment or threats; attacks on people you disagree with; libel, defamation, or inflammatory content; misinformation, disinformation or propaganda. Content which is clearly unrelated to the Program (e.g. religion, war) may also be considered objectionable.
+
+11\. Do Not Post Political Content - Affiliates must not post content that contains any material that discusses, promotes, or criticizes political parties, candidates, policies, ideologies, or governmental actions. This includes any content related to elections, political campaigns, legislative activities, or public debates on political issues, as well as discussions about social movements, advocacy groups, and public figures involved in politics.
+
+12\. Respect Confidentiality - Affiliate may learn of confidential information that is not yet public. Affiliate shall take all necessary precautions in handling the confidential information and limit disclosures on a strict need-to-know basis. In the event Affiliate has any questions regarding the confidentially of specific knowledge obtained at the event, Affiliate should reach out to the appropriate contact at the Temu before sharing the information.
 
 PLEASE NOTE THAT TEMU RESERVES THE RIGHT TO MONITOR AFFILIATE’S COMPLIANCE WITH THESE GUIDELINES AND TO TERMINATE AFFILIATE’S PARTICIPATION IN THE PROGRAM IN THE EVENT OF ANY NONCOMPLIANCE.
