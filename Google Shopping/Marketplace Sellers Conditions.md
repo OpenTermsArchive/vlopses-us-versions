@@ -3242,9 +3242,7 @@ Demand Gen product ads requirements
 To assess any asset-level disapprovals in your account:
 
 1.  In your [Merchant Center account](https://merchants.google.com/), click **Products** from the navigation menu on the left.
-2.  Click **All products**.
-    *   **Note:** If you’re using Merchant Center Next, clicking **Products** automatically redirects you to the “All products” tab.
-3.  Locate your product on the page, and check the "Status" column of the table to view that product's current approval status.
+2.  Locate your product on the page, and check the "Status" column of the table to view that product's current approval status.
 
 Prohibited categories
 ---------------------
