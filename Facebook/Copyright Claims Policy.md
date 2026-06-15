@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
-Report trademark infringement
-
-Brand Rights Protection
-
-Trademark law differences
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -295,11 +285,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark?
-
-What is a business registration?
+Trademark vs business registration
 
 Register a trademark
+
+Register a business
+
+USPTO trademark registration
 
 I have a different question
 
@@ -1002,13 +994,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-My trademark report number
+What is my report number?
 
-Respond to a report
+Why was my report rejected?
 
-Information shared in report
+How do I respond to Meta?
 
-What happens after I report?
+What information is shared?
 
 I have a different question
 
@@ -1124,11 +1116,9 @@ Copy link
 
 Report a third-party app
 
-App infringes my IP
+My intellectual property infringed
 
 Contact app developer
-
-My idea was stolen
 
 I have a different question
 
@@ -1406,13 +1396,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright infringement?
+What is copyright?
 
-Can I use copyrighted content?
+Copyright for my photos?
 
-What is fair use?
-
-My content was copied
+Copyright for my videos?
 
 I have a different question
 
@@ -2018,9 +2006,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
@@ -2070,13 +2058,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Send a DMCA report
-
 Contact DMCA agent
 
-My copyright was infringed
+DMCA online form
 
-How to contact Meta DMCA
+DMCA contact information
+
+Complete copyright claim
 
 I have a different question
 
@@ -2128,11 +2116,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is a copyright report?
 
-Where to find URLs?
+What info do I need?
 
-My copyright was infringed
+Where do I report copyright?
+
+My report was rejected
 
 I have a different question
 
@@ -2242,11 +2232,13 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a report number?
+What happens after I report?
 
-What info is shared?
+I need to update my report
 
-How to appeal a decision?
+I received a message
+
+What information is shared?
 
 I have a different question
 
