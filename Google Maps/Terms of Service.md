@@ -7,6 +7,10 @@ Effective May 22, 2024 | [Archived versions](https://policies.google.com/terms/a
 
 [Country version:](https://policies.google.com/terms#footnote-country-version) United States
 
+We’re updating our Terms of Service on July 30, 2026 to make it easier for you to understand what to expect from Google — and what we expect from you — as you use our services. Until then, the Terms below continue to apply.
+
+See a [preview of the new Terms](https://policies.google.com/terms/update)
+
 What’s covered in these terms
 -----------------------------
 
