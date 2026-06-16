@@ -15,7 +15,7 @@ Advertisers who violate policy may, at Microsoft's discretion, be given a “str
 *   [Disallowed Content](#apex/ads/en/60208/0)
 *   [Ad Extensions Policies](#apex/ads/en/60206/0)
 *   [Intellectual Property Policies](#apex/ads/en/60211/0)
-*   [Legal, Privacy, and Personalization](#apex/ads/en/60212/0)
+*   [Privacy and Personalization](#apex/ads/en/60212/0)
 *   [General Ad Requirements](#apex/ads/en/60209/0)
 *   [Product Ads Policies](#apex/ads/en/60214/0)
 *   [Ad Relevance and Landing Page Quality](#apex/ads/en/60215/0)
