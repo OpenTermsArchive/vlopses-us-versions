@@ -14,11 +14,11 @@ Intellectual Property
 
 Copy link
 
+My content was removed
+
 Report copyright violation
 
 Report trademark violation
-
-My content was removed
 
 What is intellectual property?
 
@@ -49,16 +49,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
-
-Report trademark infringement
-
-Apply for Brand Rights Protection
-
-What is trademark law?
-
-My trademark was infringed
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -295,11 +285,13 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark?
-
-What is a business registration?
+Trademark vs business registration
 
 Register a trademark
+
+Register a business
+
+USPTO trademark registration
 
 I have a different question
 
@@ -1124,9 +1116,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+App infringes my IP
 
 Contact app developer
+
+My idea was stolen
 
 I have a different question
 
@@ -1620,9 +1614,9 @@ Copy link
 
 What is fair use?
 
-Get permission to post
+Do I need permission?
 
-My content was removed
+What is public domain?
 
 I have a different question
 
@@ -1687,7 +1681,7 @@ Copy link
 
 What is fair use?
 
-What are copyright exceptions?
+Copyright exceptions in EU
 
 My content was removed
 
@@ -1764,11 +1758,11 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content with credit?
+
 What is fair use?
 
-Can I use copyrighted content?
-
-What if I give credit?
+What if I modified content?
 
 I have a different question
 
@@ -1903,11 +1897,9 @@ More
 
 Appeal content removal
 
-Contact rights owner
+My content was removed
 
 DMCA counter-notification
-
-My content was removed
 
 I have a different question
 
@@ -2018,9 +2010,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
+My content was stolen
 
-Contact designated agent
+Someone used my photo
 
 I have a different question
 
@@ -2128,11 +2120,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What info to include?
+What is a copyright report?
 
-Where to find URLs?
+What info do I need?
 
-My copyright was infringed
+Where do I report copyright?
+
+My report was rejected
 
 I have a different question
 
@@ -2187,11 +2181,13 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What info is shared?
+What information is provided?
 
-Who sees my email?
+How to appeal a copyright?
 
-Can I appeal removed content?
+Contact the rights owner
+
+What if I'm contacted?
 
 I have a different question
 
