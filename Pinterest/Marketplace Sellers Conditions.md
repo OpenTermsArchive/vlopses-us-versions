@@ -31,7 +31,7 @@ Merchants must meet the following criteria:
     *   Have poor editorial content, including broken links or incomplete pages
     *   Force users to register to view the products
     *   Are unsafe or deceptive
-*   Vehicle merchant catalogs are allowed in Canada, Germany, and the US only
+*   Vehicle merchant catalogs are allowed in Canada, France, Germany, Spain, Switzerland, the UK, and the US only
 *   Resale or consignment marketplaces are only eligible for Ads distribution
 
 Product requirements
