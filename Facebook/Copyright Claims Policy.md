@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
-Report copyright violation
-
-Report trademark violation
-
 What is copyright?
 
 What is a trademark?
+
+Report copyright violation
+
+Report trademark violation
 
 I have a different question
 
@@ -130,9 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
-
-What is not protected?
+How do trademarks work?
 
 I have a different question
 
@@ -916,7 +914,7 @@ Copy link
 
 Report a username
 
-Trademark infringement
+What is trademark infringement?
 
 Contact username owner
 
@@ -975,6 +973,8 @@ What is copyright infringement?
 What is trademark infringement?
 
 What is fair use?
+
+What is the DMCA?
 
 I have a different question
 
@@ -1465,8 +1465,6 @@ Protect my copyrighted work
 
 What is copyright?
 
-What is Rights Manager?
-
 I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
@@ -1786,11 +1784,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
 
 What is fair use?
 
-Get permission to post
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -1944,11 +1944,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -2015,7 +2015,9 @@ My video was removed
 
 Why was my video removed?
 
-My video had no copyright
+I have rights to content
+
+I didn't get an email
 
 I have a different question
 
@@ -2095,11 +2097,11 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
 
-My content was removed
+Contact rights owner
 
-What is DMCA?
+DMCA counter-notification
 
 I have a different question
 
