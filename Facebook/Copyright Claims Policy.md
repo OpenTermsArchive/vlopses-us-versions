@@ -1554,11 +1554,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -1948,11 +1950,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
+Can I violate copyright unintentionally?
 
 What is fair use?
+
+What if I gave credit?
 
 I have a different question
 
@@ -2232,11 +2234,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
 
-I can't report copyright
+Who can report copyright?
 
 I have a different question
 
