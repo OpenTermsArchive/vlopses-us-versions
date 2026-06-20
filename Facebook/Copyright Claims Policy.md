@@ -1030,11 +1030,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in a report?
+Submit a trademark report
 
-Where do I submit a report?
+What to include in report
 
-What is a trademark?
+How to find a URL
 
 I have a different question
 
@@ -1554,13 +1554,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
 
-What is fair use?
+My content was copied
 
 I have a different question
 
@@ -1950,11 +1948,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What if I gave credit?
 
 I have a different question
 
