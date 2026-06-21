@@ -652,17 +652,17 @@ Saving Snaps was designed with privacy in mind. You control whether your Snaps c
 
 Voice and Video Chat allows you to check in with your Friends. If you just want to leave a voice message, we’ve got you covered, just press and hold the microphone to record a Voice Note. Snapchatters can also use our Voice Note Transcription feature that allows us to create and make available transcripts of Voice Chats so they can be read.
 
-Snaps and Chats are private and delete by default, including Voice and Video Chats between you and your friends — meaning we don’t scan their content to personalize your experience, make recommendations, or show you ads. This means we don’t know what you’re Chatting or Snapping except in limited, safety-related circumstances (for example, if we receive a report of content that is flagged for violating our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), or to help keep spammers from sending you malware or other harmful content) or unless you ask us to (for example, if you use our Voice Chat Transcription feature). To understand how Sponsored Snaps work, see [Snap & Ads](https://values.snap.com/privacy/ads-privacy?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US).
+Snaps and Chats are private and delete by default, including Voice and Video Chats between you and your friends — meaning we don’t scan their content to personalize your experience, make recommendations, or show you ads. This means we don’t know what you’re Chatting or Snapping except in limited, safety-related circumstances (for example, if we receive a report of content that is flagged for violating our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), or to help keep spammers from sending you malware or other harmful content) or unless you ask us to (for example, if you use our Voice Chat Transcription feature). To understand how Sponsored Snaps work, see [Snap & Ads](https://values.snap.com/privacy/ads-privacy?lang=en-US).
 
-*   [How to Create and Send Snaps](https://help.snapchat.com/hc/articles/7012334940948?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Create and Send Snaps](https://help.snapchat.com/hc/articles/7012334940948?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [When Does Snapchat Delete Snaps and Chats?](https://help.snapchat.com/hc/articles/7012334940948?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [When Does Snapchat Delete Snaps and Chats?](https://help.snapchat.com/hc/articles/7012334940948?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Snap and Chat Metadata](https://help.snapchat.com/hc/articles/7012318664852?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Snap and Chat Metadata](https://help.snapchat.com/hc/articles/7012318664852?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Saving and Deleting Snaps](https://help.snapchat.com/hc/articles/7012377741332?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Saving and Deleting Snaps](https://help.snapchat.com/hc/articles/7012377741332?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Voice and Video Chat](https://help.snapchat.com/hc/articles/7012304163988?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Voice and Video Chat](https://help.snapchat.com/hc/articles/7012304163988?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -673,24 +673,24 @@ Snapchat for Web lets you experience the Snapchat app from the convenience of yo
 
 Once you’re up and running, you’ll notice Snapchat for Web is very similar to the Snapchat app experience, but there are a few differences we want you to be aware of. For example, if you’re calling someone on Snapchat for Web, you’ll only have access to a selected set of Lenses, and not all creative tools may be available to you. You can expect more changes to follow, and check out the below resources to learn more!
 
-*   [Learn About Snapchat for Web](https://help.snapchat.com/hc/sections/5686944624788?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Learn About Snapchat for Web](https://help.snapchat.com/hc/sections/5686944624788?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [How to Call, Snap, and Chat from Snapchat for Web](https://help.snapchat.com/hc/articles/7121575005332?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Call, Snap, and Chat from Snapchat for Web](https://help.snapchat.com/hc/articles/7121575005332?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
 
 Gen AI ✨
 
-Generative AI is a type of technology that learns from large amounts of data and is designed to create new content – like text, images or visuals, and videos. Generative AI is part of the Snapchat experience and we are [committed](https://values.snap.com/news/eu-ai-pact?lang=en-US&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1) to its responsible development. We are constantly working on new ways to enhance our features with the use of generative AI to make Snapchat more interactive and personalized to you. For example, by offering generative AI Lenses that take you back to the 90s or imagine your next summer job. Many features are powered with generative AI, including [My Selfies](https://help.snapchat.com/hc/en-us/articles/25312335775380-What-is-My-Selfie?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), [AI Lenses](https://help.snapchat.com/hc/articles/13965361050388?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), [My AI](https://help.snapchat.com/hc/sections/13532188353428?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) (discussed in more detail below), [Dreams](https://help.snapchat.com/hc/articles/18494402767252?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), [AI Snaps,](https://help.snapchat.com/hc/articles/21153430785812?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) and more 
+Generative AI is a type of technology that learns from large amounts of data and is designed to create new content – like text, images or visuals, and videos. Generative AI is part of the Snapchat experience and we are [committed](https://values.snap.com/news/eu-ai-pact?lang=en-US) to its responsible development. We are constantly working on new ways to enhance our features with the use of generative AI to make Snapchat more interactive and personalized to you. For example, by offering generative AI Lenses that take you back to the 90s or imagine your next summer job. Many features are powered with generative AI, including [My Selfies](https://help.snapchat.com/hc/en-us/articles/25312335775380-What-is-My-Selfie?lang=en-US), [AI Lenses](https://help.snapchat.com/hc/articles/13965361050388?lang=en-US), [My AI](https://help.snapchat.com/hc/sections/13532188353428?lang=en-US) (discussed in more detail below), [Dreams](https://help.snapchat.com/hc/articles/18494402767252?lang=en-US), [AI Snaps,](https://help.snapchat.com/hc/articles/21153430785812?lang=en-US) and more 
 
 We may indicate that a feature or a piece of content is powered by generative AI by including a sparkle icon ✨, adding specific disclaimers, or tool tips. When you export or save your visual content, we add a Snap Ghost with sparkles ✨ to indicate that the visual was generated by AI.
 
 We are constantly improving our technology. In order to do that, we may use the content and feedback you submit and the generated content to improve the quality and safety of our products and features. This includes improving the underlying machine learning models and algorithms that make our generative AI features work and may include both automated and manual (i.e., human) review or labeling of the content and any feedback you submit. 
 
-To make Snapchat’s generative AI features safe and meaningful for all users, please adhere to our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1) and our [dos and don’ts of generative AI on Snapchat.](https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US#Dos-and-donts) 
+To make Snapchat’s generative AI features safe and meaningful for all users, please adhere to our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US) and our [dos and don’ts of generative AI on Snapchat.](https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat?lang=en-US#Dos-and-donts) 
 
-*   [Generative AI on Snapchat](https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) 
+*   [Generative AI on Snapchat](https://help.snapchat.com/hc/en-us/articles/25494876770580-Generative-AI-on-Snapchat?lang=en-US) 
     
 
 ### 
@@ -699,31 +699,31 @@ My AI 🤖 ✨
 
 My AI is a chatbot 🤖 built on generative AI ✨ technology designed with safety in mind. You can chat with My AI directly or @ mention My AI in conversations. Generative AI is a developing technology that may provide responses that are biased, incorrect, harmful or misleading. So, you should not rely on its advice. You should also not share any confidential or sensitive information — if you do, it will be used by My AI.
 
-Your conversations with My AI work differently than Chats and Snaps with your Friends — we retain the content you send to and receive from My AI (like Snaps and Chats) until you delete the content in-App or delete your account. When you interact with My AI, we use the content you share and your [location](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) (if you have enabled location sharing with Snapchat) to improve Snap’s products, including enhancing My AI’s safety and security, and to personalize your experience, including ads.
+Your conversations with My AI work differently than Chats and Snaps with your Friends — we retain the content you send to and receive from My AI (like Snaps and Chats) until you delete the content in-App or delete your account. When you interact with My AI, we use the content you share and your [location](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) (if you have enabled location sharing with Snapchat) to improve Snap’s products, including enhancing My AI’s safety and security, and to personalize your experience, including ads.
 
 My AI may also mention your general location, like what city you’re in, or the bio you set for My AI in its responses (including in conversations where you @ mention My AI).
 
 If you are under 18, a trusted adult — like your parent or guardian — may use Family Center to see if you have chatted with My AI, and to turn your access to My AI on or off. Trusted adults cannot see the content of your chats with My AI.
 
-To provide My AI, we may share your information with our [service providers and advertising partners](https://help.snapchat.com/hc/articles/7012351145364?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US).
+To provide My AI, we may share your information with our [service providers and advertising partners](https://help.snapchat.com/hc/articles/7012351145364?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US).
 
 We are constantly working to improve My AI. If you would like to report an issue with My AI, you may do so in the app by pressing and holding on the Chat response and tapping 'Report.'
 
 Check out the resources below to learn more!
 
-*   [What is My AI on Snapchat and how do I use it?](https://help.snapchat.com/hc/articles/13266788358932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [What is My AI on Snapchat and how do I use it?](https://help.snapchat.com/hc/articles/13266788358932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Staying Safe with My AI](https://help.snapchat.com/hc/articles/13889139811860?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Staying Safe with My AI](https://help.snapchat.com/hc/articles/13889139811860?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [How My AI Uses Location Data](https://help.snapchat.com/hc/articles/15051407058068?%3Futm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How My AI Uses Location Data](https://help.snapchat.com/hc/articles/15051407058068?%3Futm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [How can I manage how my location data is shared with My AI?](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How can I manage how my location data is shared with My AI?](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Does My AI remember things about me?](https://help.snapchat.com/hc/articles/15586639780116?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Does My AI remember things about me?](https://help.snapchat.com/hc/articles/15586639780116?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [How do I clear my data with My AI?](https://help.snapchat.com/hc/articles/18937378754324?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How do I clear my data with My AI?](https://help.snapchat.com/hc/articles/18937378754324?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [How do I limit my teen’s access to My AI?](https://help.snapchat.com/hc/articles/22628526282772?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How do I limit my teen’s access to My AI?](https://help.snapchat.com/hc/articles/22628526282772?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -732,41 +732,41 @@ Stories
 
 There are a number of different Story types on Snapchat to allow you to share your moments with your preferred audience. Currently, we offer the following Story types:
 
-*   [**Private Story**](https://help.snapchat.com/hc/articles/7012308988820?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)**.** If you just want to share a Story with a select number of Friends, you can select the Private Story option.
+*   [**Private Story**](https://help.snapchat.com/hc/articles/7012308988820?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)**.** If you just want to share a Story with a select number of Friends, you can select the Private Story option.
     
-*   [**My Story - Friends**](https://help.snapchat.com/hc/articles/7012293224084?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)**.** My Story Friends allows you to share a Story with all your Friends. Note, if you set your My Story Friends to be viewable by ‘Everyone’ in Settings, your My Story is considered public and may be visible to anyone.
+*   [**My Story - Friends**](https://help.snapchat.com/hc/articles/7012293224084?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)**.** My Story Friends allows you to share a Story with all your Friends. Note, if you set your My Story Friends to be viewable by ‘Everyone’ in Settings, your My Story is considered public and may be visible to anyone.
     
-*   [**Shared Stories**](https://help.snapchat.com/hc/articles/7012312875412?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)**.** Shared Stories are stories between you and a group of other Snapchatters.
+*   [**Shared Stories**](https://help.snapchat.com/hc/articles/7012312875412?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)**.** Shared Stories are stories between you and a group of other Snapchatters.
     
-*   [**Community Stories**](https://help.snapchat.com/hc/articles/7121615525524?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)**.** If you’re part of a Community on Snapchat, you can submit to the Community Story. This content is also considered public, and is viewable by community members.
+*   [**Community Stories**](https://help.snapchat.com/hc/articles/7121615525524?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)**.** If you’re part of a Community on Snapchat, you can submit to the Community Story. This content is also considered public, and is viewable by community members.
     
-*   [**My Story - Public**](https://help.snapchat.com/hc/articles/7012338216468?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)**.** If you want your story to be public and reach a wider audience, you can submit your Story to My Story Public, and it may be featured in other parts of the app, like Discover.
+*   [**My Story - Public**](https://help.snapchat.com/hc/articles/7012338216468?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)**.** If you want your story to be public and reach a wider audience, you can submit your Story to My Story Public, and it may be featured in other parts of the app, like Discover.
     
-*   [**Snap Map**](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)**.** Stories submitted to Snap Map are public, and are eligible to be displayed on the Snap Map, and off of Snapchat.
+*   [**Snap Map**](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)**.** Stories submitted to Snap Map are public, and are eligible to be displayed on the Snap Map, and off of Snapchat.
     
 
 Most Stories are set to delete after 24 hours unless you change the settings, save the Story to your Public Profile, or you or a Friend saves it in Chat. Once you’ve posted a Story, your Friends and others can interact with them. For example, they may use the same Lens you used, remix the Snap, or share with friends and others.
 
 Remember: anyone can take a screenshot or record a Story!
 
-*   [How to Use Stories](https://help.snapchat.com/hc/articles/7012293224084?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Use Stories](https://help.snapchat.com/hc/articles/7012293224084?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [How to Save a Private or Shared Story on Snapchat](https://help.snapchat.com/hc/articles/7012356336020?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Save a Private or Shared Story on Snapchat](https://help.snapchat.com/hc/articles/7012356336020?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [What's the difference between posting to My Public Story and My Story?](https://help.snapchat.com/hc/articles/7012338216468?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [What's the difference between posting to My Public Story and My Story?](https://help.snapchat.com/hc/articles/7012338216468?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
 
 Profiles
 
-Profiles make it easy to find the info and Snapchat features that you care about the most. There are different types of Profiles on Snapchat, including [My Profile](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US#MyProfile), [Friendship Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US#FriendProfile), [Group Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US#GroupProfiles), and [Public Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US#GroupProfiles).
+Profiles make it easy to find the info and Snapchat features that you care about the most. There are different types of Profiles on Snapchat, including [My Profile](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US#MyProfile), [Friendship Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US#FriendProfile), [Group Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US#GroupProfiles), and [Public Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US#GroupProfiles).
 
 My Profile features your Snapchat info, like your Bitmoji, location on the Map, friend info, and more. Friendship Profile is unique to each friendship, this is where you can find Snaps and Chats you’ve saved, your friend’s Snapchat info like their Bitmoji and location on the Map (if they’re sharing that with you), and this is also where you can manage your friendship, and report, block, or remove the friend. Group Profiles showcase your saved Snaps and Chats within a Group Chat and your friends’ Snapchat info.
 
 Public Profiles enable Snapchatters to be discovered in Snapchat. In most regions, if you’re over 18, you’re eligible for a Public Profile. When using your Public Profile, you can showcase your favorite public Stories, Spotlights, Lenses and other information. Other Snapchatters will be able to follow your Public Profile. Your follower count is turned off by default, but if you want you can turn it on in Settings.
 
-*   [About Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [About Profiles](https://help.snapchat.com/hc/articles/7012292808596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -779,11 +779,11 @@ Snaps and Comments submitted to Spotlight are public and other Snapchatters may 
 
 As you explore and engage with content on Spotlight, we will tailor your Spotlight experience and show you more content we think you will like. For example, if you can’t stop watching dance challenges, we will show you more dance-related content. We may also let your friends know that you shared, recommended, or commented on a Spotlight Snap.
 
-When you submit Snaps to Spotlight we ask you to comply with our [Community Guidelines](https://www.snap.com/community-guidelines?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), [Spotlight Terms](https://www.snap.com/terms/spotlight-terms?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) and [Spotlight Guidelines](https://help.snapchat.com/hc/articles/7012287256596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US). Your Spotlight submissions are stored on our servers until you delete them and may be visible on Snapchat for long periods of time. If you’d like to remove a Snap you’ve submitted to Spotlight, you can do so by going to your Profile.
+When you submit Snaps to Spotlight we ask you to comply with our [Community Guidelines](https://www.snap.com/community-guidelines?lang=en-US), [Spotlight Terms](https://www.snap.com/terms/spotlight-terms?lang=en-US) and [Spotlight Guidelines](https://help.snapchat.com/hc/articles/7012287256596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US). Your Spotlight submissions are stored on our servers until you delete them and may be visible on Snapchat for long periods of time. If you’d like to remove a Snap you’ve submitted to Spotlight, you can do so by going to your Profile.
 
-*   [About Spotlight](https://help.snapchat.com/hc/articles/7012271311892?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [About Spotlight](https://help.snapchat.com/hc/articles/7012271311892?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Spotlight Guidelines](https://help.snapchat.com/hc/articles/7012287256596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Spotlight Guidelines](https://help.snapchat.com/hc/articles/7012287256596?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -798,9 +798,9 @@ Keeping Memories backed up online helps keep them from being lost, but that shou
 
 Additionally, in Memories, you can view AI generated portraits with you and your friends. The selfies you upload to create these portraits are used with the help of generative AI to create novel pictures of you and your friends.
 
-*   [Learn About Memories](https://help.snapchat.com/hc/sections/5689720960788?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Learn About Memories](https://help.snapchat.com/hc/sections/5689720960788?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [What are Dreams and how do they work?](https://help.snapchat.com/hc/articles/18494402767252?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [What are Dreams and how do they work?](https://help.snapchat.com/hc/articles/18494402767252?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -815,7 +815,7 @@ But, object detection isn’t the same as identifying your face. While Lenses ca
 
 Many of our Lenses rely on generative AI to create fun experiences and transform your image and experience into something special.
 
-*   [How to Use Lenses](https://help.snapchat.com/hc/articles/7012348332052?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Use Lenses](https://help.snapchat.com/hc/articles/7012348332052?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -830,32 +830,32 @@ If you haven’t opened a connected app or website in 90 days, we’ll remove it
 
 Spectacles
 
-[Spectacles](https://www.spectacles.com/spectacles-24?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) are see-through AR glasses powered by Snap OS, that open up a new world, and let you experience immersive Lenses with friends and family, use Gen AI, extend your Snapchat and other phone experiences into three dimensions, and more. With Lens Studio 5.0 you can easily build and iterate on Lenses, including Gen AI Suite.
+[Spectacles](https://www.spectacles.com/spectacles-24?lang=en-US) are see-through AR glasses powered by Snap OS, that open up a new world, and let you experience immersive Lenses with friends and family, use Gen AI, extend your Snapchat and other phone experiences into three dimensions, and more. With Lens Studio 5.0 you can easily build and iterate on Lenses, including Gen AI Suite.
 
 When you’re out and about in the world wearing your Spectacles- whether you’re on an adventure or just going about your day, you can capture images and recordings with your Spectacles and LEDs will light up to let your friends know. Images or videos captured with Spectacles are stored locally on the device; there is no cloud storage. You can easily import a captured image or recording to the photo library on your device using the Spectacles App. 
 
 Access to the camera and microphone on your Spectacles device is needed for it to operate. The camera uses information about face, hands, and your surroundings so you can interact with AR content, while the microphone uses information about your voice to make features like recorded videos or voice commands work. You can remove the Spectacles App’s access to the camera and microphone on your Spectacles device by stopping use of your Spectacles device or deleting your account. 
 
-Spectacles are equipped with built-in GPS and GNSS to capture location-based information. When you first set up and pair your new Spectacles to the Spectacles App, you’ll be asked whether you’d like to enable location data. You can disable location data at any time by following the steps described [here](https://support.spectacles.com/hc/en-us/articles/27749155303572-Location-Permissions?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US).
+Spectacles are equipped with built-in GPS and GNSS to capture location-based information. When you first set up and pair your new Spectacles to the Spectacles App, you’ll be asked whether you’d like to enable location data. You can disable location data at any time by following the steps described [here](https://support.spectacles.com/hc/en-us/articles/27749155303572-Location-Permissions?lang=en-US).
 
-My AI in Spectacles and other Lenses use generative AI, which you can read more about [here](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US).
+My AI in Spectacles and other Lenses use generative AI, which you can read more about [here](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?lang=en-US).
 
-*   [Learn About Spectacles](https://www.spectacles.com/spectacles-24?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) 
+*   [Learn About Spectacles](https://www.spectacles.com/spectacles-24?lang=en-US) 
     
-*   [AI on Spectacles](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) 
+*   [AI on Spectacles](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?lang=en-US) 
     
-*   [Spectacles Supplemental Privacy Policy](https://values.snap.com/privacy/privacy-policy/spectacles-supplemental-privacy-policy?lang=en-US&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1) 
+*   [Spectacles Supplemental Privacy Policy](https://values.snap.com/privacy/privacy-policy/spectacles-supplemental-privacy-policy?lang=en-US) 
     
-*   [Privacy and Security – Spectacles Support](https://support.spectacles.com/hc/en-us/sections/27749121990420-Privacy-and-Security?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US).
+*   [Privacy and Security – Spectacles Support](https://support.spectacles.com/hc/en-us/sections/27749121990420-Privacy-and-Security?lang=en-US).
     
 
 ### 
 
 Your Snapchat Account
 
-You can view and edit most of your key account information and privacy settings right inside of Snapchat. But if you’re curious about something that’s not in our apps, you can visit [accounts.snapchat.com](http://accounts.snapchat.com/?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), click ‘My Data,’ and then click ‘Submit Request.’ We’ll prepare a copy of your account information and let you know when it’s ready for you to download. If you ever want to leave Snapchat for good, you can delete your account on [accounts.snapchat.com](http://accounts.snapchat.com/?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) too.
+You can view and edit most of your key account information and privacy settings right inside of Snapchat. But if you’re curious about something that’s not in our apps, you can visit [accounts.snapchat.com](http://accounts.snapchat.com/?lang=en-US), click ‘My Data,’ and then click ‘Submit Request.’ We’ll prepare a copy of your account information and let you know when it’s ready for you to download. If you ever want to leave Snapchat for good, you can delete your account on [accounts.snapchat.com](http://accounts.snapchat.com/?lang=en-US) too.
 
-*   [How to Change Your Privacy Settings](https://help.snapchat.com/hc/articles/7012343074580?utm_source=web&utm_medium=snap&utm_campaign=priv_prod&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Change Your Privacy Settings](https://help.snapchat.com/hc/articles/7012343074580?utm_source=web&utm_medium=snap&utm_campaign=priv_prod&lang=en-US)
     
 
 ### 
@@ -864,7 +864,7 @@ Scan
 
 You can use your phone to scan Snapcodes and QR codes through our Scan functionality. When you initiate a scan, you will see a link pop up directing you to the intended destination of the code.
 
-*   [How to Use Scan](https://help.snapchat.com/hc/articles/7012376161556?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How to Use Scan](https://help.snapchat.com/hc/articles/7012376161556?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -875,7 +875,7 @@ Snap Map is the most personalized Map, and lets you see where you and your frien
 
 You won’t appear on your friends’ Snap Map until you are bidirectional friends, open the Map for the first time, provide device location permission, and choose to share your location with your friends. If you don’t open the app for 24 hours, you won’t be visible to friends on the Map until you open Snapchat again, unless you’ve chosen to share your live location with them indefinitely. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone besides those you’re sharing your live location with. If you want to stop sharing your live location, there’s a separate setting for that. We may also remind you if you leave location sharing enabled for a while.
 
-Snaps that have been [submitted](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) to Snap Map or that appear in Spotlight with a place tag can show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process. Keep in mind: Snaps that are submitted to Snap Map or place-tagged in Spotlight are Public Content, and your Snap may appear off Snapchat if it has been shared off of Snapchat. Also, Snap Map submissions may be stored for a while and may be visible on Snapchat for long periods of time — sometimes for years. If you’d like to remove a Snap you’ve submitted to Snap Map or place-tagged in Spotlight, you can do so by going to your profile. You can also select to submit to Snap Map without associating the Snap to your name, and other profile details.
+Snaps that have been [submitted](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) to Snap Map or that appear in Spotlight with a place tag can show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process. Keep in mind: Snaps that are submitted to Snap Map or place-tagged in Spotlight are Public Content, and your Snap may appear off Snapchat if it has been shared off of Snapchat. Also, Snap Map submissions may be stored for a while and may be visible on Snapchat for long periods of time — sometimes for years. If you’d like to remove a Snap you’ve submitted to Snap Map or place-tagged in Spotlight, you can do so by going to your profile. You can also select to submit to Snap Map without associating the Snap to your name, and other profile details.
 
 When it looks like something interesting is happening, a Story thumbnail might appear on the Map. Stories for Places can also appear when you zoom into the Map. For the most part, these are created automatically — while Stories for the biggest events may receive a more hands-on approach.
 
@@ -883,13 +883,13 @@ Please be mindful of the Snaps that you submit to Snap Map and other public area
 
 Places on Snap Map make it easy to interact with local businesses. Just tap a Place on the Map to view the place’s listing, or tap Search at the top of the Map screen to find a Place. Places provide a personalized Map experience.
 
-If you come across anything that violates our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), please [reach out to us and report it](https://help.snapchat.com/hc/articles/7012399221652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)!
+If you come across anything that violates our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), please [reach out to us and report it](https://help.snapchat.com/hc/articles/7012399221652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)!
 
-*   [About Snap Map](https://help.snapchat.com/hc/articles/7012293122452?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [About Snap Map](https://help.snapchat.com/hc/articles/7012293122452?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Finding Friends on Snap Map](https://help.snapchat.com/hc/articles/7012276359700?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US) 
+*   [Finding Friends on Snap Map](https://help.snapchat.com/hc/articles/7012276359700?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) 
     
-*   [How Do I Turn On Ghost Mode?](https://help.snapchat.com/hc/articles/7012322854932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [How Do I Turn On Ghost Mode?](https://help.snapchat.com/hc/articles/7012322854932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
@@ -900,15 +900,15 @@ Sharing of your precise location with Snapchat, such as GPS data, is disabled by
 
 We store GPS locations for a while to help improve the Map and other features, and to accurately display places of greater relevance to you. For example, we may store some of the locations you visit the most so we can show you more relevant Search content or update your Bitmoji’s activity on the Map. We may also store location information of the Snaps you save in Memories or submit to Stories, Spotlight, or Snap Map to personalize your experience.
 
-On the [new Spectacles](https://www.spectacles.com/new-spectacles/?enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US), some features may need location data to work properly. We may use data from a few sources to derive a more accurate representation of your location. For example, if the last location of your sunglasses is not available, we may rely on Snapchat’s use of your device’s GPS to offer location-based features.
+On the [new Spectacles](https://www.spectacles.com/new-spectacles/?lang=en-US), some features may need location data to work properly. We may use data from a few sources to derive a more accurate representation of your location. For example, if the last location of your sunglasses is not available, we may rely on Snapchat’s use of your device’s GPS to offer location-based features.
 
 You can still use Snapchat and Spectacles if you disable location permissions in your device’s settings, but many of these features won’t work right (or at all!) without it. Sometimes we can still infer an approximate location like a country or city, based on an IP address — but it’s not perfect.
 
-*   [Learn About iOS Location Permissions](https://help.snapchat.com/hc/articles/7012349781652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Learn About iOS Location Permissions](https://help.snapchat.com/hc/articles/7012349781652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Learn About Android Location Permissions](https://help.snapchat.com/hc/articles/7012335163924?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Learn About Android Location Permissions](https://help.snapchat.com/hc/articles/7012335163924?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
-*   [Learn About Location on the New Spectacles](https://support.spectacles.com/hc/articles/360060227752?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&enableDeviceSpecificMedia=nljl5&enableHlsPlayback=o7ni1&lang=en-US)
+*   [Learn About Location on the New Spectacles](https://support.spectacles.com/hc/articles/360060227752?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
     
 
 ### 
