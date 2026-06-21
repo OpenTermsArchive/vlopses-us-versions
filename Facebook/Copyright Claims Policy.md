@@ -1030,11 +1030,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
+What to include in a report?
 
-What to include in report
+Where do I submit a report?
 
-How to find a URL
+What is a trademark?
 
 I have a different question
 
@@ -1554,11 +1554,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -2168,13 +2170,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a DMCA counter-notification
+What is DMCA?
+
+File a counter-notification
 
 My content was removed
 
-What happens to my content?
-
-How long does this take?
+What is repeat infringer policy?
 
 I have a different question
 
@@ -2548,13 +2550,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Protect my video content
 
 What is Rights Manager?
 
 What is content protection?
 
-What actions can I take?
+I can't apply for tools
 
 I have a different question
 
