@@ -130,9 +130,7 @@ What is a trademark?
 
 What do trademarks protect?
 
-Report a trademark infringement
-
-What is trademark confusion?
+How do trademarks work?
 
 I have a different question
 
@@ -313,11 +311,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-What is a trademark registration?
+Trademark vs business registration
 
-What is a business registration?
+What is a trademark?
 
-Register a trademark
+Register a trademark in the US
 
 I have a different question
 
@@ -1237,11 +1235,9 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+My intellectual property was infringed
 
-Contact app developer
-
-App not following Terms
+Contact an app developer
 
 I have a different question
 
@@ -1554,13 +1550,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
 
-What is fair use?
+My content was copied
 
 I have a different question
 
@@ -1738,9 +1732,9 @@ Copy link
 
 What is public domain?
 
-How long does copyright last?
-
 When does copyright expire?
+
+Can I use public domain work?
 
 I have a different question
 
@@ -1870,7 +1864,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+How is fair use determined?
 
 I have a different question
 
@@ -1950,11 +1944,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-What is copyright infringement?
-
-Can I use copyrighted content?
+Can I violate copyright unintentionally?
 
 What is fair use?
+
+What if I gave credit?
 
 I have a different question
 
@@ -2170,13 +2164,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
-
-File a counter-notification
+File a DMCA counter-notification
 
 My content was removed
 
-What is repeat infringer policy?
+What happens to my content?
+
+How long does this take?
 
 I have a different question
 
@@ -2550,13 +2544,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Protect my video content
+Apply for Rights Manager
 
 What is Rights Manager?
 
 What is content protection?
 
-I can't apply for tools
+What actions can I take?
 
 I have a different question
 
