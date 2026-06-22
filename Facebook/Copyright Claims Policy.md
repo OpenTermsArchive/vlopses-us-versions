@@ -804,9 +804,9 @@ Copy link
 
 Report trademark infringement
 
-Fill out trademark form
-
 What is trademark infringement?
+
+How to report trademark?
 
 I have a different question
 
@@ -1167,11 +1167,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad for infringement
+Report an ad
 
 Report ad copyright
 
-Report ad trademark
+Report intellectual property
 
 I have a different question
 
@@ -2295,7 +2295,7 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
 DMCA contact information
 
@@ -2550,13 +2550,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Apply for Rights Manager
+Protect my video content
 
 What is Rights Manager?
 
 What is content protection?
 
-What actions can I take?
+I can't apply for tools
 
 I have a different question
 
