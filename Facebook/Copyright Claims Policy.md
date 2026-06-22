@@ -130,7 +130,9 @@ What is a trademark?
 
 What do trademarks protect?
 
-How do trademarks work?
+Report a trademark infringement
+
+What is trademark confusion?
 
 I have a different question
 
@@ -311,11 +313,11 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
-Trademark vs business registration
+What is a trademark registration?
 
-What is a trademark?
+What is a business registration?
 
-Register a trademark in the US
+Register a trademark
 
 I have a different question
 
@@ -1235,9 +1237,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property was infringed
+My intellectual property infringed
 
-Contact an app developer
+Contact app developer
+
+App not following Terms
 
 I have a different question
 
@@ -1550,11 +1554,13 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
 
-My content was copied
+What is fair use?
 
 I have a different question
 
@@ -1732,9 +1738,9 @@ Copy link
 
 What is public domain?
 
-When does copyright expire?
+How long does copyright last?
 
-Can I use public domain work?
+When does copyright expire?
 
 I have a different question
 
