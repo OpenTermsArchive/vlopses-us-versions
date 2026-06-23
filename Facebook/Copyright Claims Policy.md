@@ -1030,11 +1030,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in a report?
+Submit a trademark report
 
-Where do I submit a report?
+What to include in report
 
-What is a trademark?
+How to find a URL
 
 I have a different question
 
@@ -2101,7 +2101,9 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
+
+Contact rights owner
 
 My content was removed
 
