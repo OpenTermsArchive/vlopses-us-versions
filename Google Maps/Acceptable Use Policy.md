@@ -1,31 +1,48 @@
-Google Maps Platform Acceptable Use Policy
-==========================================
+Google Cloud Acceptable Use Policy
+==================================
 
-Use of the Google Maps Platform Services are subject to this Acceptable Use Policy (“AUP”).
+For translations of this Acceptable Use Policy into other languages, please click on the appropriate link: [Bahasa Indonesia](https://services.google.com/fh/files/misc/id-cloud-acceptable-use-policy.pdf), [Deutsch](https://services.google.com/fh/files/misc/de-cloud-acceptable-use-policy.pdf), [Español (Latinoamérica)](https://services.google.com/fh/files/misc/es-419-cloud-acceptable-use-policy.pdf), [Français](https://services.google.com/fh/files/misc/fr-cloud-acceptable-use-policy.pdf), [Italiano](https://services.google.com/fh/files/misc/it-cloud-acceptable-use-policy.pdf), [Nederlands](https://services.google.com/fh/files/misc/nl-cloud-acceptable-use-policy.pdf), [Português](https://services.google.com/fh/files/misc/pt-br-cloud-acceptable-use-policy.pdf), [한국어](https://services.google.com/fh/files/misc/ko-cloud-acceptable-use-policy.pdf), [日本語](https://services.google.com/fh/files/misc/ja-cloud-acceptable-use-policy.pdf)
 
-This AUP is designed to ensure that your use of the Services does not place Google’s Products or Services at risk, endanger end users, or degrade the public’s trust. In order to assist with interpretation of the AUP, we have created a [Help Center](https://cloud.google.com/maps-platform/terms/aup/help-center) which aims to clarify the prohibited uses of the Services, and provides illustrative (non-exhaustive) examples to guide developers as they build the next generation of applications. 
+**For all Services that are subject to the Cloud Acceptable Use Policy**:
 
-Capitalized terms have the meaning stated in the applicable agreement between Customer and Google.
+Use of the Services is subject to this acceptable use policy ("AUP").
 
-The decision as to whether any particular use case violates the AUP shall be determined by Google in its sole discretion.
+If not defined here, capitalized terms have the meaning stated in the applicable contract ("Agreement") between the customer, reseller or other authorized user ("You") and Google.
 
-Customer agrees not to, and not to allow third parties (either directly or indirectly) to, use the Services:
+You must not use the Services – and You must not allow any third parties or End Users to use the Services – for any of the following:
 
-*   to engage in, promote, facilitate, or encourage unlawful, illegal, or infringing activity, including infringement of intellectual property rights;
-*   for any misleading or fraudulent purpose, or to impersonate others;
-*   to facilitate or promote dangerous activities, threaten serious physical injury or death, promote hatred or violence against others, or rally support to physically harm others;
-*   for any Customer Applications related to sexually explicit content or services;
-*   to create, upload, distribute (or not taking action to prohibit others from creating, uploading, or distributing) content that facilitates the exploitation, endangerment, or abuse of children;
-*   for activities that, or are intended to, disparage, discriminate, defame, extort, or harass;
-*   for any Customer Application that violates, impedes, or may interfere with privacy rights;
-*   to limit access to “sensitive consumer opportunities” based on demographics;
-*   to, without user consent, combine any personal information held by the Customer with any Google data to derive additional personal information;
-*   to assist in the offensive use of weapons or other technologies whose principal purpose or implementation is to cause or directly facilitate injury to people;
-*   to distribute items of a destructive or deceptive nature;
-*   to gain unauthorized access to, disrupt, or impair the use of the Services, or the equipment used by Google to provide the Services, by customers, authorized resellers, or other authorized users;
-*   to disable, disrupt, impair, interfere with, or circumvent any aspect of the Services;
-*   to generate, distribute, publish, or facilitate unsolicited mass email, promotions, advertisements, or other solicitations (“spam”); 
-*   to use the Services, or any interfaces provided with the Services, to access any other Google product or service in a manner that violates the terms of service or applicable policies of such other Google product or service, or to use the Services to circumvent the terms of service or policies of any other Google product or service;
-*   in Customer Applications directed to children (Customer will not use the Google Maps Core Services in a Customer Application that would be deemed to be a “Web site or online service directed to children” under the Children’s Online Privacy Protection Act (COPPA));
-*   for materials or activities that are subject to the International Traffic in Arms Regulations (ITAR) maintained by the United States Department of State; or
-*   to transmit, store, or process health information subject to United States HIPAA regulations (“HIPAA” means the Health Insurance Portability and Accountability Act of 1996 as it may be amended, and any regulations issued under it).
+*   to violate, or encourage the violation of, the legal rights of others;
+*   to engage in, promote, or encourage illegal activity, including child sexual exploitation, child abuse, or terrorism or violence that can cause death, serious harm, or injury to individuals or groups of individuals;
+*   for any unlawful, invasive, infringing, defamatory, or fraudulent purpose including Non-consensual Explicit Imagery (NCEI), violating intellectual property rights of others, phishing, or creating a pyramid scheme;
+*   to distribute viruses, worms, Trojan horses, corrupted files, hoaxes or other items of a destructive or deceptive nature;
+*   to gain unauthorized access to, disrupt, or impair the use of the Services, or the equipment used to provide the Services, by customers, authorized resellers, or other authorized users;
+*   to alter, disable, interfere with or circumvent any aspect of the Services, Software, or the equipment used to provide the Services;
+*   to generate, distribute, publish or facilitate unsolicited mass email, promotions, advertisements, or other solicitations ("spam");
+*   to test or reverse-engineer the Services in order to find limitations or vulnerabilities, or to evade filtering capabilities, except as expressly permitted in the Agreement; or
+*   to use the Services, or any interfaces provided with the Services, to access any other Google product or service in a manner that violates the terms of service of such other Google product or service.
+
+**For Google Workspace:**
+
+In addition to the provisions for "All Services" above, if You are using Google Workspace, Google Workspace for Education, or Cloud Identity, You must not use the Services – and You must not allow any third parties or End Users to use the Services – for any of the following:
+
+*   to grant multiple individuals access to an individual End User Account other than via the delegation features provided within the Services;
+*   to create End User Accounts assigned to business functions rather than to human beings for the purpose of sharing files within or outside of the domain;
+*   to resell End User Accounts, or parts thereof, as added into a commercial product offered to third parties; or
+*   to record audio or video communications without consent if such consent is required by applicable laws and regulations (You are solely responsible for ensuring compliance with all applicable laws and regulations in the relevant jurisdiction(s)).
+
+If You use Google Workspace for Education, You agree to use all Services, Additional Products, and Third-Party Offerings that are accessible with Your Account only (a) for educational purposes, and (b) if You are an End User, as authorized by Your school.
+
+**For Google Maps Platform:**
+
+In addition to the provisions for "All Services" above, if You are using Google Maps Platform, You must not use the Services – and You must not allow any third parties or End Users to use the Services – for any of the following:
+
+*   to engage in activities that disparage, discriminate, or harass, or are intended to do so;
+*   to combine any Google data with any personal information held by You to derive additional personal information without user consent;
+*   to limit access to "sensitive consumer opportunities" based on demographics; or
+*   to assist in the use of weapons where that use would, or is likely to, violate applicable law or regulations.
+
+Your failure to comply with the AUP may result in suspension or termination, or both, of the applicable Services pursuant to the Agreement.
+
+Previous versions of the Google Maps Platform Acceptable Use Policy
+
+[January 27, 2025](https://cloud.google.com/maps-platform/terms/aup) [August 22, 2018](https://cloud.google.com/archive/maps-platform/terms/aup-20180822) [May 1, 2018](https://cloud.google.com/maps-platform/terms/aup/index-20180501)
