@@ -425,9 +425,9 @@ Copy link
 
 Report counterfeit goods
 
-What is trademark infringement?
+What is a counterfeit good?
 
-Is selling counterfeits illegal?
+Counterfeit sales on Facebook
 
 I have a different question
 
@@ -804,9 +804,9 @@ Copy link
 
 Report trademark infringement
 
-What is trademark infringement?
+Fill out trademark form
 
-How to report trademark?
+What is trademark infringement?
 
 I have a different question
 
@@ -1167,11 +1167,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad
+Report an ad for infringement
 
 Report ad copyright
 
-Report intellectual property
+Report ad trademark
 
 I have a different question
 
@@ -1554,13 +1554,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
 
-What is fair use?
+My content was copied
 
 I have a different question
 
@@ -1870,7 +1868,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2103,9 +2101,7 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
-
-Contact rights owner
+Appeal removed content
 
 My content was removed
 
@@ -2295,7 +2291,7 @@ Copy link
 
 Contact DMCA agent
 
-Send a copyright claim
+Report copyright infringement
 
 DMCA contact information
 
@@ -2550,13 +2546,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Protect my video content
+Apply for Rights Manager
 
 What is Rights Manager?
 
 What is content protection?
 
-I can't apply for tools
+What actions can I take?
 
 I have a different question
 
