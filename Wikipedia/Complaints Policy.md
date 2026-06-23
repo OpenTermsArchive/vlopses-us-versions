@@ -707,6 +707,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Alakmarsaify](https://meta.wikimedia.org/wiki/Special:CentralAuth/Alakmarsaify "m:Special:CentralAuth/Alakmarsaify"), since 1 June 2026
 *   [Timelash](https://meta.wikimedia.org/wiki/Special:CentralAuth/Timelash "m:Special:CentralAuth/Timelash"), since 9 June 2026
 *   [Brody Levesque](https://meta.wikimedia.org/wiki/Special:CentralAuth/Brody_Levesque "m:Special:CentralAuth/Brody Levesque"), since 17 June 2026
+*   [SnappyDragonPennyroyal](https://meta.wikimedia.org/wiki/Special:CentralAuth/SnappyDragonPennyroyal "m:Special:CentralAuth/SnappyDragonPennyroyal"), since 23 June 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
