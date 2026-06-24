@@ -1732,3 +1732,28 @@ b. You are solely responsible for evaluating any Output to determine its suitabi
 These AI Tools Terms set forth the entire understanding and agreement between you and Snap with respect to your use of the AI Tools and supersede all other agreements between you and Snap regarding the AI Tools.
 
 _In summary: you can use Snap’s AI Tools to submit various types of content and information (such as text prompts, images, video), to generate outputs for you to use with the Business Services. Snap is not responsible for any outputs you generate and you use outputs at your own risk. Your use of the outputs must comply with our_ [_Business Services Terms_](https://www.snap.com/terms/business-services?lang=en-US) _and other applicable Supplemental Terms and Policies. There are certain restrictions on your use of our AI Tools, including that you must not submit anything or direct the AI Tools to create anything that: (i) you do not have the rights to; (ii) breaches our_ [_Business Services Terms_](https://www.snap.com/terms/business-services?lang=en-US)_; or (iii) violates any laws or otherwise violates any rights of any person._
+
+- - -
+
+Amendment to Snap Inc. Terms of Service for U.S. Government Users
+
+
+---------------------------------------------------------------------
+
+Effective: October 30, 2019
+
+**Introduction**
+
+This Amendment to Snap Inc. Terms of Service for U.S. Government Users (“Amendment”) amends and incorporates by reference the Snap Inc. [Terms of Service](https://www.snap.com/terms#terms-us) (“Terms”), and applies to U.S. Government (“you” or “Agency”) use of the Services in an official capacity (“Government Use”). Except as expressly specified in this Amendment, the Terms remain in full force and effect. If this Amendment conflicts with the Terms or with other Snap Inc. terms, guidelines, or policies related to the Services, then to the extent of the conflict this Amendment will prevail. Nothing in this Amendment makes Snap Inc. a government contractor for any Agency. Some terms used in this Amendment are defined in the Terms.
+
+**1\. Government Entity**
+
+As applied to Government Use, the words “you” and “your” within the Terms refer to the Agency itself and do not apply to nor bind the individuals who use the Services on the Agency's behalf.
+
+**2\. No Endorsements**
+
+Snap Inc. agrees that your name, seals, trademarks, logos, service marks, trade names, and the fact that you use the Services will not be used by Snap Inc. in a manner that may state or imply that the Agency is endorsing, sponsoring, or recommending the Services. Except for areas where content is under the control of the Agency, or for links to or promotion of such areas or content, Snap Inc. agrees not to display any Agency seals, trademarks, logos, service marks, and trade names on its homepage or elsewhere on its webpage unless permission to do so has been granted by the Agency or by another relevant U.S. Government authority. Snap Inc. may list the Agency’s name in a publicly available customer list on its homepage, in promotional materials, or elsewhere so long as the name is not displayed in a more prominent fashion than that of any other third party name.
+
+**3\. Terms Inconsistent with Federal Law**
+
+The provisions in our Terms titled “Indemnity,” “Arbitration, Class-Action Waiver, and Jury Waiver,” “Exclusive Venue,” and “Choice of Law” will only apply to the extent they do not conflict with federal law. For Government Use, these Terms, and any claims or disputes arising out of or relating to Government Use (whether in contract, tort, or otherwise) will be governed by federal law (without reference to conflict of laws). In the absence of federal law and to the extent permitted under federal law, the laws of the State of California will apply.
