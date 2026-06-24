@@ -186,16 +186,6 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-My account was demonetized
-
-Why was I demonetized?
-
-Monetization eligibility requirements
-
-Appeal a monetization decision
-
-I have a different question
-
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
 
 In order for creators and publishers to use Monetization or Promotional tools on Instagram from Meta (including Shopping from Creators), they must comply with a set of rules called Instagram Partner Monetization Policies. These rules apply to accounts, behaviors and payments. There is a separate set of policies, called [Instagram Content Monetization Policies](https://help.instagram.com/2635536099905516?helpref=faq_content), that apply specifically to monetized content.
