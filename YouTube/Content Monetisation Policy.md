@@ -387,7 +387,7 @@ How will I know if my Shorts are earning ad revenue? What if I want to stop earn
 
 From the date you accept the Shorts Monetization Module, engaged views of any Short on your channel will be considered for Shorts ad revenue sharing. Shorts views accrued prior to accepting the Shorts Monetization Module are not eligible for Shorts ad revenue sharing.
 
-After uploading your Short, you can see its monetization status in the Content section of YouTube Studio. Shorts with views being considered for Shorts ad revenue sharing will show a green or yellow monetization icon. Learn more about the different icons in our [Monetization icon guide](https://support.google.com/youtube/answer/9208564).
+After uploading your Short, you can see its monetization status in the Content section of YouTube Studio. Shorts with views being considered for Shorts ad revenue sharing will not have a “No ad earnings” notice on them. Learn more about the different [notices that could impact your content](https://support.google.com/youtube/answer/9208564).
 
 YouTube Analytics will also start displaying estimated daily Shorts Feed ad revenue along with other performance metrics on the date you start monetizing with Shorts ads. Learn more about how to [check your YouTube revenue](https://support.google.com/youtube/answer/9314488).
 
