@@ -236,7 +236,7 @@ _Severability._ If any provision of this Policy is found to be unenforceable or 
 
 _Entire Agreement._This Policy is the final, complete and exclusive agreement of the parties with respect to the subject matter hereof and supersedes and merges all prior discussions between the parties with respect to its subject matter.
 
-If you have any questions, please email [influencer@temu.com](mailto: influencer@temu.com).
+If you have any questions, please email [influencer@temu.com](<mailto: influencer@temu.com>).
 
 Last Updated: Jun 11, 2026
 
