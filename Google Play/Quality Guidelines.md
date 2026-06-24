@@ -32,16 +32,16 @@ You can communicate familiar and locally relevant content ratings to your users 
 
 This article covers several critical aspects of content ratings:
 
-*   [How apps receive content ratings](#How apps receive content ratings)
+*   [How apps receive content ratings](<#How apps receive content ratings>)
 *   [How content ratings are used](#How_content_ratings_are_used)
-*   [Understanding your target audience selection](#Understanding your target audience selection)
-*   [How to manage target audience and app content settings](#How to manage target audience and app content settings)
+*   [Understanding your target audience selection](<#Understanding your target audience selection>)
+*   [How to manage target audience and app content settings](<#How to manage target audience and app content settings>)
 *   [How to make sure ads are suitable for your app’s content rating](#How_to_make_sure_ads_are_suitable_for_your_apps_content_rating)
-*   [How to complete a rating questionnaire](#How to complete a rating questionnaire)
-*   [Understanding your content ratings results](#Understanding your content ratings results)
-*   [How to appeal your content rating](#How to appeal your content rating)
-*   [Exploring rating authorities and descriptions](#Exploring rating authorities and descriptions)
-*   [Additional resources](#Additional Content)
+*   [How to complete a rating questionnaire](<#How to complete a rating questionnaire>)
+*   [Understanding your content ratings results](<#Understanding your content ratings results>)
+*   [How to appeal your content rating](<#How to appeal your content rating>)
+*   [Exploring rating authorities and descriptions](<#Exploring rating authorities and descriptions>)
+*   [Additional resources](<#Additional Content>)
 
 How apps receive content ratings
 --------------------------------
