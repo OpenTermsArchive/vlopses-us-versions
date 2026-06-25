@@ -275,10 +275,6 @@ Whenever capitalized in this Agreement:
 
 “**HomeKit Database**” means Apple’s repository for storing and managing information about an end user’s Licensed HomeKit Accessories and associated information.
 
-“**ID Verifier Data**” means the end users’ data package passed through the Apple Software and ID Verifier APIs as part of the age or ID verification process.
-
-“**ID Verifier APIs**” means the Documented APIs that enable You and/or Merchants to verify the end users’ age or ID information through the use of Your Application.
-
 “**iCloud**” or “**iCloud service**” means the iCloud online service provided by Apple that includes remote online storage.
 
 “**iCloud Extended Share Access APIs**” means the Documented APIs that provide an Application with the ability to access end user information, share access requests and one-time links.
