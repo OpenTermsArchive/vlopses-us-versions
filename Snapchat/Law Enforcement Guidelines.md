@@ -68,6 +68,8 @@ We also accept preservation requests, service of legal process, and general ques
 
 Receipt of law enforcement requests by these means is for convenience only and does not waive any objections or legal rights of Snap or its users.
 
+If you are a member of California or Colorado law enforcement wishing to contact us pursuant to CA Bus & Prof Code § 22946.1 or CO Rev. Stat. § 16-3-313, please log in to Snap’s Law Enforcement Service Site (LESS) and select “General Support and Inquiries” from the LESS drop-down menu to locate contact information.
+
 Requests from Non-Governmental Entities
 
 Please note that the above methods are only appropriate for law enforcement officials.  
