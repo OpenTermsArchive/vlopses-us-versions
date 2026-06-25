@@ -328,7 +328,7 @@ We may terminate your channel or account for repeated violations of the Communit
 Fake engagement policy
 ======================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 YouTube doesn’t allow anything that artificially increases the number of views, likes, comments, or other metrics either by using automatic systems or serving up videos to unsuspecting viewers. Also, content that solely exists to incentivize viewers for engagement (views, likes, comments, etc) is prohibited.
 
@@ -473,7 +473,7 @@ We may ask you to confirm your age if we think that you are not old enough to us
 Nudity & Sexual Content Policy
 ==============================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Explicit content meant to be sexually gratifying is not allowed on YouTube. Posting pornography may result in content removal or channel termination. Videos containing fetish content will be removed or age-restricted. In most cases, violent, graphic, or humiliating fetishes are not allowed on YouTube. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
@@ -577,7 +577,7 @@ If your content contains pornography, we may terminate your channel.
 Thumbnails policy
 =================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Thumbnails and other images that violate our [Community Guidelines](https://www.youtube.com/t/community_guidelines) aren’t allowed on YouTube. Images include banners, avatars, posts, and any other YouTube feature that has images. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
@@ -626,7 +626,7 @@ We may terminate your channel or account for repeated violations of the Communit
 Child safety policy
 ===================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 **Update:** Content that targets young minors and families but contains sexual themes, violence, obscene, or other mature themes not suitable for young audiences, is not allowed on YouTube. In addition to your titles, descriptions, and tags, ensure your [audience selection](https://support.google.com/youtube/answer/9528076) matches the audience your content is suitable for.
 
@@ -699,6 +699,7 @@ To protect minors on YouTube, content that doesn’t violate our policies but de
 *   Video recommendations (how and when your video is recommended)
 *   Posts
 *   Shorts Video remixing
+*   Views from signed-out users
 
 **Note:**
 
@@ -764,7 +765,7 @@ We have zero tolerance for predatory behavior on YouTube. If we think a child is
 ​Suicide, self-harm, and eating disorders policy
 ================================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 At YouTube, we take the health and well-being of all our creators and viewers seriously. Awareness and understanding of mental health is important and we support creators sharing their stories, such as posting content discussing their experiences with depression, self-harm, eating disorders, or other mental health issues.
 
@@ -932,7 +933,7 @@ YouTube may show features or resources to users when content contains suicide or
 Vulgar language policy
 ======================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Some language may not be appropriate for viewers under 18. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
@@ -1160,7 +1161,7 @@ Familiarize yourself with the rest of our [Community Guidelines](https://support
 Violent or graphic content policies
 ===================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Violent or gory content intended to shock or disgust viewers, or content encouraging others to commit violent acts, are not allowed on YouTube. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
@@ -1288,7 +1289,7 @@ Violent extremist or criminal organizations policy
 
   
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Content intended to praise, promote, or aid violent extremist or criminal organizations is not allowed on YouTube. These organizations are not allowed to use YouTube for any purpose, including recruitment. In some cases, we may make exceptions for content with [educational, documentary, scientific or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
@@ -1353,7 +1354,7 @@ We may terminate your channel or account for repeated violations of the Communit
 Hate speech policy
 ==================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Hate speech is not allowed on YouTube. We don’t allow content that promotes violence or hatred against individuals or groups based on any of the following attributes, which indicate a protected group status under YouTube’s policy:
 
@@ -1458,7 +1459,7 @@ We may terminate your channel or account for repeated violations of the Communit
 Harassment & cyberbullying policies
 ===================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 We don’t allow content that targets someone with prolonged insults or slurs based on their physical traits or [protected group status](https://support.google.com/youtube/answer/2801939#protected_group).
 
@@ -1563,7 +1564,7 @@ We may terminate your channel or account for repeated violations of the Communit
 Illegal or regulated goods or services policies
 ===============================================
 
-The safety of our creators, viewers, and partners is our highest priority. We look to each of you to help us protect this unique and vibrant community. It’s important you understand our Community Guidelines, and the role they play in our shared responsibility to keep YouTube safe. Take the time to carefully read the policy below. You can also check out [this page](https://support.google.com/youtube/answer/9288567) for a full list of our guidelines.
+YouTube does not allow unauthorized impersonation of a person, entity, or channel that may mislead viewers in a way that could harm the YouTube community. Impersonation may include deceptively copying the branding, content, or usernames of individuals, channels or entities. It may also include using AI to copy the voice or likeness of an individual, to make it appear as if the channel is owned or authorized by that individual. YouTube also enforces [trademark](https://support.google.com/youtube/answer/6154218) holder rights.
 
 Content intended to sell certain regulated goods and services is not allowed on YouTube. In some cases, we may make exceptions for content with [educational, documentary, scientific, or artistic context](https://support.google.com/youtube/answer/6345162), including content that is in the public’s interest.
 
