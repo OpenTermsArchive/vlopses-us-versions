@@ -1,3 +1,537 @@
+#### Jurisdiction Specific Terms
+
+These terms apply with effect from: **5 February 2026**
+
+  
+
+These terms ("Jurisdiction Specific Terms") set out supplemental terms applicable to your use of TikTok Business Products. These Jurisdiction Specific Terms shall apply and be deemed incorporated by reference into (i) the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/article?aid=10004827) and (ii) any Special Product Terms that state these Jurisdiction Specific Terms apply (together, the "Applicable Product Terms") if and to the extent that your use of the TikTok Business Products is within scope of the additional specific local law requirements set out in these Jurisdiction Specific Terms.  Lead Generation Products and Lead Generation Data (as defined in the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms)) are governed by the [Lead Generation Terms](https://ads.tiktok.com/i18n/official/policy/lead-gen-terms) and not these Jurisdiction Specific Terms.
+
+  
+
+Capitalized terms undefined in these Jurisdiction Specific Terms have the meanings given in the Applicable Product Terms. These Jurisdiction Specific Terms shall take precedence in the event of and solely to the extent of any conflict with the Applicable Product Terms.
+
+  
+
+We may update these Jurisdiction Specific Terms from time to time. By continuing to access or use any of the TikTok Business Products, or disclose or make available to us (including enabling us to access or collect) Business Products Data after any notification of an update to these terms, you agree to be bound by them. If you do not agree to the updated Jurisdiction Specific Terms, please stop all use of TikTok Business Products.
+
+  
+
+PART A: USA
+
+  
+
+This Part A applies to the extent the TikTok Business Products process Personal Information subject to Appliable State Privacy Laws. For purposes of this Part A, "TikTok" extends to TikTok USDS Joint Venture LLC ("TikTok USDS Joint Venture") and, between the parties, TikTok USDS Joint Venture is responsible for collecting, securing, protecting and processing any Personal Information contained in Business Products Data and subject to Applicable State Privacy Laws.
+
+  
+
+Clause 2 sets out your obligations with respect to Business Products Data containing Personal Information that is subject to Applicable State Privacy Laws. Clause 3 applies when TikTok acts as your Processor pursuant to Applicable Product Terms that affirmatively state TikTok takes such position. Clause 4 applies when TikTok acts as a third party with respect to Business Products Data containing Personal Information subject to the CCPA.
+
+  
+
+1     Definitions
+
+  
+
+The following terms shall have the following meanings in this Part A:
+
+|     |     |
+| --- | --- |
+| "Applicable State Privacy Laws" | means the California Consumer Privacy Act (“CCPA”), Colorado Privacy Act, Connecticut Data Privacy Act, Utah Consumer Privacy Act, Virginia Consumer Data Protection Act, and any other United States state privacy laws, together with applicable implementing regulations, that provide general privacy protection to consumers, excluding sector-specific privacy laws such as those primarily governing health information, financial data, data brokers, or children’s privacy. |
+| "Personal Information" | means any information relating to an identified or identifiable natural person or as such terms “personal information” or “personal data” are otherwise defined under Applicable State Privacy Laws. |
+| "Processor" | means “processor” or “service provider” as such terms are defined under Applicable State Privacy Laws. |
+
+  
+
+2     Your obligations
+
+  
+
+You represent and warrant that:
+
+(a)     You will provide notice to individuals regarding any disclosures of Personal Information to TikTok as required by applicable law, including without limitation Applicable State Privacy Laws, and any Applicable Product Terms.
+
+(b)     You will not disclose or otherwise make available, directly or indirectly, to TikTok Personal Information of any individual who has exercised an opt-out of any “sales,” “sharing,” or processing for “targeted advertising” (as such terms are defined under Applicable State Privacy Laws) that you have, directly or indirectly, committed to honoring or are legally obligated to honor; provided, however, you may make available to TikTok information of individuals who have opted out solely in connection with the services for which TikTok agrees to act as a Processor.
+
+(c)     Where TikTok acts as a Processor, you will inform TikTok of any individual request made pursuant to Applicable State Privacy Laws that require assistance from TikTok, and provide the information necessary for TikTok to cooperate with you in complying with the request, in accordance with TikTok’s standard policies and procedures.
+
+(d)     You consent to the third-party audit practices TikTok describes in Clause 3 and Clause 4 of this Part A below. 
+
+(e)     You are and will remain in compliance with and be solely liable for your compliance with Applicable State Privacy Laws, including with respect to your use of the applicable TikTok Business Products.
+
+  
+
+3     Processor Terms
+
+  
+
+TikTok may offer and you may enable a Limited Data Use Parameter as described in supporting documentation available [here](https://business-api.tiktok.com/portal/docs?rid=7xusz43oh3h&id=1770091656601602), which TikTok may update from time to time ("Limited Data Use Parameter").  With respect to Personal Information Processed with the Limited Data Use Parameter enabled or through services for which the Applicable Product Terms otherwise state that TikTok acts as a Processor:
+
+(a)     You are disclosing such Personal Information to TikTok for the limited and specific business purpose of performing the services for which TikTok will operate as your Processor as specified in the Applicable Product Terms and that you instruct TikTok to Process such Personal Information for these purposes and other purposes permitted of Processors under Applicable State Privacy Laws.
+
+(b)     The types of Personal Information subject to this Clause 3 are as specified in the Applicable Product Terms.
+
+(c)     TikTok will comply with Applicable State Privacy Laws and provide appropriate privacy protection, including by, for example (i) reasonably assisting you in complying with requests from individuals made pursuant to Applicable State Privacy Laws, in accordance with TikTok’s standard policies and procedures; (ii) reasonably assisting you in completing data protection impact assessments where required under Applicable State Privacy Laws by providing you the information described in Clause 3(d) below; and (iii) implementing reasonable security procedures and practices appropriate to the nature of such Personal Information designed to protect such Personal Information from unauthorized or illegal access, destruction, use, modification, or disclosure in accordance with Applicable State Privacy Laws.
+
+(d)     TikTok will enable you to obtain information about and audit TikTok’s compliance with this Clause 3 by:
+
+(i)     providing you (1) a copy of a certificate issued for security verification reflecting the outcome of an audit conducted by a third party auditor (e.g. ISO 27001 certification or a comparable certification or other security certification of an audit conducted by a third-party auditor agreed by you and TikTok) within 12 months as of the date of your request; and (2) any other information TikTok determines is reasonably necessary for you to verify such compliance, in accordance with TikTok’s standard practices (e.g., through help center articles explaining processing activities or security measures); or
+
+(ii)     alternatively, TikTok may, at its sole discretion and in response to a request from you, initiate a third-party auditor to verify TikTok’s compliance with its obligations under this Clause 3. During such an audit, TikTok will make available to the third-party auditor all information necessary to demonstrate such compliance (subject to confidentiality and other legal protections reasonably determined by TikTok). TikTok may charge a fee (based on TikTok’s reasonable costs) for any such audit, and you will be responsible for any fees charged by any third-party auditor to execute any such audit.
+
+(e)     TikTok will treat the Personal Information it Processes on your behalf as confidential, including ensuring each person that Processes the Personal Information is subject to an appropriate obligation of confidentiality, and to only engage subcontractors (i) pursuant to a written agreement where the subcontractor is subject to contractual terms at least as restrictive as those set forth in this Clause 3; and (ii) after notifying you, and, where required by Applicable State Privacy Laws, providing you with an opportunity to object.
+
+(f)     TikTok will Process such Personal Information during the term of the Applicable Product Terms, and at the end of the provision of services, you instruct TikTok to delete such Personal Information, unless retention of the Personal Information is otherwise required by law.  
+
+(g)     In addition, to the extent the CCPA applies to Personal Information Processed pursuant to this Clause 3:
+
+(i)     TikTok will not “sell” or “share” such Personal Information (as such terms are defined under the CCPA);
+
+(ii)     TikTok will not retain, use, or disclose such Personal Information for any commercial purpose other than the business purposes specified in the General Commercial Terms and the Applicable Product Terms and not Process such Personal Information outside of our direct business relationship, unless expressly permitted by the CCPA;
+
+(iii)     TikTok will notify you in the event TikTok determines it can no longer meet its obligations under the CCPA with respect to such Personal Information;
+
+(iv)     TikTok will not combine such Personal Information TikTok receives from, or on behalf of you, with Personal Information that it receives from, or on behalf of, other persons, except to the extent permitted by the CCPA;
+
+(v)     you may audit TikTok’s compliance with its obligations under this Clause 3 by conducting audits as set forth in Clause 3(d) above;
+
+(vi)     If you reasonably believe that TikTok is processing such Personal Information in an unauthorized manner, you can notify TikTok of such belief using the notice procedures set forth under Section 15.9 of the [TikTok Commercial Terms of Service](https://ads.tiktok.com/i18n/official/article?aid=10004628), and TikTok will work together with you in good faith to stop or, if necessary, remediate the allegedly unauthorized use of Personal Information.
+
+  
+
+4     Third-Party Terms
+
+  
+
+This Clause 4 applies to the extent your use of the applicable TikTok Business Products involves you making Personal Information subject to the CCPA available to TikTok without the Limited Data Use Parameter enabled:
+
+(a)     TikTok will use such Personal Information only for the limited and specified purposes set forth in the General Commercial Terms, specifically in Clause 3.1 of the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/policy/business-products-terms), the Ad Targeting purposes described in the Custom Audience (Customer File) Terms if your use of the CA Product is deemed a “sale” or “share” of Personal Information (as such term is defined under the CCPA), or as otherwise permitted under the CCPA.
+
+(b)     TikTok will not “sell” or “share” such Personal Information (as such terms are defined under the CCPA).
+
+(c)     Upon your reasonable request to ensure that TikTok uses such Personal Information you made available to TikTok in a manner consistent with your obligations under the CCPA, TikTok will:
+
+(i)     Provide you (1) a copy of a certificate issued for security verification reflecting the outcome of an audit conducted by a third party auditor (e.g. ISO 27001 certification or a comparable certification or other security certification of an audit conducted by a third-party auditor agreed by you and TikTok) within 12 months as of the date of your request or (2) any other information TikTok determines is reasonably necessary for you to verify such compliance in accordance with TikTok’s standard practices (e.g., through help center articles explaining processing activities or security measures); or
+
+(ii)     Alternatively, TikTok may, at its sole discretion and in response to your request, initiate a third-party auditor to verify TikTok’s compliance with its obligations under this Clause 4 of the Jurisdiction Specific Terms. During such an audit, TikTok will make available to the third-party auditor all information necessary to demonstrate such compliance (subject to confidentiality and other legal protections reasonably determined by TikTok). TikTok may charge a fee (based on TikTok’s reasonable costs) for any such audit, and you will be responsible for any fees charged by any third-party auditor to execute any such audit.
+
+(d)     If you reasonably believe that TikTok is processing such Personal Information in an unauthorized manner, you can notify TikTok of such belief using the notice procedures set forth under Section 15.9 of the [TikTok Commercial Terms of Service](https://ads.tiktok.com/i18n/official/article?aid=10004628), and TikTok will work together with you in good faith to stop or, if necessary, remediate the allegedly unauthorized use of Personal Information.
+
+(e)     TikTok will comply with applicable obligations under the CCPA, including, by providing an appropriate level of privacy protection as required under the CCPA.
+
+(f)     TikTok will notify you in the event TikTok makes a determination that it can no longer meet its obligations under the CCPA.
+
+  
+
+5     Conflicts
+
+  
+
+This Part A of these Jurisdiction Specific Terms clarifies the Applicable Product Terms. To the extent there is a conflict among Part A of these Jurisdiction Specific Terms and the Applicable Product Terms, the following order of precedence will apply to determine what governs: (a) to the extent such conflict relates to TikTok’s rights under such Applicable Product Terms and applicable Business Purposes under Applicable State Privacy Laws, this Part A; and (b) otherwise, the Applicable Product Terms.
+
+  
+
+PART B: EUROPEAN ECONOMIC AREA (EEA), SWITZERLAND AND THE UNITED KINGDOM (UK)
+
+  
+
+1     EEA/Switzerland/UK data protection requirements
+
+  
+
+1.1     This Part B applies to the extent that the TikTok Business Products (or any of them) Process Personal Data that is subject to the GDPR. 
+
+1.2     The following terms shall have the following meanings in this Part B:
+
+|     |     |
+| --- | --- |
+| "Controller" | means the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data. |
+| "Data Processing Terms" | means the data processing terms set out in Clause 2 of this Part B. |
+| "Data Subject" | means the natural person to whom the Personal Data relates. |
+| "EU GDPR" | means Regulation 2016/679 of the European Parliament and of the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation). |
+| "GDPR" | means, to the extent applicable to the relevant Processing of Business Products Data: (i) the EU GDPR; (ii) the UK GDPR; or (iii) the Swiss DPA, together (in each case) with any applicable national data protection laws made under, pursuant to or that apply in conjunction with any of (i), (ii) or (iii) (as may be amended or superseded from time to time). |
+| "Joint Controllers" | means two or more Controllers that jointly determine the purposes and means of Processing. "Joint Controller" shall be construed accordingly. |
+| "Joint Controller Terms" | means the data processing terms set out in Clause 3 of this Part B. |
+| "Joint Processing" | has the meaning given in Clause 1.6 of this Part B. |
+| "Personal Data" | means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. |
+| "Personal Data Breach" | means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise Processed under the Data Processing Terms. |
+| "Processor" | means a natural or legal person, public authority, agency or other body which Processes Personal Data on behalf of the Controller. |
+| "Processing" | means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. The terms "Process" and "Processed" shall be construed accordingly |
+| "Restricted Transfer" | means: (i) where the EU GDPR applies, a transfer of personal data from the European Economic Area to a country outside of the European Economic Area which is not subject to an adequacy determination by the European Commission; (ii) where the UK GDPR applies, a transfer of personal data from the United Kingdom to any other country which is not based on adequacy regulations pursuant to Section 17A of the United Kingdom Data Protection Act 2018; and (iii) where the Swiss DPA applies, a transfer of Personal Data from Switzerland to any other country which is not subject to an adequacy determination by the competent Swiss authority in accordance with the Swiss DPA. |
+| "Standard Contractual Clauses" | means: (i) where the EU GDPR applies, the contractual clauses annexed to the European Commission's Implementing Decision 2021/914 of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council ("EU SCCs"); (ii) where the Swiss DPA applies, the EU SCCs are amended so that the term "Member State" will not be interpreted in such a way as to exclude data subjects in Switzerland from the possibility of suing for their rights in their place of habitual residence (Switzerland) in accordance with clause 18.c of the EU SCCs ("Swiss SCCs"); and (iii) where the UK GDPR applies, the EU SCCs as amended by the International Data Transfer Addendum to the EU SCCs issued by the UK Information Commissioner under s.119A(1) of the UK Data Protection Act 2018 ("UK Addendum"). |
+| "Subprocessors" | means third party Processors appointed by TikTok under the Data Processing Terms to Process Business Products Data in order to support the provision of the TikTok Business Products. |
+| "UK GDPR" | means the EU GDPR as saved into United Kingdom law by virtue of section 3 of the United Kingdom's European Union (Withdrawal) Act 2018. |
+| "Swiss DPA" | means Switzerland’s Federal Act on Data Protection.  Where the Swiss DPA is applicable to Processing of Business Products Data, references in this Part B and in the Swiss SCCs to Articles of the GDPR are to the equivalent provisions of the Swiss DPA. |
+
+1.3     References to "TikTok" in this Part B shall be understood to mean TikTok Information Technologies UK Limited, whose registered office is Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom ("TikTok UK") and TikTok Technology Limited, whose registered office is at The Sorting Office, Ropemaker Place, Dublin 2, D02 HD23, Dublin, Ireland ("TikTok Ireland") collectively, in their capacity as Joint Controllers.
+
+1.4     The relationship between you and TikTok (and the supplemental terms that govern that relationship in accordance with Clause 1.5) will depend on the nature of the Business Products Data to be Processed and the specific purpose of the Processing in question as follows:
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     | Purpose | Business Products Data | Processing role<br><br>(subject to Clause 1.6) | Applicable Processing Terms |
+| _TikTok Business Products (Data)Terms_ |     |     |     |     |     |     |     |     |     |     |     |     |
+| (a) |     |     |     |     | Collection and transmission of Developer Data and/or Event Data by (and to) TikTok | Developer Data and/or Event Data | You: Joint Controller<br><br>TikTok: Joint Controller | Joint Controller Terms |
+| (b) |     |     |     |     | Measurement and Insight Reporting | Event Data | You: Joint Controller<br><br>TikTok: Joint Controller | Joint Controller Terms |
+| (c) |     |     |     |     | Audience Creation and Ad Targeting | Event Data | You: Independent Controller<br><br>TikTok: Independent Controller | N/A |
+| (d) |     |     |     |     | Improving, Optimizing and Personalizing Ads | Event Data | You: Independent Controller<br><br>TikTok: Independent Controller | N/A |
+| (e) |     |     |     |     | Safety, Security, Fraud Prevention and Development | Developer Data and/or Event Data | You: Independent Controller<br><br>TikTok: Independent Controller | N/A |
+| (f) |     |     |     |     | Contact Details Matching | Contact Details | You: Controller<br><br>TikTok: Processor | Data Processing Terms |
+| (g) |     |     |     |     | Developer Tool Functionality | Developer Data | You: Controller<br><br>TikTok: Processor | Data Processing Terms |
+| _Special Product Terms – TikTok Custom Audiences (Customer File) Terms_ |     |     |     |     |     |     |     |     |     |     |     |     |
+| (h) |     |     |     |     | Custom Audiences (Customer File) Product | Contact Details | You: Controller<br><br>TikTok: Processor | Data Processing Terms |
+
+1.5     Where TikTok Processes Personal Data in connection with its provision of TikTok Business Products:
+
+(a)     as a Processor (pursuant to Clause 1.4 above or in any Special Product Terms that state that TikTok is a Processor), the Data Processing Terms shall apply between you and TikTok;
+
+(b)     as a Joint Controller (pursuant to Clause 1.4 above), the Joint Controller Terms shall apply between you and TikTok; and
+
+(c)     as an independent Controller (pursuant to Clause 1.4 above or Clause 1.6 below), it will do so in compliance with its obligations as a Controller under the GDPR. 
+
+1.6     Where you are a Joint Controller with TikTok for the purpose of sub-Clauses 1.4(a) and (b) then such Joint Controllership applies only to the specific Processing activities identified in those sub-Clauses ("Joint Processing"). Any subsequent or further Processing by TikTok (including transfers by TikTok to its affiliates or Processors) for the purposes identified by sub-Clauses 1.4 (c) to (e) shall be undertaken by TikTok in its capacity as an independent Controller from you in accordance with Article 4(7) GDPR.
+
+  
+
+2     Data Processing Terms
+
+  
+
+2.1    The Data Processing Terms in this Clause 2 apply when TikTok Processes Personal Data as a Processor pursuant to Clause 1.4 of this Part B.
+
+2.2     The [Data Processing Terms (European Economic Area, United Kingdom & Switzerland)](https://ads.tiktok.com/i18n/official/policy/data-processing-terms?) and [TikTok Business Products - Subprocessor List](https://ads.tiktok.com/i18n/official/article?aid=30242040634959695) apply when TikTok Processes Personal Data as a Processor pursuant to Clause 1.4 of this Part B.
+
+2.3     If and to the extent that your use of the TikTok Business Products involves a Restricted Transfer of Personal Data from you (as "data exporter") to a TikTok affiliate (as "data importer") then the Standard Contractual Clauses apply as follows:
+
+(a)     in relation to Personal Data that is protected by the EU GDPR, the EU SCCs will apply completed as follows:
+
+(i)     Module Two will apply;
+
+(ii)     in Clause 7, the optional docking clause will apply;
+
+(iii)     in Clause 9, Option 2 will apply, and the time period for prior notice of subprocessor changes shall be as set out in the [Data Processing Terms (European Economic Area, United Kingdom & Switzerland)](https://ads.tiktok.com/i18n/official/policy/data-processing-terms?);
+
+(iv)     in Clause 11, the optional language will not apply;
+
+(v)     in Clause 17, Option 1 will apply, and the EU SCCs will be governed by Irish law;
+
+(vi)     in Clause 18(b), disputes shall be resolved before the courts of Ireland;
+
+(vii)     Annex I of the EU SCCs shall be deemed completed with the information set out in Annex I to this Part B; and
+
+(viii)     Annex II of the EU SCCs shall be deemed completed with the information set out in Annex II to this Part B, including the [Minimum Security Measures](https://ads.tiktok.com/i18n/official/policy/minimum-security-measures?); and
+
+(b)      in relation to Personal Data that is protected by the Swiss DPA, the Swiss SCCs will apply completed as set out in Clause 2.3(a) above, except that the Swiss SCCs will be governed by Swiss law for the purposes of Clause 17 of the Swiss SCCs; and
+
+(c)     in relation to data that is protected by the UK GDPR, the EU SCCs as amended by the UK Addendum will apply and the UK Addendum shall be completed as follows:
+
+(i)      Tables 1 to 3 of the UK Addendum shall be completed with relevant information from the EU SCCs (as set out in Clause 2.3(a) above);
+
+(ii)      the option "Importer" shall be checked in Table 4; and
+
+(iii)     the start date of the UK Addendum (as set out in Table 1) shall be the date on which the parties entered this Agreement.
+
+(c)     in the event that any provision of these Data Processing Terms contradict, directly or indirectly, the Standard Contractual Clauses, the Standard Contractual Clauses shall prevail.
+
+2.4     If the parties' compliance with GDPR requirements relating to international transfers of Personal Data is affected by circumstances outside of the parties' control, including if the Standard Contractual Clauses or any other legal instrument for international transfers of Personal Data is invalidated, amended or replaced, then the parties will work together in good faith to reasonably resolve such non-compliance.
+
+2.5     For the avoidance of doubt, a transfer of Personal Data to TikTok UK and/or TikTok Ireland shall not constitute a Restricted Transfer for the purposes of Clause 2.3.  To the extent that TikTok UK and/or TikTok Ireland transfers such Personal Data (including to its affiliates and Processors) and such transfer is a Restricted Transfer, then they shall ensure that such onward transfer is in compliance with the requirements of the GDPR (including, where necessary, by implementing Standard Contractual Clauses with the recipient of the Personal Data that is onward transferred).
+
+  
+
+3     Joint Controller Terms
+
+  
+
+3.1     TikTok and you each acknowledge and agree that we are Joint Controllers in accordance with Article 26 GDPR for any Joint Processing specified in Clauses 1.4 and 1.6 of this Part B.
+
+3.2     These Joint Controller Terms determine your and TikTok's responsibilities for compliance with the GDPR with respect to the Joint Processing.
+
+3.3     You agree to comply with all available documentation regarding the correct technical implementation and configuration of the TikTok Business Products into your digital properties (including websites and apps).
+
+  
+
+4     Allocation of GDPR responsibilities
+
+  
+
+4.1     Your and TikTok's GDPR compliance responsibilities with respect to the Joint Processing shall be as follows:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     | GDPR compliance responsibility | TikTok's responsibility | Your responsibility |
+| 1\. | Art 6:  Legal Basis | X<br><br>TikTok has the responsibility to establish a lawful basis in respect of its own Processing of Personal Data. | X<br><br>You have responsibility to establish a lawful basis in respect of your own Processing of Personal Data.<br><br>In addition, to the extent that the TikTok Business Products access or store information (including Personal Data) using DDCTs, you must obtain all necessary and verifiable consents required by virtue applicable data protection law and Clause 4.4 of the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/article?aid=10004827). |
+| 2\. | Arts 13, 14: Information | X<br><br>TikTok will display (or procure the display of) a publicly-available privacy notice describing its Processing activities (including the Joint Processing) that meets the requirements of Article 13 and 14 of the GDPR. | X<br><br>You must display (or procure the display of) a privacy notice describing your Processing activities (including the Joint Processing) to meet the requirements of Article 13 and 14. This includes as a minimum the provision of the following information:<br><br>·        That TikTok is a Joint Controller of the Joint Processing.<br><br>·        That you use TikTok Business Products as well as the purposes for which the collection and transmission of Personal Data that constitutes the Joint Processing takes place as set out in the Applicable Product Terms.<br><br>·        That further information on how TikTok processes Personal Data, including the legal basis TikTok relies on and the ways to exercise Data Subject rights against TikTok, can be found in the relevant TikTok inventory privacy notice (with a hyperlink to such notice).<br><br>In addition, to the extent that the TikTok Business Products access or store information (including Personal Data) using DDCTs, you must also provide clear and comprehensive information about such access or storage to Data Subjects as required by applicable data protection law and Clause 4.3 of the TikTok Business Products (Data) Terms. |
+| 3\. | Art 26(2): Making available Joint Controller Terms |     | X<br><br>This includes as a minimum the provision of the following information:<br><br>That you and TikTok have:<br><br>·        entered into these Joint Controller Terms to determine the respective responsibilities for compliance with the obligations under the GDPR with regard to the Joint Processing (as specified in the Applicable Product Terms);<br><br>·        agreed that you are responsible for providing Data Subjects as a minimum with the information listed under point no. 2 in this table above; and<br><br>·        agreed that between the Parties, TikTok is responsible for enabling Data Subjects' rights under Articles 15-20 of the GDPR with regard to the Personal Data stored or otherwise Processed by TikTok after the Joint Processing. |
+| 4\. | Art 15-20: Subject Rights | X   |     |
+| 5\. | Art 21: Right to object | X<br><br>TikTok will enable Data Subjects to exercise their right to object in respect of its own Processing of Personal Data. | X<br><br>You will enable Data Subjects to exercise their right to object in respect of your Processing of Personal Data. |
+| 6\. | Art 32: Security | X<br><br>TikTok in respect of security of the TikTok Business Products. | X<br><br>You in relation to your correct technical implementation and configuration of the TikTok Business Products. |
+| 7\. | Arts 33, 34: Personal Data Breaches | X<br><br>TikTok will  comply with its obligations under the GDPR in respect of Personal Data Breaches insofar as any Personal Data Breach concerns TikTok's security obligations under these Joint Controller Terms. | X<br><br>You will comply with your obligations under the GDPR in respect of Personal Data Breaches insofar as any Personal Data Breach concerns your security obligations under these Joint Controller Terms. |
+
+4.2     All other responsibilities for compliance with obligations under the GDPR regarding the Joint Processing remain with each of TikTok and you individually.
+
+4.3     These Joint Controller Terms do not grant you any right to request the disclosure of Personal Data of any TikTok user that is Processed in connection with the TikTok Business Products.
+
+4.4     TikTok shall respond to the exercise of any Data Subject rights under Articles 15-21 GDPR in respect of Personal Data processed by TikTok. If Data Subjects exercise such rights with regard to the Joint Processing against you or if you are contacted by a supervisory authority with regard to the Joint Processing (each a "Request"), you will promptly notify TikTok using [](https://www.tiktok.com/legal/report/privacy)[https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) and provide all timely information, cooperation and assistance as TikTok reasonably requires in relation to such Request. You are not authorized to act or answer on TikTok's behalf.
+
+4.5     If you access or use TikTok Business Products for any business or commercial purpose, you agree that any claim, cause of action or dispute that you have against us, which arises out of or relates to these Joint Controller Terms, must be resolved exclusively in the courts of Ireland, that you irrevocably submit to the jurisdiction of the Irish courts for the purpose of litigating any such claim and that the laws of Ireland will govern these Joint Controller Terms, without regard to conflict of law provisions.
+
+4.6     We may update these Joint Controller Terms from time to time. Other than changes required by law, we will provide you with 30 days' notice of any material changes to the Joint Controller Terms (for example by email or to your account in a Business Product). The updated Joint Controller Terms will be effective as of the time of posting, or such later date as may be specified in the updated terms. By continuing to access or use any of the TikTok Business Products after any notification of an update to these Joint Controller Terms, you agree to be bound by it. If you do not agree to the updated Joint Controller Terms, please stop all use of TikTok Business Products. If any portion of these Joint Controller Terms are found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any portion of these Joint Controller Terms, it will not be considered a waiver. Any amendment to or waiver of these terms requested by you must be made in writing and signed by us.
+
+  
+
+Annex I to Part B
+
+Standard Contractual Clauses (Annex I)
+
+  
+
+A.     LIST OF PARTIES
+
+Data exporter(s):
+
+|     |     |
+| --- | --- |
+| Name: | You or any of your affiliates that make a Restricted Transfer to a TikTok affiliate. |
+| Address: | The address details you provided to TikTok upon registration with / in connection with your use of the applicable TikTok Business Product, or if such address details have not been provided to TikTok, then your (or your relevant affiliate's) registered office address. |
+| Contact person’s name, position and contact details: | The name and contact details you provided to TikTok upon registration with / in connection with your use of the applicable TikTok Business Products. |
+| Activities relevant to the data transferred under these Clauses: | A customer of TikTok Business Products |
+| Signature and date: | The Annex I shall be deemed executed upon acceptance of the Business Products (Data) Terms. |
+| Role (controller/processor): | Controller |
+
+ Data importer(s):
+
+|     |     |
+| --- | --- |
+| Name: | TikTok Pte. Ltd and/or TikTok Inc. and/or any other TikTok affiliates when they receive Personal Data pursuant to a Restricted Transfer. |
+| Address: | TikTok Pte. Ltd., 1 Raffles Quay, #26-10, South Tower, Singapore 048583.<br><br>TikTok Inc., Attn: TikTok Legal Department 5800 Bristol Parkway, Suite 100, Culver City, CA 90230, United States of America. |
+| Contact person’s name, position and contact details: | Questions in connection with these Standard Contractual Clauses can be submitted at [](https://www.tiktok.com/legal/report/privacy)[https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) |
+| Activities relevant to the data transferred under these Clauses: | Provision of TikTok Business Products. |
+| Signature and date: | The Annex I shall be deemed executed upon acceptance of the Business Products (Data) Terms. |
+| Role (controller/processor): | Processor |
+
+В.   DESCRIPTION OF TRANSFER
+
+|     |     |
+| --- | --- |
+| Categories of data subjects whose personal data is transferred: | Individuals whose data are collected by TikTok Business Products. |
+| Categories of personal data transferred: | Contact Details. |
+| Sensitive data transferred (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures: | N/A. The data importer shall not knowingly or internationally process any sensitive data or special categories of data. |
+| The frequency of the transfer (e.g. whether the data is transferred on a one-off or continuous basis): | Continuous throughout the provision of the TikTok Business Products to the data exporter. |
+| Nature of the processing: | The provision of TikTok Business Products for which TikTok (or its affiliates) are a Processor, as identified in Clause 1.4 of Part B of these Jurisdiction Specific Terms. |
+| Purpose(s) of the data transfer and further processing: | Transfers necessary for the provision of TikTok Business Products for which TikTok (or its affiliates) are a Processor, as identified in Clause 1.4 of Part B of these Jurisdiction Specific Terms. |
+| The period for which the personal data will be retained, or, if that is not possible, the criteria used to determine that period: | For the duration of the relevant TikTok Business Products, and as otherwise required by applicable law. |
+| For transfers to (sub-) processors, also specify subject matter, nature and duration of the processing: | As described above and in: (i) the Data Processing Terms in Clause 2 of Part B of these Jurisdiction Specific Terms; and (ii) the relevant TikTok Business Products (Data) Terms (including any Special Terms) that apply to the TikTok Business Products provided to the data exporter. |
+
+C.   COMPETENT SUPERVISORY AUTHORITY
+
+|     |     |
+| --- | --- |
+| Identify the competent supervisory authority/ies in accordance (e.g. in accordance with Clause 13 SCCs) | Where the EU GDPR applies, the competent supervisory authority shall be determined in accordance with Clause 13 of the EU SCCs.<br><br>Where the UK GDPR applies, the UK Information Commissioner's Office.<br><br>Where the Swiss DPA applies, the Swiss Federal Data Protection and Information Commissioner. |
+
+  
+
+Annex II to Part B
+
+Standard Contractual Clauses (Annex II)
+
+  
+
+The data importer shall at least implement the technical and organisational measures specified in the [Minimum Security Measures](https://ads.tiktok.com/i18n/official/policy/minimum-security-measures?).
+
+  
+
+PART C: BRAZIL
+
+  
+
+1     Brazilian data protection requirements
+
+  
+
+1.1     This Part C applies to the extent that the TikTok Business Products (or any of them) Process Personal Data that is subject to the LGPD (as defined in Clause 1.2 of this Part C).
+
+1.2     The following terms shall have the following meanings in this Part C:
+
+|     |     |
+| --- | --- |
+| "Brazil SCCs" | Means the Brazilian Standard Contractual Clauses, as published by the Brazilian Data Protection Authority (ANPD) in Annex II of Resolution CD/ANPD No. 19/2024, and available for consultation in their original language (Portuguese) at [](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396)[https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396](https://www.in.gov.br/en/web/dou/-/resolucao-cd/anpd-n-19-de-23-de-agosto-de-2024-580095396) , or any other location replacing this link. |
+| "Controller" | Means the natural or legal natural person or legal entity of either public or private law in charge of making the decisions regarding the Processing of Personal Data. |
+| "Data Processing Terms" | Means the data processing terms set out in Clause 2 of this Part C. |
+| "Data Subject" | Means the natural person to whom the Personal Data relates. |
+| "Exporter" | Means a data processing agent, located in the territory of Brazil or in a foreign country, that transfers Personal Data to an Importer. |
+| "LGPD" | Means Lei Geral de Proteção de Dados (Law n. 13.709/18) and its subsequent amendments. |
+| "Importer" | Means a data processing agent that is located outside the territory of Brazil, or is an international organization, and that receives Personal Data transferred by the Exporter. |
+| "Independent Controllers" | Means two or more Controllers that process the same set of Personal Data, but do not jointly determine purposes and means of Processing. |
+| "International   Data Transfer" | Means any transfer of Personal Data to a foreign country or to an international organization, where such transfer is subject to the LGPD and the recipient country or organization is not subject to an adequacy determination by the Brazilian Data Protection Authority. |
+| "Joint Controllers" | Means two or more Controllers that jointly determine the purposes and means of Processing. "Joint Controller" shall be construed accordingly. |
+| "Joint Controller Terms" | Means the data processing terms set out in Clause 3 of this Part C. |
+| "Joint Processing" | Has the meaning given in Clause 1.6 of this Part C. |
+| "Personal Data" | Means any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. |
+| "Personal Data Breach" | Means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to, Personal Data transmitted, stored or otherwise Processed under the Data Processing Terms. |
+| "Processor" | Means a natural person or legal entity of either public or private law which Processes Personal Data on behalf of the Controller. |
+| "Processing" | Means any operation or set of operations which is performed on Personal Data or on sets of Personal Data, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction. The terms "Process" and "Processed" shall be construed accordingly. |
+| "Subprocessors" | Means third party Processors appointed by TikTok under the Data Processing Terms to Process Business Products Data in order to support the provision of the TikTok Business Products. |
+
+  
+
+  
+
+2     Data Processing Terms
+
+  
+
+2.1     When TikTok Processes Personal Data pursuant to these Data Processing Terms, you are the Controller of such Personal Data and TikTok is a Processor. Accordingly, TikTok shall:
+
+(a)     only Process the Personal Data in accordance with the Applicable Product Terms. TikTok shall not disclose the Personal Data to any third party except where such disclosure: 
+
+(i)     is in accordance with the Applicable Product Terms, (ii) is to a Subprocessor pursuant to Clause 2.2; or
+
+(ii)     otherwise in accordance with your documented instructions including to any of your other Processors to whom you may instruct us to disclose the Personal Data;
+
+(b)     ensure that any person it authorizes to Process the Personal Data is subject to a duty of confidentiality (whether contractual or statutory);
+
+(c)     implement appropriate technical and organizational measures to protect the Personal Data from and against a Personal Data Breach;
+
+(d)     assist you by appropriate technical and organizational measures insofar as this is possible (taking into account the nature of the Processing) to enable you to fulfil any obligations to respond to requests for the exercise of Data Subject rights by a Data Subject under LGPD Art. 18;
+
+(e)     notify you without undue delay upon becoming aware of a Personal Data Breach, and provide details, at the time of notification or as soon as possible after notification, of the nature of the Personal Data Breach and number of records affected, the category and approximate number of affected Data Subjects, any anticipated consequences of the Personal Data Breach, and any actual or proposed remedies for mitigating the possible adverse effects of the Personal Data Breach;
+
+(f)     at your request and expense, provide you with such assistance as is reasonable in respect of any data protection impact assessment and/or consultation with the Brazilian National Data Protection Authority (“ANPD”) that you are required to undertake in accordance with the LGPD, taking into account the nature of the Processing and the information available to TikTok;   
+
+(g)     on termination of the Applicable Product Terms, delete the Personal Data within the period set forth in the Applicable Product Terms provided, however, that TikTok may keep the Personal Data if necessary to provide other services set forth in the Applicable Product Terms;
+
+(h)     make available to you all information that is reasonably necessary to demonstrate to Data Subjects that you share their Personal Data with TikTok, pursuant to LGPD Art. 9, V; and
+
+(i)     upon request, TikTok shall make available to you copies of any applicable information security and/or data protection audit certifications it may hold in respect of the Processing that is the subject of these Data Processing Terms.
+
+2.2     You agree that TikTok may subcontract its data processing obligations under these Data Processing Terms to third party Subprocessors (including TikTok group companies) provided that:
+
+(a)     any such Subprocessors are engaged on terms that impose obligations on the Subprocessor which are no less onerous than these Data Processing Terms;
+
+(b)     where any Subprocessor fails to fulfil such obligations, TikTok shall remain fully liable to you for the performance of that Subprocessor’s obligations; 
+
+(c)     TikTok provides at least 7 days' prior notice of the addition or removal of any Subprocessor by updating its [Subprocessor list](https://ads.tiktok.com/i18n/official/article?aid=30242040634959695). If you reasonably object to such additional Subprocessor(s), you may inform TikTok in writing of the reasons for your objections. If you object to such additional Subprocessor(s), you should stop using the services set forth in the Applicable Product Terms and providing Personal Data to TikTok.
+
+2.3     If and to the extent that your use of the TikTok Business Products involves an international data transfer from you (as "data exporter") to a TikTok affiliate (as "data importer") outside of Brazil, TikTok will Always rely on a valid international data transfer mechanism under LGPD Art. 33.
+
+  
+
+3     Joint Controller Terms
+
+  
+
+3.1     TikTok and you each acknowledge and agree that we are Joint Controllers for any Joint Processing specified in Clauses 1.4 and 1.6 of this Part C.
+
+3.2     These Joint Controller Terms determine your and TikTok's responsibilities for compliance with the LGPD with respect to the Joint Processing.
+
+3.3     You agree to comply with all available documentation regarding the correct technical implementation and configuration of the TikTok Business Products into your digital properties (including websites and apps).
+
+  
+
+4     Allocation of LGPD responsibilities
+
+  
+
+4.1     Your and TikTok's LGPD compliance responsibilities with respect to the Joint Processing shall be as follows:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     | LGPD compliance responsibility | TikTok's responsibility | Your responsibility |
+| 1\. | Art 7: Legal Basis | X<br><br>TikTok has the responsibility to establish a lawful basis in respect of its own Processing of Personal Data. | X<br><br>You have responsibility to establish a lawful basis in respect of your own Processing of Personal Data.<br><br>In addition, to the extent that the TikTok Business Products access or store information (including Personal Data) using DDCTs, you must obtain all necessary and verifiable consents required by virtue applicable data protection law and Clause 4.4 of the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/article?aid=10004827). |
+| 2\. | Art. 9: Information | X<br><br>TikTok will display (or procure the display of) a publicly available privacy notice describing its Processing activities (including the Joint Processing) that meets the requirements of Article 9 of the LGPD | X<br><br>You must display (or procure the display of) a privacy notice describing your Processing activities (including the Joint Processing) to meet the requirements of Article 9 (especially Art. 9, V). |
+| 3.  | Art 18: Data Subject Rights | X   |     |
+| 4\. | Arts 46 and 47: Security | X<br><br>TikTok in respect of security of the TikTok Business Products. | X<br><br>You in relation to your correct technical implementation and configuration of the TikTok Business Products. |
+| 5\. | Arts 48 and 49: Personal Data Breaches | X<br><br>TikTok will comply with its obligations under the LGPD in respect of Personal Data Breaches insofar as any Personal Data Breach concerns TikTok's security obligations under these Joint Controller Terms. | X<br><br>You will comply with your obligations under the LGPD in respect of Personal Data Breaches insofar as any Personal Data Breach concerns your security obligations under these Joint Controller Terms. |
+
+4.2     All other responsibilities for compliance with obligations under the LGPD regarding the Joint Processing remain with each of TikTok and you individually.
+
+4.3     These Joint Controller Terms do not grant you any right to request the disclosure of Personal Data of any TikTok user that is Processed in connection with the TikTok Business Products.
+
+4.4     TikTok shall respond to the exercise of any Data Subject rights under LGPD Article 18 in respect of Personal Data processed by TikTok. If Data Subjects exercise such rights with regard to the Joint Processing against you or if you are contacted by a supervisory authority with regard to the Joint Processing (each a "Request"), you will promptly notify TikTok using [](https://www.tiktok.com/legal/report/privacy)[https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) and provide all timely information, cooperation and assistance as TikTok reasonably requires in relation to such Request. You are not authorized to act or answer on TikTok's behalf.
+
+4.5     If you access or use TikTok Business Products for any business or commercial purpose, you agree that any claim, cause of action or dispute that you have against us, which arises out of or relates to these Joint Controller Terms, must be resolved exclusively in the courts of Brazil, that you irrevocably submit to the jurisdiction of the Brazilian courts for the purpose of litigating any such claim and that the laws of Brazil will govern these Joint Controller Terms, without regard to conflict of law provisions.
+
+4.6     We may update these Joint Controller Terms from time to time. Other than changes required by law, we will provide you with 30 days' notice of any material changes to the Joint Controller Terms (for example by email or to your account in a Business Product). The updated Joint Controller Terms will be effective as of the time of posting, or such later date as may be specified in the updated terms. By continuing to access or use any of the TikTok Business Products after any notification of an update to these Joint Controller Terms, you agree to be bound by it. If you do not agree to the updated Joint Controller Terms, please stop all use of TikTok Business Products. If any portion of these Joint Controller Terms are found to be unenforceable, the remaining portion will remain in full force and effect. If we fail to enforce any portion of these Joint Controller Terms, it will not be considered a waiver. Any amendment to or waiver of these terms requested by you must be made in writing and signed by us.
+
+  
+
+5     International Data Transfer
+
+  
+
+5.1      If and to the extent that your use of the TikTok Business Products entails an International Data Transfer of Personal Data subject to the LGPD, the Brazil SCCs shall apply and are hereby incorporated into this Part C. In such cases, the following provisions shall govern and regulate the relevant International Data Transfer between you and TikTok.
+
+(a)     For the purposes of any International Data Transfer, all relevant TikTok affiliates will be considered data processing agents under LGPD, and deemed to have accepted the Brazil SCCs, to the extent required by the Brazilian Data Protection Authority.
+
+(b)     For the purposes of Clause 1.1 of the Brazil SCCs, the informative tables shall be completed as follows:
+
+|     |     |
+| --- | --- |
+| Name: | You or any of your affiliates. |
+| Qualification: | Your qualification, or any of your affiliates’ qualifications, involved in an International Data Transfer to TikTok or any other TikTok affiliate. |
+| Main Address: | The address you provided to TikTok upon registration or, if not provided, your registered office address. |
+| E-mail Address: | The email you provided to TikTok upon registration. |
+| Contact for the Data Subject: | The contact details you provided to TikTok upon registration. |
+| Other information: | Not applicable. |
+| You shall be deemed to have selected the "Exporter" and "Controller" boxes. |     |     |
+
+  
+
+|     |     |
+| --- | --- |
+| Name: | TikTok or any of its affiliates. |
+| Qualification: | TikTok’s qualification, or that of any other TikTok affiliate, which receives Personal Data pursuant to an International Data Transfer. |
+| Main Address: | TikTok’s or its TikTok affiliates’ registered office address. |
+| E-mail Address: | [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) |
+| Contact for the Data Subject: | [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) |
+| Other information: | Not applicable. |
+| TikTok shall be deemed to have selected the "Importer" and either the "Controller" or "Processor" boxes, depending on the role fulfilled, as defined above in Clause 1.4 of this Part C. |     |     |
+
+(c)     For the purposes of Clause 2.1 of the Brazil SCCs, the table with the description of the International Data Transfer shall be completed as follows:
+
+|     |     |
+| --- | --- |
+| Main purposes of the International Data Transfer: | Provision of TikTok Business Products, as defined and further detailed in the corresponding documentation, including but not limited to the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/policy/business-products-terms) or related service agreements. |
+| Categories of Personal Data transferred: | Categories of personal data collected through TikTok Business Products, including categories defined in the [TikTok Business Products (Data) Terms](https://ads.tiktok.com/i18n/official/policy/business-products-terms), such as Contact Details, Developer Data, and Event Data. |
+| Period of Personal Data storage: | For the duration of the relevant TikTok Business Products, and as otherwise required by applicable law. |
+| Other information: | Not applicable. |
+
+(d)     For the purposes of Clause 3.1 of the Brazil SCCs, Option A applies. 
+
+(e)     For the purposes of Clause 4.1 of the Brazil SCCs, Option A applies. Responsibility for complying with the obligations in items "a", "b", and "c" is deemed allocated in accordance with Clause 4 - Allocation of LGPD responsibilities of this Part C.
+
+(f)     For the purposes of Section III of the Brazil SCCs, the table shall be replaced by the organizational and administrative security measures set forth in TikTok´s Privacy Policy, accessible at: [](https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR)[https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR](https://www.tiktok.com/legal/page/global/partner-privacy-policy/pt-BR) and, where relevant, your privacy notice.
+
+5.2      Where the Brazil SCCs apply, their provisions shall apply and take precedence over any conflicting terms.
+
+  
+
+PART D: Japan
+
+  
+
+If you are using our TikTok Business Products in Japan, the following additional terms apply. 
+
+Requirements for sharing and collecting Business Products Data 
+
+  
+
+1     TikTok will conduct necessary and appropriate supervision of our employees, such as educating or training employees processing the Business Products Data. Where a data breach has occurred or where TikTok has determined that it is likely that such a breach has occurred by us or our service providers, TikTok will report the relevant facts to you promptly, investigate and report thereon, and implement recurrence prevention measures.
+
+  
+
+2     When outsourcing or subcontracting the processing of the Business Products Data, TikTok will enter into a contract imposing the same level of data protection obligations as set forth in the terms with the outsourcee/subcontractor who has been retained by us for the processing of all or part of the Business Products Data, and shall perform appropriate supervision and be responsible for the performance of the contract by the outsourcee/subcontractor.
+
+  
+
+3     If TikTok transfers Business Products Data or audiences you create to third parties or TikTok affiliates that are located outside Japan, TikTok will impose on such third parties and TikTok affiliates the same level of data protection obligations as our obligations under TikTok Business Product (Data) Terms by way of a written contract or legally binding rules, except as otherwise permitted under the applicable laws, regulations, and applicable industry guidelines.
+
+  
+
+4     TikTok is responsible for the accuracy of, or delete any, Business Products Data, as well as the authority to respond to any claims of rights under applicable laws and regulations. TikTok will provide disclosure regarding the processing of Business Products Data, and TikTok will be responsible for responding to the exercise of data subject rights and complaints from users.
+
+- - -
+
 TikTok Developer Data Sharing Agreement
 
 **TikTok Developer Data Sharing Agreement**
