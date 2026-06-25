@@ -45,4 +45,4 @@ Your failure to comply with the AUP may result in suspension or termination, or 
 
 Previous versions of the Google Maps Platform Acceptable Use Policy
 
-[January 27, 2025](https://cloud.google.com/maps-platform/terms/aup) [August 22, 2018](https://cloud.google.com/archive/maps-platform/terms/aup-20180822) [May 1, 2018](https://cloud.google.com/maps-platform/terms/aup/index-20180501)
+[January 27, 2025](https://cloud.google.com/archive/maps-platform/terms/aup-20250127) [August 22, 2018](https://cloud.google.com/archive/maps-platform/terms/aup-20180822) [May 1, 2018](https://cloud.google.com/maps-platform/terms/aup/index-20180501)
