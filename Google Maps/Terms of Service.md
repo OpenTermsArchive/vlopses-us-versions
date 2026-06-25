@@ -461,9 +461,11 @@ Things that you create, upload, submit, store, send, receive, or share using our
 *   pictures you share with friends through Photos
 *   travel itineraries that you share with Google
 
+![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+
 _close_
 
-![](https://www.gstatic.com/images/icons/material/system/svg/keyboard_arrow_up_24px.svg)
+_close_
 
 - - -
 
