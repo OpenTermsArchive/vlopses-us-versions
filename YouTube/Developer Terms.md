@@ -495,7 +495,7 @@ III. General Developer Policies
     
     YouTube may use quotas and place use restrictions to ensure that [YouTube API Services](#definition-youtube-api-services) are accessed and used as intended and that you and your [API Clients](#definition-api-client) do not reduce service quality or limit access for others.
     
-    If your [API Client](#definition-api-client) reaches the quota limit for a service, you can apply for a quota extension by completing an [API Compliance Audit](https://support.google.com/youtube/contact/yt_api_form) where you must specify the use case for which you need the extension. If you have been audited in the past 12 months and have been marked compliant by YouTube API Services team, you can apply for an [additional quota extension](https://support.google.com/youtube/contact/yt_api_audited_developer_requests_form).
+    If your [API Client](#definition-api-client) reaches the quota limit for a service, you can apply for a quota extension by completing an [API Compliance Audit](https://support.google.com/youtube/contact/yt_api_form) where you must specify the use case for which you need the extension. If you have been audited in the past 12 months and have been marked compliant by YouTube API Services team, you can apply for an [additional quota extension](https://support.google.com/youtube/contact/yt_api_form).
     
     If YouTube approves the application, you must use the additional quota granted only for the approved use case. If your [API Client's](#definition-api-client) use case changes, to use any allocated quota for the new use case, you must notify YouTube of the change by resubmitting an [API Compliance Audit](https://support.google.com/youtube/contact/yt_api_form) and receive approval for the application.
     
@@ -1180,7 +1180,7 @@ All developers using YouTube's API Services must complete an API Compliance Audi
 
 To clarify these processes and better meet the needs of developers using our API Services, we are adding three new forms and a guide to completing those forms:
 
-*   [Audited Developer Requests Form](https://support.google.com/youtube/contact/yt_api_audited_developer_requests_form): Developers who have already passed an API Compliance Audit can fill out and submit this shorter form to request an allocated quota extension.
+*   [Audit and Quota Extension Form](https://support.google.com/youtube/contact/yt_api_form): Developers who have already passed an API Compliance Audit can fill out and submit this form (selecting "Complete a compliance audit to keep current quota (requested to complete re-audit)" in the first question) to request an allocated quota extension.
 *   [Appeals Form](https://support.google.com/youtube/contact/yt_api_appeals): Developers whose API projects have failed a compliance audit (or been denied a quota unit increase) can fill out and submit this form.
 *   [Change of Control Form](https://support.google.com/youtube/contact/yt_api_change_of_control_form): Developers, or any party operating an API client on a developer's behalf, who experience a change of control (for example, through a stock purchase or sale, merger or other form of corporate transaction) associated with an API project must fill out and submit this form. This enables YouTube's API team to update our records, audit the new API project's use case compliance, and validate the developer's current quota allocation.
 
