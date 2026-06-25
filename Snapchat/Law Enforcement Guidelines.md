@@ -10,7 +10,7 @@ Snap is committed to assisting law enforcement while respecting the privacy and 
 
 General Information for Law Enforcement
 
-These operational guidelines are provided for law enforcement and governmental officials who are seeking to request Snapchat account records (i.e., Snapchat user data) from Snap. Additional information relating to law enforcement requests can be found in our [Law Enforcement Guide](https://snapchat.com/lawenforcement?lang=en-US), where you'll find details regarding possible availability of Snapchat account records and the type of legal process required to compel disclosure of that data.
+These operational guidelines are provided for law enforcement and governmental officials who are seeking to request Snapchat account records (i.e., Snapchat user data) from Snap. Additional information relating to law enforcement requests can be found in our [Law Enforcement Guide](https://assets.ctfassets.net/dwtpq5hdcqjg/4jI8Swj0BHjUD0VzbCcxkk/5315a5f6d41ccdfc95061af12dd956a3/Snapchat_Law_Enforcement_Guide__Updated_August_10__2025_.pdf), where you'll find details regarding possible availability of Snapchat account records and the type of legal process required to compel disclosure of that data.
 
 U.S. Legal Process
 
@@ -28,7 +28,7 @@ Emergency Disclosure Requests
 
 Consistent with 18 U.S.C. §§ 2702(b)(8) and 2702(c)(4), we are able to voluntarily disclose Snapchat account records when we believe in good faith that an emergency posing a threat of imminent death or serious bodily injury requires the immediate disclosure of such records.
 
-Information for law enforcement regarding how to submit Emergency Disclosure Requests to Snap can be found in our [Law Enforcement Guide](https://help.snapchat.com/hc/en-us?utm_campaign=s_ile&utm_medium=web_snap&utm_source=web&lang=en-US). Emergency Disclosure Requests to Snap must be submitted by a sworn law enforcement official and must come from an official law enforcement (or governmental) email domain.
+Information for law enforcement regarding how to submit Emergency Disclosure Requests to Snap can be found in our [Law Enforcement Guide](https://assets.ctfassets.net/dwtpq5hdcqjg/4jI8Swj0BHjUD0VzbCcxkk/5315a5f6d41ccdfc95061af12dd956a3/Snapchat_Law_Enforcement_Guide__Updated_August_10__2025_.pdf). Emergency Disclosure Requests to Snap must be submitted by a sworn law enforcement official and must come from an official law enforcement (or governmental) email domain.
 
 Data Retention Periods
 
