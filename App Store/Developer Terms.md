@@ -2452,7 +2452,7 @@ You appoint Apple Services Pte. Ltd. as Your commissionaire for the marketing an
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Bhutan<br><br>Brunei<br><br>Cambodia<br><br>Laos<br><br>Macau | Maldives<br><br>Micronesia, Fed States of<br><br>Mongolia<br><br>Myanmar<br><br>Nepal | Palau<br><br>Sri Lanka<br><br>Korea\*<br><br>Fiji<br><br>Nauru | Papua New Guinea<br><br>Solomon Islands<br><br>Tonga<br><br>Vanuatu |
+| Bhutan<br><br>Brunei<br><br>Cambodia<br><br>Laos<br><br>Macau | Maldives<br><br>Micronesia, Fed States of<br><br>Mongolia<br><br>Myanmar<br><br>Nepal | Palau<br><br>Sri Lanka<br><br>Korea\*<br><br>Fiji<br><br>Naoero | Papua New Guinea<br><br>Solomon Islands<br><br>Tonga<br><br>Vanuatu |
 
 \*Custom Applications are only available in these regions.
 
@@ -2987,7 +2987,7 @@ You appoint Apple Services Pte. Ltd. as Your commissionaire for the marketing a
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Bhutan  <br>Brunei  <br>Cambodia  <br>Laos  <br>Macau | Maldives  <br>Micronesia, Fed States of  <br>Mongolia  <br>Myanmar  <br>Nepal | Palau  <br>Sri Lanka  <br>Korea\*  <br>Fiji  <br>Nauru | Papua New Guinea  <br>Solomon Islands  <br>Tonga  <br>Vanuatu |
+| Bhutan  <br>Brunei  <br>Cambodia  <br>Laos  <br>Macau | Maldives  <br>Micronesia, Fed States of  <br>Mongolia  <br>Myanmar  <br>Nepal | Palau  <br>Sri Lanka  <br>Korea\*  <br>Fiji  <br>Naoero | Papua New Guinea  <br>Solomon Islands  <br>Tonga  <br>Vanuatu |
 
 \*Custom Applications are only available in these regions.
 
@@ -2997,7 +2997,7 @@ You appoint Apple Services Pte. Ltd. as Your commissionaire for the marketing a
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| Albania  <br>Armenia  <br>Australia  <br>Austria  <br>Azerbaijan  <br>Bahamas  <br>Bahrain  <br>Barbados  <br>Belarus  <br>Belgium  <br>Benin  <br>Bhutan  <br>Bosnia and Herzegovina  <br>Bulgaria  <br>Canada  <br>Cambodia\*\*  <br>Cameroon  <br>Chile  <br>China\*  <br>Colombia  <br>Croatia  <br>Cyprus | Czech Republic  <br>Denmark  <br>Egypt  <br>Estonia  <br>Finland  <br>France  <br>Georgia  <br>Germany  <br>Ghana  <br>Greece  <br>Hungary  <br>Iceland  <br>India  <br>Indonesia\*\*  <br>Ireland  <br>Italy  <br>Ivory Coast  <br>Japan\*\*\*  <br>Kazakhstan\*\*  <br>Kenya  <br>Korea\*\*  <br>Kosovo  <br>Kyrgyzstan\*\* | Laos  <br>Latvia  <br>Lithuania  <br>Luxembourg  <br>Malaysia  <br>Malta  <br>Mauritius  <br>Mexico\*\*\*\*  <br>Moldova  <br>Nepal\*\*  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Norway  <br>Oman  <br>Peru  <br>Philippines\*\*  <br>Poland  <br>Portugal  <br>Romania  <br>Russia\*\*\*  <br>Saudi Arabia  <br>Serbia  <br>Senegal  <br>Singapore\*\* | Slovakia  <br>Slovenia  <br>South Africa  <br>Spain  <br>Suriname  <br>Sweden  <br>Switzerland  <br>Taiwan  <br>Tajikistan\*\*  <br>Tanzania  <br>Thailand\*\*  <br>Türkiye  <br>Ukraine  <br>United Arab Emirates  <br>Uganda  <br>United Kingdom  <br>United States  <br>Uruguay†  <br>Uzbekistan\*\*  <br>Vietnam††  <br>Zambia  <br>Zimbabwe |
+| Albania  <br>Armenia  <br>Australia  <br>Austria  <br>Azerbaijan  <br>Bahamas  <br>Bahrain  <br>Barbados  <br>Belarus  <br>Belgium  <br>Benin  <br>Bhutan  <br>Bosnia and Herzegovina  <br>Bulgaria  <br>Canada  <br>Cambodia\*\*  <br>Cameroon  <br>Chile  <br>China\*  <br>Colombia  <br>Congo  <br>Croatia  <br>Cyprus | Czech Republic  <br>Denmark  <br>Egypt  <br>Estonia  <br>Finland  <br>France  <br>Georgia  <br>Germany  <br>Ghana  <br>Greece  <br>Hungary  <br>Iceland  <br>India  <br>Indonesia\*\*  <br>Ireland  <br>Italy  <br>Ivory Coast  <br>Japan\*\*\*  <br>Kazakhstan\*\*  <br>Kenya  <br>Korea\*\*  <br>Kosovo  <br>Kyrgyzstan\*\* | Laos  <br>Latvia  <br>Lithuania  <br>Luxembourg  <br>Malaysia  <br>Malta  <br>Mauritius  <br>Mexico\*\*\*\*  <br>Moldova  <br>Morocco  <br>Nepal\*\*  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Norway  <br>Oman  <br>Peru  <br>Philippines\*\*  <br>Poland  <br>Portugal  <br>Romania  <br>Russia\*\*\*  <br>Saudi Arabia  <br>Serbia  <br>Senegal  <br>Singapore\*\* | Slovakia  <br>Slovenia  <br>South Africa  <br>Spain  <br>Suriname  <br>Sweden  <br>Switzerland  <br>Taiwan  <br>Tajikistan\*\*  <br>Tanzania  <br>Thailand\*\*  <br>Türkiye  <br>Ukraine  <br>United Arab Emirates  <br>Uganda  <br>United Kingdom  <br>United States  <br>Uruguay†  <br>Uzbekistan\*\*  <br>Vietnam††  <br>Zambia  <br>Zimbabwe |
 
 \* Except for certain taxes to be collected as required by the Chinese government, Apple shall not collect or remit additional taxes or levies in China. You understand and agree that You shall be solely responsible for the collection and remittance of any taxes as may be required by local law.
 
@@ -3133,8 +3133,6 @@ If You are a resident of Chile, Apple will apply VAT on the commission payable b
 
 If You are established in Ireland and You appoint Apple Distribution International Ltd. as Your commissionaire to deliver Licensed and Custom Applications to End-Users and Custom App Distribution Customers, it is a condition of Schedule 2 and Schedule 3 that You confirm to Apple whether You are registered for Irish VAT. If You are registered for Irish VAT, You are required to provide Your Irish VAT number upon request.
 
-You must update Your account with Your respective Irish Tax ID when prompted in App Store Connect. You acknowledge that by not providing Your respective Irish Tax ID, Your Licensed or Custom Applications may be removed from the Irish Store or Your remittance payment under section 3.5 of Schedule 2 and section 3.5 of Schedule 3 may not be made for Your applicable Licensed or Custom Applications until such time as Your Irish Tax ID is provided.
-
 At request, You will provide Apple with satisfactory evidence of Your Irish Tax ID. You warrant that You will notify Apple if You cease to hold a valid Irish Tax ID.
 
 In order to comply with Apple’s obligations under applicable law to validate Your Irish Tax ID, Apple may use a service provider to complete the validation process and may transfer Your Irish Tax ID to our service provider for such purpose. Any personal data collected by Apple will be treated in accordance with Apple’s Privacy Policy which can be viewed at http://www.apple.com/legal/privacy.
@@ -3165,7 +3163,7 @@ You must update Your account with Your respective Korean Tax ID when prompted in
 
 At Apple’s request, You will provide Apple with satisfactory evidence of Your Korean Tax ID (e.g., business registration certificate or print-out from the Korean National Tax Service’s Home Tax website). You warrant that You will notify Apple if You cease to hold a valid Korean Tax ID.
 
-In order to comply with Apple’s obligations under applicable law to validate Your Korean Tax ID, Apple will use a service provider to complete the validation process and will transfer Your Korean Tax ID to our service provider for such purpose. Any personal data collected by Apple will be treated in accordance with Apple’s Privacy Policy which can be viewed at https://www.apple.com/legal/privacy/.
+In order to comply with Apple’s obligations under applicable law to validate Your Korean Tax ID, Apple will use a service provider to complete the validation process and will transfer Your Korean Tax ID to our service provider for such purpose. Any personal data collected by Apple will be treated in accordance with Apple’s Privacy Policy which can be viewed at https://www.apple.com/legal/privacy.
 
 Pursuant to Korean tax regulations, Apple will apply Korean VAT on the commission payable by You to Apple to be deducted from Your remittance with respect to Your sales to Korean customers.
 
