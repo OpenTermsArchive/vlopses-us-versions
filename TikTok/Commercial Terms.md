@@ -146,7 +146,7 @@ Where ads are placed in Australia and/or New Zealand, the following terms will a
 
   
 
-![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.a2a300e.svg)
+![](https://sf16-website-login.neutral.ttwstatic.com/obj/tiktok_web_login_static/tt4b_help_center/img/feedback-icon.be0e957.svg)
 
 - - -
 
@@ -307,15 +307,15 @@ Last Revised: January 2026  Previous Versions: [Here](https://ads.tiktok.com/i1
 
  “**TikTok**”, “**we**”, and “**us**” means either: 
 
-●       BD TikTok USA LLC (US) ("**TT Commerce & Global Services**"), if you are based in the United States;
+*   •​BD TikTok USA LLC (US) ("**TT Commerce & Global Services**"), if you are based in the United States;
 
-●       TikTok Inc. (US), if you are based in Canada;
+*   •​TikTok Inc. (US), if you are based in Canada;
 
-●       TikTok Information Technologies UK Limited (UK), if you are based in the United Kingdom;
+*   •​TikTok Information Technologies UK Limited (UK), if you are based in the United Kingdom;
 
-●       TikTok Technology Limited (Ireland), if you are based in the EEA or Switzerland; or
+*   •​TikTok Technology Limited (Ireland), if you are based in the EEA or Switzerland; or
 
-●       TikTok Pte. Ltd. (Singapore), if you are based in any other geographic area.
+*   •​TikTok Pte. Ltd. (Singapore), if you are based in any other geographic area.
 
 “**You**” or “**your**” means the entity or individual using the Commercial Products for its business or commercial purposes. 
 
