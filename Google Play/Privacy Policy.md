@@ -54,14 +54,14 @@ If your app integrates third party code (for example, an SDK) that is designed t
 
 Examples of common violations
 
-*   An app collects device location but does not have a prominent disclosure explaining which feature uses this data and/or indicates the app’s usage in the background.
+*   An app collects device location but does not have a prominent disclosure explaining which feature uses this data and/or indicates the app's usage in the background.
 *   An app has a runtime permission requesting access to data before the prominent disclosure which specifies what the data is used for.
 *   An app that accesses a user's inventory of installed apps and doesn't treat this data as personal or sensitive data subject to the above Privacy Policy, data handling, and Prominent Disclosure and Consent requirements.
 *   An app that accesses a user's phone or contact book data and doesn't treat this data as personal or sensitive data subject to the above Privacy Policy, data handling, and Prominent Disclosure and Consent requirements.
-*   An app that records a user’s screen and doesn't treat this data as personal or sensitive data subject to this policy.
+*   An app that records a user's screen and doesn't treat this data as personal or sensitive data subject to this policy.
 *   An app that collects [device location](https://developer.android.com/training/location) and does not comprehensively disclose its use and obtain consent in accordance with the above requirements.
 *   An app that uses restricted permissions in the background of the app including for tracking, research, or marketing purposes and does not comprehensively disclose its use and obtain consent in accordance with the above requirements. 
-*   An app with an SDK that collects personal and sensitive user data and doesn’t treat this data as subject to this User Data Policy, access, data handling (including disallowed sale), and prominent disclosure and consent requirements.
+*   An app with an SDK that collects personal and sensitive user data and doesn't treat this data as subject to this User Data Policy, access, data handling (including disallowed sale), and prominent disclosure and consent requirements.
 
 Refer to this [article](https://support.google.com/googleplay/android-developer/answer/11150561) for more information on the Prominent Disclosure and Consent requirement.
 
