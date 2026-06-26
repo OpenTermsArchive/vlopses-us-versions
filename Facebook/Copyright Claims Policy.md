@@ -50,16 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-Report trademark infringement
-
-What is a trademark?
-
-Brand Rights Protection
-
-My trademark was infringed
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -161,25 +151,25 @@ Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 Related Articles
 
 [What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
 [Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
 
-[What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
+
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -551,11 +541,13 @@ What’s the difference between copyright and trademark?
 
 Copy link
 
+Copyright vs trademark
+
 What is copyright?
 
 What is trademark?
 
-Protect my content
+My content was removed
 
 I have a different question
 
@@ -874,9 +866,11 @@ Copy link
 
 Report an infringement
 
-Report someone else's copyright
+Report copyright infringement
 
-Report someone else's trademark
+Report trademark infringement
+
+Report someone else's IP
 
 I have a different question
 
@@ -1177,11 +1171,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad for infringement
+Report an ad
 
 Report ad copyright
 
-Report ad trademark
+Report intellectual property
 
 I have a different question
 
@@ -1305,9 +1299,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Restore removed content
-
 I reported content by mistake
+
+How to use the Retraction Form
 
 I have a different question
 
@@ -2176,15 +2170,15 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a DMCA counter-notification
+¿Qué es una contranotificación DMCA?
 
-My content was removed
+¿Cómo presento una contranotificación?
 
-What happens to my content?
+¿Qué pasa después de presentarla?
 
-How long does this take?
+¿Por qué se eliminó mi contenido?
 
-I have a different question
+Tengo una pregunta diferente
 
 Meta complies with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating U.S. copyrights.
 
@@ -2303,7 +2297,7 @@ Copy link
 
 Contact DMCA agent
 
-Report copyright infringement
+Send a copyright claim
 
 DMCA contact information
 
