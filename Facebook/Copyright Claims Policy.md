@@ -425,9 +425,9 @@ Copy link
 
 Report counterfeit goods
 
-What are counterfeit goods?
+What is trademark infringement?
 
-Selling counterfeit goods
+Is selling counterfeits illegal?
 
 I have a different question
 
@@ -1173,13 +1173,11 @@ Report an advertisement for intellectual property infringement on Facebook
 
 Copy link
 
-Report an ad
+Report an ad for infringement
 
-Report copyright infringement
+Report ad copyright
 
-Report trademark infringement
-
-I can't report an ad
+Report ad trademark
 
 I have a different question
 
@@ -1245,11 +1243,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property was infringed
+My intellectual property infringed
 
-Contact an app developer
+Contact app developer
 
-How to report an app
+What are Facebook Terms?
 
 I have a different question
 
@@ -1357,9 +1355,9 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is shared?
+What info is sent?
 
-Who sees my information?
+Who receives my info?
 
 Can I appeal removed content?
 
@@ -1655,7 +1653,7 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Related Articles
 
@@ -1667,7 +1665,7 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1800,13 +1798,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
+
+Can I use content with permission?
 
 What is fair use?
 
-Do I need permission?
-
-What is public domain?
+What is public domain content?
 
 I have a different question
 
@@ -1880,7 +1878,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+Is my use fair use?
 
 I have a different question
 
@@ -1960,9 +1958,9 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
-
 What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
 
@@ -2113,11 +2111,11 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
 
 My content was removed
 
-What is DMCA?
+What is intellectual property?
 
 I have a different question
 
@@ -2494,11 +2492,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What is a copyright report?
+What is my report number?
 
-What happens after I report?
+Ask for more information
 
-Who sees my report details?
+What information is shared?
 
 I have a different question
 
