@@ -508,9 +508,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Related Articles
 
@@ -520,9 +520,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1243,11 +1243,11 @@ Copy link
 
 Report a third-party app
 
-My intellectual property infringed
+My intellectual property was infringed
 
-Contact app developer
+Contact an app developer
 
-What are Facebook Terms?
+How to report an app
 
 I have a different question
 
@@ -1301,7 +1301,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-How to use Retraction Form?
+I reported content by mistake
+
+I didn't get a retraction form
 
 I have a different question
 
@@ -1353,9 +1355,9 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What info is sent?
+What information is shared?
 
-Who receives my info?
+Who sees my information?
 
 Can I appeal removed content?
 
@@ -1556,9 +1558,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
-What is not protected by copyright?
+What is not protected?
 
 What is fair use?
 
@@ -2027,9 +2031,7 @@ My video was removed
 
 Why was my video removed?
 
-I didn't get an email
-
-What is copyrighted content?
+I have rights to content
 
 I have a different question
 
@@ -2109,11 +2111,11 @@ Facebook Lite App Help
 
 More
 
-Appeal removed content
+Appeal content removal
 
 My content was removed
 
-What is DMCA?
+What is intellectual property?
 
 I have a different question
 
@@ -2301,7 +2303,7 @@ Contact DMCA agent
 
 Report copyright infringement
 
-What is a complete claim?
+What is a DMCA claim?
 
 I have a different question
 
