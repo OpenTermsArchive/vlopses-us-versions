@@ -39,7 +39,7 @@ We’ve refreshed our Privacy Statement to make it easier to read, navigate, and
 *   [Productivity and communications products](#mainprodcommproductsmodule)
 
 *   [Microsoft 365, Office, and other productivity apps](#mainofficeservicesmodule)
-*   [Microsoft Family](#mainmsfamilymodule)
+*   [Microsoft Family Safety](#mainmsfamilymodule)
 *   [Microsoft Launcher](#mainmslauncher)
 *   [Microsoft Teams](#mainteamsmodule)
 *   [OneDrive](#mainonedrivemodule)
@@ -47,19 +47,17 @@ We’ve refreshed our Privacy Statement to make it easier to read, navigate, and
 *   [Skype](#mainskypemodule)
 *   [Surface](#mainsurfacemodule)
 *   [Surface Duo](#mainsurfaceduomodule)
+*   [SwiftKey](#mainswiftkeymodule)
 *   [LinkedIn](#mainlinkedinmodule)
 
 *   [Search and browse](#mainsearchaimodule)
 
 *   [Bing](#mainbingmodule)
 *   [Microsoft Edge](#mainmsedgemodule)
-*   [Microsoft Translator](#mainMicrosoftTranslatormodule)
-*   [SwiftKey](#mainswiftkeymodule)
 
 *   [Windows](#mainwindowsmodule)
 
 *   [Activation](#mainactivationmodule)
-*   [Activity history](#mainactivityhistorymodule)
 *   [Advertising ID](#mainadvertisingidmodule)
 *   [Cellular plan activation from Mobile Operator website](#maincellularplanactivationmodule)
 *   [Diagnostics](#maindiagnosticsmodule)
@@ -67,16 +65,15 @@ We’ve refreshed our Privacy Statement to make it easier to read, navigate, and
 *   [Feedback Hub](#mainfeedbackhubmodule)
 *   [Get Help](#maingethelpmodule)
 *   [Live captions](#mainlivecaptionsmodule)
-*   [Location services and recording](#mainlocationservicesmotionsensingmodule)
+*   [Location services](#mainlocationservicesmotionsensingmodule)
 *   [Narrator](#mainnarratormodule)
-*   [Phone Link - Link to Windows](#mainyourphonemodule)
+*   [Linked Mobile Experiences on Windows](#mainyourphonemodule)
 *   [Cross-device experiences](#maincrossdevicemodule)
 *   [Recording](#mainrecordingmodule)
-*   [Security and safety features](#mainsecurityandsafetyfeaturesmodule)
+*   [Security and safety features](#mainsecurityandsafetymodule)
 *   [Speech, Voice Activation, Inking, and Typing](#mainspeechinkingtypingmodule)
 *   [Sync and backup settings](#mainsyncsettingsmodule)
 *   [Update Services](#mainupdateservicesmodule)
-*   [Web browsers—Microsoft Edge Legacy and Internet Explorer](#mainwebbrowsersmodule)
 *   [Windows AI Features](#mainwindowsaifeaturesmodule)
 *   [Windows apps](#mainwindowsappsmodule)
 *   [Windows Hello](#mainwindowshellomodule)
@@ -87,7 +84,6 @@ We’ve refreshed our Privacy Statement to make it easier to read, navigate, and
 *   [Xbox](#mainxboxmodule)
 *   [Microsoft Store](#mainwindowsstoremodule)
 *   [Microsoft Start](#mainmainmodule)
-*   [Silverlight](#mainsilverlightmodule)
 
 *   [Windows Mixed Reality](#mainwindowsmixedrealitymodule)
 
