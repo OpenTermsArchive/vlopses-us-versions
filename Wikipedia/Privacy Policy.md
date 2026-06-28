@@ -1548,7 +1548,7 @@ See also
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_IP\_Information\_Tool\_Policy&oldid=539460](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_IP_Information_Tool_Policy&oldid=539460)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia\_IP\_Information\_Tool\_Policy&oldid=587195](https://foundation.wikimedia.org/w/index.php?title=Legal:Wikimedia_IP_Information_Tool_Policy&oldid=587195)"
 
 - - -
 
