@@ -1301,9 +1301,7 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-I reported content by mistake
-
-I didn't get a retraction form
+How to use Retraction Form?
 
 I have a different question
 
@@ -2111,11 +2109,11 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
+Appeal removed content
 
 My content was removed
 
-What is intellectual property?
+What is DMCA?
 
 I have a different question
 
@@ -2303,7 +2301,7 @@ Contact DMCA agent
 
 Report copyright infringement
 
-What is a DMCA claim?
+What is a complete claim?
 
 I have a different question
 
