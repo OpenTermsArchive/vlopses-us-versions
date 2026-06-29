@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-Report a copyright violation
+Denunciar violação de direitos autorais
 
-Report a trademark violation
+Denunciar violação de marca registrada
 
-What is copyright?
+O que é direito autoral?
 
-What is a trademark?
+O que é marca registrada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -1105,11 +1105,13 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
+What is my report number?
 
-My report number
+Ask for more information
 
-Respond to a message
+Who sees my report details?
+
+Can I appeal a decision?
 
 I have a different question
 
@@ -1471,13 +1473,15 @@ Resolve issues, make changes and get support in real time
 Copyright
 =========
 
-Melde en krænkelse af ophavsret
+Report copyright infringement
 
-Hvad er ophavsret?
+Protect my copyrighted work
 
-Beskyt mit ophavsretligt værk
+What is copyright?
 
-Jeg har et andet spørgsmål
+What is Rights Manager?
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe that someone is using your copyrighted work without your permission, you can report it by [filling in this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -1956,13 +1960,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I infringe copyright unintentionally?
+Can I violate copyright unintentionally?
 
 What is fair use?
 
-What is copyright infringement?
-
-What does copyright protect?
+What if I gave credit?
 
 I have a different question
 
@@ -2395,9 +2397,9 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Related articles
 
@@ -2407,9 +2409,9 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
