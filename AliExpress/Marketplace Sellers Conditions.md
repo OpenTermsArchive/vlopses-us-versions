@@ -1126,7 +1126,7 @@ AliExpress Rules of Prohibited and Controlled Items - A Detailed Guidance
 
 Release date: July 30, 2024
 
-Revision date: June 8, 2026
+Revision date: June 29, 2026
 
 |     |     |
 | --- | --- |
@@ -1246,7 +1246,7 @@ Revision date: June 8, 2026
 | \*\*\*Regulatory Basis\*\*\*<br><br>The Criminal Law of the People's Republic of China, Decision of the Standing Committee of the National People's Congress on Safeguarding Internet Security, Internet Management Regulations, and other relevant laws, regulations, and regulatory requirements worldwide.<br><br>This basis is for reference only and does not guarantee completeness, accuracy, or timeliness. AliExpress reserves the right to modify and supplement the content.<br><br>\*\*\*Reminder\*\*\*<br><br>AliExpress strictly prohibits the listing of debt collection services and follower/audience boost services.<br><br>\*\*\*Risk Examples\*\*\*<br><br>Listing of visa application services, debt collection services, and follower/audience boost services |     |     |     |     |     |     |     |     |     |     |     |
 | (X) Collectibles |     |     |     |     |     |     |     |     |     |     |     |
 | 【Overview】<br><br>According to the laws, regulations, and regulatory requirements of various countries, the platform strictly prohibits the listing of cultural relics, precious metals, and circulating currency. The platform strictly prohibits the listing of any materials, processes, machinery, and equipment for manufacturing counterfeit currency. |     |     |     |     |     |     |     |     |     |     |     |
-| 1.1 Currency, financial warrants, forged currency and counterfeit currency in any form, and other similar products or products that may be mistaken for currency or financial warrants; main materials, tools, and methods that could be used to manufacture, counterfeit or modify currency or financial warrants, or to counterfeit currency;<br><br>1.2 Products designed to resemble genuine currency or counterfeit currency, including but not limited to:<br><br>(1) items whose visual features — such as denomination display, national emblem, primary color scheme, or overall layout — mimic those of legally circulating currency;<br><br>(2) physical replicas produced at non-standard scale (e.g., miniature, oversized, or distorted proportions);<br><br>(3) items made of atypical materials (e.g., plastic, acrylic, wood, or electroplated metal) while retaining key currency-like characteristics;<br><br>(4) Products whose displayed information (e.g., text, images, videos, etc.) does not match the actual item, such as AI-generated images or excessively edited photos. |     |     |     |     |     | Serious Violation, Maximum 48 Points Deduction.<br><br>General Violation: 6, 2, 0.5, or 0 points will be deducted for per violation. |     |     |     |     |     |
+| 1.1 Currency, financial warrants, forged currency and counterfeit currency in any form, and other similar products or products that may be mistaken for currency or financial warrants; main materials, tools, and methods that could be used to manufacture, counterfeit or modify currency or financial warrants, or to counterfeit currency;<br><br>1.2 Products designed to resemble genuine currency or counterfeit currency, including but not limited to:<br><br>(1) items whose visual features — such as denomination display, national emblem, primary color scheme, or overall layout — mimic those of legally circulating currency;<br><br>(2) physical replicas produced at non-standard scale (e.g., miniature, oversized, or distorted proportions);<br><br>(3) items made of atypical materials (e.g., plastic, acrylic, wood, or electroplated metal) while retaining key currency-like characteristics;<br><br>(4) Products whose displayed information (e.g., text, images, videos, etc.) does not match the actual item, such as AI-generated images or excessively edited photos;<br><br>(5) Coins and coin-like products that, due to visual features resembling officially issued coins or commemorative coins — whether in overall design or in specific elements (e.g., denomination, portrait of a head of state, national emblem, year of issue, mint mark, iconic motifs found on coins of various countries, or edge lettering/ribbing) — may mislead the general public. |     |     |     |     |     | Serious Violation, Maximum 48 Points Deduction.<br><br>General Violation: 6, 2, 0.5, or 0 points will be deducted for per violation. |     |     |     |     |     |
 | \*\*\* Regulatory Basis\*\*\*<br><br>Criminal Law of the People's Republic of China;<br><br>Law of the People's Republic of China on the People's Bank of China;<br><br>Measures of the People's Bank of China for the Administration of Currency Identification and Counterfeit Currency Seizure and Authentication;<br><br>Regulations of the People's Republic of China on the Administration of Renminbi;<br><br>Other relevant international laws and regulations.<br><br>This basis is for reference only and does not guarantee completeness, accuracy, or timeliness. AliExpress reserves the right to modify and supplement the content.<br><br>\*\*\*Reminder\*\*\*<br><br>According to the relevant requirements of national laws and regulatory authorities, AliExpress strictly prohibits the listing of circulating currency (including RMB and foreign currency), and strictly prohibits the listing of any materials or printing equipment with an explicit or implicit indication that they can be used for counterfeiting or altering currency, and posting of information on methods for counterfeiting or altering currency.<br><br>The platform strictly prohibits the listing of stocks, promissory notes, cashier's checks, bills of exchange, securities, bonds, stamps, and other commodities and counterfeits with financial or circulation value.<br><br>\*\*\*Risk Examples\*\*\*<br><br>**·** Serious Violation (48 points deduction):<br><br>Circulating Renminbi (including genuine and counterfeit bills);<br><br>Currency, financial warrants, forged currency and counterfeit currency in any form, and other similar products or products that may be mistaken for currency or financial warrants;<br><br>main materials, tools, and methods that could be used to manufacture, counterfeit or modify currency or financial warrants, or to counterfeit currency, including but not limited to holograms, printing plates, and specific printing equipment; information on methods for counterfeiting or altering currency and financial warrants, or to counterfeit currency;<br><br>**·** General Violation (2 points deduction):<br><br>Circulating foreign currencyand items visually resembling circulating foreign currency.<br><br>**·** General Violation (0.5 points deduction):<br><br>Products with sample images of Renminbi patterns<br><br>**·** General Violation (0 points deduction):<br><br>Currency-related merchandise with deceptive image-to-product discrepancy. |     |     |     |     |     |     |     |     |     |     |     |
 | 2\. Virtual Currency (such as Bitcoin) |     |     |     |     |     | General Violation, 6 Points Deduction/Violation |     |     |     |     |     |
 | \*\*\*Reminder\*\*\*<br><br>The platform prohibits the listing and trading of virtual currencies. |     |     |     |     |     |     |     |     |     |     |     |
@@ -1327,7 +1327,7 @@ AliExpress Index of Prohibited and Controlled Items
 
 Release date: July 24, 2023
 
-Revision date: June 8, 2026
+Revision date: June 29, 2026
 
 **·** [1\. Overview](https://rule.aliexpress.com/rule-channels/37978936/127561551#MEl5q)
 
@@ -1419,7 +1419,7 @@ If there is any discrepancy between the Chinese and English versions of any anno
 | 5\. Providing legal advice, lottery services, medical services, educational certificate application services, and other related services; | General violation, 2 penalty points per violation |
 | 6\. Providing recovery services, fans or audience adding services, and visa services; | General violation, 0.5 penalty point per violation |
 | **(10)** **Currency, financial instruments, and collectibles**[**For further details, click here**](https://rule.aliexpress.com/rule-channels/36963666/122523650) (Mainly for reference by Chinese merchants) |     |
-| 1.1 Currency, financial warrants, forged currency and counterfeit currency in any form, and other similar products or products that may be mistaken for currency or financial warrants; main materials, tools, and methods that could be used to manufacture, counterfeit or modify currency or financial warrants, or to counterfeit currency;<br><br>1.2 Products designed to resemble genuine currency or counterfeit currency, including but not limited to:<br><br>(1) items whose visual features — such as denomination display, national emblem, primary color scheme, or overall layout — mimic those of legally circulating currency;<br><br>(2) physical replicas produced at non-standard scale (e.g., miniature, oversized, or distorted proportions);<br><br>(3) items fabricated from atypical materials (e.g., plastic, acrylic, wood, or electroplated metal) while retaining key currency-like visual characteristics;<br><br>(4) Products whose displayed information (e.g., text, images, videos, etc.) does not match the actual item, such as AI-generated images or excessively edited photos; | Serious violation, up to 48 penalty points.<br><br>General violation: 6, 2, 0.5, or 0 points per violation. |
+| 1.1 Currency, financial warrants, forged currency and counterfeit currency in any form, and other similar products or products that may be mistaken for currency or financial warrants; main materials, tools, and methods that could be used to manufacture, counterfeit or modify currency or financial warrants, or to counterfeit currency;<br><br>1.2 Products designed to resemble genuine currency or counterfeit currency, including but not limited to:<br><br>(1) items whose visual features — such as denomination display, national emblem, primary color scheme, or overall layout — mimic those of legally circulating currency;<br><br>(2) physical replicas produced at non-standard scale (e.g., miniature, oversized, or distorted proportions);<br><br>(3) items fabricated from atypical materials (e.g., plastic, acrylic, wood, or electroplated metal) while retaining key currency-like visual characteristics;<br><br>(4) Products whose displayed information (e.g., text, images, videos, etc.) does not match the actual item, such as AI-generated images or excessively edited photos;<br><br>(5) Coins and coin-like products that, due to visual features resembling officially issued coins or commemorative coins — whether in overall design or in specific elements (e.g., denomination, portrait of a head of state, national emblem, year of issue, mint mark, iconic motifs found on coins of various countries, or edge lettering/ribbing) — may mislead the general public. | Serious violation, up to 48 penalty points.<br><br>General violation: 6, 2, 0.5, or 0 points per violation. |
 | 2\. Virtual currency (such as Bitcoin); | General violation, 6 penalty points per violation |
 | 3\. Gold, silver, and other precious metals; | General violation, 2 penalty points per violation |
 | 4\. Nationally protected artifacts, fossils, and other collections; | General violation, 2 penalty points per violation |
@@ -1509,13 +1509,13 @@ Related links:
 
 AliExpress
 
-[1\. Overview:](#FgZNM)
+[1\. Overview:](#E1lx0)
 
-[2\. Index of Prohibited and Controlled Items](#CyItj)
+[2\. Index of Prohibited and Controlled Items](#vZwir)
 
-[3\. Penalties for Violations](#Bb533)
+[3\. Penalties for Violations](#qBmK8)
 
-[4\. Response to Reports](#Huk5X)
+[4\. Response to Reports](#LQgot)
 
 - - -
 
@@ -1523,9 +1523,7 @@ AliExpress Product Listing Policy
 
 Release date: May 10, 2018
 
-Revision date: October 21, 2025
-
-  
+Revision date: June 29, 2026
 
 INDEX
 -----
@@ -1583,8 +1581,6 @@ INDEX
 3.SOFTWARE
 
 4.UNAUTHORIZED COPIES OF INTELLECTUAL PROPERTY
-
-  
 
 PART 1 GENERAL PROHIBITIONS
 ---------------------------
@@ -1758,13 +1754,11 @@ AliExpress does not permit the posting of unauthorized medical devices. Members 
 
 11.2 Counterfeits of the identified articles in 11.1, legal tender and stamps are strictly prohibited.
 
-11.3 Reproductions or replicas of coins as collectible items must be clearly marked with the word "COPY", "REPRODUCTION" or "REPLICA" and comply with all relevant local laws.
+11.3 Listings that offer the sale or buying of gold, silver and other precious metals (not including jewelry) are prohibited.
 
-11.4 Listings that offer the sale or buying of gold, silver and other precious metals (not including jewelry) are prohibited.
+11.4 Rough diamonds and “conflict minerals” originating from non-compliant countries may not be listed.
 
-11.5 Rough diamonds and “conflict minerals” originating from non-compliant countries may not be listed.
-
-11.6 Artifacts, cultural relics, historical grave markers, and related items are protected under the laws of the PRC, the United States, and other jurisdictions; and may not be posted or sold through the AliExpress Sites.
+11.5 Artifacts, cultural relics, historical grave markers, and related items are protected under the laws of the PRC, the United States, and other jurisdictions; and may not be posted or sold through the AliExpress Sites.
 
 ### 12\. HUMAN PARTS, HUMAN REMAINS AND PROTECTED FLORA AND FAUNA
 
@@ -1921,61 +1915,61 @@ For further information of Intellectual Property Rights (IPR) Protection Policy,
 
 AliExpress
 
-[INDEX](#l9Erc)
+[INDEX](#Q4gIc)
 
-[PART 1 GENERAL PROHIBITIONS](#RgbEt)
+[PART 1 GENERAL PROHIBITIONS](#CnqTX)
 
-[PART 2 PROHIBITED AND CONTROLLED ITEMS](#DTXzN)
+[PART 2 PROHIBITED AND CONTROLLED ITEMS](#yBgnF)
 
-[1\. ILLICIT DRUGS, PRECURSORS AND DRUG PARAPHERNALIA](#aT5kB)
+[1\. ILLICIT DRUGS, PRECURSORS AND DRUG PARAPHERNALIA](#lYkfv)
 
-[2\. FLAMMABLE, EXPLOSIVE AND HAZARDOUS CHEMICALS](#f2OuE)
+[2\. FLAMMABLE, EXPLOSIVE AND HAZARDOUS CHEMICALS](#kyZZ4)
 
-[3\. WEAPONS, FIREARMS AND AMMUNITIONS](#HiOcB)
+[3\. WEAPONS, FIREARMS AND AMMUNITIONS](#NS34X)
 
-[4\. CONTROLL ITEMS](#oneOR)
+[4\. CONTROLL ITEMS](#hWI3M)
 
-[5\. GOVERNMENT, LAW ENFORCEMENT AND MILITARY ISSUED ITEMS](#haHkW)
+[5\. GOVERNMENT, LAW ENFORCEMENT AND MILITARY ISSUED ITEMS](#hoDId)
 
-[6\. MEDICAL DRUGS](#IW3fh)
+[6\. MEDICAL DRUGS](#h3XgT)
 
-[7\. MEDICAL DEVICES](#BoBZp)
+[7\. MEDICAL DEVICES](#Uwbg7)
 
-[8\. ADULT AND OBSCENE MATERIALS](#NIbVz)
+[8\. ADULT AND OBSCENE MATERIALS](#AYWt5)
 
-[9\. CIRCUMVENTION DEVICES AND OTHER EQUIPMENT USED FOR ILLICT PURPOSES](#r8wD3)
+[9\. CIRCUMVENTION DEVICES AND OTHER EQUIPMENT USED FOR ILLICT PURPOSES](#XUftA)
 
-[10\. ILLEGAL SERVICES](#yqrW5)
+[10\. ILLEGAL SERVICES](#p58rh)
 
-[11\. COLLECTIONS, ARTIFACTS AND PRECIOUS METALS](#JTPv8)
+[11\. COLLECTIONS, ARTIFACTS AND PRECIOUS METALS](#UmvHJ)
 
-[12\. HUMAN PARTS, HUMAN REMAINS AND PROTECTED FLORA AND FAUNA](#AaDzD)
+[12\. HUMAN PARTS, HUMAN REMAINS AND PROTECTED FLORA AND FAUNA](#NGkN4)
 
-[13\. OFFENSIVE MATERIAL AND INFORMATION DETRIMENTAL TO NATIONAL SECURITY](#SJ3kO)
+[13\. OFFENSIVE MATERIAL AND INFORMATION DETRIMENTAL TO NATIONAL SECURITY](#Hyn0k)
 
-[14\. TOBACCO PRODUCTS](#fy08c)
+[14\. TOBACCO PRODUCTS](#v1hKt)
 
-[15\. GAMBLING EQUIPMENT](#r8BVq)
+[15\. GAMBLING EQUIPMENT](#zGcp5)
 
-[16\. SANCTIONED AND PROHIBITED ITEMS](#k36xW)
+[16\. SANCTIONED AND PROHIBITED ITEMS](#YPEmX)
 
-[17\. INFERIOR OR RISKY ITEMS THAT VIOLATE LAWS/REGULATIONS/POLICIES OF DOMESTIC AND DESTINATION COUNTRY](#aVBzI)
+[17\. INFERIOR OR RISKY ITEMS THAT VIOLATE LAWS/REGULATIONS/POLICIES OF DOMESTIC AND DESTINATION COUNTRY](#pp1vJ)
 
-[18\. PRODUCTS THAT ARE NOT SUITABLE FOR CROSS-BORDER SALES DUE TO THEIR NATURE](#r2jim)
+[18\. PRODUCTS THAT ARE NOT SUITABLE FOR CROSS-BORDER SALES DUE TO THEIR NATURE](#bhlfr)
 
-[19． CONTROVERSIAL OR SENSITIVE PRODUCTS THAT ARE CONTRARY TO SOCIAL MORALS, PUBLIC ORDER, GOOD CUSTOMS, AND HUMANITARIAN PRINCIPLES](#Hfk1m)
+[19． CONTROVERSIAL OR SENSITIVE PRODUCTS THAT ARE CONTRARY TO SOCIAL MORALS, PUBLIC ORDER, GOOD CUSTOMS, AND HUMANITARIAN PRINCIPLES](#tsUtb)
 
-[20\. OTHER LISTING PROHIBITIONS](#gw3Pk)
+[20\. OTHER LISTING PROHIBITIONS](#UF9IR)
 
-[PART 3 INTELLECTUAL PROPERTY RIGHTS (IPR) PROTECTION POLICY](#a6eSG)
+[PART 3 INTELLECTUAL PROPERTY RIGHTS (IPR) PROTECTION POLICY](#UU8pQ)
 
-[1\. FACES, NAMES AND SIGNATURES](#hrxjA)
+[1\. FACES, NAMES AND SIGNATURES](#SgzNR)
 
-[2\. REPLICA AND COUNTERFEIT ITEMS](#mN5Ka)
+[2\. REPLICA AND COUNTERFEIT ITEMS](#fHLdG)
 
-[3\. SOFTWARE](#MylBG)
+[3\. SOFTWARE](#pEkOs)
 
-[4\. UNAUTHORIZED COPIES OF INTELLECTUAL PROPERTY](#l7pPb)
+[4\. UNAUTHORIZED COPIES OF INTELLECTUAL PROPERTY](#IcgIN)
 
 - - -
 
