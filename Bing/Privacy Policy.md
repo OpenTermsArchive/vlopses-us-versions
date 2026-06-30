@@ -83,7 +83,7 @@ We’ve refreshed our Privacy Statement to make it easier to read, navigate, and
 
 *   [Xbox](#mainxboxmodule)
 *   [Microsoft Store](#mainwindowsstoremodule)
-*   [Microsoft Start](#mainmainmodule)
+*   [MSN](#mainmainmodule)
 
 *   [Windows Mixed Reality](#mainwindowsmixedrealitymodule)
 
