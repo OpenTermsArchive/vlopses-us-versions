@@ -3218,13 +3218,21 @@ Related articles
 
 Related articles
 
-[Turn Recommendations on or off for your business Page](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
+[Turn Recommendations on or off for your business Page
 
-[How Page review count and recommendation score are determined](https://www.facebook.com/help/500762053364226/?helpref=related_articles)
+* * *](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
 
-[See your Facebook Page's recommendations](https://www.facebook.com/help/153159431903167/?helpref=related_articles)
+[How Page review count and recommendation score are determined
 
-[Recommend a business on Facebook](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
+* * *](https://www.facebook.com/help/500762053364226/?helpref=related_articles)
+
+[See your Facebook Page's recommendations
+
+* * *](https://www.facebook.com/help/153159431903167/?helpref=related_articles)
+
+[Recommend a business on Facebook
+
+* * *](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
 
 [Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
 
