@@ -247,75 +247,7 @@ We will notify you as appropriate if we make material changes to this WhatsApp P
 Adding your WhatsApp account to an Accounts Center
 ==================================================
 
-Accounts Center will become your [Meta Account](https://www.meta.com/help/meta-account/876751767182450). We are gradually rolling out this update so you may see either Accounts Center or Meta Account settings as the place to manage your settings across apps. WhatsApp can be added optionally and will not be in a Meta Account unless you previously added it to your Accounts Center or choose to add it to your Meta Account when it's available to you.
-
-What is WhatsApp in Accounts Center
------------------------------------
-
-[Accounts Center](https://www.meta.com/help/accounts-center/) is a place where you can centrally manage account settings and connected experiences across your Facebook, Instagram, WhatsApp and Meta accounts. Adding your WhatsApp account to Accounts Center is completely optional. You can add and remove your WhatsApp account to and from Accounts Center at any time.
-
-By adding your WhatsApp account to Accounts Center, you’ll unlock experiences that work across Meta apps, like the ability to easily share your Status created on WhatsApp to Stories on Facebook or Instagram. You’ll also be able to manage some account settings in one place, like adjusting profile information. Adding your WhatsApp account to Accounts Center means WhatsApp and Meta will share information to provide these benefits, which we explain below and in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy).
-
-Adding your WhatsApp account to Accounts Center does not impact the privacy of your WhatsApp personal messages or calls, which will remain end-to-end encrypted. No one else, not even WhatsApp or Meta, can read or listen to them. We also do not share your contact lists with any other [Meta Company](https://faq.whatsapp.com/481188387305001/?locale=en_US).
-
-WhatsApp relies on Meta’s infrastructure, such as servers, to support people around the world with fast and reliable services. In general, access to WhatsApp personal data is restricted, so it’s only used by other Meta apps to determine how many people we serve and keep people safe, or when a user chooses to use an optional feature that works across Meta products.
-
-WhatsApp in Accounts Center is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta’s business tools. Optional features are always explained clearly in the app so you can make the choice that’s right for you.
-
-What information is collected by WhatsApp when you add your WhatsApp account to Accounts Center
------------------------------------------------------------------------------------------------
-
-The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy) describes information that WhatsApp collects on its services. When you choose to add your WhatsApp account to Accounts Center, WhatsApp also collects information such as:
-
-To enable you to use connected experiences available through Accounts Center, WhatsApp also receives information from other [Meta Companies](https://faq.whatsapp.com/481188387305001/?locale=en_US), such as:
-
-What information will Meta receive about you if you add your WhatsApp account to Accounts Center
-------------------------------------------------------------------------------------------------
-
-When you choose to add your WhatsApp account to Accounts Center, other [Meta Companies](https://faq.whatsapp.com/481188387305001/?locale=en_US) receive information such as:
-
-For what purposes WhatsApp uses your info if you add your WhatsApp account to Accounts Center
----------------------------------------------------------------------------------------------
-
-When you add your WhatsApp account to Accounts Center, WhatsApp uses your info for purposes such as the following:
-
-How Meta uses your info if you add your WhatsApp account to Accounts Center
----------------------------------------------------------------------------
-
-If you choose to add your WhatsApp account to Accounts Center, Meta will use your information as described in the [Meta Privacy Policy](https://www.facebook.com/privacy/policy/), to do things like provide, personalize, and improve its products and services, including to show you ads, measure their performance, and provide more personalized features, content, and suggestions across [Meta Company Products](https://faq.whatsapp.com/532729362019677), as well as promote safety, security and integrity. Meta’s own terms and privacy policy will govern your use of Meta services and products.
-
-Of course, WhatsApp relies on Meta’s infrastructure, such as servers, to support people around the world with fast and reliable services. However, access to WhatsApp personal data is restricted so it will not be used by other Meta apps – including for ads - unless it’s to determine how many people we serve, keep people safe, or to provide optional features that work across Meta products.
-
-WhatsApp in Accounts Center is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta’s business tools. Optional features are always explained clearly in the app so you can make the choice that’s right for you.
-
-Does adding WhatsApp to Accounts Center affect whether Meta uses your information when you message a business or share your info with them
-------------------------------------------------------------------------------------------------------------------------------------------
-
-Having your accounts in the same Accounts Center does not affect whether your info is used if you choose to share it with businesses or if you message them on our products.
-
-Learn more about [how Meta uses your information across your accounts in the same Accounts Center](https://www.meta.com/help/accounts-center/433719745369721/).
-
-Which of your settings will change
-----------------------------------
-
-Adding your WhatsApp account to Accounts Center will allow you to manage certain settings in one place for your WhatsApp accounts, and any other accounts you have in the same Accounts Center. These include things like adjusting your profile information across accounts, and whether to always cross-post Status across your apps. For a full list of settings controlled through Accounts Center, read more [here](https://www.meta.com/help/accounts-center/1894490827562393/).
-
-If you don’t want to add your WhatsApp account to Accounts Center
------------------------------------------------------------------
-
-You don’t have to. Adding your WhatsApp account to Accounts Center is completely optional. If you choose not to add your WhatsApp account to the same Accounts Center as your Facebook or Instagram accounts, you can still use WhatsApp like you always have.
-
-If you add your WhatsApp account to Accounts Center and then change your mind
------------------------------------------------------------------------------
-
-If you add your WhatsApp account to Accounts Center, you allow us to combine and use your information across accounts in Accounts Center on different [Meta Company Products](https://faq.whatsapp.com/532729362019677). You can remove your WhatsApp account from Accounts Center at any time.
-
-If you remove your WhatsApp account from Accounts Center, we’ll stop [combining your info](https://www.meta.com/help/accounts-center/433719745369721/) between your WhatsApp account and the other accounts still in your Accounts Center within 7 days. If you remove your WhatsApp account, your previously combined info would remain combined.
-
-You opted out of sharing your WhatsApp account information with Meta in 2016. How does adding your WhatsApp account to Accounts Center impact you
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-If you opted out of sharing your WhatsApp account information with Meta to improve Meta ads and product experiences in 2016, then adding your WhatsApp account to Accounts Center means that you are opting into this sharing, and all sharing associated with Accounts Center as described above.
+This information is not available in your location.
 
 * * *
 
