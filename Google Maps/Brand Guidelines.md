@@ -24,7 +24,6 @@ Brands Select a brand Google
 *   Google Health
 *   Google Lens
 *   Google Maps
-*   Google Meet
 *   Google Messages
 *   Google Nest
 *   Google Nest Display
