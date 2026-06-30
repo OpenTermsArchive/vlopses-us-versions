@@ -3124,11 +3124,11 @@ About recommendations on Facebook
 
 Copy link
 
-What does Facebook recommend?
+What content does Facebook recommend?
 
 What content is not recommended?
 
-Why are my posts not recommended?
+Why was my content not recommended?
 
 I have a different question
 
