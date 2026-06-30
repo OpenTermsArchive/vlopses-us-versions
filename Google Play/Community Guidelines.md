@@ -2113,7 +2113,7 @@ Examples of common violations
 
 If you serve ads in your app and your target audience only includes children, then you must use only [Families self-certified ads SDK](https://support.google.com/googleplay/android-developer/answer/9900633/) versions. If the target audience for your app includes both children and older users, you must implement age screening measures, such as a [neutral age screen](https://support.google.com/googleplay/android-developer/answer/9285070#neutral-agescreen), and make sure that ads shown to children come exclusively from Google Play self-certified ads SDK versions. 
 
-Please refer to the [Families Self-Certified Ads SDK Program policy](https://support.google.com/googleplay/android-developer/answer/9900633/) page for more details on these requirements and refer [here](https://support.google.com/googleplay/android-developer/answer/9283445) to see the current list of Families Self-Certified ads SDK versions.
+Please refer to the [Families Self-Certified Ads SDK Program](https://support.google.com/googleplay/android-developer/answer/9900633/) policy page for more details on these requirements and refer [here](https://support.google.com/googleplay/android-developer/answer/9283445) to see the current list of Families Self-Certified ads SDK versions.
 
 If you use AdMob, refer to the [AdMob Help Center](https://support.google.com/admob/answer/6223431) for more details on their products.
 
