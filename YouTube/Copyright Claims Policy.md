@@ -252,8 +252,8 @@ To dispute a Content ID claim:
 1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
 2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
 3.  In the **Videos** tab, find the video with the claim you want to dispute.
-    *   To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Copyright**.
-4.  In the **Restrictions** column, hover over **Copyright**.
+    *   To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Claims**.
+4.  In the **Restrictions** column, hover over **Claims**.
 5.  Click **See details**.
 6.  Under the **Content used**, find the relevant claim and click **Take action** ![and then](//storage.googleapis.com/support-kms-prod/f0266215-9232-49d1-bb42-a3b46898e6f5) **Dispute**.
 
