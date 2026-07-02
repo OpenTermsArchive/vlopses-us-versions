@@ -247,7 +247,7 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 2\. Your Affiliate Benefits will be rounded to 2 decimal places.
 
-3\. Your Commission will be credited to your “Pending” balance 2 days following the placement of each Qualifying Order. We will verify your Commission for a Qualifying Order after the order delivery has been confirmed. The verification process will be completed within 30 days. During this period, the Commission will remain pending and cannot be withdrawn until it is verified and shown as “Available.”
+3\. Your Commission will be credited to your “Pending” balance 2 days following the placement of each Qualifying Order. We will verify your Commission for a Qualifying Order after the order delivery has been confirmed. The verification period will be displayed on the applicable Program page and may vary depending on the Commission. During this period, the Commission will remain pending and cannot be withdrawn until it is verified and shown as “Available.”
 
 4\. Only Affiliate Earnings shown as your “Available Earnings” are eligible for withdrawal.You may choose to withdraw your “Available Earnings” as [Temu Credits](https://www.temu.com/temu-credit-balance-policy.html) to your Temu account, or as cash via PayPal.You can withdraw the Affiliate Earnings in your “Available” account only if the balance is over $20. No withdrawal is allowed if the balance is less than $20. The full balance of your “Available” account must be withdrawn; partial withdrawals are not permitted.
 
