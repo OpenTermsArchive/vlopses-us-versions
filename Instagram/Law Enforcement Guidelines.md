@@ -5,9 +5,11 @@ Copy link
 
 Request user information
 
-Submit an emergency request
+Emergency data request
 
-Preserve account records
+Data retention policy
+
+International legal requests
 
 I have a different question
 
