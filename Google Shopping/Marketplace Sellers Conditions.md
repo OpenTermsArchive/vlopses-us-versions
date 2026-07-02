@@ -4275,15 +4275,15 @@ Vehicle ads are a performance focused, omnichannel, ad format that allows vehicl
 Important considerations for vehicle ads
 ----------------------------------------
 
-*   **Program targeting**: Ensure your feed settings in Merchant Center are configured to target only “Vehicle Ads”' Targeting Shopping Ads or Free Listings is not supported for vehicle sales and can lead to product disapproval or limited visibility.
-*   **Data accuracy**: Product disapprovals or 'Limited' status can also occur due to incorrect feed data. Pay close attention to:
-*   **Pricing**: The price in your feed and structured data must exactly match the price on your website landing page.
+*   **Program targeting**: Ensure your data source (also known as Feeds) settings in Merchant Center are configured to target only “Vehicle Ads”' Targeting Shopping Ads or Free Listings is not supported for vehicle sales and can lead to product disapproval or limited visibility.
+*   **Data accuracy**: Product disapprovals or 'Limited' status can also occur due to incorrect data source. Pay close attention to:
+*   **Pricing**: The price in your data source and structured data must exactly match the price on your website landing page.
 *   **Landing pages**: Verify that landing page URLs are correct, accessible, and accurately reflect the vehicle being advertised.
 *   **Link templates**: If using link templates, ensure they include “?store={store\_code}” and redirect to the specific product landing page.
-*   **Mileage**: Use supported units (For example, ‘miles’ or ‘km’) and ensure accuracy on both the landing page and in the feed.
+*   **Mileage**: Use supported units (For example, ‘miles’ or ‘km’) and ensure accuracy on both the landing page and in the data source.
 *   **Required attributes**: All necessary attributes, such as image links and availability, must be present and correct.
-*   **Store codes**: The store code in your feed must match the store code provided in your store data. Learn more about [How to fix: Missing valid store code](https://support.google.com/merchants/answer/11355151)
-*   **Review process**: After submitting your feed or making updates, allow 24-48 hours for the changes to sync and for the review to complete. Products may initially appear as 'Pending initial data quality review' or 'Under Review'. Ensure your website has also passed the website eligibility review for the Vehicle Ads program for a smooth review process.
+*   **Store codes**: The store code in your data source must match the store code provided in your store data. Learn more about [How to fix: Missing valid store code](https://support.google.com/merchants/answer/11355151)
+*   **Review process**: After submitting your data source or making updates, allow 24-48 hours for the changes to sync and for the review to complete. Products may initially appear as 'Pending initial data quality review' or 'Under Review'. Ensure your website has also passed the website eligibility review for the Vehicle Ads program for a smooth review process.
 
 To participate in our vehicle ads program, you must adhere to the [Shopping ads policies](https://support.google.com/merchants/answer/6149970) with the following requirements and exceptions.
 
@@ -4308,7 +4308,7 @@ Requirements to participate in vehicle ads
 *   **Online delivery of vehicles**: The program for advertisers offering online delivery of vehicles is in beta. Fill out this [form](https://support.google.com/merchants/contact/cuf_vehicle_ads_troubleshooting) to submit your interest.
 *   **Location**: You must have a brick and mortar business location for customers to physically visit, review, and/or purchase the vehicle in the state you are listing the vehicle for purchase
 *   **One account per state**: You may only list vehicles for sale in a single state within a single Merchant Center account
-*   **Image feed**: Vehicle ads have additional image feed specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
+*   **Image** data specification: Vehicle ads have additional image data specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
 
 Exceptions to shopping ads policies
 -----------------------------------
