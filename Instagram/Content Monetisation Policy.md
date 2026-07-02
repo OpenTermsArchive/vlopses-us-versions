@@ -3,9 +3,9 @@ Instagram Content Monetization Policies
 
 Copy link
 
-My content was not monetized
+What content can be monetized?
 
-Why was my content rejected?
+Why was my content demonetized?
 
 What are prohibited formats?
 
@@ -195,6 +195,16 @@ Instagram Partner Monetization Policies
 =======================================
 
 Copy link
+
+My monetization was removed
+
+Why am I not eligible?
+
+What are content policies?
+
+I can't monetize
+
+I have a different question
 
 Eligibility Standards for Promotional Tools are now called Instagram Partner Monetization Policies. This is still the best place to learn about the rules for using Instagram's monetization tools.
 
