@@ -1449,6 +1449,16 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
+Withdraw my IP report
+
+Cancel my copyright report
+
+How to retract a report?
+
+I can't withdraw my report
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do this is to complete the retraction form provided to you in the email that you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1874,9 +1884,9 @@ Copy link
 
 What are my copyright rights?
 
-Stop others using my work
+My content was copied
 
-Grant permission to use
+Stop others using my work
 
 What is copyright infringement?
 
@@ -2176,11 +2186,13 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+Can I infringe copyright unintentionally?
 
 What is fair use?
 
-What if I gave credit?
+What is copyright infringement?
+
+What does copyright protect?
 
 I have a different question
 
@@ -2345,13 +2357,15 @@ Facebook Lite App Help
 
 More
 
-Rayuan kandungan yang dialih keluar
+Contenuto rimosso per violazione
 
-Hubungi pemilik hak cipta
+Appellare la rimozione del contenuto
 
-Kandungan saya dialih keluar secara tidak sengaja
+Contattare il titolare dei diritti
 
-Saya ada soalan lain
+Cosa succede al mio contenuto?
+
+Ho una domanda diversa
 
 When we receive a report from a rights owner claiming that content you posted on Facebook infringes their intellectual property rights, we may need to promptly remove that content from Facebook without contacting you first.
 
