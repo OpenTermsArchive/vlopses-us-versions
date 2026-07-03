@@ -3,13 +3,13 @@ Instagram Content Monetization Policies
 
 Copy link
 
-What content can be monetized?
+Why can't I monetize content?
 
-Why was my content demonetized?
+My content was demonetized
+
+What content is restricted?
 
 What are prohibited formats?
-
-What are restricted categories?
 
 I have a different question
 
@@ -196,13 +196,13 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-My monetization was removed
+What are monetization policies?
 
-Why am I not eligible?
+My account is ineligible
+
+Why was I rejected?
 
 What are content policies?
-
-I can't monetize
 
 I have a different question
 
