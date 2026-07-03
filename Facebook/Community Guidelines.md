@@ -3120,9 +3120,9 @@ Copy link
 
 O que o Facebook recomenda?
 
-O que o Facebook não recomenda?
+O que não é recomendado?
 
-Como as recomendações funcionam?
+Padrões de recomendação do Facebook
 
 Tenho uma pergunta diferente
 
