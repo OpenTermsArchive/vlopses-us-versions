@@ -14,15 +14,15 @@ Intellectual property
 
 Copy link
 
-What is copyright?
+Denunciar violação de direitos autorais
 
-What is a trademark?
+Denunciar violação de marca registada
 
-Report a copyright violation
+O que é propriedade intelectual?
 
-Report a trademark violation
+O que é uma marca registada?
 
-I have a different question
+Tenho uma pergunta diferente
 
 Facebook is committed to helping people and organisations protect their intellectual property rights. The Facebook [Terms of Service](https://www.facebook.com/legal/terms) do not allow posting content that violates someone else's intellectual property rights, including copyright and trademark.
 
@@ -2000,26 +2000,87 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-This page isn't available at the moment
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+
+How can I make sure that the content I post to Facebook doesn't violate copyright law?
+======================================================================================
+
+Copy link
+
+What is copyright infringement?
+
+Do I have permission to post?
+
+What is fair use?
+
+Is my content public domain?
+
+I have a different question
+
+Under Facebook's [Terms of Service](https://www.facebook.com/terms.php) and [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), you can only post content to Facebook that doesn't violate someone else's intellectual property rights. The best way to help make sure that what you post to Facebook doesn't violate copyright law is to only post content that you've created yourself. It's possible to infringe someone else's copyright when you post their content on Facebook, even if you:
+
+*   Bought or downloaded the content (for example, a song from iTunes)
+*   Recorded the content onto your own recording device (for example, a song playing in the background during a party, concert, sporting event or wedding)
+*   Gave credit to the copyright owner
+*   Included a disclaimer that you didn't intend to infringe copyright
+*   Didn't intend to profit from it
+*   Modified the work or added your own original material to it
+*   Found the content available on the Internet
+*   Saw that others posted the same content as well
+*   Think the use is a [fair use](https://www.facebook.com/help/337995452911154?helpref=search&query=fair+us&sr=1&ref=contextual)
+
+Questions to ask before posting content
 ---------------------------------------
 
-This may be because of a technical error that we're working to fix. Please try reloading this page.
+*   Have I created all of the content myself?
+*   Do I have permission to use all of the content included in my post?
+*   Does my use of the content fall within an [exception to copyright infringement](https://www.facebook.com/help/337995452911154?helpref=faq_content)?
+*   Is the content protected by copyright (for example, is it a short phrase, idea or public domain work?)
 
-See more on Facebook
+It's generally a good idea to get written permission from the author of the work before posting content on Facebook. You might be able to use someone else's content on Facebook if you've received permission from them, for example by obtaining a licence. You may also be able to use someone else's content if it's in the public domain, is covered by fair use or there is another exception to copyright.
 
-See more on Facebook
+Learn more about [copyright and what copyright laws protect](https://www.facebook.com/help/1020633957973118?helpref=faq_content).
 
-Email address or phone number
+Related articles
+----------------
 
-Password
+[How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-Log in
+[Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
-[Forgotten password?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)
+[How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
 
-or
+[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
-Create new account
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+Related articles
+
+[How can I make sure that the content I post to Facebook doesn't violate trademark law?
+
+* * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
+
+[Unintentional actions can still violate copyright on Facebook
+
+* * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
+
+[How do I appeal the removal of content on Facebook for copyright reasons?
+
+* * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[How do I report copyright infringement on Facebook?
+
+* * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2117,26 +2178,80 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-This page isn't available at the moment
----------------------------------------
+*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
+*   [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-This may be because of a technical error that we're working to fix. Please try reloading this page.
+Unintentional actions can still violate copyright on Facebook
+=============================================================
 
-See more on Facebook
+Copy link
 
-See more on Facebook
+Can I violate copyright unintentionally?
 
-Email address or phone number
+What is copyright infringement?
 
-Password
+What is fair use?
 
-Log in
+What content is copyrighted?
 
-[Forgotten password?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)
+I have a different question
 
-or
+It's possible to infringe someone else's copyright, even if you don't intend to do so. In most cases, you shouldn't use someone else's copyrighted work if you don't have permission. Posting content that facilitates copyright infringement through unauthorised devices or services is also not allowed on Facebook.
 
-Create new account
+Bear in mind that your use of someone else’s content may infringe their copyright or facilitate copyright infringement, even if you:
+
+*   Gave credit to the copyright owner
+*   Included a disclaimer that you don't intend to infringe copyright
+*   Think that the use [is a fair use](https://www.facebook.com/help/337995452911154?helpref=faq_content)
+*   Didn't intend to profit from it
+*   Bought or downloaded the content (e.g. a copy of a DVD or a song from iTunes)
+*   Modified the work or added your own original material to it
+*   Found the content available on the Internet
+*   Recorded the content onto your own recording device (e.g. from a film, concert or sporting event)
+*   Saw that others have posted the same content as well
+*   Are using an unauthorised streaming device or service (e.g. a "jailbroken" or "loaded" app or service)
+
+Learn more about [copyright and what copyright laws protect](https://www.facebook.com/help/308895412492789?helpref=faq_content).
+
+Related articles
+----------------
+
+[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[How do I appeal the removal of content on Facebook for copyright reasons?](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
+Related articles
+
+[How do I report copyright infringement on Facebook?
+
+* * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
+
+[How can I make sure that the content I post to Facebook doesn't violate copyright law?
+
+* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[Repeated intellectual property infringement on Facebook
+
+* * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[How do I appeal the removal of content on Facebook for copyright reasons?
+
+* * *](https://www.facebook.com/help/194353905193770/?helpref=related_articles)
+
+[What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
