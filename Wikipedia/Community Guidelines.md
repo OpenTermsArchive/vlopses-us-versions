@@ -167,7 +167,7 @@ Harassment and other types of inappropriate behaviour are unacceptable in all pu
 Report a problem
 ----------------
 
-_**In case of threats of harm and other urgent situations**, notify the relevant authorities first (if possible) and [email the Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Requests_for_user_information_procedures_%26_guidelines#Emergency_Requests "wmf:Requests for user information procedures & guidelines") via emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org ([more information](https://meta.wikimedia.org/wiki/Special:MyLanguage/Threats_of_harm "m:Special:MyLanguage/Threats of harm"))._
+_**In case of threats of harm and other urgent situations**, notify the relevant authorities first (if possible) and [email the Wikimedia Foundation](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Requests_for_User_Information_Procedures_and_Guidelines#Emergency_Requests "wmf:Special:MyLanguage/Legal:Wikimedia Foundation Requests for User Information Procedures and Guidelines") via emergency![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=www.mediawiki.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org ([more information](https://meta.wikimedia.org/wiki/Special:MyLanguage/Threats_of_harm "m:Special:MyLanguage/Threats of harm"))._
 
 People who experience or observe unacceptable behaviour are encouraged to follow any of these steps:
 
@@ -221,4 +221,4 @@ Tracked in [Phabricator](https://phabricator.wikimedia.org/ "phabricator:")
 
 ![](https://www.mediawiki.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://www.mediawiki.org/w/index.php?title=Code\_of\_Conduct&oldid=8475542](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8475542)"
+Retrieved from "[https://www.mediawiki.org/w/index.php?title=Code\_of\_Conduct&oldid=8485953](https://www.mediawiki.org/w/index.php?title=Code_of_Conduct&oldid=8485953)"
