@@ -3,9 +3,9 @@ Instagram Content Monetization Policies
 
 Copy link
 
-My content was not monetized
+Why can't I monetize content?
 
-Why was my content rejected?
+My content was demonetized
 
 What content is restricted?
 
