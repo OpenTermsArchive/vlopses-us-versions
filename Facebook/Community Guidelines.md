@@ -3118,13 +3118,15 @@ About recommendations on Facebook
 
 Copy link
 
-O que o Facebook recomenda?
+What content does Facebook recommend?
 
-O que não é recomendado?
+What content is not recommended?
 
-Padrões de recomendação do Facebook
+Why was my content not recommended?
 
-Tenho uma pergunta diferente
+How do recommendations work?
+
+I have a different question
 
 We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, Groups or Events) that people do not already follow. Some examples of our recommendation experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join.
 
