@@ -2008,13 +2008,13 @@ How can I make sure that the content I post to Facebook doesn't violate copyrigh
 
 Copy link
 
-I posted copyrighted content
+What is copyright infringement?
+
+Do I have permission to post?
 
 What is fair use?
 
-How do I get permission?
-
-What is public domain content?
+Is my content public domain?
 
 I have a different question
 
@@ -2430,13 +2430,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is the DMCA?
+What is a counter-notification?
 
 My content was removed
 
-How to file counter-notification?
+How long does it take?
 
-What is a repeat infringer?
+What is the Repeat Infringer policy?
 
 I have a different question
 
