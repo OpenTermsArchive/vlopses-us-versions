@@ -1649,9 +1649,7 @@ Melde en krænkelse af ophavsret
 
 Hvad er ophavsret?
 
-Beskyt min ophavsret
-
-Rettighedsadministrator
+Beskyt mit ophavsretligt værk
 
 Jeg har et andet spørgsmål
 
