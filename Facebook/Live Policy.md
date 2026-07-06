@@ -4,27 +4,27 @@ Facebook Live Policies
 
 **Understanding our policies**
 
-The following terms, as well as our [Data Policy](https://www.facebook.com/about/privacy/), [Community Standards](https://www.facebook.com/communitystandards/) and [Terms of Service](https://www.facebook.com/legal/terms), apply to all users on Facebook. You are responsible for ensuring that your content complies with all applicable laws, statutes and regulations.
+The following terms, as well as our [Data Policy](https://www.facebook.com/about/privacy/), [Community Standards](https://www.facebook.com/communitystandards/), and [Terms of Service](https://www.facebook.com/legal/terms), apply to all users on Facebook. You are responsible for ensuring that your content complies with all applicable laws, statutes, and regulations.
 
-2\. General policies for Facebook Live
+2\. General Policies for Facebook Live
 
-**Prohibited business practices**
+**Prohibited Practices**
 
-Facebook Live must not be used to mislead users to think that specific footage is occurring in real time when it is not.
+Facebook Live must not be used to mislead users that specific footage is occurring in real time when it is not.
 
 Example:
 
 *   Misrepresenting footage of an event that occurred a year ago as currently happening
 
-**Inaccurate location**
+**Inaccurate Location**
 
-Facebook Live must not be used to mislead users to think that specific footage is happening in a particular locale when it is not.
+Facebook Live must not be used to mislead users that specific footage is happening in a particular locale when it is not.
 
 Example:
 
 *   Misrepresenting footage from a different country as footage from the United States
 
-**Pre-recorded content**
+**Pre-recorded Content**
 
 All pre-recorded content contained in a broadcast streamed to Facebook Live must be clearly marked as pre-recorded. For broadcasts that contain a mixture of live footage and pre-recorded footage, only the pre-recorded footage must be marked as pre-recorded.
 
@@ -34,9 +34,9 @@ Example:
 
 *   Including a disclaimer in the video description or title that specific content is pre-recorded
 
-**Looping or static content**
+**Looping or Static Content**
 
-Facebook Live should not be used to broadcast looping videos, static images or poll-only videos.
+Facebook Live should not be used to broadcast looping videos, static images, or poll-only videos.
 
 Example:
 
