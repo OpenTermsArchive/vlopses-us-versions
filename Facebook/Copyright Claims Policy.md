@@ -2565,11 +2565,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Contact DMCA agent online
 
-Send a DMCA report
+How to report copyright
 
-What is a complete claim?
+DMCA agent mailing address
 
 I have a different question
 
@@ -2854,13 +2854,13 @@ What tools does Facebook provide to help me protect my intellectual property in 
 
 Copy link
 
-Protect my intellectual property
+Apply for Rights Manager
 
-How does Rights Manager work?
+What is Rights Manager?
 
-How does content protection work?
+What is content protection?
 
-Report copyrighted content
+Report copyright infringement
 
 I have a different question
 
