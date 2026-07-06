@@ -3118,26 +3118,26 @@ About recommendations on Facebook
 
 Copy link
 
-O que o Facebook recomenda?
+What content does Facebook recommend?
 
-O que não é recomendado?
+What content is not recommended?
 
-Padrões de recomendação do Facebook
+Why was my content not recommended?
 
-Tenho uma pergunta diferente
+I have a different question
 
-We make personalised recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts and entities (such as Pages, Groups or Events) that people do not already follow. Some examples of our recommendation experiences include Pages you may like, "Suggested for you" posts in Feed, People you may know or Groups you should join.
+We make personalized recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts, and entities (such as Pages, Groups, or Events) that people do not already follow. Some examples of our recommendation experiences include Pages You May Like, “Suggested For You” posts in Feed, People You May Know, or Groups You Should Join.
 
-Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalising recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook friends in common, we may suggest that person as a potential new friend for you.
+Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalizing recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook Friends in common, we may suggest that person as a potential new Friend for you.
 
 Facebook's baseline standards for recommendations
 -------------------------------------------------
 
-At Facebook, we have guidelines that govern what content we will recommend to people. Through our Recommendations Guidelines, we work to avoid making recommendations that could be low-quality, objectionable or particularly sensitive. For users under 18, Facebook has additional [age-appropriate content guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fage-appropriate-content%2F). Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities that you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation. We use technology to detect content, accounts and entities that don't meet these Recommendations Guidelines and to help us avoid recommending them. As always, more severe violations of our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F) will be removed from Facebook.
+At Facebook, we have guidelines that govern what content we will recommend to people. Through our Recommendations Guidelines, we work to avoid making recommendations that could be low-quality, objectionable, or particularly sensitive. For users under 18, Facebook has additional [age-appropriate content guidelines](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fage-appropriate-content%2F). Our Recommendations Guidelines are designed to maintain a higher standard than our Community Standards, because recommended content and connections are from accounts or entities you haven't chosen to follow. Therefore, not all content allowed on our platform will be eligible for recommendation. We use technology to detect content, accounts, and entities that don’t meet these Recommendations Guidelines and to help us avoid recommending them. As always, more severe violations of our [Community Standards](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F) will be removed from Facebook.
 
-In developing these guidelines, we sought input from 50 leading experts specialising in recommender systems, expression, safety and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform. We've worked with youth experts around the world to understand what types of content may be appropriate for adults, but too mature for teens. Our guidelines are designed to ensure that recommendations are appropriate for our global community while providing enhanced protections for teen users.
+In developing these guidelines, we sought input from 50 leading experts specializing in recommender systems, expression, safety, and digital rights. Those consultations are part of our constant efforts to improve these guidelines and provide people with a safe and positive experience when they receive recommendations on our platform. We’ve worked with youth experts around the world to understand what types of content may be appropriate for adults, but too mature for teens. Our guidelines are designed to ensure recommendations are appropriate for our global community while providing enhanced protections for teen users.
 
-We want to provide you with more information about the types of content, accounts and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
+We want to provide you with more information about the types of content, accounts, and entities that we try to avoid recommending, both to keep our community more informed and to provide guidance for content creators about recommendations.
 
 Content recommendations
 -----------------------
@@ -3146,57 +3146,57 @@ There are three categories of content that are allowed on our platforms, but tha
 
 **Content that impedes our ability to foster a safe community, such as:**
 
-1.  Content that discusses self-harm, suicide or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery.](https://www.facebook.com/communitystandards/suicide_self_injury_violence)) We hide certain suicide and self-injury related content to protect teens from potentially distressing or sensitive material. For example, we would age restrict:
+1.  Content that discusses self-harm, suicide, or eating disorders, as well as content that depicts or trivialises themes around death or depression. (We remove content that [encourages suicide or self-injury, or any graphic imagery.](https://www.facebook.com/communitystandards/suicide_self_injury_violence)) We hide certain suicide and self-injury related content to protect teens from potentially distressing or sensitive material. For example, we would age restrict:
     
     *   A post where someone is describing their own personal experiences with suicide, self-injury or eating disorders, except in the context of recovery.
     *   A photo or video showing people in a hospital engaging in euthanasia or assisted suicide.
-    *   A story where someone is talking about their own extreme weight loss behaviour.
+    *   A Story where someone is talking about their own extreme weight loss behavior.
     
-2.  Content that may depict violence, such as people fighting. (We remove [graphically violent content.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fviolent-graphic-content%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fgraphic_violence)) We hide most graphic and disturbing imagery from teens, even if we'd allow it behind a warning screen for adults. For example, we would age restrict:
+2.  Content that may depict violence, such as people fighting. (We remove [graphically violent content.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fviolent-graphic-content%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fgraphic_violence)) We hide most graphic and disturbing imagery from teens, even if we’d allow it behind a warning screen for adults. For example, we would age restrict:
     
-    *   A photo of a severely burned person, which we'd cover with a warning screen for adults.
-    *   A photo or video of shootings, brutality or deadly car crashes.
+    *   A photo of a severely burned person, which we’d cover with a warning screen for adults.
+    *   A photo or video of shootings, brutality, or deadly car crashes.
     
-3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fadult-nudity-sexual-activity%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fadult_nudity_sexual_activity).) We hide additional content from teens that doesn't contain explicit nudity or sexual activity, but could be considered sexually suggestive. For example, we would age restrict:
+3.  Content that may be sexually explicit or suggestive, such as pictures of people in see-through clothing. (We remove content that contains [adult nudity or sexual activity.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Fadult-nudity-sexual-activity%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fadult_nudity_sexual_activity)) We hide additional content from teens that doesn’t contain explicit nudity or sexual activity but could be considered sexually suggestive. For example, we would age restrict:
     
-    *   A post with near nudity, such as nudity covered by digital overlay.
-    *   A photo zoomed in on someone's buttocks.
-    *   A story with sexually suggestive language describing sexual encounters, including the use of sexual metaphors.
+    *   A post with near nudity such as nudity covered by digital overlay.
+    *   A photo zoomed in on someone’s buttocks.
+    *   A Story with sexually suggestive language describing sexual encounters, including the use of sexual metaphors.
     
 4.  Content that promotes the use of certain regulated products, such as tobacco or vaping products, adult products and services, or pharmaceutical drugs. (We remove content that attempts to [sell or trade most regulated goods.](https://l.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2Frestricted-goods-services%2F%3Fsource%3Dhttps%253A%252F%252Fwww.facebook.com%252Fcommunitystandards%252Fregulated_goods)) We hide content from teens that could influence them to engage in activities that are potentially harmful. For example, we would age restrict:
     
-    *   A post offering to sell tobacco, nicotine products, alcohol or firearms when shared by a legitimate brick-and-mortar business.
-    *   A story encouraging people to take psychedelic drugs (also known as entheogens) or cannabis products.
+    *   A post offering to sell tobacco, nicotine products, alcohol, or firearms when shared by a legitimate brick-and-mortar business.
+    *   A Story encouraging people to take psychedelic drugs (also known as entheogens) or cannabis products.
     *   Images with recipes for alcoholic drinks.
     *   A post selling weight loss products or services.
     
-5.  Content that promotes or favourably depicts the use of weight loss products or services and cosmetic surgeries.
-6.  Content shared by any non-recommendable account or entity (e.g. Groups or Pages, as outlined below).
+5.  Content that promotes or favorably depicts the use of weight loss products or services and cosmetic surgeries.
+6.  Content shared by any non-recommendable account or entity (e.g., Groups or Pages, as outlined below).
 
 **Content that is associated with low-quality publishing, such as:**
 
 1.  Unoriginal content that is largely repurposed from another source [without adding material value](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2019%2F04%2Fpeople-publishers-the-community%2F).
 2.  Long captions unrelated to the underlying content and coordinated comment networks intended to artificially drive engagement and distribution.
 
-**False or misleading content, such as:** In countries where Meta supports third-party fact-checking, content including claims that have been found to be false by independent fact-checkers. (We remove misinformation that could cause physical harm or suppress voting.)
+**False or Misleading Content, such as:** In countries where Meta supports third-party fact-checking, content including claims that have been found false by independent fact-checkers. (We remove misinformation that could cause physical harm or suppress voting.)
 
 Account and entity recommendations
 ----------------------------------
 
-We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, groups or events) that:
+We generally do not recommend accounts (including Profiles and Page admins) or entities (such as Pages, Groups, or Events) that:
 
 1.  Recently violated our Community Standards. This does not include accounts or entities that we otherwise remove from our platforms for violating our Community Standards.
-2.  Repeatedly and/or have recently shared content (including the names or cover photos associated with groups or Pages) that we try not to recommend across the categories described in the Content Recommendations section above.
-3.  Repeatedly engaged in misleading practices to build followings, such as purchasing "likes".
-4.  In countries where Meta supports third-party fact-checking, have recently and repeatedly posted "False" and "Altered" information as determined by independent third-party fact-checkers.
-5.  [Are associated with offline movements or organisations that are tied to violence.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F)
-6.  Teens will not be recommended accounts that we've found regularly share age-inappropriate content, or if their name or bio suggests that the account is inappropriate for teens.
+2.  Repeatedly and/or recently shared content (including the names or cover photos associated with groups or Pages) we try not to recommend across the categories described in the Content Recommendations section above.
+3.  Repeatedly engaged in misleading practices to build followings, such as purchasing ‘likes’.
+4.  In countries where Meta supports third-party fact-checking, recently and repeatedly posted “False” and “Altered” information as determined by independent third-party fact-checkers.
+5.  [Are associated with offline movements or organizations that are tied to violence.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F)
+6.  Teens will not be recommended accounts that we’ve found regularly share age-inappropriate content, or if their name or bio suggests the account is inappropriate for teens.
 
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 
-A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found in the [Instagram Help Centre](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content).
+A similar set of these guidelines applies to recommendations on Instagram. Those guidelines can be found in the [Instagram Help Center](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F313829416281232%3Fhelpref%3Dfaq_content).
 
-Related articles
+Related Articles
 ----------------
 
 [Turn Recommendations on or off for your business Page](https://www.facebook.com/help/548274415377576/?helpref=related_articles)
@@ -3209,7 +3209,7 @@ Related articles
 
 [Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
 
-Related articles
+Related Articles
 
 [Turn Recommendations on or off for your business Page
 
@@ -3238,26 +3238,26 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-Terms and policies
+Terms and Policies
 
-Events and Live
+EVENTS AND LIVE
 ---------------
 
-Pages, groups and events
-========================
+Pages, Groups, and Events
+=========================
 
 ### Introduction
 
-The following terms, as well as our , , and , apply to the creators and admins of Pages, groups and events. Note that other terms and policies, including our , may also apply depending on how you use our services.
+The following terms, as well as our , , and , apply to the creators and admins of Pages, groups, and Events. Note that other terms and policies, including our , may also apply depending on how you use our services.
 
   
 
-Pages, groups and events help build communities with common interests. Admins are the leaders, representatives and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
+Pages, groups, and Events help build communities with common interests. Admins act as the leaders, representatives, and caretakers of these communities. Admins are expected to represent themselves authentically and to promote the safety and well-being of their communities.
 
   
 
-When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take against the Page, group or event in which the content appeared.
+When admins create content that violates our policies (or when group admins or moderators approve violating content created by others) we may take against the Page, group, or Event in which the content appeared.
 
-### Policies for Pages, groups and events
+### Policies for Pages, Groups, and Events
 
 * * *
