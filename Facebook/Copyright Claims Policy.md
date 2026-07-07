@@ -896,7 +896,7 @@ Report trademark infringement
 
 What is trademark infringement?
 
-I can't report infringement
+How to fill out form?
 
 I have a different question
 
@@ -1728,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-My content was copied
 
 What is fair use?
 
@@ -2092,7 +2092,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2565,11 +2565,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent online
+Contact DMCA agent
 
-How to report copyright
+Send a DMCA report
 
-DMCA agent mailing address
+What is a complete claim?
 
 I have a different question
 
@@ -2638,9 +2638,9 @@ Copy link
 
 What info to include?
 
-My report was rejected
+My copyright report was rejected
 
-Where do I submit report?
+What is a copyright report?
 
 I have a different question
 
