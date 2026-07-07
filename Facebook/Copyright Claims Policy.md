@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -49,6 +49,14 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
+
+Report trademark infringement
+
+What is Brand Rights Protection?
+
+What do trademarks protect?
+
+I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -896,7 +904,7 @@ Report trademark infringement
 
 What is trademark infringement?
 
-How to fill out form?
+I can't report infringement
 
 I have a different question
 
@@ -1237,9 +1245,9 @@ Copy link
 
 What happens after I report?
 
-I need my report number
+Respond to a report message
 
-Why was my report rejected?
+What info is shared?
 
 I have a different question
 
@@ -1728,11 +1736,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
+
+My content was copied
 
 What is fair use?
 
@@ -2006,11 +2014,9 @@ Copy link
 
 What is copyright infringement?
 
+Can I use content I bought?
+
 What is fair use?
-
-How do I get permission?
-
-What is public domain content?
 
 I have a different question
 
@@ -2092,7 +2098,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-Can I use copyrighted material?
+How is fair use determined?
 
 I have a different question
 
@@ -2565,11 +2571,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Contact DMCA agent online
 
-Send a DMCA report
+How to report copyright
 
-What is a complete claim?
+DMCA agent mailing address
 
 I have a different question
 
@@ -2638,9 +2644,9 @@ Copy link
 
 What info to include?
 
-My copyright report was rejected
+My report was rejected
 
-What is a copyright report?
+Where do I submit report?
 
 I have a different question
 
