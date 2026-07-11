@@ -813,8 +813,6 @@ Pursuing or facilitating inappropriate adult–child relationships is not accept
 
 Concerns about child safety are reviewed and appropriate actions are taken as a matter of priority. Instances we believe to be child pornography, including information brought to our attention through requests for nonpublic user information, are reported to the [National Center for Missing and Exploited Children](https://www.missingkids.com/home) (NCMEC), in line with our . If your request has already been reported to NCMEC or relates to a case being handled by NCMEC, please include the case or report information in your request. The Foundation may also take additional actions against individuals found be engaging in such activities such as alerting local or international law enforcement.
 
-  
-
 Secondary office actions
 ------------------------
 
@@ -957,4 +955,4 @@ If you think that the office actions listed under this policy have been abused, 
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Office\_Actions\_Policy&oldid=558453](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Office_Actions_Policy&oldid=558453)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Office\_Actions\_Policy&oldid=588164](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Office_Actions_Policy&oldid=588164)"
