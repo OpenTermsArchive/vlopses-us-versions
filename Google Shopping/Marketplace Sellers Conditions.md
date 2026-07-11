@@ -3211,6 +3211,17 @@ Demand Gen product ads format requirements
 
 **Note**: Google provides translated versions of our Help Center. They are not meant to change the content of our policies. The English version is the official language we use to enforce our policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
+**Label assets that are AI edited or created**
+
+AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
+
+Add labels directly to your creatives or use the AI label setting, which will launch gradually throughout July in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
+
+**Notes**
+
+*   These labels will not be in violation of [Google policies prohibiting text overlays](https://support.google.com/adspolicy/answer/10347108) and watermarks.
+*   Use of the AI label setting in Google’s advertising products doesn't guarantee your compliance with specific regulations. Seek legal guidance and take measures as needed to [ensure your ads and assets follow all local legal obligations and policies](https://support.google.com/adspolicy/answer/6023676)
+
 All Demand Gen product ads must comply with our [advertising policies](https://support.google.com/adspolicy/answer/6008942) and our [Shopping ads policies](https://support.google.com/merchants/answer/6149970). This article outlines the additional requirements your products must meet to serve as a Demand Gen product ad.
 
 Demand Gen and Shopping campaigns combine audience targeting features and visually engaging formats to help you better personalize your ads within Google's feeds to inspire customer action. This article outlines the requirements Demand Gen product ad assets (headline, description, or image) must meet for your Demand Gen and Shopping campaigns to serve.
@@ -4097,6 +4108,17 @@ Examples of prohibited content include replica, imitation, knock-off or other no
 
 Product Ratings policies
 ========================
+
+**Label assets that are AI edited or created**
+
+AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
+
+Add labels directly to your creatives or use the AI label setting, which will launch gradually throughout July in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
+
+**Notes**
+
+*   These labels will not be in violation of [Google policies prohibiting text overlays](https://support.google.com/adspolicy/answer/10347108) and watermarks.
+*   Use of the AI label setting in Google’s advertising products doesn't guarantee your compliance with specific regulations. Seek legal guidance and take measures as needed to [ensure your ads and assets follow all local legal obligations and policies](https://support.google.com/adspolicy/answer/6023676)
 
 We strive to provide shoppers with access to transparent, authentic, and helpful product reviews to support a trustworthy shopping ecosystem.
 
