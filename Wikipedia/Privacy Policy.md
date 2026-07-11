@@ -1116,7 +1116,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_publication\_guidelines&oldid=556207](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_publication_guidelines&oldid=556207)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Legal:Data\_publication\_guidelines&oldid=588140](https://foundation.wikimedia.org/w/index.php?title=Legal:Data_publication_guidelines&oldid=588140)"
 
 - - -
 
