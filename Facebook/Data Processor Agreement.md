@@ -41,7 +41,7 @@ Effective Date: August 23, 2025
 
 - - -
 
-We’re updating this page. To preview the new terms, please click [here](https://www.facebook.com/legal/terms/Privacy/GDTA/preview). These changes will go into effect on August 10, 2026
+We’re updating this page. To preview the new terms, please click [here](https://www.facebook.com/legal/terms/Privacy/GDTA/preview). These changes will go into effect on August 21, 2026
 
   
   
