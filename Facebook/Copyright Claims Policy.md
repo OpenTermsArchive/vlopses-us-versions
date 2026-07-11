@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is trademark?
+What is a trademark?
 
 I have a different question
 
@@ -49,14 +49,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 
 Trademark
 =========
-
-Report trademark infringement
-
-What is Brand Rights Protection?
-
-What do trademarks protect?
-
-I have a different question
 
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
@@ -1245,9 +1237,9 @@ Copy link
 
 What happens after I report?
 
-Respond to a report message
+I need my report number
 
-What info is shared?
+Why was my report rejected?
 
 I have a different question
 
@@ -2014,9 +2006,11 @@ Copy link
 
 What is copyright infringement?
 
-Can I use content I bought?
-
 What is fair use?
+
+How do I get permission?
+
+What is public domain content?
 
 I have a different question
 
@@ -2188,11 +2182,9 @@ Copy link
 
 Can I violate copyright unintentionally?
 
+What is copyright infringement?
+
 What is fair use?
-
-Can I use downloaded content?
-
-What if I give credit?
 
 I have a different question
 
