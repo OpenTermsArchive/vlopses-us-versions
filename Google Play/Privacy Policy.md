@@ -138,7 +138,7 @@ _**Disclaimer:** Policy summaries and Key Considerations are overviews only; alw
 
 This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
 
-*   To better protect user privacy, we're updating our [Location Permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the [location button](https://android-developers.googleblog.com/2026/03/location-privacy.html) as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
+*   To better protect user privacy, we're updating our [Location Permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the [location button](https://developer.android.com/guide/topics/permissions/private-alternatives/location-button) as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
     (effective October 28, 2026)
     
 
