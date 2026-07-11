@@ -260,7 +260,7 @@ Adding your WhatsApp account to Accounts Center does not impact the privacy of y
 
 WhatsApp relies on Meta’s infrastructure, such as servers, to support people around the world with fast and reliable services. In general, access to WhatsApp personal data is restricted, so it’s only used by other Meta apps to determine how many people we serve and keep people safe, or when a user chooses to use an optional feature that works across Meta products.
 
-WhatsApp in Accounts Center is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta’s business tools. Optional features are always explained clearly in the app so you can make the choice that’s right for you.
+WhatsApp in Accounts Center is one of these optional features. Other optional features include chatting with Meta AI or, if you have not added WhatsApp to Accounts Center, messaging businesses that are using Meta’s business tools. Optional features are always explained clearly in the app so you can make the choice that’s right for you.
 
 What information is collected by WhatsApp when you add your WhatsApp account to Accounts Center
 -----------------------------------------------------------------------------------------------
@@ -288,10 +288,10 @@ Of course, WhatsApp relies on Meta’s infrastructure, such as servers, to suppo
 
 WhatsApp in Accounts Center is one of these optional features. Other optional features include chatting with Meta AI or messaging businesses that are using Meta’s business tools. Optional features are always explained clearly in the app so you can make the choice that’s right for you.
 
-Does adding WhatsApp to Accounts Center affect whether Meta uses your information when you message a business or share your info with them
-------------------------------------------------------------------------------------------------------------------------------------------
+How does Meta use your information when you message a business or share your information with them
+--------------------------------------------------------------------------------------------------
 
-Having your accounts in the same Accounts Center does not affect whether your info is used if you choose to share it with businesses or if you message them on our products.
+When you choose to chat with businesses that are using Meta’s business tools and/or add WhatsApp to Accounts Center, Meta may receive limited information to reduce spam, help businesses send you more relevant messages, and improve Meta ads. As with all optional features, we will always explain this clearly in the app so you can make the choice that’s right for you.
 
 Learn more about [how Meta uses your information across your accounts in the same Accounts Center](https://www.meta.com/help/accounts-center/433719745369721/).
 
