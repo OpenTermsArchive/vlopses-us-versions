@@ -70,7 +70,7 @@ Drop your package off at your nearest Happy Returns/FedEx/USPS/UPS location and 
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/5a98b18104a74118b5146257ddff7774.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/44214fab893b405781f2c147e13708e3.png?imageView2/q/70/format/avif)
 
 Start return
 
@@ -212,8 +212,6 @@ Help
 *   [Safety center](https://www.temu.com/safety-center.html)
 *   [Temu purchase protection](https://www.temu.com/temu-purchase-protection.html)
 *   [Sitemap](https://www.temu.com/sitemap.html)
-*   [How to order](https://www.temu.com/how-to-order.html)
-*   [How to track](https://www.temu.com/how-to-track.html)
 *   [Partner with Temu](https://www.temu.com/partner-with-temu.html)
 
 Start Selling to Millions of Buyers on Temu
