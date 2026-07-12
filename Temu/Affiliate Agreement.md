@@ -24,7 +24,7 @@ Capitalized terms used in the Policy shall have the following meanings
 
 (v) A “Temu User” refers to a New App User, a New Web User, an Existing App User (if applicable), or an Existing Web User (if applicable).
 
-(vi) “Referral Link/Code” refers to a unique link/code we generate for each Affiliate and can be found on the Program page after you join the Program. You may only earn Affiliate Benefits on users referred through the Traffic Source approved by Temu (as defined below) via your Affiliate Link. In addition to the Traffic Sources listed on the Program page, other Traffic Source may also be accepted at our sole discretion. Further, not all links or posts under an approved Traffic Source/Channel will necessarily be acceptable. You may contact us for further details. No Traffic Source restrictions apply to referrals made using a Referral Code.
+(vi) “Referral Link/Code” refers to a unique link/code we generate for each Affiliate and can be found on the Program page after you join the Program. You may only earn Affiliate Benefits on users referred through the Traffic Source approved by Temu (as defined below) via your Affiliate Link. In addition to the Traffic Sources listed on the Program page, other Traffic Source may also be accepted at our sole discretion. Further, not all links or posts under an approved Traffic Source/Channel will necessarily be acceptable. You may contact us for further details. Subject to the terms and conditions of this Policy , no specific Traffic Source restrictions apply to referrals made using a Referral Code.
 
 (vii) “Qualifying Actions” means an action made by a New App User or New Web User invited by an Affiliate after having accessed the Referral Link/Code, that results in the Affiliate earning any Affiliate Benefits, including without limitation the purchase of a Qualifying Order.
 
@@ -247,7 +247,7 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 2\. Your Affiliate Benefits will be rounded to 2 decimal places.
 
-3\. Your Commission will be credited to your “Pending” balance 2 days following the placement of each Qualifying Order. We will verify your Commission for a Qualifying Order after the order delivery has been confirmed. The verification period will be displayed on the applicable Program page and may vary depending on the Commission. During this period, the Commission will remain pending and cannot be withdrawn until it is verified and shown as “Available.”
+3\. Your Commission will be credited to your “Pending” balance 2 days following the placement of each Qualifying Order. We will verify your Commission for a Qualifying Order after the order delivery has been confirmed.The verification period will be displayed on the applicableProgram pageand mayvary depending on the Commission.During this period, the Commission will remain pending and cannot be withdrawn until it is verified and shown as “Available.”
 
 4\. Only Affiliate Earnings shown as your “Available Earnings” are eligible for withdrawal.You may choose to withdraw your “Available Earnings” as [Temu Credits](https://www.temu.com/temu-credit-balance-policy.html) to your Temu account, or as cash via PayPal.You can withdraw the Affiliate Earnings in your “Available” account only if the balance is over $20. No withdrawal is allowed if the balance is less than $20. The full balance of your “Available” account must be withdrawn; partial withdrawals are not permitted.
 
@@ -276,8 +276,6 @@ Temu may offer one or more withdrawal methods (e.g., PayPal,Temu credit, dependi
 8\. If the withdrawal method you choose involves different currencies, the applicable exchange rate shall be subject to the rate displayed on the withdrawal page at the time of withdrawal.
 
 9\. To withdraw the Affiliate Earnings in your “Available” account as cash, you need to provide and verify your withdrawal information—such as your account details, mobile phone number, and beneficiary name—based on the withdrawal method you choose. It may take a few days to receive your payment, depending on the processing time of the selected method.
-
-If you are designated as a promoter for a specific channel (e.g., a Facebook Group admin), you acknowledge and agree that commissions will only be awarded for New Users and Qualifying Orders that are directly traceable and attributed to the specific channel link(s) you have registered and have been approved by Temu. Temu's tracking and attribution data shall be final and conclusive in determining the source of traffic and eligibility for commission.
 
 Exhibit B – Endorsement Guideline
 ---------------------------------
