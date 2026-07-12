@@ -1449,9 +1449,7 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Reported content by mistake
-
-I can't withdraw my report
+How to use Retraction Form?
 
 I have a different question
 
@@ -1728,11 +1726,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-My content was copied
 
 What is fair use?
 
@@ -2092,7 +2090,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-How is fair use determined?
+Can I use copyrighted material?
 
 I have a different question
 
@@ -2182,9 +2180,11 @@ Copy link
 
 Can I violate copyright unintentionally?
 
-What is copyright infringement?
-
 What is fair use?
+
+Can I use downloaded content?
+
+What if I give credit?
 
 I have a different question
 
