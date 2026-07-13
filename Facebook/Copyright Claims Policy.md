@@ -1449,9 +1449,7 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-Reported content by mistake
-
-I can't withdraw my report
+How to use Retraction Form?
 
 I have a different question
 
@@ -2426,13 +2424,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-What is DMCA?
+File a DMCA counter-notification
 
-How do I file a counter-notification?
+My content was removed
 
-My content was removed by mistake
+What happens after counter-notification?
 
-How long does DMCA process take?
+How long does restoration take?
 
 I have a different question
 
