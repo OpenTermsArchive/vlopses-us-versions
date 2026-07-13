@@ -3122,7 +3122,7 @@ What content does Facebook recommend?
 
 What content is not recommended?
 
-What are recommendation guidelines?
+Why was my content not recommended?
 
 I have a different question
 
