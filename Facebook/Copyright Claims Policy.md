@@ -461,15 +461,15 @@ What is a counterfeit?
 
 Copy link
 
-举报仿冒品
+Report counterfeit goods
 
-什么是仿冒品？
+What is trademark infringement?
 
-仿冒品销售违法吗？
+Is selling counterfeits illegal?
 
-如何在Facebook上举报仿冒品？
+How to identify a counterfeit?
 
-我有其他问题
+I have a different question
 
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
@@ -2426,13 +2426,13 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
-File a DMCA counter-notification
+What is DMCA?
 
-My content was removed
+How do I file a counter-notification?
 
-What happens after counter-notification?
+My content was removed by mistake
 
-How long does restoration take?
+How long does DMCA process take?
 
 I have a different question
 
@@ -2565,11 +2565,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Contact DMCA agent online
 
-Send a DMCA report
+How to report copyright
 
-What is a complete claim?
+DMCA agent mailing address
 
 I have a different question
 
