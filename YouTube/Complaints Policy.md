@@ -9,6 +9,8 @@ If your complaint is not about privacy, select your country/region of dispute fr
 
 Fill out this [form](https://support.google.com/youtube/contact/other_legal).
 
+**To report content containing non-consensual intimate imagery (NCII) and request its removal under the US TAKE IT DOWN Act (TIDA)**, please submit a removal request using this [form](https://support.google.com/youtube/contact/NCII).
+
 #### If you can't find your country/region in the menu above
 
 YouTube.com is governed by U.S. law. As such, we do not accept legal complaints from the country/region of your claimed rights. We recommend that you pursue any claims you may have directly against the individual who posted the content. You can try to [get in touch with the uploader](https://support.google.com/youtube/answer/57955). If your lawsuit results in a decision against the individual who posted the content, and if that court order requires us to remove the content from our service, we'll respond accordingly.
