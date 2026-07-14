@@ -209,7 +209,7 @@ In addition to the rights described in “What Are Your Privacy Rights and How t
 9\. Contact Us
 --------------
 
-If you have questions or concerns regarding any information in this Privacy Policy, please contact us at our dedicated [Privacy Center](https://digitaladvertisingalliance.org/principles "https://digitaladvertisingalliance.org/principles") ​or via email to privacy@sheingroup.com.
+If you have questions or concerns regarding any information in this Privacy Policy, please contact us at our dedicated [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html "https://us.shein.com/Privacy-Center-a-1045.html") ​or via email to privacy@sheingroup.com.
 
 Our Privacy Office can also be contacted via our postal address:
 
@@ -584,7 +584,7 @@ In addition to the rights described in “What Are Your Privacy Rights and How t
 9\. Contact Us
 --------------
 
-If you have questions or concerns regarding any information in this Privacy Policy, please contact us at our dedicated [Privacy Center](https://digitaladvertisingalliance.org/principles "https://digitaladvertisingalliance.org/principles") ​or via email to privacy@sheingroup.com.
+If you have questions or concerns regarding any information in this Privacy Policy, please contact us at our dedicated [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html "https://us.shein.com/Privacy-Center-a-1045.html") ​or via email to privacy@sheingroup.com.
 
 Our Privacy Office can also be contacted via our postal address:
 
