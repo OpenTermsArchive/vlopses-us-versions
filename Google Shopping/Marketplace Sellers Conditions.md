@@ -205,7 +205,7 @@ About our policies
 > 
 > Advertisers have a responsibility to not promote content, or engage in behavior that risks harm to our users, employees, or the Ads ecosystem. If we find such content or behavior, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
@@ -512,7 +512,7 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
@@ -2714,7 +2714,7 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
@@ -3402,7 +3402,7 @@ Confusing text
 
 > Assets that contain excessive details like product codes, SKU, or part numbers that aren’t part of the product name
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
@@ -4357,7 +4357,7 @@ Vehicle ads from the following advertisers are available as beta features:
 
 **Note**: Beta features for vehicle ads are being tested and expanded. Participation in beta features may initially only be available to certain vehicle advertisers. Performance in beta countries may differ from that of non-beta countries. Beta features may not be eligible to show everywhere, can change at any time, and may never be fully launched. If you wish to participate in these beta features, fill out this [form](https://support.google.com/merchants/answer/12033031) to submit your interest.
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
@@ -4466,7 +4466,7 @@ Gambling content
 
 > YouTube Shopping ads and App ads that depict or reference gambling-related content, including lottery, offline gambling, online gambling, online non-casino games, and social casino games
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
