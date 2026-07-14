@@ -1449,7 +1449,9 @@ Withdraw my IP report
 
 Cancel my copyright report
 
-How to use Retraction Form?
+Reported content by mistake
+
+I can't withdraw my report
 
 I have a different question
 
