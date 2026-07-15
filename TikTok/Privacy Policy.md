@@ -2,13 +2,11 @@ U.S.
 
 Privacy Policy
 
-_Last updated: February 5, 2026_
-
-  
+_Last updated: July 15, 2026_
 
 This Privacy Policy applies to TikTok services (the “Services”), which include TikTok apps, websites, software, and related services, accessed via any platform or device, that link to this Privacy Policy, as well as TikTok Ad Network. The Services are operated by TikTok USDS Joint Venture LLC (“TikTok USDS Joint Venture”, “we” or “us”).
 
-We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users and other individuals in connection with the Services. For information about how we collect, use, share, and otherwise process consumer health data as defined under Washington’s My Health My Data Act and other similar state laws, please refer to the [Consumer Health Data Privacy Policy](https://www.tiktok.com/legal/us-consumer-health-data).
+We are committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users and other individuals in connection with the Services. For information about how we collect, use, share, and otherwise process consumer health data as defined under Washington’s My Health My Data Act and other similar state laws, please refer to the [Consumer Health Data Privacy Policy](https://www.tiktok.com/legal/us-consumer-health-data). If you are a teen, please see the [Privacy Policy - Teen Summary](https://www.tiktok.com/legal/privacy-policy-teen-summary-us) for a summary of this Privacy Policy.
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given to them in the [Terms of Service](https://www.tiktok.com/legal/terms-of-service).
 
@@ -46,7 +44,7 @@ We automatically collect certain information from you when you use the Services,
 *   Location information about your approximate location based on your device and network information, such as SIM card region, IP address, and device system settings. We also collect information, such as tourist attractions, shops, or other points of interest, if you choose to add the location to your user content. Also, if you choose to enable location services for the TikTok app within your device settings, we collect approximate or precise location information from your device. You can turn off location services from your device settings at any time. Click [here](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/location-services-on-tiktok) to learn more about how we collect location information.
 *   Content characteristics and features, including about the videos, images and audio recordings that are part of your user content, for example, by identifying objects and scenery; the existence and location of a face and other body parts; and the text of words spoken in your user content. We may collect this information to enable special video effects, for content moderation, for demographic classification, for content and ad recommendations, and for other non-personally-identifying operations. We may collect biometric identifiers and biometric information as defined under US laws, such as faceprints and voiceprints, from your user content. Where required by law, we will seek any required permissions from you prior to any such collection. Click [here](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/how-we-process-face-and-voice-information) to learn more.
 *   Metadata that is automatically uploaded in connection with your user content, messages, or AI interactions, such as how, when, where, and by whom the user content was created, or message or prompt was sent. Metadata may also include information, such as your username, that enables your user content to be traced back to your account by other users.
-*   Cookies and other similar technologies (e.g., web beacons, flash cookies, pixels, SDKs, etc.) that we and our service providers and business partners use to provide certain features and functionalities, including to measure and analyze how you use the Services, including which pages you view most often and how you interact with content; enhance your experience using the Services; improve the Services; provide you with advertising; and promote the Services on other websites and apps. To learn how to disable certain Cookies, see the “[Your Rights and Choices](#yourchoices)” section below.
+*   Cookies and other similar technologies (e.g., web beacons, flash cookies, pixels, SDKs, etc.) that we and our service providers and business partners use to provide certain features and functionalities, including to measure and analyze how you use the Services, including which pages you view most often and how you interact with content; enhance your experience using the Services; improve the Services; provide you with advertising; and promote the Services on other websites and apps. To learn how to disable certain Cookies, see the “[Your Rights and Choices](https://www.tiktok.com/legal/page/us/privacy-policy/en#yourchoices)” section below.
 
 ### **Information From Other Sources**
 
@@ -62,7 +60,7 @@ We may receive the information described in this Privacy Policy from other sourc
 **How We Use Your Information**
 -------------------------------
 
-We use the [Information We Collect](#informationwecollect) for the following purposes:
+We use the [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) for the following purposes:
 
 *   To operate and administer the Services, such as enabling you to create, share, and consume content and to interact with other users and their content, and providing user support.
 *   To review, support, improve, and develop the Services, and train, test, and improve technology, such as machine learning models and algorithms, including by analyzing how people are using the Services; conducting research; soliciting feedback; monitoring your activity and usage across the devices you use to access the Services; and scanning, analyzing, and reviewing user content, messages, AI interactions, and associated metadata.
@@ -78,39 +76,39 @@ We use the [Information We Collect](#informationwecollect) for the following pur
 *   To enforce our [Terms of Service](https://www.tiktok.com/legal/terms-of-service), [Community Guidelines](https://www.tiktok.com/community-guidelines), and other conditions and policies that apply to you and to protect the safety of our community and integrity of the Services, including by scanning, analyzing, and reviewing user content, messages, AI interactions, and associated metadata.
 *   To comply with our legal obligations and defend our legal rights and commercial interests, and those of our affiliates, users, and the public.
 *   For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
-*   To combine [Information We Collect](#informationwecollect) for any of the foregoing purposes.
-*   To aggregate or de-identify [Information We Collect](#informationwecollect).
+*   To combine [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) for any of the foregoing purposes.
+*   To aggregate or de-identify [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect).
 
 **Profiling:** We do not engage in profiling which results in legal or similarly significant effects, as defined under applicable law.
 
 **How We Share Your Information**
 ---------------------------------
 
-We are committed to maintaining your trust, and while we do not sell your personal information or share your personal information with third parties for purposes of cross-context behavioral advertising where restricted by applicable law, we want you to understand when and with whom we may share the [Information We Collect](#informationwecollect) for the purposes described below. Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.
+We are committed to maintaining your trust, and while we do not sell your personal information or share your personal information with third parties for purposes of cross-context behavioral advertising where restricted by applicable law, we want you to understand when and with whom we may share the [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) for the purposes described below. Please note that information disclosed to certain third parties may be processed in accordance with their privacy policies.
 
 ### **Service Providers and Business Partners**
 
-We share [Information We Collect](#informationwecollect) with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. Examples of such service providers and business partners include:
+We share [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) with service providers and business partners as necessary to help us perform business operations and for business purposes, including research, payment processing and transaction fulfillment, administering contests and special offers, technology services, deliveries, sending communications, advertising and marketing services, analytics, measurement, data storage and hosting, disaster recovery, and search engine optimization. Examples of such service providers and business partners include:
 
 *   TT Commerce & Global Services LLC and its affiliates (“TT Commerce & Global Services”), to facilitate a global and interoperable experience, and for other permitted business purposes. We only share specific categories of information consistent with applicable law, including Executive Order 14352 and any compliance obligations thereunder.
-*   Payment processors and transaction fulfillment providers, who may receive certain [Information You Provide](#informationyouprovide), [Automatically Collected Information](#automaticallycollectedinformation), and Information From Other Sources, including, in particular, the following third-party payment providers/processors: PayPal ([https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)) and Stripe ([https://stripe.com/en-ie/privacy](https://stripe.com/en-ie/privacy)).
-*   Customer and technical support providers, who may receive certain [Information You Provide](#informationyouprovide), [Automatically Collected Information](#automaticallycollectedinformation), and [Information From Other Sources](#informationfromothersources).
-*   Advertising, marketing, and analytics partners, who may receive certain [Information You Provide](#informationyouprovide), [Automatically Collected Information](#automaticallycollectedinformation), and [Information From Other Sources](#informationfromothersources) for the purpose of providing their services.
-*   Users of our analytics services, who may receive aggregated statistics and insights to understand user engagement. For example, creators, advertisers and sellers can receive information about the number of views, likes, comments and shares of their content, as well as information to understand their followers, buyers and the audience of their content. We may create this aggregate information using [Information You Provide](#informationyouprovide) and [Automatically Collected Information](#automaticallycollectedinformation).
-*   Sellers and their service providers, who may receive certain [Information You Provide](#informationyouprovide), [Automatically Collected Information](#automaticallycollectedinformation), and [Information From Other Sources](#informationfromothersources) when you make a purchase through our shopping features. We share the information related to your transaction with such entities, as well as certain technical information for security purposes.
-*   Third-party platforms and partners, who may receive certain [Information You Provide](#informationyouprovide), [Automatically Collected Information](#automaticallycollectedinformation), and [Information From Other Sources](#informationfromothersources) depending on the features you use and the permissions you grant. We share your information with these entities to offer you a seamless sign-up, log-in, and content-sharing experience as well as to enable third-party features which allow you to connect your TikTok account.
+*   Payment processors and transaction fulfillment providers, who may receive certain [Information You Provide](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationyouprovide), [Automatically Collected Information](https://www.tiktok.com/legal/page/us/privacy-policy/en#automaticallycollectedinformation), and Information From Other Sources, including, in particular, the following third-party payment providers/processors: PayPal ([https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)) and Stripe ([https://stripe.com/en-ie/privacy](https://stripe.com/en-ie/privacy)).
+*   Customer and technical support providers, who may receive certain [Information You Provide](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationyouprovide), [Automatically Collected Information](https://www.tiktok.com/legal/page/us/privacy-policy/en#automaticallycollectedinformation), and [Information From Other Sources](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationfromothersources).
+*   Advertising, marketing, and analytics partners, who may receive certain [Information You Provide](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationyouprovide), [Automatically Collected Information](https://www.tiktok.com/legal/page/us/privacy-policy/en#automaticallycollectedinformation), and [Information From Other Sources](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationfromothersources) for the purpose of providing their services.
+*   Users of our analytics services, who may receive aggregated statistics and insights to understand user engagement. For example, creators, advertisers and sellers can receive information about the number of views, likes, comments and shares of their content, as well as information to understand their followers, buyers and the audience of their content. We may create this aggregate information using [Information You Provide](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationyouprovide) and [Automatically Collected Information](https://www.tiktok.com/legal/page/us/privacy-policy/en#automaticallycollectedinformation).
+*   Sellers and their service providers, who may receive certain [Information You Provide](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationyouprovide), [Automatically Collected Information](https://www.tiktok.com/legal/page/us/privacy-policy/en#automaticallycollectedinformation), and [Information From Other Sources](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationfromothersources) when you make a purchase through our shopping features. We share the information related to your transaction with such entities, as well as certain technical information for security purposes.
+*   Third-party platforms and partners, who may receive certain [Information You Provide](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationyouprovide), [Automatically Collected Information](https://www.tiktok.com/legal/page/us/privacy-policy/en#automaticallycollectedinformation), and [Information From Other Sources](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationfromothersources) depending on the features you use and the permissions you grant. We share your information with these entities to offer you a seamless sign-up, log-in, and content-sharing experience as well as to enable third-party features which allow you to connect your TikTok account.
 
 ### **Within Our Corporate Group**
 
-We may share [Information We Collect](#informationwecollect) with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy.
+We may share [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) with affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Privacy Policy.
 
 ### **In Connection with a Sale, Merger, or Other Business Transfer**
 
-We may share [Information We Collect](#informationwecollect) in connection with or during negotiations of a corporate transaction, such as a merger, acquisition in full or in part, reorganization, asset sale, or in the unlikely event of bankruptcy.
+We may share [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) in connection with or during negotiations of a corporate transaction, such as a merger, acquisition in full or in part, reorganization, asset sale, or in the unlikely event of bankruptcy.
 
 ### **For Legal Reasons**
 
-We may share [Information We Collect](#informationwecollect) to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries. We may also disclose [Information We Collect](#informationwecollect) to enforce any terms applicable to the Services, and to protect and defend our rights, interests, safety, and security, and those of our affiliates, users, or the public.
+We may share [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) to comply with the law, including to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims, or government inquiries. We may also disclose [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) to enforce any terms applicable to the Services, and to protect and defend our rights, interests, safety, and security, and those of our affiliates, users, or the public.
 
 ### **Users and the Public**
 
@@ -127,7 +125,7 @@ We may share your information for other purposes pursuant to your consent or at 
 **Your Rights and Choices**
 ---------------------------
 
-You may submit a request to know, access, correct or delete the information we have collected from or about you [here](https://www.tiktok.com/legal/report/privacy) or by sending your request to the physical address provided in the “[Contact Us](#contactus)” section below. You may appeal any decision we have made about your request through these same methods. Through your in-app settings, you can directly update your account information, request a copy of your data, or deactivate or delete your account by following the instructions for deactivation [here](https://support.tiktok.com/en/account-and-privacy/deleting-an-account/deactivate-your-account) or deletion [here](https://support.tiktok.com/en/account-and-privacy/deleting-an-account/deleting-an-account). We will not retaliate against you for exercising your rights and choices, although some aspects of the Services may no longer be available to you.
+You may submit a request to know, access, correct or delete the information we have collected from or about you [here](https://www.tiktok.com/legal/report/privacy) or by sending your request to the physical address provided in the “[Contact Us](https://www.tiktok.com/legal/page/us/privacy-policy/en#contactus)” section below. You may appeal any decision we have made about your request through these same methods. Through your in-app settings, you can directly update your account information, request a copy of your data, or deactivate or delete your account by following the instructions for deactivation [here](https://support.tiktok.com/en/account-and-privacy/deleting-an-account/deactivate-your-account) or deletion [here](https://support.tiktok.com/en/account-and-privacy/deleting-an-account/deleting-an-account). We will not retaliate against you for exercising your rights and choices, although some aspects of the Services may no longer be available to you.
 
 You may be entitled, in accordance with applicable law, to submit a request through an authorized agent. To designate an authorized agent to exercise choices on your behalf, please provide evidence that you have given such agent power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. We will respond to your request consistent with applicable law and subject to proper verification. We will verify your request by asking you to send it from the email address associated with your account or to provide information necessary to verify your account.
 
@@ -135,8 +133,8 @@ More information about requests that we have received can be found [here](https:
 
 You can also control the information we collect and opt out of certain activities in the following ways:
 
-*   You may be able to control some of the [Information We Collect](#informationwecollect) by refusing or disabling [cookies](#cookies) through your device browser settings. Because each browser is different, please consult the instructions provided by your browser. Please note that you may need to take additional steps to refuse or disable certain types of cookies. In addition, your choice to disable cookies is specific to the particular browser that you are using when you disable cookies, so you may need to separately disable cookies for each type of browser. Some browsers transmit “do-not-track” signals to websites. Because of differences in how browsers incorporate and activate this feature, we currently do not take action in response to these signals. Please be aware that if you choose to refuse, disable, or delete cookies, some of the functionality of the Services may no longer be available to you. Without this information, we are not able to provide you with all of the requested services.
-*   If you have a TikTok account, you can navigate to “Ads” in your in-app settings to manage how your activity elsewhere online is used to serve you ads on our websites and apps. Using your in-app settings, you can also manage the ads that TikTok Ad Network serves you elsewhere online. If you do not have a TikTok account, you can manage the ads that TikTok Ad Network serves elsewhere online using the webform [here](https://www.tiktok.com/legal/report/privacy), or through the ad notice that appears along with ads that are delivered by the TikTok Ad Network. Your device may have controls that determine what [Information We Collect](#informationwecollect). For example, you can control whether we access your phone contacts in your device settings.
+*   You may be able to control some of the [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect) by refusing or disabling [cookies](https://www.tiktok.com/legal/page/us/privacy-policy/en#cookies) through your device browser settings. Because each browser is different, please consult the instructions provided by your browser. Please note that you may need to take additional steps to refuse or disable certain types of cookies. In addition, your choice to disable cookies is specific to the particular browser that you are using when you disable cookies, so you may need to separately disable cookies for each type of browser. Some browsers transmit “do-not-track” signals to websites. Because of differences in how browsers incorporate and activate this feature, we currently do not take action in response to these signals. Please be aware that if you choose to refuse, disable, or delete cookies, some of the functionality of the Services may no longer be available to you. Without this information, we are not able to provide you with all of the requested services.
+*   If you have a TikTok account, you can navigate to “Ads” in your in-app settings to manage how your activity elsewhere online is used to serve you ads on our websites and apps. Using your in-app settings, you can also manage the ads that TikTok Ad Network serves you elsewhere online. If you do not have a TikTok account, you can manage the ads that TikTok Ad Network serves elsewhere online using the webform [here](https://www.tiktok.com/legal/report/privacy), or through the ad notice that appears along with ads that are delivered by the TikTok Ad Network. Your device may have controls that determine what [Information We Collect](https://www.tiktok.com/legal/page/us/privacy-policy/en#informationwecollect). For example, you can control whether we access your phone contacts in your device settings.
 *   You can opt out of receiving marketing emails by using the “unsubscribe” link or mechanism noted in those emails.
 
 **Data Security and Retention**
@@ -153,7 +151,7 @@ Subject to applicable laws, including Executive Order 14352 and any compliance o
 **Children and Teens**
 ----------------------
 
-The privacy of children is important to us. We provide a separate experience for users under age 13 (“Child” or “Children”) in the United States, in which we collect and process only limited information. Please see our [Children’s Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy) to learn more.
+The privacy of children is important to us. We provide a separate experience for users under age 13 (“Child” or “Children”) (as well as users who are 13 years old in Florida) in the United States, in which we collect and process only limited information. Please see our [Children’s Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy) to learn more.
 
 If we become aware that a Child’s personal information has been collected outside of this separate experience for Children, we will delete this information in accordance with applicable law and terminate the Child’s account. If you believe there is a user of the Services who is below the age of 13 (excluding any users of this separate experience for Children), please contact us at [https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback).
 
@@ -191,12 +189,12 @@ Questions, comments and requests regarding this Privacy Policy should be address
 
 Children's Privacy Policy
 
-_Last updated: January 22, 2026_
+_Last updated: July 15, 2026_
 
 **_For Children_**
 ------------------
 
-TikTok cares about your privacy. Children under the age of 13 in the United States can use TikTok in the Under 13 Experience. When you use the Under 13 Experience, we collect some information from you. This page explains what information we get and how we use it.
+TikTok cares about your privacy. Children under the age of 13 in the United States (as well as users who are 13 years old in Florida) can use TikTok in the Under 13 Experience. When you use the Under 13 Experience, we collect some information from you. This page explains what information we get and how we use it.
 
 ### **What Information Do We Collect from You?**
 
@@ -222,7 +220,7 @@ How long we keep your information depends on several things, such as the type of
 
 ### **What Rights Do You Have?**
 
-You have the right to know, access, correct or delete your information. You can submit a request at [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) or by sending your request to the address provided in the “[Contact Us](#contactus)” section below. Depending on where you live, your parent or guardian can also make these requests for you. If you, or your parent or guardian, do make such a request, we will respond appropriately and will not penalize you for it.
+You have the right to know, access, correct or delete your information. You can submit a request at [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy) or by sending your request to the address provided in the “[Contact Us](https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en#contactus)” section below. Depending on where you live, your parent or guardian can also make these requests for you. If you, or your parent or guardian, do make such a request, we will respond appropriately and will not penalize you for it.
 
 ### **Do You Ever Update This Privacy Policy?**
 
@@ -232,52 +230,54 @@ Yes, we may update this page from time to time, so please check back.
 
 For more information, please review the rest of this Privacy Policy with your parent or guardian.
 
+  
+
 **_For Parents, Guardians, and Other Adults_**
 ----------------------------------------------
 
-TikTok USDS Joint Venture LLC (“TikTok USDS Joint Venture”, “we” or “us”) is committed to protecting the privacy of children. This Children’s Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users under the age of 13 (“Children” or “Child”) on a separate experience of the TikTok services for Children in the United States (the “Under 13 Experience”).
+TikTok USDS Joint Venture LLC (“TikTok USDS Joint Venture”, “we” or “us”) is committed to protecting the privacy of children. This Children’s Privacy Policy explains how we collect, use, share, and otherwise process the personal information of users under the age of 13 (“Children” or “Child”) (as well as users who are 13 years old in Florida) on a separate experience of the TikTok services in the United States (the “Under 13 Experience”).
 
-The Under 13 Experience is designed for Children residing in the United States. It allows Children to engage with TikTok’s fun video features while limiting the information collected from them. Children can view videos from other creators and explore their creativity by capturing their own videos with music and special effects. While Children may save these videos directly to their device, the videos will not be collected by us or viewable by other users. Children also have a more limited interactive experience; for example, they cannot exchange messages with other users, and other users cannot view their profiles.
+The Under 13 Experience allows its users to engage with TikTok’s fun video features while limiting the information collected from them. Users of this experience can view videos from other creators and explore their creativity by capturing their own videos with music and special effects. While users of this experience may save these videos directly to their device, the videos will not be collected by us or viewable by other users. Users of this experience also have a more limited interactive experience; for example, they cannot exchange messages with other users, and other users cannot view their profiles.
 
-### **What Information We Collect from Children**
+### **What Information We Collect from Users of This Experience**
 
-When a Child registers for TikTok, we collect only limited information, including username, password, and birthday.
+When a user registers for the Under 13 Experience on TikTok, we collect only limited information, including username, password, and birthday.
 
-We may also collect certain information automatically from the Child’s device or network, including internet or other network activity information such as IP address, web browser type and version, country-level location, as well as certain usage information, such as video watched and time in the app.
+We may also collect certain information automatically from such a user's device or network, including internet or other network activity information such as IP address, web browser type and version, country-level location, as well as certain usage information, such as video watched and time in the app.
 
-If a Child reaches out to us via the in-app feedback form, we collect the email address that the Child provides solely for the purpose of responding to the inquiry.
+If a user of the Under 13 Experience reaches out to us via the in-app feedback form, we collect the email address that the user provides solely for the purpose of responding to the inquiry.
 
-While certain information we collect from children and subsequently use and disclose may constitute sensitive personal information under applicable state privacy laws, we only process such information in order to provide the Under 13 Experience and within other exemptions under applicable law.
+While certain information we collect from the Under 13 Experience and subsequently use and disclose may constitute sensitive personal information under applicable state privacy laws, we only process such information in order to provide the Under 13 Experience and within other exemptions under applicable law.
 
-### **How We Use Children’s Information**
+### **How We Use Information of Users of This Experience**
 
-We use the information we collect to provide and support our services. For example, we use username and password to authenticate Children. We may use the information that is collected automatically to provide personalized content; serve contextual advertising; perform analytics and troubleshoot; protect the security and integrity of the user and our services; and ensure legal and regulatory compliance. We have technical, contractual, and other reasonable controls in place to help ensure persistent identifiers are used for these permitted purposes.
+We use the information we collect to provide and support our services. For example, we use username and password to authenticate users of the Under 13 Experience. We may use the information that is collected automatically to provide personalized content; serve contextual advertising; perform analytics and troubleshoot; protect the security and integrity of the user and our services; and ensure legal and regulatory compliance. We have technical, contractual, and other reasonable controls in place to help ensure persistent identifiers are used for these permitted purposes.
 
-Children cannot publicly share personal information on the Under 13 Experience, including videos or profile information.
+Users cannot publicly share personal information on the Under 13 Experience, including videos or profile information.
 
 We do not engage in profiling which results in legal or similarly significant effects, as defined under applicable law.
 
-### **How We Share Children’s Information**
+### **How We Share Information of Users of the Under 13 Experience**
 
 We may share the information that we collect as permitted by applicable law. Recipients may include affiliates controlled by, or under common control with, TikTok USDS Joint Venture as necessary for the purposes set forth within this Children’s Privacy Policy, and our service providers as necessary for them to support the internal operations of the Under 13 Experience. We may also share the information that we collect including in connection with a sale, merger or other business transfer, and for legal reasons, to enforce our Terms, and to protect our interests and safety, and those of our service providers, business partners, and community.
 
-TikTok does not sell information from Children to third parties and does not share such information with third parties for the purposes of cross-context behavioral advertising.
+TikTok does not sell information from users of the Under 13 Experience to third parties and does not share such information with third parties for the purposes of cross-context behavioral advertising.
 
 ### **Data Security and Retention**
 
-We make efforts to treat Children’s information securely and in accordance with this policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we take steps to protect this information, we cannot guarantee the security of information transmitted through the TikTok services; any transmission is at the user’s own risk.
+We make efforts to treat user information securely and in accordance with this policy. Unfortunately, the transmission of information via the internet is not completely secure. Although we take steps to protect this information, we cannot guarantee the security of information transmitted through the TikTok services; any transmission is at the user’s own risk.
 
 We employ technical and organizational measures designed to achieve a level of security appropriate to risks of varying likelihood and severity and that take into account the rights and freedoms of users. We maintain these technical and organizational measures and will amend them from time to time to maintain or improve the overall security of our systems.
 
-We retain Children’s information for as long as reasonably necessary to fulfill the purpose for which the information was collected. The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information.
+We retain user information for as long as reasonably necessary to fulfill the purpose for which the information was collected. The retention periods are different depending on different criteria, such as the type of information and the purposes for which we use the information.
 
 Subject to applicable laws, including Executive Order 14352 and any compliance obligations thereunder, TikTok USDS Joint Venture may transmit Children’s information outside of the United States, including for purposes of sharing with recipients as described in this Children’s Privacy Policy.
 
 ### **Your Rights**
 
-A parent or guardian may submit a request to access or delete the information of their Child, as well as a request to appeal a decision we have made about such a request, by contacting us via the webform or the physical address provided in the [Contact Us](#contactus) section below.
+A parent or guardian may submit a request to access or delete the information of their Child, as well as a request to appeal a decision we have made about such a request, by contacting us via the webform or the physical address provided in the [Contact Us](https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en#contactus) section below.
 
-Depending on your state of residence, you (as a parent or guardian) may have the ability to exercise certain rights over your Child's account. For example, you may download account data or exercise other rights in connection with your Child by contacting us via the webform or physical address provided in the [Contact Us](#contactus) section below. We will address these requests in accordance with applicable law and subject to proper validation. We will not retaliate against you or your Child for exercising such rights and choices, although some aspects of the Under 13 Experience may no longer be available to your Child.
+Depending on your state of residence, you (as a parent or guardian) may have the ability to exercise certain rights over your Child's account. For example, you may download account data or exercise other rights in connection with your Child by contacting us via the webform or physical address provided in the [Contact Us](https://www.tiktok.com/legal/page/global/childrens-privacy-policy/en#contactus) section below. We will address these requests in accordance with applicable law and subject to proper validation. We will not retaliate against you or your Child for exercising such rights and choices, although some aspects of the Under 13 Experience may no longer be available to your Child.
 
 ### **Privacy Policy Updates**
 
