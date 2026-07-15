@@ -20,7 +20,7 @@ Report trademark violation
 
 What is copyright?
 
-What is a trademark?
+What is trademark?
 
 I have a different question
 
@@ -341,9 +341,7 @@ What is a trademark registration?
 
 What is a business registration?
 
-Difference between registrations?
-
-Where do I register a trademark?
+USPTO vs. state registration
 
 I have a different question
 
@@ -2500,9 +2498,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
+
+Who can report copyright?
 
 I have a different question
 
@@ -2567,11 +2565,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-Contact DMCA agent
+Contact DMCA agent online
 
-Send a DMCA report
+How to report copyright
 
-What is a complete claim?
+DMCA agent mailing address
 
 I have a different question
 
