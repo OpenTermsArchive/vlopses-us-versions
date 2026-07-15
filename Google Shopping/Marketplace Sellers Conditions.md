@@ -638,28 +638,33 @@ In addition to the requirements above, there may be further restrictions based o
 
 |     |     |     |
 | --- | --- | --- |
-| [Algeria](#algeria) | [Hungary](#hungary) | [Philippines](#philippines) |
-| [Argentina](#argentina) | [India](#india) | [Poland](#poland) |
-| [Australia](#australia) | [Indonesia](#indonesia) | [Portugal](#portugal) |
-| [Austria](#austria) | [Italy](#italy) | [Russia](#russia) |
-| [Bahrain](#bahrain) | [Japan](#japan) | [Saudi Arabia](#saudi) |
-| [Belarus](#belarus) | [Jordan](#jordan) | [Singapore](#singapore) |
-| [Belgium](#belgium) | [Kazakhstan](#kazakhstan) | [Slovakia](#slovakia) |
-| [Brazil](#brazil) | [Kuwait](#kuwait) | [South Korea](#southkorea) |
-| [Canada](#canada) | [Lebanon](#lebanon) | [Spain](#spain) |
-| [Chile](#chile) | [Malaysia](#malaysia) | [Sri Lanka](#sri_lanka) |
-| [Colombia](#colombia) | [Mexico](#mexico) | [Sweden](#sweden) |
-| [Costa Rica](#costa_rica) | [Morocco](#morocco) | [Switzerland](#switzerland) |
-| [Czechia](#czech) | [Myanmar (Burma)](#myanmar) | [Taiwan](#taiwan) |
-| [Dominican Republic](#dominican_republic) | [Netherlands](#netherlands) | [Thailand](#thailand) |
-| [Ecuador](#ecuador) | [New Zealand](#newzealand) | [Tunisia](#tunisia) |
-| [Egypt](#egypt) | [Nicaragua](#nicaragua) | [Turkey](#turkey) |
-| [El Salvador](#el_salvador) | [Norway](#norway) | [Ukraine](#ukraine) |
-| [France](#france) | [Oman](#oman) | [United Arab Emirates](#uae) |
-| [Georgia](#georgia) | [Pakistan](#pakistan) | [United Kingdom](#uk) |
-| [Germany](#germany) | [Panama](#panama) | [United States](#us) |
-| [Greece](#greece) | [Paraguay](#paraguay) | [Uzbekistan](#uzbekistan) |
-| [Hong Kong](#hongkong) | [Peru](#peru) | [Venezuela](#venezuela) |
+| [Algeria](#algeria) | [Hungary](#hungary) | [Pakistan](#pakistan) |
+| [Argentina](#argentina) | [India](#india) | [Panama](#panama) |
+| [Australia](#australia) | [Indonesia](#indonesia) | [Paraguay](#paraguay) |
+| [Austria](#austria) | [Italy](#italy) | [Peru](#peru) |
+| [Bahrain](#bahrain) | [Japan](#japan) | [Philippines](#philippines) |
+| [Belarus](#belarus) | [Jordan](#jordan) | [Poland](#poland) |
+| [Belgium](#belgium) | [Kazakhstan](#kazakhstan) | [Portugal](#portugal) |
+| [Brazil](#brazil) | [Kuwait](#kuwait) | [Russia](#russia) |
+| [Bulgaria](#bulgaria) | [Latvia](#latvia) | [Saudi Arabia](#saudi) |
+| [Bosnia and Herzegovina](#bosniaherzegovina) | [Lebanon](#lebanon) | [Singapore](#singapore) |
+| [Canada](#canada) | [Liechtenstein](#liechtenstein) | [Slovakia](#slovakia) |
+| [Chile](#chile) | [Lithuania](#lithuania) | [South Korea](#southkorea) |
+| [Colombia](#colombia) | [Luxembourg](#luxembourg) | [Spain](#spain) |
+| [Costa Rica](#costa_rica) | [Malaysia](#malaysia) | [Serbia](#serbia) |
+| [Croatia](#croatia) | [Malta](#malta) | [Sri Lanka](#sri_lanka) |
+| [Cyprus](#cyprus) | [Mexico](#mexico) | [Sweden](#sweden) |
+| [Czech Republic](#czech) | [Moldova](#moldova) | [Switzerland](#switzerland) |
+| [Dominican Republic](#dominican_republic) | [Montenegro](#montenegro) | [Taiwan](#taiwan) |
+| [Estonia](#estonia) | [Myanmar (Burma)](#myanmar) | [Thailand](#thailand) |
+| [Ecuador](#ecuador) | [Netherlands](#netherlands) | [Tunisia](#tunisia) |
+| [Egypt](#egypt) | [North Macedonia](#northmacedonia) | [Turkey](#turkey) |
+| [El Salvador](#el_salvador) | [New Zealand](#newzealand) | [Ukraine](#ukraine) |
+| [France](#france) | [North Macedonia](#northmacedonia) | [United Arab Emirates](#uae) |
+| [Georgia](#georgia) | [Nicaragua](#nicaragua) | [United Kingdom](#uk) |
+| [Germany](#germany) | [Norway](#norway) | [United States](#us) |
+| [Greece](#greece) | [Oman](#oman) | [Uzbekistan](#uzbekistan) |
+| [Hong Kong](#hongkong) |     | [Venezuela](#venezuela) |
 
 ### Algeria
 
@@ -716,6 +721,18 @@ In addition to the requirements above, there may be further restrictions based o
 | Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in Brazil. |
 | Polifenol de Alcachofra | Not allowed<br><br>Google doesn't allow the listing of Polifenol de Alcachofra in Brazil. |
 
+###  Bosnia and Herzegovina
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or listing of the "morning after" pill in Bosnia and Herzegovina. |
+
+###  Bulgaria
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or listing of the "morning after" pill in Bulgaria |
+
 ### Canada
 
 | **Product type** | **Details** |
@@ -743,11 +760,24 @@ In addition to the requirements above, there may be further restrictions based o
 | --- | --- |
 | Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Costa Rica. |
 
-### Czechia
+### Croatia
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Croatia. |
+
+  
+Czech Republic
 
 | **Product type** | **Details** |
 | --- | --- |
 | Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the the Státní ústav pro kontrolu léčiv ([State Institute for Drug Control](https://www.sukl.eu/modules/apotheke/search.php?lang=2)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+
+###  Cyprus
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Cyprus. |
 
 ### Dominican Republic
 
@@ -767,6 +797,12 @@ In addition to the requirements above, there may be further restrictions based o
 | --- | --- |
 | Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Egypt. |
 | Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Egypt. |
+
+###  Estonia
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Estonia. |
 
 ### El Salvador
 
@@ -869,6 +905,24 @@ In addition to the requirements above, there may be further restrictions based o
 | Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Lebanon. |
 | Birth control | Not allowed<br><br>Google doesn't allow the promotion of condoms, other contraception products, and fertility products in Lebanon. |
 
+###  Liechtenstein
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Liechtenstein. |
+
+###  Lithuania
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Lithuania. |
+
+###  Luxembourg
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Luxembourg. |
+
 ### Malaysia
 
 | **Product type** | **Details** |
@@ -876,12 +930,30 @@ In addition to the requirements above, there may be further restrictions based o
 | Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listings of the "morning after" pill in Malaysia. |
 | Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Malaysia. |
 
+###  Malta
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Malta. |
+
 ### Mexico
 
 | **Product type** | **Details** |
 | --- | --- |
 | Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the listing of abortion and abortion-related products in Mexico. |
 | Dietetic products | Not allowed<br><br>Google doesn't allow the listing of dietetic products or supplements in Mexico. |
+
+###  Moldova
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Moldova. |
+
+###  Montenegro
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Montenegro. |
 
 ### Morocco
 
@@ -916,6 +988,12 @@ In addition to the requirements above, there may be further restrictions based o
 | **Product type** | **Details** |
 | --- | --- |
 | Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Nicaragua. |
+
+###  North Macedonia
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in North Macedonia. |
 
 ### Norway
 
@@ -989,6 +1067,12 @@ In addition to the requirements above, there may be further restrictions based o
 | --- | --- |
 | Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-inducing drugs, or the listing of the "morning after" pill in Saudi Arabia. |
 | Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Saudi Arabia. |
+
+###  Serbia
+
+| **Product type** | **Details** |
+| --- | --- |
+| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Serbia. |
 
 ### Singapore
 
@@ -1530,8 +1614,8 @@ In addition to the requirements above, there may be further restrictions based o
 |     |     |
 | --- | --- |
 | **Countries** | **Requirements** |
-| Argentina   <br>Australia  <br>Austria  <br>Belgium  <br>Brazil  <br>Cambodia  <br>Canada  <br>Chile  <br>Colombia  <br>Costa Rica  <br>Czechia  <br>Denmark  <br>France  <br>Germany  <br>Ghana  <br>Greece  <br>Hong Kong  <br>Hungary  <br>Ireland  <br>Israel  <br>Italy  <br>Japan  <br>Kenya  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Panama  <br>Peru  <br>Mexico  <br>Philippines  <br>Portugal  <br>Puerto Rico  <br>Romania  <br>Senegal  <br>Singapore  <br>Slovakia  <br>South Africa  <br>Spain  <br>Sweden  <br>Switzerland  <br>Uganda  <br>Ukraine  <br>United Kingdom  <br>United States  <br>Uruguay | Allowed with limitations  <br>In these countries, Google allows the listing of alcohol (including hard alcohol, liquor, beer, wine, champagne, and cider) as long as the requirements outlined above are met. |
-| Algeria  <br>Angola  <br>Bahrain  <br>Bangladesh  <br>Belarus  <br>Cameroon  <br>Cote d’Ivoire  <br>Dominican Republic  <br>Ecuador  <br>Egypt  <br>El Salvador  <br>Ethiopia  <br>Finland  <br>Georgia  <br>Guatemala  <br>India  <br>Indonesia  <br>Jordan  <br>Kazakhstan  <br>Kuwait  <br>Lebanon  <br>Madagascar  <br>Malaysia  <br>Mauritius  <br>Morocco  <br>Mozambique  <br>Myanmar (Burma)  <br>Nepal  <br>Nicaragua  <br>Norway  <br>Oman  <br>Pakistan  <br>Paraguay  <br>Poland  <br>Russia  <br>Saudi Arabia  <br>South Korea  <br>Sri Lanka  <br>Taiwan  <br>Tanzania  <br>Thailand  <br>Tunisia  <br>Turkey  <br>United Arab Emirates  <br>Uzbekistan  <br>Venezuela  <br>Vietnam  <br>Zambia  <br>Zimbabwe | Not allowed  <br>In these countries, Google doesn't allow the listing of any alcoholic beverages, including hard alcohol, liquor, beer, wine, champagne, or cider. |
+| Argentina   <br>Australia  <br>Austria  <br>Belgium  <br>Brazil  <br>Bulgaria  <br>Cambodia  <br>Canada  <br>Chile  <br>Colombia  <br>Costa Rica  <br>Cyprus  <br>Czechia  <br>Denmark  <br>France  <br>Germany  <br>Ghana  <br>Greece  <br>Hong Kong  <br>Hungary  <br>Ireland  <br>Israel  <br>Italy  <br>Japan  <br>Kenya  <br>Luxembourg  <br>Malta  <br>Montenegro  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Panama  <br>Peru  <br>Mexico  <br>Philippines  <br>Portugal  <br>Puerto Rico  <br>Romania  <br>Senegal  <br>Singapore  <br>Slovakia  <br>South Africa  <br>Spain  <br>Sweden  <br>Switzerland  <br>Uganda  <br>Ukraine  <br>United Kingdom  <br>United States  <br>Uruguay | Allowed with limitations  <br>In these countries, Google allows the listing of alcohol (including hard alcohol, liquor, beer, wine, champagne, and cider) as long as the requirements outlined above are met. |
+| Algeria  <br>Angola  <br>Bahrain  <br>Bangladesh  <br>Belarus  <br>Bosnia and Herzegovina  <br>Cameroon  <br>Cote d’Ivoire  <br>Dominican Republic  <br>Ecuador  <br>Egypt  <br>El Salvador  <br>Ethiopia  <br>Finland  <br>Georgia  <br>Guatemala  <br>India  <br>Indonesia  <br>Jordan  <br>Kazakhstan  <br>Kuwait  <br>Lebanon  <br>Liechtenstein  <br>Lithuania  <br>Madagascar  <br>Malaysia  <br>Moldova  <br>Mauritius  <br>Morocco  <br>Mozambique  <br>Myanmar (Burma)  <br>Nepal  <br>Nicaragua  <br>North Macedonia  <br>Norway  <br>Oman  <br>Pakistan  <br>Paraguay  <br>Poland  <br>Russia  <br>Saudi Arabia  <br>Serbia  <br>South Korea  <br>Sri Lanka  <br>Taiwan  <br>Tanzania  <br>Thailand  <br>Tunisia  <br>Turkey  <br>United Arab Emirates  <br>Uzbekistan  <br>Venezuela  <br>Vietnam  <br>Zambia  <br>Zimbabwe | Not allowed  <br>In these countries, Google doesn't allow the listing of any alcoholic beverages, including hard alcohol, liquor, beer, wine, champagne, or cider. |
 
 What you can do
 ---------------
