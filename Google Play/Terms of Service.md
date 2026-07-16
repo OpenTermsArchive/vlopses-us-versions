@@ -193,7 +193,7 @@ Examples of violations
 
 **Example 1:**
 
-![](//storage.googleapis.com/support-kms-prod/u4CL8qzapouZkgqASBdP666d2BC427CceRzo)
+![](//lh3.googleusercontent.com/xR04BTwR-b3iZCvbnsJonS6GOq5eC6RVt6NYI3OytZRKfW5SuvCwHZIp0imEohoj2Q=w600-h1100)
 
 ① Dismiss button is missing or not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
@@ -205,9 +205,9 @@ Examples of violations
 
 **Example 2:**
 
-![](//storage.googleapis.com/support-kms-prod/ZErNX8IBOj6fWaWTN5D5bQuHotBvLAZK4rTu)
+![](//lh3.googleusercontent.com/8yPvR8GMJBHdMymb65ozMIwAtxCCQiYv5M1G5-mJyRL5O-szIzKokacVsHF3o33n_dpv=w895)
 
-![](//storage.googleapis.com/support-kms-prod/Tf5JXZMEw4Xvu12TKHOwQYgDwd2kjykAjSwX)
+![](//lh3.googleusercontent.com/Jtsq27lEz38L9jyfJ2qRS2WsqLXlDxxKl6lLKpGu6djCwThh9Bwing_GacKB2srqid0=w600)
 
 ① Recurring clicks in the same button area causes the user to inadvertently click the final “continue” button to subscribe.
 
@@ -226,7 +226,7 @@ Examples of violations
 *   Offers that do not clearly demonstrate that a user can access content without a trial (when available).
 *   Offer pricing and terms that are incompletely localized.
 
-![](//storage.googleapis.com/support-kms-prod/c9mnO2D5GxsGwy7XpmXhidhRVN0UW4RLcB5g)
+![](//lh3.googleusercontent.com/sM0ebVpPwWJ1Z7KHcrI17sVz9IO8vtTV3mb6wuLD8_OqrgOVW4Y99Jd3PHt9Z5kzUqs=w600-h1100)
 
 ① Dismiss button is missing or not clearly visible and users may not understand that they can access functionality without accepting the subscription offer.
 
@@ -251,7 +251,7 @@ You (as the content or access provider) may implement a more flexible refund pol
 
 Example of violations
 
-![](//storage.googleapis.com/support-kms-prod/jRP3QdXKia08MpKYm6VzO4MCtPVxlhvxXuNY)
+![](//lh3.googleusercontent.com/h_PogN3nwaoFLluGgzVhVWnMz0b95z6M1atCl1O00Fj8Gm6y84UhnaUsqbWh5EOFabI=w600-h1100)
 
 The app is missing a link to manage and cancel subscriptions in the account setting or equivalent page.
 
