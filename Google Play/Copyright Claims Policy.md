@@ -1,6 +1,14 @@
 Intellectual Property
 =====================
 
+_**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
+
+![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+
+This policy prohibits apps and developer accounts from infringing on the intellectual property rights of others, including copyright, trademark, and patents. You must ensure that all content in your app and store listing is either your own original work or that you have the necessary licenses and/or permissions to use it. Please review the full policy to ensure compliance.
+
+![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
+
 We don’t allow apps or developer accounts that infringe on the intellectual property rights of others (including trademark, copyright, patent, trade secret, and other proprietary rights). We also don’t allow apps that encourage or induce infringement of intellectual property rights.
 
 We will respond to clear notices of alleged copyright infringement. For more information or to file a DMCA request, please visit our [copyright procedures](https://support.google.com/legal/troubleshooter/1114905#ts=1115643).
@@ -58,3 +66,12 @@ Trademark infringement is improper or unauthorized use of an identical or simila
 #### Counterfeit
 
 We don't allow apps that sell or promote for sale counterfeit goods. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
+
+![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key Considerations**
+
+|     |     |
+| --- | --- |
+| **Do** | **Don't** |
+| Use only original content you have created for your app and store listing. | Don't use another party's trademarks, such as logos or brand names without permission and/or in a way that could confuse users. |
+| Obtain written documentation or a license for any third-party intellectual property you use. | Don't modify or use copyrighted content without permission. |
+| Contact the Google Play team in advance with notice and documentation if your app uses a third party's intellectual property. | Don't create an app that encourages or facilitates the infringement of intellectual property rights (e.g. unauthorized streaming). |
