@@ -14,13 +14,13 @@ Intellectual Property
 
 Copy link
 
-What is copyright?
-
-What is trademark?
-
 Report copyright violation
 
 Report trademark violation
+
+What is copyright?
+
+What is a trademark?
 
 I have a different question
 
@@ -1732,11 +1732,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-Copyright infringement
 
 I have a different question
 
@@ -2490,11 +2490,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
-
 Contact designated agent
 
-What is copyright infringement?
+Message content poster
 
 I have a different question
 
@@ -2851,8 +2849,6 @@ Protect my intellectual property
 What is Rights Manager?
 
 What is content protection?
-
-Apply for copyright tools
 
 I have a different question
 
