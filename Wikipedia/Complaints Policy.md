@@ -709,6 +709,8 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Zero Contradictions](https://meta.wikimedia.org/wiki/Special:CentralAuth/Zero_Contradictions "m:Special:CentralAuth/Zero Contradictions"), since 25 June 2026
 *   [AsteroidComet](https://meta.wikimedia.org/wiki/Special:CentralAuth/AsteroidComet "m:Special:CentralAuth/AsteroidComet"), since 30 June 2026
 *   [Tomasz Bladyniec](https://meta.wikimedia.org/wiki/Special:CentralAuth/Tomasz_Bladyniec "m:Special:CentralAuth/Tomasz Bladyniec"), since 30 June 2026
+*   [Astrawiki3203](https://meta.wikimedia.org/wiki/Special:CentralAuth/Astrawiki3203 "m:Special:CentralAuth/Astrawiki3203"), since 15 July 2026
+*   [Bugmenot123123123](https://meta.wikimedia.org/wiki/Special:CentralAuth/Bugmenot123123123 "m:Special:CentralAuth/Bugmenot123123123"), since 15 July 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
