@@ -278,7 +278,7 @@ Have any questions about the information here or wish to contact our Data Protec
 
 U.S. State Privacy Notice
 
-**Effective: July 1, 2025**
+**Effective: July 15, 2026**
 
 We’ve created this U.S. State Privacy Notice (“Notice”) to provide additional information for residents of U.S. states that provide for the privacy rights described below as specified under state law. [Our Privacy Principles](https://values.snap.com/privacy/privacy-principles?lang=en-US) and the privacy controls we offer to all users are in line with these laws — this Notice makes sure we cover state-specific requirements. For example, all users can request a copy of their data, request deletion, and control their privacy settings in the app. For the full picture, check out our [Privacy Policy](https://values.snap.com/privacy/privacy-policy?lang=en-US). And if you’re looking for information about Snap’s collection, use, sharing, and processing of “consumer health data” under Washington and, if applicable, other similar U.S. laws, please see our [Consumer Health Data Privacy Policy](https://values.snap.com/privacy/privacy-policy/chd-privacy-policy?lang=en-US).
 
@@ -385,26 +385,26 @@ If you live in California, you also have the right to request to limit the use a
 Transparency is important to us, especially when it comes to helping you understand and exercise your rights under the CCPA. That’s why we’ve published some key metrics below detailing how often our users engage with us to request their CCPA rights and how we respond in kind. Have a look!
 
 **Right to Know  
-**Received: 3  
-Complied with: 3  
+**Received: 16  
+Complied with: 16  
 Denied: 0  
-Average response time: 1 day
+Average response time: 1.1 days
 
 **Right to Delete  
-**Received: 24  
-Complied with: 24  
+**Received: 46  
+Complied with: 46  
 Denied: 0  
-Average response time: 3 days
+Average response time: 1.1 days
 
 **Right to Limit  
-**Received: 7  
-Complied with: 7  
-Average response time: 1 day
+**Received: 2  
+Complied with: 2  
+Average response time: 0.1 days
 
 **Right to Opt-out of Sale  
 **This one is easy. We don’t sell your data, so we don’t process, or collect metrics on, opt-out requests for the sale of consumer data.
 
-The metrics above are for calendar year 2024 (January through December), and represent interactions where users have contacted Snap and explicitly requested to exercise their CCPA rights. Just so you know, users are able to correct their data, [download their data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-US), including Memories and saved Chats, delete their data, in the app or by deleting their account, and exercise their right to limit, as described [here](https://help.snapchat.com/hc/articles/11399265637012?lang=en-US), using our self-serve tools. For example, in 2024, over 10 million users [downloaded their data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-US). We’ll update these numbers from time to time to ensure we are providing you the most up-to-date information.
+The metrics above are for calendar year 2025 (January through December), and represent interactions where users have contacted Snap and explicitly requested to exercise their CCPA rights. Just so you know, users are able to correct their data, [download their data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-US), including Memories and saved Chats, delete their data, in the app or by deleting their account, and exercise their right to limit, as described [here](https://help.snapchat.com/hc/articles/11399265637012?lang=en-US), using our self-serve tools. For example, in 2025, over 10 million users [downloaded their data](https://help.snapchat.com/hc/articles/7012305371156?lang=en-US). We’ll update these numbers from time to time to ensure we are providing you the most up-to-date information.
 
 ### 
 
