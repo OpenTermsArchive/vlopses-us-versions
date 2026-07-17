@@ -614,6 +614,7 @@ The absence of a product or service name or logo from this list does not constit
 | Dynamic Island® | hardware and software feature |
 | EarPods® | headphones |
 | eMac™ | computer |
+| Encounter Dinosaurs® | application program |
 | EnergyKit™ | software framework |
 | EnVerb® | application feature |
 | EtherTalk™ | interface card/network |
@@ -624,6 +625,7 @@ The absence of a product or service name or logo from this list does not constit
 | FairPlay® | software technology |
 | FileVault® | application program |
 | Final Cut® | application program |
+| Final Cut Camera® | application program |
 | Final Cut Pro® | application program |
 | Final Cut Studio™ | application program |
 | Find My® | software feature |
@@ -644,7 +646,7 @@ The absence of a product or service name or logo from this list does not constit
 | HomePod mini® | speaker |
 | HyperCard® | application program |
 | HyperTalk™ | application program |
-| iAd WorkBench® | software |
+| iAd WorkBench™ | software |
 | iBeacon® | location and proximity detection technology |
 | iBook™ | computer |
 | iBooks® | application program |
@@ -691,7 +693,7 @@ The absence of a product or service name or logo from this list does not constit
 | Live Photos® | camera feature |
 | Live Text® | software feature |
 | Live Titles® | software feature |
-| LiveType® | application program |
+| LiveType™ | application program |
 | LocalTalk™ | computer cable system/network |
 | Logic® | application program |
 | Logic Pro® | application program |
@@ -1058,6 +1060,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of June 2, 2026.
+This list includes updates as of July 14, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
