@@ -1152,13 +1152,11 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in report?
+Submit a trademark report
 
-My contact information
+What to include in report
 
-What is a trademark?
-
-Where to find infringing content?
+My trademark was infringed
 
 I have a different question
 
@@ -1642,6 +1640,14 @@ Resolve issues, make changes and get support in real time
 
 Copyright
 =========
+
+Report copyright infringement
+
+Protect my copyrighted work
+
+What is copyright?
+
+I have a different question
 
 These articles provide information about copyrights, including how you can protect your own copyrighted works and avoid infringing the copyrights of others. We also provide information about how Facebook addresses reported copyright infringement. If you believe someone is using your copyrighted work without your permission, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/copyright).
 
@@ -2482,9 +2488,11 @@ Copy link
 
 Report copyright infringement
 
+My copyright was infringed
+
 Contact designated agent
 
-Message content poster
+What is copyright infringement?
 
 I have a different question
 
