@@ -1732,11 +1732,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
+
+Copyright infringement
 
 I have a different question
 
