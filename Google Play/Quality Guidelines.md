@@ -3,11 +3,11 @@ Content Ratings
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
+![](//storage.googleapis.com/support-kms-prod/mnzFjyenPky9CIQLLOjVINm80frPgduvyrWP)**Policy Summary**
 
 All apps must have a content rating from the [IARC](https://www.globalratings.com/) to be on Google Play. You must accurately complete the Play Console questionnaire for every app, and keep it updated if content in the app changes. Please review the full policy to ensure compliance.
 
-![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
+![](//storage.googleapis.com/support-kms-prod/9vOsGjf1MLJLdX41RAT7hMOW0TMAPDdE0cJD) **Full Policy**
 
 Content ratings on Google Play are provided by the [International Age Rating Coalition (IARC)](https://www.globalratings.com/) and are designed to help developers communicate locally relevant content ratings to users. Regional IARC authorities maintain guidelines which are used to determine the maturity level of the content in an app. We don’t allow apps without a content rating on Google Play. Note that any ads that appear in the app must not be significantly more mature in content than the primary content within the app itself. Refer to [Inappropriate Ads](https://support.google.com/googleplay/android-developer/answer/9857753#inappropriatem/googleplay/android-developer/answer/9857753) policy for more information.
 
@@ -31,7 +31,7 @@ For more information on the questionnaire, visit the [Help Center](https://suppo
 
 If you do not agree with the rating assigned to your app, you can appeal directly to the IARC rating authority using the link provided in your certificate email.
 
-![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key Considerations**
+![](//storage.googleapis.com/support-kms-prod/9B2Sqd9OZ9ln7qXLJLiNLhqLQTHRQZKDDRpa) **Key Considerations**
 
 |     |     |
 | --- | --- |
@@ -252,7 +252,7 @@ GRAC - South Korea
 | ![](//lh3.googleusercontent.com/rhjLX0J_v90cDcw3zwoixzECfYuAh9Qxn1BTCbVMDJbBUJBCGc2vcSZwFCv7Y5tzVg=w24) | **For all**<br><br>Titles rated ALL have content that may be suitable for all ages. |
 | ![](//lh3.googleusercontent.com/qxojeobrTQPGUuA80lcIjWjJd7JOXgdypZ6vx6AdENq_wAh1D-SGzVuMZ2-xqNA_ZFc=w24) | **Rated 12+**<br><br>Titles rated 12+ have content that may be suitable for ages 12 and older. |
 | ![](//lh3.googleusercontent.com/sNVsggP1c_Pw4r68wvgAPlujjy0fdMi7YBW0Ky--PjbV75fQbQUMGl0pnF5yqyB71-xA=w24) | **Rated 15+**<br><br>Titles rated 15+ have content that may be suitable for ages 15 and older. |
-| ![](//lh3.googleusercontent.com/l5mIJCkmI_Y4UIzEE_qIumeDKFSnhseOBTq-lh6ArxE7HOMPR2zpS0g1X-Qc2yBN0g=w48-h54) | **Rated 19+**<br><br>Titles rated 19+ have content that may be suitable for ages 19 and older. |
+| ![](//storage.googleapis.com/support-kms-prod/9htDVISL1T4w64QMK0X83DBjaNtGrklI8w5M) | **Rated 19+**<br><br>Titles rated 19+ have content that may be suitable for ages 19 and older. |
 
 Learn more on the [GRAC website](http://www.grac.or.kr/english/)
 
@@ -282,7 +282,7 @@ The content rating system for apps (not including games) in South Korea is based
 | ![7](//storage.googleapis.com/support-kms-prod/1FD10010B4BC6C586BD13970156B5D5CB337) | **Rated 7+**<br><br>May not be suitable for children under age 7. Note that apps with this rating may not be specifically designed for children. |
 | ![12](//storage.googleapis.com/support-kms-prod/93A85B58FEF95440A0AA9D0497F3F89C4250) | **Rated 12+**<br><br>May not be suitable for children under age 12. |
 | ![](//lh3.googleusercontent.com/rJjri5RqUGT8M73wQPv7iFs3vEXnb93j0EDpYPL-7hawyIq1rrxZa2qKUoWlMpeLmRM=w24) | **Rated 16+**<br><br>May not be suitable for children under age 16. |
-| ![18](//lh3.googleusercontent.com/Pe2t9jaiaVKfF4HsbRYDdvIjlQHv8Uv9J3MzCzjWJr1Si0uO1lPyREO7TNyaKllPFQ=w48) | **Rated 19+**<br><br>Recommended for mature audiences only. |
+| ![18](//storage.googleapis.com/support-kms-prod/t0ZmwbTfcCVzj0Lq0Jwiq6SBwoWZFz4UEikM) | **Rated 19+**<br><br>Recommended for mature audiences only. |
 
 Google Play Rating - Applies in Russia
 
