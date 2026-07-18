@@ -1152,11 +1152,13 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-Submit a trademark report
+What to include in report?
 
-What to include in report
+My contact information
 
-My trademark was infringed
+What is a trademark?
+
+Where to find infringing content?
 
 I have a different question
 
@@ -1598,19 +1600,23 @@ Related Articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
+[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+
 [Does Facebook sell my information?](https://www.facebook.com/help/152637448140583/?helpref=related_articles)
 
 [How can I make sure the content I post to Facebook doesn’t violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
-[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
 Related Articles
 
 [Repeated intellectual property infringement on Facebook
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[Tools Facebook provides to help protect your intellectual property
+
+* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 [Does Facebook sell my information?
 
@@ -1620,11 +1626,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[Data scraping and what can you do to protect your information on Facebook
-
-* * *](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
-
-[How can I make sure the content I post to Facebook doesn't violate copyright law?](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+[Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1730,11 +1732,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-Copyright infringement
 
 I have a different question
 
@@ -2276,7 +2278,7 @@ Related Articles
 
 [How Facebook determines which videos are For You](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+[Ask to edit or remove a video you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 Related Articles
 
@@ -2296,7 +2298,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
-[Tools Facebook provides to help protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
+[Ask to edit or remove a video you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
