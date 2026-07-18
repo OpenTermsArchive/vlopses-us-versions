@@ -30,10 +30,6 @@ The Enforcement Guidelines provide a framework for the interaction of current an
 
 The original version of the UCoC Enforcement Guidelines is in English. It is translated into various languages used on Wikimedia projects. The Wikimedia Foundation makes its best efforts to have accurate translations. If any difference arises in the meaning between the English version and a translation, decisions by the U4C must be based on the English version.
 
-### 1.2 Review of the UCoC Enforcement Guidelines
-
-The Universal Code of Conduct Coordinating Committee leads annual reviews of the UCoC Enforcement Guidelines.
-
 2\. Preventive work
 -------------------
 
@@ -143,17 +139,17 @@ Communities handle enforcement through existing means where they do not conflict
 This section details a non-complete list of the different types of violations, along with the potential enforcement mechanism pertaining to it.
 
 *   Violations involving threats of any sort of physical violence
-    *   Handled by the Wikimedia Trust & Safety team
+    *   Handled by the Wikimedia [Trust & Safety team](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Foundation/Legal/Community_Resilience_and_Sustainability/Trust_and_Safety "m:Special:MyLanguage/Wikimedia Foundation/Legal/Community Resilience and Sustainability/Trust and Safety")
 *   Violations involving litigation or legal threats
-    *   Sent to the Wikimedia Foundation Legal team, or, when appropriate, other professionals who can appropriately evaluate the merit of the threats
-*   Violations involving the nonconsensual disclosure of personally identifiable information
+    *   Sent to the Wikimedia Foundation [Legal team](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Foundation/Legal "m:Special:MyLanguage/Wikimedia Foundation/Legal"), or, when appropriate, other professionals who can appropriately evaluate the merit of the threats
+*   Violations involving the nonconsensual disclosure of non-public personal data
     *   Generally handled by users with oversight or edit suppression permissions
     *   Occasionally handled by Trust & Safety
     *   Sent to the Wikimedia Foundation Legal team or, when appropriate, other professionals who can appropriately evaluate the merits of the case if this kind of violation invokes a legal obligation
 *   Violations related to affiliate governance
-    *   Handled by the Affiliations Committee or equivalent body
+    *   Handled by the [Affiliations Committee](https://meta.wikimedia.org/wiki/Special:MyLanguage/Affiliations_Committee "m:Special:MyLanguage/Affiliations Committee") or equivalent body
 *   Violations in technical spaces
-    *   Handled by Technical Code of Conduct Committee
+    *   Handled by [Technical Spaces Code of Conduct Committee](https://www.mediawiki.org/wiki/Special:MyLanguage/Code_of_Conduct/Committee "mw:Special:MyLanguage/Code of Conduct/Committee")
 *   Systemic failure to follow the UCoC
     *   Handled by U4C
     *   Some examples of systemic failure include:
@@ -162,7 +158,7 @@ This section details a non-complete list of the different types of violations, a
         *   Refusal to enforce the UCoC
         *   Lack of resources or lack of will to address issues
 *   On-wiki UCoC violations
-    *   UCoC violations that happen across multiple wikis: Handled by global sysops and stewards and the bodies that handle single-wiki UCoC violations or handled by the U4C where they do not conflict with these guidelines
+    *   UCoC violations that happen across multiple wikis: Handled by [global sysops](https://meta.wikimedia.org/wiki/Special:MyLanguage/Global_sysops "m:Special:MyLanguage/Global sysops") and [stewards](https://meta.wikimedia.org/wiki/Special:MyLanguage/Stewards "m:Special:MyLanguage/Stewards") and the bodies that handle single-wiki UCoC violations or handled by the U4C where they do not conflict with these guidelines
     *   UCoC violations that happen on a single wiki: Handled by existing enforcement structures according to their existing guidelines, where they do not conflict with these guidelines
         *   Simple UCoC violations such as vandalism should be handled by existing enforcement structures through existing means, where they do not conflict with these guidelines
 *   Off-wiki violations
@@ -201,7 +197,7 @@ All parties will usually have the opportunity to give their perspective on the i
 
 #### 3.3.2 Transparency of process
 
-The U4C, in line with its purpose and scope as defined in 4.1, provides documentation on the effectiveness of UCoC enforcement actions and their relation to common violations throughout the movement, supported by the Wikimedia Foundation in conducting this research. The goal of this documentation is to aid enforcement structures in developing best practices for enforcing the UCoC.
+The U4C, in line with its purpose and scope as defined in the [charter](https://meta.wikimedia.org/wiki/Special:MyLanguage/Universal_Code_of_Conduct/Coordinating_Committee/Charter "m:Special:MyLanguage/Universal Code of Conduct/Coordinating Committee/Charter"), provides documentation on the effectiveness of UCoC enforcement actions and their relation to common violations throughout the movement, supported by the Wikimedia Foundation in conducting this research. The goal of this documentation is to aid enforcement structures in developing best practices for enforcing the UCoC.
 
 Wikimedia projects and affiliates, when possible, shall maintain pages outlining policies and enforcement mechanisms in line with the UCoC policy text. Projects and affiliates with existing guidelines or policies in contradiction to the UCoC policy text should discuss changes to conform with global community standards. Updating or creating new local policies should be done in a way that does not conflict with the UCoC. Projects and affiliates may request advisory opinions from the U4C about potential new policies or guidelines.
 
@@ -213,7 +209,7 @@ An action taken by an individual advanced rights holder will be appealable to a 
 
 Enforcement structures set standards for accepting and considering appeals based on relevant contextual information and mitigating factors. These factors include, but are not limited to: verifiability of the accusations, the length and effect of the sanction, and whether there is a suspicion of abuse of power or other systemic issues, and the likelihood of further violations. The acceptance of an appeal is not guaranteed.
 
-Appeals are not possible against certain decisions made by the Wikimedia Foundation Legal department. However, some Wikimedia Foundation office actions and decisions are reviewable by the Case Review Committee. The limitation, specifically on appeals from office actions and decisions, may not apply in some jurisdictions, if legal requirements differ.
+Appeals are not possible against certain decisions made by the Wikimedia Foundation Legal department. However, some Wikimedia Foundation office actions and decisions are reviewable by the [Case Review Committee](https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Foundation/Legal/Community_Resilience_and_Sustainability/Trust_and_Safety/Case_Review_Committee "m:Special:MyLanguage/Wikimedia Foundation/Legal/Community Resilience and Sustainability/Trust and Safety/Case Review Committee"). The limitation, specifically on appeals from office actions and decisions, may not apply in some jurisdictions, if legal requirements differ.
 
 Enforcement structures should seek informed perspectives on cases in order to establish a basis to grant or decline an appeal. Information should be handled sensitively, with care for the privacy of the people involved and the decision-making process.
 
@@ -230,34 +226,6 @@ To achieve this goal, enforcement structures are encouraged to consider differen
 -------------------------------------
 
 The Universal Code of Conduct Coordinating Committee (U4C) is a co-equal body with other high-level decision-making bodies (e.g. ArbComs and AffCom). Its purpose is to serve as final recourse in the case of systemic failures by local groups to enforce the UCoC.
-
-### 4.1 Purpose and scope
-
-The U4C monitors reports of UCoC breaches, and may conduct additional investigations and take actions where appropriate. The U4C will regularly monitor and assess the state of UCoC enforcement. It may suggest suitable changes to UCoC, the UCoC Enforcement Guidelines, and U4C Charter for the Wikimedia Foundation and the community to consider, but may not change these documents on its own. When necessary, the U4C will assist the Wikimedia Foundation in handling cases.
-
-The U4C:
-
-*   Handles complaints and appeals in the circumstances outlined in the Enforcement Guidelines
-*   Performs any investigations necessary to resolve said complaints and appeals
-*   Provide resources for communities on UCoC best practices, such as mandatory training material and other resources as needed
-*   Provides a final interpretation of the UCoC Enforcement Guidelines and the UCoC if the need arises, in collaboration with community members and enforcement structures
-*   Monitors and assesses the effectiveness of UCoC enforcement, and provides recommendations for improvement
-
-The U4C will not take cases that do not primarily involve violations of the UCoC, or its enforcement. The U4C's responsibilities are explained in the context of other enforcement structures in 3.1.2.
-
-### 4.2 Selection, membership, and roles
-
-Annual elections, organized by the global community, will select up to 16 voting members.
-
-In exceptional circumstances, the U4C may call interim elections, if it determines that resignations or inactivity have created an immediate need for additional members. Elections will be in a format similar to that of the regular annual elections.
-
-The Wikimedia Foundation may appoint up to two non-voting members to the U4C and will provide support staff as desired and appropriate.
-
-### 4.3 Policy and precedent
-
-The U4C does not create new policy and may not amend or change the UCoC. The U4C instead applies and enforces the UCoC as defined by its scope.
-
-As community policies, guidelines and norms evolve over time, previous decisions will be taken into account only to the extent that they remain relevant in the current context.
 
 5\. Glossary
 ------------
@@ -308,7 +276,7 @@ See [definition](https://meta.wikimedia.org/wiki/Special:MyLanguage/Global_sysop
 
 High-level decision-making body
 
-A group (i.e. U4C, ArbCom, AffCom, Stewards) beyond which there can be no appeal of UCoC enforcement. Different issues may have different high-level decision-making bodies. This term does not include a group of users participating in a discussion organized at a noticeboard and resulting in a decision, even if the results of that discussion cannot be appealed.
+Stewards and any group (e.g. U4C, ArbCom, AffCom) beyond which there can be no appeal of UCoC enforcement. Different issues may have different high-level decision-making bodies. This term does not include a group of users participating in a discussion organized at a noticeboard and resulting in a decision, even if the results of that discussion cannot be appealed.
 
 Local
 
@@ -318,9 +286,9 @@ Off-wiki
 
 Generally refers to online spaces that are not hosted by the Wikimedia Foundation, even if Wikimedia community members are present and actively using the space. Examples of off-wiki spaces include Twitter, WhatsApp, IRC, Telegram, Discord, and others.
 
-Personally identifiable information
+Personal data
 
-is any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used to deanonymize previously anonymous data is considered PII.
+is any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used to deanonymize previously anonymous data is considered personal data.
 
 Project (Wikimedia project)
 
@@ -352,7 +320,7 @@ The [policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Off
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Universal\_Code\_of\_Conduct/Enforcement\_guidelines&oldid=517692](https://foundation.wikimedia.org/w/index.php?title=Policy:Universal_Code_of_Conduct/Enforcement_guidelines&oldid=517692)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Universal\_Code\_of\_Conduct/Enforcement\_guidelines&oldid=589377](https://foundation.wikimedia.org/w/index.php?title=Policy:Universal_Code_of_Conduct/Enforcement_guidelines&oldid=589377)"
 
 - - -
 
