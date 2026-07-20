@@ -3122,9 +3122,9 @@ What content is recommended?
 
 What content is not recommended?
 
-Why was my content not recommended?
+What are Community Standards?
 
-What are recommendation guidelines?
+What are Recommendations Guidelines?
 
 I have a different question
 
