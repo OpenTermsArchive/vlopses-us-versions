@@ -2490,9 +2490,11 @@ Copy link
 
 Report copyright infringement
 
+My copyright was infringed
+
 Contact designated agent
 
-Message content poster
+What is copyright infringement?
 
 I have a different question
 
