@@ -413,22 +413,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -446,22 +447,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -481,22 +483,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1205,22 +1208,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1238,22 +1242,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1273,22 +1278,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1343,22 +1349,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1376,22 +1383,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1411,22 +1419,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1484,22 +1493,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1517,22 +1527,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1552,22 +1563,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1628,22 +1640,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1661,22 +1674,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1696,22 +1710,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1815,22 +1830,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1848,22 +1864,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1883,22 +1900,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2027,22 +2045,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2060,22 +2079,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2095,22 +2115,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2330,22 +2351,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2363,22 +2385,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2398,22 +2421,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2525,22 +2549,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2558,22 +2583,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2593,22 +2619,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2699,22 +2726,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2732,22 +2760,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2767,22 +2796,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2842,22 +2872,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2875,22 +2906,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2910,22 +2942,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3048,22 +3081,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3081,22 +3115,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3116,22 +3151,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3187,22 +3223,23 @@ Products that don't comply with our policies may be disapproved and won't be eli
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3220,22 +3257,23 @@ For most violations, we'll send you a warning email detailing the policy violati
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3255,22 +3293,23 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data feed. You’ll receive an email with details about the violations.
+    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
 3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
-        *   If you remove the violating products from your feed, no further action or review request is necessary.
+        *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
         *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
-        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your feed**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your feed before attempting to appeal in bulk.
+        *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
+                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -4996,7 +5035,7 @@ Google provides translated versions of the Advertising Policies Help Center, tho
 
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
-For subtitles in your language, turn on YouTube captions. Select the Settings icon found in the video player, then select **Subtitles/CC** and choose your language.
+To see subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the bottom of the video player, select "Subtitles," and then specify your language.
 
 * * *
 
