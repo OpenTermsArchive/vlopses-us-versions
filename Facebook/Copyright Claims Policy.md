@@ -1451,9 +1451,9 @@ Copy link
 
 Withdraw my IP report
 
-Cancel my copyright report
+Cancel a copyright report
 
-I reported content by mistake
+Restore content after withdrawal
 
 I have a different question
 
@@ -2176,11 +2176,11 @@ Unintentional actions can still violate copyright on Facebook
 
 Copy link
 
-Can I violate copyright unintentionally?
+What is copyright infringement?
+
+Can I use copyrighted content?
 
 What is fair use?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -2490,11 +2490,9 @@ Copy link
 
 Report copyright infringement
 
-My copyright was infringed
-
 Contact designated agent
 
-What is copyright infringement?
+Message content poster
 
 I have a different question
 
