@@ -3184,7 +3184,9 @@ Post
 X Media Literacy Action Plan
 ============================
 
-X is a real-time global information service with the mission to serve the public conversation and help ensure the freedom of expression and access to information of its users. X employs a multi-faceted approach to support media literacy. Our approach includes refining rules and policies, offering tools and functionalities that support media literacy, and providing resources to help users develop media literacy skills. 
+**July 2026**
+
+X is a real-time global information service with the mission to serve the public conversation and help ensure the freedom of expression and access to information of its users. X employs a multi-faceted approach to support media literacy. Our approach includes refining rules and policies, offering tools and functionalities that support media literacy, and providing resources to help users develop media literacy skills.
 
 This plan is published in accordance with Section 17.1 under Ireland’s Online Safety Code.
 
@@ -3212,14 +3214,16 @@ X developed the [X Ads policies](https://business.x.com/help/ads-policies), whic
 Inauthentic Activities and Misleading Content
 ---------------------------------------------
 
-X’s [Authenticity policy](https://help.x.com/rules-and-policies/authenticity) aims to foster genuine interactions, safeguard the integrity of public conversation, and maintain user trust. This policy provides clear guidance and tools to enhance media literacy. 
+X’s [Authenticity policy](https://help.x.com/rules-and-policies/authenticity) aims to foster genuine interactions, safeguard the integrity of public conversation, and maintain user trust. This policy provides clear guidance and tools to enhance media literacy.
 
-X further addresses misleading content through [Community Notes](https://communitynotes.x.com/guide/about/introduction), a crowdsourced fact-checking feature that allows contributors to add contextual notes to posts, providing additional information or corrections. More information can be found on the [About Community Notes on X](https://help.x.com/using-x/community-notes#:~:text=Community%20Notes%20aim%20to%20create,publicly%20shown%20on%20a%20post.) help page.
+X further addresses misleading content through [Community Notes](https://communitynotes.x.com/guide/about/introduction), a collaborative way to add helpful contextual to posts that might be misleading, providing additional information or corrections, to keep people better informed.
+
+X has further strengthened Community Notes to promote media literacy for users by integrating AI-assisted drafting, accelerating the addition of helpful context to potentially misleading posts while maintaining rigorous community oversight. Additionally, users who replied to, Liked or reposted a Post receive a notification when a Community Note later appears on it, enabling timely awareness of the information. More information can be found on the [About Community Notes on X](https://help.x.com/using-x/community-notes#:~:text=Community%20Notes%20aim%20to%20create,publicly%20shown%20on%20a%20post.) help page and our [Community Notes Guide](https://communitynotes.x.com/guide/about/introduction).
 
 X's Enforcement Philosophy
 --------------------------
 
-Our enforcement principles are grounded in human rights, taking a holistic approach towards freedom of expression by developing a broad range of remediations, with a particular focus on education, rehabilitation, and deterrence. More information can be found on [Our approach to policy development and enforcement philosophy](https://help.x.com/rules-and-policies/enforcement-philosophy) and [Our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) help pages. Our [Global Transparency Report](https://transparency.x.com/) covers a broad array of content moderation efforts in line with our enforcement philosophy. 
+Our enforcement principles are grounded in human rights, taking a holistic approach towards freedom of expression by developing a broad range of remediations, with a particular focus on education, rehabilitation, and deterrence. More information can be found on [Our range of enforcement options](https://help.x.com/rules-and-policies/enforcement-options) help page. In the EU, our [Digital Services Act Transparency Reports](https://transparency.x.com/reports/dsa-transparency-report) cover a broad array of content moderation efforts in line with our enforcement philosophy.
 
 C. User Empowerment Tools and Features
 --------------------------------------
@@ -3227,27 +3231,41 @@ C. User Empowerment Tools and Features
 Algorithm Transparency and User Control
 ---------------------------------------
 
-X is committed to providing greater transparency and increasing users’ awareness about the content users see on our Platform. More information can be found on the [Recommender Systems](https://help.x.com/resources/recommender-systems) help page. In addition, X provides users with a variety of tools to manage and control their online experience on our Platform. More information can be found on [Our approach to recommendations](https://help.x.com/rules-and-policies/recommendations) help page.
+X is committed to providing greater transparency and increasing users’ awareness about the content users see on our platform. More information can be found on the [Recommender Systems](https://help.x.com/resources/recommender-systems) help page. In addition, X’s recommendation algorithm is publicly available for scrutiny through our open-source repository on GitHub, allowing anyone to examine in detail how the system operates. X has recently updated the open-sourced algorithm on GitHub and publicised these updates on the platform to ensure the recommendation system remains open to independent review.
+
+X also provides users with a variety of tools to manage and control their online experience on our platform. For example, users have the option to mute Posts that contain particular words, phrases, usernames, emojis or hashtags. Similarly, users can decide whether they want to see a warning over media in Posts that may contain sensitive content. For “For You” recommendations, users can provide feedback by selecting “Not interested in this post” or “Not interested in this Topic”, which X uses as a signal to recommend less of that type of content to that user. Most recently, X has introduced a ‘Snooze’ functionality which gives certain users more control about the topics that they would like to see or not on their “For You” feed, for example allowing such users to restrict Posts about “Politics” from their feed. More information can be found on [Our approach to recommendations](https://help.x.com/rules-and-policies/recommendations) help page.
 
 Reporting and Flagging Mechanisms
 ---------------------------------
 
-X makes available easy-to-use and easily accessible reporting channels to report both content and accounts that violate X’s Rules and Policies, as well as potentially illegal content. Several education resources available on the Help Center clearly explain how to report and flag content, including the [Report violations](https://help.x.com/rules-and-policies/x-report-violation) and [Reporting content in the EU](https://help.x.com/forms/dsa/report) help pages.
+X makes available easy-to-use and easily accessible reporting channels to report both content and accounts that violate X’s Rules and Policies, as well as potentially illegal content. Several education resources available on the Help Center clearly explain how to report and flag content, including the [Report violations](https://help.x.com/rules-and-policies/x-report-violation) and [Reporting content in the EU](https://help.x.com/forms/dsa/report/) help pages.
 
 Content Labels
 --------------
 
-Content labels are valuable tools to allow for informed decision-making by users on whether to engage with content. 
+Content labels are valuable tools to allow for informed decision-making by users on whether to engage with content.
 
-*   **Sensitive content labels**: X applies warning labels for sensitive content, which require users who have chosen in their settings to not see sensitive content to click through an interstitial to view it. 
+*   **Sensitive content labels**: X applies warning labels for sensitive content, which require users who have chosen in their settings to not see sensitive content to click through an interstitial to view it.
     
-*   **Restricted reach labels:** Where appropriate, X will restrict the reach of posts by making the post less discoverable on X. Users will see a visible label on these posts. 
+*   **Restricted reach labels:** Where appropriate, X will restrict the reach of Posts by making the Post less discoverable on X. Users will see a visible label on these Posts.
+    
+*   **Made with AI labels:** X has also expanded labeling for manipulated and AI-generated media, including 'Made with AI' indicators, to help users in the EU to better identify synthetic content. These tools, combined with ongoing improvements in detection technology, empower users to critically evaluate visual and multimedia posts in an era of rapidly advancing generative AI.
     
 
 Checkmarks and Profile Labels
 -----------------------------
 
 At X, checkmarks and labels distinguish different types of accounts, like the grey checkmark denoting government or multilateral organizations or officials. These labels support our core value of transparency. Detailed information can be found on the [About profile labels and checkmarks](https://help.x.com/rules-and-policies/profile-labels) help page.
+
+Grok capabilities
+-----------------
+
+X continues to expand direct access to truth-seeking tools with Grok integration. Users can now tap the Grok icon on any Post to open a context menu and instantly receive an AI-generated analysis, summary, or background facts about that specific Post.
+
+Other Measures
+--------------
+
+X remains open to constructive dialogue with relevant authorities and organisations on media literacy matters relevant for our users.
 
 #### Share this article
 
