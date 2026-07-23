@@ -3,6 +3,16 @@ Information for law enforcement
 
 Copy link
 
+Requests for user information
+
+Data retention and availability
+
+Emergency requests
+
+International legal requests
+
+I have a different question
+
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
