@@ -26,7 +26,7 @@ Improving and Personalizing the Apple Store App
 
 Apple collects information about how you use the Apple Store app, your past purchases, your connected devices, and your Apple services and subscriptions to tailor your Apple Store app experience to help you discover content that’s most relevant to you. For example, we may use information about recent purchases to recommend products, subscriptions, payment options, or Today at Apple sessions that may interest you. This also allows us to recommend products that match your devices, or that are based on similar purchases made by customers who own devices like yours. To opt out of receiving these personalized recommendations within the Apple Store app, or to customize the personal information you share with the Apple Store app, go to Account > Settings in the Apple Store app. If you allow the Apple Store app to access your precise location, it may be used to provide you with relevant information such as nearby Apple store locations or Today at Apple sessions. To change whether you share your precise location with the Apple Store app, go to Settings > Apple Store and tap Location.
 
-Apple uses models to provide many of the features of the Apple Store app. These models are used to improve your experience in the app, such as by ensuring the content that is displayed to you will be relevant to your interests and to provide you with an efficient shopping experience. In addition, models are used to improve the search relevance in the Apple Store app and, in some jurisdictions, to power our chat functionality. Subject to your Apple Store app settings, data associated with your Apple Account may be aggregated and used to improve these models. In relevant jurisdictions, to customize the personal information you share with the Apple Store app and how it is used, go to Account > Settings in the Apple Store app.
+Apple uses models to provide many of the features of the Apple Store app. These models are used to improve your experience in the app, such as by ensuring the content that is displayed to you will be relevant to your interests and to provide you with an efficient shopping experience. In addition, models are used to improve the search relevance in the Apple Store app. Subject to your Apple Store app settings, data associated with your Apple Account may be aggregated and used to improve these models. In relevant jurisdictions, to customize the personal information you share with the Apple Store app and how it is used, go to Account > Settings in the Apple Store app.
 
 Siri also suggests Today at Apple sessions based on on-device information derived from the apps you use and the websites you visit with Safari. To change how Siri accesses your information, go to Settings > Siri & Search.
 
@@ -35,6 +35,10 @@ Your sign-in information is shared across the Apple Store app, iTunes Store, an
 The Apple Store app may use information about how you have chosen to pay for your devices in the past, such as whether you are a participant in a financing program, have Apple Pay or Apple Wallet enabled, or have saved a credit card to your Apple Account, to tailor your payment options.
 
 Apple collects information about how you use the Apple Store app, interact with content on the app, and your past purchases to improve the Apple Store app for you and others and to improve and evaluate Apple’s services. To opt out of providing this information to Apple, within the Apple Store app, go to Account > Settings and tap Analytics.
+
+Virtual Shopping Assistant
+
+Where the Apple Store app virtual shopping assistant is available, Apple collects and stores your account information, device identifiers, carrier information, chat information, and where enabled, location data to personalize the chat experience, provide relevant responses, and if you opt in, to improve the virtual shopping assistant. Before sharing the chat with our partners, Apple scrubs personal identifiers from it. These partners will use this information only to help Apple to provide a conversational response. Apple will save these transcripts to make them available when you return to the Apple Store app, for our business analytics, and if you opt in, to improve the virtual shopping assistant. You can control whether your use of the virtual shopping assistant will be used to improve the experience by going to Account > Settings and tapping Chat Improvements within the Apple Store app. If you have questions about how your personal data is used as it relates to the virtual shopping assistant, or you would like to reach our Data Protection Officer, you can contact us at [www.apple.com/legal/privacy/contact](http://www.apple.com/legal/privacy/contact).
 
 Communicating with You
 
@@ -72,6 +76,6 @@ We also collect personal data to prevent fraud and other malicious activity in t
 
 We also compute a device trust score on your device when you attempt a purchase using information about how you use your device, including the approximate number of phone calls or emails you send and receive. The submission is designed so Apple cannot learn the underlying values on your device. The score is stored for a fixed time on our servers.
 
-At all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at [www.apple.com/privacy](http://www.apple.com/privacy)
+At all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at [www.apple.com/privacy](http://www.apple.com/privacy).
 
-Published Date: January 27, 2025
+2026-07-22
