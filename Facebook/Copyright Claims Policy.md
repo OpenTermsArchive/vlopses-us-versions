@@ -275,9 +275,9 @@ Register my trademark
 
 Trademark rights without registration
 
-USPTO registration benefits
+What is a common law right?
 
-Trademark registration outside US
+Register a business name
 
 I have a different question
 
@@ -399,11 +399,11 @@ How long does trademark protection last?
 
 Copy link
 
-My trademark rights expired
+Lose trademark rights
 
-Renew my trademark registration
+Renew trademark registration
 
-How long do EUIPO rights last?
+Trademark rights in EU
 
 I have a different question
 
@@ -599,9 +599,7 @@ What is copyright?
 
 What is trademark?
 
-Copyright infringement
-
-Trademark infringement
+Copyright vs trademark
 
 I have a different question
 
@@ -732,7 +730,7 @@ Appeal content removal
 
 Appeal trademark report
 
-Contact rights owner
+I received a notification
 
 I have a different question
 
@@ -960,11 +958,9 @@ Copy link
 
 Report an infringement
 
+Who can report infringement?
+
 What is intellectual property?
-
-Report copyright infringement
-
-Report trademark infringement
 
 I have a different question
 
@@ -1022,11 +1018,9 @@ Copy link
 
 Report a username
 
-My trademark is infringed
+What is trademark infringement?
 
 Contact username owner
-
-What is trademark infringement?
 
 I have a different question
 
@@ -1239,7 +1233,7 @@ What happens after I report?
 
 What info is shared?
 
-Why was my report rejected?
+I need to update my report
 
 I have a different question
 
@@ -1385,13 +1379,11 @@ Report a third-party app on Facebook that you think infringes your intellectual 
 
 Copy link
 
-Report third-party app
+Report a third-party app
 
 My intellectual property infringed
 
 Contact app developer
-
-Report app Terms of Service
 
 I have a different question
 
@@ -1515,11 +1507,9 @@ Copy link
 
 What info is sent?
 
-My trademark report removed content
+Who sees my email?
 
-Info sent to person whose post removed
-
-What is a trademark report?
+Can they contact me?
 
 I have a different question
 
@@ -1736,7 +1726,7 @@ What does copyright protect?
 
 What is not protected?
 
-Copyright infringement
+My content was copied
 
 I have a different question
 
@@ -1804,11 +1794,11 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-Who owns my original work?
+Who owns copyright?
 
-What is an original work?
+I created a painting
 
-I created a work for my job
+I took a photo
 
 I have a different question
 
@@ -2846,7 +2836,7 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-Protect my intellectual property
+Apply for Rights Manager
 
 What is Rights Manager?
 
