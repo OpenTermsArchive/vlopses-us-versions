@@ -3,13 +3,11 @@ Information for law enforcement
 
 Copy link
 
-Requests for user information
+Request user information
 
-Data retention and availability
+Submit an emergency request
 
-Emergency requests
-
-International legal requests
+Preserve account records
 
 I have a different question
 
