@@ -3,6 +3,8 @@ Developer guidelines
 
 ========================
 
+We're updating our Developer Guidelines, effective August 18, 2026. You can preview the updated Developer Guidelines [here](https://policy.pinterest.com/developer-guidelines-preview).
+
 Our mission
 ===========
 
