@@ -5,9 +5,9 @@ Copy link
 
 Requests for user information
 
-Emergency requests
+Data retention and availability
 
-Child safety requests
+Emergency requests
 
 International legal requests
 
