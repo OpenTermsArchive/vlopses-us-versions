@@ -525,7 +525,9 @@ What is trademark infringement?
 
 What is nominative fair use?
 
-What are limits to trademark rights?
+Are there geographic limits?
+
+What is consumer confusion?
 
 I have a different question
 
@@ -2329,11 +2331,11 @@ Facebook Lite App Help
 
 More
 
-Appeal content removal
-
-Contact rights owner
-
 My content was removed
+
+Appeal removed content
+
+Intellectual property report
 
 I have a different question
 
