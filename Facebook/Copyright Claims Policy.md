@@ -1990,11 +1990,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is copyright infringement?
-
-Can I use content I bought?
+Avoid copyright violations
 
 What is fair use?
+
+What is public domain?
 
 I have a different question
 
@@ -2331,11 +2331,11 @@ Facebook Lite App Help
 
 More
 
+Appeal content removal
+
+Contact rights owner
+
 My content was removed
-
-Appeal removed content
-
-Intellectual property report
 
 I have a different question
 
