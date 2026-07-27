@@ -1990,11 +1990,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+What is copyright infringement?
+
+Can I use content I bought?
 
 What is fair use?
-
-What is public domain?
 
 I have a different question
 
@@ -2076,7 +2076,7 @@ What is fair use?
 
 What are copyright exceptions?
 
-My content was removed
+What is copyright infringement?
 
 I have a different question
 
