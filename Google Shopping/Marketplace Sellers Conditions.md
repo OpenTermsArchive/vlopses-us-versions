@@ -212,8 +212,6 @@ If you’re working with a third-party platform, some of these instructions may 
 Free listings policies
 ======================
 
-### Welcome to the free listings Policy Center
-
 Overview of our free listings policies and how we enforce them
 --------------------------------------------------------------
 
@@ -282,7 +280,7 @@ We will provide you with information on why your free listings violate our polic
 > Google doesn't want customers to feel misled by the content in your free listings, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
 > 
 > *   Listings that prompt customers to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the customer’s explicit consent
-> *   Listings that represent you or your products in a way that is not accurate, realistic, and truthful
+> *   Listings that represent you or your products in a way that isn't accurate, realistic, and truthful
 
 ### Restricted content
 
@@ -325,7 +323,7 @@ For that reason, we allow listings of the content below, but on a limited basis.
 
 #### [Copyrighted content](https://support.google.com/merchants/merchants/answer/12079602)
 
-> Google restricts the listing of copyrighted content. If you would like to list copyrighted content and believe you are legally authorized to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905).
+> Google restricts the listing of copyrighted content. If you would like to list copyrighted content and believe you're legally authorized to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905).
 
 #### [Gambling-related content](https://support.google.com/merchants/merchants/answer/12076889)
 
@@ -352,21 +350,21 @@ For that reason, we allow listings of the content below, but on a limited basis.
 
 ### Site requirements
 
-#### [Editorial & technical requirements](https://support.google.com/merchants/merchants/answer/12079604)
+#### [Editorial and technical requirements](https://support.google.com/merchants/merchants/answer/12079604)
 
 > In order to provide a quality customer experience, Google requires that all free listings meet high professional and editorial standards. We only allow listings that are clear and professional in appearance. These listings should lead customers to products and landing pages that are relevant, useful, and easy to interact with.
 > 
 > _Examples of listings that don't meet these editorial and professional requirements:_
 > 
-> *   A display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> *   A display URL that doesn't accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
 > *   Gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
 > *   Sites that are under construction, parked domains, or are just not working
 > *   Sites that have disabled the browser's back button
-> *   Sites that are not viewable in commonly used browsers
+> *   Sites that aren't viewable in commonly used browsers
 
-#### [Irresponsible data collection & use](https://support.google.com/merchants/merchants/answer/12078694)
+#### [Irresponsible data collection and use](https://support.google.com/merchants/merchants/answer/12078694)
 
-> Google wants customers to trust that information about them will be respected and handled with appropriate care. As such, merchants and retailers should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Google wants customers to trust that information about them will be respected and handled with appropriate care. As such, merchants and retailers shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
 > _Examples of user information that must be handled with care:_ full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
@@ -382,11 +380,11 @@ For that reason, we allow listings of the content below, but on a limited basis.
 About our policies
 ------------------
 
-> Free listings enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of free listings they see. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical, and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
+> Free listings enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of free listings they see. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical, and business considerations. As a result, we've created a set of policies that apply to all promotions on the Google Network.
 > 
 > Google requires that advertisers comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places your listings are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from listing with us.
 > 
-> Note that because these limitations are specific to free listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to free listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 > 
 > This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
 
