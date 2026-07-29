@@ -679,6 +679,16 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Tomasz Bladyniec](https://meta.wikimedia.org/wiki/Special:CentralAuth/Tomasz_Bladyniec "m:Special:CentralAuth/Tomasz Bladyniec"), since 30 June 2026
 *   [Astrawiki3203](https://meta.wikimedia.org/wiki/Special:CentralAuth/Astrawiki3203 "m:Special:CentralAuth/Astrawiki3203"), since 15 July 2026
 *   [Bugmenot123123123](https://meta.wikimedia.org/wiki/Special:CentralAuth/Bugmenot123123123 "m:Special:CentralAuth/Bugmenot123123123"), since 15 July 2026
+*   [Aquaamjad](https://meta.wikimedia.org/wiki/Special:CentralAuth/Aquaamjad "m:Special:CentralAuth/Aquaamjad"), since 29 July 2026
+*   [الرغراغي](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D8%A7%D9%84%D8%B1%D8%BA%D8%B1%D8%A7%D8%BA%D9%8A "m:Special:CentralAuth/الرغراغي"), since 29 July 2026
+*   [Driss tahiri](https://meta.wikimedia.org/wiki/Special:CentralAuth/Driss_tahiri "m:Special:CentralAuth/Driss tahiri"), since 29 July 2026
+*   [عبد الجليل القاسم](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%AC%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85 "m:Special:CentralAuth/عبد الجليل القاسم"), since 29 July 2026
+*   [Casanovamoor](https://meta.wikimedia.org/wiki/Special:CentralAuth/Casanovamoor "m:Special:CentralAuth/Casanovamoor"), since 29 July 2026
+*   [Mustapha baroudi](https://meta.wikimedia.org/wiki/Special:CentralAuth/Mustapha_baroudi "m:Special:CentralAuth/Mustapha baroudi"), since 29 July 2026
+*   [10saiss](https://meta.wikimedia.org/wiki/Special:CentralAuth/10saiss "m:Special:CentralAuth/10saiss"), since 29 July 2026
+*   [Naif maxime](https://meta.wikimedia.org/wiki/Special:CentralAuth/Naif_maxime "m:Special:CentralAuth/Naif maxime"), since 29 July 2026
+*   [Fatima Zahra talbi](https://meta.wikimedia.org/wiki/Special:CentralAuth/Fatima_Zahra_talbi "m:Special:CentralAuth/Fatima Zahra talbi"), since 29 July 2026
+*   [عبد الله الكوتري](https://meta.wikimedia.org/wiki/Special:CentralAuth/%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%84%D9%87_%D8%A7%D9%84%D9%83%D9%88%D8%AA%D8%B1%D9%8A "m:Special:CentralAuth/عبد الله الكوتري"), since 29 July 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
