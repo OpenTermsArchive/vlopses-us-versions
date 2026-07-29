@@ -174,7 +174,9 @@ I. The address attached to your package is NOT the return address you should use
 
 II. Please make sure that you do NOT accidentally include any items in your return package that you do not wish to return. If you have accidentally included a wrong item, please contact Customer Service. We cannot promise that wrong items will be found and returned and we do not store or provide refunds or compensation for such items.
 
-III. To protect the fairness and integrity of the platform, Temu may conduct holistic analyses of return behavior. Return requests that are inconsistent with Temu's return policies may be considered indicative of return fraud or abuse of return services.
+III. According to applicable laws, the customer has statutory warranty rights for a period of time from the delivery of the product to obtain the implementation of the legal conformity guarantee in the event of defects in conformity or hidden defects of the delivered products. In case of used goods the warranty period can be shorter. Please contact Customer Service if you have passed the return window and encountered such a case.
+
+IV. To protect the fairness and integrity of the platform, Temu may conduct holistic analyses of return behavior. Return requests that are inconsistent with Temu's return policies may be considered indicative of return fraud or abuse of return services.
 
 Return fraud or abuse may include, but is not limited to, conduct such as repeatedly engaging in abnormal or improper use of return services, including making improperly frequent or excessive returns, sending back empty packages or packages containing irrelevant items, intentionally falsifying evidence (e.g., manipulated labels) to support refund claims.
 
