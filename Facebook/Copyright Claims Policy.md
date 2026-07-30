@@ -1313,7 +1313,7 @@ Report an ad
 
 Report ad copyright
 
-Report ad trademark
+Report ad infringement
 
 I have a different question
 
@@ -1728,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-What is fair use?
 
 I have a different question
 
@@ -2484,9 +2484,11 @@ Copy link
 
 Report copyright infringement
 
+What is copyright infringement?
+
 Contact designated agent
 
-Message content poster
+I can't report copyright
 
 I have a different question
 
