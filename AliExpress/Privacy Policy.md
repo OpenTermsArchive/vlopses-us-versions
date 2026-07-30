@@ -1,6 +1,6 @@
 **AliExpress.com Privacy Policy**
 
-**(Effective as of October 14, 2025)**  **To see prior version, click [here](http://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407_9_15_30867.html).**
+**(Effective as of July 30, 2026)**  **To see prior version, click [here](http://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress201909171350_82407_9_15_30867.html).**
 
 **Table of Contents**
 
@@ -164,6 +164,10 @@ We collect and use your personal information for the following purposes:
 •   **Conducting research and analytics to ensure the security of our Platform**, to improve the content and layout of the Platform, and to improve our Platform, product offerings and services; and
 
 •   **Help you find people you may know who are also using AliExpress**.
+
+ Certain uses of your personal data described above involve automated processing, including profiling, to personalize the products, content and advertising you see on the Platform. We analyze personal data such as   your browsing and purchase history, search queries, product interactions, delivery location and inferred preferences to build a profile of your interests and automatically determine which products, content and ads to   show you. This processing is based on our legitimate interests in providing relevant and personalized experiences, subject to your right to object at any time. This affects your experience by shaping the selection and   order of products and the relevance of advertising displayed to you; without such processing, product recommendations would be non-personalized (e.g., based on popularity or recency) and advertising would be less   tailored to your interests. This profiling does not result in decisions that produce legal effects or similarly significant impacts (such as credit denial, employment screening, or insurance premium calculation). You have   the right to request human review of decisions based solely on automated processing. You can adjust your preferences or opt out of personalized recommendations and/or advertising via "Settings" > "Privacy   setting". For detailed information about the parameters and logic of our recommendation and advertising systems, please refer to our [Transparency Center](https://www.aliexpress.com/p/transparencycenter/index.html). We do not use special categories of personal data (health,   racial origin, political opinions, etc.) for automated decision-making. For users identified as minors, we do not conduct behavioral profiling or serve targeted advertising.
+
+  
 
 We may also use your personal information for other purposes that are compatible with the purposes we have disclosed to you if and where this is permitted by applicable data protection laws. You can request further information about the compatibility with such other purposes.
 
@@ -580,6 +584,10 @@ If there is any conflict between the English version and another language versio
 
 **P.HOW TO CONTACT US**
 
-For data subject rights, please click [here](https://privacy.aliexpress.com/).
+You can click [here](https://privacy.aliexpress.com/) to exercise your rights after logging-in to your account. And if you have any requests, questions or concerns about our use of your personal information and this Privacy Policy, you can contact our Data Protection Officer at [DataProtection.AE@aliexpress.com](mailto:DataProtection.AE@aliexpress.com). Also, we have representatives for data protection purposes in the following jurisdictions:
 
-Contact information of the Data Protection Officer: [DataProtection.AE@aliexpress.com](mailto:DataProtection.AE@aliexpress.com).
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Jurisdictions | Representative | Address | Contact Details |
+| Korea | Name: AliExpress Korea Co., Ltd.<br><br>Representatives: Huey Wat Sin Cindy, Zhihang Rui | 29F, Parnas Tower, 521 Teheran-ro, Gangnam-gu, Seoul | Phone Number: +82-1533-6279<br><br>  <br><br>Email: korea\_govreach@aliexpress.com |
+| Türkiye | Name: KST DANIŞMANLIK HİZMETLERİ LİMİTED ŞİRKETİ | REŞİTPAŞA MAHALLESİ ESKİ BÜYÜKDERE CADDE NO: 26/147, SARIYER, İSTANBUL | E-mail: info@ksthukuk.com |
