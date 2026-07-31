@@ -1728,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
-What is copyright?
-
 What does copyright protect?
 
 What is not protected?
+
+What is fair use?
 
 I have a different question
 
@@ -2774,9 +2774,9 @@ Copy link
 
 What happens after I report?
 
-Respond to a report message
+Will I get a report number?
 
-What info is shared?
+Why did Meta ask for more info?
 
 I have a different question
 
