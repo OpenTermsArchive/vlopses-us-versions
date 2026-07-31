@@ -1728,11 +1728,11 @@ What is copyright and what does it protect?
 
 Copy link
 
+What is copyright?
+
 What does copyright protect?
 
 What is not protected?
-
-What is fair use?
 
 I have a different question
 
@@ -2555,9 +2555,11 @@ Copy link
 
 Contact DMCA agent
 
-Send DMCA report
+DMCA online form
 
-DMCA claim requirements
+DMCA designated agent address
+
+Complete copyright claim
 
 I have a different question
 
@@ -2772,9 +2774,9 @@ Copy link
 
 What happens after I report?
 
-Will I get a report number?
+Respond to a report message
 
-Why did Meta ask for more info?
+What info is shared?
 
 I have a different question
 
