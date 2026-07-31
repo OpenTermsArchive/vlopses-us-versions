@@ -182,9 +182,3 @@ collection\_fields
 How can we make this article better?
 
 Additional Response
-
-  
-
-       
-
-Leave this field blank
