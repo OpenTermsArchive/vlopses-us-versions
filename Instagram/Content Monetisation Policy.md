@@ -196,9 +196,9 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-What are monetization policies?
+My monetization was rejected
 
-My account is ineligible
+I lost monetization eligibility
 
 What are content policies?
 
