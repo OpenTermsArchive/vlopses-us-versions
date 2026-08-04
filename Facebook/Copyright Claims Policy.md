@@ -2484,11 +2484,9 @@ Copy link
 
 Report copyright infringement
 
-What is copyright infringement?
-
 Contact designated agent
 
-I can't report copyright
+Message content poster
 
 I have a different question
 
