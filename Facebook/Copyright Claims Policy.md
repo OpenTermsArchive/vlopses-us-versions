@@ -2247,14 +2247,6 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-My video was removed
-
-Why was my video removed?
-
-My video had copyrighted content
-
-I have a different question
-
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2484,9 +2476,11 @@ Copy link
 
 Report copyright infringement
 
+What is copyright infringement?
+
 Contact designated agent
 
-Message content poster
+I can't report copyright
 
 I have a different question
 
