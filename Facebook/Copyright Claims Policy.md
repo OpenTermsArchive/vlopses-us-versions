@@ -50,6 +50,14 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+Report trademark infringement
+
+What is a trademark?
+
+Brand Rights Protection
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -2246,6 +2254,14 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 =============================================================================================
 
 Copy link
+
+My video was removed
+
+Why was my video removed?
+
+My video had copyrighted content
+
+I have a different question
 
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
