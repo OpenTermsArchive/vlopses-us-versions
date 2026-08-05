@@ -516,6 +516,8 @@ Why We Show Personalized Ads
 
 Like most online information services, Snapchat is primarily supported by advertising. Advertisers pay a lot more to show ads to people who are more likely to be interested in them. It is not possible for us to keep Snapchat a fun, safe, and innovative online space, without charge, unless we show personalized ads.
 
+Personalized ads allow advertisers, especially small and medium-sized businesses, to reach people who are genuinely interested in their products, which helps reduce advertising costs. By focusing budgets on those most likely to engage, personalized ads empower smaller businesses to maximize their resources and compete effectively.
+
 Most people also prefer ads that are more relevant, fun, and interesting — and find irrelevant ads annoying. If you’re on your way to becoming the next top chef, ads about cookware and recipes may enhance your time on Snapchat; ads about trampolines, maybe not so much (unless you also like jumping!).
 
 Your trust in Snap is very important to us. This is as true for advertising as it is for any other part of your experience on Snapchat. We believe personalized advertising can be a win for everyone, provided it is balanced correctly. To achieve this:
@@ -563,10 +565,10 @@ We also make other inferences about you based on your activity on Snapchat, whic
     
 *   _Interests._ (Higher weight) We are always trying to make our ads as relevant to you as possible, so we try to make inferences about your interests. For example, if you follow race car drivers and like watching or creating Stories about new cars or racing or click on Snapchat ads for auto racing gear, then we might guess that you’re an “Automotive Enthusiast.” Some of these guesses we call “Lifestyle Categories,” and you can [review](https://help.snapchat.com/hc/articles/7012345515796?lang=en-US) the Lifestyle Categories that we’ve guessed about you in Snapchat, and you can [change or clear](https://help.snapchat.com/hc/articles/7012345515796?lang=en-US) those Lifestyle Categories at any time. We also make other inferences about your interests that assist us in showing you content that you may be interested in — for example we have “Snapchat Content Categories,” which categorize the content on Snap that you interact with. You can review these Content Categories by downloading your data as described [here](https://help.snapchat.com/hc/articles/7012305371156-How-do-I-download-my-data-from-Snapchat-?lang=en-US).
     
-*   _Your friends._ (Lower weight) Many friends have similar interests. So, we may use information about your friends’ interactions with ads or content to determine whether to show those ads to you. For example, if your friends clicked on an ad for a new pair of shoes, we may use that to prioritize showing the same ad to you.
+*   _Your friends and Snapchatters in your household._ (Lower weight) Many friends have similar interests. So, we may use information about your friends’ interactions with ads or content to determine whether to show those ads to you. For example, if your friends clicked on an ad for a new pair of shoes, we may use that to prioritize showing the same ad to you. We also may use similar information from Snapchatters in your household who are over 18 to help us choose which ads to show you.
     
 
-If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17) we do not use inferences about your gender cohort, interests or friends’ interests to personalize the ads you see.
+If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17) we do not use inferences about your gender cohort, interests or interests of other people associated with you to personalize the ads you see.
 
 We also use information about what ads you interacted with previously to determine what ads to show you (or not show you) next. It’s no secret that no one likes seeing the same advertisement over and over again!
 
@@ -611,14 +613,42 @@ We believe you should have meaningful control over the ads you see. To change th
     
 *   _Opt-out of third party ad networks._ Use this opt-out if you do not want third-party ad networks to serve you ads.
     
-*   _Opt-out of tracking (iOS users only)._ If you set the privacy controls on your device running iOS 14.5 or later to not allow Snapchat to track you, we will not link your activity on third-party apps and websites collected while using that device with user or device data from Snapchat for targeted advertising or advertising measurement purposes, except on your device. However, we may link this information for advertising purposes in ways that we do not specifically identify you and your activity.
+*   _Opt-out of tracking (iOS users only)._ If you set the privacy controls on your device running iOS 14.5 or later to not allow Snapchat to track you, we will not link your activity on third-party apps and websites collected while using that device with user or device data from Snapchat for targeted advertising or advertising measurement purposes. However, we may link this information for advertising purposes either on your device or where we use technical privacy controls that significantly reduce the risk of specifically identifying you and your activity.
     
 *   _Change the ad topics you see._ This setting allows you to decide whether you want to see certain types of ads about sensitive topics, like political, alcohol, or gambling ads. Some of these ads are turned off by default for users under a specific age regardless of how this setting is set.
     
 *   _Make changes to Lifestyle Categories._ This setting allows you to change the lifestyle category inferences Snap has made about you based on your interests and activity on Snapchat. This setting also will be overridden by age gating restrictions on certain types of ads and related categories.
     
 
-If you are in the European Economic Area, the UK or in Switzerland, in addition to the controls above, you can also opt out of personalized content including advertising. You can do this by accessing the “Personalization Controls” section of the Settings page.
+If you are in the EU, the UK, Norway or in Switzerland, in addition to the controls above, you can also opt out of personalized content including advertising as set out in the section below. You can do this by accessing the “Personalization Controls” section of the Settings page.
+
+### 
+
+European Contextual Advertising
+
+Personalized advertising is a core element of our service and essential for us to provide you with a fun, safe, and innovative Snapchat without charge. You can read more about why this is the case in the section. 
+
+If you are in the EU, the UK, Norway, or Switzerland, certain laws limit our service and determine whether we can show personalized ads. We are required to display ‘contextual ads’ to you if:
+
+1.  You have a teen account (13-17); or
+    
+2.  You have turned off the “Personalization Controls” in the Settings page.
+    
+
+Contextual advertising means that the advertising you see will be based on:
+
+*   What public content is displayed around the ad (e.g. a sports video to show you a sport related ad)
+    
+*   The time of day the ad is shown (e.g. morning, afternoon, evening)
+    
+*   Your age
+    
+*   Language your device is set
+    
+*   Location (city level) 
+    
+*   Device information
+    
 
 ### 
 
@@ -630,13 +660,13 @@ We confirm to advertisers which of their ads you have viewed and clicked. Someti
 
 Ads in My AI
 
-Ads that are displayed in My AI work a bit differently from other ads on Snapchat: they are determined by the context of your My AI conversation and whether, for example, you are looking for recommendations for products or services. We call these “contextual ads.” Another difference from other ads on Snapchat: My AI ads are provided by Snap’s advertising partners, rather than by Snap. Our advertising partners receive your queries (if we determine there’s commercial intent) and additional context, including your age range (i.e., whether you are under 18 or not), country/language, operating system type (i.e., iOS/Android), and IP address to help provide appropriate and relevant ads for you. For example, if you ask My AI “who makes the best electric guitar?” you might see a “sponsored” ad section for a guitar maker. All of this may sound familiar, as My AI ads work a lot like search ads on other platforms.
+Ads that are displayed in My AI work a bit differently from other ads on Snapchat: they are determined by the context of your My AI conversation and whether, for example, you are looking for recommendations for products or services. Another difference from other ads on Snapchat: My AI ads are contextual advertising and are provided by Snap’s advertising partners, rather than by Snap. Our advertising partners receive your queries (if we determine there’s commercial intent) and additional context, including your age range (i.e., whether you are under 18 or not), country/language, operating system type (i.e., iOS/Android), and IP address to help provide appropriate and relevant ads for you. For example, if you ask My AI “who makes the best electric guitar?” you might see a “sponsored” ad section for a guitar maker. All of this may sound familiar, as My AI ads work a lot like search ads on other platforms.
 
 ### 
 
 Sponsored Snaps
 
-Ads may appear in your Chat feed. These “Sponsored Snaps” will be labeled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they **do not** rely on your private communications between friends — we do not use the contents of private communications you send to your friends to personalize your experience, make recommendations, or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalized ads on Snapchat, as described on this page.
+Ads may appear in your Chat feed. These “Sponsored Snaps” will be labeled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they do not rely on your private communications between friends — we do not use the contents of private communications you send to your friends to personalize your experience, make recommendations, or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalized ads on Snapchat, as described on this page.  If you are in the EU, Norway, Switzerland, or Israel, you can choose how these Sponsored Snaps appear, either in your Chat feed with other chats or outside your Chat feed in a banner style format.  If you are under 18 in these countries, Sponsored snaps will only appear outside of your Chat feed.
 
 - - -
 
