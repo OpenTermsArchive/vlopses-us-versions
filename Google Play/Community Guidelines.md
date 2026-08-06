@@ -179,7 +179,7 @@ Learn more here about these requirements and how to comply in our [Help Center](
 | Ensure your app does not contain or facilitate child sexual abuse material (CSAM) or endanger children. | Don't allow the creation, upload, or distribution of content that facilitates child exploitation. |
 | Remove inappropriate content such as adult themes, excessive violence, or content that promotes negative body image. | Don't use your app to befriend a child for sexual purposes or to exchange sexual imagery. |
 | Comply with Child Safety Standards, including social or dating apps. | Don't fail to comply with the Child Safety Standards policy. |
-| Report abuse. If you find content that exploits children, report it to authorities. | Don't ignore reports. You must take appropriate action on all reports of CSAE and CSAM. |
+| Report abuse. If you find content that exploits children, report it to authorities. | Don't ignore reports. You must take appropriate action on all reports of CSAE and CSAM. |
 
 Choose a section to give feedback on
 
