@@ -10,7 +10,7 @@ We encourage you to share your comments and feedback about the accessibility of 
 You can provide feedback using one of the options below:   
  
 
-1.  Email – [accessibilityfeedback@pornhub.com](mailto:accessibilityfeedback@pornhub.com)   
+1.  Email – [accessibilityfeedback@pornhub.com](mailto:accessibilityfeedback@pornhub.com)  
     
       
     
@@ -24,6 +24,7 @@ The collection of all accessibility feedback is overseen by the Director of Trus
 [**Canadian Initial Accessibility Plan June 1, 2025**](https://ei.phncdn.com/static/misc/legal/Canadian_Initial_Accessibility_Plan_PH_June_1_2025_1748870226.pdf)  
 [**European Accessibility Statement June 28, 2025**](https://ei.phncdn.com/static/misc/legal/European_Accessibility_Plan_PH_June_28_2025_1750699488.pdf)  
 [**Canadian Accessibility Progress Report June 1, 2026**](https://ei.phncdn.com/static/misc/legal/Pornhub_Canadian_Accessibility_Progress_Report_June_1_2026_1780331847.pdf)  
+[**European Accessibility Progress Report 2026**](https://ei.phncdn.com/static/misc/legal/European_Accessibility_Progress_Report_PH_2026_1785961113.pdf)  
 
 **French**
 ----------
