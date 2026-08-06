@@ -76,6 +76,11 @@ Last Modified: March 6, 2026
 
 - - -
 
+We’re updating the WhatsApp for Business terms, effective September 23, 2026.
+
+*   To preview the new terms, please click [here](https://www.facebook.com/legal/wa-for-business-terms-preview).
+*   To learn more about the changes for WhatsApp Business App users, please click [here](https://faq.whatsapp.com/1017485114093363).
+
 WhatsApp Business Terms of Service
 ==================================
 
@@ -290,6 +295,8 @@ Last Modified: June 12, 2018
 *   WhatsApp may update this WhatsApp Business Terms for Service Providers (“Change”); by continuing to use the WhatsApp Business Solution after such Change, you consent to such Change.
 
 - - -
+
+We’re updating our Meta Terms for WhatsApp Business Platform. These changes will go into effect on September 23, 2026. View a preview of the new terms [here](https://www.facebook.com/legal/Meta-Terms-for-WhatsApp-Business-Platform-preview).
 
 Meta Terms for WhatsApp Business
 ================================
