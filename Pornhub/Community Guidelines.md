@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-**March 2026**
+**August 2026**
 
 Pornhub prides itself on being a safe space for our creators and users to upload and consume adult content. We take a number of steps to help protect the safety of our community and integrity of our platform, which is achieved in part by ensuring that all content that is uploaded to our platform adheres to our [**Terms of Service**](https://www.pornhub.com/information#terms).
 
@@ -28,11 +28,13 @@ Please see an overview of what is **not allowed** on Pornhub. These guidelines 
 
 **Harms or may cause harm to individuals**. This is considered content that:   
 
-*   Harasses, bullies, or threatens or encourages others to do so.
-*   Constitutes [hate speech](https://help.pornhub.com/hc/en-us/articles/14512634908819-Hate-Speech-Policy) or inflammatory content, including violent extremism or political provocation.
+*   Harasses, bullies, or threatens an individual, or encourages others to do so.
+*   Constitutes [hate speech](https://help.pornhub.com/hc/en-us/articles/14512634908819-Hate-Speech-Policy), inflammatory content, or content intended to instigate hostility or conflict, including violent extremism or political provocation.
 *   Depicts, glorifies, encourages, promotes, or supports terrorism or violent extremist actors or acts.
 *   Glorifies, promotes, or depicts acts of self-harm or suicide.
-*   Glorifies or promotes eating disorders. 
+*   Glorifies, promotes, or encourages eating disorders, negative body image attitudes, or mental health disorders in a manner that could cause harm.
+*   Encourages, promotes, glorifies, or provides instructions for dangerous challenges or other harmful acts.
+*   Encourages excessive intoxication or other unsafe activity that is likely to result in physical harm. 
 
 **Is inauthentic or is an unauthorized use of the platform,** including content that**:**
 
@@ -54,6 +56,38 @@ Please see an overview of what is **not allowed** on Pornhub. These guidelines 
 *   Encourages conduct that would be considered a criminal offense, would give rise to civil liability, violate any law, or is otherwise inappropriate.
 
 \*This serves as an indicative list and does not constitute an exhaustive list. For the full description, please review our [Terms of Service](https://www.pornhub.com/information#terms), under the section entitled, Prohibited Uses. Pornhub reserves the right at all times to determine whether content is appropriate for our platform and in compliance with our terms of service, and may remove any content at any time, without prior notice and in its sole discretion, if such content is found to be in violation of our [Terms of Service](https://www.pornhub.com/information#terms), is otherwise objectionable or considered inappropriate for our platform.
+
+**Safe For Work (SFW) Content**
+
+Pornhub welcomes a broad range of creative, educational, entertainment, lifestyle, artistic, and community Safe For Work ("SFW") content, provided it complies with the Community Guidelines and does not fall into any prohibited category.
+
+Pornhub features SFW content in designated areas or experiences across our platform. In addition to complying with the Prohibited Content standards above, content identified or distributed as SFW must comply with the following requirements.
+
+As with other content on Pornhub, SFW content may only feature individuals who are 18 years of age or older. All elements of uploaded content, including titles, descriptions, tags, audio, thumbnails, and other accompanying materials, must also comply with these requirements. Content is **not SFW-eligible** if it:
+
+**Contains sexual material,** including content that:
+
+*   Depicts sexual activity, nudity, or sexually explicit conduct.
+*   Is intended primarily to create sexual arousal, whether clothed or unclothed.
+*   Simulates, implies, or strongly references sexual activity in a sexualized manner.
+*   Features fetishized, sexually suggestive, or otherwise sexualized themes or presentation.
+*   Uses titles, descriptions, tags, audio, thumbnails, or other contextual elements that sexualize otherwise permitted content.
+
+**Permitted Sensitive Content**
+
+Some content may remain appropriate for SFW experiences while covering mature, educational, or otherwise sensitive topics. Examples may include:
+
+*   Educational content, including anatomy, sex education, relationship education, or discussions of intimacy presented in a non-sexual manner.
+*   Dating, romance, and relationship advice.
+*   Discussions, conversations, stories, podcasts, or audiobooks that contain non-graphic references to sex or adult themes.
+*   Promotion or review of sexual wellness products, provided products are not shown or described in actual or simulated use.
+*   Artistic, glamour, theatrical, or fitness content that is not intended to sexually arouse viewers.
+*   Content discussing violence, politics, current events, or other adult topics in a non-harmful and non-inflammatory manner.
+*   Content containing moderate adult language or mature themes.
+
+When determining whether content is appropriate for SFW experiences, creators should consider the primary purpose and overall presentation of the content. Content whose primary purpose is to create sexual arousal or otherwise violate these Community Guidelines may be considered non-compliant with our SFW guidelines and may be removed from SFW experiences or from the platform, as appropriate.
+
+\* This section serves as an indicative summary and does not constitute an exhaustive list of prohibited or permitted SFW content. Pornhub reserves the right to determine whether content is appropriate for SFW experiences and complies with these Community Guidelines, the [Terms of Service](https://www.pornhub.com/information#terms), and related policies. Content may be removed from SFW experiences or from the platform where it is found to violate these requirements or is otherwise considered inappropriate.
 
 **Enforcement**
 
