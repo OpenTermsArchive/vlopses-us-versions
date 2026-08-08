@@ -63,7 +63,9 @@ Pornhub welcomes a broad range of creative, educational, entertainment, lifestyl
 
 Pornhub features SFW content in designated areas or experiences across our platform. In addition to complying with the Prohibited Content standards above, content identified or distributed as SFW must comply with the following requirements.
 
-As with other content on Pornhub, SFW content may only feature individuals who are 18 years of age or older. All elements of uploaded content, including titles, descriptions, tags, audio, thumbnails, and other accompanying materials, must also comply with these requirements. Content is **not SFW-eligible** if it:
+As with other content on Pornhub, SFW content may only feature individuals who are 18 years of age or older. All elements of uploaded content, including titles, descriptions, tags, audio, thumbnails, and other accompanying materials, must also comply with these requirements.
+
+Content is **not SFW-eligible** if it:
 
 **Contains sexual material,** including content that:
 
