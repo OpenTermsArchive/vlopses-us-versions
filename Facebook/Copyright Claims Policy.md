@@ -2243,7 +2243,7 @@ Why was my video removed?
 
 My video has copyrighted content
 
-I didn't get an email
+I didn't get a removal email
 
 I have a different question
 
