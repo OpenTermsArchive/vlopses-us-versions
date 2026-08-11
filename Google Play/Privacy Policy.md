@@ -316,11 +316,11 @@ _**Disclaimer:** Policy summaries and Key Considerations are overviews only; alw
 This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
 
 *   To better protect user privacy, we're updating our [Location Permissions](https://support.google.com/googleplay/android-developer/answer/16909972#location-permissions) policy. We're introducing the [location button](https://developer.android.com/guide/topics/permissions/private-alternatives/location-button) as the recommended minimum scope for precise location in line with our user data and sensitive permissions requirements.  
-    (effective October 28, 2026)
+    (effective January 27, 2027)
     
 
 *   We're introducing the [Contacts Permissions](https://support.google.com/googleplay/android-developer/answer/16909972#contacts-permissions) policy to govern broad access of users' contacts. Apps that don't need broad access must use the [Android Contact Picker](https://developer.android.com/about/versions/17/features/contact-picker), a more secure, easy-to-integrate alternative that minimizes data collection and improves user safety.  
-    (This is a new policy, and will be effective October 28, 2026.)
+    (This is a new policy, and will be effective January 27, 2027.)
     
 
 To preview the updated “Permissions and APIs that Access Sensitive Information” article, visit [this page](https://support.google.com/googleplay/android-developer/answer/16909972).
