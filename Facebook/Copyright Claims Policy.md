@@ -1078,16 +1078,6 @@ What you should consider before submitting a report of intellectual property inf
 
 Copy link
 
-What is copyright infringement?
-
-What is trademark infringement?
-
-What is fair use?
-
-What are the legal consequences?
-
-I have a different question
-
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you’re not sure whether the content you’re reporting infringes your intellectual property rights (example: because it may be a fair use), you may want to seek legal guidance.
 
 Please note that submitting a report of intellectual property infringement is a serious matter with potential legal consequences. Intentionally submitting misleading or otherwise fraudulent reports of copyright or trademark infringement may lead to Facebook taking action, including termination of your account.
@@ -1225,14 +1215,6 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
-
-What info is shared?
-
-Can I contact the person?
-
-I have a different question
-
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you’ll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1296,14 +1278,6 @@ Report an advertisement for intellectual property infringement on Facebook
 ==========================================================================
 
 Copy link
-
-Report an ad
-
-Report copyright infringement
-
-Report trademark infringement
-
-I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
