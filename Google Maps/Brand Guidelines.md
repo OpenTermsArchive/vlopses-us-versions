@@ -34,6 +34,7 @@ Brands Select a brand Google
 *   Google Nest Thermostat
 *   Google News
 *   Google One
+*   Google.org
 *   Google Pay & Google Wallet
 *   Google Photos
 *   Google Pixel
@@ -63,10 +64,6 @@ Page selection Select a page Terms and Conditions
   
 
 _language_ English - United States
-
-_language_
-
-The content you are trying to view is not available for your preferred market language. You are now seeing content for **_English - United States_**.
 
 Terms and Conditions
 ====================
