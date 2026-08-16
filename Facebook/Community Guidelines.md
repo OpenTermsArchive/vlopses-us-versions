@@ -3140,14 +3140,6 @@ About recommendations on Facebook
 
 Copy link
 
-What content is not recommended?
-
-What are recommendation guidelines?
-
-Why was my content not recommended?
-
-I have a different question
-
 We make personalized recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts, and entities (such as Pages, Groups, or Events) that people do not already follow. Some examples of our recommendation experiences include Pages You May Like, “Suggested For You” posts in Feed, People You May Know, or Groups You Should Join.
 
 Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalizing recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook Friends in common, we may suggest that person as a potential new Friend for you.
@@ -3250,13 +3242,6 @@ Related Articles
 * * *](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
 
 [Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
