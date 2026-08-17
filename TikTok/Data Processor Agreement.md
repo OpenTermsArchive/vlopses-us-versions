@@ -534,6 +534,23 @@ Requirements for sharing and collecting Business Products Data 
 
 TikTok Developer Data Sharing Agreement
 
+*   TikTok Developer Data Sharing Agreement
+*   1\. SCOPE OF APPLICATION
+*   2\. DEFINITIONS
+*   3\. SECURITY OF TIKTOK DEVELOPER SERVICES DATA
+*   4\. EEA/UK/SWITZERLAND
+*   5\. BRAZIL
+*   6\. MODIFICATION AND TERMINATION
+*   7\. GENERAL
+*   Annex I to these Terms
+*   Annex II to these Terms
+*   TikTok Developer US Data Sharing Agreement
+*   1\. SCOPE OF APPLICATION
+*   2\. DEFINITIONS
+*   3\. TIKTOK DEVELOPER SERVICES US DATA
+*   4\. MODIFICATION AND TERMINATION
+*   5\. GENERAL
+
 **TikTok Developer Data Sharing Agreement**
 -------------------------------------------
 
