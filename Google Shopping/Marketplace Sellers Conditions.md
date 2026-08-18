@@ -5542,11 +5542,11 @@ Trade sanctions violation
 > 
 > Google Ads and Display & Video 360 aren't available to any entities or individuals that are restricted under applicable trade sanctions and export compliance laws. It's also not available to entities or individuals owned by, controlled by or acting for or on behalf of restricted entities or individuals.
 > 
-> > Ad campaigns that geographically target embargoed countries or territories are not allowed.
+> > Ad campaigns that geographically target embargoed countries or territories aren't allowed.
 > > 
-> > Ad campaigns that are run on behalf of businesses that are located in embargoed countries or regions are not allowed, even if the account owner is not located in an embargoed location.
+> > Ad campaigns that are run on behalf of businesses that are located in embargoed countries or regions aren't allowed, even if the account owner is not located in an embargoed location.
 > > 
-> > Ad campaigns that are run by or on behalf of entities or individuals that are restricted under applicable trade sanctions and regulations are not allowed.
+> > Ad campaigns that are run by or on behalf of entities or individuals that are restricted under applicable trade sanctions and regulations aren't allowed.
 > 
 > Google must comply with sanctions imposed by OFAC. Entities and individuals who are restricted cannot create or use a Google Ads or Display & Video 360 account or have Google Ads or Display & Video 360 used on their behalf. People who are located in or ordinarily reside in [embargoed countries or territories](https://support.google.com/google-ads/answer/6163740) cannot create or use a Google Ads or Display & Video 360 account. Currently, there are embargoes on Crimea, Cuba, so-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR), Iran, and North Korea.
 
