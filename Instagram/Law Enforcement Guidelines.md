@@ -3,6 +3,14 @@ Information for law enforcement
 
 Copy link
 
+Request user information
+
+Submit an emergency request
+
+Preserve account records
+
+I have a different question
+
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
@@ -105,3 +113,10 @@ Menlo Park, CA 94025
 Mail:
 
 Law enforcement officials who do not submit requests through the [Law Enforcement Online Request System](https://www.facebook.com/records) should expect longer response times.
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
