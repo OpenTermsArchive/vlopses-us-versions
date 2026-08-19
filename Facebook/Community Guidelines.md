@@ -3140,6 +3140,16 @@ About recommendations on Facebook
 
 Copy link
 
+What content is recommended?
+
+What content is not recommended?
+
+Why was my content not recommended?
+
+What are age-appropriate guidelines?
+
+I have a different question
+
 We make personalized recommendations to the people who use our services to help them discover new communities and content. Both Facebook and Instagram may recommend content, accounts, and entities (such as Pages, Groups, or Events) that people do not already follow. Some examples of our recommendation experiences include Pages You May Like, “Suggested For You” posts in Feed, People You May Know, or Groups You Should Join.
 
 Our goal is to make recommendations that are relevant and valuable to each person who sees them. We work towards our goal by personalizing recommendations, which means making unique recommendations for each person. For example, if you and another person have Facebook Friends in common, we may suggest that person as a potential new Friend for you.
@@ -3203,8 +3213,7 @@ We generally do not recommend accounts (including Profiles and Page admins) or e
 2.  Repeatedly and/or recently shared content (including the names or cover photos associated with groups or Pages) we try not to recommend across the categories described in the Content Recommendations section above.
 3.  Repeatedly engaged in misleading practices to build followings, such as purchasing ‘likes’.
 4.  In countries where Meta supports third-party fact-checking, recently and repeatedly posted “False” and “Altered” information as determined by independent third-party fact-checkers.
-5.  [Are associated with offline movements or organizations that are tied to violence.](https://l.facebook.com/l.php?u=https%3A%2F%2Fabout.fb.com%2Fnews%2F2020%2F08%2Faddressing-movements-and-organizations-tied-to-violence%2F)
-6.  Teens will not be recommended accounts that we’ve found regularly share age-inappropriate content, or if their name or bio suggests the account is inappropriate for teens.
+5.  Teens will not be recommended accounts that we’ve found regularly share age-inappropriate content, or if their name or bio suggests the account is inappropriate for teens.
 
 We may let people know when they're about to engage with an entity that meets any of the above criteria to help them make informed decisions.
 
@@ -3242,6 +3251,13 @@ Related Articles
 * * *](https://www.facebook.com/help/271128916342286/?helpref=related_articles)
 
 [Learn about and manage suggested content in your Facebook Feed](https://www.facebook.com/help/485502912850153/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
