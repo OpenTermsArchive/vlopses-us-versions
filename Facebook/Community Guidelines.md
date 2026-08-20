@@ -3140,13 +3140,11 @@ About recommendations on Facebook
 
 Copy link
 
-What content is recommended?
-
 What content is not recommended?
 
-Why was my content not recommended?
+What are recommendation guidelines?
 
-What are age-appropriate guidelines?
+Why was my content not recommended?
 
 I have a different question
 
