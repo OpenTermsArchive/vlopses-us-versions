@@ -76,7 +76,7 @@ These are cookies necessary for the functioning of the Website and cannot be swi
 | **Pornhub.com** | avukredirecturl | Redirects to the original URL after completing age verification in the UK | First Party | Session |
 | **Pornhub.com** | preWallNotice | Used to show the Pre-Wall AV modal | First Party | 1 year |
 
-You can set your browser to block these cookies, but that will cause some parts of the Website to not work.  
+You can set your browser to block these cookies, but that will cause some parts of the Website to not work.
 
 ### Functional Cookies  
 
