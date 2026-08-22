@@ -3,15 +3,15 @@ Information for law enforcement
 
 Copy link
 
-Requests for user information
+Wniosek o dane użytkownika
 
-Emergency requests
+Wniosek o dane w nagłych wypadkach
 
-Data retention and availability
+Wniosek o zachowanie konta
 
-International legal requests
+Wniosek o dane międzynarodowe
 
-I have a different question
+Mam inne pytanie
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
