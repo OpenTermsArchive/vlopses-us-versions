@@ -3,11 +3,13 @@ Instagram Content Monetization Policies
 
 Copy link
 
-My content was not monetized
+How do I monetize my content?
 
-Why was my content rejected?
+How do I check monetization eligibility?
 
-What content is restricted?
+What content is not monetized?
+
+How do I appeal a monetization decision?
 
 I have a different question
 
@@ -194,11 +196,13 @@ Instagram Partner Monetization Policies
 
 Copy link
 
-My monetization was rejected
+How do I monetize on Instagram?
 
-Why am I ineligible?
+How do I check my eligibility?
 
-Monetization policies explained
+How do I follow policies?
+
+How do I fix policy violations?
 
 I have a different question
 
