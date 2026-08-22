@@ -41,8 +41,6 @@ Effective Date: August 23, 2025
 
 - - -
 
-We’re updating this page. To preview the new terms, please click [here](https://www.facebook.com/legal/terms/Privacy/GDTA/preview). These changes will go into effect on August 21, 2026
-
   
   
 
@@ -71,6 +69,8 @@ Part I
     *   “**LATAM and Canada Data Protection Requirements**” means any and all Applicable Law other than Brazil Data Protection Requirements related to data protection, data security, marketing, privacy, or the Processing of Personal Data in the countries of South America, Central America, Mexico, or Canada.
         
     *   “**Türkiye Data Protection Requirements**” means any and all Applicable Law related to data protection, data security, marketing, privacy, or the Processing of Personal Data in Türkiye, including, but not limited to the Regulation on Procedure and Principles regarding Transfer of Personal Data Abroad and the Law on Protection of Personal Data numbered 6698.
+        
+    *   “**USA Data Protection Requirements**” means any and all Applicable Law related to data protection, data security, marketing, privacy, or the Processing of Personal Data in the United States, including but not limited to 28 CFR part 202.
         
     
     “**Data Security Terms**” means the terms available at [https://www.facebook.com/legal/terms/data\_security\_terms](https://www.facebook.com/legal/terms/data_security_terms) (or a successor location).
@@ -127,6 +127,9 @@ Part I
         
     
 
+  
+  
+
 Part II.A: Meta as Data Importer
 
 *   **Brazil.** To the extent that Personal Data which is subject to Brazil Data Protection Requirements is transferred by Company to Meta in connection with the Agreement, such Processing shall be governed by the Brazil SCCs. Where this paragraph applies:
@@ -179,6 +182,16 @@ Part II.A: Meta as Data Importer
     *   Where Meta is a Processor and Company is a Controller, the data exporter shall be Company, the data importer shall be Meta, and the “Data Controller to Data Processor” contract shall apply.
         
     
+*   **United States.** To the extent that Personal Data subject to USA Data Protection Requirements is transferred by Meta to Company in connection with the Agreement, Company is prohibited from engaging or attempting to engage in, or permitting others to engage or attempt to engage in the following:
+    
+    *   Selling, licensing of access to, or other similar commercial transactions to countries of concern or covered persons, as defined in 28 CFR part 202;
+        
+    *   Where Company knows or suspects that a country of concern or covered person has gained access to Personal Data through a data brokerage transaction, Company will immediately inform Meta. Failure to comply with the above will constitute a breach of the Agreement and may constitute a violation of 28 CFR part 202.
+        
+    
+
+  
+  
 
 Part II.B: Processing Details Addendum: Meta as Data Importer
 
@@ -206,6 +219,9 @@ Part II.B: Processing Details Addendum: Meta as Data Importer
     | **For transfers to sub-processors (if applicable), also specify subject matter, nature and duration of the processing** | As specified above. |
     | **Subprocessors** | As specified in the Agreement (if applicable). |
     
+
+  
+  
 
 Part III.A: Meta as Data Exporter
 
@@ -259,6 +275,9 @@ Part III.A: Meta as Data Exporter
     *   Where Meta is a Processor and Company is a Controller, the data exporter shall be Meta, the data importer shall be Company, and the “Data Processor to Data Controller” contract shall apply.
         
     
+
+  
+  
 
 Part III.B: Processing Details Addendum: Meta as Data Exporter
 
