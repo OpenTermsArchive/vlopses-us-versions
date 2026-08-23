@@ -2002,7 +2002,7 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-Avoid copyright violations
+My content was removed
 
 What is fair use?
 
