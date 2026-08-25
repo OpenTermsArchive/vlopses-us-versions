@@ -7,9 +7,9 @@ How do Instagram monetization policies work?
 
 How do I monetize Instagram content?
 
-How does Instagram content monetization eligibility work?
+How do I check Instagram monetization eligibility?
 
-How do I monetize Instagram videos?
+How do I monetize unoriginal Instagram content?
 
 I have a different question
 
