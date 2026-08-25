@@ -403,7 +403,7 @@ Tobacco and Alcohol
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-Apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) OR encourage the illegal or inappropriate use of alcohol, tobacco, or nicotine are not allowed. Please review the full policy to ensure compliance.
+Apps that facilitate the sale of tobacco or products containing nicotine (such as e-cigarettes, vape pens and nicotine pouches) or encourage the illegal or inappropriate use of alcohol, tobacco, or nicotine are not allowed. Please review the full policy to ensure compliance.
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
 
