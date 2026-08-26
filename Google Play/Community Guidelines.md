@@ -122,16 +122,6 @@ Child Endangerment
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-We're expanding our [Child Safety Standards](https://support.google.com/googleplay/android-developer/answer/17122524#child_safety) policy to apply to anonymous chat and random chat apps.
-
-(effective August 26, 2026)
-
-To preview the updated "Child Endangerment" article, visit [this page](https://support.google.com/googleplay/android-developer/answer/17122524).
-
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Google Play has a zero-tolerance policy for child sexual abuse and exploitation (CSAE). All apps must not contain or promote content that endangers children. This includes apps that appeal to children but contain adult themes. Further, social and dating apps must follow the Child Safety Standards policy. Failure to comply will result in immediate removal. Please review the full policy to ensure compliance.
@@ -159,7 +149,7 @@ We also don’t allow apps that promote negative body or self image including ap
 
 #### **Child Safety Standards Policy**
 
-Google Play requires Social and Dating apps to comply with our Child Safety Standards policy.
+Google Play requires Anonymous Chat, Random Chat, Social, and Dating apps to comply with our Child Safety Standards policy.
 
 These apps must:
 
@@ -2318,16 +2308,6 @@ Google Play Families Policies
 
 _**Disclaimer:** Policy summaries and Key Considerations are overviews only; always refer to the full policy for compliance. The full policy takes precedence in case of conflict._
 
-**Changes are coming to this article**
-
-This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
-
-We're expanding our [Families Policy Requirements](https://support.google.com/googleplay/android-developer/answer/17122218#families-policy) policy to prohibit developers of anonymous chat apps from targeting children.
-
-(effective August 26, 2026)
-
-To preview the updated "Google Play Families Policies" article, visit [this page](https://support.google.com/googleplay/android-developer/answer/17122218).
-
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
 Apps in the Google Play Families program must protect children's privacy and comply with all applicable laws. This includes using only certified ad SDKs and prohibiting personalized advertising. If your app is for a mixed audience, you must include a neutral age screen to ensure children only see non-personalized ads. Apps must have a privacy policy that accurately reflects data collection and handling practices. Please review the full policy to ensure compliance.
@@ -2386,11 +2366,11 @@ If one of the target audiences for your app is children, you must comply with th
     *   An appropriate message about the importance of parental supervision.
     *   A reminder to be aware of physical hazards in the real world (for example, be aware of your surroundings).
     *   Your app must not require the usage of a device that is advised not to be used by children (for example, Daydream, Oculus).
-7.  **Social Apps & Features:** If your apps allows users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Console.
-    *   Social Apps: A social app is an app where the main focus is to enable users to share freeform content or communicate with large groups of people. All social apps that include children in their target audience must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also require adult action before allowing child users to exchange personal information.
-    *   Social Features: A social feature is any additional app functionality that enables users to share freeform content or communicate with large groups of people. Any app that includes children in their target audience and has social features, must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also provide a method for adults to manage social features for child users, including, but not limited to, enabling/disabling the social feature or selecting different levels of functionality. Finally, you must require adult action before enabling features that allow children to exchange personal information.
+7.  **Social Apps & Features:** If your apps allows users to share or exchange information, you must accurately disclose these features in the [content rating questionnaire](https://support.google.com/googleplay/android-developer/answer/9859655?visit_id=637679283344610643-1951945832&rd=1#questionnaire) on the Play Console.
+    *   **Social Apps:** A social app is an app where the main focus is to enable users to share freeform content or communicate with large groups of people. All social apps that include children in their target audience must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also require adult action before allowing child users to exchange personal information.
+    *   **Social Features:** A social feature is any additional app functionality that enables users to share freeform content or communicate with large groups of people. Any app that includes children in their target audience and has social features, must provide an in-app reminder to be safe online and to be aware of the real world risk of online interaction before allowing child users to exchange freeform media or information. You must also provide a method for adults to manage social features for child users, including, but not limited to, enabling/disabling the social feature or selecting different levels of functionality. Finally, you must require adult action before enabling features that allow children to exchange personal information.
     *   Adult action means a mechanism to verify that the user is not a child and does not encourage children to falsify their age to gain access to areas of your app that are designed for adults (that is, an adult PIN, password, birthdate, email verification, photo ID, credit card, or SSN).
-    *   Social apps where the main focus of the app is to chat with people they do not know must not target children. Examples include: chat roulette style apps, dating apps, kids-focused open chat rooms, etc.
+    *   Social apps where the main focus of the app is to chat with people they do not know or to chat with people anonymously must not target children. Examples include: chat roulette style apps, dating apps, kids-focused open chat rooms, anonymous user style apps, "blindfold" apps, etc.
 8.  **Legal compliance:** You must ensure that your app, including any APIs or SDKs that your app calls or uses, is compliant with the [U.S. Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy), [E.U. General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679), and any other applicable laws or regulations.
 
 Examples of common violations
