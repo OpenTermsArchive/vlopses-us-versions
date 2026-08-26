@@ -43,6 +43,7 @@ Brands Select a brand Google
 *   Google Pixel Wearables
 *   Google Play
 *   Google Play Protect
+*   Google Search
 *   Google TV
 *   Google TV Streamer
 *   Google Wifi
