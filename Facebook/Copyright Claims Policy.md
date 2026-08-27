@@ -126,9 +126,9 @@ What are trademarks and what they protect
 
 Copy link
 
-What is a trademark?
-
 What do trademarks protect?
+
+What is a trademark?
 
 How do trademarks work?
 
@@ -1631,9 +1631,9 @@ Copyright
 
 Report copyright infringement
 
-How do I protect my work?
+Protect my copyrighted work
 
-What is copyright infringement?
+Avoid copyright infringement
 
 I have a different question
 
