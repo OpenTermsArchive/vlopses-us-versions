@@ -3140,11 +3140,11 @@ About recommendations on Facebook
 
 Copy link
 
+What are Facebook recommendations?
+
 What content does Facebook recommend?
 
-What content is not recommended?
-
-What are Facebook's guidelines?
+What content does Facebook not recommend?
 
 How do Facebook recommendations work?
 
