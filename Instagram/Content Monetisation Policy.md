@@ -200,9 +200,9 @@ How do Instagram monetization policies work?
 
 How do I monetize on Instagram?
 
-How do I check monetization eligibility?
+How do I check Instagram eligibility?
 
-How do I follow Instagram policies?
+How do I get Instagram payouts?
 
 I have a different question
 
