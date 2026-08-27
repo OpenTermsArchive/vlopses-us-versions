@@ -3,13 +3,13 @@ Information for law enforcement
 
 Copy link
 
-What information does Instagram disclose?
+What Instagram user information is available?
 
-What is required for user data?
+How do I request Instagram user data?
 
-How do I make an emergency request?
+What are Instagram emergency requests?
 
-How do I preserve Instagram records?
+What are Instagram child safety requests?
 
 I have a different question
 
