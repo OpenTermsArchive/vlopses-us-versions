@@ -3,16 +3,6 @@ Information for law enforcement
 
 Copy link
 
-What Instagram user information is available?
-
-How do I request Instagram user data?
-
-What are Instagram emergency requests?
-
-What are Instagram child safety requests?
-
-I have a different question
-
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
