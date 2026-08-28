@@ -2559,11 +2559,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
-
 What is a DMCA claim?
 
-How do I report copyright?
+How do I report copyright infringement?
+
+How do I contact Meta's DMCA agent?
 
 I have a different question
 
