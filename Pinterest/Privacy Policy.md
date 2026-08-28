@@ -3,6 +3,8 @@ Privacy Policy
 
 ==================
 
+_We're updating our Privacy Policy, effective November 12, 2026. You can preview the updated Privacy Policy [here](https://policy.pinterest.com/privacy-policy-preview)._
+
 State Privacy Law Disclosure & Notice at Collection
 ===================================================
 
