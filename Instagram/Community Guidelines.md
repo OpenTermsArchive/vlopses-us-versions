@@ -829,6 +829,11 @@ On Facebook, we will seek further information before taking actions ranging from
 *   Create an account that represents a non-human entity, such as a business, pet, or fictional character
     
 *   Maintain empty profiles with prolonged dormancy
+    
+
+**Fan, satire, and parody accounts**
+
+We allow accounts dedicated to fan sentiment, humor, parody, satire, criticism, commentary, and opinion. The account must make its unofficial status abundantly clear at minimum in the account name and ideally elsewhere on the profile, such as in the profile photo or bio (e.g., by including "fan page" in the handle/name). Accounts that do not clearly disclose their unofficial nature may be restricted or removed.
 
 - - -
 
