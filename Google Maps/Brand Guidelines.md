@@ -11,8 +11,8 @@ Brands Select a brand Google
 *   Android TV
 *   Android XR
 *   Cars with Google built-in
-*   Chrome
 *   Chromebook
+*   Chrome (browser)
 *   Diversity and inclusion
 *   Family Link
 *   Fast Pair
