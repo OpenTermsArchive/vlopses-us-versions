@@ -4598,8 +4598,6 @@ Restricted targeting in Personalized advertising
 
 To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right corner of the video player, select "Captions," and then specify your language.
 
-* * *
-
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
 Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465?sjid=9765722906555425801-NA#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users.  Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details.
@@ -4852,8 +4850,6 @@ Restricted targeting in Personalized advertising
 
 To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right corner of the video player, select "Captions," and then specify your language.
 
-* * *
-
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
 Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465?sjid=9765722906555425801-NA#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users.  Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details.
@@ -5046,8 +5042,6 @@ Google provides translated versions of the Advertising Policies Help Center, tho
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
 To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right corner of the video player, select "Captions," and then specify your language.
-
-* * *
 
 We take legal requirements and the safety of users seriously. Advertiser actions that put our users, Google, or our partners at risk can lead to an account suspension from using Google Ads. This is important for us to maintain a healthy and sustainable digital advertising ecosystem with user protection at its core.
 
