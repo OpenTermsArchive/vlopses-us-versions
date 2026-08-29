@@ -2850,13 +2850,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do I protect my intellectual property?
+How do Facebook Rights Manager tools work?
 
-What is Facebook Rights Manager?
+How do Facebook content protection tools work?
 
-What is Facebook content protection?
+How do I apply for Facebook copyright tools?
 
-How do I report copyright infringement?
+How do I report Facebook copyright infringement?
 
 I have a different question
 
@@ -2880,7 +2880,7 @@ Actions you can take with our copyright management tools
 When your content is detected on a Page, profile, or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
 
 *   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
-*   **Block**: Prevent the matching content from being visible to anyone other than the Page, profile, or Instagram account that posted it.
+*   **Hide**: Prevent the matching content from being visible to anyone other than the Page, profile, or Instagram account that posted it.
 *   **Monetize**: You may be able to claim money earned from a video that is eligible for monetization on Meta platforms. Note: this feature is not available to all creators using content protection and/or Rights Manager at this time.
 *   **Apply credit or ownership links**: You may be able to insert a banner below select Facebook matches linking it to your own content, Page, or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
