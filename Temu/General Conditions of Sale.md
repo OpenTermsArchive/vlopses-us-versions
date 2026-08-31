@@ -278,7 +278,7 @@ Temu | Shipping Info
 Shipping options
 ----------------
 
-You may choose standard shipping, express shipping or Click & Collect depending on the items in your order and your location. As your orders may be handed over to local carriers for the final leg of delivery, tracking may not be available every step of the way.
+You may choose standard shipping or express shipping depending on the items in your order and your location. As your orders may be handed over to local carriers for the final leg of delivery, tracking may not be available every step of the way.
 
 Shipping address
 ----------------
