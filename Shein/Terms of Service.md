@@ -22,8 +22,6 @@ Please note that we will use your Content solely for the purpose of providing se
 
 - - -
 
-SHEIN Saver TERMS AND CONDITIONS
-
 SHEIN SAVER
 
 TERMS AND CONDITIONS
