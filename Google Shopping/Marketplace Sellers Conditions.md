@@ -24,13 +24,13 @@ Our Shopping ads policies cover four broad areas:
 
 **[Site requirements](#site):** Standards for your ads and website
 
-Click through the policies below for policy definitions, examples, and troubleshooting steps.
+Review the policies below for policy definitions, examples, and troubleshooting steps.
 
 We use a combination of Google AI and human evaluation to ensure that Shopping ads comply with these policies. Our enforcement technologies use Google AI, modeled on human reviewers’ decisions, to help protect our customers and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
 
 We take action on content that violates our policies. This may include disapproving violating Shopping ads so they don’t serve, temporarily capping ad impressions for some accounts flagged by Google AI, and suspending accounts for repeat or egregious violations.
 
-We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your Shopping ads is disapproved, [you can fix that shopping ad or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (for this link to work, you’ll need to be signed into your Google Ads account).
+We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your Shopping ads is disapproved, [you can fix that shopping ad or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (you must be signed into your Google Ads account to access the appeal form).
 
 ### Prohibited content
 
@@ -64,7 +64,7 @@ We will provide you with information on our decision for any policy violation en
 > 
 > For this reason, Shopping ads and free product listings don't allow the promotion of certain content where we don't offer an optimal user experience.
 > 
-> Note that because these limitations are specific to Shopping ads and free listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to Shopping ads and free listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
 ### Prohibited practices
 
@@ -79,7 +79,7 @@ We will provide you with information on our decision for any policy violation en
 
 #### [Irresponsible data collection & use](https://support.google.com/merchants/merchants/answer/6150122)
 
-> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
 > _Examples of user information that must be handled with care:_ full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
@@ -97,7 +97,7 @@ We will provide you with information on our decision for any policy violation en
 > Google doesn't want users to feel misled by the content promoted in Shopping ads, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
 > 
 > *   Promotions that prompt users to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the user’s explicit consent
-> *   Promotions that represent you or your products in a way that is not accurate, realistic, and truthful
+> *   Promotions that represent you or your products in a way that isn't accurate, realistic, and truthful
 
 ### Restricted content
 
@@ -190,11 +190,11 @@ We want to deliver ads that are engaging for users without being annoying or dif
 > 
 > _Examples of promotions that don't meet these editorial and professional requirements:_
 > 
-> *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> *   a display URL that doesn't accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
 > *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
 > *   sites that are under construction, parked domains, or are just not working
 > *   sites that have disabled the browser's back button
-> *   sites that are not viewable in commonly used browsers
+> *   sites that aren't viewable in commonly used browsers
 
 About our policies
 ------------------
@@ -2166,7 +2166,7 @@ Violations of this policy are taken very seriously and are considered egregious.
 
 Below are some examples of what to avoid in your offers.
 
-**On this page**
+#### On this page
 
 *   [Unacceptable business practices](#unacceptable_business_practices)
 *   [Misleading or unrealistic offers](#misleading_offers)
@@ -2320,11 +2320,11 @@ Best practices (non-exhaustive)
 Review this non-exhaustive list of best practices to help ensure that your listings comply with this policy.
 
 *   **Deliver what customers paid for**: Provide the products or services customers purchased, meeting agreed-upon specifications.
-*   **Describe your business on your website**: Make sure your website has updated contact information and a clear explanation of what your company does, like on an "About us" page.
+*   **Describe your business on your website**: Ensure your website has updated contact information and a clear explanation of what your company does, like on an "About us" page.
 *   **Use your own branding**: Use your own name, logo, images, and colors on your website and in your ads.
 *   **Avoid using another brand’s identity in a misleading way**: Avoid using another brand’s name, logo, images, and colors in ways that can trick people. Don’t misspell another brand’s name in your ad text, like “G00gle”. When referencing another brand, follow Google’s policy on [trademarks](https://support.google.com/merchants/answer/12078092).
 *   **Be clear about your partnerships**: If you're an official or authorized partner of another brand, ask them to mention you on their website in addition to making your relationship clear on your own website and ads. If you reference another brand but you're not an official or authorized partner, consider a disclaimer on your website and in your listings.
-*   **Be qualified to do the work you advertise**: Have all necessary certifications to provide your products and services. If you list any certifications on your website, make sure they’re up to date.
+*   **Be qualified to do the work you advertise**: Have all necessary certifications to provide your products and services. If you list any certifications on your website, ensure they’re up to date.
 
 * * *
 
