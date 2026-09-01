@@ -2488,13 +2488,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report Facebook copyright?
-
-What is Facebook copyright infringement?
-
-How do I contact Facebook designated agent?
+How do I report copyright infringement?
 
 What happens after I report copyright?
+
+How do I contact a designated agent?
+
+How do I message content owner?
 
 I have a different question
 
