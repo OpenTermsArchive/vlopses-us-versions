@@ -128,7 +128,7 @@ In the event the Program must be terminated due to an unforeseeable event, SHEIN
 
 SHEIN U.S. TERMS OF USE
 
-**Effective Date: April 10, 2026**
+**Effective Date: September 3, 2026**
 
 Welcome to SHEIN’s US web, mobile site and mobile application.
 
@@ -322,7 +322,7 @@ We have no control over, assume no responsibility for, and do not endorse or ver
 
 **GENERAL TERMS & DISPUTES. WITHOUT LIMITATION OUR TEXT MESSAGING PROGRAM IS SUBJECT TO THESE COMPLETE TERMS, WHICH CONTAIN PROVISIONS THAT GOVERN HOW CLAIMS YOU AND WE HAVE AGAINST EACH OTHER ARE RESOLVED (SEE LEGAL DISPUTES AND ARBITRATION AGREEMENT SECTION BELOW), INCLUDING AN OBLIGATION TO ARBITRATE DISPUTES, WHICH WILL, SUBJECT TO LIMITED EXCEPTIONS, REQUIRE YOU TO SUBMIT CLAIMS YOU HAVE AGAINST US, INCLUDING WITHOUT LIMITATION, ANY CLAIMS RELATING TO TEXT MESSAGES YOU RECEIVE FROM US, TO BINDING ARBITRATION, UNLESS YOU OPT-OUT IN ACCORDANCE WITH THE ARBITRATION SECTION BELOW.**
 
-**9.1 Enrollment. You must expressly opt in to SHEIN’s text messaging program (the “Program”) to receive Program messages.** By enrolling, you expressly consent to receive recurring text messages from SHEIN at the telephone number you designated, including advertising, marketing, news, updates, and other information from or on behalf of SHEIN. You acknowledge and agree that Program messages may be sent using an automatic telephone dialing system, another automated system for the selection and dialing of telephone numbers, or any other messaging technology. Your consent to participate in our Program is not required (directly or indirectly) as a condition of purchasing any property, goods, or services and it is not required to use our Site, App, or Services.
+**9.1 Enrollment. You must expressly opt in to SHEIN’s text messaging program (the “Program”) to receive Program messages.** By enrolling, you expressly consent to receive recurring text messages from SHEIN at the telephone number you designated, including advertising, marketing, news, updates, cart reminders, and other information from or on behalf of SHEIN. You acknowledge and agree that Program messages may be sent using an automatic telephone dialing system, another automated system for the selection and dialing of telephone numbers, or any other messaging technology. Your consent to participate in our Program is not required (directly or indirectly) as a condition of purchasing any property, goods, or services and it is not required to use our Site, App, or Services.
 
 **9.2 Message Frequency.** Program message frequency varies and we may change the frequency of the messages you receive at any time, including in response to your interactions with us.
 
