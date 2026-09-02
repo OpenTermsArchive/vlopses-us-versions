@@ -3,6 +3,8 @@ Community guidelines
 
 ========================
 
+_We're updating our Community Guidelines, effective November 12, 2026. You can preview the updated Community Guidelines [here](https://policy.pinterest.com/community-guidelines-preview)._
+
 Our mission
 ===========
 
