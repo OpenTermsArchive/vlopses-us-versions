@@ -960,13 +960,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report intellectual property?
+How do I report Facebook copyright?
 
-What is intellectual property infringement?
+How do I report Facebook trademark?
 
-How do I report copyright infringement?
-
-How do I report trademark infringement?
+What is Facebook intellectual property?
 
 I have a different question
 
@@ -2490,13 +2488,13 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report Facebook copyright?
+
+What is Facebook copyright infringement?
+
+How do I contact Facebook designated agent?
 
 What happens after I report copyright?
-
-How do I contact Facebook's agent?
-
-How do I resolve copyright without Meta?
 
 I have a different question
 
