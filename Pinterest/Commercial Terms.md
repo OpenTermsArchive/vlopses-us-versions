@@ -114,6 +114,8 @@ Advertising guidelines
 
 ==========================
 
+_We're updating our Advertising Guidelines, effective November 12, 2026. You can preview the updated Advertising Guidelines [here](https://policy.pinterest.com/advertising-guidelines-preview)._
+
 Our mission
 ===========
 
