@@ -540,8 +540,7 @@ The absence of a product or service name or logo from this list does not constit
 | AirPort Time Capsule® | wireless hard drive/Wi-Fi base station |
 | AirPrint® | software feature |
 | AirTag® | accessories |
-| AirTunes™ | application program |
-| AlarmKit™ | software framework |
+| AlarmKit® | software framework |
 | Animoji® | messaging feature |
 | Aperture® | application program |
 | App Clip Code® | software feature |
@@ -554,6 +553,7 @@ The absence of a product or service name or logo from this list does not constit
 | Apple Cash® | software feature |
 | Apple Cinema Display® | computer monitor |
 | Apple Creator Studio™ | suite of application programs |
+| Apple Games® | application program |
 | Apple Immersive Video™ | entertainment format |
 | Apple Intelligence™ | personal intelligence system |
 | Apple Invites™ | application program |
@@ -599,13 +599,18 @@ The absence of a product or service name or logo from this list does not constit
 | ChromaVerb® | application feature |
 | Cinema Tools™ | application program |
 | Claris® | software |
+| ClockKit® | software framework |
 | Close Your Rings® | software feature, wellness programs |
 | Cocoa® | software technology |
 | Cocoa Touch® | software technology |
 | ColorSync® | application program |
 | Co-ML® | software framework |
+| Core Animation® | software framework |
+| Core Haptics® | software framework |
 | Core ML® | developer software |
 | Cover Flow® | application program |
+| Create ML® | software framework |
+| CryptoKit® | software framework |
 | Dashcode® | developer software |
 | Deep Fusion® | camera feature |
 | Digital Crown® | input device |
@@ -633,10 +638,13 @@ The absence of a product or service name or logo from this list does not constit
 | FireWire® | serial bus |
 | Flyover® | software feature |
 | Force Touch® | trackpads |
+| FoundationDB® | software framework |
 | Freeform® | application program |
 | GarageBand® | application program |
+| GamePlayKit® | software framework |
 | Geneva® | computer font |
 | Genmoji™ | software feature |
+| Grand Central Dispatch® | software framework |
 | Guided Access® | operating system feature |
 | GymKit® | software framework |
 | Handoff® | software feature |
@@ -646,7 +654,6 @@ The absence of a product or service name or logo from this list does not constit
 | HomePod mini® | speaker |
 | HyperCard® | application program |
 | HyperTalk™ | application program |
-| iAd WorkBench™ | software |
 | iBeacon® | location and proximity detection technology |
 | iBook™ | computer |
 | iBooks® | application program |
@@ -670,7 +677,6 @@ The absence of a product or service name or logo from this list does not constit
 | iPhone® | mobile digital device |
 | iPhone Air® | mobile digital device |
 | iPod® | mobile digital device |
-| iPod classic® | mobile digital device |
 | iPod nano® | mobile digital device |
 | iPod shuffle® | mobile digital device |
 | iPod touch® | mobile digital device |
@@ -725,13 +731,16 @@ The absence of a product or service name or logo from this list does not constit
 | Memoji® | messaging feature |
 | Memory Looks® | software feature |
 | Memory Mixes® | software feature |
+| Menlo® | computer font |
 | Metal® | software technology |
+| MetricKit® | software framework |
 | MainStage® | application program |
 | Mission Control® | operating system feature |
 | Monaco® | computer font |
 | Motion® | application program |
 | MPX Module® | expansion module |
 | Music Memos® | application program |
+| MusicKit® | software framework |
 | NameDrop® | software feature |
 | NetInfo™ | computer software |
 | Newton™ | operating system software |
@@ -745,6 +754,7 @@ The absence of a product or service name or logo from this list does not constit
 | Optic ID® | secure authentication |
 | OS X® | operating system software |
 | Pages® | application program |
+| PencilKit® | software framework |
 | Phat FX® | application feature |
 | Photo Booth® | application program |
 | Photomator® | application program |
@@ -752,7 +762,7 @@ The absence of a product or service name or logo from this list does not constit
 | Pixelmator® | application program |
 | Pixelmator Pro® | application program |
 | Pixlet® | compression application program |
-| PKL™ | software framework |
+| PKL® | software framework |
 | Podcast Logo® | application feature |
 | PowerBook® | computer |
 | Power Mac® | computer |
@@ -773,12 +783,15 @@ The absence of a product or service name or logo from this list does not constit
 | Reality Composer Pro® | software |
 | Reality Converter® | software |
 | RealityKit® | software |
+| ReplayKit® | software framework |
 | ResearchKit® | software framework |
 | Retina® | display |
 | Retina HD® | display |
 | Rosetta® | application program |
 | Safari® | application program |
 | Sand® | computer font |
+| San Francisco® | computer typeface |
+| SceneKit® | software framework |
 | SensorKit® | software framework |
 | ServiceTalk® | software framework |
 | SF Symbols® | application program |
@@ -787,7 +800,7 @@ The absence of a product or service name or logo from this list does not constit
 | Shazam® | application program |
 | Sherlock® | application program |
 | Sidecar® | software feature |
-| SignTime™ | software feature |
+| SignTime® | software feature |
 | SilverVerb® | application feature |
 | Siri® | voice recognition software |
 | SiriKit® | developer software |
@@ -807,6 +820,7 @@ The absence of a product or service name or logo from this list does not constit
 | Soundtrack® | application program |
 | Spaces® | operating system feature |
 | Spotlight® | software utility |
+| SpriteKit® | software framework |
 | Stage Manager® | software feature |
 | StoreKit® | software framework |
 | Studio Display® | computer monitor |
@@ -836,6 +850,8 @@ The absence of a product or service name or logo from this list does not constit
 | TrueDepth® | camera |
 | True Tone® | camera flash and display technology |
 | TrueType® | font technology |
+| Turi® | software framework |
+| Turi Create® | software framework |
 | tvOS® | software platform for television |
 | Ultra Retina XDR® | display |
 | Ultrabeat® | application feature |
@@ -846,10 +862,11 @@ The absence of a product or service name or logo from this list does not constit
 | watchOS® | software platform for wrist wearable devices |
 | WaveBurner® | application program |
 | WeatherKit® | software framework |
+| WebKit® | software framework |
 | WebObjects® | software |
 | WebScript™ | computer software |
+| WorkoutKit® | software framework |
 | Xcode® | developer software |
-| Xcode Cloud® | developer platform |
 | Xgrid® | application program |
 | Xsan® | application program |
 | Xserve® | server |
@@ -896,7 +913,6 @@ The absence of a product or service name or logo from this list does not constit
 | Genius Bar® | service and support program |
 | Genius Bar logo® | service and support program |
 | Genius Grove® | support services |
-| iAd℠ | mobile advertising platform |
 | iBooks Store℠ | online store |
 | iCloud® | online service |
 | iCloud+® | online service |
@@ -933,13 +949,14 @@ The absence of a product or service name or logo from this list does not constit
 | Time to Walk or Push® | fitness program |
 | Today at Apple® | experiential programs |
 | Vingle® | feature of online store |
+| Xcode Cloud® | software development services |
 
 SPECIAL AND LICENSED TRADEMARKS AND/OR COPYRIGHTS  
 Use the trademark notation shown here the first time the trademark is mentioned in text in U.S. publications. Include the credit line in all U.S and international publications in which the trademark is mentioned.
 
 The Apple TV+, Apple Fitness+, and Apple Music services and all materials incorporated on the services (including, but not limited to text, photographs, images, video, music, and audio content) are protected by copyright, patent, trade secret, or other proprietary rights under the laws of the United States and other countries and regions. Some of the titles, characters, logos, or other images incorporated by Apple on these services are protected as registered or unregistered trademarks owned by Apple Inc. and its affiliates. All other trademarks are the property of their respective owners.
 
-For FileMaker, Inc. trademarks, refer to the [FileMaker, Inc](https://www.filemaker.com/). website. FileMaker marks require the trademark notation the first time the trademark is mentioned in U.S. publications and credit lines in all U.S. and international publications in which the trademark is mentioned.  
+For Claris International Inc. trademarks, refer to the [Claris](https://www.claris.com/company/legal/trademark-guidelines.html) website. Claris marks require the trademark notation the first time the trademark is mentioned in U.S. publications and credit lines in all U.S. and international publications in which the trademark is mentioned.  
 
 For NeXT trademarks, refer to the [NeXT Trademarks List](https://www.apple.com/legal/intellectual-property/trademark/nexttmlist.html).
 
@@ -1060,6 +1077,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of July 14, 2026.
+This list includes updates as of August 27, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
