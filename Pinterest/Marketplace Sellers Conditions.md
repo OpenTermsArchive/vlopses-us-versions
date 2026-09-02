@@ -3,6 +3,8 @@ Merchant guidelines
 
 =======================
 
+_We're updating our Merchant Guidelines, effective November 12, 2026. You can preview the updated Merchant Guidelines [here](https://policy.pinterest.com/merchant-guidelines-preview)._
+
 Our mission
 ===========
 
