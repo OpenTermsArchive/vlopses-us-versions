@@ -932,7 +932,7 @@ Display requirements for showing X Posts in your app, including branding, attrib
 General principles and Post anatomy
 --------------------------------------------------------------------------------
 
-Posts are one of our most visible brand elements, so it’s important that they are presented correctly. You should comply with the display requirements below when you display posts, timelines, and other X content. If you follow these guidelines merely to display a post, you may not need to contact X for any additional display or trademark permissions. However, you may still want to submit your proposed use and context for X review. (Note that, in some cases, permission from the original content creator may still be necessary, as X does not provide permission to use third party/user content.) The following general principles apply to all display mediums. Please note, medium-specific requirements do apply, and are outlined in the sections below. The image below shows all the main components of a post. ![Post Anatomy](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_anatomy.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=b2201fb7dfc97422364f6ad58cf9d69d)
+Posts are one of our most visible brand elements, so it’s important that they are presented correctly. You should comply with the display requirements below when you display posts, timelines, and other X content. If you follow these guidelines merely to display a post, you may not need to contact X for any additional display or trademark permissions. However, you may still want to submit your proposed use and context for X review. (Note that, in some cases, permission from the original content creator may still be necessary, as X does not provide permission to use third party/user content.) The following general principles apply to all display mediums. Please note, medium-specific requirements do apply, and are outlined in the sections below. The image below shows all the main components of a post.
 
 ### 
 
@@ -963,7 +963,7 @@ Don’t
 Online display / Mobile, web, and beyond
 ----------------------------------------------------------------------------------------
 
-We’re committed to bringing the ease and power of X to everyone. To ensure every post is displayed optimally, we strongly encourage using [embedded posts and/or embedded timelines](https://publish.x.com/). When you use these products to publish X content, posts and timelines are automatically rendered correctly, including advanced features like photos, video playback, edited posts, and fetching of up-to-date X data without OAuth. If it is not possible for you to use our embedding features, you must follow the requirements below when displaying posts and timelines online. ![Post Display](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_display.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=787f1dd97a0d4bb1481cf2e6f01debb4)
+We’re committed to bringing the ease and power of X to everyone. To ensure every post is displayed optimally, we strongly encourage using [embedded posts and/or embedded timelines](https://publish.x.com/). When you use these products to publish X content, posts and timelines are automatically rendered correctly, including advanced features like photos, video playback, edited posts, and fetching of up-to-date X data without OAuth. If it is not possible for you to use our embedding features, you must follow the requirements below when displaying posts and timelines online.
 
 ### 
 
@@ -1053,7 +1053,7 @@ If you plan any advertising near posts, please ensure it complies with the [Deve
 Broadcast display / 15 minutes of fame
 --------------------------------------------------------------------------------------
 
-We welcome and encourage the use of X in broadcast media. Our requirements ensure that X users receive proper attribution for their content, and help provide the best experience for your audience. ![Post Broadcast](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_broadcast.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=67e809a799bc93689a959b49991d4b65)
+We welcome and encourage the use of X in broadcast media. Our requirements ensure that X users receive proper attribution for their content, and help provide the best experience for your audience.
 
 ### 
 
@@ -1130,23 +1130,17 @@ Please follow the following guidelines for displaying replies.
 
 For a default reply:
 
-![Post Reply](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_reply.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=58b7f1c3ab1b1065a967ea82bf856220)
-
 ### 
 
 [​](#for-a-reply-with-social-context)
 
 For a reply with social context:
 
-![Post Reply Social](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_reply_social.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=a92e93d9519f6915f2e6ee7c13ad0721)
-
 ### 
 
 [​](#for-a-quote)
 
 For a Quote:
-
-![Post Reply Quote](https://mintcdn.com/x-preview/bp5F-UotxPjZVbxj/images/post_reply_quote.png?fit=max&auto=format&n=bp5F-UotxPjZVbxj&q=85&s=59d390ba2bc07193dd9d2090be4b08e9)
 
 ⌘I
 
