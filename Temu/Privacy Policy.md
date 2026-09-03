@@ -311,8 +311,8 @@ If you have any questions or comments about our Privacy Policy or the terms ment
 
 - - -
 
-Temu | United States | Addendum for U.S. Residents
-==================================================
+Temu | United States | Privacy Policy Addendum for U.S. Residents
+=================================================================
 
 Last Updated: November 14, 2025
 
