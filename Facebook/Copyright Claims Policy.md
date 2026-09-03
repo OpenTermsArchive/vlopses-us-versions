@@ -1154,9 +1154,7 @@ What information for trademark report?
 
 How do I submit a trademark report?
 
-What is trademark infringement?
-
-How do I find content URLs?
+What is a trademark infringement?
 
 I have a different question
 
