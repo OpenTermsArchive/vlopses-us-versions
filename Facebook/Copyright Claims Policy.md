@@ -554,9 +554,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -572,11 +572,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
