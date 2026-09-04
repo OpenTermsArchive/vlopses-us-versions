@@ -96,3 +96,14 @@ Regarding app abuse
 ===================
 
 We want developer applications to help everyone find the inspiration to create a life they love. Apps created for abuse (for example, apps created to spread spam) are not permitted. In addition, we expect developers to be responsible partners in abuse prevention and to take steps to mitigate the risk of their app being used in harmful ways by end users. This includes, for example, not offering features that facilitate spamming Pinterest or other users.We may remove apps in order to protect Pinners at any time.
+
+Table of Contents
+-----------------
+
+*   [Our mission](https://policy.pinterest.com/en/developer-guidelines#section-our-mission)
+*   [The basics](https://policy.pinterest.com/en/developer-guidelines#section-the-basics)
+*   [What to do](https://policy.pinterest.com/en/developer-guidelines#section-what-to-do)
+*   [What not to do](https://policy.pinterest.com/en/developer-guidelines#section-what-not-to-do)
+*   [Publishing content](https://policy.pinterest.com/en/developer-guidelines#section-publishing-content)
+*   [Audience & advertiser services](https://policy.pinterest.com/en/developer-guidelines#section-audience-advertiser-services)
+*   [Regarding app abuse](https://policy.pinterest.com/en/developer-guidelines#section-regarding-app-abuse)
