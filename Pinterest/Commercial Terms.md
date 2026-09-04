@@ -92,6 +92,14 @@ We may remove, limit or block the distribution of content or accounts that viola
 
 Last updated: April 2025
 
+Table of Contents
+-----------------
+
+*   [Commercial Content Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-commercial-content-guidelines)
+*   [Paid Partnership Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-paid-partnership-guidelines)
+*   [Affiliate Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-affiliate-guidelines)
+*   [Contest Guidelines](https://policy.pinterest.com/en/commercial-and-branded-content-guidelines#section-contest-guidelines)
+
 - - -
 
 Merchant guidelines enforcement
@@ -2032,6 +2040,20 @@ Keep in mind...
 You need to make sure your ads follow our standard ad guidelines and any country-specific guidelines. You need to follow all applicable local laws, regulations and industry codes, and obtain any necessary permits or permissions for any area your ads will be shown in. Pinterest reserves the right to request these permits/permissions should we require them. You must also follow our community guidelines, terms and the above advertising guidelines, including our targeting guidelines. These advertising guidelines apply to all parts of your promoted content, including the image, description and destination—and they also apply to targeting features like keyword and audience targeting.
 
 We reserve the right to reject or remove any ad that negatively affects our relationship with people on Pinterest or that goes against our interests. We may also remove ads, categories of ads, or advertisers that get lots of negative feedback from people on Pinterest. These rules may change at any time.
+
+Table of Contents
+-----------------
+
+*   [Our mission](https://policy.pinterest.com/en/advertising-guidelines#section-our-mission)
+*   [Be authentic with your audience](https://policy.pinterest.com/en/advertising-guidelines#section-be-authentic-with-your-audience)
+*   [Be respectful with your targeting](https://policy.pinterest.com/en/advertising-guidelines#section-be-respectful-with-your-targeting)
+*   [Be careful with any data usage](https://policy.pinterest.com/en/advertising-guidelines#section-be-careful-with-any-data-usage)
+*   [Be thoughtful with your editorial](https://policy.pinterest.com/en/advertising-guidelines#section-be-thoughtful-with-your-editorial)
+*   [Be responsible with your content](https://policy.pinterest.com/en/advertising-guidelines#section-be-responsible-with-your-content)
+*   [Prohibited content guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-prohibited-content-guidelines)
+*   [Restricted content guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-restricted-content-guidelines)
+*   [Country-specific guidelines](https://policy.pinterest.com/en/advertising-guidelines#section-country-specific-guidelines)
+*   [Keep in mind...](https://policy.pinterest.com/en/advertising-guidelines#section-keep-in-mind)
 
 - - -
 
