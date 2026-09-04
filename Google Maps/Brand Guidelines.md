@@ -17,6 +17,7 @@ Brands Select a brand Google
 *   Family Link
 *   Fast Pair
 *   Find Hub
+*   Gemini Intelligence
 *   Google
 *   Google Assistant
 *   Google Cast
