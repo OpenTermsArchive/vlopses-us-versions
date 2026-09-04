@@ -91,3 +91,13 @@ Finally, your mobile device has settings that allow you to control how ad partne
 Effective date: September 28, 2019  
   
 Last updated: July 1, 2021
+
+Table of Contents
+-----------------
+
+*   [Cookies on Pinterest](https://policy.pinterest.com/en/cookies#section-cookies-on-pinterest)
+*   [What’s a cookie](https://policy.pinterest.com/en/cookies#section-whats-a-cookie)
+*   [How we use cookies](https://policy.pinterest.com/en/cookies#section-how-we-use-cookies)
+*   [What we do with the cookies in each category](https://policy.pinterest.com/en/cookies#section-what-we-do-with-the-cookies-in-each-category)
+*   [Where we use cookies](https://policy.pinterest.com/en/cookies#section-where-we-use-cookies)
+*   [Your options](https://policy.pinterest.com/en/cookies#section-your-options)
