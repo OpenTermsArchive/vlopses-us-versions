@@ -91,3 +91,13 @@ In addition to our copyright reporting channels, Pinterest also offers the Conte
 Anyone who owns exclusive copyright to content can [apply](https://www.pinterest.com/about/content-claiming/application/) for access to the Content Claiming Portal. We review applications to see if the rights holder is a good fit for the tool. If an application is approved, the rights holder will be able to upload their original content and tell us whether they want the content to appear on Pinterest or not. Their selected enforcement will apply to both existing matches and future matches added to Pinterest.
 
 To learn more, visit our [Content Claiming Portal](https://help.pinterest.com/article/get-started-with-the-content-claiming-portal) article.
+
+Table of Contents
+-----------------
+
+*   [Submit a copyright infringement report](https://policy.pinterest.com/en/copyright#section-submit-a-copyright-infringement-report)
+*   [What if my content is removed based on a copyright infringement report?](https://policy.pinterest.com/en/copyright#section-what-if-my-content-is-removed-based-on-a-copyright-infringement-report)
+*   [How to file a counter notification](https://policy.pinterest.com/en/copyright#section-how-to-file-a-counter-notification)
+*   [Repeat infringers](https://policy.pinterest.com/en/copyright#section-repeat-infringers)
+*   [Appeal a copyright strike](https://policy.pinterest.com/en/copyright#section-appeal-a-copyright-strike)
+*   [Content Claiming Portal](https://policy.pinterest.com/en/copyright#section-content-claiming-portal)
