@@ -84,3 +84,11 @@ We don’t allow the following products to be product Pins:
     *   Weapons and explosives products
 
 To learn more about the Verified Merchant Program, please visit [our business site](https://business.pinterest.com/verified-merchant-program).
+
+Table of Contents
+-----------------
+
+*   [Our mission](https://policy.pinterest.com/en/merchant-guidelines#section-our-mission)
+*   [General merchant guidelines](https://policy.pinterest.com/en/merchant-guidelines#section-general-merchant-guidelines)
+*   [Merchant requirements](https://policy.pinterest.com/en/merchant-guidelines#section-merchant-requirements)
+*   [Product requirements](https://policy.pinterest.com/en/merchant-guidelines#section-product-requirements)
