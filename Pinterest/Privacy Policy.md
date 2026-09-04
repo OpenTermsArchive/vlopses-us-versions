@@ -483,6 +483,24 @@ You can also contact our [Data Protection Officer](https://help.pinterest.com/da
 
 Effective date: April 30, 2025
 
+Table of Contents
+-----------------
+
+*   [State Privacy Law Disclosure & Notice at Collection](https://policy.pinterest.com/en/privacy-policy#section-state-privacy-law-disclosure-notice-at-collection)
+*   [Summary of changes](https://policy.pinterest.com/en/privacy-policy#section-summary-of-changes)
+*   [Thank you for using Pinterest!](https://policy.pinterest.com/en/privacy-policy#section-thank-you-for-using-pinterest)
+*   [Scope of the Privacy Policy](https://policy.pinterest.com/en/privacy-policy#section-scope-of-the-privacy-policy)
+*   [We collect information in a few different ways](https://policy.pinterest.com/en/privacy-policy#section-we-collect-information-in-a-few-different-ways)
+*   [How we use the info we collect](https://policy.pinterest.com/en/privacy-policy#section-how-we-use-the-info-we-collect)
+*   [Additional Info for EEA, Swiss and UK Data Subjects: Legal bases we rely on where we use your information](https://policy.pinterest.com/en/privacy-policy#section-additional-info-for-eea-swiss-and-uk-data-subjects-legal-bases-we-rely-on-where-we-use-your-information)
+*   [Your Rights and Choices](https://policy.pinterest.com/en/privacy-policy#section-your-rights-and-choices)
+*   [How and when we share information](https://policy.pinterest.com/en/privacy-policy#section-how-and-when-we-share-information)
+*   [Transferring your information](https://policy.pinterest.com/en/privacy-policy#section-transferring-your-information)
+*   [How long we keep your information](https://policy.pinterest.com/en/privacy-policy#section-how-long-we-keep-your-information)
+*   [Our policy on children's information](https://policy.pinterest.com/en/privacy-policy#section-our-policy-on-childrens-information)
+*   [How we make changes to this policy](https://policy.pinterest.com/en/privacy-policy#section-how-we-make-changes-to-this-policy)
+*   [Contact us](https://policy.pinterest.com/en/privacy-policy#section-contact-us)
+
 - - -
 
 Sales Privacy Policy
@@ -574,6 +592,16 @@ Contact us
 ==========
 
 To ask any questions related to this Notice, or if you would like to exercise your rights, please reach out through our [Help Center](https://help.pinterest.com/contact). If you are located in the EU or UK, you can also submit an inquiry or complaint to Pinterest’s Data Protection Officer, available through the [Data Protection Officer Contact Form](https://help.pinterest.com/data-protection-officer-contact-form). You also have the right to lodge a complaint with the competent data protection supervisory authority. In the EU this is the Irish Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963, Ireland. In the UK, the relevant data protection authority is the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email: [casework@ico.org.uk](mailto:casework@ico.org.uk).
+
+Table of Contents
+-----------------
+
+*   [Our collection and use of personal data](https://policy.pinterest.com/en/sales-privacy-policy#section-our-collection-and-use-of-personal-data)
+*   [Your rights and choices](https://policy.pinterest.com/en/sales-privacy-policy#section-your-rights-and-choices)
+*   [How and when we share information](https://policy.pinterest.com/en/sales-privacy-policy#section-how-and-when-we-share-information)
+*   [International data transfers](https://policy.pinterest.com/en/sales-privacy-policy#section-international-data-transfers)
+*   [How long we keep personal data](https://policy.pinterest.com/en/sales-privacy-policy#section-how-long-we-keep-personal-data)
+*   [Contact us](https://policy.pinterest.com/en/sales-privacy-policy#section-contact-us)
 
 - - -
 
@@ -738,3 +766,11 @@ Metrics disclosures
 The CCPA requires us to disclose certain metrics about the various requests we get, such as how many specific requests we received from California residents in the last calendar year. See our [CCPA Metrics Disclosure](https://policy.pinterest.com/ccpa-metrics-disclosure).
 
 Last updated: April 2025
+
+Table of Contents
+-----------------
+
+*   [Collection, Use and Disclosure Overview](https://policy.pinterest.com/en/notice-at-collection#section-collection-use-and-disclosure-overview)
+*   [Advertising Activities](https://policy.pinterest.com/en/notice-at-collection#section-advertising-activities)
+*   [Your rights under the State Privacy Laws](https://policy.pinterest.com/en/notice-at-collection#section-your-rights-under-the-state-privacy-laws)
+*   [Metrics disclosures](https://policy.pinterest.com/en/notice-at-collection#section-metrics-disclosures)
