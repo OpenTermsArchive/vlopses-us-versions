@@ -1146,7 +1146,7 @@ This page provides a revision history for the following documents:
 *   [Developer Policies](https://developers.google.com/youtube/terms/developer-policies)
 *   [Required Minimum Functionality](https://developers.google.com/youtube/terms/required-minimum-functionality)
 
-[Subscribe to this changelog](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml). [![Subscribe](/static/analytics/images/rss-o16.png)](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml)
+[Subscribe to this changelog](https://developers.google.com/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml?utm_source=docs&utm_medium=revision_history_page&utm_campaign=rss_subscribe). [![Subscribe](/static/analytics/images/rss-o16.png)](https://developers.google.com/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml?utm_source=docs&utm_medium=revision_history_page&utm_campaign=rss_subscribe)
 
 Note that, in all cases, the legal documents themselves are the authoritative source of information.
 
@@ -1278,7 +1278,7 @@ This update includes the following documents. All documents are in English unles
     
 *   The [Branding Guidelines](https://developers.google.com/youtube/terms/branding-guidelines) are not a new document, but they will apply under the Updated Terms just as they apply under the current Terms.
     
-*   This revision history and its accompanying [RSS feed](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml).
+*   This revision history and its accompanying [RSS feed](https://developers.google.com/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml?utm_source=docs&utm_medium=revision_history_page&utm_campaign=rss_subscribe).
     
 
 The following changes were made to a previous version of the Terms of Service.
