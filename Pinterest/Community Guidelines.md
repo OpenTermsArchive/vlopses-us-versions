@@ -300,6 +300,15 @@ Our guidelines around spam are:
 
 Last updated: May 2026
 
+Table of Contents
+-----------------
+
+*   [Our mission](https://policy.pinterest.com/en/community-guidelines#section-our-mission)
+*   [Content safety](https://policy.pinterest.com/en/community-guidelines#section-content-safety)
+*   [Intellectual property and other rights](https://policy.pinterest.com/en/community-guidelines#section-intellectual-property-and-other-rights)
+*   [Site security and access](https://policy.pinterest.com/en/community-guidelines#section-site-security-and-access)
+*   [Spam](https://policy.pinterest.com/en/community-guidelines#section-spam)
+
 - - -
 
 Community guidelines enforcement
