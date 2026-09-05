@@ -9,7 +9,7 @@ How is Instagram funded?
 
 What is the Instagram Privacy Policy?
 
-What are Instagram's Terms of Use?
+What are Instagram's terms of use?
 
 I have a different question
 
@@ -68,7 +68,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 **4.1 Who Can Use Instagram.** We want our Service to be as open and inclusive as possible, but we also want it to be safe, secure, and in accordance with the law. So, we need you to commit to a few restrictions in order to be part of the Instagram community.
 
-*   You must be at least 16 years old.
+*   You must be at least 13 years old or the minimum legal age in your country to use Instagram.
 *   You must not be prohibited from receiving any aspect of our Service under applicable laws or engaging in payments related Services if you are on an applicable denied party listing.
 *   We must not have previously disabled your account for violation of law or any of our policies.
 *   You must not be a convicted sex offender.
@@ -115,8 +115,20 @@ In return for our commitment to provide the Service, we require you to make the 
 **6\. Content Removal and Disabling or Terminating Your Account**
 -----------------------------------------------------------------
 
-*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Community Standards](https://transparency.meta.com/policies/community-standards/)), or we are permitted or required to do so by law. We work with independent fact-checkers in many jurisdictions to combat misinformation. When content has been rated by fact-checkers, we may add a notice to provide additional context. You can find more information about fact-checking [here](https://transparency.meta.com/en-gb/features/how-fact-checking-works/). We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your account) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Community Standards](https://transparency.meta.com/policies/community-standards/)), if you repeatedly infringe other people's intellectual property rights, or where we are permitted or required to do so by law. We can also terminate or change the Service, remove or block content or information shared on our Service, or to stop providing all or part of the Service if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts on us. If we take action to disable or terminate your account, we will notify you where appropriate. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](https://help.instagram.com/?ref=igtos).
-*   Content you delete may persist for a limited period of time in backup copies and will still be visible where others have shared it. This paragraph, and the section below called "Our Agreement and What Happens if We Disagree," will still apply even after your account is terminated or deleted.
+*   We can remove any content or information you share on the Service if we believe that it violates these Terms of Use, our policies (including our [Community Standards](https://transparency.meta.com/policies/community-standards/)), or we are permitted or required to do so by law. We work with independent fact-checkers in many jurisdictions to combat misinformation. When content has been rated by fact-checkers, we may add a notice to provide additional context. You can find more information about fact-checking [here](https://transparency.meta.com/en-gb/features/how-fact-checking-works/). We can refuse to provide or stop providing all or part of the Service to you (including terminating or disabling your access to the Meta Products and Meta Company Products) immediately to protect our community or services, or if you create risk or legal exposure for us, violate these Terms of Use or our policies (including our [Community Standards](https://transparency.meta.com/policies/community-standards/)), if you repeatedly infringe other people's intellectual property rights, or where we are permitted or required to do so by law. We can also terminate or change the Service, remove or block content or information shared on our Service, or stop providing all or part of the Service if we determine that doing so is reasonably necessary to avoid or mitigate adverse legal or regulatory impacts on us. If you believe your account has been terminated in error, or you want to disable or permanently delete your account, consult our [Help Center](https://help.instagram.com/?ref=igtos). When you request to delete content or your account, the deletion process will automatically begin no more than 30 days after your request. It may take up to 90 days to delete content after the deletion process begins. While the deletion process for such content is being undertaken, the content is no longer visible to other users, but remains subject to these Terms of Use and our [Privacy Policy](https://privacycenter.instagram.com/policy/). After the content is deleted, it may take us up to another 90 days to remove it from backups and disaster recovery systems.
+*   Content will not be deleted within 90 days of the account deletion or content deletion process beginning in the following situations:
+    
+    *   where your content has been used by others in accordance with this license and they have not deleted it (in which case this license will continue to apply until that content is deleted); or
+    *   where deletion within 90 days is not possible due to technical limitations of our systems, in which case, we will complete the deletion as soon as technically feasible; or
+    *   where deletion would restrict our ability to:
+        
+        *   investigate or identify illegal activity or violations of our terms and policies (for example, to identify or investigate misuse of our products or systems);
+        *   protect the safety and security of our products, systems, and users;
+        *   comply with a legal obligation, such as the preservation of evidence; or
+        *   comply with a request of a judicial or administrative authority, law enforcement or a government agency;
+        
+    *   in which case, the content will be retained for no longer than is necessary for the purposes for which it has been retained (the exact duration will vary on a case-by-case basis).
+    
 *   If you delete or we disable your account, and you stop accessing or using Instagram, or if this contract is otherwise terminated, then these Terms shall terminate as an agreement between you and us, but this section, the section above called “Your Commitments,” and the section below called "Our Agreement and What Happens if We Disagree" will still apply even after your account is terminated, disabled, or deleted, or this contract is otherwise terminated.
 
   
@@ -140,8 +152,9 @@ In return for our commitment to provide the Service, we require you to make the 
   
 **7.3 Who Is Responsible if Something Happens.**
 
-*   We will use reasonable skill and care in providing our Service to you and in keeping a safe, secure, and error-free environment, but we cannot guarantee that our Service will always function without disruptions, delays, or imperfections. Provided that we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses that are not reasonably foreseeable by you and us at the time of entering into these Terms; any offensive, inappropriate, obscene, unlawful, or otherwise objectionable content posted by others that you may encounter on our Service; the actions or conduct of others (whether online or offline); and events beyond our reasonable control.
-*   The above does not exclude or limit our liability for death, personal injury, or fraudulent misrepresentation caused by our negligence. It also does not exclude or limit our liability for any other things where the law does not permit us to do so.
+*   Our Service is provided "as is," and we can't guarantee it will be safe and secure or will work perfectly all the time. TO THE EXTENT PERMITTED BY LAW, WE ALSO DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+*   We also don’t control what people and others do or say, and we aren’t responsible for their (or your) actions or conduct (whether online or offline) or content (including unlawful or objectionable content). We also aren’t responsible for services and features offered by other people or companies, even if you access them through our Service.
+*   Our responsibility for anything that happens on the Service (also called "liability") is limited as much as the law will allow. If there is an issue with our Service, we can't know what all the possible impacts might be. You agree that we won't be responsible ("liable") for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms, even if we know they are possible. This includes when we delete your content, information, or account.
 
 **7.4 How We Will Handle Disputes.**
 
@@ -157,8 +170,6 @@ We always appreciate feedback or other suggestions, but may use them without any
 ----------------------------
 
 We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to access or use the Service, you will be bound by the updated Terms. If you do not agree to any updated Terms or wish to terminate your agreement to this contract, you can do so by deleting your account [here](https://help.instagram.com/370452623149242?ref=igtos) and no longer accessing or using any part of the Instagram Service.  
-
-Effective Date: 10 December 2025
 
 Other ways to get help
 ----------------------
