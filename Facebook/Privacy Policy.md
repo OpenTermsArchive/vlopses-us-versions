@@ -1644,29 +1644,7 @@ We’re investing so much in this space because we believe it provides benefits 
 
 Meta operates a global infrastructure to develop and improve AI at Meta, in accordance with applicable law, in line with our [Privacy Policy](https://www.facebook.com/privacy/policy?section_id=9-HowDoWeTransfer&entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US).
 
-Our legal bases for processing information
-------------------------------------------
-
-We are committed to being transparent about the legal bases that we use for processing information. We believe use of this information is in the legitimate interests of Meta, our users, and other people. Where applicable, we rely on an adequate legal basis to collect and process this data.
-
-To build generative AI that is robust, safe, and helpful, we develop our models in distinct stages. Our models are generally trained in two stages:
-
-*   Pre-training is the initial, large-scale learning phase where a model is exposed to a massive amount of general data. The goal is for the model to learn broad patterns — grammar, facts, reasoning, structure — without being specifically trained to perform any particular task. Think of it like a student getting a general education before choosing a specialty.
-*   Post-training takes a pre-trained model and trains it further on a smaller, more targeted dataset or set of instructions to specialize it for a particular use case or to improve specific behaviors. For example, a pre-trained model can be post-trained to power a conversational chatbot or to generate computer programming code.
-
-We process the training information at these stages for the purpose of developing and improving generative AI models for AI at Meta.
-
-Your right to object
---------------------
-
-You have rights related to how your information is used for AI at Meta.
-
-*   This includes the right to object to your interactions with features that are part of AI at Meta and the public information you’ve shared on Meta Products being used to develop and improve AI at Meta. You can submit an objection request through your [Facebook](https://www.facebook.com/help/contact/6359191084165019?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US), [Instagram](https://lm.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2Fcontact%2F233964459562201%3Fentry_point%3DPOLICY_SECTION%253Agenai_body), or [Meta](https://lm.facebook.com/l.php?u=https%3A%2F%2Fauth.meta.com%2Fform%2F%3Fform_id%3D1195697011444585%26entry_point%3DPOLICY_SECTION%253Agenai_body) account. Your objection will be applied to the account you’re logged into and any accounts that you’ve added to the same Accounts Center. You can also submit an objection request through your WhatsApp account about your [messages with AIs on WhatsApp](https://www.facebook.com/help/contact/2503286619871400?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US) being used to develop and improve AI at Meta.
-*   Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/510058597920541?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US)
-
-For users, if you submit an objection, we’ll send an email confirming that we won’t use your public information from Meta Products or your interactions with features that are part of AI at Meta, for future development and improvement of generative AI models for AI at Meta. If you submit an objection after a training run has started, we may still use your information for that training run, but we will not use it for future training.
-
-You may need to be logged into your account to see the appropriate forms for your region. You can learn about your other rights for information you’ve shared on Meta Products, and how to contact Meta or submit a request, in our [Privacy Policy](https://www.facebook.com/privacy/policy?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US).
+Whether you use Meta Products or not, anyone can submit requests related to their personal information from third parties being used to develop and improve AI at Meta. [Learn more and submit requests here.](https://www.facebook.com/help/contact/1266025207620918?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US)
 
 We see many possibilities ahead for people, creators and businesses to use generative AI. We’re excited to see this technology come this far but know that there’s more to do in the future. Generative AI is a fast-moving space and we are committed to staying transparent as this technology evolves.
 
