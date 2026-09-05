@@ -15,7 +15,7 @@ Explore the policy
 Overview
 ========
 
-Effective December 10, 2025
+Effective January 1, 2025
 
 Meta builds technologies and services that enable people to connect with each other, build communities, and grow businesses. These Terms of Service (the "Terms") govern your access and use of Facebook, Messenger, and the other products, websites, features, apps, services, technologies, and software we offer (the [Meta Products](https://facebook.com/legal/meta-products) or Products), except where we expressly state that separate terms (and not these) apply. (For example, your use of Instagram is subject to the Instagram Terms of Use). These Products are provided to you by Meta Platforms, Inc. These Terms therefore constitute an agreement between you and Meta Platforms, Inc. If you do not agree to these Terms, then do not access or use Facebook or the other products and services covered by these Terms.
 
@@ -115,7 +115,7 @@ When people stand behind their opinions and actions, our community is safer and 
 
 We try to make Facebook broadly available to everyone, but you cannot use Facebook if:
 
-*   You are under 16 years old.
+*   You are under 13 years old.
 *   You are a convicted sex offender.
 *   We've previously disabled your account for violations of our Terms, the [Community Standards](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), or other terms and policies that apply to your use of Facebook. If we disable your account for a violation of our Terms, the [Community Standards](https://lm.facebook.com/l.php?u=https%3A%2F%2Ftransparency.meta.com%2Fpolicies%2Fcommunity-standards%2F), or other terms and policies, you agree not to create another account without our permission. Receiving permission to create a new account is provided at our sole discretion, and does not mean or imply that the disciplinary action was wrong or without cause.
 *   You are prohibited from receiving our products, services, or software under applicable laws.
@@ -217,9 +217,9 @@ If you delete or we disable or delete your account, and you stop accessing, usin
 4.3 Limits on liability
 -----------------------
 
-We will use reasonable skill and care in providing our Service to you and in keeping a safe, secure, and error-free environment, but we cannot guarantee that our Service will always function without disruptions, delays, or imperfections. Provided that we have acted with reasonable skill and care, we do not accept responsibility for: losses not caused by our breach of these Terms or otherwise by our acts; losses which are not reasonably foreseeable by you and us at the time of entering into these Terms; any offensive, inappropriate, obscene, unlawful, or otherwise objectionable content posted by others that you may encounter on our Service; the actions or conduct of others (whether online or offline); and events beyond our reasonable control.
+We work hard to provide the best Products we can and to specify clear guidelines for everyone who uses them. Our Products, however, are provided "as is," and to the extent permissible by law, we make no guarantees that they always will be safe, secure, or error-free, or that they will function without disruptions, delays, or imperfections. To the extent permitted by law, we also DISCLAIM ALL WARRANTIES, WHETHER EXPRESS OR IMPLIED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. We do not control or direct what people and others do or say, and we are not responsible for their actions or conduct (whether online or offline) or any content they share (including offensive, inappropriate, obscene, unlawful, and other objectionable content).
 
-The above does not exclude or limit our liability for death, personal injury, or fraudulent misrepresentation caused by our negligence. It also does not exclude or limit our liability for any other things where the law does not permit us to do so.
+We cannot predict when issues might arise with our Products. Accordingly, our liability shall be limited to the fullest extent permitted by applicable law. To the fullest extent permitted by applicable law under no circumstance will we be liable to you for any lost profits, revenues, information, or data, or consequential, special, indirect, exemplary, punitive, or incidental damages arising out of or related to these Terms or the Meta Products (however caused and on any theory of liability, including negligence), even if we have been advised of the possibility of such damages.
 
 4.4 Disputes
 ------------
@@ -235,7 +235,7 @@ If you are a consumer, or where required by applicable law, the laws of the coun
 2.  **Severability:** If any portion of these Terms is found to be unenforceable, the unenforceable portion will be deemed amended to the minimum extent necessary to make it enforceable, and if it can’t be made enforceable, then it will be severed and the remaining portion will remain in full force and effect. If we fail to enforce any of these Terms, it will not be considered a waiver. Any amendment to or waiver of these Terms must be made in writing and signed by us.
 3.  **No Transfer:** You will not transfer any of your rights or obligations under these Terms to anyone else without our consent.
 4.  **Legacy Contact:** You may designate a person (called a legacy contact) to manage your account if it is memorialized. If you enable it in your settings, only your legacy contact or a person who you have identified in a valid will or similar legal document expressing clear consent to disclose your content to that person upon death or incapacity will be able to seek limited [disclosure](https://www.facebook.com/help/1506822589577997?ref=tos&entry_point=POLICY_SECTION%3Asection_4) of information from your account after it is memorialized.
-5.  **No Third-party Beneficiaries:** These Terms do not confer any third-party beneficiary rights. All of our rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
+5.  **No Third-party Beneficiaries Terms:** These Terms do not confer any third-party beneficiary rights. All of our rights and obligations under these Terms are freely assignable by us in connection with a merger, acquisition, or sale of assets, or by operation of law or otherwise.
 6.  **User Name Change:** We may change the username for your account in certain circumstances (for example, if someone else claims the username and it appears unrelated to the name you use in everyday life).
 7.  **Feedback:** We always appreciate your feedback and other suggestions about our products and services. But we may use feedback and other suggestions without any restriction or obligation to compensate you, and we are under no obligation to keep them confidential.
 
