@@ -442,7 +442,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
+| [![Wikimedia Foundation mark](//thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence. |
 
 As stated in our , Wikimedia believes strongly in the values of privacy and transparency. To that end, we have created this Cookie Statement as a clear reference guide to the use of cookies on Wikimedia Sites. This Cookie Statement explains how we use cookies (and other locally stored data technologies), how we use third-party cookies, and how you can manage your cookie options. For more information on our privacy practices, please visit our .
 
@@ -517,7 +517,7 @@ Here are a few examples:
 
 We will never use third-party cookies on our wikis unless we get your permission to do so. These cookies would allow us to render services provided by third parties, such as "like" and "share" buttons. When a third party provides these kinds of services, they may require the use of a cookie in order to provide their services.
 
-If you ever come across a third-party cookie transferred to your device during your access of the Wikimedia wiki sites, where you did not take any action to authorize the use and/or transfer of that cookie (such as one that may have been mistakenly placed by another user or administrator), please report that cookie to us at privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
+If you ever come across a third-party cookie transferred to your device during your access of the Wikimedia wiki sites, where you did not take any action to authorize the use and/or transfer of that cookie (such as one that may have been mistakenly placed by another user or administrator), please report that cookie to us at privacy![@](//thumb.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 **A note about Wikimedia Foundation non-wiki sites:**
 
@@ -545,7 +545,7 @@ Turning off the browser's cookies will prevent tracking pixels from tracking you
 Where can I find more information?
 ----------------------------------
 
-Please read through our for more information. If you have any further questions, contact privacy![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
+Please read through our for more information. If you have any further questions, contact privacy![@](//thumb.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail)wikimedia.org.
 
 Thanks!
 
