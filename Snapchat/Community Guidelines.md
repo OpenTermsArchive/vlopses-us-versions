@@ -100,9 +100,9 @@ Harassment and Bullying
 
 Illegal or Regulated Activities
 
-*   Using Snapchat to engage in illegal activity may result in account termination, and may be a crime! Do not use Snapchat to engage in, encourage, or glorify illegal activity. 
+*   Using Snapchat to engage in illegal activity may result in account termination, and may be a crime. Do not use Snapchat to engage in or encourage illegal activity. 
     
-*   We prohibit facilitating or participating in human trafficking or human smuggling, as well as the promotion of gangs, organized crime, or recruiting for criminal activity. 
+*   We prohibit facilitating, participating in, or encouraging human trafficking or human smuggling, as well as the promotion of gangs, organized crime, or recruiting for criminal activity. 
     
 *   We prohibit the glorification, sale, or distribution of illicit drugs (including prescription medication that is commonly abused, such as opioids, barbiturates, and amphetamines).  
     
@@ -143,7 +143,9 @@ Residents of certain jurisdictions (for example, the E.U. or U.K.) may also have
 
 What happens if I violate the Community Guidelines?
 
-If you violate these Community Guidelines, we may remove the offending content, terminate or limit the visibility of your account or content, limit your access to certain features on Snapchat, notify law enforcement, and/or take technical steps to prevent you from creating or using another account. Our policy is to refer information to law enforcement, potentially including relevant content and other account data, when we believe activity poses an imminent threat to human life. If your account is disabled for violating these guidelines, you are not allowed to use Snapchat again without our permission. Learn more in our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-US).
+If you violate these Community Guidelines, we may remove the offending content, terminate or limit the visibility of your account or content, limit your access to certain features on Snapchat, notify law enforcement, and/or take technical steps to prevent you from creating or using another account.
+
+We may refer information, potentially including content shared by users and other account data, to law enforcement when we believe activity poses an imminent threat to human life. We also report information to the National Center for Missing and Exploited Children (NCMEC), in line with legal requirements. Learn more in our [Moderation explainer](https://values.snap.com/privacy/transparency/community-guidelines/moderation?lang=en-US).
 
   
 
@@ -172,16 +174,16 @@ Severe Harm
 
 Community Guidelines Explainer Series
 
-_Updated: March 2026_
+_Updated: September 2026_
 
 The safety of Snapchatters is a top priority. We take behavior that threatens the safety of our community very seriously, particularly when the threat of harm is severe. We consider severe harm to include both (1) harms that risk significant damage to the physical or emotional well-being of Snapchatters, and (2) the imminent, credible risk of severe harm, including threats to human life, safety, and well-being. We collaborate with experts, safety groups, and law enforcement on these topics in order to better educate ourselves and our community, and to take appropriate action where these threats may arise on our platform.
 
 Certain categories of content and behavior—such as child sexual exploitation, terrorism-related activity, the promotion of dangerous and illicit drugs or weapons, human trafficking, and other serious criminal conduct—frequently meet this threshold, due to the severity and immediacy of the risks involved. We consider these types of harms to merit a heightened level of scrutiny, as well as swift, strict, and permanent consequences for violating accounts. 
 
   
-When we identify Snapchatters engaging in the following activities, we promptly remove the relevant content, disable their accounts and, in some instances, refer the conduct to law enforcement:
+When we identify the following activities, we promptly remove the relevant content, disable the relevant account(s), and, in some instances, refer the conduct to law enforcement and relevant authorities, including the National Center for Missing and Exploited Children (NCMEC), consistent with legal requirements.
 
-*   Activity that involves sexual exploitation or abuse, including sharing imagery depicting child sexual exploitation for the purpose of sexual gratification, grooming for sexual purposes, child or adult sex trafficking, or sexual extortion (sextortion)
+*   Sexual exploitation or abuse, such as sharing third-party imagery depicting child sexual exploitation for the purpose of sexual gratification, grooming for sexual purposes, child or adult sex trafficking, and sexual extortion (sextortion)
     
 *   Attempted selling, exchanging, or facilitating sales of dangerous and illicit drugs
     
@@ -203,7 +205,7 @@ Threats, Violence, & Harm
 
 Community Guidelines Explainer Series
 
-Updated: March 2026
+Updated: September 2026
 
 ### 
 
@@ -219,22 +221,22 @@ Prohibited Conduct
 
 We prohibit the following: 
 
-*   Encouraging, promoting, or glorifying self-harm, including self-injury, self-mutilation, suicide, or eating disorders. 
-    
-*   Providing instructions or detailing methods of committing self-harm (including extreme dieting) or suicide. 
+*   Encouraging, promoting, glorifying, resharing, providing instructions for, or detailing methods of self-harm, including self-injury, self-mutilation, suicide, or eating disorders (including extreme dieting).
     
 *   Encouraging or engaging in violent or threatening behavior, including any content expressing an intention to cause serious physical or emotional harm to a person, a group of people, or damage to property. Where content indicates a credible and imminent threat to human life or safety, our teams may alert law enforcement agencies who may be positioned to intervene. 
     
 *   Vigilante activity. This includes coordinated efforts to intimidate or take physical action against individuals or communities outside proper legal process. 
     
-*   Encouraging, promoting, providing instructions for, or engaging in dangerous behavior. This includes engaging in activities likely to be imitated that could lead to serious harm or injury, such as high-risk challenges, stunts, reckless driving, or other behavior that poses a risk to the person doing it, someone else, or the public. 
+*   Encouraging, promoting, providing instructions for, or engaging in dangerous behavior. This includes engaging in activities likely to be imitated that could lead to serious harm or injury, such as high-risk challenges, stunts, reckless driving, as well as encouraging the ingestion, injection, inhalation, or other self-administering of physically harmful substances or of substances in sufficient quantities as to be physically harmful.
     
 *   Encouraging the ingesting, injection, inhalation, or other self-administering of physically harmful substances or of substances in sufficient quantities as to be physically harmful. 
     
-*   Content that glorifies, or risks inciting, violent or harmful behavior toward people or animals.  
+*   Abuse of minors, such as emotional abuse, physical violence, or putting a child in danger of grave physical harm. (Note: sexual abuse and exploitation of minors is covered under Sexual Content and Conduct)
     
-*   Gratuitous or graphic violence, including animal abuse.
+*   Gratuitous or graphic depictions of violence, including animal abuse, bestiality, resharing of gore, or content that risks inciting violence or harmful behavior toward people or animals.
     
+
+Please do not joke about engaging in life-threatening harm. Because it can be difficult to determine a user's true intent online, threats framed as a “joke” may be treated as credible and may be escalated by Snap to law enforcement. 
 
 ### 
 
@@ -365,7 +367,7 @@ Hateful Content, Terrorism, and Violent Extremism
 
 Community Guidelines Explainer Series
 
-Updated: March 2026
+Updated: September 2026
 
 ### 
 
@@ -395,7 +397,10 @@ We prohibit the following: 
     
 *   All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organizations or extremist hate groups––as designated by credible, third-party experts––as well as recruitment for such organizations or violent extremist activities.
     
-*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender identity or reassignment, disability, or veteran status, immigration status, age, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, gender assignment or reassignment, disability, or veteran status, immigration status, age, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+    
+    *   These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+        
     
 
 ### 
@@ -520,20 +525,20 @@ Illegal or Regulated Activities
 
 Community Guidelines
 
-Sexual Content
+Sexual Content and Conduct
 
 
-==================
+==============================
 
 Community Guidelines Explainer Series
 
-Updated: March 2026
+Updated: September 2026
 
 ### 
 
 Overview
 
-We strive to protect Snapchatters from unsolicited sexual content or abuse. Our policies prohibit sexual exploitation of any kind – including the sexual exploitation of children. We also prohibit sexual harassment and sharing, promoting, or distributing sexually explicit content and conduct, including pornography, sexual nudity, or offers of sexual services.
+We strive to protect Snapchatters from unsolicited sexual content or abuse. Our policies prohibit sexual exploitation of any kind, including the sexual exploitation of children. We also prohibit sexual harassment and sharing, promoting, or distributing sexually explicit content and conduct, including pornography, sexual nudity, offers of sexual services. This includes sharing pornography, sexual nudity, offers of sexual services, or non-consensual intimate imagery (NCII), or unsolicited sexual imagery (i.e., cyberflashing), and engaging in sexual extortion (sextortion).
 
 ### 
 
@@ -541,11 +546,13 @@ Prohibited Conduct
 
 We prohibit the following sexual harms: 
 
-*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery; grooming for sexual purposes; sexual extortion (sextortion); or attempts to persuade, trick, or coerce a minor with the intent of sexual abuse or exploitation the sexualization of children. We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements.
+*   Any activity that involves sexual exploitation or abuse of a minor, including sharing child sexual exploitation or abuse imagery; grooming for sexual purposes; sexual extortion (sextortion); or attempts to persuade, decieve, or coerce a minor with the intent of sexual abuse or exploitation. We report any child sexual exploitation that we’ve identified, including attempts to engage in such conduct, to the appropriate authorities, including the U.S. National Center for Missing and Exploited Children (NCMEC), in line with legal requirements.
     
-*   The sexualization of minors or sharing of minor nudity, whether involving real individuals or fictional, synthetic, or digitally created representations, regardless of whether it rises to the level of child sexual exploitation.
+*   The sexualization of minors, including fetishization, or sharing of minor nudity, whether involving real individuals or fictional, AI-generated, or digitally created representations, regardless of whether it rises to the level of child sexual exploitation.
     
-*   Adult sexual exploitation, including non-consensual sexual content, sextortion, and deceptive sexual practices, such as efforts to coerce or entice users to provide nude imagery.
+*   Pedophilic content, including promoting, glorifying, or facilitating pedophilic relationships, whether real or fictional, including imaginary scenarios. 
+    
+*   Sexual exploitation or violence, including non-consensual sexual content, sextortion, and deceptive sexual practices, such as efforts to coerce or entice users to provide nude imagery. We also prohibit the glorification of sexual exploitation or violence, whether involving adults or minors, including endorsement of perpetrators of such activity. 
     
 *   Producing, sharing, or threatening to create or share non-consensual intimate imagery (NCII)––including sexual or intimate photos or videos taken or shared without permission, depictions of private acts (such as bathing or using the bathroom), as well as “revenge porn” or behavior that threatens to share, exploit, or expose individuals’ intimate images or videos without their consent.
     
@@ -555,7 +562,7 @@ We prohibit the following sexual harms: 
     
 *   Promoting, distributing, or sharing pornographic content, including photos, videos, or highly realistic animation, drawings, or other renderings of explicit sex acts, or nudity where the primary intention is sexual arousal.
     
-*   Offers or solicitation of sexual services (whether paid or unpaid), including both offline services (such as, for example, erotic massage) and online experiences (such as, for example, offering sexual subscription services, or sexual chat or video services).
+*   Promoting, offering, or soliciting of sexual services (whether paid or unpaid), including both offline services (such as erotic massage) and online experiences (such as offering sexual subscription, chat, or video services).
     
 
   
@@ -567,7 +574,7 @@ Our efforts to protect users
 
   
 
-We aim to consider both safety and privacy in our approach to protecting users. We use a combination of automated tools and human review intended to prevent users from being exposed to pornographic content or other sexual harms or exploitation on public surfaces (such as Spotlight, Public Stories, and Maps). 
+We aim to balance both safety and privacy in our approach to protecting users. We use a combination of automated tools and human review intended to prevent users from being exposed to pornographic content or other sexual harms or exploitation on public surfaces (such as Spotlight, Public Stories, and Maps). 
 
 We use automated tools to help identify and remove certain known illegal child sexual exploitation photos and videos, including: 
 
@@ -580,13 +587,13 @@ We use automated tools to help identify and remove certain known illegal child s
 
 We use similar technology to help identify and remove certain non-consensual intimate imagery. We participate in the Take It Down program run by the National Center for Missing and Exploited Children (NCMEC), receiving and leveraging hashes of nude or partially nude imagery supplied by minors that they want to prevent from spreading online. We also participate in StopNCII, a similar program for people who are 18 or older, run by South West Grid for Learning (SWGfL) based in the UK. In addition, in some cases, we use behavioral “signals” to identify potentially illegal or harmful activity so that we can proactively remove bad actors and report them to authorities as appropriate. 
 
-When we become aware of sexually explicit or exploitative content, we act swiftly to remove the offending content, enforce against the violating account, and where appropriate, escalate to NCMEC and/or law enforcement. We work closely with NCMEC and law enforcement to maintain a feedback loop on the effectiveness of our policies.
+When we become aware of sexually explicit or exploitative content, we act swiftly to remove the offending content, enforce against the violating account, and where appropriate, report to NCMEC and/or law enforcement. We request feedback from NCMEC, as we assess the effectiveness of our policies.
 
 ### 
 
 Takeaway
 
-We prohibit sexual exploitation and sexually explicit content of any kind, including the sexual exploitation of children, sharing non-consensual intimate imagery (NCII), sextortion, sexual harassment, pornography, and offers of sexual services. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). When we discover severe harm involving sexual content, we lock the offending account and report it to authorities where appropriate. 
+We prohibit sexual exploitation and sexually explicit content of any kind, including the sexual exploitation of children, sharing NCII, sextortion, sexual harassment, pornography, and offers of sexual services. Never post, save, send, forward, distribute, or ask for nude or sexually explicit content involving anyone under the age of 18 (this includes sending or saving such images of yourself). When we discover severe harm involving sexual content, we lock the offending account and report it to authorities where appropriate. 
 
   
 We want users to feel safe and comfortable using Snap. If you ever feel unsafe or believe you may be in immediate danger, consider contacting your local law enforcement, where appropriate, and block offending users. We also encourage you to [report](https://help.snapchat.com/hc/en-us/articles/7012399221652-How-do-I-report-abuse-or-illegal-content-on-Snapchat?lang=en-US) violating content or accounts to Snapchat so we can take appropriate action.
