@@ -73,7 +73,7 @@ Return Methods and Return Fees
 
 | Return Method | Return Documentation | Printer Required | Return Fees |
 | --- | --- | --- | --- |
-| Happy Returns  <br>Store drop-off | QR Code | No  | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](https://us.shein.com/fair-use-policy-a-3915.html)).<br><br>For the second and any subsequent returns from the same order, a shipping fee of **7.99 USD** will be deducted from your refund. |
+| Happy Returns  <br>Store drop-off | QR Code | No  | Returns are free for your first return of one or more eligible items from any order within the voluntary return period, but are subject to our Fair Use Policy (see our [SHEIN Fair Use Returns Policy](https://us.shein.com/fair-use-policy-a-3915.html)).<br><br>For the second and any subsequent returns from the same order, a shipping fee of **6.99 USD** will be deducted from your refund. |
 | USPS<br><br>Store drop-off | QR Code | No  |
 | USPS<br><br>Store drop-off | Return Label | Yes |
 | Self-Return | Depends on your logistics provider |     | Use any logistics company convenient for you to send the package to our return address. You need to pay the return fee directly to your logistics provider. Under certain conditions, the return shipping cost may be eligible for reimbursement. |
