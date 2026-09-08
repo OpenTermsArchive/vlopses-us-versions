@@ -1614,7 +1614,7 @@ Where does Meta get training information?
 Since it takes such a large amount of data to teach effective models, a combination of sources are used for training including:
 
 *   Information that is available on the internet
-*   Information from third parties that provide content, including information from products and services built by external developers using our free models provided through [APIs](https://developers.facebook.com/docs/?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US)
+*   Information from third parties that provide content, including information from products and services built by external developers using our contributor tier models provided through [APIs](https://developers.facebook.com/docs/?entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US)
 *   Information shared on Meta Products including things like posts or photos and their captions, and your interactions with features that are part of AI at Meta
 
 We do not use the content of your private messages with friends and family to train our AIs unless you or someone in the chat chooses to share those messages with our AIs. For AI features that use [Private Processing technology](https://lm.facebook.com/l.php?u=https%3A%2F%2Ffaq.whatsapp.com%2F2089630958184255%3Fentry_point%3DPOLICY_SECTION%253Agenai_body), Meta cannot read or access the private messages you have shared. There are more details on how we use information from Meta Products in our [Privacy Policy](https://www.facebook.com/privacy/policy?section_id=2-HowDoWeUse&entry_point=POLICY_SECTION%3Agenai_body&locale2=en_US).
