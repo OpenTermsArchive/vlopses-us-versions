@@ -1732,9 +1732,11 @@ Copy link
 
 What does copyright protect?
 
-What is an original work?
+What is copyright infringement?
 
-What is not protected by copyright?
+What is fair use?
+
+How do I protect my content?
 
 I have a different question
 
