@@ -879,8 +879,8 @@ We don't allow apps that attempt to deceive users or enable dishonest behavior i
 | --- | --- |
 | **Do** | **Don't** |
 | Ensure your app's title, icon and description accurately reflect its actual functionality. | Don't mislead users about your app's functionality or claim features that are functionally impossible. |
-| Provide clear, in-app disclosures and get explicit user consent before making any changes to device settings. | Don’t impersonate other apps, brands, or government entities. |
-| Test your app to ensure it performs as users would reasonably expect. | Don’t display ads that mimic system notifications or warnings, making them appear as a part of the device's OS. |
+| Provide clear, in-app disclosures and get explicit user consent before making any changes to device settings. | Don't impersonate other apps, brands, or government entities. |
+| Test your app to ensure it performs as users would reasonably expect. | Don't display ads that mimic system notifications or warnings, making them appear as a part of the device's OS. |
 
 * * *
 
@@ -893,7 +893,7 @@ To maintain our commitment to a transparent and trustworthy user experience, Goo
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
 
-We don’t allow apps that contain false or misleading information or claims, including in the description, title, icon, and screenshots.
+We don't allow apps that contain false or misleading information or claims, including in the description, title, icon, and screenshots.
 
 Examples of common violations
 
@@ -904,7 +904,7 @@ Examples of common violations
 *   Apps that are improperly categorized, including but not limited to the app rating or app category.
 *   Demonstrably deceptive or false content that may interfere with voting processes, or about the outcome of elections.
 *   Apps that falsely claim affiliation with a government entity or to provide or facilitate government services for which they are not properly authorized.
-*   Apps that falsely claim to be the official app of an established entity. Titles like “Justin Bieber Official” are not allowed without the necessary permissions or rights.
+*   Apps that falsely claim to be the official app of an established entity. Titles like "Justin Bieber Official" are not allowed without the necessary permissions or rights.
 
 ![](//x20web.corp.google.com/teams/play-kmt/no_crawl/arhc/images/quebec_deceptive_example1.png)
 
@@ -917,7 +917,7 @@ Apps that claim functionalities that are not possible to implement (using your p
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Accurately describe your app's functionality in your store listing, including in the description, title, icon, and screenshots. | Don't misrepresent your app’s core purpose or functionality. |
+| Accurately describe your app's functionality in your store listing, including in the description, title, icon, and screenshots. | Don't misrepresent your app's core purpose or functionality. |
 | Ensure your app's category and rating are correct. | Don't make false claims about functionalities that are not possible to implement. |
 | Get all necessary permissions and rights before claiming to be an "official" app. | Don't falsely claim affiliation with a government or an established entity when not properly authorized to do so. |
 
@@ -932,11 +932,11 @@ Google Play prohibits apps from making changes to a user's device settings or fe
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
 
-2.1 We don’t allow apps that make changes to the user’s device settings or features outside of the app without the user’s knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets, and the presentation of apps on the homescreen.
+2.1 We don't allow apps that make changes to the user's device settings or features outside of the app without the user's knowledge and consent. Device settings and features include system and browser settings, bookmarks, shortcuts, icons, widgets, and the presentation of apps on the homescreen.
 
 2.2 Additionally, we do not allow:
 
-*   2.2.1 Apps that modify device settings or features with the user’s consent but do so in a way that is not easily reversible.
+*   2.2.1 Apps that modify device settings or features with the user's consent but do so in a way that is not easily reversible.
 *   2.2.2 Apps or ads that modify device settings or features as a service to third parties or for advertising purposes.
 *   2.2.3 Apps that mislead users into removing or disabling third-party apps or modifying device settings or features.
 *   2.2.4 Apps that encourage or incentivize users into removing or disabling third-party apps or modifying device settings or features unless it is part of a verifiable security service.
@@ -971,8 +971,8 @@ Examples of common violations
 
 *   Apps that mimic other apps or websites to trick users into disclosing personal or authentication information.
 *   Apps that depict or display unverified or real world phone numbers, contacts, addresses, or personally identifiable information of non-consenting individuals or entities.
-*   Apps with different core functionality based on a user’s geography, device parameters, or other user-dependent data where those differences are not prominently advertised to the user in the store listing.
-*   Apps that change significantly between versions without alerting the user (for example, [‘what’s new’ section](https://support.google.com/googleplay/android-developer/answer/7159011?hl=en)) and updating the store listing.
+*   Apps with different core functionality based on a user's geography, device parameters, or other user-dependent data where those differences are not prominently advertised to the user in the store listing.
+*   Apps that change significantly between versions without alerting the user (for example, ['what's new' section](https://support.google.com/googleplay/android-developer/answer/7159011?hl=en)) and updating the store listing.
 *   Apps that attempt to modify or obfuscate behavior during review.
 *   Apps with content delivery network (CDN) facilitated downloads that fail to prompt the user and disclose the download size prior to downloading.
 
@@ -1020,8 +1020,8 @@ Examples of common violations
 | --- | --- |
 | **Do** | **Don't** |
 | Review and comply with all other Google Play policies, especially the [**Restricted Content**](https://support.google.com/googleplay/android-developer/topic/9877466?sjid=4697247637550754979-NC) policy, for any media your app creates or promotes. | Don't create, promote, or help users create demonstrably false or misleading media that could cause harm. |
-| Apply clear, visible, and user-facing watermarks or disclaimers to all media (imagery, audio, video, text) that your app manipulates. | Don’t manipulate media related to sensitive events, politics, or social issues in a way that is deceptive or harmful. |
-| Ensure any content intended as satire or parody is obvious to the user. | Don’t alter media clips to impersonate or mimic real news broadcasts (for example, by using their logos, names, or branding) unless you include a clear watermark or disclaimer stating it is not. |
+| Apply clear, visible, and user-facing watermarks or disclaimers to all media (imagery, audio, video, text) that your app manipulates. | Don't manipulate media related to sensitive events, politics, or social issues in a way that is deceptive or harmful. |
+| Ensure any content intended as satire or parody is obvious to the user. | Don't alter media clips to impersonate or mimic real news broadcasts (for example, by using their logos, names, or branding) unless you include a clear watermark or disclaimer stating it is not. |
 | Make sure your app has a clear, legitimate purpose beyond simply creating manipulated media (for example, creative tools, artistic filters). | Don't use a sensitive event or public figures to advertise media alteration capabilities in your app. |
 
 * * *
@@ -1031,11 +1031,11 @@ Examples of common violations
 
 ![](//lh3.googleusercontent.com/BPsAL28eke0gFbFJduiZupJyY6uR5X7_JHR_3vev1cApatT5KLrReyskdlNZXRGFsg=w60-h60)**Policy Summary**
 
-To help ensure user safety and system integrity, Google Play prohibits apps from containing any hidden, dormant, or undocumented features. Your app’s functionality should be reasonably clear to your users. This policy also prohibits any techniques used to evade Google Play’s app reviews. Please review the full policy to ensure compliance.
+To help ensure user safety and system integrity, Google Play prohibits apps from containing any hidden, dormant, or undocumented features. Your app's functionality should be reasonably clear to your users. This policy also prohibits any techniques used to evade Google Play's app reviews. Please review the full policy to ensure compliance.
 
 ![](//lh3.googleusercontent.com/hnJIMKQ0lyssVbehdx4OCpjLHPBYy94NeG4dD-xZ40osbCjM8Lt3zS4P5JvA5Xsqig=w30-h34) **Full Policy**
 
-Your app’s functionality should be reasonably clear to users; don't include any hidden, dormant, or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity, and policy compliance.
+Your app's functionality should be reasonably clear to users; don't include any hidden, dormant, or undocumented features within your app. Techniques to evade app reviews are not allowed. Apps may be required to provide additional details to ensure user safety, system integrity, and policy compliance.
 
 ![](//lh3.googleusercontent.com/IfJhh8qlFSuw1U7A2DSeKi0B3jBYMC5fU0pGMUG40oyCU3urkOu4yGg0D24TkbUvwRk=w40) **Key Considerations**
 
