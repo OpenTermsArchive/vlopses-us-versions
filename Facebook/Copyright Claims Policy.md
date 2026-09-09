@@ -1732,11 +1732,9 @@ Copy link
 
 What does copyright protect?
 
-What is copyright infringement?
+What is an original work?
 
-What is fair use?
-
-How do I protect my content?
+What is not protected by copyright?
 
 I have a different question
 
@@ -1806,9 +1804,11 @@ Copy link
 
 What is copyright ownership?
 
-What is an original work?
+Who owns copyright in a photo?
 
-What if I appear in a photo?
+Who owns copyright in a painting?
+
+What is a work for hire?
 
 I have a different question
 
