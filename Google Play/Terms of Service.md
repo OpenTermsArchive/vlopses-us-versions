@@ -183,7 +183,7 @@ Examples of violations
 *   Annual subscriptions that most prominently display their pricing in terms of monthly cost.
 *   Subscription pricing and terms that are incompletely localized.
 *   In-app promotions that do not clearly demonstrate that a user can access content without a subscription (when available).
-*   SKU names that do not accurately convey the nature of the subscription, such as "Free Trial" or “Try Premium membership - 3 days for free,” for a subscription with an auto-recurring charge. 
+*   SKU names that do not accurately convey the nature of the subscription, such as "Free Trial" or "Try Premium membership - 3 days for free," for a subscription with an auto-recurring charge. 
 *   Multiple screens in the purchase flow that lead users into accidentally clicking the subscribe button.
 *   Subscriptions that do not offer sustained or recurring value — for example, offering 1,000 gems for the first month, then reducing the benefit to 1 gem in subsequent months of the subscription.
 *   Requiring a user to sign up to an auto-renewing subscription to deliver a one-time benefit, and canceling a user’s subscription without their request after the purchase.
@@ -206,7 +206,7 @@ Examples of violations
 
 ![](//lh3.googleusercontent.com/Jtsq27lEz38L9jyfJ2qRS2WsqLXlDxxKl6lLKpGu6djCwThh9Bwing_GacKB2srqid0=w600)
 
-① Recurring clicks in the same button area causes the user to inadvertently click the final “continue” button to subscribe.
+① Recurring clicks in the same button area causes the user to inadvertently click the final "continue" button to subscribe.
 
 ② The amount that users will be charged at the end of the trial is hard to read, such that users may think the plan is free.
 
@@ -237,12 +237,12 @@ Examples of violations
 
 #### Subscription Management, Cancellation & **Refunds**
 
-If you sell subscriptions in your app(s), you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription. You must also include in your app access to an easy-to-use, online method to cancel the subscription. In your app’s account settings (or equivalent page), you can satisfy this requirement by including:
+If you sell subscriptions in your app(s), you must ensure that your app(s) clearly disclose how a user can manage or cancel their subscription. You must also include in your app access to an easy-to-use, online method to cancel the subscription. In your app's account settings (or equivalent page), you can satisfy this requirement by including:
 
-*   A link to Google Play’s Subscription Center (for subscriptions that use Google Play’s billing system); and/or
+*   A link to Google Play's Subscription Center (for subscriptions that use Google Play's billing system); and/or
 *   direct access to your cancellation process.
 
-If a user cancels a subscription purchased through Google Play’s billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. Users in some countries may be able to cancel their subscription immediately and receive a prorated refund, in accordance with applicable law.
+If a user cancels a subscription purchased through Google Play's billing system, our general policy is that the user will not receive a refund for the current billing period, but will continue to receive their subscription content for the remainder of the current billing period, regardless of the cancellation date. The user's cancellation goes into effect after the current billing period has passed. Users in some countries may be able to cancel their subscription immediately and receive a prorated refund, in accordance with applicable law.
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your subscription, cancellation and refund policies and ensure that the policies comply with applicable law.
 
