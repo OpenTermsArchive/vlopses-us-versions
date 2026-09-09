@@ -1804,11 +1804,9 @@ Copy link
 
 What is copyright ownership?
 
-Who owns copyright in a photo?
+What is an original work?
 
-Who owns copyright in a painting?
-
-What is a work for hire?
+What if I appear in a photo?
 
 I have a different question
 
