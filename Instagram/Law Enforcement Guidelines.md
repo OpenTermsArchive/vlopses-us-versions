@@ -3,16 +3,6 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram user information requests?
-
-How do I submit an Instagram request?
-
-What is an Instagram emergency request?
-
-What is Instagram data retention?
-
-I have a different question
-
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
