@@ -1643,9 +1643,9 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright?
-
 How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
 
 I have a different question
 
