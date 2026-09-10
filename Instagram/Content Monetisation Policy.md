@@ -198,9 +198,9 @@ Copy link
 
 How do Instagram monetization policies work?
 
-What are Instagram Partner Monetization Policies?
+How do I monetize on Instagram?
 
-How do I become eligible for Instagram monetization?
+What are Instagram Community Standards?
 
 What are Instagram Content Monetization Policies?
 
