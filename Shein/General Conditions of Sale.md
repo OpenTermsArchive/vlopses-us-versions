@@ -44,6 +44,9 @@ Return Requirements for Return-Eligible Items
 | All Other Categories |
 | --- |
 | Items must be returned in their original, unused, unaltered, and unwashed, condition with all tags attached and in their original packaging. |
+| Bundled Products |
+| --- |
+| For bundled products, all items included in the set must be returned together. |
 
 Return Request Process(Including Combined Returns)
 
