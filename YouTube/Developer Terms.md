@@ -807,24 +807,6 @@ IV. Definitions
 YouTube API Services - Required Minimum Functionality Stay organized with collections Save and categorize content based on your preferences.
 ============================================================================================================================================
 
-![Spark icon](/_static/images/icons/spark.svg)
-
-Page Summary
-------------
-
-outlined\_flag
-
-*   This document outlines the minimum functional requirements for API clients accessing YouTube API services, ensuring a consistent user experience for users, content owners, and advertisers.
-    
-*   API clients using embedded YouTube players must adhere to specific size constraints, automatic playback rules, and restrictions on overlays or modifications to the player's appearance.
-    
-*   When allowing video uploads, API clients must enable users to define specific properties, such as the video's title, description, and privacy settings.
-    
-*   API clients must provide full or truncated comment text, display channel or video titles depending on the content of the comment and be able to identify when comments are held for moderation.
-    
-*   API clients must clearly identify the YouTube account associated with any comment or action such as adding a ban to a user.
-    
-
 **Note:** [Complying with the YouTube Developer Policies](https://developers.google.com/youtube/terms/developer-policies-guide) provides guidance and examples to help you ensure that your API clients follow specific portions of the YouTube API Services [Terms](https://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](https://developers.google.com/youtube/terms/developer-policies) (API TOS). The guide offers insight into how YouTube enforces certain aspects of the API TOS, but it does not replace any existing documents.
 
 This document defines minimum functional requirements for API clients that implement or provide access to specific features of YouTube API services ("API Clients").
@@ -961,7 +943,7 @@ This section covers automatic playbacks. It applies to YouTube embedded players 
 
 ### YouTube Player attributes
 
-Attributes and parameters of the YouTube player – including, for example, the appearance of YouTube branding in the player – are specified in YouTube API documentation and specifications (https://developers.google.com/youtube). You must not make changes to the YouTube player that are not explicitly described by the API documentation.
+Attributes and parameters of the YouTube player, including the appearance of YouTube branding in the player, are specified in YouTube API documentation and specifications (https://developers.google.com/youtube). You must not make changes to the YouTube player that are not explicitly described by the API documentation.
 
 ### Overlays and frames
 
@@ -998,7 +980,7 @@ Displaying comments
 |     | `[snippet.textDisplay](https://developers.google.com/youtube/v3/docs/comments#snippet.textDisplay)` | **Required**. The comment's text. The API client must either (a) display the full text of a comment or comment reply, or (b) truncate the text and provide a way for the viewer to easily access the full text from the truncated version.  <br>  <br>This requirement applies to all comments and comment replies, regardless of which type of resource the comments are associated with (videos, channels, etc.).  <br>  <br>Note that the `[commentThread](https://developers.google.com/youtube/v3/docs/commentThreads)` resource's `[snippet.topLevelComment](https://developers.google.com/youtube/v3/docs/commentThreads#snippet.topLevelComment)` property value is a `comment` resource and the `[replies.comments[]](https://developers.google.com/youtube/v3/docs/commentThreads#replies.comments[])` property is a list of `comment` resources. As such, this requirement also applies to the `snippet.topLevelComment.snippet.textDisplay` and `replies.comments[].snippet.textDisplay` properties. |
 |     | `[snippet.title](https://developers.google.com/youtube/v3/docs/channels#snippet.title)`  <br>(`channel`) | **Required (suggestion)**. The channel's title.<br><br>*   If the comment pertains to a channel, the API client must display the channel's name.<br>*   If the comment pertains to a video, the API client must display the name of the channel that uploaded the video. |
 |     | `[snippet.title](https://developers.google.com/youtube/v3/docs/videos#snippet.title)`  <br>(`video`) | **Conditionally required (suggestion)**. The video's title. This value must be displayed if the comment pertains to a video. |
-|     | `[snippet.moderationStatus](https://developers.google.com/youtube/v3/docs/comments#snippet.moderationStatus)` | **Conditionally required**. If the `[moderationStatus](https://developers.google.com/youtube/v3/docs/commentThreads/list#moderationStatus)` parameter value in the API request is `heldForReview` or `likelySpam`, the display must clearly identify that status using the property value, similar language (e.g. "This comment is being held for review"), a header (e.g. "Held for review"), or other unambiguous language. The `commentThreads.list` method supports the ability to retrieve comments based on their moderation status. |
+|     | `[snippet.moderationStatus](https://developers.google.com/youtube/v3/docs/comments#snippet.moderationStatus)` | **Conditionally required**. If the `[moderationStatus](https://developers.google.com/youtube/v3/docs/commentThreads/list#moderationStatus)` parameter value in the API request is `heldForReview` or `likelySpam`, the display must clearly identify that status using the property value, similar language (for example, "This comment is being held for review"), a header (for example, "Held for review"), or other unambiguous language. The `commentThreads.list` method supports the ability to retrieve comments based on their moderation status. |
 
 Adding comments
 ---------------
