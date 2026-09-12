@@ -1309,8 +1309,6 @@ How do I report Facebook copyright?
 
 How do I report Facebook trademark?
 
-How do I report Facebook counterfeit?
-
 I have a different question
 
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across Meta technologies such as Facebook and Instagram. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
