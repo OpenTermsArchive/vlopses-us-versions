@@ -50,14 +50,6 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
-What is a trademark?
-
-How do I report trademark infringement?
-
-How does Brand Rights Protection work?
-
-I have a different question
-
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1651,9 +1643,9 @@ Copyright
 
 How do I report copyright infringement?
 
-How do I protect my copyrighted work?
+What is Facebook copyright?
 
-What is Facebook copyright policy?
+How do I protect my copyrighted work?
 
 I have a different question
 
@@ -1944,7 +1936,7 @@ Copy link
 
 What is copyright protection?
 
-What is the public domain?
+What is public domain?
 
 How long does copyright last?
 
@@ -2858,13 +2850,11 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do Facebook Rights Manager tools work?
+How do I protect my intellectual property?
 
-How do Facebook content protection tools work?
+How does Rights Manager work?
 
-How do I apply for Facebook copyright tools?
-
-How do I report Facebook copyright infringement?
+How does content protection work?
 
 I have a different question
 
@@ -2887,10 +2877,10 @@ Actions you can take with our copyright management tools
 
 When your content is detected on a Page, profile, or Instagram account, you can choose to take the enforcement actions available to you based on your demonstrated needs. Actions include:
 
-*   **Allow or track**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
+*   **Allow**: Allow matching content to remain posted and visible on Facebook and/or Instagram and have visibility into how it performs over time.
 *   **Hide**: Prevent the matching content from being visible to anyone other than the Page, profile, or Instagram account that posted it.
-*   **Monetize**: You may be able to claim money earned from a video that is eligible for monetization on Meta platforms. Note: this feature is not available to all creators using content protection and/or Rights Manager at this time.
-*   **Apply credit or ownership links**: You may be able to insert a banner below select Facebook matches linking it to your own content, Page, or profile.
+*   **Claim earnings**: You may be able to claim money earned from a video that is eligible for monetization on Meta platforms. Note: this feature is not available to all creators using content protection and/or Rights Manager at this time.
+*   **Apply credit links**: You may be able to insert a banner below select Facebook matches linking it to your own content, Page, or profile.
 *   **Report and request takedown**: You can choose to send a copyright report to Facebook, which may result in the reported content being removed.
 
 If you want scaled copyright management, you can apply for access to our tools [here](https://www.facebook.com/rights_manager/apply). Our team will assess your application and, if you are eligible, will grant access to protection features specific to your needs.
