@@ -329,65 +329,26 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+This page isn't available right now
+-----------------------------------
 
-What is the difference between a trademark registration and a business registration?
-====================================================================================
+This may be because of a technical error that we're working to get fixed. Try reloading this page.
 
-Copy link
+See more on Facebook
 
-What is a trademark registration?
+See more on Facebook
 
-What is a business registration?
+Email or phone number
 
-What is the USPTO?
+Password
 
-I have a different question
+Log In
 
-In some states in the U.S. and in some countries outside the U.S., a company might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not create trademark rights for the company.
+[Forgot password?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)
 
-In the U.S., a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
+or
 
-Related Articles
-----------------
-
-[What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Are there any limits to trademark rights?](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
-[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
-
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
-Related Articles
-
-[What is trademark infringement?
-
-* * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Are there any limits to trademark rights?
-
-* * *](https://www.facebook.com/help/719682678205946/?helpref=related_articles)
-
-[How long does trademark protection last?
-
-* * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
-
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+Create new account
 
 - - -
 
@@ -517,73 +478,26 @@ Resolve issues, make changes and get support in real time
 
 - - -
 
-*   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
-*   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
+This page isn't available right now
+-----------------------------------
 
-Are there any limits to trademark rights?
-=========================================
+This may be because of a technical error that we're working to get fixed. Try reloading this page.
 
-Copy link
+See more on Facebook
 
-What are trademark rights limits?
+See more on Facebook
 
-What is nominative fair use?
+Email or phone number
 
-What is trademark geographic limit?
+Password
 
-I have a different question
+Log In
 
-Not all uses of a trademark without permission from the rights owner are necessarily an infringement of that trademark. The use of a trademark is only infringing if it’s likely to confuse people regarding the source, endorsement or affiliation of products or services. So, if a trademark is used in a way that is unlikely to cause consumer confusion, that use is generally not considered infringing.
+[Forgot password?](https://www.facebook.com/recover/initiate?ars=royal_blue_bar)
 
-Simply referring to a trademark for the purpose of discussing the product or service offered probably won’t be an infringing use of the trademark, as long as that reference doesn’t use more of the trademark than is needed to make its point. In fact, you might need to use the trademark to describe or comment on a particular product or service. This is known as the doctrine of nominative fair use, and typically permits such uses as commentary, criticism, parody, reviews and, in some countries, comparative advertising.
+or
 
-And while these matters are very fact-specific, trademark rights also often don’t prevent:
-
-*   The resale of legitimate goods or selling legitimate goods through channels that are not authorized by the trademark owner
-*   The use of a trademarked word in its ordinary dictionary meaning
-*   The use of a trademark in a way that is not related to the sale or promotion of products or services
-
-Trademark rights are generally limited to the geographic territory where the trademark owner uses the trademark to identify their goods or services. For example, if a trademark owner uses a trademark to refer to their restaurant in Country A, they likely won’t be able to prevent another person from using the same term to refer to their own restaurant in Country B.
-
-Related Articles
-----------------
-
-[What is trademark infringement?](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
-
-[How long does trademark protection last?](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
-
-[What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
-Related Articles
-
-[What is trademark infringement?
-
-* * *](https://www.facebook.com/help/349534658401968/?helpref=related_articles)
-
-[How long does trademark protection last?
-
-* * *](https://www.facebook.com/help/1823502941230538/?helpref=related_articles)
-
-[What are trademarks and what they protect
-
-* * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
-
-[Does a trademark need to be registered to be protected?
-
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
+Create new account
 
 - - -
 
@@ -1308,6 +1222,8 @@ How do I report an ad?
 How do I report Facebook copyright?
 
 How do I report Facebook trademark?
+
+How do I report Facebook counterfeit?
 
 I have a different question
 
