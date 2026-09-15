@@ -220,6 +220,21 @@ When using the Apple names _Apple Pay_, _Wallet_, _Messages_, _Siri_, _Phone_, o
 [View Apple Pay guidelines](https://developer.apple.com/apple-pay/marketing/)  
 [View Apple Wallet guidelines](https://developer.apple.com/wallet/)
 
+#### Apple In-App Purchase
+
+Always typeset _Apple In-App Purchase_ as title case, with uppercase _A_’s and an uppercase _I_ and _P_ followed by lowercase letters. Don’t break _Apple In-App Purchase_ over two lines. Don’t use the article _the_ before _Apple In-App Purchase_.
+
+When designing your Apple In-App Purchase experience, use the provided Apple In-App Purchase artwork for your app and communications. These marks are available in multiple languages, in both black and white. Always use the Apple-provided versions of the mark and badge artwork, and don’t create your own localized versions.
+
+[Download Apple In-App Purchase brand assets](https://developer.apple.com/support/downloads/payment-options-on-the-app-store/apple-in-app-purchase-brand.zip)  
+[Review Apple In-App Purchase Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/apple-in-app-purchase/)
+
+For region-specific requirements, see:
+
+*   [Payment options on the App Store in Brazil](https://developer.apple.com/support/payment-options-on-the-app-store-in-brazil/)
+*   [Payment options on the App Store in the EU](https://developer.apple.com/support/payment-options-on-the-app-store-in-the-eu/)
+*   [Payment options on the App Store in Japan](https://developer.apple.com/support/payment-options-on-the-app-store-in-japan/)
+
 #### Other Platforms
 
 Apple product names can appear in copy along with the names of other app platforms or devices. List Apple products first. Although the names of other products can be used in promotional copy, never display Apple product images alongside the images of other products.
