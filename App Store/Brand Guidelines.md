@@ -554,6 +554,7 @@ The absence of a product or service name or logo from this list does not constit
 | Apple Cinema Display® | computer monitor |
 | Apple Creator Studio™ | suite of application programs |
 | Apple Games® | application program |
+| Apple Health™ | software application |
 | Apple Immersive Video™ | entertainment format |
 | Apple Intelligence™ | personal intelligence system |
 | Apple Invites™ | application program |
@@ -676,6 +677,7 @@ The absence of a product or service name or logo from this list does not constit
 | iPad Pro® | mobile digital device |
 | iPhone® | mobile digital device |
 | iPhone Air® | mobile digital device |
+| iPhone Duo™ | mobile digital device |
 | iPod® | mobile digital device |
 | iPod nano® | mobile digital device |
 | iPod shuffle® | mobile digital device |
@@ -763,6 +765,7 @@ The absence of a product or service name or logo from this list does not constit
 | Pixelmator Pro® | application program |
 | Pixlet® | compression application program |
 | PKL® | software framework |
+| Playlist Playground™ | software feature |
 | Podcast Logo® | application feature |
 | PowerBook® | computer |
 | Power Mac® | computer |
@@ -838,6 +841,7 @@ The absence of a product or service name or logo from this list does not constit
 | SwiftUI® | developer software |
 | Tapback® | messaging feature |
 | Taptic Engine® | haptic feedback technology |
+| Tap to Cash™ | software feature |
 | TestFlight® | software |
 | Textile® | computer font |
 | There's an app for that® | slogan |
@@ -942,7 +946,6 @@ The absence of a product or service name or logo from this list does not constit
 | Radio Spins® | music technology services |
 | Shop different℠ | slogan |
 | Shazam® | entertainment services |
-| Tap to Cash℠ | software feature |
 | Time to Run® | fitness program |
 | Time to Run or Push® | fitness program |
 | Time to Walk® | fitness program |
@@ -1077,6 +1080,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of August 27, 2026.
+This list includes updates as of September 10, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
