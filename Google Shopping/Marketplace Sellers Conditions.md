@@ -5423,6 +5423,8 @@ You’re also required to:
 > *   Only use Google’s approved API or interface to upload customer data
 > *   Comply with all [applicable laws and regulations](https://support.google.com/adspolicy/answer/6023676), including any self-regulatory or industry codes that may apply
 
+**Note**: Ads doesn’t support IP and timestamp matching in the EEA, UK, or Switzerland. Exclude IP sharing for these regions, ensure transparent data collection disclosures, and secure all legally required consent. 
+
 * * *
 
 Updating Customer Match lists
