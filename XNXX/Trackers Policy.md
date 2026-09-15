@@ -51,4 +51,4 @@ In connection with the use of Cookies, some of your personal data may be process
 6\. Changes to this Cookie Policy
 ---------------------------------
 
-We reserve the right to modify this Cookie Policy at any time in accordance with this provision. If we make changes to this Cokie Policy, we will post the revised Cookie Policy on the Website and update the “Last Updated” date at the top of this Cookie Policy.
+We reserve the right to modify this Cookie Policy at any time in accordance with this provision. If we make changes to this Cookie Policy, we will post the revised Cookie Policy on the Website and update the “Last Updated” date at the top of this Cookie Policy.
