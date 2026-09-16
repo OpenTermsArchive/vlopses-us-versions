@@ -2500,7 +2500,7 @@ Open-loop gift cards
 > Pre-paid gift cards branded by a credit card issuer
 > 
 > *   _Examples_: Mastercard, Visa, or American Express branded gift cards
-> *   _Exceptions to the policy include but are not limited to:_ Gift cards with an expiration date are allowed
+> *   _Exceptions to the policy include but are not limited to:_ Closed-loop gift cards with an expiration date are allowed
 
 Services
 
