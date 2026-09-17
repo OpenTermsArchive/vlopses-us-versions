@@ -605,18 +605,18 @@ Required cookies & technologies
 
 Always on
 
-For details on how we use your data, see our Privacy Policy and Cookie and Similar Technologies Policy.
+For details on how we use your data, see our Privacy Policy, Open in new tab. and Cookie and Similar Technologies Policy, Open in new tab..
 
 Personalized advertising
 ------------------------
 
-You have the right to opt-out of targeted advertising and disclosures of personal information that may be deemed “sales” or “sharing” under certain US state privacy laws. If you would like to opt out of such activities, please click here.
+You have the right to opt-out of targeted advertising and disclosures of personal information that may be deemed “sales” or “sharing” under certain US state privacy laws. If you would like to opt out of such activities, please click here, Open in new tab..
 
 Additional privacy options
 --------------------------
 
-Click here to make access, deletion or other specific requests relating to your personal information.
+Click here, Open in new tab. to make access, deletion or other specific requests relating to your personal information.
 
 If you do not have a Temu account, you may exercise your privacy rights by clicking here or emailing us at [privacy@temu.com](mailto:privacy@temu.com).
 
-Want to delete your account? To start the process tap here.
+Want to delete your account? To start the process tap here, Open in new tab..
