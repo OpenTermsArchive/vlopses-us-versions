@@ -200,9 +200,9 @@ How do Instagram monetization policies work?
 
 How do I monetize on Instagram?
 
-How do Instagram Community Standards apply?
+What are Instagram Community Standards?
 
-How do Instagram Content Monetization Policies apply?
+What are Instagram Content Monetization Policies?
 
 I have a different question
 
