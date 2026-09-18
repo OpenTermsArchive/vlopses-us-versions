@@ -28,7 +28,7 @@ Contents
 Temu | Return and Refund Policy
 ===============================
 
-Last Updated: Apr 28, 2026 PDT
+Last Updated: Sep 17, 2026 PDT
 
 If you are not satisfied with what you bought on Temu, you may be eligible to return it and get a refund by following the simple procedure set out in this Return and Refund Policy.
 
@@ -166,7 +166,7 @@ For more information about Temu credits, please visit: About credit balance.
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/47d26b9f9c3646fea5cc8fd4fb6869e1.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/db116aedc97a4b35b49731b517af398d.png?imageView2/q/70/format/avif)
 
 7\. Important Notice
 
