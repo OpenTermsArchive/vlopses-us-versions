@@ -3,16 +3,6 @@ Information for law enforcement
 
 Copy link
 
-What are Instagram account records?
-
-How do I request Instagram user data?
-
-What is an Instagram emergency request?
-
-How do I preserve Instagram account records?
-
-I have a different question
-
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
 Requests for user information
