@@ -302,7 +302,7 @@ We prohibit using Snapchat for illegal activity, including the following: 
     
 *   Weapons – Snap prohibits promoting the attempted purchase, sale, or manufacturing of weapons, ammunition, or explosives, including fireworks. We also prohibit the depiction of reckless or irresponsible use of weapons. 
     
-*   Drugs and pharmaceuticals – Snap prohibits buying, selling, exchanging, or facilitating sales of illegal or regulated drugs. This includes regulated drugs such as marijuana, psilocybin, prescription drugs, non-FDA-approved substances like injectable peptides, substances used outside a permissible medical context, and drug paraphernalia. It also includes illegal drugs, such as heroin, cocaine, methamphetamine, or fentanyl) or prescription drugs that are commonly abused (such as opioids, barbiturates, and amphetamines). For illegal or commonly abused prescription drugs, Snap also prohibits depiction or depicted use of such drugs. 
+*   Drugs and pharmaceuticals – Snap prohibits buying, selling, exchanging, or facilitating sales of illegal or regulated drugs. This includes regulated drugs such as marijuana, psilocybin, prescription drugs, non-FDA-approved substances like injectable peptides, substances used outside a permissible medical context, and drug paraphernalia. It also includes illegal drugs, (such as heroin, cocaine, methamphetamine, or fentanyl) or prescription drugs that are commonly abused (such as opioids, barbiturates, and amphetamines). For illegal or commonly abused prescription drugs, Snap also prohibits depiction or depicted use of such drugs. 
     
 
 Snap also prohibits the promotion of certain goods or activities that are often regulated, including the following: 
