@@ -1936,7 +1936,7 @@ Copy link
 
 What is copyright protection?
 
-What is the public domain?
+What is public domain?
 
 How long does copyright last?
 
