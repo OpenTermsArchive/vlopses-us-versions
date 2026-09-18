@@ -4448,7 +4448,7 @@ Requirements to participate in vehicle ads
     *   A driver's license or sales receipts aren’t valid documentation to meet this requirement.
 *   **Direct sellers only**: Brokers aren't allowed to participate
 *   **Aggregators and original equipment manufacturers (OEMs)**: Aggregators and OEMs may only upload vehicles from dealerships with valid licenses in the required market.
-*   **Online delivery of vehicles**: The program for advertisers offering online delivery of vehicles is in beta. Fill out this [form](https://support.google.com/merchants/contact/cuf_vehicle_ads_troubleshooting) to submit your interest.
+*   **Online delivery of vehicles**: The program for advertisers offering online delivery of vehicles is in beta. [Contact us](https://support.google.com/merchants/contact/cuf_vehicle_ads_troubleshooting) for the next steps.
 *   **Location**: You must have a brick and mortar business location for customers to physically visit, review, and/or purchase the vehicle in the state you are listing the vehicle for purchase
 *   **One account per state**: You may only list vehicles for sale in a single state within a single Merchant Center account
 *   **Image** data specification: Vehicle ads have additional image data specification and image requirements. Learn more about [vehicle ads policies and guidelines](https://support.google.com/merchants/answer/11190670)
@@ -4476,7 +4476,7 @@ Vehicle ads from the following advertisers are available as beta features:
 *   Advertisers offering online delivery of vehicles
 *   Multi-state sellers in a single account
 
-**Note**: Beta features for vehicle ads are being tested and expanded. Participation in beta features may initially only be available to certain vehicle advertisers. Performance in beta countries may differ from that of non-beta countries. Beta features may not be eligible to show everywhere, can change at any time, and may never be fully launched. If you wish to participate in these beta features, fill out this [form](https://support.google.com/merchants/answer/12033031) to submit your interest.
+**Note**: Beta features for vehicle ads are being tested and expanded. Participation in beta features may initially only be available to certain vehicle advertisers. Performance in beta countries may differ from that of non-beta countries. Beta features may not be eligible to show everywhere, can change at any time, and may never be fully launched. If you wish to participate in these beta features, [contact us](https://support.google.com/merchants/contact/cuf_vehicle_ads_troubleshooting) for the next steps.
 
 If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
