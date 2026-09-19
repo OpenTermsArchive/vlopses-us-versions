@@ -409,7 +409,7 @@ We prohibit the following: 
     
 *   All content that promotes terrorism or other violent, criminal acts committed by individuals or groups to further ideological goals. These rules also prohibit any content that promotes or supports foreign terrorist organizations or extremist hate groups––as designated by credible, third-party experts––as well as recruitment for such organizations or violent extremist activities.
     
-*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, gender assignment or reassignment, disability, or veteran status, immigration status, age, or pregnancy status. These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
+*   Hate speech or content that abuses, demeans, defames, promotes discrimination or violence, or incites hatred on the basis of race, color, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, gender assignment or reassignment, disability, or veteran status, immigration status, age, or pregnancy status.
     
     *   These rules prohibit, for example, the use of racial, ethnic, misogynistic, or homophobic slurs. They also prohibit memes that ridicule or call for discrimination against a protected group and intentional deadnaming or misgendering. Hate speech also includes endorsing perpetrators––or disparaging victims––of human tragedies (such as genocide, apartheid, or slavery). Other prohibited hateful content includes the use of hate symbols, which means any imagery that is intended to represent hatred or discrimination toward others.
         
@@ -630,9 +630,21 @@ False or Deceptive Information
 
 ### 
 
-Not Eligible for Recommendation:
+Prohibited Content
 
-Any harmful false information that is [prohibited in our Community Guidelines](https://values.snap.com/policy/policy-community-guidelines/harmful-false-deceptive-information?lang=en-US) is prohibited anywhere on Snapchat. Creators and Partners are responsible for fact-checking their content. Creators and Partners are prohibited from publishing inaccurate or misleading content, whether the subject matter is serious (politics, health, tragic events) or more frivolous (entertainment gossip, hoaxes, etc.). For content to be eligible for recommendation to a wider audience, it must not contain:
+  
+
+Any harmful false information that is [prohibited in our Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines/threats?lang=en-US) is prohibited anywhere on Snapchat. Creators and Partners are responsible for fact-checking their content. Creators and Partners are prohibited from publishing inaccurate or misleading content, whether the subject matter is serious (politics, health, tragic events) or more frivolous (entertainment gossip, hoaxes, etc.).
+
+  
+
+### 
+
+Not Eligible for Recommendation
+
+For content to be eligible for recommendation to a wider audience, it must not contain:
+
+  
 
 Political false or unsubstantiated information
 
@@ -640,27 +652,27 @@ Our Community Guidelines prohibit political false information, such as erroneous
 
 Health-related false or unsubstantiated information
 
-Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Content Guidelines.
+Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Recommendation Eligibility Guidelines.
 
 Denial of tragic events
 
-Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Content Guidelines.
+Such content is prohibited in our Community Guidelines, which means it is also prohibited in these Recommendation Eligibility Guidelines.
 
 Manipulated media that is false or misleading
 
-Our Community Guidelines focus on manipulated media’s potential for _harm_ (for example, a deep fake of a politician doing something embarrassing). Our Content Guidelines go further to deny amplification to false or misleading information even where there is no obvious risk to society. For example, clickbait tile images that use photo editing tools or AI to depict a snake the size of a bus, or that edit actors into costumes to spread completely unfounded casting rumors; these examples may not threaten civic integrity or public health, but they are misleading.
+Our Community Guidelines focus on manipulated media’s potential for _harm_ (for example, a deep fake of a politician doing something embarrassing). Our Recommendation Eligibility Guidelines go further to deny amplification to false or misleading information even where there is no obvious risk to society. For example, clickbait tile images that use photo editing tools or AI to depict a snake the size of a bus, or that edit actors into costumes to spread completely unfounded casting rumors; these examples may not threaten civic integrity or public health, but they are misleading.
 
 Deceptive impersonations of other people, brands or organizations
 
-Such content is prohibited in our Community Guidelines, and these Content Guidelines go further to prohibit ambiguous or unclear impersonation. Satire, parody and commentary are allowed, but the reality of content authorship must be reasonably clear to a viewer as young as 13.
+Such content is prohibited in our Community Guidelines, and these Recommendation Eligibility Guidelines go further to prohibit ambiguous or unclear impersonation. Satire, parody and commentary are allowed, but the reality of content authorship must be reasonably clear to a viewer as young as 13.
 
 Deceptive marketing tactics of any kind
 
-We prohibit links with excessive redirects or links that generate pop-ups or pop-unders or excessive ad load. You may not change the end destination or landing page of a link after you have displayed it in your content. Any links in your content must also comply with our Content Guidelines.
+We prohibit links with excessive redirects or links that generate pop-ups or pop-unders or excessive ad load. You may not change the end destination or landing page of a link after you have displayed it in your content. Any links in your content must also comply with our Recommendation Eligibility Guidelines.
 
 Engagement bait
 
-This means content where the intent is not to entertain or inform the viewer, but to manipulate them to boost the Snap’s views or interactions. Engagement bait often sets up an expectation that never pays off. Here is a non-exhaustive list of examples of prohibited engagement bait:
+Content designed solely to manipulate interactions—rather than entertain or inform—to artificially boost engagement.
 
 *   A “wait for it” caption, but “it” never happens.
     
