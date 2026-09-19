@@ -5,11 +5,11 @@ Copy link
 
 What are Instagram user information requests?
 
+How do I make an Instagram emergency request?
+
+What Instagram data is available?
+
 How do I submit an Instagram request?
-
-What is an Instagram emergency request?
-
-What is Instagram data retention?
 
 I have a different question
 
