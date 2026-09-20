@@ -70,7 +70,7 @@ Drop your package off at your nearest Happy Returns/FedEx/USPS/UPS location and 
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/3a6827f2789d4bcd97ce8dd914083e1b.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/9babb26c69ca4b03a2b17098ec48d2e7.png?imageView2/q/70/format/avif)
 
 Start return
 
