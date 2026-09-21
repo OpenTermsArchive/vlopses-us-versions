@@ -125,7 +125,3 @@ How quickly does TikTok process requests?
 What do I do if I receive a Cybertip report made by TikTok to NCMEC?
 
 * * *
-
-### Was it helpful?
-
-YesNo
