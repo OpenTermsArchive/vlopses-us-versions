@@ -1519,11 +1519,13 @@ AliExpress
 
 - - -
 
-AliExpress Product Listing Policy
+\[expired\]AliExpress Product Listing Policy
 
 Release date: May 10, 2018
 
 Revision date: June 29, 2026
+
+Expiration date: September 22, 2026
 
 INDEX
 -----
