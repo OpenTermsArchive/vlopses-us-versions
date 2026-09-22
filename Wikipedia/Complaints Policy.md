@@ -692,6 +692,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Aristoxène](https://meta.wikimedia.org/wiki/Special:CentralAuth/Aristox%C3%A8ne "m:Special:CentralAuth/Aristoxène"), since 3 August 2026
 *   [Xeronic](https://meta.wikimedia.org/wiki/Special:CentralAuth/Xeronic "m:Special:CentralAuth/Xeronic"), since 2 September 2026
 *   [PageTheEditor](https://meta.wikimedia.org/wiki/Special:CentralAuth/PageTheEditor "m:Special:CentralAuth/PageTheEditor"), since 2 September 2026
+*   [Settignano](https://meta.wikimedia.org/wiki/Special:CentralAuth/Settignano "m:Special:CentralAuth/Settignano"), since 22 September 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
