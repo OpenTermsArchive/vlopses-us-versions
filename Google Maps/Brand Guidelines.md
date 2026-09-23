@@ -23,6 +23,7 @@ Brands Select a brand Google
 *   Google Cast
 *   Google Gemini
 *   Google Health
+*   Google Home
 *   Google Lens
 *   Google Maps
 *   Google Messages
@@ -52,7 +53,6 @@ Brands Select a brand Google
 *   Quick Share
 *   Waze
 *   Wear OS by Google
-*   Works With Google Home
 *   YouTube
 *   YouTube Kids
 *   YouTube Music
