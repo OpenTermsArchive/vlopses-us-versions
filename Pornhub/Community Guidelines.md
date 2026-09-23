@@ -85,6 +85,7 @@ Some content may remain appropriate for SFW experiences while covering mature, e
 *   Promotion or review of sexual wellness products, provided products are not shown or described in actual or simulated use.
 *   Artistic, glamour, theatrical, or fitness content that is not intended to sexually arouse viewers.
 *   Content discussing violence, politics, current events, or other adult topics in a non-harmful and non-inflammatory manner.
+*   Non-graphic depictions of violence in the context of gameplay, provided they do not contain excessive blood, gore, or other graphic imagery.
 *   Content containing moderate adult language or mature themes.
 
 When determining whether content is appropriate for SFW experiences, creators should consider the primary purpose and overall presentation of the content. Content whose primary purpose is to create sexual arousal or otherwise violate these Community Guidelines may be considered non-compliant with our SFW guidelines and may be removed from SFW experiences or from the platform, as appropriate.
