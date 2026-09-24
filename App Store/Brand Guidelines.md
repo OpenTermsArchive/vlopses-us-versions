@@ -756,6 +756,7 @@ The absence of a product or service name or logo from this list does not constit
 | Monaco® | computer font |
 | Motion® | application program |
 | MPX Module® | expansion module |
+| Multi-Touch™ | touchscreen interface |
 | Music Memos® | application program |
 | MusicKit® | software framework |
 | NameDrop® | software feature |
@@ -907,6 +908,7 @@ The absence of a product or service name or logo from this list does not constit
 | Apple Fitness+® | fitness subscription service |
 | Apple Messages for Business® | communications service |
 | Apple Music Atlas® | music technology services |
+| Apple Music Pathway® | charitable program |
 | Apple News® | news aggregation service |
 | Apple News+® | subscription news service |
 | Apple News Today® | news service |
@@ -931,7 +933,6 @@ The absence of a product or service name or logo from this list does not constit
 | Genius® | customized recommendations |
 | Genius Bar® | service and support program |
 | Genius Bar logo® | service and support program |
-| Genius Grove® | support services |
 | iBooks Store℠ | online store |
 | iCloud® | online service |
 | iCloud+® | online service |
@@ -1095,6 +1096,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of September 10, 2026.
+This list includes updates as of September 15, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
