@@ -1,10 +1,10 @@
-On September 24, 2026, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/safety/en/policies-and-engagement/overview?cgversion=2026H2update).
+Released August 25, 2026
+
+Effective September 24, 2026
 
   
 
-Released August 14, 2025
-
-Effective September 13, 2025
+Previous Versions: [Here](https://www.tiktok.com/safety/en/policies-and-engagement/cg-archive)
 
 TikTok is where people discover things they love, build communities, and express themselves. Our mission is simple: we want to inspire creativity and bring joy.
 
@@ -58,7 +58,7 @@ We strive for Community Guidelines that are easy to understand. We’ve created 
 
 **Regulated Goods, Services, and Commercial Activities**
 
-*   **Regulated Goods, Services, and Commercial Activities:** We don’t allow the trade, marketing, or promotion of regulated, prohibited, or high-risk goods and services. Registered business accounts and verified TikTok Shop sellers may be allowed to sell or market some regulated items if they meet strict requirements.
+*   **Regulated Goods, Services, and Commercial Activities:** We don’t allow trade, marketing, or providing access to regulated, prohibited, or high-risk goods and services. Verified business accounts and verified TikTok Shop sellers may be allowed to sell or market some regulated items if they meet strict requirements.
 *   **Commercial Disclosure and Paid Marketing:** If you're promoting a product, brand, or business, you must use TikTok’s content disclosure setting.
 *   **Frauds and Scams:** We don’t allow content that promotes or facilitates scams, fraud, or deceptive schemes.
 
@@ -89,7 +89,7 @@ Some content may not be appropriate for people under 18. When we identify conten
 
 **For You Feed Standards**
 
-The For You Feed is designed to help you discover a variety of content and creators, and for creators to reach new audiences and build thriving communities. However, not all content is guaranteed to be recommended. When we identify content that falls under the “FYF Ineligible” standards in our Community Guidelines, it won't be recommended in the FYF. You can read more about what qualifies [here](https://www.tiktok.com/safety/en/policies-and-engagement/fyf-standards?cgversion=2025H2update&lang=en).
+The For You Feed is designed to help you discover a variety of content and creators, and for creators to reach new audiences and build thriving communities. However, not all content is guaranteed to be recommended. When we identify content that falls under the “FYF Ineligible” standards in our Community Guidelines, it won't be recommended in the FYF. You can read more about what qualifies [here](https://www.tiktok.com/safety/en/policies-and-engagement/fyf-standards?cgversion=2026H2update&lang=en).
 
 ![](//p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/bf1e1ae007f944e7885b59046c9e216d~tplv-1rzkm2vceq-default:0:0:q75.image)
 
