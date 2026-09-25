@@ -1,89 +1,90 @@
-Shopping ads policies
-=====================
+Google's Shopping ads and listings policies
+===========================================
 
-As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+Welcome to Google's Shopping ads and policy center
+--------------------------------------------------
 
-Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+### Overview Shopping ads and listings policies and how we enforce them
 
-Welcome to the Shopping ads Policy Center
------------------------------------------
+We strive to support a healthy digital shopping ecosystem – one that’s trustworthy and transparent, and works for customers, merchants, advertisers, and publishers. The purpose of this policy center is to help you build Shopping ads and listings and local inventory ad campaigns.
 
-### Overview of our Shopping ads policies and how we enforce them
+These policies are designed to ensure a safe and positive experience for our users and abide by applicable laws. This means that our policies prohibit content that is harmful to users and the overall shopping ecosystem.
 
-We strive to support a healthy digital advertising ecosystem – one that’s trustworthy and transparent, and works for customers, advertisers, and publishers. The purpose of this Policy Center is to help you build Shopping ads and local inventory ads campaigns that align with both our [ads policies](https://support.google.com/adspolicy/answer/6008942) and the Shopping ads policies listed below.
+Our Shopping ads and listings policies cover four broad areas:
 
-These policies are designed to ensure a safe and positive experience for our customers and abide by applicable laws. This means that our policies prohibit content that is harmful to customers and the overall advertising ecosystem.
+|     |     |
+| --- | --- |
+|     | **[Prohibited content](#con):** Content you're not allowed to list on the Shopping ads Network |
+|     | **[Prohibited practices](#pra):** Things you can't do if you want to list products with us |
+|     | **[Restricted content](#res):** Content you can list, but with limitations |
+|     | **[Site requirements](#site):** Standards for your listings and website |
 
-Our Shopping ads policies cover four broad areas:
+Click through the policies below for policy definitions, examples, and troubleshooting steps.
 
-**[Prohibited content](#con):** Content you're not allowed to list on the Google Network
+We use a combination of Google AI and human evaluation to ensure that Shopping ads and listings comply with these policies. Our enforcement technologies use Google AI, modeled on human reviewers’ decisions, to help protect our customers and keep our Shopping platform safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
 
-**[Prohibited practices](#pra):** Things you can't do if you want to list products with us
+We take action on content that violates our policies. This may include disapproving violating Shopping ads and listings so they don’t serve, temporarily capping impressions for some accounts flagged by Google AI, and suspending accounts for repeat or egregious violations.
 
-**[Restricted content](#res):** Content you can list, but with limitations
+We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your Shopping listings is disapproved, [you can fix that listing or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (for this link to work, you’ll need to be signed into your Google Merchant Center account).
 
-**[Site requirements](#site):** Standards for your ads and website
+* * *
 
-Review the policies below for policy definitions, examples, and troubleshooting steps.
+Prohibited content
+------------------
 
-We use a combination of Google AI and human evaluation to ensure that Shopping ads comply with these policies. Our enforcement technologies use Google AI, modeled on human reviewers’ decisions, to help protect our customers and keep our ad platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
+### [Counterfeit products](https://support.google.com/merchants/answer/17233578)
 
-We take action on content that violates our policies. This may include disapproving violating Shopping ads so they don’t serve, temporarily capping ad impressions for some accounts flagged by Google AI, and suspending accounts for repeat or egregious violations.
-
-We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your Shopping ads is disapproved, [you can fix that shopping ad or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (you must be signed into your Google Ads account to access the appeal form).
-
-### Prohibited content
-
-#### [Counterfeit goods](https://support.google.com/merchants/merchants/answer/6149993)
-
-> Google prohibits the sale or promotion for sale of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.  
+> Google prohibits the sale or listing of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.  
 >   
-> This policy applies to the content of your Shopping ads and your website.
+> This policy applies to the content of your Shopping listings and your website.
 
-#### [Dangerous products](https://support.google.com/merchants/merchants/answer/6150004)
+### [Dangerous products](https://support.google.com/merchants/answer/17233785)
 
-> Google wants to help keep people safe both online and offline, so we don’t allow the promotion of some products that cause damage, harm, or injury.
+> Google wants to help keep people safe both online and offline, so we don’t allow listing some products that cause damage, harm, or injury.
 > 
-> _Examples of dangerous content:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
+> **Examples of dangerous content:** Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
 
-#### [Products that enable dishonest behavior](https://support.google.com/merchants/merchants/answer/6150005)
+### [Enabling dishonest behavior](https://support.google.com/merchants/answer/17234087)
 
-> Google values honesty and fairness, so we don’t allow the promotion of products that are designed to enable dishonest behavior.
+> Google values honesty and fairness, so we don’t allow listing products that are designed to enable dishonest behavior.
 > 
-> _Examples of products that enable dishonest behavior:_ Hacking software or instructions; fake documents; academic cheating products.
+> **Examples of products that enable dishonest behavior**_:_ Hacking software or instructions; fake documents; academic cheating products.
 
-#### [Inappropriate content](https://support.google.com/merchants/merchants/answer/6149990)
+### [Inappropriate content](https://support.google.com/merchants/answer/17234031)
 
-> Google values diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
+> Google values the safety of our users, especially children. Google also values diversity and respect for others, and we strive to avoid offending users, so we don’t allow listings or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
 > 
-> _Examples of inappropriate or offensive content:_ Bullying or intimidation of an individual or group; racial discrimination; hate group paraphernalia; graphic crime scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
+> **Examples of inappropriate or offensive content:** Child sexual abuse content, bullying or intimidation of an individual or group; racial discrimination; hate group paraphernalia; graphic crime scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
 
-#### [Unsupported Shopping ads content](https://support.google.com/merchants/merchants/answer/6150006)
+### [Unsupported Shopping content](https://support.google.com/merchants/answer/17233951)
 
-> Google aims to enable businesses to promote a wide variety of products, but some Google products and platforms may not be optimized to appropriately support all content types.
+> Google aims to enable businesses to list a wide variety of products, but some Google products and platforms may not be optimized to appropriately support all content types.
 > 
-> For this reason, Shopping ads and free product listings don't allow the promotion of certain content where we don't offer an optimal user experience.
+> For this reason, Shopping ads and listings don't allow the listing of certain content where we don't offer an optimal user experience.
 > 
-> Note that because these limitations are specific to Shopping ads and free listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to Shopping ads and listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
-### Prohibited practices
+* * *
 
-#### [Abuse of the ad network](https://support.google.com/merchants/merchants/answer/6150118)
+Prohibited practices
+--------------------
 
-> Google wants Shopping ads to be useful, varied, relevant, and safe for users, so we don’t allow any of the following:
+### [Abusing the Shopping network](https://support.google.com/merchants/answer/17234032)
+
+> Google wants Shopping ads and listings to be useful, varied, relevant, and safe for users, so we don’t allow any of the following:
 > 
 > *   Malicious content
 > *   Sites that offer little unique value to users and are focused on traffic generation
 > *   Retailers who try to gain an unfair advantage in Shopping campaigns
 > *   Retailers who try to bypass our review processes
 
-#### [Irresponsible data collection & use](https://support.google.com/merchants/merchants/answer/6150122)
+### [Data collection and use](https://support.google.com/merchants/answer/17250717)
 
-> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our advertising partners shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our merchants should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
-> _Examples of user information that must be handled with care:_ full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> **Examples of user information that must be handled with care**_:_ Full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
-> _Examples of irresponsible data collection and use_: Obtaining the following data over non-secure SSL (https://) server connections:
+> **Examples of irresponsible data collection and use**: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
 > *   Username or email in combination with passwords
 > *   Credit and debit card numbers
@@ -92,221 +93,38 @@ We will provide you with information on our decision for any policy violation en
 > *   Wire transfer numbers
 > *   National identity, pension, social security, tax ID, health care, or driver's license number
 
-#### [Misrepresentation](https://support.google.com/merchants/merchants/answer/6150127)
+### [Misrepresentation](https://support.google.com/merchants/answer/17234184)
 
-> Google doesn't want users to feel misled by the content promoted in Shopping ads, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
+> Google doesn't want users to feel misled by the content in Shopping listings, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
 > 
-> *   Promotions that prompt users to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the user’s explicit consent
-> *   Promotions that represent you or your products in a way that isn't accurate, realistic, and truthful
+> *   Listings that prompt users to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the user’s explicit consent
+> *   Listings that represent you or your products in a way that is not accurate, realistic, and truthful
 
-### Restricted content
+* * *
 
-The policies below cover content that is sometimes legally or culturally sensitive. Online promotion can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these ads when and where they might be inappropriate.
-
-For that reason, we allow promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and merchants may need to meet additional requirements before their ads are eligible to run. Note that not all products, features, or networks are able to support this restricted content.
-
-#### [Adult-oriented content](https://support.google.com/merchants/merchants/answer/6150138)
-
-> Google restricts promotion of the following types of adult-oriented content:
-> 
-> *   Adult merchandise
-> *   Sexually suggestive content
-> *   Images containing exposed skin and nudity
-> 
-> When promoting adult content you may not do any of the following:
-> 
-> *   Violate applicable laws or regulations for any location that you target
-> *   Target minors
-> *   Promote sexually explicit content
-> *   Promote content with underage or non-consensual sexual themes, including child sexual abuse content
-> *   Promote content that may be interpreted as providing sexual acts in exchange for compensation
-> 
-> _Examples of restricted adult content:_ sex toys; adult magazines; sexual enhancement products; sexually suggestive lingerie promotions.
-
-#### [Alcoholic beverages](https://support.google.com/merchants/merchants/answer/6150139)
-
-> Google restricts the promotion of alcoholic beverages and drinks that resemble alcoholic beverages.
-> 
-> When promoting alcoholic beverages, you may not do any of the following:
-> 
-> *   Violate applicable laws and industry standards for any location that you target
-> *   Target individuals below the legal drinking age
-> *   Imply that drinking alcohol can improve social, sexual, professional, intellectual, or athletic standing
-> *   Imply that drinking alcohol provides health or therapeutic benefits
-> *   Portray excessive drinking in a positive light or feature binge or competition drinking
-> *   Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery, or the performance of any task requiring alertness or dexterity
-> 
-> _Examples of restricted alcoholic beverages:_ beer; wine; sake; spirits or hard alcohol; Champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; and non-alcoholic distilled spirits.
-
-#### [Copyrighted content](https://support.google.com/merchants/merchants/answer/6150163)
-
-> Google restricts the promotion of copyrighted content. If you would like to promote copyrighted content and believe you are legally authorized to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, use the [Report content on Google](https://support.google.com/legal/troubleshooter/1114905) form.
-
-#### [Gambling-related content](https://support.google.com/merchants/merchants/answer/6150164)
-
-> Google restricts the promotion of gambling-related content.
-> 
-> _Examples of restricted gambling-related content:_ national or private lotteries; sites offering bonus codes or promotional offers for gambling sites
-
-#### [Healthcare-related content](https://support.google.com/merchants/merchants/answer/6150151)
-
-> Google restricts the promotion of healthcare-related content such as the following:
-> 
-> *   Over-the-counter medication
-> *   Prescription drugs
-> *   Unapproved pharmaceuticals and supplements
-> *   Pregnancy and fertility-related products
-> 
-> The restrictions that apply to this content may vary depending on the product you're promoting and the countries that you're targeting. Some content, such as unapproved pharmaceutical supplements, may not be promoted anywhere.
-> 
-> Depending on the content you’re promoting and the countries where your ads appear, you may need to apply for preauthorization with Google before advertising healthcare-related content.
-
-#### [Political content](https://support.google.com/merchants/merchants/answer/6150172)
-
-> When you promote political content, you must comply with the following requirements:
-> 
-> *   Applicable laws and industry standards for any location that you target
-> *   Any applicable election "silence periods"
-> 
-> _Examples of political content:_ promotion of political parties/candidates, political issue advocacy.
-
-#### [Trademarks](https://support.google.com/merchants/merchants/answer/6172182)
-
-> Shopping ads don’t restrict use of trademarks by merchants in the title or description of an ad when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping ads](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch) form.
-
-#### [High Fat Sugar Salt Food and Beverage](https://support.google.com/merchants/merchants/answer/11191042)
-
-> We support responsible advertising of food and beverages. High Fat Sugar Salt (HFSS) Food & Beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage, or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
-> 
-> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their ads target, including local requirements that may differ from this HFSS Food & Beverage policy.
-
-### Site requirements
-
-We want to deliver ads that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your ads appealing to users. We've also specified technical requirements to help users and advertisers get the most out of the variety of ad formats we offer.
-
-#### [Editorial & professional requirements](https://support.google.com/merchants/merchants/answer/6150244)
-
-> To provide a quality customer experience, Google requires that all Shopping ads meet high professional and editorial standards. We only allow promotions that are clear and professional in appearance. These ads should lead customers to products and landing pages that are relevant, useful, and easy to interact with.
-> 
-> _Examples of promotions that don't meet these editorial and professional requirements:_
-> 
-> *   a display URL that doesn't accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
-> *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
-> *   sites that are under construction, parked domains, or are just not working
-> *   sites that have disabled the browser's back button
-> *   sites that aren't viewable in commonly used browsers
-
-About our policies
+Restricted content
 ------------------
 
-> Shopping ads enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of ads they view. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, and operational, technical, and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
-> 
-> Google requires that advertisers comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, and any other places your ads are showing. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may stop you from advertising with us.
-> 
-> Advertisers have a responsibility to not promote content, or engage in behavior that risks harm to our users, employees, or the Ads ecosystem. If we find such content or behavior, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
+The policies below cover content that is sometimes legally or culturally sensitive. Online listings can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these listings when and where they might be inappropriate.
 
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+For that reason, we allow listings of the content below, but on a limited basis. These listings may not show to every user in every location, and merchants may need to meet additional requirements before their listings are eligible to run. Note that not all products, features, or networks are able to support this restricted content.
 
-- - -
+### [Sexual content](https://support.google.com/merchants/answer/17233952)
 
-Free listings policies
-======================
-
-Overview of our free listings policies and how we enforce them
---------------------------------------------------------------
-
-We strive to support a healthy digital shopping ecosystem that’s trustworthy and transparent, and works for customers, retailers, and publishers. Information within this Help Center will help you create product offers that align with our free listings policies listed below.
-
-These policies are designed to ensure a safe and positive experience for our customers and to follow the relevant laws. This means that our policies prohibit content that is harmful to customers and the overall ecosystem.
-
-Our free listings policies cover four broad areas:
-
-*   **[Prohibited content](#con):** Content you're not allowed to list on the Google Network
-*   **[Prohibited practices](#pra):** Things you can't do if you want to list products with us
-*   **[Restricted content](#res):** Content you can list, but with limitations
-*   **[Site requirements](#ed):** Standards for your website
-
-We use a combination of automated and human evaluation to ensure that free listings comply with these policies. Our enforcement technologies use algorithms and machine learning, modeled on human reviewers’ decisions, to help protect our customers and keep our platforms safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
-
-We take action on content that violates our policies. This may include restricting or disapproving free listings, that show policy violations, so they don’t serve. It may also include limiting offer visibility for some accounts, and suspending accounts for repeat or egregious violations.
-
-We will provide you with information on why your free listings violate our policies and the reason for disapproval. If one of your free listings is disapproved or has limited visibility, [you can fix that listing or appeal the decision](https://support.google.com/merchants/answer/13585221).
-
-### Prohibited content
-
-#### [Counterfeit products](https://support.google.com/merchants/merchants/answer/12079201)
-
-> Google prohibits the sale or listing of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
-> 
-> This policy applies to the content of your free listings and your website.
-
-#### [Dangerous products](https://support.google.com/merchants/merchants/answer/12079603)
-
-> Google wants to help keep people safe both online and offline, so we don’t allow the listing of some products that cause damage, harm, or injury.
-> 
-> _Examples of dangerous content:_ Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
-
-#### [Products that enable dishonest behavior](https://support.google.com/merchants/merchants/answer/12078695)
-
-> Google values honesty and fairness, so we don’t allow the listing of products that are designed to enable dishonest behavior.
-> 
-> _Examples of products that enable dishonest behavior:_ Hacking software or instructions; fake documents; academic cheating products.
-
-#### [Inappropriate content](https://support.google.com/merchants/merchants/answer/12078091)
-
-> Google values diversity and respect for others, and we strive to avoid offending customers, so we don’t allow free listings or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
-> 
-> _Examples of inappropriate or offensive content:_ Bullying or intimidation of an individual or group; racial discrimination; hate group paraphernalia; graphic crime scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
-
-#### [Unsupported free listings content](https://support.google.com/merchants/merchants/answer/12077589)
-
-> Google aims to enable businesses to list a wide variety of products, but some Google products and platforms may not be optimized to appropriately support all content types.
-> 
-> For this reason, we don't allow the listing of certain content where we don't offer an optimal customer experience.
-
-### Prohibited practices
-
-#### [Abuse of the free listings network](https://support.google.com/merchants/merchants/answer/12077185)
-
-> Google wants listings to be useful, varied, relevant and safe for customers, and so we’ve made some decisions about how we serve content on our network. As a result we don’t allow any of the following:
-> 
-> *   Malicious content
-> *   Sites that offer little unique value to customers and are focused primarily on traffic generation
-> *   Retailers who attempt to gain an unfair advantage in ranking
-> *   Retailers who attempt to bypass our review processes
-
-#### [Misrepresentation](https://support.google.com/merchants/merchants/answer/12079606)
-
-> Google doesn't want customers to feel misled by the content in your free listings, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
-> 
-> *   Listings that prompt customers to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the customer’s explicit consent
-> *   Listings that represent you or your products in a way that isn't accurate, realistic, and truthful
-
-### Restricted content
-
-The policies below cover content that is sometimes legally or culturally sensitive. Online listings can be used as a powerful way to reach new customers, but in sensitive areas, we also work hard to avoid showing these listings when and where they might be inappropriate.
-
-For that reason, we allow listings of the content below, but on a limited basis. These listings may not show to every customer in every location, and retailers may need to meet additional requirements before their listings are eligible to be shown to customers. Note that not all products, features, or networks are able to support this restricted content.
-
-#### [Adult-oriented content](https://support.google.com/merchants/merchants/answer/12076987)
-
-> Google restricts free listings of the following types of adult-oriented content:
+> Google restricts listings of the following types of adult-oriented content:
 > 
 > *   Adult merchandise
 > *   Sexually suggestive content
-> *   Images containing exposed skin and nudity
+> *   Images containing nudity
 > 
-> When listing adult content you may not do any of the following:
+> When listing sexual content you may not do any of the following:
 > 
 > *   Violate applicable laws or regulations for any location that you target
 > *   Target minors
-> *   List sexually explicit content
-> *   List content with underage or non-consensual sexual themes, including child sexual abuse content
-> *   List content that may be interpreted as providing sexual acts in exchange for compensation
 > 
-> _Examples of restricted adult content:_ sex toys; adult magazines; sexual enhancement products; sexually suggestive lingerie promotions.
+> **Examples of restricted adult content**_:_ sex toys; adult magazines; sexual enhancement products; sexually suggestive lingerie promotions.
 
-#### [Alcoholic beverages](https://support.google.com/merchants/merchants/answer/12077694)
+### [Alcohol](https://support.google.com/merchants/answer/17234033)
 
 > Google restricts the listing of alcoholic beverages and drinks that resemble alcoholic beverages.
 > 
@@ -319,19 +137,19 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > *   Portray excessive drinking in a positive light or feature binge or competition drinking
 > *   Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery, or the performance of any task requiring alertness or dexterity
 > 
-> _Examples of restricted alcoholic beverages:_ beer; wine; sake; spirits or hard alcohol; Champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; and non-alcoholic distilled spirits.
+> **Examples of restricted alcoholic beverages**_:_ beer; wine; sake; spirits or hard alcohol; Champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; and non-alcoholic distilled spirits.
 
-#### [Copyrighted content](https://support.google.com/merchants/merchants/answer/12079602)
+### [Copyrights](https://support.google.com/merchants/answer/17233579)
 
-> Google restricts the listing of copyrighted content. If you would like to list copyrighted content and believe you're legally authorized to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905).
+> Google restricts the listing of copyrighted content. If you would like to list copyrighted content and believe you are legally authorized to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, use the [Report content on Google](https://support.google.com/legal/troubleshooter/1114905) form.
 
-#### [Gambling-related content](https://support.google.com/merchants/merchants/answer/12076889)
+### [](https://support.google.com/adspolicy/answer/6018017)[Gambling-related content](https://support.google.com/merchants/answer/17233786)
 
 > Google restricts the listing of gambling-related content.
 > 
-> _Examples of restricted gambling-related content:_ national or private lotteries; physical lottery scratch cards; sites offering bonus codes or promotional offers for gambling sites
+> **Examples of restricted gambling-related content**_:_ national or private lotteries; sites offering bonus codes or promotional offers for gambling sites
 
-#### [Healthcare-related content](https://support.google.com/merchants/merchants/answer/12079605)
+### [Healthcare and medicines](https://support.google.com/merchants/answer/17234034)
 
 > Google restricts the listing of healthcare-related content such as the following:
 > 
@@ -344,31 +162,159 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > 
 > Depending on the content you’re listing and the countries where your listings appear, you may need to apply for preauthorization with Google before advertising healthcare-related content.
 
-#### [Trademarks](https://support.google.com/merchants/merchants/answer/12078092)
+### [Political content](https://support.google.com/merchants/answer/17234185) (Shopping ads only)
 
-> Google doesn’t restrict use of trademarks by retailers in the title or description of a free listing when it’s for a trademarked product or a product compatible with the trademarked product. Retailers need to reference trademarks to be able to communicate to customers what they're offering, and customers need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use this [form](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
-
-### Site requirements
-
-#### [Editorial and technical requirements](https://support.google.com/merchants/merchants/answer/12079604)
-
-> In order to provide a quality customer experience, Google requires that all free listings meet high professional and editorial standards. We only allow listings that are clear and professional in appearance. These listings should lead customers to products and landing pages that are relevant, useful, and easy to interact with.
+> When you serve Shopping ads containing political content, you must comply with the following requirements:
 > 
-> _Examples of listings that don't meet these editorial and professional requirements:_
+> *   Applicable laws and industry standards for any location that you target
+> *   Any applicable election "silence periods"
 > 
-> *   A display URL that doesn't accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
-> *   Gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
-> *   Sites that are under construction, parked domains, or are just not working
-> *   Sites that have disabled the browser's back button
-> *   Sites that aren't viewable in commonly used browsers
+> **Examples of political content:** promotion of political parties/candidates, political issue advocacy.
 
-#### [Irresponsible data collection and use](https://support.google.com/merchants/merchants/answer/12078694)
+### [Trademarks](https://support.google.com/merchants/answer/17234186)
 
-> Google wants customers to trust that information about them will be respected and handled with appropriate care. As such, merchants and retailers shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Shopping listings don’t restrict use of trademarks by merchants in the title or description of a  listing when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping listings](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch) form.
+
+### [High fat, sugar, salt food and beverage](https://support.google.com/merchants/answer/17234187)
+
+> We support responsible advertising of food and beverages. High fat, sugar, salt (HFSS) food and beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage, or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
 > 
-> _Examples of user information that must be handled with care:_ full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their listings target, including local requirements that may differ from this HFSS Food & Beverage policy.
+
+### [Shopping ads protections for children and teens](https://support.google.com/merchants/answer/17233634) (Shopping ads only)
+
+> Our child and teen policies, along with other policies (including but not limited to those for alcohol, gambling, and high fat, sugar, and salt food and beverages), work together to provide strong protections that include:
 > 
-> _Examples of irresponsible data collection and use_: Obtaining the following data over non-secure SSL (https://) server connections:
+> *   Disabling Shopping ads personalization
+> *   Restricting sensitive Shopping ad content and categories
+> 
+> We require all our merchants to follow local legal requirements when using our products, including any regulations on advertising to users under age 18. Learn more about our Shopping ads protections for children and teens and relevant policies, where they apply, and what they mean for merchants.
+
+### [Legal requirements](https://support.google.com/merchants/answer/17233392)
+
+> You’re always responsible for ensuring that you comply with all applicable laws and regulations, in addition to Google's advertising policies, for all of the locations where your ads are showing.
+
+* * *
+
+Site requirements
+-----------------
+
+We want to deliver ads and listings that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your listings appealing to users. We've also specified technical requirements to help users and merchants get the most out of the variety of listing formats we offer.
+
+### [Editorial](https://support.google.com/merchants/answer/17233876)
+
+> To provide a quality customer experience, Google requires that all Shopping listings and merchant sites meet high professional and editorial standards. We only allow listings that are clear and professional in appearance. These listings should lead customers to products and landing pages that are relevant, useful, and easy to interact with.
+> 
+> **Examples of listings or sites that don't meet these editorial and professional requirements:**
+> 
+> *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
+> *   sites that are under construction, parked domains, or are just not working
+> *   sites that have disabled the browser's back button
+> *   sites that are not viewable in commonly used browsers
+
+* * *
+
+About our policies
+------------------
+
+Shopping ads and listings enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of listings they view. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, and operational, technical, and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
+
+Google requires that merchants comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, and any other places your listings are showing. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may stop you from advertising with us.
+
+Merchants have a responsibility to not list content, or engage in behavior that risks harm to our users, employees, or the listings ecosystem. If we find such content or behavior, we may take action, including but not limited to restricting or blocking your listings or suspending your account.
+
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+
+- - -
+
+Google's Shopping ads and listings policies
+===========================================
+
+Welcome to Google's Shopping ads and policy center
+--------------------------------------------------
+
+### Overview Shopping ads and listings policies and how we enforce them
+
+We strive to support a healthy digital shopping ecosystem – one that’s trustworthy and transparent, and works for customers, merchants, advertisers, and publishers. The purpose of this policy center is to help you build Shopping ads and listings and local inventory ad campaigns.
+
+These policies are designed to ensure a safe and positive experience for our users and abide by applicable laws. This means that our policies prohibit content that is harmful to users and the overall shopping ecosystem.
+
+Our Shopping ads and listings policies cover four broad areas:
+
+|     |     |
+| --- | --- |
+|     | **[Prohibited content](#con):** Content you're not allowed to list on the Shopping ads Network |
+|     | **[Prohibited practices](#pra):** Things you can't do if you want to list products with us |
+|     | **[Restricted content](#res):** Content you can list, but with limitations |
+|     | **[Site requirements](#site):** Standards for your listings and website |
+
+Click through the policies below for policy definitions, examples, and troubleshooting steps.
+
+We use a combination of Google AI and human evaluation to ensure that Shopping ads and listings comply with these policies. Our enforcement technologies use Google AI, modeled on human reviewers’ decisions, to help protect our customers and keep our Shopping platform safe. More complex, nuanced or severe cases are often reviewed and evaluated by our specially-trained experts.
+
+We take action on content that violates our policies. This may include disapproving violating Shopping ads and listings so they don’t serve, temporarily capping impressions for some accounts flagged by Google AI, and suspending accounts for repeat or egregious violations.
+
+We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your Shopping listings is disapproved, [you can fix that listing or appeal the decision](https://support.google.com/merchants/answer/6109185). You can also [appeal an account suspension decision](https://ads.google.com/nav/selectaccount?authuser=0&dst=/aw/overview?supportResource%3Dsuspension_help) (for this link to work, you’ll need to be signed into your Google Merchant Center account).
+
+* * *
+
+Prohibited content
+------------------
+
+### [Counterfeit products](https://support.google.com/merchants/answer/17233578)
+
+> Google prohibits the sale or listing of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.  
+>   
+> This policy applies to the content of your Shopping listings and your website.
+
+### [Dangerous products](https://support.google.com/merchants/answer/17233785)
+
+> Google wants to help keep people safe both online and offline, so we don’t allow listing some products that cause damage, harm, or injury.
+> 
+> **Examples of dangerous content:** Recreational drugs (chemical or herbal); psychoactive substances; equipment to facilitate drug use; weapons, ammunition, explosive materials and fireworks; instructions for making explosives or other harmful products; tobacco products.
+
+### [Enabling dishonest behavior](https://support.google.com/merchants/answer/17234087)
+
+> Google values honesty and fairness, so we don’t allow listing products that are designed to enable dishonest behavior.
+> 
+> **Examples of products that enable dishonest behavior**_:_ Hacking software or instructions; fake documents; academic cheating products.
+
+### [Inappropriate content](https://support.google.com/merchants/answer/17234031)
+
+> Google values the safety of our users, especially children. Google also values diversity and respect for others, and we strive to avoid offending users, so we don’t allow listings or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
+> 
+> **Examples of inappropriate or offensive content:** Child sexual abuse content, bullying or intimidation of an individual or group; racial discrimination; hate group paraphernalia; graphic crime scene or accident images; cruelty to animals; murder; self-harm; extortion or blackmail; sale or trade of endangered species.
+
+### [Unsupported Shopping content](https://support.google.com/merchants/answer/17233951)
+
+> Google aims to enable businesses to list a wide variety of products, but some Google products and platforms may not be optimized to appropriately support all content types.
+> 
+> For this reason, Shopping ads and listings don't allow the listing of certain content where we don't offer an optimal user experience.
+> 
+> Note that because these limitations are specific to Shopping ads and listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+
+* * *
+
+Prohibited practices
+--------------------
+
+### [Abusing the Shopping network](https://support.google.com/merchants/answer/17234032)
+
+> Google wants Shopping ads and listings to be useful, varied, relevant, and safe for users, so we don’t allow any of the following:
+> 
+> *   Malicious content
+> *   Sites that offer little unique value to users and are focused on traffic generation
+> *   Retailers who try to gain an unfair advantage in Shopping campaigns
+> *   Retailers who try to bypass our review processes
+
+### [Data collection and use](https://support.google.com/merchants/answer/17250717)
+
+> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our merchants should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> 
+> **Examples of user information that must be handled with care**_:_ Full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> 
+> **Examples of irresponsible data collection and use**: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
 > *   Username or email in combination with passwords
 > *   Credit and debit card numbers
@@ -377,43 +323,163 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > *   Wire transfer numbers
 > *   National identity, pension, social security, tax ID, health care, or driver's license number
 
+### [Misrepresentation](https://support.google.com/merchants/answer/17234184)
+
+> Google doesn't want users to feel misled by the content in Shopping listings, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
+> 
+> *   Listings that prompt users to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the user’s explicit consent
+> *   Listings that represent you or your products in a way that is not accurate, realistic, and truthful
+
+* * *
+
+Restricted content
+------------------
+
+The policies below cover content that is sometimes legally or culturally sensitive. Online listings can be a powerful way to reach customers, but in sensitive areas, we also work hard to avoid showing these listings when and where they might be inappropriate.
+
+For that reason, we allow listings of the content below, but on a limited basis. These listings may not show to every user in every location, and merchants may need to meet additional requirements before their listings are eligible to run. Note that not all products, features, or networks are able to support this restricted content.
+
+### [Sexual content](https://support.google.com/merchants/answer/17233952)
+
+> Google restricts listings of the following types of adult-oriented content:
+> 
+> *   Adult merchandise
+> *   Sexually suggestive content
+> *   Images containing nudity
+> 
+> When listing sexual content you may not do any of the following:
+> 
+> *   Violate applicable laws or regulations for any location that you target
+> *   Target minors
+> 
+> **Examples of restricted adult content**_:_ sex toys; adult magazines; sexual enhancement products; sexually suggestive lingerie promotions.
+
+### [Alcohol](https://support.google.com/merchants/answer/17234033)
+
+> Google restricts the listing of alcoholic beverages and drinks that resemble alcoholic beverages.
+> 
+> When listing alcoholic beverages, you may not do any of the following:
+> 
+> *   Violate applicable laws and industry standards for any location that you target
+> *   Target individuals below the legal drinking age
+> *   Imply that drinking alcohol can improve social, sexual, professional, intellectual, or athletic standing
+> *   Imply that drinking alcohol provides health or therapeutic benefits
+> *   Portray excessive drinking in a positive light or feature binge or competition drinking
+> *   Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery, or the performance of any task requiring alertness or dexterity
+> 
+> **Examples of restricted alcoholic beverages**_:_ beer; wine; sake; spirits or hard alcohol; Champagne; fortified wine; non-alcoholic beer; non-alcoholic wine; and non-alcoholic distilled spirits.
+
+### [Copyrights](https://support.google.com/merchants/answer/17233579)
+
+> Google restricts the listing of copyrighted content. If you would like to list copyrighted content and believe you are legally authorized to do so, you can [contact us](https://support.google.com/google-ads/contact/copyright). To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, use the [Report content on Google](https://support.google.com/legal/troubleshooter/1114905) form.
+
+### [](https://support.google.com/adspolicy/answer/6018017)[Gambling-related content](https://support.google.com/merchants/answer/17233786)
+
+> Google restricts the listing of gambling-related content.
+> 
+> **Examples of restricted gambling-related content**_:_ national or private lotteries; sites offering bonus codes or promotional offers for gambling sites
+
+### [Healthcare and medicines](https://support.google.com/merchants/answer/17234034)
+
+> Google restricts the listing of healthcare-related content such as the following:
+> 
+> *   Over-the-counter medication
+> *   Prescription drugs
+> *   Unapproved pharmaceuticals and supplements
+> *   Pregnancy and fertility-related products
+> 
+> The restrictions that apply to this content may vary depending on the product you're listing and the countries that you're targeting. Some content, such as unapproved pharmaceutical supplements, may not be listed anywhere.
+> 
+> Depending on the content you’re listing and the countries where your listings appear, you may need to apply for preauthorization with Google before advertising healthcare-related content.
+
+### [Political content](https://support.google.com/merchants/answer/17234185) (Shopping ads only)
+
+> When you serve Shopping ads containing political content, you must comply with the following requirements:
+> 
+> *   Applicable laws and industry standards for any location that you target
+> *   Any applicable election "silence periods"
+> 
+> **Examples of political content:** promotion of political parties/candidates, political issue advocacy.
+
+### [Trademarks](https://support.google.com/merchants/answer/17234186)
+
+> Shopping listings don’t restrict use of trademarks by merchants in the title or description of a  listing when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping listings](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch) form.
+
+### [High fat, sugar, salt food and beverage](https://support.google.com/merchants/answer/17234187)
+
+> We support responsible advertising of food and beverages. High fat, sugar, salt (HFSS) food and beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage, or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
+> 
+> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their listings target, including local requirements that may differ from this HFSS Food & Beverage policy.
+
+### [Shopping ads protections for children and teens](https://support.google.com/merchants/answer/17233634) (Shopping ads only)
+
+> Our child and teen policies, along with other policies (including but not limited to those for alcohol, gambling, and high fat, sugar, and salt food and beverages), work together to provide strong protections that include:
+> 
+> *   Disabling Shopping ads personalization
+> *   Restricting sensitive Shopping ad content and categories
+> 
+> We require all our merchants to follow local legal requirements when using our products, including any regulations on advertising to users under age 18. Learn more about our Shopping ads protections for children and teens and relevant policies, where they apply, and what they mean for merchants.
+
+### [Legal requirements](https://support.google.com/merchants/answer/17233392)
+
+> You’re always responsible for ensuring that you comply with all applicable laws and regulations, in addition to Google's advertising policies, for all of the locations where your ads are showing.
+
+* * *
+
+Site requirements
+-----------------
+
+We want to deliver ads and listings that are engaging for users without being annoying or difficult to interact with, so we've developed editorial requirements to help keep your listings appealing to users. We've also specified technical requirements to help users and merchants get the most out of the variety of listing formats we offer.
+
+### [Editorial](https://support.google.com/merchants/answer/17233876)
+
+> To provide a quality customer experience, Google requires that all Shopping listings and merchant sites meet high professional and editorial standards. We only allow listings that are clear and professional in appearance. These listings should lead customers to products and landing pages that are relevant, useful, and easy to interact with.
+> 
+> **Examples of listings or sites that don't meet these editorial and professional requirements:**
+> 
+> *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
+> *   sites that are under construction, parked domains, or are just not working
+> *   sites that have disabled the browser's back button
+> *   sites that are not viewable in commonly used browsers
+
+* * *
+
 About our policies
 ------------------
 
-> Free listings enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of free listings they see. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, as well as operational, technical, and business considerations. As a result, we've created a set of policies that apply to all promotions on the Google Network.
-> 
-> Google requires that advertisers comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, as well as any other places your listings are showing. When we find content that violates these requirements, we may block it from appearing, and in cases of repeated or egregious violations, we may stop you from listing with us.
-> 
-> Note that because these limitations are specific to free listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
-> 
-> This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Shopping ads and listings enable businesses of all sizes, from around the world, to promote a wide variety of products and websites on Google and across our network. We want to help you reach existing and potential customers and audiences. However, to help create a safe and positive experience for users, we listen to their feedback and concerns about the types of listings they view. We also regularly review changes in online trends and practices, industry norms, and regulations. And finally, in crafting our policies, we also think about our values and culture as a company, and operational, technical, and business considerations. As a result, we have created a set of policies that apply to all promotions on the Google Network.
+
+Google requires that merchants comply with all applicable laws and regulations and the Google policies described above. It's important that you familiarize yourself with and keep up to date on these requirements for the places where your business operates, and any other places your listings are showing. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may stop you from advertising with us.
+
+Merchants have a responsibility to not list content, or engage in behavior that risks harm to our users, employees, or the listings ecosystem. If we find such content or behavior, we may take action, including but not limited to restricting or blocking your listings or suspending your account.
+
+If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
 
 - - -
 
 Trademarks
 ==========
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Google doesn't restrict use of trademarks by merchants in the title or description of a Shopping listings when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, [use this form](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
 
-Our policy
-----------
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Google doesn’t restrict use of trademarks by retailers in the title or description of a free listing when it’s for a trademarked product or a product compatible with the trademarked product. Retailers need to reference trademarks to be able to communicate to customers what they're offering, and customers need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use this [form](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
-
-What you can do
----------------
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -423,27 +489,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -457,11 +522,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -479,7 +543,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -493,11 +557,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -511,129 +574,170 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
-
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Healthcare & medicines
 ======================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
 
-Our policy
-----------
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
-Google restricts the listing of healthcare-related content such as the following:
+Google is dedicated to following regulations for healthcare and medicine, so product listings are expected to follow appropriate laws and industry standards. Some types of healthcare-related products can’t be listed at all, while others can only be shown in certain locations by merchants who have applied and been approved to list those products in their Google Merchant Center account.
 
-*   Over-the-counter medication
-*   Prescription drugs
-*   Unapproved pharmaceuticals and supplements
-*   Pregnancy and fertility-related products
+Below are some examples of healthcare listings that are allowed in certain circumstances. You’re expected to familiarize yourself with the [local law and regulations](https://support.google.com/merchants/answer/17233392) for any country your listings target.
 
-The restrictions that apply to this content may vary depending on the product you're listing and the countries that you're targeting. Some content, such as unapproved supplements, may not be listed anywhere.
+#### On this page
 
-Depending on the content you’re listing and the countries where your ads appear, you may need to apply for preauthorization with Google before advertising healthcare-related content.
-
-* * *
-
-**Need help?** Our [guided troubleshooter](https://support.google.com/merchants/troubleshooter/14812568) can help you resolve Healthcare and Medicine item-level disapprovals related to:
-
-*   Over-the-counter medication
-*   Prescription drugs
-*   Pet pharmaceuticals
-*   Unapproved supplements
-
-[Launch troubleshooter](https://support.google.com/merchants/troubleshooter/14812568)
-
-For guidance on other Healthcare and Medicine-related disapprovals, (such as those for medical devices, test kits, and others) continue reading below.
+*   [Prescription and behind-the-counter drugs](#prescription)
+*   [Over-the-counter medication](#over)
+*   [Unauthorized pharmacies](#unauthorized)
+*   [Unapproved substances](#unapproved)
+*   [Prescription opioid painkillers](#prescription)
+*   [Abortion](#abortion)
+*   [Birth control products](#bc)
+*   [Pet pharmaceuticals](#pet)
+*   [HIV home tests](#HIV)
+*   [Country-specific policy guidance](#country) 
+*   [Options to fix](#options)
 
 * * *
-
-**On this page**
-
-*   [Examples of what's allowed in some circumstances](#examples)
-*   [How does this policy differ from country to country?](#country)
-*   [What you can do if your product or account is disapproved](#disapproved)
-
-Examples of what's allowed in some circumstances
-------------------------------------------------
-
-Here are some of the kinds of content that we restrict under this policy:
 
 Prescription and behind-the-counter drugs
+-----------------------------------------
 
-> Google allows the listing of prescription and behind-the-counter drugs in the United States. In Canada, retailers are allowed to list prescription drugs. Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/) or .[pharmacy Verified Websites Program](https://www.safe.pharmacy/), and certified by Google. If you have already been certified by LegitScript or the NABP, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication). Check this [non-exhaustive list of prescription drugs or active ingredients](https://support.google.com/merchants/answer/6165956) that are monitored under this policy. The promotion of prescription opioid painkillers is not allowed, per the policy below.
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+ Some prescription and behind-the-counter drugs in the United States and some prescription drugs in Canada are allowed. See a [non-exhaustive list of prescription drugs or active ingredients](https://support.google.com/merchants/answer/6165956) that are monitored under this policy. Online pharmacies must meet the following requirements to list prescription and behind-the-counter drugs:
+
+*   Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification), the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/), or the [Pharmacy Verified Websites Program](https://www.safe.pharmacy/).
+*   Once certified by one of the above programs, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication).
+
+ The following is not allowed:
+
+ Prescription and behind-the-counter drugs in any country except the United States and Canada are not allowed
+
+* * *
 
 Over-the-counter medication
+---------------------------
 
-> In some countries [listed below](#country), only online pharmacies may list over-the-counter medication products, provided that certification is available for the country involved and they meet the associated certification requirements. In the United States, no certification is required for the listing of over-the-counter medication. In other countries, if no certification process is available for a country, these products can’t be listed.
-> 
-> For variations of this policy, check [How does this policy differ from country to country.](#country)
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Unapproved pharmaceuticals and supplements
+  In some countries [listed below](#Country_guidance), only online pharmacies may list over-the-counter medication products, provided that certification is available for the country involved and they meet the associated certification requirements.
 
-> Google doesn't allow the listing of the following pharmaceuticals and supplements, regardless of any claims of legality:
-> 
-> *   Anything identified on the non-exhaustive list of [prohibited pharmaceuticals and supplements](https://support.google.com/merchants/answer/6165956).
-> *   Products that contain ephedra.
-> *   DHEA and melatonin products, unless specifically mentioned as allowed in an individual country. Check the [How does this policy differ from country to country](#country) section for more information.
-> *   Human chorionic gonadotropin (hCG) in relation to weight loss/weight control, or when promoted in conjunction with anabolic steroids.
-> *   Herbal and dietary supplements with active pharmaceutical or dangerous ingredients.
-> *   Products that make false or misleading health claims or sites whose primary purpose is to sell products that claim to be as effective as anabolic steroids, prescription weight-loss drugs, controlled substances and prescription erectile dysfunction drugs.
-> *   Non-government approved or non-prescription products that are marketed in a way that implies that they're safe or effective for use in preventing, curing, or treating a particular disease or ailment.
-> 
-> For additional information on the products we monitor under this policy, visit [www.legitscript.com](https://www.legitscript.com/).
-> 
-> Google may disallow the listing of any dietary supplement, drug, or other product that's been the subject of any government or regulatory action or warning.
-> 
-> We also don't allow the listing of products with names that are or may be confusingly similar to anabolic steroids, weight-loss drugs, prescription drugs, controlled substances, or other products that are banned under this policy, irrespective of any claims of legality. Examples include, but aren't limited to, the following:
-> 
-> *   Phentrimine, phenermine, or phentramine (which are similar to the prescription drug "phentermine")
-> *   Calis, cealis or "herbal cialis" (which are similar to the prescription drug "Cialis")
-> *   D-Bol, Dinabol, or dianibol (which are similar to the anabolic steroid "Dianabol")
-> 
-> Check the [How does this policy differ from country to country](#country) section below for variations of this policy.
+ In the United States, no certification is required for the listing of over-the-counter medication.
+
+ Google does not allow merchants to offer listings for over-the-counter medication if the merchant’s country does not have a certification process.
+
+For country-specific policy guidance, please see the [c](#Country_guidance)[ountry-specific policy guidance](#Country_guidance) section below.
+
+* * *
+
+Unauthorized pharmacies
+-----------------------
+
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google’s Shopping ads and listings policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources.  If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
+
+  Offering prescription drugs without a prescription is not allowed
+
+  Targeting locations where you aren't licensed as a pharmacy is not allowed
+
+* * *
+
+Unapproved substances
+---------------------
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+    Google doesn't allow listing the following products, regardless of any claims of legality:
+
+*   All items on this non-exhaustive list of [unapproved pharmaceuticals and supplements](https://support.google.com/merchants/answer/6165956). This includes substances with similar chemical composition of the listed pharmaceuticals and supplements. 
+*   Products that contain ephedra
+*   Products containing human chorionic gonadotropin (hCG) in relation to weight loss or weight control, or when promoted in conjunction with anabolic steroids
+*   Herbal and dietary supplements with active pharmaceutical or dangerous ingredients
+*   Products that imply they're as effective as prescription drugs or controlled substances
+*   Non-government approved products that are marketed in a way that implies that they're safe or effective for use in preventing, curing, or treating a particular disease or ailment
+*   Products that have been subject to any government or regulatory action or warning
+*   Products with names that are confusingly similar to an unapproved pharmaceutical or supplement or controlled substance
+*   Dehydroepiandrosterone (DHEA) except in the United States with some limitations. Please see the entry for the United States in the [country-specific policy guidance](#Country_guidance) section below.
+
+For country-specific policy guidance, please see the [country-specific policy guidance](#Country_guidance) section below. For additional information on the products we restrict under this policy, visit [www.legitscript.com](https://www.legitscript.com/).
+
+* * *
 
 Prescription opioid painkillers
+-------------------------------
 
-> Google doesn’t allow the listing of prescription opioid painkillers except for those that are intended for use as medication-assisted treatment (MAT) for opioid use disorder and meet all other requirements pertaining to prescription drugs listed on this page.
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google’s Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources.  If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
+
+      Listings promoting or selling prescription opioid painkillers is not allowed. This doesn't include medication-assisted treatment (MAT) drugs for opioid use disorder that meet all other requirements for prescription drugs listed on this page.
+
+* * *
 
 Abortion
+--------
 
-> Google restricts the listing of abortion-related content, including abortion-inducing drugs. We have different requirements for listing these products based on the country you’re targeting. Check below for details about these country requirements. Unless specifically mentioned in the country requirements below, Google allows the listing of abortion-related content.
-> 
-> Google doesn't allow abortion-related content that uses violent language or gruesome imagery.
-> 
-> Check the [How does this policy differ from country to country](#country) section below for variations of this policy.
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Pet prescriptions and pharmacies
+The following products are restricted:
 
-> Google allows the listing of pet pharmacies and pet pharmaceuticals in the United States and Canada only. Merchants listing pet pharmacies and pet pharmaceuticals to the United States and Canada must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the NABP's [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication).
+ Google prohibits listings for abortion-inducing drugs in some countries. For country-specific policy guidance, please see the [country-specific policy guidance](#Country_guidance) section below.
 
-Medical devices
+*   Examples (non-exhaustive):
+    *   Mifepristone
+    *   Misoprostol
 
-> Google allows the listing of medical devices. Merchants have to adhere to country-specific legal requirements regarding the sale of medical devices.
+* * *
+
+Birth control products
+----------------------
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+   Google prohibits listings for birth control and fertility testing products in some countries. For country-specific policy guidance, please see the [country-specific policy guidance](#Country_guidance) section below.
+
+*   Examples (non-exhaustive):
+    *   Emergency contraceptives like levonorgestrel
+    *   Condoms
+    *   Birth control pills
+    *   Fertility testing products
+
+* * *
+
+Pet pharmaceuticals
+-------------------
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+   Ads or listings for pet pharmaceuticals (including over-the-counter and prescription medications) in the United States and Canada are allowed. Merchants must meet the following requirements to list pet pharmaceuticals:
+
+*   Online pharmacies listing prescription drugs must be accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification), the National Association of Boards of Pharmacy’s (NABP) [VIPPS program](https://nabp.pharmacy/programs/vipps/).
+*   Once certified by one of the above programs, apply for certification with Google by filling out our [online pharmacy application form](https://support.google.com/merchants/contact/pharmacyapplication).
+
+      Listings for pet pharmaceuticals in any country except the United States and Canada are not allowed
+
+* * *
 
 HIV home tests
+--------------
 
-> Google allows the listing of HIV home tests in the Netherlands, the United Kingdom, and the United States. All HIV home tests must follow local regulations.
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Secret paternity tests
+   United States: merchants may promote HIV home tests that are FDA approved
 
-> Google doesn’t allow the listing of paternity tests that are advertised as secret.
+   Netherlands: merchants may promote HIV home tests that meet local regulatory requirements
 
-DNA testing kits
+   United Kingdom: merchants may promote HIV home tests that meet local regulatory requirements
 
-> Google allows the listing of direct-to-consumer DNA testing kits (and their associated reporting services). Merchants have to adhere to country-specific legal requirements regarding the sale of DNA testing kits.
+       Listings for HIV home tests in any country except the Netherlands, the United Kingdom, and the United States are not allowed
 
-Medical test kits
+* * *
 
-> Free listings allow the listing of at-home medical test kits (including diagnosis of COVID-19) with at-home or lab results. Test kits must adhere to country-specific regulations. Merchants are responsible for ensuring compliance with country-specific requirements.
-
-How does this policy differ from country to country?
-----------------------------------------------------
+Country-specific policy guidance
+--------------------------------
 
 In addition to the requirements above, there may be further restrictions based on your target country. Click a country below to view additional requirements that you must meet in order for your listings to target that country.
 
@@ -669,546 +773,633 @@ In addition to the requirements above, there may be further restrictions based o
 
 ### Algeria
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, abortion-related products, and the "morning after" pill in Algeria. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Algeria. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Algeria. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Algeria. |
 
 ### Argentina
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Argentina. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Argentina. |
 
 ### Australia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the [Pharmacy Guild of Australia](https://www.guild.org.au/) or [Medicare Australia](https://www.humanservices.gov.au/customer/information/welcome-medicare-customers-website). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Abortion, abortion-inducing drugs, and the “morning after” pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-inducing drugs, or the listing of the "morning after" pill in Australia. |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the [Pharmacy Guild of Australia](http://www.guild.org.au/) or [Medicare Australia](http://www.humanservices.gov.au/customer/information/welcome-medicare-customers-website). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Australia. |
 
 ### Austria
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Bundesamt für Sicherheit im Gesundheitswesen ([Federal Agency for Safety and Health Care](https://versandapotheken.basg.gv.at/)). Merchants must also be certified by Google.<br><br>Additionally, non-Austrian online pharmacies established within the EU/EEA who are registered as law requires in their home countries and are certified by Google (check [country specifics](#country)) can target cross-border over-the-counter drug sale listings at Austria. |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Bundesamt für Sicherheit im Gesundheitswesen ([Federal Agency for Safety and Health Care](https://versandapotheken.basg.gv.at/)). Merchants must also be certified by Google.<br><br>Additionally, non-Austrian online pharmacies established within the EU/EEA who are registered as law requires in their home countries and are certified by Google ([see country specifics](https://support.google.com/merchants/answer/6150151#country)) can target cross-border over-the-counter drug sale listings at Austria. |
 
 ### Bahrain
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Bahrain. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Bahrain. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Bahrain. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Bahrain. |
 
 ### Belarus
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Belarus. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Belarus. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Belarus. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Belarus. |
 
 ### Belgium
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies promoting over-the-counter drugs | Google allows non-prescription drug listings from online pharmacies if they’re registered with the [Federal Agency for Medicines and Health Products](https://www.famhp.be/en/human_use/medicines/medicines/distribution_delivery/pharmacy_public/website_pharmacy/LstPharmacies). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in Belgium. |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they’re registered with the [Federal Agency for Medicines and Health Products](https://www.famhp.be/en/human_use/medicines/medicines/distribution_delivery/pharmacy_public/website_pharmacy/LstPharmacies). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Belgium. |
+
+### Bosnia and Herzegovina
+
+|     |     |
+| --- | --- |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Bosnia and Herzegovina. |
 
 ### Brazil
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing non-prescription drug products | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're registered with the National Health Inspection Agency (Agência Nacional de Vigilância Sanitária - ANVISA). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in Brazil. |
-| Polifenol de Alcachofra | Not allowed<br><br>Google doesn't allow the listing of Polifenol de Alcachofra in Brazil. |
+| Product type | Details |
+| Online pharmacies promoting non-prescription drug products | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're registered with the [National Health Inspection Agency](http://www7.anvisa.gov.br/datavisa/Autorizacao_farmacia/Consulta_Empresa_Drogaria.asp) (Agência Nacional de Vigilância Sanitária - ANVISA). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Brazil. |
+| Polifenol de Alcachofra | Not allowed<br><br>Google doesn't allow the promotion of Polifenol de Alcachofra in Brazil. |
 
-###  Bosnia and Herzegovina
+### Bulgaria
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or listing of the "morning after" pill in Bosnia and Herzegovina. |
-
-###  Bulgaria
-
-| **Product type** | **Details** |
-| --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or listing of the "morning after" pill in Bulgaria |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Bulgaria. |
 
 ### Canada
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing non-prescription drug products | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies and pet pharmacies if they are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy [VIPPS program](https://nabp.pharmacy/programs/vipps/) or [.pharmacy Verified Websites Program](https://www.safe.pharmacy/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Prescription drugs | Allowed<br><br>Google allows the listing of prescription drugs (including by pet pharmacies, but excluding opioid painkillers) in Canada by online pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy [VIPPS program](https://nabp.pharmacy/programs/vipps/) or [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Melatonin | Allowed<br><br>Google allows the listing of melatonin in Canada. |
-| Pet prescriptions and pharmacies | Allowed<br><br>Google allows the listing of pet pharmacies and pet pharmaceuticals in Canada by online veterinary pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Online pharmacies promoting non-prescription drug products | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies and pet pharmacies if they are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](http://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy [VIPPS program](https://nabp.pharmacy/programs/vipps/) or [.pharmacy Verified Websites Program](https://www.safe.pharmacy/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Prescription drugs | Allowed<br><br>Google allows the promotion of prescription drugs (including by pet pharmacies, but excluding opioid painkillers) in Canada by online pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](http://www.legitscript.com/certification/healthcare-certification) or the National Association of Boards of Pharmacy [VIPPS program](https://nabp.pharmacy/programs/vipps/) or [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Melatonin | Allowed<br><br>Google allows the promotion of melatonin in Canada. |
+| Pet prescriptions and pharmacies | Allowed<br><br>Google allows the promotion of pet pharmacies and pet pharmaceuticals in Canada by online veterinary pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](http://www.legitscript.com/certification/healthcare-certification) or the [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
 ### Chile
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or listing of the "morning after" pill in Chile. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Chile. |
 
 ### Colombia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or listing of the "morning after" pill in Colombia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Colombia. |
 
 ### Costa Rica
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Costa Rica. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Costa Rica. |
 
 ### Croatia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Croatia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Croatia. |
 
-  
-Czech Republic
+### Cyprus
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the the Státní ústav pro kontrolu léčiv ([State Institute for Drug Control](https://www.sukl.eu/modules/apotheke/search.php?lang=2)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Cyprus. |
 
-###  Cyprus
+### Czech Republic
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Cyprus. |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Státní ústav pro kontrolu léčiv ([State Institute for Drug Control](https://sukl.gov.cz/)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
 ### Dominican Republic
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in the Dominican Republic. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in the Dominican Republic. |
 
 ### Ecuador
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Ecuador. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Ecuador. |
 
 ### Egypt
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Egypt. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Egypt. |
-
-###  Estonia
-
-| **Product type** | **Details** |
-| --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Estonia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Egypt. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Egypt. |
 
 ### El Salvador
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in El Salvador. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in El Salvador. |
+
+### Estonia
+
+|     |     |
+| --- | --- |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Estonia. |
 
 ### France
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're certified and listed as approved by the [Pharmacists Guild](https://www.ordre.pharmacien.fr/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication).<br><br>Eligible online pharmacies in the EU and the EEA, if they meet local requirements and are certified by Google, may target cross-border over-the-counter drug sale listings in France. |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in France. |
-| Paternity tests | Not allowed<br><br>Google doesn't allow the listing of paternity testing services in France. This restriction includes both clinic-based paternity testing services and at-home paternity test kits. |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're certified and listed as approved by the [Pharmacists Guild](http://www.ordre.pharmacien.fr/ecommerce/search). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication).<br><br>Eligible online pharmacies in the EU and the EEA, if they meet local requirements and are certified by Google, may target cross-border over-the-counter drug sale listings in France. |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in France. |
+| Paternity tests | Not allowed<br><br>Google doesn't allow the promotion of paternity testing services in France. This restriction includes both clinic-based paternity testing services and at-home paternity test kits. |
 | Melatonin | Allowed<br><br>Google allows the promotion of dietary supplements containing melatonin, in accordance with local laws and regulations. Promotion of prescription melatonin products is not allowed. |
 
-### Georgia
+###  Georgia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Georgia. |
-| Birth control | Not allowed<br><br>Google doesn't allow the promotion of condoms, other contraception products, and fertility products in Georgia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Georgia. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Georgia. |
 
 ### Germany
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're registered in the [DIMDI register](https://www.dimdi.de/dynamic/de/arzneimittel/versandhandel/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication).<br><br>Online pharmacies established in the Netherlands and Great Britain, if they meet local requirements and are certified by Google, may target cross-border over-the-counter drug sale listings in Germany. |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in Germany. |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're registered in the [DIMDI register](https://www.bfarm.de/EN/Medical-devices/Portals/DMIDS/_node.html). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication).<br><br>Online pharmacies established in the Netherlands, if they meet local requirements and are certified by Google, may target cross-border over-the-counter drug sale listings in Germany. |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Germany. |
 | Melatonin | Allowed<br><br>Google allows the promotion of dietary supplements containing melatonin, in accordance with local laws and regulations. Promotion of prescription melatonin products is not allowed. |
 
 ### Greece
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion or listing of abortion-related products, and the "morning after" pill in Greece. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Greece. |
 
 ### Hong Kong
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion or listing of abortion-related products, and the "morning after" pill in Hong Kong. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Hong Kong. |
 
 ### Hungary
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Hungary. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Hungary. |
 
 ### India
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the “morning after” pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in India. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in India. |
 | Products that promote or enable gender or sex selection | Not allowed<br><br>Google doesn't allow products that promote or enable the pre-natal determination of the gender of a child, or pre-conception selection, or influence of a child’s sex in India. |
 
 ### Indonesia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Indonesia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Indonesia. |
 
-### Italy
+###  Italy
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the “morning after” pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Italy. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Italy. |
 
 ### Japan
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies as long as they provide a valid license number for their "License for marketing authorization holder." Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Abortion | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies as long as they provide a valid license number for their "License for marketing authorization holder." Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
 ### Jordan
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Jordan. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Jordan. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Jordan. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Jordan. |
 
-### Kazakhstan
+###  Kazakhstan
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Kazakhstan. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Kazakhstan. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Kazakhstan. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Kazakhstan. |
 
 ### Kuwait
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Kuwait. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Kuwait. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Kuwait. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Kuwait. |
+
+### Latvia
+
+|     |     |
+| --- | --- |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Latvia. |
 
 ### Lebanon
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Lebanon. |
-| Birth control | Not allowed<br><br>Google doesn't allow the promotion of condoms, other contraception products, and fertility products in Lebanon. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Lebanon. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Lebanon. |
 
 ###  Liechtenstein
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Liechtenstein. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Liechtenstein. |
 
-###  Lithuania
+### Lithuania
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Lithuania. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Lithuania. |
 
-###  Luxembourg
+### Luxembourg
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Luxembourg. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Luxembourg. |
 
 ### Malaysia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listings of the "morning after" pill in Malaysia. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Malaysia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Malaysia. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Malaysia. |
 
 ###  Malta
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Malta. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Malta. |
 
 ### Mexico
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the listing of abortion and abortion-related products in Mexico. |
-| Dietetic products | Not allowed<br><br>Google doesn't allow the listing of dietetic products or supplements in Mexico. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Mexico. |
+| Dietetic products | Not allowed<br><br>Google doesn't allow the promotion of dietetic products or supplements in Mexico. |
 
 ###  Moldova
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Moldova. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Moldova. |
 
-###  Montenegro
+### Montenegro
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Montenegro. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Montenegro. |
 
 ### Morocco
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Morocco. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Morocco. |
-
-### Myanmar (Burma)
-
 | Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Morocco. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Morocco. |
+
+###  Myanmar (Burma)
+
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Myanmar (Burma). |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Myanmar (Burma). |
 
 ### Netherlands
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| HIV home tests | Allowed<br><br>Google allows the listing of HIV home tests in the Netherlands. |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>In the Netherlands, Google allows over-the-counter drug listings from online pharmacies if they're registered with the Ministerie van Volksgezondheid, Welzijn en Sport and appear on this dedicated online repository [www.aanbiedersmedicijnen.nl](https://www.aanbiedersmedicijnen.nl/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| HIV home tests | Allowed<br><br>Google allows the promotion of HIV home tests in the Netherlands. |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>In the Netherlands, Google allows over-the-counter drug listings from online pharmacies if they're registered with the Ministerie van Volksgezondheid, Welzijn en Sport and appear on this dedicated online repository [www.aanbiedersmedicijnen.nl](https://www.aanbiedersmedicijnen.nl/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
-### New Zealand
+###  New Zealand
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
+| Product type | Details |
 | Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows non-prescription drug listings from online pharmacies if they're certified and listed as approved by the Ministry of Health. Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication).<br><br>The non-prescription drugs being offered must themselves be certified by the Ministry of Health. |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion and abortion-related products in New Zealand. |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in New Zealand. |
 | Paternity tests | Not allowed<br><br>Google doesn't allow the promotion of paternity testing services in New Zealand. This restriction includes both clinic-based paternity testing services and at-home paternity test kits. |
 
 ### Nicaragua
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Nicaragua. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Nicaragua. |
 
-###  North Macedonia
+### North Macedonia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in North Macedonia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in North Macedonia. |
 
 ### Norway
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Statens legemiddelverk ([Norwegian Medicine Agency](https://www.legemiddelverket.no/Sider/default.aspx)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Statens legemiddelverk ([Norwegian Medicine Agency](http://www.legemiddelverket.no/Sider/default.aspx)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
-### Oman
+###  Oman
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Oman. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Oman. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Oman. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Oman. |
 
 ### Pakistan
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Pakistan. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Pakistan. |
 
 ### Panama
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Panama. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Panama. |
 
 ### Paraguay
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Paraguay. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Paraguay. |
 
 ### Peru
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Peru. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Peru. |
 
 ### Philippines
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Philippines. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in the Philippines. |
 
 ### Poland
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in Poland. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Poland. |
 
 ### Portugal
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered with INFARMED ([The Portuguese Authority](https://extranet.infarmed.pt/LicenciamentoMais-fo/pages/public/listaFarmacias.xhtml)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered with INFARMED ([The Portuguese Authority)](http://extranet.infarmed.pt/LicenciamentoMais-fo/pages/public/listaFarmacias.xhtml). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
 ### Russia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or listing of abortion-related products in Russia. |
-| Dietary supplements | Not allowed<br><br>Google doesn't allow the online sale of dietary supplements in Russia. |
-| Biologically active additives (BAAs) | Allowed with limitations<br><br>Google allows the listing of Biologically active additives (BAAs) in Russia but only if the offer includes the following disclaimer: "Не является лекарством". |
-| Baby food for children under one year of age, breast milk supplements | Allowed with limitations<br><br>Listings for baby food for children under one year of age, as well as listings for breast milk supplements, must include the following mandatory text: "Проконсультируйтесь со специалистом. Для детей с \[укажите число\] месяцев". |
-| Medical devices | Not allowed<br><br>Google doesn't allow the listing in Russia of medical devices and other medical tools and products that require special training. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Russia. |
+| Dietary supplements | Not allowed<br><br>Google doesn't allow the promotion of online sale of dietary supplements in Russia. |
+| Biologically active additives (BAAs) | Allowed with limitations<br><br>(BAAs) in Russia but only if the ad includes the following disclaimer: "Не является лекарством". |
+| Baby food for children under one year of age, breast milk supplements | Allowed with limitations<br><br>Ads for baby food for children under one year of age, as well as ads for breast milk supplements, must include the following mandatory text: "Проконсультируйтесь со специалистом. Для детей с \[укажите число\] месяцев". |
+| Medical devices | Not allowed<br><br>Google doesn't allow the promotion in Russia of medical devices and other medical tools and products that require special training. |
 | Online pharmacies promoting over-the-counter drugs | Allowed with limitations<br><br>Google allows the promotion of online pharmacies if they’re licensed by the Federal Service for Surveillance in Healthcare (Roszdravnadzor) and have a permit for distant trade. All pharmacies must be licensed, regardless of whether they offer only non-prescription products.<br><br>Merchants must also be certified with Google. |
 
-### Saudi Arabia
+###  Saudi Arabia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-inducing drugs, or the listing of the "morning after" pill in Saudi Arabia. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Saudi Arabia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Saudi Arabia. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Saudi Arabia. |
 
-###  Serbia
+### Serbia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Serbia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Serbia. |
 
 ### Singapore
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Singapore. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Singapore. |
 
 ### Slovakia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Štátny ústav pre kontrolu liečiv ([State Institute of Drugs](https://www.sukl.sk/en/inspection/pharmacy/list-of-online-retailers?page_id=4035)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered in the Štátny ústav pre kontrolu liečiv ([State Institute of Drugs](https://www.sukl.sk/en/inspection/pharmacy/list-of-online-retailers?page_id=4035)). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
 ### South Korea
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in South Korea. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in South Korea. |
-| Contact lenses | Not allowed<br><br>Google doesn't allow the listing of contact lenses in South Korea. |
-| Online pharmacies listing over-the-counter drugs | Not allowed<br><br>Google doesn't allow the listing of over-the-counter drugs in South Korea. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in South Korea. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in South Korea. |
+| Contact lenses | Not allowed<br><br>Google doesn't allow the promotion of contact lenses in South Korea. |
 
-### Spain
+###  Spain
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the “morning after” pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Spain. |
-| Dietetic products | Not allowed<br><br>Google doesn't allow listings or websites that promote weight-loss medical procedures in Spain. Google doesn't allow listings or websites that promote weight-loss-related products if they meet any of the following criteria:<br><br>*   Claim medicinal properties<br>*   Promise specific results<br>*   Use endorsements by individuals, celebrities, or organizations |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Spain. |
+| Dietetic products | Not allowed<br><br>Google doesn't allow ads or websites that promote weight-loss medical procedures in Spain. Google doesn't allow listings or websites that promote weight-loss-related products if they meet any of the following criteria:<br><br>*   Claim medicinal properties<br>*   Promise specific results<br>*   Use endorsements by individuals, celebrities, or organizations |
 | Melatonin | Allowed<br><br>Google allows the promotion of dietary supplements containing melatonin, in accordance with local laws and regulations. Promotion of prescription melatonin products is not allowed. |
 
 ### Sri Lanka
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Sri Lanka. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Sri Lanka. |
 
 ### Sweden
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Online pharmacies listing over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered with the [Swedish Medical Product Agency](http://www.lakemedelsverket.se/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Product type | Details |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered with the [Swedish Medical Product Agency](http://www.lakemedelsverket.se/). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 
 ### Switzerland
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion and abortion-related products | Not allowed<br><br>Google doesn’t allow the promotion of abortion or the listing of abortion-related products in Switzerland. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Switzerland. |
 
 ### Taiwan
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Taiwan. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Taiwan. |
 
 ### Thailand
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Thailand. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Thailand. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Thailand. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Thailand. |
 
-### Tunisia
+###  Tunisia
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Tunisia. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Tunisia. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Tunisia. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Tunisia. |
 
 ### Turkey
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Dietary supplements | Not allowed<br><br>Google doesn’t allow the listing of dietary supplements in Turkey. |
+| Product type | Details |
+| Dietary supplements | Not allowed<br><br>Google doesn’t allow the promotion of dietary supplements in Turkey. |
 
 ### Ukraine
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-inducing drugs, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Ukraine. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Ukraine. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Ukraine. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Ukraine. |
 
 ### United Arab Emirates
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in the United Arab Emirates. |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in the United Arab Emirates. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in the United Arab Emirates. |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in the United Arab Emirates. |
 
 ### United Kingdom
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| HIV home tests | Allowed<br><br>Google allows the listing of HIV home tests in the United Kingdom. |
-| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered with the [General Pharmaceutical Council](https://www.pharmacyregulation.org/registers) (GPhC). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Abortion-inducing drugs | Not allowed<br><br>Google doesn't allow the listing of abortion-inducing drugs in the United Kingdom. |
+| Product type | Details |
+| HIV home tests | Allowed<br><br>Google allows the promotion of HIV home tests in the United Kingdom. |
+| Online pharmacies promoting over-the-counter drugs | Allowed<br><br>Google allows over-the-counter drug listings from online pharmacies if they're registered with the [General Pharmaceutical Council](http://www.pharmacyregulation.org/theregister/index.aspx) (GPhC). Merchants must also be [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in the United Kingdom. |
 | Teeth whitening products | Not allowed<br><br>Google doesn't allow teeth whitening products that contain more than 6% hydrogen peroxide or chemicals that emit hydrogen peroxide in the United Kingdom. |
 | Clay drinks | Not allowed<br><br>Google doesn't allow the following ingestible clay drinks:<br><br>*   Fangocur mineral drink<br>*   Naturally Green 100% bentonite clay<br>*   Chloe's Beauty Room 100% bentonite clay<br>*   The Superfood Co. 100% bentonite clay powder<br>*   Health Leads bentonite clay<br>*   Scent by Nature Argiletz superfine green clay<br>*   Seventh wave supplements green clay (French) |
 
-### United States
+###  United States
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Prescription drugs | Allowed<br><br>Google allows the listing of prescription drugs (including by pet pharmacies, but excluding opioid painkillers) in the United States by online pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the [National Association of Boards of Pharmacy](https://nabp.pharmacy/) (NABP) program [VIPPS](https://nabp.pharmacy/programs/vipps/) or [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
-| Over-the-counter medication | Allowed<br><br>Google allows the listing of approved over-the-counter medication in the United States. |
-| Behind-the-counter medication | Allowed<br><br>Behind-the-counter medications are allowed on free listings. |
+| Product type | Details |
+| Prescription drugs | Allowed<br><br>Google allows the promotion of prescription drugs (including by pet pharmacies, but excluding opioid painkillers) in the United States by online pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](http://www.legitscript.com/certification/healthcare-certification) or the [National Association of Boards of Pharmacy](https://nabp.pharmacy/) (NABP) program [VIPPS](https://nabp.pharmacy/programs/vipps/) or [pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Over-the-counter medication | Allowed<br><br>Google allows the promotion of approved over-the-counter medication in the United States. |
+| Behind-the-counter medication | Allowed<br><br>Behind-the-counter medications are allowed on Shopping ads in the United States. |
 | DHEA and melatonin | Allowed with limitations<br><br>Google allows the promotion of DHEA and melatonin in the United States. Google does not allow the promotion of conventional foods containing melatonin as an unapproved food additive. |
-| Pet prescriptions and pharmacies | Allowed<br><br>Google allows the listing of pet pharmacies and pet pharmaceuticals in the United States by online pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](https://www.legitscript.com/certification/healthcare-certification) or the [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
+| Pet prescriptions and pharmacies | Allowed<br><br>Google allows the promotion of pet pharmacies and pet pharmaceuticals in the United States by online pharmacies who are accredited by the LegitScript [Healthcare Merchant Certification and Monitoring Program](http://www.legitscript.com/certification/healthcare-certification) or the [.pharmacy Verified Websites Program](https://www.safe.pharmacy/) and [certified by Google](https://support.google.com/merchants/contact/pharmacyapplication). |
 | HIV home tests | Allowed with limitations<br><br>Google only allows certain HIV home tests that are approved by the FDA in the United States. |
 
 ### Uzbekistan
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Birth control | Not allowed<br><br>Google doesn't allow the listing of condoms, other contraception products, and fertility products in Uzbekistan. |
+| Product type | Details |
+| Birth control products | Not allowed<br><br>Google doesn't allow listing fertility testing products or birth control products/medications in Uzbekistan. |
 
 ### Venezuela
 
-| **Product type** | **Details** |
+|     |     |
 | --- | --- |
-| Abortion, abortion-related products, and the "morning after" pill | Not allowed<br><br>Google doesn't allow the promotion of abortion, listing of abortion-related products, or the listing of the "morning after" pill in Venezuela. |
+| Product type | Details |
+| Abortion | Not allowed<br><br>Google doesn't allow listing abortion-inducing drugs in Venezuela. |
 
-What you can do
----------------
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -1218,27 +1409,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1252,11 +1442,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1274,7 +1463,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1288,11 +1477,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1306,50 +1494,61 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Gambling-related content
 ========================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Google prohibits the listing of some types of gambling-related content.
 
-Our policy
-----------
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Google restricts the listing of gambling-related content.
+#### On this page
 
-Examples of what's allowed in some circumstances
-------------------------------------------------
+*   [Gambling-related content](#gambling)
+*   [Options to fix](#options)
+
+* * *
 
 Gambling-related content
+------------------------
 
->  Google restricts the listing of gambling-related products, including:
-> 
-> *   Gambling-related promotional products such as gambling-related vouchers or bonus codes.
-> *   Gambling-related lotteries tickets such as non-national or state lotteries, or national or state lottery affiliates or aggregators
-> *   Physical lottery scratch cards
+The following is allowed:
 
->  Google allows the listing of physical gambling-related equipment, including:
-> 
-> *   Gambling-related accessories, such as poker chips
-> *   Gambling-related physical items, such as poker books, DVDs, or Video games for consoles
+Gambling-related physical items
 
-What you can do
----------------
+*   **Examples (non-exhaustive)**:
+    *   Poker chips
+    *   Playing cards
+    *   Books, DVDs, or video games relating to gambling
+
+The following is not allowed:
+
+Gambling-related promotional products such as vouchers, bonus codes, etc.
+
+Gambling-related lotteries tickets such as non-national or state lotteries, or national or state lottery affiliates or aggregators
+
+Physical lottery scratch cards
+
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -1359,27 +1558,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1393,11 +1591,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1415,7 +1612,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1429,11 +1626,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1447,53 +1643,56 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
- 
-
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
+
+Copyrights
+==========
+
+To protect the rights of copyright holders and to comply with local and global copyright laws, we don’t allow Shopping listings to use copyrighted content in a way that infringes copyright. To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905).
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+#### On this page
+
+*   [Copyrighted content](#copyrighted)
+*   [Options to fix](#options)
+
+* * *
 
 Copyrighted content
-===================
+-------------------
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Unauthorized sites or software that capture, copy, or provide access to copyrighted content are not allowed
 
-Our policy
-----------
+*   **Examples (non-exhaustive):** Sites, software, or toolbars that enable unauthorized streaming, sharing, copying, or downloading of copyrighted content including, but not limited to audio guides, e-books, anime, games, movies, mp3 ringtones, music, software, TV shows, works by independent artists, record labels, or other content creators
 
-Google restricts the listing of copyrighted content. To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905?rd=2).
+Facilitating unauthorized offline distribution of copyrighted content is not allowed
 
-Examples of what's not allowed
-------------------------------
+*   **Examples (non-exhaustive):** unauthorized physical copies of copyrighted CDs, DVDs, or software
 
-Unauthorized distribution of copyrighted content
+Software, sites, or tools that remove digital rights management (DRM) technology from copyrighted material or otherwise circumvent technical protection measures, irrespective of whether the intended use is legitimate or not, are not allowed
 
-> Unauthorized software that captures, copies, provides, or sells access to copyrighted content
-> 
-> *   _Examples_: Software that enables unauthorized selling, streaming, sharing, copying, or downloading of audio guides, e-books, anime, games, movies, mp3 ringtones, music, software, TV shows, works by independent artists, record labels, or other content creators
+*   **Examples (non-exhaustive):** Products or services such as Blu-ray or DVD rippers, burners, and converters that provide access to copyrighted content by stripping or bypassing DRM technology on audio, video, e-books, or software
 
-> Facilitating unauthorized offline distribution of copyrighted content
-> 
-> *   _Examples_: Unauthorized physical copies of copyrighted CDs, DVDs, or software
+* * *
 
-> Software, sites, or tools that remove digital rights management (DRM) technology from copyrighted material or otherwise circumvent copyright (irrespective of whether intended use is legitimate or not)
-> 
-> *   _Examples_: Products such as Blu-ray or DVD rippers/burners/converters, that provide access to copyrighted content by stripping or bypassing DRM technology on audio, video, e-books, or software
-
-What you can do
----------------
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -1503,27 +1702,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1537,11 +1735,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1559,7 +1756,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1573,11 +1770,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1591,30 +1787,41 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
-Alcoholic beverages
-===================
+Alcohol
+=======
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
 
-Our policy
-----------
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
-Google restricts the listing of alcoholic beverages and drinks that resemble alcoholic beverages.
+Google follows local alcohol laws and industry standards, so certain kinds of alcohol-related listings, both for alcohol and drinks that resemble alcohol, are not allowed. Some types of alcohol-related listings are allowed if they adhere to the policies outlined below, don’t target minors, and only target locations that are allowed to show listings for alcohol. Minors are defined as anyone under the age of 18, or the local legal drinking age if it is higher.
 
-When listing alcoholic beverages, you may not do any of the following:
+Refer to the [Google product category `[google_product_category]`](https://support.google.com/merchants/answer/7052112#google_product_category) attribute in the feed specification for requirements on how to submit these products to an appropriate audience.
 
-*   Violate applicable laws and industry standards for any location that you target
-*   Show listings for alcohol to customers below the legal drinking age
-*   Imply that drinking alcohol can improve social, sexual, professional, intellectual, or athletic standing
-*   Imply that drinking alcohol provides health or therapeutic benefits
-*   Portray excessive drinking in a positive light or feature binge or competition drinking
-*   Show alcohol being consumed in conjunction with the operation of a vehicle of any kind, the operation of machinery, or the performance of any task requiring alertness or dexterity
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Refer to the [Google product category](https://support.google.com/merchants/answer/7052112#google_product_category) `[google_product_category]` attribute in the feed specification for requirements on how to submit these products to an appropriate audience.
+#### On this page
+
+*   [Alcohol sale](#alcohol)
+*   [Country-specific requirements](#country)
+*   [Options to fix](#options)
+
+* * *
+
+Alcohol sale
+------------
+
+Listings that feature one or more alcoholic beverages or beverages that resemble alcohol in the listing and lead to a destination or app where alcohol can be purchased are considered to be promoting the sale of alcoholic beverages.
+
+ Ads or listings promoting the sale of alcoholic beverages or home kits for making alcohol are allowed as long as they don’t target minors and only target approved locations are allowed
+
+ Ads or listings for the online sale of alcoholic beverages or home kits for making alcohol are not allowed to run outside of the list of approved locations are not allowed
+
+* * *
 
 Country-specific requirements
 -----------------------------
@@ -1623,24 +1830,26 @@ In addition to the requirements above, there may be further restrictions based o
 
 |     |     |
 | --- | --- |
-| **Countries** | **Requirements** |
-| Argentina   <br>Australia  <br>Austria  <br>Belgium  <br>Brazil  <br>Bulgaria  <br>Cambodia  <br>Canada  <br>Chile  <br>Colombia  <br>Costa Rica  <br>Cyprus  <br>Czechia  <br>Denmark  <br>France  <br>Germany  <br>Ghana  <br>Greece  <br>Hong Kong  <br>Hungary  <br>Ireland  <br>Israel  <br>Italy  <br>Japan  <br>Kenya  <br>Luxembourg  <br>Malta  <br>Montenegro  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Panama  <br>Peru  <br>Mexico  <br>Philippines  <br>Portugal  <br>Puerto Rico  <br>Romania  <br>Senegal  <br>Singapore  <br>Slovakia  <br>South Africa  <br>Spain  <br>Sweden  <br>Switzerland  <br>Uganda  <br>Ukraine  <br>United Kingdom  <br>United States  <br>Uruguay | Allowed with limitations  <br>In these countries, Google allows the listing of alcohol (including hard alcohol, liquor, beer, wine, champagne, and cider) as long as the requirements outlined above are met. |
-| Algeria  <br>Angola  <br>Bahrain  <br>Bangladesh  <br>Belarus  <br>Bosnia and Herzegovina  <br>Cameroon  <br>Cote d’Ivoire  <br>Dominican Republic  <br>Ecuador  <br>Egypt  <br>El Salvador  <br>Ethiopia  <br>Finland  <br>Georgia  <br>Guatemala  <br>India  <br>Indonesia  <br>Jordan  <br>Kazakhstan  <br>Kuwait  <br>Lebanon  <br>Liechtenstein  <br>Lithuania  <br>Madagascar  <br>Malaysia  <br>Moldova  <br>Mauritius  <br>Morocco  <br>Mozambique  <br>Myanmar (Burma)  <br>Nepal  <br>Nicaragua  <br>North Macedonia  <br>Norway  <br>Oman  <br>Pakistan  <br>Paraguay  <br>Poland  <br>Russia  <br>Saudi Arabia  <br>Serbia  <br>South Korea  <br>Sri Lanka  <br>Taiwan  <br>Tanzania  <br>Thailand  <br>Tunisia  <br>Turkey  <br>United Arab Emirates  <br>Uzbekistan  <br>Venezuela  <br>Vietnam  <br>Zambia  <br>Zimbabwe | Not allowed  <br>In these countries, Google doesn't allow the listing of any alcoholic beverages, including hard alcohol, liquor, beer, wine, champagne, or cider. |
+| **Countries** | **Allowed?** |
+| Argentina   <br>Australia  <br>Austria  <br>Belgium  <br>Brazil  <br>Bulgaria  <br>Cambodia  <br>Canada  <br>Chile  <br>Colombia  <br>Costa Rica  <br>Cyprus  <br>Czechia  <br>Denmark  <br>France  <br>Germany  <br>Ghana  <br>Greece  <br>Hong Kong  <br>Hungary  <br>Ireland  <br>Israel  <br>Italy  <br>Japan  <br>Kenya  <br>Luxembourg  <br>Malta  <br>Montenegro  <br>Netherlands  <br>New Zealand  <br>Nigeria  <br>Panama  <br>Peru  <br>Mexico  <br>Philippines  <br>Portugal  <br>Puerto Rico  <br>Romania  <br>Senegal  <br>Singapore  <br>Slovakia  <br>South Africa  <br>Spain  <br>Sweden  <br>Switzerland  <br>Uganda  <br>Ukraine  <br>United Kingdom  <br>United States  <br>Uruguay | Allowed with limitations  <br>In these countries, Google allows the promotion of alcohol (including hard alcohol, liquor, beer, wine, champagne, and cider) as long as the requirements outlined above are met. |
 
-What you can do
----------------
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -1650,27 +1859,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1684,11 +1892,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1706,7 +1913,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1720,11 +1927,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1738,99 +1944,92 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
-Adult-oriented content
-======================
+Sexual content
+==============
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
 
-Our policy
-----------
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
-Google restricts free listings of the following types of adult-oriented content:
+Listings should respect user preferences and comply with legal regulations. Google restricts certain kinds of sexual content in listings and destinations, which will only show in limited scenarios based on user search queries, user age and local laws where the listing is being served. Listings must not target minors.
 
-*   Adult merchandise
-*   Sexually suggestive content
-*   Images containing exposed skin and nudity
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-When listing adult content you may not do any of the following:
+#### On this page
 
-*   Violate applicable laws or regulations for any location that you target
-*   Target minors
-*   List sexually explicit content
-*   List content with underage or non-consensual sexual themes, including child sexual abuse content
-*   List services that may be interpreted as providing sexual acts in exchange for compensation
+*   [Nudity](#nudity)
+*   [Sexual merchandise](#merchandise)
+*   [Sexual entertainment](#entertainment)
+*   [Country-specific policy guidance](#country)
+*   [Options to fix](#options) 
 
-Refer to the [product data specification](https://support.google.com/merchants/answer/188494) for specific requirements on how to submit these products using the [adult `[adult]`](https://support.google.com/merchants/answer/6324508) attribute, or by adjusting account level settings to ensure these products are shown to an appropriate audience.
+* * *
 
-Prohibited Adult Content
-------------------------
+### Nudity
 
-Sexually explicit content
-
-> Text, image, audio, or video of graphic sexual acts intended to arouse
+> People or representations of people that display exposed intimate body parts, including representations that are blurred or censored is restricted to users over 18
 > 
-> *   _Examples_: Graphic depictions of sexual acts in progress, including hardcore pornography, any type of genital, anal, or oral sexual activity; graphic depictions of masturbation or genital arousal and language explicitly referencing arousal, masturbation, cartoon porn, or hentai
+> > **Examples (non-exhaustive)**:
+> > 
+> > *   Visible genitalia
+> > *   Visible female breasts
+> > *   Visible buttocks
 
-Non-consensual sexual content
+### Sexual merchandise
 
-> Content promoting underage, non-consensual or other illegal sexual themes, whether simulated or real
+> Sale of merchandise that's intended to enhance sexual activity is restricted to users over 18
 > 
-> *   _Examples_: Rape, incest, bestiality, necrophilia; lolita or teen-themed pornography
+> > **Examples** **(non-exhaustive)**:
+> > 
+> > *   Sex toys
+> > *   Sexual enhancers
+> > *   Sexual fetish lingerie
 
-Child sexual abuse imagery
+### Sexual entertainment
 
-> Content promoting the sexual exploitation of minors
+>  Online or offline sexually suggestive entertainment is restricted to users over 18
 > 
-> *   _Examples_: Child sexual abuse imagery or other content
+> > **Examples (non-exhaustive)**:
+> > 
+> > *   Strip clubs
+> > *   Adult film festivals
+> > *   Sexually suggestive live streaming
+> > *   Sexually suggestive role-playing games 
 
-Restricted adult content
-------------------------
+* * *
 
-Adult merchandise
-
-> Promotion or sale of merchandise intended to enhance sexual activity
-> 
-> *   _Examples_: Sex toys
-
-Sexually suggestive content
-
-> Content containing sexually suggestive text, images, audio, or video
-> 
-> *   _Examples_: Sexually suggestive language; non-sexually explicit erotic magazines, erotic DVDs, sexually suggestive lingerie promotions
-
-Nudity
-
-> People or representations of people that display sexual body parts
-> 
-> *   _Examples_: Visible genitalia, nipples, or bare buttocks
-
-Country-specific requirements
+Country-specific policy guidance
+--------------------------------
 
 In addition to the requirements above, there may be further restrictions based on your target country. See additional country-specific requirements you must meet below.
 
-| Countries | Details |
+|     |     |
 | --- | --- |
-| Algeria  <br>Bahrain  <br>Belarus  <br>Ecuador  <br>Egypt  <br>Georgia  <br>Hong Kong  <br>India  <br>Indonesia  <br>Jordan  <br>Kazakhstan  <br>Kuwait  <br>Lebanon  <br>Malaysia  <br>Morocco  <br>Myanmar (Burma)  <br>Oman  <br>Peru  <br>Philippines  <br>Russia  <br>Saudi Arabia  <br>Singapore  <br>South Korea  <br>Thailand  <br>Tunisia  <br>Turkey  <br>Ukraine  <br>United Arab Emirates  <br>Vietnam | Not allowed  <br>In these countries, Google doesn't allow the listing of adult-oriented content, including nudity. |
-| Germany | Allowed with limitations  <br>In Germany, Google doesn’t allow adult-oriented content that displays sexualized nudity of human, digital, or otherwise artificially generated models (this includes cartoons, drawings, paintings, sculptures and anime). Sex toys must not be promoted in sexualized use by such models. Content must not show the genitals or the buttocks, or have exclusive focus on these body parts, even if those body parts are censored. |
+| **Countries** | **Details** |
+| Algeria  <br>Bahrain  <br>Belarus  <br>Ecuador  <br>Egypt  <br>Georgia  <br>Hong Kong  <br>India  <br>Indonesia  <br>Jordan  <br>Kazakhstan  <br>Kuwait  <br>Lebanon  <br>Malaysia  <br>Morocco  <br>Myanmar (Burma)  <br>Oman  <br>Peru  <br>Philippines  <br>Russia  <br>Saudi Arabia  <br>Serbia  <br>Singapore  <br>South Korea  <br>Thailand  <br>Tunisia  <br>Turkey  <br>Ukraine  <br>United Arab Emirates  <br>Vietnam | **Not allowed**<br><br>In these countries, Google doesn't allow the listing of adult-oriented content, including nudity. |
+| Germany | **Allowed with limitations**<br><br>In Germany, Google doesn’t allow adult-oriented content that displays sexualized nudity of human, digital, or otherwise artificially generated models (this includes cartoons, drawings, paintings, sculptures and anime). Sex toys must not be promoted in sexualized use by such models. Content must not show the genitals or the buttocks, or have exclusive focus on these body parts, even if those body parts are censored. |
 
-What you can do
----------------
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -1840,27 +2039,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1874,11 +2072,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1896,7 +2093,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1910,11 +2107,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -1928,124 +2124,184 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
- 
-
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
-Abuse of the free listings network
-==================================
+Abuse of the network
+====================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Shopping listings across the Google Network should be useful, varied, relevant, and safe for users. Google doesn't allow merchants to run product listings, content, or destinations that attempt to trick or circumvent our product listing review processes.
 
-Our policy
-----------
+#### On this page
 
-Google wants free listings to be useful, varied, relevant and safe for customers, so we don’t allow any of the following:
+*   [Malicious software](#malicious)
+*   [Compromised sites](#compromised)
+*   [Unwanted software](#unwanted)
+*   [Unfair advantage](#unfair)
+*   [Low-value listings](#low)
+*   [Circumventing systems](#circumventing)
+*   [Linked account suspension](#linked)
+*   [Options to fix](#options) 
 
-*   Malicious content
-*   Sites that offer little unique value to customers and are focused on traffic generation
-*   Retailers who try to gain an unfair advantage in ranking
-*   Retailers who try to bypass our review processes
-
-All of our policies are crafted to protect a high quality user experience, and we have enforcement systems and processes to stop content that falls below these standards from being shown to customers. We take any attempts to trick or circumvent our review processes very seriously, so play fair.
-
-Examples of what's not allowed
-------------------------------
+* * *
 
 Malicious software
+------------------
 
-> “Malware” is software that aims to harm or get unapproved access to a computer, device, or network.
-> 
-> These requirements apply to your listings and any software that your site or app either hosts or links to, regardless of whether the software is promoted through the Google network. The following is not allowed:
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google's Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
 
-> Intentional distribution of malicious software or "malware" that may harm or gain unauthorized access to a computer, device, or network
+"Malware" is software that aims to harm or get unapproved access to a computer, device, or network.
 
-> _Examples (non-exhaustive):_
+These requirements apply to your listings, ads, and any software that your site or app either hosts or links to, regardless of whether the software is promoted through the Google Shopping Network.
 
-> *   Computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, rogue security software, and other malicious programs or apps
-> *   Forced redirects, e.g. redirecting customers to an unknown site infected with malicious software without the customer actually clicking on the listing
-> *   HTML5 ad stealing user credentials from a publisher’s page
+Intentional distribution of malicious software or "malware" that may harm or gain unauthorized access to a computer, device, or network is not allowed
+
+*   **Examples (non-exhaustive):**
+    *   Computer viruses, ransomware, worms, trojan horses, rootkits, keyloggers, dialers, spyware, rogue security software, and other malicious programs or apps
+    *   Forced redirects like redirecting users to an unknown site infected with malicious software without the user actually clicking on the listing
+    *   HTML5 ads that steal user credentials from a publisher's page
+
+* * *
 
 Compromised sites
+-----------------
 
-> A compromised site refers to a site or destination whose code has been manipulated to act in ways that benefit a third party without the knowledge of the site or destination’s owner or operator, and often in a way that harms the site’s users. The following scenarios would lead to disapproval for Compromised Site:
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-> Destinations which are hijacked and hacked
+A compromised site is a site or destination whose code has been manipulated to act in ways that benefit a third party without the knowledge of the site or destination’s owner or operator, often in a way that harms the site’s users.
 
-> _Examples (non-exhaustive)_:
+The following would lead to disapproval for Compromised sites:
 
-> *   Sites injecting scripts or code that transmits customer data without consent, e.g. a credit card skimmer, installing malware on end user devices, launching pop-up ads, redirecting customers to other websites, and doing things with customer data without the end user’s consent; operating a website using a content management system with known security vulnerabilities, where it has been exploited.
+Destinations that are hijacked and hacked
+
+*   **Examples (non-exhaustive)**:
+    *   Sites injecting scripts or code that transmits user data without consent, like credit card skimmers, installing malware on end user devices, launching pop-up ads, redirecting users to other websites, and doing things with user data without the end user’s consent
+    *   Operating a website using a content management system with known security vulnerabilities, where it has been exploited
+
+* * *
 
 Unwanted software
+-----------------
 
-> Any software that your site or app hosts (or links to) should provide a positive experience for customers. Google’s [Unwanted Software policy](https://www.google.com/about/unwanted-software-policy.html) addresses characteristics of software that are potentially harmful to the customer experience.
-> 
-> The following scenarios would lead to disapproval for Unwanted Software:
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-> There is no clear description of the product in your listing or a landing page
+Software that your site or app hosts or links to should provide a positive experience for users. The [Unwanted Software policy](https://support.google.com/adspolicy/answer/15938073) provides a few basic characteristics of software that are potentially harmful to the user experience which are listed below:
 
-> _Examples (non-exhaustive)_:
+*   It is deceptive, promising a value proposition that it does not meet.
+*   It tries to trick users into installing it or it piggybacks on the installation of another program.
+*   It doesn’t tell the user about all of its principal and significant functions.
+*   It affects the user’s system in unexpected ways.
+*   It is difficult to remove.
+*   It collects or transmits private information without the user’s knowledge.
+*   It is bundled with other software and its presence is not disclosed.
 
-> *   No information about the product type (app, extension, software) in the listing or landing page; failure to be transparent about the functionality that the software provides; description of the functionality of the software differs from the actual functionality.
-> 
-> Failing to disclose the full implications of installing the software to the user
-> 
-> _Examples (non-exhaustive)_:
-> 
-> *   Making system changes or changes to the browser settings without the user’s consent and knowledge; making it difficult for users to disable or uninstall the software; failing to include Terms of Service or an End User License Agreement; bundling software or applications without the user’s knowledge; transmitting private information without the user’s knowledge
+The following scenarios would lead to disapproval for Unwanted Software:
 
-Low-value content
+There is no clear description of the product in your listing or a landing page
 
-> Products that are designed for the primary purpose of showing ads or promotional content
-> 
-> *   _Examples_: Driving traffic (through “[arbitrage](https://support.google.com/adspolicy/answer/6020954)” or otherwise) to destinations with more ads than original content, little or no original content, or excessive advertising
+*   **Examples (non-exhaustive):**
+    *   No information about the product type, such as app, extension, software, in the ad or landing page
+    *   Failure to be transparent about the functionality that the software provides
+    *   Description of the functionality of the software differs from the actual functionality
 
-> Sites that don't give all customers a way to complete the purchase of a product
-> 
-> *   _Examples_: Sites that allow purchase only by businesses, sites that allow purchase only by a certain subset of customers. [Learn more about business-to-business advertising](https://support.google.com/merchants/answer/6323982)
+Failing to disclose the full implications of installing the software to the user
 
-> Content that's replicated from another source without adding value such as original content or more functionality
-> 
-> *   _Examples_: Mirroring, framing, or scraping content from another source
+*   **Examples (non-exhaustive):**
+    
+    *   Making system changes or changes to the browser settings without the user’s consent and knowledge
+    *   Making it difficult for users to disable or uninstall the software
+    *   Failing to include Terms of Service or an End User License Agreement
+    *   Bundling software or applications without the user’s knowledge
+    *   Transmitting private information without the user’s knowledge
 
-> Landing pages that are solely designed to send customers elsewhere
-> 
-> *   _Examples_: Bridge, gateway, or [doorway pages](https://developers.google.com/search/docs/essentials/spam-policies#doorways)
+* * *
 
-Gaining an unfair advantage
+Unfair advantage
+----------------
 
-> Using the Google network to gain an unfair traffic advantage in Shopping campaigns
-> 
-> *   _Examples_: Clicks or impressions generated by a market participant clicking their own listings, automated clicking tools or traffic sources, robots, or other deceptive software; duplicate listings
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Gaming the Google network
+Using the Google Network to gain an unfair traffic advantage over other participants in rankings or Shopping ads auctions is not allowed
 
-> Engaging in practices that attempt to circumvent or interfere with Google’s systems and processes
-> 
-> *   _Examples_: Cloaking; use of dynamic DNS to switch page or product; manipulating product data or site content in order to bypass our automated system checks; restricting crawler access to your landing pages. [Learn more about Google search essentials](https://developers.google.com/search/docs/essentials)
+*   **Examples (non-exhaustive):**
+    *   Clicks or impressions generated by a merchant clicking their own listings
+    *   Using automated clicking tools or traffic sources, robots, or other deceptive software
+    *   Duplicate listings
+
+* * *
+
+Low-value listings
+------------------
+
+Content designed for the primary purpose of showing ads or promotional content is not allowed
+
+*   **Examples (non-exhaustive):** Driving traffic (through “[arbitrage](https://support.google.com/adspolicy/answer/6020954)” or otherwise) to destinations with more ads than original content, little or no original content, or excessive advertising
+
+Sites that don't give all customers a way to complete the purchase of a product are not allowed
+
+*   **Examples (non-exhaustive):** Sites that allow purchase only by businesses, sites that allow purchase only by a certain subset of customers. [Learn more about business-to-business advertising](https://support.google.com/merchants/answer/6323982).
+
+Content that's replicated from another source without adding value such as original content or more functionality is not allowed
+
+*   **Examples (non-exhaustive):** Mirroring, framing, or scraping content from another source
+
+Landing pages that are solely designed to send customers elsewhere are not allowed
+
+*   **Examples (non-exhaustive):** Bridge, gateway, or [doorway pages](https://developers.google.com/search/docs/essentials/spam-policies#doorways)
+
+* * *
+
+Circumventing systems
+---------------------
+
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of the Google’s Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchantr or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
+
+Engaging in practices that circumvent or interfere with Shopping systems and processes, or attempting to do so is not allowed
+
+*   **Examples (non-exhaustive):**
+    *   Bypassing enforcement mechanisms and detection by creating variations of listings, domains or content that have been disapproved for this or any of Google’s Shopping policy or using techniques in text, images or videos to obfuscate sexually explicit content
+    *   After a previous suspension decision, attempting to use the Shopping system again by creating new accounts to re-enter the system
+    *   Abusing Shopping product features to show policy non-compliant content to users or gain additional traffic
+    *   Submitting false information as part of our verification programs
+    *   Having multiple Shopping policy violations across several of your accounts gradually or all at once. This can include:
+        *   Creating new websites or accounts to show listings that are similar to ones that were already disapproved
+        *   Spreading listings that violate Google’s Shopping policies across 2 or more accounts
+        *   Using several accounts, either gradually or all at once, to promote products or services for which you lack the necessary Shopping certification
+    *   Using dynamic DNS to switch page or product
+    *   Manipulating product data or site content in order to bypass our automated system checks
+    *   Restricting crawler access to your landing pages. [Learn more about Google web developer guidelines](https://support.google.com/webmasters/answer/35769).
+
+Your account may be suspended based on adverse regulatory warnings, settlements, or rulings about your business practices or direct complaints from users or businesses. Accounts aren't suspended under this policy for having listing disapprovals related to [editorial](https://support.google.com/merchants/answer/6150244?sjid=6270445294025157689-NC) issues like formatting or misspelled words.
+
+* * *
 
 Linked account suspension
+-------------------------
 
-> Having a suspended account linked to your Merchant Center account
-> 
-> *   _Examples_: A Google Ads account linked to your Merchant Center account is suspended
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google's Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
 
-What you can do
----------------
+Having a suspended account linked to your Merchant Center account is not allowed
+
+*   **Examples (non-exhaustive):** A Google Ads account linked to your Merchant Center account is suspended. [Learn more about fixing linked account suspension](https://support.google.com/merchants/answer/13030286).
+
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -2055,27 +2311,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2089,11 +2344,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2111,7 +2365,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2125,11 +2379,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2143,215 +2396,180 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Misrepresentation
 =================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Listings or destinations that deceive users by excluding relevant product information or providing misleading information about products and businesses can compromise user trust. The Misrepresentation policy strives to ensure that listings are clear, honest, and provide information that users need to make informed decisions. For this reason we don’t allow the following:
 
-Our policy
-----------
+*   Offers that prompt customers to initiate a purchase, download, or other commitment without first providing all relevant information and getting the customer’s explicit consent.
+*   Offers that represent you or your products in a way that isn't accurate, realistic, and truthful.
 
-Google doesn't want customers to feel misled by the content in your offers, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
-
-*   Offers that prompt customers to initiate a purchase, download, make another commitment without first providing all relevant information and getting the customer’s explicit consent
-*   Offers that represent you or your products in a way that's not accurate, realistic, and truthful
-
-Learn more about [Building trust with your customers](https://support.google.com/merchants/answer/13693865).
-
-Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Shopping policies is a violation so serious that it’s unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google accounts will be suspended upon detection and without prior warning, and you won’t be allowed to list with Google Shopping again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there’s good reason so it's important that you take the time to be thorough, accurate, and honest. Learn more [about suspended accounts](https://support.google.com/merchants/answer/13693195).
-
-Below are some examples of what to avoid in your offers.
+Learn more about [Building trust with your customers](https://support.google.com/merchants/answer/13693865). Below are some examples of what to avoid in your listings.
 
 #### On this page
 
-*   [Unacceptable business practices](#unacceptable_business_practices)
-*   [Misleading or unrealistic offers](#misleading_offers)
-*   [Omission of relevant information](#omission_relevant_info)
-*   [Unavailable offers](#unavailable_offers)
-*   [Why this isn’t allowed](#why_isnt_allowed)
-*   [Best practices (non-exhaustive)](#best_practices)
-*   [Tips for submitting your appeal](#tips_for_appeal)
-*   [What you can do](#what_you_can_do)
+*   [Unacceptable business practices](#unacceptable)
+*   [Coordinated deceptive practices](#coordinated)
+*   [Dishonest pricing and transaction conditions](#dishonest)
+*   [Unavailable offers](#unavailable)
+*   [Manipulated media](#manipulated)
+*   [Unreliable claims](#unreliable)
+*   [Options to fix](#options)
 
 * * *
 
 Unacceptable business practices
 -------------------------------
 
-The following isn't allowed:
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google’s Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
 
-Scamming users by hiding or misrepresenting info about your business or product isn’t allowed. This means you can’t:
+Scamming people by hiding or misrepresenting info about your business, products or services isn’t allowed
 
-*   Make it seem like you’re supported by another brand, organization or government entity when you’re not
-*   Offer products that you don't have or can't deliver, including not having the right licenses or qualifications
-*   Impersonate other brands or businesses in your offers or on your website to hide your identity or imply connections or qualifications
-*   Present a false identity, business name, or contact information
-*   Enticing customers to part with money or information under false or unclear pretenses
+*   **Examples (non-exhaustive):**
+    *   Offer products for which you don’t have the right licenses or qualifications to do so
+    *   Present a false identity, business name, or contact information
+    *   Charging customers for products typically available for free
+    *   Impersonating brands or businesses by referencing or modifying the brand content in the listings, URL, destinations or misrepresenting yourself as the brand or business in customer interactions
+    *   Pretending to be a discount online retail store to entice people into buying products and then not delivering the items that they paid for
+    *   Denying return and refund for a product despite having a clear refund or return policy that allows for returns and refunds
+    *   Hiding, omitting, or misrepresenting material details about your actual business location, operational headquarters, or source of product fulfillment to mislead users or evade verification
+    *   Displaying a false or virtual physical address as your headquarters while operating entirely from an undisclosed region
+    *   Intentionally hiding the actual location from which your products are shipped to create a false impression of localized delivery
 
-**Examples (non-exhaustive)**:
+Phishing: trying to get people to give you their personal information like passwords and credit card numbers by pretending to be a trusted or well-known entity is not allowed
 
-*   Charging customers for products typically available for free
-*   Impersonating brands or businesses by referencing or modifying the brand content in the listings, URL, destinations or misrepresenting yourself as the brand or business in customer interactions
-*   Enticing customers to part with money or information through a fictitious business that lacks the qualifications or capacity to provide the listed product
-*   Claiming to be a certified reseller of goods when not actually certified, using a brand name to drive traffic to a different product on the site
-*   Pretending to be a discount online retail store to entice people into buying products and then not delivering the items that they paid for
-*   Denying return and refund for a product despite having a clear refund or return policy that allows for returns and refunds
+*   **Examples (non-exhaustive):**
+    
+    *   Sites that trick users into revealing their personal information by mimicking a trusted retailer
+        
 
-Offer destinations that use “phishing” techniques to gather user information
+Falsely implying affiliation with, or endorsement by, another individual, organization, product, or service is not allowed
 
-**Examples (non-exhaustive)**:
-
-*   Sites that trick users into revealing their personal information by mimicking a trusted retailer
-
-* * *
-
-Misleading or unrealistic offers
---------------------------------
-
-The following isn’t allowed:
-
-Using false claims or claims that entice the user with an improbable result (even if this result is possible) as the likely outcome that a user can expect
-
-**Examples**:
-
-*   "Miracle cures" for medical ailments, such as extreme weight loss products
-
-Falsely implying affiliation with, or endorsement by, another individual, organization, product, or service
-
-**Examples**:
-
-*   Misleading use or mimicry of official government sites, stamps, seals, or agency names
-
-Listings promoting harmful health claims, or content that relates to a current, major health crisis and contradicts authoritative scientific consensus
-
-**Examples (non-exhaustive)**:
-
-*   Anti-vaccine advocacy
-*   Denial of the existence of medical conditions such as AIDS or COVID-19
-*   Gay conversion therapy
-
-Making claims that are proven false and could significantly undermine participation or trust in an electoral or democratic process
-
-**Examples (non-exhaustive)**:
-
-*   Information about public voting procedures
-*   Political candidate eligibility based on age or birthplace
-*   Election results
-*   Incorrect claims that a public figure has died, or been involved in an accident
+*   **Examples (non-exhaustive):**
+    *   Misleading use or mimicry of official government sites, stamps, seals, or agency names
+    *   Make it seem like you’re affiliated with another brand, organization or government entity when you’re not
 
 * * *
 
-Omission of relevant information
---------------------------------
+Coordinated deceptive practices
+-------------------------------
 
-The following isn’t allowed:
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google Shopping’s policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
 
-Failure to clearly and conspicuously disclose the payment model and full expense that a customer will bear before and after purchase
+Coordinating with other sites or accounts and concealing or misrepresenting your identity or other material details about yourself, where your content relates to politics, social issues, or matters of public concern is not allowed
 
-**Examples (non-exhaustive)**:
+Directing content about politics, social issues, or matters of public concern to users in a country other than your own, if you misrepresent or conceal your country of origin, or other material details about yourself is not allowed
 
-*   Pricing of products (total price, currency) may depend on additional conditions impacting the total cost for the user such as, auction pricing, membership fees, contract, payment schemes, additional purchase requirement, creating additional undisclosed payment obligations during payment processing
+* * *
 
-Failure to clearly and conspicuously disclose all related conditions before and after purchase
+Dishonest pricing and transaction conditions
+--------------------------------------------
 
-**Examples (non-exhaustive)**:
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google’s Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources. If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
 
-*   Missing merchant terms and conditions or shipping information
-*   Return and refund policy that is unclear, missing, or not easily discoverable.
+Failure to clearly and conspicuously disclose the payment model or full expense that a user will bear before and after purchase is not allowed
 
-Omitting material information when promoting content as benefiting a charitable or political organization
+*   **Examples (non-exhaustive):**
+    *   Not disclosing the total price, including all taxes, fees, and surcharges
+    *   Failing to explain the payment model
+    *   Omitting recurring costs and the billing interval
+    *   Not disclosing all applicable shipping costs, including those for returns if the designated return shipping location differs from the business address
 
-**Examples (non-exhaustive)**:
+Employing pricing practices that create a false or misleading impression of the cost of a product or service, leading to inflated or unexpected charges is not allowed
 
-*   Failing to display a charity or tax exemption number for charitable donations
-*   Failing to disclose whether political donations are tax exempt or not
+*   **Examples (non-exhaustive):**
+    *   Bait-and-switch tactics: Deceptively advertising a product at an enticing, often unrealistic, low price to lure customers, with no genuine intent to sell it, only to pressure them into buying a different, typically more expensive or inferior, alternative after they’re engaged
+    *   Price exploitation: Exploiting individuals in vulnerable situations or under duress, leveraging their immediate need or lack of reasonable alternatives to demand a payment significantly higher than the prevailing market rate.
+
+Concealing transaction conditions by failing to clearly, conspicuously, and consistently disclose post-purchase terms, fulfillment timelines, or refund restrictions before a customer commits to a purchase is not allowed
+
+*   **Examples (non-exhaustive):**
+    *   Claiming a delivery time in conspicuous text while hiding a longer order processing or handling delays in less visible secondary text
+    *   Concealing that a customer will incur cross-border or international freight fees to complete a product return
+    *   Failing to clearly and conspicuously disclose fees, such as unexpected restocking fees, before checkout
+    *   Setting international return windows to begin on the purchase date rather than the actual delivery date
+
+Omitting material information when promoting content as benefiting a charitable or political organization is not allowed
+
+*   **Examples (non-exhaustive):**
+    *   Failing to display a charity or tax exemption number for products sold to benefit charities
+    *   Failing to disclose whether products sold to benefit political campaigns are tax exempt or not
 
 * * *
 
 Unavailable offers
 ------------------
 
-The following isn’t allowed:
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Promising products or promotional offers that aren’t available for users
+Promising products or promotional offers that aren’t available for users is not allowed
 
-**Examples**:
+*   **Examples (non-exhaustive):**
+    *   Misrepresenting or concealing the location from where products are shipped in order to create a false impression of local inventory or rapid delivery
+    *   Listing items as available when you lack the capability to fulfill the orders
 
-*   Promoting products that aren't stocked, promoting a deal that’s no longer active, call-to-action in promotion that isn't easily achievable from the landing page
-*   View the [Product data specification](https://support.google.com/merchants/answer/7052112) attributes on availability and price for specific guidelines to comply with this policy.
-
-* * *
-
-We may take action on your account based on:
-
-*   Adverse regulatory warnings
-*   Settlements or rulings about your business practices
-*   Direct complaints from businesses and other entities about impersonation
-
-We take violations of this policy very seriously and consider them egregious. An egregious violation of our [policies](https://support.google.com/merchants/answer/12073010) is a violation so serious that it's unlawful or poses significant harm to our customers.
-
-In determining whether a market participant or destination is violating this policy, we may:
-
-*   Review information from multiple sources including your product, website, accounts, and third-party sources.
-*   If we find violations of this policy, we'll suspend your account upon detection and without prior warning, and you won't be allowed to participate in listing content with us again. We may also restrict your Merchant Center account's product limit.
-
-If you believe there's been an error, and that you haven’t violated our policy:
-
-*   You can submit an appeal and explain why using the [link](https://support.google.com/merchants/answer/13585221) at the bottom of this page.
-*   We only reinstate accounts in compelling circumstances, and when there's good reason, so it's important that you take the time to be thorough, accurate, and honest.
+View the [Product data specification](https://support.google.com/merchants/answer/7052112) attributes on availability and price for specific guidelines to comply with this policy.
 
 * * *
 
-Why this isn’t allowed
-----------------------
+Manipulated media
+-----------------
 
-*   **It’s harmful to people**: They can be exposed to scams, misleading information, or even dangerous products or services.
-*   **It damages the overall shopping ecosystem**: When people have bad experiences, they become less likely to trust any listings, which hurts all advertisers. Google shopping wants to maintain a safe and healthy shopping ecosystem for everyone.
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-* * *
+Manipulating media to deceive, defraud, or mislead others is not allowed
 
-Best practices (non-exhaustive)
--------------------------------
-
-Review this non-exhaustive list of best practices to help ensure that your listings comply with this policy.
-
-*   **Deliver what customers paid for**: Provide the products or services customers purchased, meeting agreed-upon specifications.
-*   **Describe your business on your website**: Ensure your website has updated contact information and a clear explanation of what your company does, like on an "About us" page.
-*   **Use your own branding**: Use your own name, logo, images, and colors on your website and in your ads.
-*   **Avoid using another brand’s identity in a misleading way**: Avoid using another brand’s name, logo, images, and colors in ways that can trick people. Don’t misspell another brand’s name in your ad text, like “G00gle”. When referencing another brand, follow Google’s policy on [trademarks](https://support.google.com/merchants/answer/12078092).
-*   **Be clear about your partnerships**: If you're an official or authorized partner of another brand, ask them to mention you on their website in addition to making your relationship clear on your own website and ads. If you reference another brand but you're not an official or authorized partner, consider a disclaimer on your website and in your listings.
-*   **Be qualified to do the work you advertise**: Have all necessary certifications to provide your products and services. If you list any certifications on your website, ensure they’re up to date.
+*   **Examples (non-exhaustive):** Deceptively doctoring media related to politics, social issues, or matters of public concern
 
 * * *
 
-Tips for submitting your appeal
--------------------------------
+Unreliable claims
+-----------------
 
-*   **Follow best practices**: Implement the best practices you've been provided if you haven’t already.
-*   **Explain your situation**: If you're an official partner of another brand, describe your partnership and share any information that shows how you're connected.
-*   **Share proof**: This can include contracts, written agreements, a link to a credible news article that mentions about the connection and any public statements (like a social media post) from the brand or organization confirming the partnership.
-*   **Complete verification**: If asked, complete all [tasks required for advertiser verification](https://support.google.com/adspolicy/answer/15577076).
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+Making inaccurate claims or claims that entice the user with an improbable result (even if this result is possible) as the likely outcome a user can expect is not allowed
+
+*   **Examples (non-exhaustive):**
+    *   "Miracle cures" for medical ailments, such as extreme weight loss products
+    *   Products that claim to be “cure-all” for several diseases
+
+Content that promotes harmful health claims, or that relates to a current, major health crisis and contradicts authoritative scientific consensus is not allowed
+
+*   **Examples (non-exhaustive):**
+    *   Anti-vaccine advocacy
+    *   Denial of the existence of medical conditions such as AIDS or COVID-19
+    *   Gay conversion therapy
+
+Claims related to politics, social issues, or matters of public concern are not allowed
+
+*   Making claims that are demonstrably false and could significantly undermine participation or trust in an electoral or democratic process
+    *   **Examples (non-exhaustive):**
+        *   Information about public voting procedures, political candidate eligibility based on age or birthplace, election results, or census participation that contradicts official government records
+        *   Incorrect claims that a public figure has died, or been involved in an accident
+*   Making claims that contradict authoritative, scientific consensus on climate change
 
 * * *
 
-What you can do
----------------
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -2361,27 +2579,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2395,11 +2612,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2417,7 +2633,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2431,11 +2647,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2449,107 +2664,184 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
-Unsupported free listings content
-=================================
-
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
-
-Our policy
-----------
+Unsupported Shopping content
+============================
 
 Google aims to enable businesses to list a wide variety of products, but some Google products and platforms may not be optimized to appropriately support all content types.
 
-For this reason, we don't allow the listing of certain content where we don't offer an optimal customer experience.
+For this reason, Google does not allow listing certain content where we don't offer an optimal user experience. Note that because these limitations are specific to Shopping listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
-Note that because these limitations are specific to free listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Examples of what's not allowed
-------------------------------
+#### On this page
+
+*   [Ticket sales](#ticket)
+*   [Vehicles](#vehicles)
+*   [Financial products](#financial)
+*   [eBooks and digital books (not including audiobooks)](#ebooks)
+*   [Currency](#currency)
+*   [Open-loop gift cards](#open)
+*   [Services](#services)
+*   [Immovable property](#immovable)
+*   [Recurring billing](#recurring)
+*   [Billing processed by product software](#billing)
+*   [Options to fix](#options) 
+
+* * *
 
 Ticket sales
+------------
 
-> Future transport or event tickets
-> 
-> *   _Examples_: Concert tickets, airline tickets, bus reservation tickets
+ Future transport or event tickets are not allowed
+
+*   **Examples (non-exhaustive):** Concert tickets, airline tickets, bus reservation tickets
+
+* * *
 
 Vehicles
+--------
 
-> Motor or sail-powered vehicles used for transport of people on public access ways
-> 
-> *   _Examples_: Cars, RVs, trucks, boats, catamarans, planes, helicopters, motorcycles, mopeds, jet skis
-> *   _Exception:_ Motor-powered bicycles with a motor-assisted speed of 25 km/h or 15.5 mph or less are allowed
+ Motor-powered bicycles are allowed when listings meet these conditions are allowed:
+
+*   Motor-powered bicycles must comply with applicable laws and regulations concerning maximum motor-assisted speeds.
+*   Product listings must explicitly state the bicycle’s speed on the landing page and either the product title or description. For example: eBike, Top Speed 28mph, 150km Range, 504Wh, 21kg, 28” - Dark Colour. If the speed isn’t stated, they’re in violation of our policy and will be disapproved.
+
+ Light passenger cars, trucks and RV’s used specifically for Vehicle ads, an ad format which allows vehicle advertisers to promote their entire inventory of new and used vehicles to interested customers shopping for vehicles are allowed. Learn more about [vehicle ads](https://support.google.com/merchants/answer/11189169)
+
+ Motor or sail-powered vehicles used for transport of people on public access ways are not allowed
+
+*   **Examples (non-exhaustive):** Cars, RVs, trucks, boats, catamarans, planes, helicopters, motorcycles, mopeds, jet skis
+
+* * *
 
 Financial products
+------------------
 
-> Products related to financial management, assets, investments, securities, or insurances
-> 
-> *   _Examples_: Stocks, bonds, investment products, insurance policies, credit cards, money orders, cashiers checks
+  Products related to finance management, financial assets, investments, securities, or insurances are not allowed
+
+*   **Examples (non-exhaustive):** Stocks, bonds, investment products, insurance policies, credit cards, money orders, cashiers checks
+
+* * *
+
+eBooks and digital books (not including audiobooks)
+---------------------------------------------------
+
+**Note**: This policy only applies to Shopping ads. It does not apply to free listings.
+
+ eBooks and digital books (not including audiobooks) are not allowed
+
+*   **Examples (non-exhaustive):** PDFs, ePub books, MOBI, and 電子書籍 formats.
+
+* * *
 
 Currency
+--------
 
-> Mediums of exchange that are reliant on variable currency market values to determine price, including discounted currencies, currency exchanges, or currency backed by precious materials
-> 
-> *   _Examples_: Gold bullion, precious metals, local currency, virtual currency
+ Mediums of exchange that are reliant on variable currency market values to determine price, including discounted currencies, currency exchanges, or currency backed by precious materials are not allowed
+
+*   **Examples (non-exhaustive):** Gold bullion, precious metals, local currency, virtual currency
+
+* * *
 
 Open-loop gift cards
+--------------------
 
-> Pre-paid gift cards branded by a credit card issuer
-> 
-> *   _Examples_: Mastercard, Visa, or American Express branded gift cards
-> *   _Exceptions to the policy include but are not limited to:_ Closed-loop gift cards with an expiration date are allowed
+ Gift cards with an expiration date and that can only be redeemed at specified companies are allowed
+
+ Pre-paid gift cards branded by a credit card issuer are not allowed
+
+*   **Examples (non-exhaustive):** Mastercard, Visa, or American Express branded gift cards
+
+* * *
 
 Services
+--------
 
-> Labor, time, effort, expertise, or actions, which do not result in ownership of a tangible product. This includes any services sold bundled with physical goods. In accordance with our medical devices policy, test kits where samples are collected at home and analyzed in a lab are not considered services and are allowed on Shopping.
-> 
-> *   _Examples_: Maintenance or repair services, accounting services, financial planning services, streaming content, online gaming currency, car repair services sold bundled with purchase of tires
+ Prescription drugs with recurring billing when provided by a [certified U.S. Online Pharmacy](https://support.google.com/merchants/contact/pharmacyapplication), may offer listings with these service components are allowed:
+
+*   Requiring a doctor's visit or medical consultation, including standalone or bundled evaluations for "access to prescription drug," with or without a fee to determine eligibility or to prescribe medication as part of the purchase (for example, at checkout).
+*   Promoting prescription drugs that includes or requires a bundled service (for example, nutritional programming, access to coaching services).
+
+**Merchant requirement**: for these allowances to apply, certified merchants must clearly disclose all associated fees and explicitly state what the offer includes (for example, "prescription drug only," or a "bundled treatment plan") on the product’s landing page.
+
+ Labor, time, effort, expertise, or actions, which do not result in ownership of a tangible product are not allowed. This includes any services sold bundled with physical goods. In accordance with our medical devices policy, test kits where samples are collected at home and analyzed in a lab are not considered services and are allowed on Shopping.
+
+*   **Examples (non-exhaustive):** Maintenance or repair services, accounting services, financial planning services, streaming content, online gaming currency, car repair services sold bundled with purchase of tires
+
+* * *
 
 Immovable property
+------------------
 
-> Property not physically movable or which cannot be moved without being altered or destroyed
-> 
-> *   _Examples_: Real estate, non-portable homes, plots of land
+ Property not physically movable or which cannot be moved without being altered or destroyed is not allowed
+
+*   **Examples (non-exhaustive):** Real estate, non-portable homes, plots of land
+
+* * *
 
 Recurring billing
+-----------------
 
-> Payment method that allows customers pay for goods on an ongoing basis, at regular intervals in the future
-> 
-> *   _Examples_: Security or medical alert system with recurring payment for subscription, digital content with recurring payment subscriptions
-> *   _Exceptions to the policy:_ Refer to the [price `[price]` attribute of the feed specification](https://support.google.com/merchants/answer/188494#price) for requirements on how to submit prices for these products.
->     *   Magazines and newspapers subscriptions with recurring billing are allowed.
->     *   Mobile products are allowed to be sold in installments or with a subscription contract if specifically listed [here](https://support.google.com/merchants/answer/7390163) and are categorized under the Google product category (GPC) codes listed below. Make sure to review the [best practices for listing wireless products and services](https://support.google.com/merchants/answer/7390163).
->         *   Watches (ID: 201)
->         *   Mobile Phone (ID: 267)
->         *   Tablet Computers (ID: 4745)
->         *   Mobile Phone Prepaid Cards and SIM Cards (ID: 6030)
->         *   GPS Tracking Devices (ID: 6544)
->     *   Software subscriptions that are pre-paid and auto-renew only annually are allowed.
->     *   In Brazil, subscriptions with recurring billing to telecom are allowed. Installment pricing, not open-ended billing, is allowed for all other products.
+ Refer to the [price \[price\] attribute of the feed specification](https://support.google.com/merchants/answer/188494#price) for requirements on how to submit prices for the following products:
+
+*   Magazines and newspapers subscriptions with recurring billing are allowed.
+*   Software subscriptions that are prepaid and autorenew only annually are allowed.
+*   Mobile products are allowed to be sold in installments or with a subscription contract if specifically listed [here](https://support.google.com/merchants/answer/7390163) and are categorized under the Google product category (GPC) codes listed below. Make sure to review the [best practices for listing wireless products and services](https://support.google.com/merchants/answer/7390163).
+    *   Watches (ID: 201)
+    *   Mobile Phone (ID: 267)
+    *   Tablet Computers (ID: 4745)
+    *   Mobile Phone Prepaid Cards and SIM Cards (ID: 6030)
+    *   GPS Tracking Devices (ID: 6544)
+*   In the US, physical goods subscriptions with recurring billing are allowed if specifically listed below and are categorized under the Google product category (GPC) codes listed below, when submitted with all required attributes and disclosures:
+    *   Apparel and accessories (ID: 166)
+    *   Alcoholic beverages (499676)
+    *   Coffee (ID: 1868)
+    *   Health care (ID: 491)
+    *   Medicine & Drugs (ID: 518)
+    *   Home and garden (ID: 536)
+    *   Personal care (ID: 2915)
+    *   Pet supplies (ID: 2)
+    *   Prepared foods (ID: 5814)
+    *   Toys (ID: 1253)
+*   Additional requirements for physical goods subscriptions:
+    *   Subscription attributes: Each offer must include the complete subscription cost `[subscription_cost]` attribute, including period `[period]` (week `[week]`, month `[month]`, or year `[year]`), period length `[period_length]`, and amount `[amount]`. Only standard billing periods of one week, one month, or one year are supported. Variable periods, such as 3-month or 6-month recurring plans, cannot be supported at this time. Refer to the [subscription cost `[subscription_cost]` attribute of the feed specification](https://support.google.com/merchants/answer/188494#price) for requirements on how to submit prices for these products.
+    *   Terms and conditions: The landing page must clearly and prominently state all subscription agreement terms, including cancellation and refund procedures, autorenewal practices, notification methods for price or period changes, and any additional mandatory fees required as part of the subscription. A link to your subscription terms and conditions must be provided in the [return policy URL](https://support.google.com/merchants/answer/14011730) in Merchant Center.
+    *   Offer clarity: The ad and landing page must clearly indicate that the offer is for a subscription of a physical good, including the cost, period, and period length
+
+ Payment methods that allows users pay for goods on an ongoing basis, at regular intervals in the future are not allowed
+
+*   **Examples (non-exhaustive):** Security or medical alert system with recurring payment for subscription, digital content with recurring payment subscriptions
+
+* * *
 
 Billing processed by product software
+-------------------------------------
 
-> Online payment method for goods that require additional software installation to complete the purchase
-> 
-> *   _Examples_: Digital photo albums that can only be purchased if additional software is installed
+ Online payment methods for goods that require additional software installation to complete the purchase are not allowed
 
-What you can do
----------------
+*   **Examples (non-exhaustive):** Digital photo albums that can only be purchased if additional software is installed
+
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -2559,27 +2851,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2593,11 +2884,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2615,7 +2905,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2629,11 +2919,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2647,86 +2936,208 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Inappropriate content
 =====================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Google values diversity and respect for others and strives to avoid offending users, so ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence aren’t allowed.
 
-Our policy
-----------
+Below are some examples of content that Google Ads considers inappropriate and may not be included in your Shopping ads and listings, assets, and destinations.
 
-Google values diversity and respect for others, and we strive to avoid offending customers, so we don’t allow free listings or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
+* * *
 
-Examples of what's not allowed
-------------------------------
+#### On this page
 
-Dangerous or derogatory content
+*   [Dangerous or derogatory content](#dangerous)
+*   [Sexually explicit content](#explicit)
+*   [Child sexual abuse and exploitation](#csae)
+*   [Shocking content](#shocking)
+*   [Sensitive events](#sensitive)
+*   [Animal cruelty](#animal)
+*   [Hacked political materials](#hacked)
+*   [Options to fix](#options)
 
-> Content that incites hatred against, promotes discrimination of, or disparages an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, or other characteristic that is associated with systemic discrimination or marginalization
+* * *
+
+### Dangerous or derogatory content
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+ Content that incites hatred against, promotes discrimination of, or disparages an individual or group on the basis of their race or ethnic origin, religion, disability, age, nationality, veteran status, sexual orientation, gender, gender identity, or any other characteristic that is associated with systemic discrimination or marginalization is not allowed
+
+> **Examples (non-exhaustive):**
 > 
-> *   _Examples:_ Content promoting hate groups or hate group paraphernalia, content that encourages others to believe that a person or group is inhuman, inferior, or worthy of being hated
+> *   Content promoting hate groups or hate group merchandise
+> *   Content encouraging others to believe that a person or group is inhuman, inferior, or worthy of being hated
+> *   Skin lightening products that imply superiority of social status, beauty, professional and/or relational opportunities of lighter skinned persons
 
-> Content that harasses, intimidates or bullies an individual or group of individuals
-> 
-> *   _Examples:_ Content that singles out someone for abuse or harassment
+ Content that harasses, intimidates, or bullies an individual or group of individuals is not allowed
 
-> Content that threatens or advocates for physical or mental harm on oneself or others
+> **Examples (non-exhaustive):**
 > 
-> *   _Examples_: Content advocating suicide, anorexia, or other self-harm; promoting or advocating for harmful health or medical claims or practices; threatening someone with real-life harm or calling for the attack of another person; promoting, glorifying, or condoning violence against others, content made by or in support of terrorist groups or transnational drug trafficking organizations, or content that promotes terrorist acts, including recruitment, or that celebrates attacks by transnational drug trafficking or terrorist organizations
->     
+> *   Content singling out someone for abuse or harassment
+> *   Content suggesting that a tragic event did not happen, or that victims or their families are actors, or complicit in a cover-up of the event
+> *   Content sharing personally identifiable information that promotes financial fraud, identity theft, harmful direct contact, or harassment
 
-Shocking content
+ Content that threatens or advocates for physical or mental harm on oneself or others is not allowed
 
-> Listings containing violent language, gruesome imagery, or graphic images or accounts of physical trauma
+> **Examples (non-exhaustive):**
 > 
-> *   _Examples_: Crime scene or accident photos, execution photos
+> *   Content advocating for suicide, anorexia, or other self-harm
+> *   Content threatening someone with real-life harm or calling for the attack of another person
+> *   Content promoting, glorifying, or condoning violence against others
+> *   Content made by or in support of terrorist groups, or transnational drug trafficking organizations
+> *   Content promoting terrorist acts, including recruitment, or that celebrates attacks by transnational drug trafficking or terrorist organizations.
 
-> Listings containing gratuitous portrayals of or sale of bodily fluids, human waste, or human tissue
-> 
-> *   _Examples_: Blood, guts, gore, sexual fluids, human eggs or sperm
+ Content that seeks to exploit others is not allowed
 
-Sensitive Events
+> **Examples (non-exhaustive)**: Content promoting extortion, blackmail, soliciting or promoting dowries, exploitative removals
 
-> A "Sensitive Event" is an unforeseen event or development that creates significant risk to Google's ability to provide high quality, relevant information and ground truth, and reduce insensitive or exploitative content in prominent features. During a Sensitive Event, we may take a variety of actions to address these risks.
-> 
-> Examples of Sensitive Events include events with significant social, cultural, or political impact, such as civil emergencies, natural disasters, public health emergencies, terrorism and related activities, conflict, or mass acts of violence.
-> 
-> **Examples of what we prohibit (non-exhaustive):**
-> 
-> Products that exploit, dismiss, or condone the Sensitive Event, including price gouging or artificially inflating prices that prohibits/restricts access to vital supplies; offers for products which may be insufficient for the demand during a Sensitive Event
-> 
-> Using keywords related to a Sensitive Event to attempt to drive additional traffic
-> 
-> Claims that victims of a Sensitive Event were responsible for their own tragedy or similar instances of victim blaming; claims that victims of a Sensitive Event are not deserving of remedy or support; claims that victims from certain countries were responsible or deserving of a global public health crisis
+* * *
 
-Animal cruelty
+### Sexually explicit content
 
-> Content that promotes cruelty or gratuitous violence towards animals
+ Text, image, audio, or video of graphic sexual acts intended to arouse are not allowed
+
+> **Examples (non-exhaustive):**
 > 
-> *   _Examples_: Promoting animal cruelty for entertainment purposes, such as cock or dog fighting
+> *   Hardcore pornography, cartoon porn, or hentai
+> *   Sex acts such as genital, anal, and oral sex, or masturbation
 
-> Products that may be interpreted as trading in or derived from threatened or extinct species
+ Content promoting underage, non-consensual, or other illegal sexual themes, whether simulated or real is not allowed
+
+> **Examples (non-exhaustive):** rape, incest, bestiality, necrophilia, lolita or teen-themed pornography, underage dating
+
+ Content promoting the creation or distribution of synthetic content that has been altered or generated to be sexually explicit or contain nudity as described above is not allowed
+
+> **Examples (non-exhaustive):**
 > 
-> *   _Examples_: Sale of shark fins or shark cartilage supplements, elephant ivory, tiger skins, rhino horn, dolphin oil, and elkhorn coral, or products containing these ingredients
+> *   Sites or apps that claim to generate deepfake pornography or show instructions on how to create deepfake pornography
+> *   Content endorsing or comparing deepfake pornography services
 
-What you can do
----------------
+* * *
+
+### Child sexual abuse and exploitation
+
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of the Google’s Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources.  If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221?sjid=15200253725852158024-NC) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
+
+ Content promoting or facilitating child sexual abuse or exploitation, including child sexual abuse material, content that condones or glorifies behaviour which endangers children, and content that otherwise sexualizes minors (anyone under 18) is not allowed
+
+> **Examples (non-exhaustive):**
+> 
+> *   Child Sexual Abuse Material (CSAM)
+> *   Offering, advertising, or soliciting CSAM
+> *   Instructions on how to create CSAM or how to abuse, groom or sexually extort a child
+> *   Content that sexualizes minors, or content that promotes, encourages or glorifies child sexual abuse and exploitation
+> *   Child grooming
+> *   Sextortion
+> *   Trafficking of a child
+> 
+> All content, whether real, fictional, simulated, cartoon, AI-generated, or photoshopped is prohibited, including all content formats including audio, text and visual media such as imagery and videos.
+
+* * *
+
+### Shocking content
+
+​​ Content containing profane terms or misspellings of profane terms or offensive gestures in book, movie, or registered media titles are allowed
+
+> **Examples (non-exhaustive):** 
+> 
+> *   Shopping listings for the book _“The Subtle Art of Not Giving a F\*_ck” by Mark Manson
+> *   Shopping listings for the book “_On Bullshit”_ by Harry G. Frankfurt
+
+ Content containing violent language, gruesome or disgusting imagery, or graphic images or accounts of physical trauma are not allowed
+
+> **Examples (non-exhaustive):** Crime scene or accident photos, execution videos
+
+ Content containing gratuitous portrayals of bodily fluids or waste.
+
+> **Examples (non-exhaustive):** Blood, guts, gore, sexual fluids, human or animal waste
+
+ Content that are likely to shock or scare
+
+> **Examples (non-exhaustive):** content that suggest you may be in danger, be infected with a disease, or be the victim of a conspiracy
+
+ Content containing slurs
+
+> **Examples (non-exhaustive):** slurs relating to race or sexuality
+
+ Content containing obscene or profane language is restricted to users who have activated their [SafeSearch](https://support.google.com/websearch/answer/510) filter:
+
+> **Examples (non-exhaustive):** 
+> 
+> *   Swear or curse words variations 
+> *   Misspellings of profane languages
+
+* * *
+
+### Sensitive events
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+A "sensitive event" is an unforeseen event or development that creates significant risk to Google's ability to provide high quality, relevant information and ground truth, and reduce insensitive or exploitative content in prominent and monetized features. During a Sensitive Event, Google may take a variety of actions to address these risks.
+
+Examples of Sensitive Events include events with significant social, cultural, or political impact, such as civil emergencies, natural disasters, public health emergencies, terrorism and related activities, conflict, or mass acts of violence.
+
+> **Examples of what Google prohibits (non-exhaustive):**
+> 
+> *   Products that exploit, dismiss, or condone the Sensitive Event, including price gouging or artificially inflating prices that prohibit or restrict access to vital supplies, sale of products which may be insufficient for the demand during a sensitive event
+> *   Using keywords related to a sensitive event to attempt to drive additional traffic
+> *   Claims that victims of a sensitive event were responsible for their own tragedy or similar instances of victim blaming
+> *   Claims that victims of a sensitive event are not deserving of remedy or support
+> *   Claims that victims from certain countries were responsible or deserving of a global public health crisis
+
+* * *
+
+### Animal cruelty
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+ Content that promotes cruelty or gratuitous violence towards animals is not allowed
+
+> **Examples (non-exhaustive)**: Promoting animal cruelty for entertainment purposes, such as cock or dog fighting
+
+ Content that may be interpreted as trading in, or selling products derived from, threatened or extinct species is not allowed
+
+> **Examples (non-exhaustive):** Sale of shark fins or shark cartilage supplements, elephant ivory, tiger skins, rhino horn, dolphin oil, and elkhorn coral, or products containing these ingredients.
+
+* * *
+
+### Hacked political materials
+
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
+
+ Ads or listings that directly facilitate or advertise access to hacked material related to political entities within scope of the [Election Ads policy](https://support.google.com/merchants/answer/6150172?sjid=9231949414759157853-NC) is not allowed. This applies to all protected material obtained through the unauthorized intrusion or access of a computer, computer network, or personal electronic device, even if it’s distributed by a third party.
+
+> **Examples (non-exhaustive):**
+> 
+> *   Examples of advertising access to hacked content:
+>     *   “See all of the leaked emails right now!”
+>     *   “The President’s text messages were hacked! Access them now!”
+> *   Examples of linking to hacked content:
+>     *   “View our database of hacked documents from the President's campaign.”
+>     *   “Foreign agents hacked into his computer, take a look at the real documents.”
+
+Discussion of or commentary on hacked political materials is allowed if the listing or landing page does not provide or facilitate direct access to those materials.
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -2736,27 +3147,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2770,11 +3180,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2792,7 +3201,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2806,11 +3215,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2824,55 +3232,83 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
-
-If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. Learn more about [how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Products that enable dishonest behavior
 =======================================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Google values honesty and fairness, and it doesn’t allow listing products that are designed to enable dishonest behavior. Below are some examples of what to avoid in your listings.
 
-Our policy
-----------
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
 
-Google values honesty and fairness, so we don’t allow the listing of products that are designed to enable dishonest behavior.
+#### On this page
 
-Examples of what's not allowed
-------------------------------
+*   [Enabling honest behavior](#policies)
+*   [Best practices](#bestpractices)
+*   [Options to fix](#options)
 
-Products that enable dishonest behavior
+* * *
 
-> Products that help customers to mislead others
+### Enabling honest behavior
+
+Products designed for parents to track or monitor their underage children are allowed.
+
+Products that help users mislead others are not allowed
+
+> **Examples (non-exhaustive)**:
 > 
-> *   _Examples_: Fake or false documents such as passports or diplomas; aids to pass drug tests; custom or pre-written essays; invalid click or "ad spam" products
+> *   Creation of fake or false documents like passports or diplomas
+> *   Selling numbers like credit privacy numbers that mimic the appearance of national identification numbers
+> *   Aids to pass drug tests
+> *   Products that enable academic dishonesty, like custom or pre-written essays
+> *   Selling falsified user activity in the form of invalid clicks, reviews, or social media endorsements
+> *   VPNs marketed to circumvent geo-restrictions
 
-> Products that enable a user to gain unauthorized access (or make unauthorized changes) to systems, devices, or property
+Products that enable a user to gain unauthorized access or make unauthorized changes to systems, devices, or property
+
+> **Examples (non-exhaustive):**
 > 
-> *   _Examples_: Hacking devices; radar jammers; devices to change traffic signals; phone or wiretapping products
+> *   Hacking devices, including game enhancements and cheat softwares
+> *   Radar jammers
+> *   Devices that change traffic signals
+> *   Phone or wire-tapping products
 
-> Products that enable a user to track or monitor another person or their activities without their authorization
-> 
-> *   _Examples_: Spyware and technology used for intimate partner surveillance including but not limited to spyware/malware that enables a user to monitor texts, phone calls, or browsing history; GPS trackers specifically marketed to spy or track someone without their consent; and promotion of surveillance equipment (for example: cameras, audio recorders, dash cams, and nanny cams) marketed with the express purpose of spying
+Products that enable a user to track or monitor another person or their activities without their authorization
 
-**Note:** This does not include products designed for parents to track or monitor their underage children.
+**Examples (non-exhaustive):**
 
-What you can do
----------------
+> *   Spyware and technology used for intimate partner surveillance like spyware or malware that enable a user to monitor texts, phone calls, or browsing history
+> *   GPS trackers specifically marketed to spy on or to track someone without their consent
+> *   Promotion of surveillance equipment like cameras, audio recorders, dash cams, nanny cams marketed specifically for spying
+
+* * *
+
+###  Best practices
+
+This non-exhaustive list of best practices outlines what you should avoid in your listing text and creatives to help avoid issues related to this policy.
+
+*   **Don't use imagery that implies your product can be used for dishonest purposes.** For example, an image of a student looking over their shoulder during an exam while using your product would not be allowed.
+*   **Don't use language that suggests your product can be used to cheat or deceive.** For example, avoid phrases like “fool the system” or “get away with anything”.
+
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -2882,27 +3318,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2916,11 +3351,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2938,7 +3372,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2952,11 +3386,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -2970,118 +3403,157 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Dangerous products
 ==================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+Google prioritizes safety both online and offline, so you can’t list products or services that cause damage, harm, or injury in your listings or destinations.  
+  
+Below are some examples of products and services that are considered to be dangerous and are restricted by the Dangerous products policy.
 
-Our policy
-----------
+Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account. [Learn more about Merchant Center account suspensions](https://support.google.com/merchants/answer/12153802)
 
-Google wants to help keep people safe both online and offline, so we don’t allow the listing of some products that cause damage, harm, or injury.
+* * *
 
-Examples of what's allowed in some circumstances
-------------------------------------------------
+#### On this page
 
-Guns, gun parts, & related products
+*   [Explosives](#explosives)
+*   [Guns, gun parts, and related products](#guns)
+*   [Other weapons](#other)
+*   [Recreational drugs](#rec)
+*   [Sodium nitrite](#sodium)
+*   [Tobacco](#tobacco)
+*   [Consumer advisories](#consumer)
+*   [Options to fix](#options)
 
->   Google allows the listing of gun parts and associated items that increase the safety of a gun
-> 
-> *   _Examples:_ Gun locks, trigger locks, safety pins, chamber block
+* * *
 
-Examples of what's not allowed
-------------------------------
+[Explosives](#)
+---------------
 
-Guns, gun parts, & related products
+ Ads or listings for products that are designed to explode and could cause damage to nearby people or property are not allowed
 
-> Functional devices that appear to discharge a projectile at high velocity, whether for sport, self-defense, or combat. Note that we err on the side of caution and apply this policy to sporting or recreational guns that can cause serious harm if misused, or that appear to be real guns
-> 
-> *   _Examples_: Handguns, rifles, shotguns, hunting guns, functioning antique guns, airsoft guns, paintball guns, bb guns, 3D printed guns
+> **Examples (non-exhaustive):** Nail bombs, chemical bombs, any fireworks that explode, firecrackers, grenades
 
-> Any part or component, whether finished or unfinished, that is essential to, or enhances the functionality of a gun
-> 
-> *   _Examples_: Ammunition, ammunition clips, silencers, ammunition belts, stocks, conversion kits, gun-grips, scopes and sights, tripods and bipods 
+ Ads or listings for instructional content about the assembly, enhancement, or acquisition of explosive items are not allowed
 
->  Instructional content about the assembly, enhancement or acquisition of any of functional devices that appear to discharge a projectile at high velocity, including parts or components thereof
-> 
-> *   _Examples:_ Gun-making instructions, guides, software or equipment for 3D printing of guns or gun parts
+> **Examples (non-exhaustive):** Bomb-making instructions, guides, software or equipment for 3D printing of parts of grenades.
 
-Explosives
+* * *
 
-> Products that are designed to explode and could cause damage to nearby people or property
-> 
-> *   _Examples_: Nail bomb, chemical bomb, any fireworks that explode, firecrackers, grenades
+Guns, gun parts, and related products
+-------------------------------------
 
->  Listing of instructional content about the assembly, enhancement or acquisition of explosive items
-> 
-> *   _Examples_: Bomb-making instructions, guides, software or equipment for 3D printing of parts of grenades 
+Ads or listings for gun parts and associated items that increase the safety of a gun are allowed
 
-Dangerous knives
+> **Examples (non-exhaustive)**: Gun locks, trigger locks, safety pins, chamber block
 
-> Knives that are designed or promoted as products that can be used to injure an opponent in sport, self-defense, or combat. Any knife design that provides a confrontational advantage (including disguised appearance or assisted-opening mechanism)
-> 
-> *   _Examples_: Switchblades, fighting knives, sword-canes, balisongs, military knives, push daggers, throwing axes
+ Ads or listings for functional devices that appear to discharge a projectile at high velocity, whether for sport, self-defense, or combat. Google may err on the side of caution and apply this policy to sporting or recreational guns that can cause serious harm if misused, or that appear to be real guns are not allowed
+
+> **Examples (non-exhaustive):** Handguns, rifles, shotguns, hunting guns, functioning antique guns, airsoft guns, paintball guns and activity as a service, bb guns, 3D-printed guns
+
+ Ads or listings for any part or component, whether finished or unfinished, that's essential to or enhances the functionality of a gun are note allowed
+
+> **Examples (non-exhaustive):** Ammunition, ammunition clips, silencers, tripods and bipods for guns, stocks, conversion kits, gun-grips, scopes and sights, bump stocks
+
+ Ads or listings for instructions on the assembly or enhancement of the functionality of firearms are not allowed
+
+* * *
 
 Other weapons
+-------------
 
-> Any other product designed to injure an opponent in sport, self-defense or combat
+Ads or listings for knives that are designed or promoted in modern-day usage as products that can be used to injure an opponent in sport, self-defense, or combat are not allowed
+
+ Ads or listings for any knife design that provides a confrontational advantage, including disguised appearance or assisted-opening mechanism are not allowed
+
+> **Examples (non-exhaustive):** Switchblades, fighting knives, sword-canes, balisongs, military knives, push daggers, throwing axes
+
+ Ads or listings for any other product that's designed to in modern-day usage injure an opponent in sport, self-defense, or combat are not allowed
+
+> **Examples (non-exhaustive):** Throwing stars, brass knuckles, tasers, pepper spray
+
+ Ads or listings for instructional content about the assembly, enhancement, or acquisition of any product covered under the Other weapons policy are not allowed
+
+> **Examples (non-exhaustive):** Guides, software, or equipment for 3D printing of push daggers, brass knuckles, throwing stars
+
+* * *
+
+Recreational drugs
+------------------
+
+Listings for substances that alter mental state for the purpose of recreation or otherwise induce "highs" are not allowed
+
+> **Examples (non-exhaustive):** 
 > 
-> *   _Examples_: Throwing stars, brass knuckles, tasers, pepper spray
+> *   Cocaine, crystal meth, heroin and other illegal opioids, marijuana, cocaine substitutes, mephedrone
+>     
+> *   Listings for products that are not recreational drugs, but are marketed for the purpose of recreationally altering mental state
+>     
 
->  Listing of instructional content about the assembly, enhancement or acquisition of any of these products:
-> 
-> *   _Examples:_ Guides, software or equipment for 3D printing of push daggers, brass knuckles, throwing stars
+Ads or listings for products or services marketed as facilitating recreational drug use are not allowed
 
-Recreational drugs & drug-related equipment
+Ads or listings for instructional content about producing, purchasing, or using recreational drugs are not allowed.
 
->  Listing of illegal or recreational drugs, or substances that otherwise induce "highs"
-> 
-> *   _Examples_: Cocaine, crystal meth, heroin, marijuana, cocaine substitutes, mephedrone, "legal highs"
+  Ads or listings for pill presses, encapsulating machines and related components used for compacting or filling powders, granules or other materials into tablets or capsules are not allowed
 
-> Products marketed as facilitating recreational drug use
-> 
-> *   _Examples_: Pipes, bongs, cannabis coffee shops
+> **Examples (non-exhaustive):** pill presses, tableting machines, dies, molds, stamps, punches used for creation or imprinting of pills and tablets.
 
->  Listing of instructional content about producing, purchasing, or using recreational drugs
-> 
-> *   _Examples_: Instructional resources on drug use
+* * *
 
-Tobacco products & related equipment
+Sodium nitrite
+--------------
 
-> Tobacco or any products containing tobacco
-> 
-> *   _Examples_: Cigarettes, cigars, snus, chewing tobacco, rolling tobacco, pipe tobacco
+Products with a concentration of more than 10% sodium nitrite are not allowed
 
-> Products that form a component part of a tobacco product, and products that directly facilitate or promote tobacco consumption
-> 
-> *   _Examples_: Rolling papers, pipes, tobacco filters, hookahs
+> **Examples (non-exhaustive):** sodium nitrite for industrial use, chemical laboratory reagents, heat transfer salts, pesticides, lubricants
 
-> Products designed to simulate tobacco smoking
-> 
-> *   _Examples_: Herbal cigarettes, electronic cigarettes or e-cigarettes, e-juice
+* * *
 
-Sodium Nitrite
+Tobacco
+-------
 
-> Products with a concentration of more than 10% sodium nitrite
+Ads or listings for tobacco or any products containing tobacco are not allowed.
 
-What you can do
----------------
+> **Examples (non-exhaustive):** cigarettes, cigars, snus, chewing tobacco, rolling tobacco, pipe tobacco
+
+Ads or listings for products that form a component part of a tobacco product, as well as products and services that directly facilitate or promote tobacco consumption are not allowed.
+
+> **Examples (non-exhaustive):** rolling papers, pipes, tobacco filters, hookahs
+
+Ads for products designed to simulate tobacco smoking are not allowed.
+
+> **Examples (non-exhaustive):** herbal cigarettes, electronic cigarettes, e-cigarettes, e-juice
+
+* * *
+
+Consumer advisories
+-------------------
+
+Ads or listings for products that carry a proven and unresolved risk of death or grievous bodily harm and that have been the subject of a consumer advisory or product recall are not allowed.
+
+> **Examples (non-exhaustive):** crib bumpers, inclined sleepers linked to infant deaths
+
+* * *
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -3091,27 +3563,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3125,11 +3596,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3147,7 +3617,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3161,11 +3631,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3179,51 +3648,61 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
- 
-
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
 Counterfeit products
 ====================
 
-This policy applies to free listings. Learn more about [Shopping ads policies](https://support.google.com/merchants/answer/6149970).
+ Google prohibits the sale or listing of counterfeit goods. Counterfeit goods are products that contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
 
-Our policy
-----------
+This policy applies to the content of your listing and your website or app.
 
-Google prohibits the sale or listing of counterfeit products. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark or logo of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
+#### On this page
 
-This policy applies to the content of your free listings and your website.
+*   [Counterfeit products](#counterfeit)
+*   [Best practices](#best)
+*   [Options to fix](#options)
 
-If you're concerned about free listings or retailers facilitating the sale of counterfeit goods on Google, file a [complaint](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
+Violations of this policy are taken very seriously and are considered egregious. An egregious violation of Google’s Shopping policy is a violation so serious that it is unlawful or poses significant harm to our users. In determining whether a merchant or destination is violating this policy, Google may review information from multiple sources including your listing, website, accounts, and third-party sources.  If violations of this policy are found, your Google Merchant Center accounts will be suspended upon detection and without prior warning, and you will not be allowed to list Shopping content with us again. If you believe there's been an error, and that you haven’t violated our policy, [submit an appeal](https://support.google.com/merchants/answer/13585221?sjid=15200253725852158024-NC) and explain why. Accounts are only reinstated in compelling circumstances, and when there is good reason so it's important that you take the time to be thorough, accurate, and honest.
 
-Examples of what's not allowed
-------------------------------
+ 
 
-Counterfeit products
+* * *
 
-> Products described as knock off, replica, imitation, clone, faux, fake, mirror image, or similar terms when referring to a brand name in an attempt to pass themselves off as genuine products of the brand owner
+### Counterfeit products
 
-> Non-genuine products that mimic brand features in an attempt to pass themselves off as the genuine product
-> 
-> *   _Examples_: non-authentic products that have brand name labels or logos
+  Products described using terms like knock off, replica, imitation, clone, faux, fake, mirror image, or similar terms when referring to a brand name in an attempt to pass themselves off as genuine products of the brand owner
 
-What you can do
----------------
+ Non-genuine products that mimic brand features in an attempt to pass themselves off as a genuine product are not allowed
+
+> **Examples (non-exhaustive):**  Non-authentic products that have brand name labels or logos
+
+* * *
+
+Best practices
+--------------
+
+*   **Be clear about your partnerships:** If you're an official or authorized re-seller for another brand or multiple other brands, make your relationship clear on your own website and listings. If you reference another brand but you're not an official or authorized partner, consider a disclaimer on your website and in your listings.
+*   **Use your own branding:** Use your own name, logo, images, and brand colors on your website and in your listings.
+*   **Avoid using another brand’s identity in a misleading way:** Avoid using another brand’s name, logo, images, and colors in ways that can trick people. Don’t misspell another brand’s name in your ad text, like “G00gle”. When referencing another brand.
+
+Options to fix
+--------------
 
 Here's what you can do if your product is disapproved or if your Merchant Center account is impacted:
 
 Product disapproval
+-------------------
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
-2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
-    *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
-    *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
-3.  **Request a review or appeal.** After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
+    *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
+    *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
+3.  Request a review or appeal. After fixing the issue or if you believe the disapproval is incorrect, you can [request a review or appeal the decision](https://support.google.com/merchants/answer/13585221).
     *   **Individual product review (if you fixed the issue)**
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
@@ -3233,27 +3712,26 @@ Products that don't comply with our policies may be disapproved and won't be eli
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the **[Needs attention](https://merchants.google.com/mc/products/diagnostics?)**.
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
                     *   Review any informational prompts that appear.
                     *   Select “Request review” to submit the appeal.
-            *   **Option 2** - Product details page
-                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-        *   Third-party platforms
-            *   If you use a third-party platform to list your products, consult that platform for available review options.
-            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                *   **Option 2** - Product details page
+                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+                *   Third-party platforms
+                    *   If you use a third-party platform to list your products, consult that platform for available review options.
+                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3267,11 +3745,10 @@ For most violations, we'll send you a warning email detailing the policy violati
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3289,7 +3766,7 @@ Account issue that limits product visibility
 
 Your account has an issue and is operating with reserved functionality, therefore your products have limited visibility. Check your email for a notice with details about the issue and steps to resolve it. Common issues include policy violations or missing account information.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/6149970) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3303,11 +3780,10 @@ Your account has an issue and is operating with reserved functionality, therefor
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
         *   ⚠️ Warning: Before submitting a bulk appeal, **you must review your offers** and **remove any policy-violating items from your data source**. Submitting a bulk appeal for a large set of offers risks immediate failure if violations are found. This may limit your ability to submit subsequent appeals for those products.
-        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/6149970) from your data source before attempting to appeal in bulk.
+        *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   In your [Merchant Center account](https://merchants.google.com/mc/overview?), select **Products & store** in the left navigation menu.
-                *   Select **Products**, then select the [**Needs attention**](https://merchants.google.com/mc/products/diagnostics?).
+                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
                     *   Navigate to the specific issue.
                     *   Select “View fix”
                     *   Select the option **to disagree with the issue for all products**.
@@ -3321,9 +3797,7 @@ Your account has an issue and is operating with reserved functionality, therefor
 
 **Note**: Account reviews typically take 7 business days, but may take longer for complex reviews. If you remove violating products, the warning will be removed. If a review or appeal is successful, the issue will disappear from Merchant Center. In the case of account suspension, we will approve the account and allow products to be displayed again.
 
- 
-
-To ensure a safe and positive experience for customers, Google requires that retailers and market participants comply with all applicable laws and regulations in addition to [our policies](https://support.google.com/merchants/answer/12073010). It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as for any other places your listings are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from listing content with us.
+To ensure a safe and positive experience for customers, Google requires that retailers comply with all applicable laws and regulations in addition to our policies. It's important that you familiarize yourself with and keep up to date on these requirements for the place where your business operates, as well as any other places your ads are shown. When we find content that violates these requirements, we may block it from appearing. In cases of repeated or egregious violations, we may ban you from advertising content with us.
 
 - - -
 
