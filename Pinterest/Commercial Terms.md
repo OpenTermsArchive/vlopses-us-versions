@@ -102,21 +102,6 @@ Table of Contents
 
 - - -
 
-Merchant guidelines enforcement
-===============================
-
-We believe that when people find great products from trusted merchants, it can empower them to do things they care about. When we approve a merchant, they gain access to Pinterest’s merchant products, such as Catalogs and Product Pins, which are subject to our Merchant guidelines.
-
-When we become aware of a violation of our Merchant guidelines, we’ll take action:
-
-*   **Deactivation**: When we deactivate a Pin, that Pin is no longer available to anyone on the platform. Deactivation can also be referred to as “removal;”
-*   **Limiting distribution**: When we limit the distribution of a Pin, that Pin will continue to be accessible on Pinterest, but it won’t be featured in recommendation or discovery surfaces, such as search results or the home feed; and/or
-*   **Merchant rejection**: If a merchant is rejected at any time, they are denied access to Pinterest’s merchant products.
-
-You can read our full Merchant guidelines [here](https://policy.pinterest.com/merchant-guidelines).
-
-- - -
-
 Advertising guidelines
 
 
@@ -2056,6 +2041,19 @@ Table of Contents
 *   [Keep in mind...](https://policy.pinterest.com/en/advertising-guidelines#section-keep-in-mind)
 
 - - -
+
+Merchant guidelines enforcement
+===============================
+
+We believe that when people find great products from trusted merchants, it can empower them to do things they care about. When we approve a merchant, they gain access to Pinterest’s merchant products, such as Catalogs and Product Pins, which are subject to our Merchant guidelines.
+
+When we become aware of a violation of our Merchant guidelines, we’ll take action:
+
+*   **Deactivation**: When we deactivate a Pin, that Pin is no longer available to anyone on the platform. Deactivation can also be referred to as “removal;”
+*   **Limiting distribution**: When we limit the distribution of a Pin, that Pin will continue to be accessible on Pinterest, but it won’t be featured in recommendation or discovery surfaces, such as search results or the home feed; and/or
+*   **Merchant rejection**: If a merchant is rejected at any time, they are denied access to Pinterest’s merchant products.
+
+You can read our full Merchant guidelines [here](https://policy.pinterest.com/merchant-guidelines).
 
 Advertising guidelines enforcement
 ==================================
