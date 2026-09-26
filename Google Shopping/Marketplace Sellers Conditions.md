@@ -1,10 +1,10 @@
 Google's Shopping ads and listings policies
 ===========================================
 
-Welcome to Google's Shopping ads and policy center
---------------------------------------------------
+Welcome to the Shopping ads and listings policy center
+------------------------------------------------------
 
-### Overview Shopping ads and listings policies and how we enforce them
+### Overview of Shopping ads and listings policies and how we enforce them
 
 We strive to support a healthy digital shopping ecosystem – one that’s trustworthy and transparent, and works for customers, merchants, advertisers, and publishers. The purpose of this policy center is to help you build Shopping ads and listings and local inventory ad campaigns.
 
@@ -231,10 +231,10 @@ If you’re working with a third-party platform, some of these instructions may 
 Google's Shopping ads and listings policies
 ===========================================
 
-Welcome to Google's Shopping ads and policy center
---------------------------------------------------
+Welcome to the Shopping ads and listings policy center
+------------------------------------------------------
 
-### Overview Shopping ads and listings policies and how we enforce them
+### Overview of Shopping ads and listings policies and how we enforce them
 
 We strive to support a healthy digital shopping ecosystem – one that’s trustworthy and transparent, and works for customers, merchants, advertisers, and publishers. The purpose of this policy center is to help you build Shopping ads and listings and local inventory ad campaigns.
 
@@ -475,7 +475,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -508,7 +508,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1395,7 +1395,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1428,7 +1428,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1544,7 +1544,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1577,7 +1577,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1688,7 +1688,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1721,7 +1721,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1845,7 +1845,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -1878,7 +1878,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2025,7 +2025,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2058,7 +2058,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2297,7 +2297,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2330,7 +2330,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2565,7 +2565,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2598,7 +2598,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2837,7 +2837,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -2870,7 +2870,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3133,7 +3133,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3166,7 +3166,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3304,7 +3304,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3337,7 +3337,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3549,7 +3549,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3582,7 +3582,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3698,7 +3698,7 @@ Product disapproval
 
 Products that don't comply with our policies may be disapproved and won't be eligible to serve.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow**.
 2.  **Update your website**. If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products**. You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center**. Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
@@ -3731,7 +3731,7 @@ Account disapproval
 
 For most violations, we'll send you a warning email detailing the policy violation and give you 7 or 28 calendar days to fix your issue. However, we may not issue a warning for egregious policy violations.
 
-1.  **Read our [Shopping ads policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
+1.  **Read our [Shopping ads and listings policies](https://support.google.com/merchants/answer/17250716) to learn what we don't allow.**
 2.  **Update your website.** If your ad or listing directs to violating content, update your website to meet all policy requirements.
     *   **Remove the violating products.** You must remove non-compliant offers from your product data source. You’ll receive an email with details about the violations.
     *   **Update your product data in Merchant Center.** Manually update your product data or wait for your automated upload schedule to run before requesting any reviews.
