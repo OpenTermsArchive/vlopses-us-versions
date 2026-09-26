@@ -399,15 +399,15 @@ How long does trademark protection last?
 
 Copy link
 
-How long do trademark rights last?
+Wat is handelsmerkbescherming?
 
-How do I lose trademark rights?
+Hoe lang duurt handelsmerkbescherming?
 
-How do I renew trademark rights?
+Hoe verlies ik handelsmerkrechten?
 
-What is USPTO trademark registration?
+Hoe verleng ik handelsmerkrechten?
 
-I have a different question
+Ik heb een andere vraag
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
 
@@ -1936,7 +1936,7 @@ Copy link
 
 What is copyright protection?
 
-What is public domain?
+What is the public domain?
 
 How long does copyright last?
 
