@@ -5070,7 +5070,9 @@ Restricted targeting in Personalized advertising
 
 [Fix disapproved Google Ads: A guide to Personalized advertising compliance](https://www.youtube.com/watch?v=WDpQ1AR9CHA)
 
-To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right corner of the video player, select "Captions," and then specify your language.
+To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the **Settings** icon at the top right corner of the video player, select **Captions**, and then specify your language.
+
+* * *
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
@@ -5324,7 +5326,9 @@ Restricted targeting in Personalized advertising
 
 [Fix disapproved Google Ads: A guide to Personalized advertising compliance](https://www.youtube.com/watch?v=WDpQ1AR9CHA)
 
-To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right corner of the video player, select "Captions," and then specify your language.
+To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the **Settings** icon at the top right corner of the video player, select **Captions**, and then specify your language.
+
+* * *
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
@@ -5519,7 +5523,9 @@ Google provides translated versions of the Advertising Policies Help Center, tho
 
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
-To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the Settings icon at the top right corner of the video player, select "Captions," and then specify your language.
+To view subtitles in your language, [turn on YouTube captions](https://support.google.com/youtube/answer/100078). Select the **Settings** icon at the top right corner of the video player, select **Captions**, and then specify your language.
+
+* * *
 
 We take legal requirements and the safety of users seriously. Advertiser actions that put our users, Google, or our partners at risk can lead to an account suspension from using Google Ads. This is important for us to maintain a healthy and sustainable digital advertising ecosystem with user protection at its core.
 
