@@ -162,6 +162,8 @@ Typically, Temu credits cannot be redeemed for cash and can only be used for pur
 
 For more information about Temu credits, please visit: About credit balance.
 
+IX. If we are unable to proceed with your refund to your original payment method because of an issue with your original payment account or a restriction from your payment provider, we will notify you by email. You may choose to receive your refund as Temu credits. For any questions or assistance, you can contact our customer service.
+
 6\. Refund timeline
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
