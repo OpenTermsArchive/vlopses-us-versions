@@ -399,15 +399,15 @@ How long does trademark protection last?
 
 Copy link
 
-Wat is handelsmerkbescherming?
+How long do trademark rights last?
 
-Hoe lang duurt handelsmerkbescherming?
+How do I lose trademark rights?
 
-Hoe verlies ik handelsmerkrechten?
+How do I renew trademark rights?
 
-Hoe verleng ik handelsmerkrechten?
+What is USPTO trademark registration?
 
-Ik heb een andere vraag
+I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
 
@@ -1231,11 +1231,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after I report?
+What happens after a trademark report?
 
-What is a trademark report?
+How do I respond to a trademark report?
 
-How do I respond to a message?
+What information is shared in a report?
 
 I have a different question
 
