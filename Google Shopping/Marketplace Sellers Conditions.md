@@ -10,13 +10,13 @@ We strive to support a healthy digital shopping ecosystem – one that’s trust
 
 These policies are designed to ensure a safe and positive experience for our users and abide by applicable laws. This means that our policies prohibit content that is harmful to users and the overall shopping ecosystem.
 
-Our Shopping ads and listings policies cover four broad areas:
+Our Shopping ads and listings policies cover 4 broad areas:
 
 |     |     |
 | --- | --- |
-|     | **[Prohibited content](#con):** Content you're not allowed to list on the Shopping ads Network |
+|     | **[Prohibited content](#con):** Content you're not allowed to list on the Shopping ads Network |
 |     | **[Prohibited practices](#pra):** Things you can't do if you want to list products with us |
-|     | **[Restricted content](#res):** Content you can list, but with limitations |
+|     | **[Restricted content](#res):** Content you can list, but with limitations |
 |     | **[Site requirements](#site):** Standards for your listings and website |
 
 Click through the policies below for policy definitions, examples, and troubleshooting steps.
@@ -62,7 +62,7 @@ Prohibited content
 > 
 > For this reason, Shopping ads and listings don't allow the listing of certain content where we don't offer an optimal user experience.
 > 
-> Note that because these limitations are specific to Shopping ads and listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to Shopping ads and listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
 * * *
 
@@ -80,9 +80,9 @@ Prohibited practices
 
 ### [Data collection and use](https://support.google.com/merchants/answer/17250717)
 
-> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our merchants should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our merchants shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
-> **Examples of user information that must be handled with care**_:_ Full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> **Examples of user information that must be handled with care**: Full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
 > **Examples of irresponsible data collection and use**: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
@@ -98,7 +98,7 @@ Prohibited practices
 > Google doesn't want users to feel misled by the content in Shopping listings, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
 > 
 > *   Listings that prompt users to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the user’s explicit consent
-> *   Listings that represent you or your products in a way that is not accurate, realistic, and truthful
+> *   Listings that represent you or your products in a way that isn't accurate, realistic, and truthful
 
 * * *
 
@@ -162,7 +162,7 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > 
 > Depending on the content you’re listing and the countries where your listings appear, you may need to apply for preauthorization with Google before advertising healthcare-related content.
 
-### [Political content](https://support.google.com/merchants/answer/17234185) (Shopping ads only)
+### [Political content](https://support.google.com/merchants/answer/17234185) (Shopping ads only)
 
 > When you serve Shopping ads containing political content, you must comply with the following requirements:
 > 
@@ -173,13 +173,13 @@ For that reason, we allow listings of the content below, but on a limited basis.
 
 ### [Trademarks](https://support.google.com/merchants/answer/17234186)
 
-> Shopping listings don’t restrict use of trademarks by merchants in the title or description of a  listing when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping listings](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch) form.
+> Shopping listings don’t restrict use of trademarks by merchants in the title or description of a listing when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping listings](https://reportcontent.google.com/forms/legal_trademarks/trademark_counterfeit_shopping?product=productsearch&sjid=16145988690420573854-NC&visit_id=639261819899828694-3263295487&rd=1?product=productsearch) form.
 
 ### [High fat, sugar, salt food and beverage](https://support.google.com/merchants/answer/17234187)
 
 > We support responsible advertising of food and beverages. High fat, sugar, salt (HFSS) food and beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage, or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
 > 
-> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their listings target, including local requirements that may differ from this HFSS Food & Beverage policy.
+> The information reflected in this policy isn't intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their listings target, including local requirements that may differ from this HFSS Food & Beverage policy.
 
 ### [Shopping ads protections for children and teens](https://support.google.com/merchants/answer/17233634) (Shopping ads only)
 
@@ -188,7 +188,7 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > *   Disabling Shopping ads personalization
 > *   Restricting sensitive Shopping ad content and categories
 > 
-> We require all our merchants to follow local legal requirements when using our products, including any regulations on advertising to users under age 18. Learn more about our Shopping ads protections for children and teens and relevant policies, where they apply, and what they mean for merchants.
+> We require all our merchants to follow local legal requirements when using our products, including any regulations on advertising to users under age 18. Learn more about our Shopping ads protections for children and teens and relevant policies, where they apply, and what they mean for merchants.
 
 ### [Legal requirements](https://support.google.com/merchants/answer/17233392)
 
@@ -207,11 +207,11 @@ We want to deliver ads and listings that are engaging for users without being an
 > 
 > **Examples of listings or sites that don't meet these editorial and professional requirements:**
 > 
-> *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> *   a display URL that doesn't accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
 > *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
 > *   sites that are under construction, parked domains, or are just not working
 > *   sites that have disabled the browser's back button
-> *   sites that are not viewable in commonly used browsers
+> *   sites that aren't viewable in commonly used browsers
 
 * * *
 
@@ -240,13 +240,13 @@ We strive to support a healthy digital shopping ecosystem – one that’s trust
 
 These policies are designed to ensure a safe and positive experience for our users and abide by applicable laws. This means that our policies prohibit content that is harmful to users and the overall shopping ecosystem.
 
-Our Shopping ads and listings policies cover four broad areas:
+Our Shopping ads and listings policies cover 4 broad areas:
 
 |     |     |
 | --- | --- |
-|     | **[Prohibited content](#con):** Content you're not allowed to list on the Shopping ads Network |
+|     | **[Prohibited content](#con):** Content you're not allowed to list on the Shopping ads Network |
 |     | **[Prohibited practices](#pra):** Things you can't do if you want to list products with us |
-|     | **[Restricted content](#res):** Content you can list, but with limitations |
+|     | **[Restricted content](#res):** Content you can list, but with limitations |
 |     | **[Site requirements](#site):** Standards for your listings and website |
 
 Click through the policies below for policy definitions, examples, and troubleshooting steps.
@@ -292,7 +292,7 @@ Prohibited content
 > 
 > For this reason, Shopping ads and listings don't allow the listing of certain content where we don't offer an optimal user experience.
 > 
-> Note that because these limitations are specific to Shopping ads and listings, they do not impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
+> Note that because these limitations are specific to Shopping ads and listings, they don't impact policies on other Google products or platforms, where functionality differs or additional support mechanisms are in place.
 
 * * *
 
@@ -310,9 +310,9 @@ Prohibited practices
 
 ### [Data collection and use](https://support.google.com/merchants/answer/17250717)
 
-> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our merchants should not misuse this information, nor collect it for unclear purposes or without appropriate security measures.
+> Google wants users to trust that information about them will be respected and handled with appropriate care. As such, our merchants shouldn't misuse this information, nor collect it for unclear purposes or without appropriate security measures.
 > 
-> **Examples of user information that must be handled with care**_:_ Full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
+> **Examples of user information that must be handled with care**: Full name; email address; mailing address; phone number; national identity, pension, social security, tax ID, health care, or driver's license number; birth date or mother's maiden name in addition to any of the above information; financial status; political affiliation; sexual orientation; race or ethnicity; religion.
 > 
 > **Examples of irresponsible data collection and use**: Obtaining the following data over non-secure SSL (https://) server connections:
 > 
@@ -328,7 +328,7 @@ Prohibited practices
 > Google doesn't want users to feel misled by the content in Shopping listings, and that means being upfront, honest, and providing them with the information that they need to make informed decisions. For this reason we don’t allow the following:
 > 
 > *   Listings that prompt users to initiate a purchase, download, or other commitment without first providing all relevant information and obtaining the user’s explicit consent
-> *   Listings that represent you or your products in a way that is not accurate, realistic, and truthful
+> *   Listings that represent you or your products in a way that isn't accurate, realistic, and truthful
 
 * * *
 
@@ -392,7 +392,7 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > 
 > Depending on the content you’re listing and the countries where your listings appear, you may need to apply for preauthorization with Google before advertising healthcare-related content.
 
-### [Political content](https://support.google.com/merchants/answer/17234185) (Shopping ads only)
+### [Political content](https://support.google.com/merchants/answer/17234185) (Shopping ads only)
 
 > When you serve Shopping ads containing political content, you must comply with the following requirements:
 > 
@@ -403,13 +403,13 @@ For that reason, we allow listings of the content below, but on a limited basis.
 
 ### [Trademarks](https://support.google.com/merchants/answer/17234186)
 
-> Shopping listings don’t restrict use of trademarks by merchants in the title or description of a  listing when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping listings](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch) form.
+> Shopping listings don’t restrict use of trademarks by merchants in the title or description of a listing when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, use the [Report a legal issue in Shopping listings](https://reportcontent.google.com/forms/legal_trademarks/trademark_counterfeit_shopping?product=productsearch&sjid=16145988690420573854-NC&visit_id=639261819899828694-3263295487&rd=1?product=productsearch) form.
 
 ### [High fat, sugar, salt food and beverage](https://support.google.com/merchants/answer/17234187)
 
 > We support responsible advertising of food and beverages. High fat, sugar, salt (HFSS) food and beverage (F&B) Shopping ads are allowed if they comply with our policies. We consider ads to be promoting the sale of HFSS products when one or more HFSS food item, beverage, or meal is promoted in the ad (text, imagery, audio and/or video) or destination site. Specifically, Shopping ads that contain HFSS foods and beverages are now prohibited from targeting minors.
 > 
-> The information reflected in this policy is not intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their listings target, including local requirements that may differ from this HFSS Food & Beverage policy.
+> The information reflected in this policy isn't intended to be legal advice and we expect all merchants and partners to comply with the local laws for any region their listings target, including local requirements that may differ from this HFSS Food & Beverage policy.
 
 ### [Shopping ads protections for children and teens](https://support.google.com/merchants/answer/17233634) (Shopping ads only)
 
@@ -418,7 +418,7 @@ For that reason, we allow listings of the content below, but on a limited basis.
 > *   Disabling Shopping ads personalization
 > *   Restricting sensitive Shopping ad content and categories
 > 
-> We require all our merchants to follow local legal requirements when using our products, including any regulations on advertising to users under age 18. Learn more about our Shopping ads protections for children and teens and relevant policies, where they apply, and what they mean for merchants.
+> We require all our merchants to follow local legal requirements when using our products, including any regulations on advertising to users under age 18. Learn more about our Shopping ads protections for children and teens and relevant policies, where they apply, and what they mean for merchants.
 
 ### [Legal requirements](https://support.google.com/merchants/answer/17233392)
 
@@ -437,11 +437,11 @@ We want to deliver ads and listings that are engaging for users without being an
 > 
 > **Examples of listings or sites that don't meet these editorial and professional requirements:**
 > 
-> *   a display URL that does not accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
+> *   a display URL that doesn't accurately reflect the URL of the landing page, such as "google.com" taking users to "gmail.com"
 > *   gimmicky use of words, numbers, letters, punctuation, or symbols such as FREE, f-r-e-e, and F₹€€!!
 > *   sites that are under construction, parked domains, or are just not working
 > *   sites that have disabled the browser's back button
-> *   sites that are not viewable in commonly used browsers
+> *   sites that aren't viewable in commonly used browsers
 
 * * *
 
