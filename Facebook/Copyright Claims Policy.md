@@ -405,8 +405,6 @@ How do I lose trademark rights?
 
 How do I renew trademark rights?
 
-What is USPTO trademark registration?
-
 I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
@@ -554,9 +552,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Related Articles
 
@@ -572,11 +570,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[Trademark
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1383,9 +1381,7 @@ Copy link
 
 How do I report a third-party app?
 
-What is a third-party app?
-
-How do I contact an app developer?
+How do I contact a Facebook app developer?
 
 What are Facebook Terms of Service?
 
@@ -1449,7 +1445,7 @@ How do I withdraw an IP report?
 
 How do I cancel a copyright report?
 
-How do I retract a trademark report?
+What happens after I withdraw a report?
 
 I have a different question
 
@@ -1643,9 +1639,9 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright?
-
 How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
 
 I have a different question
 
@@ -1998,13 +1994,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
-
 How do I avoid Facebook copyright?
 
-What is Facebook fair use?
+What is Facebook copyright law?
 
-How do I get content permission?
+What is Facebook fair use?
 
 I have a different question
 
