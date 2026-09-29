@@ -1,1010 +1,371 @@
+1.  [Help Center](https://help.x.com/en)/
+2.  [Rules and Policies](https://help.x.com/en/rules-and-policies)/
+3.  [Platform Use Guidelines](https://help.x.com/en/rules-and-policies#platform-use-guidelines)/
+4.  Additional information about data processing
+
 Additional information about data processing
 ============================================
 
-**This supplements the [X Privacy Policy](https://twitter.com/privacy) to provide additional information about the types of data we collect, where we get it, and how we process and share it.** 
+This article explains the legal bases under which >x< collects and processes your personal data. It provides additional details about data collection sources and processing practices to supplement our Privacy Policy.
 
-### Data processing summary 
+Table of contents
 
-The table below contains a list of the general purposes for which we process personal data. For data from the European Union, EFTA States, and the United Kingdom, the third column in the table below contains the primary legal bases we rely on for such processing. 
+*   [Data processing summary](#data-processing-summary)
+*   [Legitimate interests analysis summary – inferences about your account](#legitimate-interests-analysis-summary-inferences-about-your-account)
+*   [Legitimate interests analysis summary – Measuring the effectiveness of advertising we show you](#legitimate-interests-analysis-summary-measuring-the-effectiveness-of-advertising-we-show-you)
+*   [Legitimate interests analysis summary – enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign](#legitimate-interests-analysis-summary-enabling-advertisers-to-exclude-an-advertiser-submitted-audience-from-being-eligible-for-an-advertising-campaign)
+*   [Legitimate interests analysis summary – processing public post data to train machine learning and artificial intelligence models, including generative models](#legitimate-interests-analysis-summary-processing-public-post-data-to-train-machine-learning-and-artificial-intelligence-models-including-generative-models)
+*   [Sources of personal data we process](#sources-of-personal-data-we-process)
+*   [Categories of third parties with whom we may share personal data](#categories-of-third-parties-with-whom-we-may-share-personal-data)
+
+This supplements the [\>x< Privacy Policy](https://x.com/privacy) to provide additional information about the types of data we collect, where we get it, and how we process and share it.
+
+Data processing summary
+-----------------------
+
+The table below contains a list of the general purposes for which we process personal data. For data from the European Union, EFTA States, and the United Kingdom, the third column in the table below contains the primary legal bases we rely on for such processing.
 
 Some processing activities may be accounted for in multiple rows if the processing or data involved is sufficiently distinct. For example, advertising revenues allow us to support and improve our services. To provide this advertising we process some of your data, and for data from the European Union, EFTA States, and the United Kingdom we rely on legitimate interests as the legal basis for doing so. We also offer you the ability to further personalize the ads you see based on data we receive about you from our advertising partners. If you are located in the European Union, an EFTA State, or the United Kingdom, we rely on consent as our legal basis for processing your data to provide these ads.
 
-Processing purpose
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Operating our services, including:Account creationAccount controlsContent creation, including posts, reposts, likes, and Direct MessagesContent display, recommendations, and ranking, such as in your timeline, trends, conversations, or searchDeveloper products, including our APIs and embedsService-related notifications and customer supportAnalyticsAdvertiser products | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described below, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Contractual necessity |
+| Safety and security features, including authentication, anti-spam, fraud protection, and quality and abuse prevention | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described below, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Contractual necessity |
+| Inferences about your account - such as interests, age, and gender - which we use to provide features including:Account suggestionsAdvertisingRecommendationsTimeline rankingYou can always review and modify these inferences by visiting Your \>x< data. | Information you share with us, including:Basic account informationPublic informationContact informationNon-public communications (survey data and accounts you correspond with by Direct Message)Account controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Advertising we show you on \>x< based on data you provide or we collect on XAdvertising we show you on other websites or mobile applications based only on information collected there | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Measuring the effectiveness of advertising we show you | Information you share with us, including:Basic account informationPublic informationAccount controlsNon-public communications (survey data)Additional information we receive about you, including:Location informationInteractions with linksCookie data †Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests❖ |
+| Exclusion audiences: enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Interactions with linksCookie data †Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Personalized advertising: advertising we show you on and off \>x< based on information we collect from you on \>x<, your other activity online, and data from our partners | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Personalize based on your inferred identity | Information you share with us, including:Basic account informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Personalizing our services based on the places you've been | Additional information we receive about you, including:Location informationAccount controlsInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Complying with legal requests | As required by applicable law, regulation, legal process, or governmental request. | Legal obligation |
+| Additional information sharing with business partners | Information you share with us, including:Basic account informationPublic informationAccount controlsNon-public communications (survey data)Additional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesDevices we infer belong to youInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | ConsentLegitimate Interests (only for some Log data collected prior to \>x< account sign up) |
+| Sharing data with third-party web clients or applications you've authorized | Information you share with us, dependent on the permissions requested by the application or web client, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsAccount controls For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Sharing data with our service providers | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Determined by the legal bases set forth in this table (contractual necessity, legitimate interests, consent, or legal obligation) for the processing activities for which the service provider is retained. |
+| Enabling others to find your account by your email address or phone number | Information you share with us, including:Basic account informationPublic informationAccount controlsAdditional information we receive about you, including:Data from third partiesInformation we process with your consent, including:Address book data For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Non-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Non-service related notifications about our \>x< business products and third-party services | Information you share with us, including:Basic account informationPublic informationContact informationNon-public communications (between you and \>x<)Payment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper data For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| The processing activities described above:Operating our servicesSafety and securityInferencesPersonalized advertisingMeasuring the effectiveness of advertising we show youSharing data with our service providers | Information we process with your consent, including:Precise location dataAddress book dataX for web data\*Devices we infer belong to youInferences about you, as described above, based on this data. | Consent |
+| The processing activities described above:Advertising we show you on \>x< based on data you provide or we collect on XAdvertising we show you on other websites or mobile applications based only on information collected therePersonalize based on your inferred identityPersonalizing our services based on the places you’ve beenNon-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information we process with your consent, including:Precise location dataInferences about you, as described above, based on this data. | Consent |
+| Additional personalization of our services based on where you see \>x< content across the webAdditionally, the processing activities described above:Personalize based on your inferred identityNon-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information you share with us, including:Account controlsX for web data\*Devices we infer belong to youInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Identify verification for safety & security, general verification, and fraud and payment manipulation purposes | What we collect: Image of your ID, selfie, which includes face biometric data, and data from your ID.How long do we store:Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days for optional \>x< Premium and Safety and Security purposes, including impersonation. This provides you an opportunity to appeal a verification decision and for \>x< to review your appeal.Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. The full name, address extracted from the ID, when possible, and hashed government ID number for identity verification for these programs will be stored by \>x< for as long as you participate in the programs to help protect users from fraud and payment manipulation. Who stores the data & who we share with:\>x< does not directly store this data in connection with the optional \>x< Premium and Safety and Security purposes, including impersonation. \>x< directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, \>x< shares the data with Persona, who acts as our data processor. Persona processes and stores the data as detailed above. | Consent |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Operating our services, including:Account creationAccount controlsContent creation, including posts, reposts, likes, and Direct MessagesContent display, recommendations, and ranking, such as in your timeline, trends, conversations, or searchDeveloper products, including our APIs and embedsService-related notifications and customer supportAnalyticsAdvertiser products | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described below, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Contractual necessity |
+| Safety and security features, including authentication, anti-spam, fraud protection, and quality and abuse prevention | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described below, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Contractual necessity |
+| Inferences about your account - such as interests, age, and gender - which we use to provide features including:Account suggestionsAdvertisingRecommendationsTimeline rankingYou can always review and modify these inferences by visiting Your \>x< data. | Information you share with us, including:Basic account informationPublic informationContact informationNon-public communications (survey data and accounts you correspond with by Direct Message)Account controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Advertising we show you on \>x< based on data you provide or we collect on XAdvertising we show you on other websites or mobile applications based only on information collected there | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Measuring the effectiveness of advertising we show you | Information you share with us, including:Basic account informationPublic informationAccount controlsNon-public communications (survey data)Additional information we receive about you, including:Location informationInteractions with linksCookie data †Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests❖ |
+| Exclusion audiences: enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Interactions with linksCookie data †Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Personalized advertising: advertising we show you on and off \>x< based on information we collect from you on \>x<, your other activity online, and data from our partners | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Personalize based on your inferred identity | Information you share with us, including:Basic account informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Personalizing our services based on the places you've been | Additional information we receive about you, including:Location informationAccount controlsInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Complying with legal requests | As required by applicable law, regulation, legal process, or governmental request. | Legal obligation |
+| Additional information sharing with business partners | Information you share with us, including:Basic account informationPublic informationAccount controlsNon-public communications (survey data)Additional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesDevices we infer belong to youInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | ConsentLegitimate Interests (only for some Log data collected prior to \>x< account sign up) |
+| Sharing data with third-party web clients or applications you've authorized | Information you share with us, dependent on the permissions requested by the application or web client, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsAccount controls For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Sharing data with our service providers | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Determined by the legal bases set forth in this table (contractual necessity, legitimate interests, consent, or legal obligation) for the processing activities for which the service provider is retained. |
+| Enabling others to find your account by your email address or phone number | Information you share with us, including:Basic account informationPublic informationAccount controlsAdditional information we receive about you, including:Data from third partiesInformation we process with your consent, including:Address book data For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Non-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+| Non-service related notifications about our \>x< business products and third-party services | Information you share with us, including:Basic account informationPublic informationContact informationNon-public communications (between you and \>x<)Payment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper data For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| The processing activities described above:Operating our servicesSafety and securityInferencesPersonalized advertisingMeasuring the effectiveness of advertising we show youSharing data with our service providers | Information we process with your consent, including:Precise location dataAddress book dataX for web data\*Devices we infer belong to youInferences about you, as described above, based on this data. | Consent |
+| The processing activities described above:Advertising we show you on \>x< based on data you provide or we collect on XAdvertising we show you on other websites or mobile applications based only on information collected therePersonalize based on your inferred identityPersonalizing our services based on the places you’ve beenNon-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information we process with your consent, including:Precise location dataInferences about you, as described above, based on this data. | Consent |
+| Additional personalization of our services based on where you see \>x< content across the webAdditionally, the processing activities described above:Personalize based on your inferred identityNon-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information you share with us, including:Account controlsX for web data\*Devices we infer belong to youInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
+| Identify verification for safety & security, general verification, and fraud and payment manipulation purposes | What we collect: Image of your ID, selfie, which includes face biometric data, and data from your ID.How long do we store:Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days for optional \>x< Premium and Safety and Security purposes, including impersonation. This provides you an opportunity to appeal a verification decision and for \>x< to review your appeal.Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. The full name, address extracted from the ID, when possible, and hashed government ID number for identity verification for these programs will be stored by \>x< for as long as you participate in the programs to help protect users from fraud and payment manipulation. Who stores the data & who we share with:\>x< does not directly store this data in connection with the optional \>x< Premium and Safety and Security purposes, including impersonation. \>x< directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, \>x< shares the data with Persona, who acts as our data processor. Persona processes and stores the data as detailed above. | Consent |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Operating our services, including:Account creationAccount controlsContent creation, including posts, reposts, likes, and Direct MessagesContent display, recommendations, and ranking, such as in your timeline, trends, conversations, or searchDeveloper products, including our APIs and embedsService-related notifications and customer supportAnalyticsAdvertiser products | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described below, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Contractual necessity |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Safety and security features, including authentication, anti-spam, fraud protection, and quality and abuse prevention | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described below, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Contractual necessity |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Inferences about your account - such as interests, age, and gender - which we use to provide features including:Account suggestionsAdvertisingRecommendationsTimeline rankingYou can always review and modify these inferences by visiting Your \>x< data. | Information you share with us, including:Basic account informationPublic informationContact informationNon-public communications (survey data and accounts you correspond with by Direct Message)Account controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Advertising we show you on \>x< based on data you provide or we collect on XAdvertising we show you on other websites or mobile applications based only on information collected there | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Measuring the effectiveness of advertising we show you | Information you share with us, including:Basic account informationPublic informationAccount controlsNon-public communications (survey data)Additional information we receive about you, including:Location informationInteractions with linksCookie data †Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests❖ |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Exclusion audiences: enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Interactions with linksCookie data †Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
+
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Personalized advertising: advertising we show you on and off \>x< based on information we collect from you on \>x<, your other activity online, and data from our partners | Information you share with us, including:Basic account informationPublic informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-Data
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Personalize based on your inferred identity | Information you share with us, including:Basic account informationContact informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliates For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Personalizing our services based on the places you've been | Additional information we receive about you, including:Location informationAccount controlsInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-Processing purpose
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Complying with legal requests | As required by applicable law, regulation, legal process, or governmental request. | Legal obligation |
 
-**Operating our services, including:**
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Additional information sharing with business partners | Information you share with us, including:Basic account informationPublic informationAccount controlsNon-public communications (survey data)Additional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersData from other third parties and affiliatesDevices we infer belong to youInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | ConsentLegitimate Interests (only for some Log data collected prior to \>x< account sign up) |
 
-*   [Account creation](https://help.twitter.com/using-x/create-x-account)
-*   [Account controls](https://help.twitter.com/managing-your-account#account-settings)
-*   Content creation, including [posts](https://help.twitter.com/using-x/how-to-post), [reposts](https://help.twitter.com/using-x/how-to-repost), [likes](https://help.twitter.com/using-x/liking-posts-and-moments), and Direct Messages
-*   Content display, recommendations, and [ranking](https://blog.twitter.com/engineering/en_us/topics/insights/2017/using-deep-learning-at-scale-in-twitters-timelines.html), such as in your [timeline](https://help.twitter.com/using-x/x-timeline), [trends](https://help.twitter.com/using-x/x-trending-faqs), [conversations](https://help.twitter.com/using-x/x-conversations), or [search](https://help.twitter.com/using-x/x-search)
-*   Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
-*   Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
-*   Analytics
-*   [Advertiser products](https://business.x.com/en/help/ads-policies.html)
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Sharing data with third-party web clients or applications you've authorized | Information you share with us, dependent on the permissions requested by the application or web client, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsAccount controls For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-Data
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Sharing data with our service providers | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsPayment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper dataData from other third parties and affiliatesInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Determined by the legal bases set forth in this table (contractual necessity, legitimate interests, consent, or legal obligation) for the processing activities for which the service provider is retained. |
 
-**Information you share with us, including:**
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Enabling others to find your account by your email address or phone number | Information you share with us, including:Basic account informationPublic informationAccount controlsAdditional information we receive about you, including:Data from third partiesInformation we process with your consent, including:Address book data For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-*   Basic account information
-*   Public information
-*   Contact information
-*   Direct Messages and other non-public communications
-*   Payment information
-*   Account controls
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Non-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information you share with us, including:Basic account informationPublic informationContact informationDirect Messages and other non-public communicationsAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Legitimate interests |
 
-**Additional information we receive about you, including:**
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Non-service related notifications about our \>x< business products and third-party services | Information you share with us, including:Basic account informationPublic informationContact informationNon-public communications (between you and \>x<)Payment informationAccount controlsAdditional information we receive about you, including:Location informationInteractions with linksCookie data † Log dataData from ad partnersDeveloper data For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from advertisers and other ad partners
-*   Developer data
-*   Data from other third parties and affiliates
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| The processing activities described above:Operating our servicesSafety and securityInferencesPersonalized advertisingMeasuring the effectiveness of advertising we show youSharing data with our service providers | Information we process with your consent, including:Precise location dataAddress book dataX for web data\*Devices we infer belong to youInferences about you, as described above, based on this data. | Consent |
 
-**Inferences about you, as described below, based on this data.**
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| The processing activities described above:Advertising we show you on \>x< based on data you provide or we collect on XAdvertising we show you on other websites or mobile applications based only on information collected therePersonalize based on your inferred identityPersonalizing our services based on the places you’ve beenNon-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information we process with your consent, including:Precise location dataInferences about you, as described above, based on this data. | Consent |
 
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Additional personalization of our services based on where you see \>x< content across the webAdditionally, the processing activities described above:Personalize based on your inferred identityNon-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features | Information you share with us, including:Account controlsX for web data\*Devices we infer belong to youInferences about you, as described above, based on this data. For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | Consent |
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+| Processing purpose | Data | Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK |
+| --- | --- | --- |
+| Identify verification for safety & security, general verification, and fraud and payment manipulation purposes | What we collect: Image of your ID, selfie, which includes face biometric data, and data from your ID.How long do we store:Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days for optional \>x< Premium and Safety and Security purposes, including impersonation. This provides you an opportunity to appeal a verification decision and for \>x< to review your appeal.Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. The full name, address extracted from the ID, when possible, and hashed government ID number for identity verification for these programs will be stored by \>x< for as long as you participate in the programs to help protect users from fraud and payment manipulation. Who stores the data & who we share with:\>x< does not directly store this data in connection with the optional \>x< Premium and Safety and Security purposes, including impersonation. \>x< directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, \>x< shares the data with Persona, who acts as our data processor. Persona processes and stores the data as detailed above. | Consent |
 
-**Contractual necessity**
+\* We do not collect \>x< for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
 
-Processing purpose
+† We set and use cookies as described in [Our use of cookies and similar technologies](https://help.x.com/rules-and-policies/x-cookies), and if you are in the European Union, an EFTA State, or the United Kingdom with your consent as provided for under Directive 95/46/EC.
 
-**[Safety and security](https://help.twitter.com/safety-and-security) features, including authentication, anti-spam, fraud protection, and quality and abuse prevention**
+❖\>x< also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, \>x< treats such partnerships as consent-based data processing and \>x< customers located in the European Union, an EFTA state, or the United Kingdom must have their “Allow additional information sharing with business partners” setting enabled in order for \>x< and its data processors to share their non-public personal information with non-data-processors in such circumstances.
 
-Data
+Legitimate interests analysis summary – inferences about your account
+---------------------------------------------------------------------
 
-**Information you share with us, including:**
+\>x< uses information that individuals provide and data that it receives (as described in [\>x<’s Privacy Policy](https://x.com/privacy)) to make inferences about the people who use \>x< and content on the platform. This includes inferences like what [topics](https://help.x.com/using-x/follow-and-unfollow-topics) people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps \>x< offer better services and personalize the content \>x< shows, including ads.
 
-*   Basic account information
-*   Public information
-*   Contact information
-*   Direct Messages and other non-public communications
-*   Payment information
-*   Account controls
+Without these inferences, people would have a harder time finding content that interested them, \>x< would have a more difficult time keeping the platform safe and enjoyable for everyone, and \>x<’s advertising would be less compelling to those who saw it and less valuable to \>x<’s business customers.
 
-**Additional information we receive about you, including:**
+To safeguard the rights of those who use our services, if an individual wishes to review and modify information that \>x< has inferred about them, that individual may do so by using [Your \>x< data](https://help.x.com/managing-your-account/accessing-your-x-data). This service is available both to individuals with a \>x< account and those who do not have an account or are logged out of \>x<.
 
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Developer data
-*   Data from other third parties and affiliates
+Legitimate interests analysis summary – advertising we show you on \>x< based on data you provide or we collect on \>x<, or on other websites or mobile apps based on information collected there
 
-**Inferences about you, as described below, based on this data.**
+\>x< uses information that individuals provide and data that it receives during the individual’s use of \>x< (as described in [\>x<’s Privacy Policy](https://x.com/privacy)) to improve the quality of the ads the individual sees on the platform. When \>x< shows ads in other apps or websites, \>x< uses information from that app or website to improve the quality of the ads the individual sees.
 
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
+This enables \>x< to give individuals a better product experience that is more in line with their interests and the content they find most meaningful and relevant to them, and to provide more valuable advertising offerings that generate revenue to support and improve its services. Without this processing, \>x<’s advertising would be less compelling to those who saw it and less valuable to \>x<’s business customers.
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+To safeguard the rights of those who use our services, \>x< offers individuals a variety of controls over the ads they see on \>x<. Individuals may block or mute specific advertisers if they do not wish to see ads from those advertisers, report bad or offensive ads, and flag ads that they do not like. In addition, every ad on \>x< provides a dropdown “Why am I seeing this ad?” option to let the individual see the basis on which the ad was shown to them, such as inferred age, gender, and interests. The individual may then modify that information in [Your \>x< data](https://help.x.com/managing-your-account/accessing-your-x-data) to affect future ads that they see. This service is available both to individuals with a \>x< account and those who do not have an account or are logged out of \>x<.
 
-**Contractual necessity**
+Legitimate interests analysis summary – Measuring the effectiveness of advertising we show you
+----------------------------------------------------------------------------------------------
 
-Processing purpose
+\>x< uses information that individuals provide and data that it receives (as described in [\>x<’s Privacy Policy](https://x.com/privacy)) to measure the effectiveness of the advertising \>x< shows to individuals.
 
-**Inferences about your account - such as interests, age, and gender - which we use to provide features including:**
+This enables \>x< to give advertisers a means of better understanding the performance of the advertising they purchase through \>x<. Such advertising measurement offerings are a critical component of \>x<’s business because they enable advertisers to make informed decisions about what kinds of advertisements they should run, when they should run them, what kinds of content they should include, and the audiences they should try to reach. Without this processing, \>x<’s advertising would be less compelling to those who saw it and less valuable to \>x<’s business customers.
 
-*   [Account suggestions](https://help.twitter.com/using-x/account-suggestions)
-*   Advertising
-*   Recommendations
-*   Timeline ranking
+To safeguard the rights of those who use our services, \>x< primarily offers advertising measurement through data processor partnerships that generate reports for advertisers about key performance indicators of their \>x< advertising campaigns. These data processors are subject to a number of contractual restrictions around how they are permitted to process data received from \>x<, including that they are prohibited from sharing with third parties that are not acting as data processors any \>x< data that by itself can be used to identify an individual.
 
-You can always review and modify these inferences by visiting [Your X data](https://twitter.com/settings/your_twitter_data).  
+\>x< also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, \>x< treats such partnerships as consent-based data processing and \>x< customers located in the European Union, an EFTA state, or the United Kingdom must have their “Allow additional information sharing with business partners” setting enabled in order for \>x< and its data processors to share their non-public personal information with non-data-processors in such circumstances.
 
-Data
+Legitimate interests analysis summary – enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Information you share with us, including:**
+\>x< uses information that individuals provide and data that it receives (as described in [\>x<’s Privacy Policy](https://x.com/privacy)) to enable advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign.
 
-*   Basic account information
-*   Public information
-*   Contact information
-*   Non-public communications (survey data and accounts you correspond with by Direct Message)
-*   Account controls
+This enables \>x< to give advertisers a way to avoid showing their ads to people who are irrelevant to the goals of their campaigns (e.g., people who have already installed the advertiser’s game). This feature is a critical component of \>x<’s business because it helps \>x< serve fewer irrelevant ads and enables \>x< advertisers to effectively run advertising campaigns at scale while reducing bad user experiences with irrelevant ads and wasting money serving ads to users who have already taken the action being advertised. Without this processing, \>x<’s advertising would be less compelling to those who saw it and less valuable to \>x<’s business customers, some of whom would not run advertising campaigns on \>x< at all.
 
-**Additional information we receive about you, including:**
+To safeguard the rights of those who use our services, \>x< implements technical measures, contracts, and policies to disclose this processing, separate out the personal data processed only for this purpose, minimize the amount and type of personal data processed for this purpose, and avoid processing of personal data based on categories that may be sensitive or are prohibited by law, such as race, religion, politics, sex life, or health.
 
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Data from other third parties and affiliates
+Legitimate interests analysis summary – non-service related notifications about your \>x< activity, related content, Direct Messages, and other \>x< product features
 
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
+\>x< uses information that individuals provide and data that it receives (as described in [\>x<’s Privacy Policy](https://x.com/privacy)) to send non-service related notifications to \>x< account holders about their \>x< activity, related content, Direct Messages, and other \>x< product features. This enables \>x< to provide information that individuals may find valuable or useful, such as posts or Direct Messages directed to the individual, analytics about content the individual authored, and new product features.
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+Without these notifications, people would have a harder time learning of content relevant to them on \>x<, would receive less feedback about their content on \>x<, and would potentially miss out on conversations with others on \>x<.
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-1)
+To safeguard the rights of those who use our services, each non-service related email notification contains an opt out link that enables the individual to disable any or all such notifications. An individual can similarly update his or her preferences at any time while logged into x.com or our mobile apps. For individuals in the European Union, an EFTA State, and the United Kingdom, control is also provided during the registration process in which the individual’s email address is first collected.
 
-Processing purpose
+Legitimate interests analysis summary – processing public post data to train machine learning and artificial intelligence models, including generative models
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**[Advertising](https://business.x.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X**
+\>x< may use information that individuals provide and data that it receives (as described in \>x<’s Privacy Policy) to train machine learning and artificial intelligence models, including generative models. This includes public \>x< posts and associated metadata of \>x< users. This helps \>x< offer better services, including summaries of search results and content.
 
-**Advertising we show you on other websites or mobile applications based only on information collected there**
+Without this training and processing, people would not have access to a large range of information, opinions, viewpoints and accurate summaries and \>x< would have a more difficult time providing relevant, accurate and appropriate responses.
 
-Data
+To safeguard the rights of those who use our services, users can easily “protect” (limit to a followers-only audience) their posts, or delete their posts at any time, thereby removing their posts and related metadata from being used. \>x< also provides [information and user controls](https://help.x.com/en/using-x/about-grok) to enable \>x< users to opt out of their public post data being used to train an underlying generative model.
 
-**Information you share with us, including:**
+Sources of personal data we process
+-----------------------------------
 
-*   Basic account information
-*   Public information
-*   Contact information  
-    
-*   Account controls
+The table below describes the categories of sources from which we may receive personal data.
 
-**Additional information we receive about you, including:**
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Online Activity(Internet and other electronic network activity information, including, but not limited to, information regarding interactions with websites, applications, or advertisements) | Information you post on \>x< Direct Messages and other non-public communicationsAccount controlsInteractions with linksCookie dataLog dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesX for web dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services and third-party services Other people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalf, such as our subprocessorsAdvertisers and other ad partners |
+| Payment Information | Credit or debit card numberCard expiration dateCVV codeBilling addressFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You, if you purchase advertising services from us |
+| Identifiers(Real name, alias, postal address, telephone numbers, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers) | Basic account informationInformation you post on \>x< Developer dataContact informationAddress book dataDevices we infer belong to youCookie dataLog dataData from advertisers and other ad partnersData from other third parties and affiliatesFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
+| Protected Classifications(Characteristics of certain legally protected classifications, such as age range and gender) | Information you post on \>x< Inferences about your account, as listed belowFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesOther people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
+| Commercial Information(Records of products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies) | Information you post on \>x< Interactions with linksCookie dataLog dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesX for web dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
+| Sensory Information(Audio, electronic, visual, and similar information) | Information you post on \>x< Direct Messages and other non-public communicationsFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services Other people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts |
+| Location Data | Location informationPrecise location dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services |
+| Inferences(Inferences drawn to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, and attitudes) | Devices we infer belong to youAgeGenderTopics you may be interested in For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesOther people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
 
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Data from other third parties and affiliates
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Online Activity(Internet and other electronic network activity information, including, but not limited to, information regarding interactions with websites, applications, or advertisements) | Information you post on \>x< Direct Messages and other non-public communicationsAccount controlsInteractions with linksCookie dataLog dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesX for web dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services and third-party services Other people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalf, such as our subprocessorsAdvertisers and other ad partners |
+| Payment Information | Credit or debit card numberCard expiration dateCVV codeBilling addressFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You, if you purchase advertising services from us |
+| Identifiers(Real name, alias, postal address, telephone numbers, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers) | Basic account informationInformation you post on \>x< Developer dataContact informationAddress book dataDevices we infer belong to youCookie dataLog dataData from advertisers and other ad partnersData from other third parties and affiliatesFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
+| Protected Classifications(Characteristics of certain legally protected classifications, such as age range and gender) | Information you post on \>x< Inferences about your account, as listed belowFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesOther people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
+| Commercial Information(Records of products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies) | Information you post on \>x< Interactions with linksCookie dataLog dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesX for web dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
+| Sensory Information(Audio, electronic, visual, and similar information) | Information you post on \>x< Direct Messages and other non-public communicationsFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services Other people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts |
+| Location Data | Location informationPrecise location dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services |
+| Inferences(Inferences drawn to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, and attitudes) | Devices we infer belong to youAgeGenderTopics you may be interested in For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesOther people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
 
-**Inferences about you, as described above, based on this data.**
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Online Activity(Internet and other electronic network activity information, including, but not limited to, information regarding interactions with websites, applications, or advertisements) | Information you post on \>x< Direct Messages and other non-public communicationsAccount controlsInteractions with linksCookie dataLog dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesX for web dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services and third-party services Other people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalf, such as our subprocessorsAdvertisers and other ad partners |
 
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Payment Information | Credit or debit card numberCard expiration dateCVV codeBilling addressFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You, if you purchase advertising services from us |
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Identifiers(Real name, alias, postal address, telephone numbers, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers) | Basic account informationInformation you post on \>x< Developer dataContact informationAddress book dataDevices we infer belong to youCookie dataLog dataData from advertisers and other ad partnersData from other third parties and affiliatesFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Protected Classifications(Characteristics of certain legally protected classifications, such as age range and gender) | Information you post on \>x< Inferences about your account, as listed belowFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesOther people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
 
-Processing purpose
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Commercial Information(Records of products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies) | Information you post on \>x< Interactions with linksCookie dataLog dataData from advertisers and other ad partnersDeveloper dataData from other third parties and affiliatesX for web dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
 
-**Measuring the effectiveness of advertising we show you**
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Sensory Information(Audio, electronic, visual, and similar information) | Information you post on \>x< Direct Messages and other non-public communicationsFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services Other people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts |
 
-Data
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Location Data | Location informationPrecise location dataFor details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services |
 
-**Information you share with us, including:**
+| Data Category | Data | Source(s) |
+| --- | --- | --- |
+| Inferences(Inferences drawn to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, and attitudes) | Devices we infer belong to youAgeGenderTopics you may be interested in For details regarding information we collect when you use \>x<, please refer to Section 1 ("Information We Collect") of our Privacy Policy. | You or your devices, for example, through your use of our services or third-party servicesOther people on \>x<, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct MessagesThird-party services that integrate \>x< content, such as embedded timelines or post buttonsOur corporate affiliatesVendors who provide services on our behalfAdvertisers and other ad partners |
 
-*   Basic account information
-    
-*   Public information
-    
-*   Account controls
-    
-*   Non-public communications (survey data)
-    
+Categories of third parties with whom we may share personal data
+----------------------------------------------------------------
 
-**Additional information we receive about you, including:**
+The table below describes the categories of third parties with whom we may share certain personal data from the listed data categories. For details regarding how we share personal data, including the purposes for which we share it, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://x.com/privacy).
 
-*   Location information
-    
-*   Interactions with links
-    
-*   Cookie data †
-    
-*   Log data
-    
-*   Data from ad partners
-    
-*   Data from other third parties and affiliates
-    
+| Data Category | We may share with... |
+| --- | --- |
+| Online ActivityIdentifiersProtected ClassificationsCommercial InformationSensory Information | Entities with whom you direct us to share your information, such as when you post publicly Entities you provide access to your account, such as third-party web clients or applications you authorizeOur corporate affiliatesOur business partners and our service providers, including advertisers and other ad partnersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
+| Payment Information | Our service providers For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
+| Location Data | Our service providersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
+| Inferences | Our corporate affiliatesOur business partners and our service providers, including advertisers and other ad partnersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
 
-**Inferences about you, as described above, based on this data.**
+| Data Category | We may share with... |
+| --- | --- |
+| Online ActivityIdentifiersProtected ClassificationsCommercial InformationSensory Information | Entities with whom you direct us to share your information, such as when you post publicly Entities you provide access to your account, such as third-party web clients or applications you authorizeOur corporate affiliatesOur business partners and our service providers, including advertisers and other ad partnersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
+| Payment Information | Our service providers For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
+| Location Data | Our service providersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
+| Inferences | Our corporate affiliatesOur business partners and our service providers, including advertisers and other ad partnersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
 
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
+| Data Category | We may share with... |
+| --- | --- |
+| Online ActivityIdentifiersProtected ClassificationsCommercial InformationSensory Information | Entities with whom you direct us to share your information, such as when you post publicly Entities you provide access to your account, such as third-party web clients or applications you authorizeOur corporate affiliatesOur business partners and our service providers, including advertisers and other ad partnersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+| Data Category | We may share with... |
+| --- | --- |
+| Payment Information | Our service providers For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)❖
+| Data Category | We may share with... |
+| --- | --- |
+| Location Data | Our service providersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
 
-Processing purpose
+| Data Category | We may share with... |
+| --- | --- |
+| Inferences | Our corporate affiliatesOur business partners and our service providers, including advertisers and other ad partnersLaw enforcement and others as necessary to comply with law, prevent harm, and serve the public interest For details regarding the ways we share your information, why we share it, and how you can control it when you use \>x<, please refer to Section 3 ("Sharing Information") of our Privacy Policy. |
 
-**Exclusion audiences:** enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign
+Share this Article
 
-Data
+*   [Data processing summary](#data-processing-summary)
+*   [Legitimate interests analysis summary – inferences about your account](#legitimate-interests-analysis-summary-inferences-about-your-account)
+*   [Legitimate interests analysis summary – Measuring the effectiveness of advertising we show you](#legitimate-interests-analysis-summary-measuring-the-effectiveness-of-advertising-we-show-you)
+*   [Legitimate interests analysis summary – enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign](#legitimate-interests-analysis-summary-enabling-advertisers-to-exclude-an-advertiser-submitted-audience-from-being-eligible-for-an-advertising-campaign)
+*   [Legitimate interests analysis summary – processing public post data to train machine learning and artificial intelligence models, including generative models](#legitimate-interests-analysis-summary-processing-public-post-data-to-train-machine-learning-and-artificial-intelligence-models-including-generative-models)
+*   [Sources of personal data we process](#sources-of-personal-data-we-process)
+*   [Categories of third parties with whom we may share personal data](#categories-of-third-parties-with-whom-we-may-share-personal-data)
 
-**Information you share with us, including:**
+© 2026 \>x< Corp.
 
-*   Basic account information
-    
-*   Public information
-    
-*   Contact information
-    
-*   Account controls
-    
+Theme
 
-**Additional information we receive about you, including:**
+English
 
-*   Interactions with links
-    
-*   Cookie data †
-    
-*   Log data
-    
+\>x< Platform
+-------------
 
-*   Data from ad partners
-*   Data from other third parties and affiliates
+*   [\>x<.com](https://x.com/)
+*   [Status](https://docs.x.com/status)
+*   [Accessibility](https://help.x.com/en/resources/accessibility)
+*   [Embed a post](https://publish.x.com/)
+*   [Privacy center](https://privacy.x.com/)
+*   [Transparency center](https://transparency.x.com/)
+*   [Download the \>x< app](https://x.com/download)
+*   [Try Grok.com](https://grok.com/)
 
-**_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._**
+\>x< Corp
+---------
 
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
+*   [About the company](https://about.x.com/)
+*   [Company news](https://blog.x.com/)
+*   [Brand toolkit](https://about.x.com/en/who-we-are/brand-toolkit)
+*   [Jobs and internships](https://careers.x.com/)
+*   [Investors](https://investor.x.com/)
 
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-2)
+Help
+----
 
-Processing purpose
+*   [Help Center](https://help.x.com/en)
+*   [Using \>x<](https://help.x.com/en/using-x)
+*   [Managing your account](https://help.x.com/en/managing-your-account)
+*   [Rules and policies](https://help.x.com/en/rules-and-policies)
+*   [Contact us](https://help.x.com/en/forms)
 
-**[Personalized advertising](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads):** advertising we show you on and off X based on information we collect from you on X, your other activity online, and data from our partners
+Developer resources
+-------------------
 
-Data
+*   [Developer home](https://developer.x.com/)
+*   [Documentation](https://docs.x.com/)
+*   [Forums](https://devcommunity.x.com/)
+*   [Communities](https://developer.x.com/en/community)
+*   [Engineering blog](https://blog.x.com/engineering)
+*   [Developer terms](https://developer.x.com/en/developer-terms)
 
-**Information you share with us, including:**
+Business resources
+------------------
 
-*   Basic account information
-*   Public information
-*   Contact information
-*   Account controls
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Data from other third parties and affiliates
-
-**Inferences about you, as described above, based on this data.**
-
-**_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._**
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-[**Personalize based on your inferred identity**](https://help.twitter.com/about-personalization-across-your-devices)
-
-Data
-
-**Information you share with us, including:**
-
-*   Basic account information
-*   Contact information
-*   Account controls
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Data from other third parties and affiliates
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**Personalizing our services based on the places you've been**
-
-Data
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Account controls
-
-**Inferences about you, as described above, based on this data.**
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**Complying with [legal requests](https://help.twitter.com/rules-and-policies/x-legal-faqs)**
-
-Data
-
-**As required by applicable law, regulation, legal process, or governmental request.**
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Legal obligation**
-
-Processing purpose
-
-[**Additional information sharing with business partners**](https://help.twitter.com/safety-and-security/data-through-partnerships)
-
-Data
-
-**Information you share with us, including:**
-
-*   Basic account information
-*   Public information
-*   Account controls
-*   Non-public communications (survey data)
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Data from other third parties and affiliates
-
-[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
-
-**Inferences about you, as described above, based on this data.**
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-  
-**Legitimate Interests (only for some Log data collected prior to X account sign up)**
-
-Processing purpose
-
-**Sharing data with [third-party web clients or applications](https://help.twitter.com/managing-your-account/connect-or-revoke-access-to-third-party-apps) you've authorized**
-
-Data
-
-**Information you share with us, dependent on the permissions requested by the application or web client, including:**
-
-*   Basic account information
-*   Public information
-*   Contact information
-*   Direct Messages and other non-public communications
-*   Account controls
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**Sharing data with our service providers**
-
-Data
-
-**Information you share with us, including:**
-
-*   Basic account information
-*   Public information
-*   Contact information
-*   Direct Messages and other non-public communications
-*   Payment information
-*   Account controls
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Developer data
-*   Data from other third parties and affiliates
-
-**Inferences about you, as described above, based on this data.**
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Determined by the legal bases set forth in this table (contractual necessity, legitimate interests, consent, or legal obligation) for the processing activities for which the service provider is retained.**
-
-Processing purpose
-
-[**Enabling others to find your account by your email address or phone number**](https://help.twitter.com/safety-and-security/search-twitter-by-email-or-phone-number)
-
-Data
-
-**Information you share with us, including:**
-
-*   Basic account information
-*   Public information
-*   Account controls
-
-**Additional information we receive about you, including:**
-
-*   Data from third parties
-
-**Information we process with your consent, including:**
-
-*   [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
-
-Data
-
-**Information you share with us, including:**
-
-*   Basic account information
-*   Public information
-*   Contact information
-*   Direct Messages and other non-public communications
-*   Account controls
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-
-**Inferences about you, as described above, based on this data.**
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-[**Legitimate interests**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#legitimate-interests-3)
-
-Processing purpose
-
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about our X business products and third-party services**
-
-Data
-
-**Information you share with us, including:**
-
-*   Basic account information
-*   Public information
-*   Contact information
-*   Non-public communications (between you and X)
-*   Payment information
-*   Account controls
-
-**Additional information we receive about you, including:**
-
-*   Location information
-*   Interactions with links
-*   Cookie data † 
-*   Log data
-*   Data from ad partners
-*   Developer data
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**The processing activities described above:**
-
-*   Operating our services
-*   Safety and security
-*   Inferences
-*   Personalized advertising
-*   Measuring the effectiveness of advertising we show you
-*   Sharing data with our service providers
-
-Data
-
-**Information we process with your consent, including:**
-
-*   [Precise location data](https://help.twitter.com/safety-and-security/twitter-location-services-for-mobile)
-*   [Address book data](https://help.twitter.com/using-x/upload-your-contacts-to-search-for-friends)
-
-[**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
-
-[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
-
-**Inferences about you, as described above, based on this data.**
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**The processing activities described above:**
-
-*   [Advertising](https://business.x.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
-    
-*   Advertising we show you on other websites or mobile applications based only on information collected there
-    
-*   [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
-    
-*   Personalizing our services based on the places you’ve been
-    
-
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
-
-Data
-
-**Information we process with your consent, including:**
-
-*   [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
-    
-
-**Inferences about you, as described above, based on this data.**
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-[**Additional personalization of our services based on where you see X content across the web**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
-
-**Additionally, the processing activities described above:**
-
-*   [Personalize based on your inferred identity](https://help.twitter.com/about-personalization-across-your-devices)
-    
-
-**Non-service related [notifications](https://help.twitter.com/managing-your-account#notifications) about your X activity, related content, Direct Messages, and other X product features**
-
-Data
-
-**Information you share with us, including:**
-
-*   Account controls
-
-[**X for web data**](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)\*
-
-[**Devices we infer belong to you**](https://help.twitter.com/about-personalization-across-your-devices)
-
-**Inferences about you, as described above, based on this data.**
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-Processing purpose
-
-**Identify verification for safety & security, general verification, and fraud and payment manipulation purposes**
-
-Data
-
-**What we collect:**   
-Image of your ID, selfie, which includes face biometric data, and data from your ID.
-
-**How long do we store:  
-**Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days for optional X Premium and Safety and Security purposes, including impersonation. This provides you an opportunity to appeal a verification decision and for X to review your appeal.
-
-Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. The full name, address extracted from the ID, when possible, and hashed government ID number for identity verification for these programs will be stored by X for as long as you participate in the programs to help protect users from fraud and payment manipulation. 
-
-**Who stores the data & who we share with:  
-**X does not directly store this data in connection with the optional X Premium and Safety and Security purposes, including impersonation. X directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, X shares the data with Persona, who acts as our data processor. Persona processes and stores the data as detailed above.
-
-Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
-
-**Consent**
-
-\* We do not collect X for Web data from browsers that we believe to be located in the European Union or the European Economic Area.
-
-† We set and use cookies as described in [Our use of cookies and similar technologies](https://help.twitter.com/rules-and-policies/x-cookies), and if you are in the European Union, an EFTA State, or the United Kingdom with your consent as provided for under Directive 95/46/EC.
-
-❖X also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, X treats such partnerships as consent-based data processing and X customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for X and its data processors to share their non-public personal information with non-data-processors in such circumstances.
-
-### Legitimate interests analysis summary – inferences about your account 
-
-X uses information that individuals provide and data that it receives (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to make inferences about the people who use X and content on the platform. This includes inferences like what [topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) people may be interested in, how old a person is, what languages a person speaks, and whether the content of one account may be of interest to others on the platform. This helps X offer better services and personalize the content X shows, including ads.
-
-Without these inferences, people would have a harder time finding content that interested them, X would have a more difficult time keeping the platform safe and enjoyable for everyone, and X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
-
-To safeguard the rights of those who use our services, if an individual wishes to review and modify information that X has inferred about them, that individual may do so by using [Your X data](https://help.twitter.com/managing-your-account/accessing-your-x-data). This service is available both to individuals with a X account and those who do not have an account or are logged out of X.   
- 
-
-### Legitimate interests analysis summary – advertising we show you on X based on data you provide or we collect on X, or on other websites or mobile apps based on information collected there 
-
-X uses information that individuals provide and data that it receives during the individual’s use of X (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to improve the quality of the ads the individual sees on the platform. When X shows ads in other apps or websites, X uses information from that app or website to improve the quality of the ads the individual sees.
-
-This enables X to give individuals a better product experience that is more in line with their interests and the content they find most meaningful and relevant to them, and to provide more valuable advertising offerings that generate revenue to support and improve its services. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
-
-To safeguard the rights of those who use our services, X offers individuals a variety of controls over the ads they see on X.  Individuals may block or mute specific advertisers if they do not wish to see ads from those advertisers, report bad or offensive ads, and flag ads that they do not like. In addition, every ad on X provides a dropdown “Why am I seeing this ad?” option to let the individual see the basis on which the ad was shown to them, such as inferred age, gender, and interests. The individual may then modify that information in [Your X data](https://help.twitter.com/managing-your-account/accessing-your-x-data) to affect future ads that they see. This service is available both to individuals with a X account and those who do not have an account or are logged out of X.  
- 
-
-### Legitimate interests analysis summary – Measuring the effectiveness of advertising we show you 
-
-X uses information that individuals provide and data that it receives (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to measure the effectiveness of the advertising X shows to individuals. 
-
-This enables X to give advertisers a means of better understanding the performance of the advertising they purchase through X. Such advertising measurement offerings are a critical component of X’s business because they enable advertisers to make informed decisions about what kinds of advertisements they should run, when they should run them, what kinds of content they should include, and the audiences they should try to reach. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers.
-
-To safeguard the rights of those who use our services, X primarily offers advertising measurement through data processor partnerships that generate reports for advertisers about key performance indicators of their X advertising campaigns. These data processors are subject to a number of contractual restrictions around how they are permitted to process data received from X, including that they are prohibited from sharing with third parties that are not acting as data processors any X data that by itself can be used to identify an individual. 
-
-X also shares non-public personal information with advertisers that are not acting as data processors in order to enable those advertisers to measure their own advertising. As described above, X treats such partnerships as consent-based data processing and X customers located in the European Union, an EFTA state, or the United Kingdom must have their  “Allow additional information sharing with business partners” setting enabled in order for X and its data processors to share their non-public personal information with non-data-processors in such circumstances.  
- 
-
-### Legitimate interests analysis summary – enabling advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign 
-
-X uses information that individuals provide and data that it receives (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to enable advertisers to exclude an advertiser-submitted audience from being eligible for an advertising campaign. 
-
-This enables X to give advertisers a way to avoid showing their ads to people who are irrelevant to the goals of their campaigns (e.g., people who have already installed the advertiser’s game). This feature is a critical component of X’s business because it helps X serve fewer irrelevant ads and enables X advertisers to effectively run advertising campaigns at scale while reducing bad user experiences with irrelevant ads and wasting money serving ads to users who have already taken the action being advertised. Without this processing, X’s advertising would be less compelling to those who saw it and less valuable to X’s business customers, some of whom would not run advertising campaigns on X at all.
-
-To safeguard the rights of those who use our services, X implements technical measures, contracts, and policies to disclose this processing, separate out the personal data processed only for this purpose, minimize the amount and type of personal data processed for this purpose, and avoid processing of personal data based on categories that may be sensitive or are prohibited by law, such as race, religion, politics, sex life, or health.  
- 
-
-### Legitimate interests analysis summary – non-service related notifications about your X activity, related content, Direct Messages, and other X product features 
-
-X uses information that individuals provide and data that it receives (as described in [X’s Privacy Policy](https://twitter.com/privacy)) to send non-service related notifications to X account holders about their X activity, related content, Direct Messages, and other X product features. This enables X to provide information that individuals may find valuable or useful, such as posts or Direct Messages directed to the individual, analytics about content the individual authored, and new product features.
-
-Without these notifications, people would have a harder time learning of content relevant to them on X, would receive less feedback about their content on X, and would potentially miss out on conversations with others on X.
-
-To safeguard the rights of those who use our services, each non-service related email notification contains an opt out link that enables the individual to disable any or all such notifications. An individual can similarly update his or her preferences at any time while logged into X.com or our mobile apps. For individuals in the European Union, an EFTA State, and the United Kingdom, control is also provided during the registration process in which the individual’s email address is first collected.  
- 
-
-### Legitimate interests analysis summary –  processing public post data to train machine learning and artificial intelligence models, including generative models
-
-X may use information that individuals provide and data that it receives (as described in X’s Privacy Policy) to train machine learning and artificial intelligence models, including generative models. This includes public X posts and associated metadata of X users. This helps X offer better services, including summaries of search results and content.
-
-Without this training and processing, people would not have access to a large range of information, opinions, viewpoints and accurate summaries and X would have a more difficult time providing relevant, accurate and appropriate responses.
-
-To safeguard the rights of those who use our services, users can easily “protect” (limit to a followers-only audience) their posts, or delete their posts at any time, thereby removing their posts and related metadata from being used. X also provides [information and user controls](https://help.x.com/en/using-x/about-grok) to enable X users to opt out of their public post data being used to train an underlying generative model.  
- 
-
-### Sources of personal data we process 
-
-The table below describes the categories of sources from which we may receive personal data. 
-
-Data Category
-
-Data
-
-Source(s)
-
-Data Category
-
-**Online Activity**
-
-(Internet and other electronic network activity information, including, but not limited to, information regarding interactions with websites, applications, or advertisements)
-
-Data
-
-*   Information you post on X 
-    
-*   Direct Messages and other non-public communications
-    
-*   Account controls
-    
-*   Interactions with links
-    
-*   Cookie data
-    
-*   Log data
-    
-
-*   Data from advertisers and other ad partners
-*   Developer data
-
-*   Data from other third parties and affiliates
-
-*   [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services and third-party services 
-    
-*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
-    
-*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
-    
-*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
-    
-*   Vendors who provide services on our behalf, such as our [subprocessors](https://privacy.twitter.com/subprocessors)
-    
-*   Advertisers and other ad partners
-    
-
-Data Category
-
-**Payment Information**
-
-Data
-
-*   Credit or debit card number
-    
-
-*   Card expiration date
-*   CVV code
-
-*   Billing address
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You, if you purchase advertising services from us
-
-Data Category
-
-**Identifiers**
-
-_(Real name, alias, postal address, telephone numbers, unique identifiers (such as a device identifier, cookies, mobile ad identifiers), customer number, Internet Protocol address, email address, account name, and other similar identifiers)_
-
-Data
-
-*   Basic account information
-    
-*   Information you post on X 
-    
-*   Developer data
-    
-*   Contact information
-    
-*   Address book data
-    
-*   Devices we infer belong to you
-    
-*   Cookie data
-    
-*   Log data
-    
-
-*   Data from advertisers and other ad partners
-*   Data from other third parties and affiliates
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services or third-party services
-    
-*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
-    
-*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
-    
-*   Vendors who provide services on our behalf
-    
-*   Advertisers and other ad partners
-    
-
-Data Category
-
-**Protected Classifications**
-
-_(Characteristics of certain legally protected classifications, such as age range and gender)_
-
-Data
-
-*   Information you post on X 
-*   Inferences about your account, as listed below  
-     
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services or third-party services
-    
-*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
-    
-*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
-    
-*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
-    
-*   Vendors who provide services on our behalf
-    
-*   Advertisers and other ad partners
-    
-
-Data Category
-
-**Commercial Information**
-
-_(Records of products or services purchased, obtained, or considered, and other purchasing or consuming histories or tendencies)_
-
-Data
-
-*   Information you post on X 
-    
-*   Interactions with links
-    
-*   Cookie data
-    
-*   Log data
-    
-*   Data from advertisers and other ad partners
-    
-*   Developer data
-    
-
-*   Data from other third parties and affiliates
-*   [X for web data](https://help.twitter.com/safety-and-security/privacy-controls-for-tailored-ads)
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services or third-party services
-    
-*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
-    
-*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
-    
-*   Vendors who provide services on our behalf
-    
-*   Advertisers and other ad partners
-    
-
-Data Category
-
-**Sensory Information**
-
-_(Audio, electronic, visual, and similar information)_
-
-Data
-
-*   Information you post on X 
-*   Direct Messages and other non-public communications
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services 
-    
-*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages or protected posts
-    
-
-Data Category
-
-**Location Data**
-
-Data
-
-*   Location information
-*   [Precise location data](https://help.twitter.com/safety-and-security/x-location-services-for-mobile)
-
-_For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services
-
-Data Category
-
-[**Inferences**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
-
-_(Inferences drawn to create a profile about you reflecting your preferences, characteristics, predispositions, behavior, and attitudes)_
-
-Data
-
-*   [Devices we infer belong to you](https://help.twitter.com/about-personalization-across-your-devices)
-*   Age
-*   Gender
-*   [Topics](https://help.twitter.com/using-x/follow-and-unfollow-topics) you may be interested in
-
-_  
-For details regarding information we collect when you use X, please refer to Section 1 ("Information We Collect") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Source(s)
-
-*   You or your devices, for example, through your use of our services or third-party services
-    
-*   Other people on X, through their use of our services, such as by tagging you in a photo (if your settings allow), mentioning you in a post, or sending you Direct Messages
-    
-*   Third-party services that integrate X content, [such as embedded timelines or post buttons](https://developer.twitter.com/docs/twitter-for-websites)
-    
-*   Our [corporate affiliates](https://help.twitter.com/rules-and-policies/x-services-and-corporate-affiliates)
-    
-*   Vendors who provide services on our behalf
-    
-*   Advertisers and other ad partners
-    
-
-### Categories of third parties with whom we may share personal data  
-
-The table below describes the categories of third parties with whom we may share certain personal data from the listed data categories. For details regarding how we share personal data, including the purposes for which we share it, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy). 
-
-Data Category
-
-We may share with...
-
-Data Category
-
-**Online Activity**
-
-**Identifiers**
-
-**Protected Classifications**
-
-**Commercial Information**
-
-**Sensory Information**
-
-We may share with...
-
-*   Entities with whom you direct us to share your information, such as when you post publicly 
-    
-*   Entities you provide access to your account, such as third-party web clients or applications you authorize
-    
-*   Our corporate affiliates
-    
-*   Our business partners and our service providers, including advertisers and other ad partners
-    
-*   Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
-
-_  
-For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Data Category
-
-**Payment Information**
-
-We may share with...
-
-*   Our service providers
-
-_  
-For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Data Category
-
-**Location Data**
-
-We may share with...
-
-*   Our service providers
-    
-*   Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
-
-_  
-For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
-
-Data Category
-
-[**Inferences**](https://help.twitter.com/rules-and-policies/data-processing-legal-bases#inferences)
-
-We may share with...
-
-*   Our corporate affiliates
-    
-*   Our business partners and our service providers, including advertisers and other ad partners
-    
-*   Law enforcement and others as necessary to comply with law, prevent harm, and serve the public interest
-
-_  
-For details regarding the ways we share your information, why we share it, and how you can control it when you use X, please refer to Section 3 ("Sharing Information") of our [Privacy Policy](https://twitter.com/privacy)._
-
-#### Share this article
-
-Post
+*   [Advertise](https://ads.x.com/)
+*   [\>x< for business](https://business.x.com/)
+*   [Resources and guides](https://business.x.com/resources)
