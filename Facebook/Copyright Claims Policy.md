@@ -50,6 +50,14 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What is a trademark?
+
+How do I report trademark infringement?
+
+How does Brand Rights Protection work?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -405,6 +413,8 @@ How do I lose trademark rights?
 
 How do I renew trademark rights?
 
+What is USPTO trademark registration?
+
 I have a different question
 
 Trademark rights may last indefinitely, but only if the trademark owner continues to use the trademark in commerce to identify their products or services. If a trademark owner stops using the trademark, or if it isn’t used properly, they might lose their trademark rights.
@@ -552,9 +562,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Related Articles
 
@@ -570,11 +580,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Trademark
+[Does a trademark need to be registered to be protected?
 
-* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
-[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
+[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -794,16 +804,6 @@ Repeated intellectual property infringement on Facebook
 =======================================================
 
 Copy link
-
-What is Facebook repeat infringer policy?
-
-What happens to my Facebook account?
-
-What happens to my Facebook Page?
-
-What are Facebook feature limits?
-
-I have a different question
 
 By using Facebook, you agree to our [Terms of Service](https://www.facebook.com/terms). Our Terms prohibit people from taking any action on Facebook that infringes or violates someone else's intellectual property rights or otherwise violates the law.
 
@@ -1081,16 +1081,6 @@ What you should consider before submitting a report of intellectual property inf
 =====================================================================================================
 
 Copy link
-
-What is intellectual property?
-
-What is copyright infringement?
-
-What is trademark infringement?
-
-What is fair use?
-
-I have a different question
 
 Before you submit a report, please consider whether the content you want to report may be a permissible use of your [copyright](https://www.facebook.com/help/337995452911154?helpref=faq_content) or [trademark](https://www.facebook.com/help/719682678205946?helpref=faq_content). If you’re not sure whether the content you’re reporting infringes your intellectual property rights (example: because it may be a fair use), you may want to seek legal guidance.
 
@@ -1381,7 +1371,9 @@ Copy link
 
 How do I report a third-party app?
 
-How do I contact a Facebook app developer?
+What is a third-party app?
+
+How do I contact an app developer?
 
 What are Facebook Terms of Service?
 
@@ -1445,7 +1437,7 @@ How do I withdraw an IP report?
 
 How do I cancel a copyright report?
 
-What happens after I withdraw a report?
+How do I retract a trademark report?
 
 I have a different question
 
@@ -1639,9 +1631,9 @@ Copyright
 
 How do I report copyright infringement?
 
-How do I protect my copyrighted work?
+What is Facebook copyright?
 
-What is Facebook copyright policy?
+How do I protect my copyrighted work?
 
 I have a different question
 
@@ -1798,14 +1790,6 @@ How do you know if you own the copyright in a work
 
 Copy link
 
-What is copyright ownership?
-
-What is an original work?
-
-What if I appear in a photo?
-
-I have a different question
-
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1865,14 +1849,6 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
-
-What are my copyright owner rights?
-
-What is copyright infringement?
-
-How do I grant copyright permission?
-
-I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -1994,11 +1970,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-How do I avoid Facebook copyright?
-
 What is Facebook copyright law?
 
+How do I avoid Facebook copyright?
+
 What is Facebook fair use?
+
+How do I get content permission?
 
 I have a different question
 
@@ -2246,14 +2224,6 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 =============================================================================================
 
 Copy link
-
-What is Facebook copyright content?
-
-What happens to removed Facebook videos?
-
-How do I check Facebook notifications?
-
-I have a different question
 
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
