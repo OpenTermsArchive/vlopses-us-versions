@@ -18,7 +18,13 @@ To compel Pinterest to provide any user’s information, you must obtain a valid
 
 For Non-U.S. Law Enforcement
 
-You can’t compel Pinterest to provide any user information unless you obtain a valid U.S. court order (via the mutual legal assistance treaties or letter rogatory).
+We disclose user information in accordance with our Terms of Service, Privacy Policy, and applicable law. A valid U.S. court order (via the mutual legal assistance treaties or letter rogatory) may be required to compel the disclosure of user information.
+
+**Further information on European legal process requirements**
+
+Pinterest discloses user information for users in the the EU solely in accordance with our Terms of Service, Privacy Policy, and applicable law. 
+
+For more information about when we respond to legal requests and the legal basis for processing these requests, please see our Privacy Policy.
 
 Requirements to share user information with law enforcement
 
