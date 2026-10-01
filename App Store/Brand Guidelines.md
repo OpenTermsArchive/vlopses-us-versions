@@ -567,7 +567,7 @@ The absence of a product or service name or logo from this list does not constit
 | Apple CarPlay® | software feature |
 | Apple Cash® | software feature |
 | Apple Cinema Display® | computer monitor |
-| Apple Creator Studio™ | suite of application programs |
+| Apple Creator Studio® | suite of application programs |
 | Apple Games® | application program |
 | Apple Health™ | software application |
 | Apple Immersive Video™ | entertainment format |
@@ -726,7 +726,7 @@ The absence of a product or service name or logo from this list does not constit
 | MacApp® | application program |
 | MacBook® | computer |
 | MacBook Air® | computer |
-| MacBook Neo™ | computer |
+| MacBook Neo® | computer |
 | MacBook Pro® | computer |
 | Mac Catalyst® | software feature |
 | Macintosh® | computer |
