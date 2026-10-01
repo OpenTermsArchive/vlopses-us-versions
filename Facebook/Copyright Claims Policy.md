@@ -196,16 +196,6 @@ What is trademark infringement?
 
 Copy link
 
-What is trademark dilution?
-
-What is likelihood of confusion?
-
-What is a protected trademark?
-
-What is trademark law?
-
-I have a different question
-
 Generally, trademark infringement occurs when all three of the following requirements are met:
 
 1.  A company or person uses a trademark owner’s trademark (or similar trademark) without permission
@@ -255,13 +245,6 @@ Related Articles
 * * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
 [What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1231,11 +1214,11 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
-What happens after a trademark report?
+What happens after I report?
 
-How do I respond to a trademark report?
+What is a trademark report?
 
-What information is shared in a report?
+How do I respond to a message?
 
 I have a different question
 
@@ -1581,9 +1564,7 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-What are Facebook IP tools?
-
-How do I report IP infringement?
+How do I report intellectual property?
 
 What is Brand Rights Protection?
 
@@ -1802,6 +1783,14 @@ How do you know if you own the copyright in a work
 
 Copy link
 
+What is copyright ownership?
+
+What is an original work?
+
+What if I appear in a photo?
+
+I have a different question
+
 In general, the person who creates an original work owns the copyright. For example, if you create a painting, you likely own the copyright in that painting. Similarly, if you take a photo, you likely own the copyright in that photo.
 
 There may be situations where you might think you have a copyright in an original work, but you may not. For example:
@@ -1845,6 +1834,13 @@ Related Articles
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1854,6 +1850,14 @@ What rights do I have as a copyright owner?
 ===========================================
 
 Copy link
+
+What are my copyright owner rights?
+
+What is copyright infringement?
+
+How do I grant copyright permission?
+
+I have a different question
 
 As a copyright owner, you have certain rights under the law. These include the right to stop others from copying or distributing your work, or from creating new works based on your work. Copyright infringement generally occurs when a person engages in one of these activities without the copyright owner’s permission.
 
@@ -1894,6 +1898,13 @@ Related Articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1903,14 +1914,6 @@ How long does copyright protection last?
 ========================================
 
 Copy link
-
-What is copyright protection?
-
-What is the public domain?
-
-How long does copyright last?
-
-I have a different question
 
 Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
 
@@ -1951,13 +1954,6 @@ Related Articles
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
-
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -1968,13 +1964,11 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
-
 How do I avoid Facebook copyright?
 
-What is Facebook fair use?
+What is Facebook copyright law?
 
-How do I get content permission?
+What is Facebook fair use?
 
 I have a different question
 
@@ -2315,11 +2309,11 @@ Facebook Lite App Help
 
 More
 
+How do I appeal removed content?
+
 What is intellectual property infringement?
 
-How do I appeal content removal?
-
-What is a DMCA counter-notification?
+What happens to removed content?
 
 I have a different question
 
@@ -2676,13 +2670,11 @@ Facebook removed content as a result of my copyright report. What information is
 
 Copy link
 
-What information is shared?
+What information is provided?
 
-What is a copyright report?
+What is a copyright claim?
 
-How do I appeal a copyright report?
-
-What if I provide a business email?
+How do I appeal a copyright claim?
 
 I have a different question
 
@@ -2820,11 +2812,13 @@ Tools Facebook provides to help protect your intellectual property
 
 Copy link
 
-How do I protect my intellectual property?
+What are Facebook copyright tools?
 
 How does Rights Manager work?
 
 How does content protection work?
+
+How do I report copyrighted content?
 
 I have a different question
 
