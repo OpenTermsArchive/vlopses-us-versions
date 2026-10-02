@@ -11,7 +11,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=en)
 
-Effective May 26, 2026 | [Archived versions](https://policies.google.com/privacy/archive?hl=en) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20260526/zrR4SpRu/google_privacy_policy_en_us.pdf)
+Effective October 1, 2026 | [Archived versions](https://policies.google.com/privacy/archive?hl=en) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20261001/f86f5p0s/google_privacy_policy_en_us.pdf)
 
 Contents
 --------
@@ -56,7 +56,7 @@ We want you to understand the types of information we collect as you use our ser
 
 We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://policies.google.com/privacy?hl=en#footnote-useful-ads), [the people who matter most to you online](https://policies.google.com/privacy?hl=en#footnote-people-online), or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
 
-Google also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information we collect with [unique identifiers](https://policies.google.com/privacy?hl=en#footnote-unique-id) tied to the browser, application, or [device](https://policies.google.com/privacy?hl=en#footnote-device) you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity.
+Google also collects and uses data that is not associated with your account. For example, when you’re not signed in to a Google Account, we store the information we collect with [unique identifiers](https://policies.google.com/privacy?hl=en#footnote-unique-id) tied to the browser, application, or [device](https://policies.google.com/privacy?hl=en#footnote-device) you’re using. This allows us to do things like maintain your preferences across browsing sessions, such as your preferred language or whether to show you more relevant search results or ads based on your activity across devices.
 
 When you’re signed in, we also collect information that we store with your Google Account, which we treat as [personal information](https://policies.google.com/privacy?hl=en#footnote-personal-info).
 
