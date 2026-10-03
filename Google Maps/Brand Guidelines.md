@@ -37,7 +37,6 @@ Brands Select a brand Google
 *   Google News
 *   Google One
 *   Google.org
-*   Google Pay & Google Wallet
 *   Google Photos
 *   Google Pixel
 *   Google Pixelbook
@@ -48,6 +47,7 @@ Brands Select a brand Google
 *   Google Search
 *   Google TV
 *   Google TV Streamer
+*   Google Wallet & Google Pay
 *   Google Wifi
 *   ND4C Guidance
 *   Quick Share
