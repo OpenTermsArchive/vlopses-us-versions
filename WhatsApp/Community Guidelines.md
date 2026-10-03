@@ -57,6 +57,6 @@ _Channels Enforcement:_ As described above, we may take action on channels when 
 
 _Account Disables:_ If we disable your account for a violation of these Channels Guidelines or Terms of Service, you may appeal that decision as described [here](https://faq.whatsapp.com/465883178708358).
 
-If you disagree with a content decision we have made on Channels and are a user in the EU, you can raise that decision with a certified out-of-court dispute settlement body in order to resolve the issue.
+If you disagree with a content decision we have made on Channels and are a user in the EU, you can raise that decision with a certified out-of-court dispute settlement body in order to resolve the issue. [See options.](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement#ecl-inpage-List-of-bodies)
 
 _User Reports_: If you report content posted by others but we find that the content does not go against our terms or policies, we will let you know. If you disagree with a decision we have made, you can appeal that decision. If we determine that our decision was in error, we will reverse the enforcement.
