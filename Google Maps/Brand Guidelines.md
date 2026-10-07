@@ -17,11 +17,11 @@ Brands Select a brand Google
 *   Family Link
 *   Fast Pair
 *   Find Hub
+*   Gemini
 *   Gemini Intelligence
 *   Google
 *   Google Assistant
 *   Google Cast
-*   Google Gemini
 *   Google Health
 *   Google Home
 *   Google Lens
