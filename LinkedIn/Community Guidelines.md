@@ -126,7 +126,8 @@ For certain egregious violations of our Professional Community Policies (e.g., c
 
 Content that would normally violate the letter of our policies may be allowed in cases where the content is being shared for awareness or to condemn. In these cases, we may label and obscure the content for members who may find this content sensitive or disturbing, or otherwise do not want to view it. However, we won’t remove the content or penalize the author for posting it.
 
-### Tagged in
+Tagged in
+---------
 
 *   [Data and Privacy](https://www.linkedin.com/help/linkedin/topic/a65)
 
