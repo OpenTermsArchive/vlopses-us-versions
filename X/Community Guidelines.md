@@ -1805,15 +1805,12 @@ Table of contents
 *   [March 2024](#march-2024)
 *   [What is in violation of this policy?](#what-is-in-violation-of-this-policy)
 *   [Posting Private Information](#posting-private-information)
-*   [Non-Consensual Nudity](#non-consensual-nudity)
 *   [Right to Privacy](#right-to-privacy)
 *   [What is not a violation of this policy?](#what-is-not-a-violation-of-this-policy)
 *   [Posting Private Information](#posting-private-information-2)
-*   [Non-Consensual Nudity](#non-consensual-nudity-2)
 *   [Right to Privacy](#right-to-privacy-2)
 *   [Who can report violations of this policy?](#who-can-report-violations-of-this-policy)
 *   [Posting Private Information](#posting-private-information-3)
-*   [Non-Consensual Nudity](#non-consensual-nudity-3)
 *   [Right to Privacy](#right-to-privacy-3)
 *   [What happens if you violate this policy?](#what-happens-if-you-violate-this-policy)
 
@@ -1829,8 +1826,6 @@ You may not threaten to expose, incentivize others to expose, or publish or post
 Sharing someone’s private information online without their permission, sometimes called “doxxing,” is a breach of their privacy and can pose serious safety and security risks for those affected.
 
 Additionally, posting images is an important part of our users' experience on \>x<. However, where individuals have a reasonable expectation of privacy in an individual piece of media, we believe they should be able to determine whether or not it is shared. When we are notified by individuals depicted, or their authorized representative, that they did not consent to having media shared, we will remove the media. This policy is not applicable to public figures.
-
-Lastly, having sexual, nude, or intimate media shared without express consent not only severely violates someone’s privacy and psychological safety, but can lead to physical, emotional, and financial hardship and we work tirelessly to remove this content immediately.
 
 When reviewing reports under our Private Content policies, we consider a number of things, including:
 
@@ -1859,22 +1854,6 @@ The following behaviors are also not permitted:
 *   asking for or offering a bounty or financial reward in exchange for posting someone’s private information
 *   asking for a bounty or financial reward in exchange for not posting someone’s private information, sometimes referred to as blackmail.
 
-### Non-Consensual Nudity
-
-You cannot share sexual, nude, or intimate media (photos/videos) without the permission of the person involved, or that was taken or appears to have been taken without the consent of the people involved. This includes:
-
-*   hidden camera content featuring nudity, partial nudity, and/or sexual acts
-*   creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts
-*   images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body
-*   images or videos that are taken in an intimate setting and not intended for public distribution
-
-The following behaviors are also not permitted:
-
-*   threatening to publicly expose someone’s sexual, nude, or intimate media
-*   sharing information that would enable individuals to hack or gain access to someone’s sexual, nude, or intimate media without their consent, such as sharing login credentials for a private photo album
-*   asking for or offering a bounty or financial reward in exchange for posting someone’s sexual, nude, or intimate media
-*   asking for a bounty or financial reward in exchange for not posting someone’s sexual, nude, or intimate media, sometimes referred to as blackmail.
-
 ### Right to Privacy
 
 You cannot share media (photos/videos) of private individuals without the permission of the person(s) depicted.
@@ -1897,10 +1876,6 @@ The following are not in violation of this policy:
     *   gossip, rumors, accusations, and allegations
     *   screenshots of text messages or messages from other platforms (unless they contain private information, such as someone’s phone number).
 
-### Non-Consensual Nudity
-
-Pornography and other forms of consensually-produced adult content are allowed on \>x<, provided you mark the post or [mark your account as sensitive](https://help.x.com/rules-and-policies/media-settings.html). Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.
-
 ### Right to Privacy
 
 The following are not in violation of this policy:
@@ -1915,17 +1890,6 @@ The following are not in violation of this policy:
 ### Posting Private Information
 
 Anyone can report violations of this policy using our dedicated reporting flow when the private information has been shared in a clearly abusive way. When this isn’t the case, we may need to hear directly from the owner of the private information (or an authorized representative, such as a lawyer) before taking action.
-
-### Non-Consensual Nudity
-
-Due to \>x< allowing some types of adult content on the platform, we may need additional context to determine if the content was created or shared without the consent of those involved. This means we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.
-
-However, to reduce the burden on those affected by non-consensual media, anyone can report the following types of content:
-
-*   creepshots or upskirts
-*   content where a bounty or financial reward is offered in exchange for non-consensual nudity media
-*   intimate images or videos that are accompanied by text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge, such as “I hope you get what you deserve when people see this”
-*   intimate images or videos that are accompanied by information that could be used to contact those depicted, such as “you can tell my ex what you think by calling them at 123-456-7890.”
 
 ### Right to Privacy
 
@@ -1954,15 +1918,12 @@ Share this Article
 *   [March 2024](#march-2024)
 *   [What is in violation of this policy?](#what-is-in-violation-of-this-policy)
 *   [Posting Private Information](#posting-private-information)
-*   [Non-Consensual Nudity](#non-consensual-nudity)
 *   [Right to Privacy](#right-to-privacy)
 *   [What is not a violation of this policy?](#what-is-not-a-violation-of-this-policy)
 *   [Posting Private Information](#posting-private-information-2)
-*   [Non-Consensual Nudity](#non-consensual-nudity-2)
 *   [Right to Privacy](#right-to-privacy-2)
 *   [Who can report violations of this policy?](#who-can-report-violations-of-this-policy)
 *   [Posting Private Information](#posting-private-information-3)
-*   [Non-Consensual Nudity](#non-consensual-nudity-3)
 *   [Right to Privacy](#right-to-privacy-3)
 *   [What happens if you violate this policy?](#what-happens-if-you-violate-this-policy)
 
@@ -2037,68 +1998,70 @@ Table of contents
 *   [Overview](#overview)
 *   [What is a violation of this policy?](#what-is-a-violation-of-this-policy)
 *   [What is not a violation of this policy?](#what-is-not-a-violation-of-this-policy)
-*   [Who can report violations of this policy?](#who-can-report-violations-of-this-policy)
-*   [Content reportable by anyone](#content-reportable-by-anyone)
-*   [Content reportable by featured individual(s)](#content-reportable-by-featured-individual-s)
 *   [How can I report violations of this policy?](#how-can-i-report-violations-of-this-policy)
 *   [In-app](#in-app)
 *   [You can report this content for review in-app as follows:](#help-e5bffe458f63)
 *   [Desktop](#desktop)
 *   [You can report this content for review via desktop as follows:](#help-87f661173a39)
-*   [Report form](#report-form)
 *   [What happens if you violate this policy?](#what-happens-if-you-violate-this-policy)
+*   [Appeals](#appeals)
 *   [Additional resources](#additional-resources)
 
 Overview
 --------
 
-**December 2021**
+**August 2026**
 
-You may not post or share intimate photos or videos of someone that were produced or distributed without their consent.
+**You may not share, create, manipulate, distribute or threaten to distribute content that sexualizes or exposes an identifiable real adult without their explicit consent.**
 
 Sharing explicit sexual images or videos of someone online without their consent is a severe violation of their privacy and the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules). Sometimes referred to as revenge porn, this content poses serious safety and security risks for people affected and can lead to physical, emotional, and financial hardship.
 
 What is a violation of this policy?
 -----------------------------------
 
-Under this policy, you can’t post or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved.
+Any content that sexualizes or exposes an identifiable, real adult without their explicit consent. This includes both clearly explicit intimate imagery and sexually suggestive or manipulated content when shared without consent or in a harmful context. It covers:
 
-Examples of the types of content that violate this policy include, but are not limited to:
+*   Creation or capture of non-consensual media
+*   Manipulation or edits, including using Artificial Intelligence (“AI”) or any other tool
+*   Sharing or threatening distribution, including screenshots of private conversations
+*   Bounties, incentives, or instructions for unauthorized access (even without the media attached)
 
-*   hidden camera content featuring nudity, partial nudity, and/or sexual acts;
-*   creepshots or upskirts - images or videos taken of people’s buttocks, up an individual’s skirt/dress or other clothes that allows people to see the person’s genitals, buttocks, or breasts;
-*   images or videos that superimpose or otherwise digitally manipulate an individual’s face onto another person’s nude body;
-*   images or videos that are taken in an intimate setting and not intended for public distribution; and
-*   offering a bounty or financial reward in exchange for intimate images or videos.
+**Covered formats** include real photographs, videos, GIFs, AI-generated or edited media, screenshots, and third-party links or previews.
+
+**Examples** of the types of content that violate this policy include, but are not limited to:
+
+*   Hidden camera, creepshot, or upskirt content featuring nudity, partial nudity, or sexual acts
+*   Non-consensual explicit nudity or sexual activity (including implied acts or fetish content)
+*   Content showing bodily fluids in a sexual context without explicit consent
+*   AI-generated, deepfake, or digitally manipulated media that sexualizes, modifies or exposes a specific individual
+*   Intimate or private-setting media (bedroom, bathroom, dressing room) not intended for public distribution
+*   Prompting, attempting to generate, generating or sharing non-consensual intimate content of real people using AI or other tools (even if unsuccessful)
 
 What is not a violation of this policy?
 ---------------------------------------
 
-Pornography and other forms of consensually produced adult content are allowed on \>x<, provided that this media is marked as sensitive. Doing so provides people who may not want to see this type of content with a warning that they will need to acknowledge before viewing your media.
+Content is **not** a violation if there are clear signals of explicit consent from the individual(s) featured, such as:
 
-To mark your media as sensitive, navigate to your [safety settings](https://x.com/settings/safety) and select the Mark media you post as containing material that may be sensitive option. If you don’t mark your media as sensitive, we may do so manually if your content is reported for review.
+*   The person themselves generating or posting the content with affirmative language
+*   The depicted individual directly replying, engaging positively or stating approval (e.g., “Love this! Make another one”)
 
-Who can report violations of this policy?
------------------------------------------
+We also allow:
 
-Because \>x< allows some types of adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.
+*   Images or videos taken in public or commercial settings, streams, conventions, events, performances, or voluntary on-camera appearances (including paparazzi or fan clips of celebrities/streamers in revealing attire)
+*   Widely circulated public or media-published photos of public figures/celebrities
+*   Political satire, memes, humor or non-sexual edits critical of public figures
+*   Consensual adult nudity or sexual acts provided it is marked as Adult Content
 
-### Content reportable by anyone
+**Important note on minors**
 
-We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report the following types of content:
-
-*   creepshots or upskirts;
-*   content where a bounty or financial reward is offered in exchange for non-consensual nudity media; and
-*   intimate images or videos that are accompanied by:
-*   text that wishes/hopes for harm to come to those depicted or otherwise refers to revenge e.g., “I hope you get what you deserve when people see this”; and
-*   information that could be used to contact those depicted e.g., “You can tell my ex what you think by calling them on 1234567”.
-
-### Content reportable by featured individual(s)
-
-For other types of content, we may need to hear directly from the individual(s) featured (or an authorized representative, such as a lawyer) to ensure that we have sufficient context before taking any enforcement action.
+Any depiction, generation, or sexualization of a minor (any person under the age of 18) is always treated as the highest-severity violation and is routed to our dedicated Child Safety team for appropriate enforcement.
 
 How can I report violations of this policy?
 -------------------------------------------
+
+We recognize that it can be difficult for those impacted to report this type of content for review. To reduce the burden on those affected, anyone can report this type of content.
+
+If you see content that may violate this policy, report it directly from the post using the “Report” option and select ‘Private or Non-Consensual Content’, then ‘Threatening to share or sharing a sexual, nude, or intimate photo/video of me or someone without permission’.
 
 ### In-app
 
@@ -2106,48 +2069,45 @@ You can report this content for review in-app as follows:
 
 1.  Select **Report post** from the icon.
     
-2.  Select **It displays a sensitive photo or video**.
+2.  Select **Private or Non-Consensual Content**
     
-3.  Select **An unauthorized photo or video**.
+3.  Select the relevant option depending on who you are reporting on behalf of.
     
-4.  Select **It includes unauthorized, intimate content of me or someone else**.
-    
-5.  Select the relevant option depending on who you are reporting on behalf of.
-    
-6.  Select up to 5 posts to report for review.
-    
-7.  Submit your report.
+4.  Submit your report.
     
 
 ### Desktop
 
 You can report this content for review via desktop as follows:
 
-1.  Select **Report post** from the icon.
+1.  Select [our **private information report form**](https://help.x.com/en/forms/safety-and-sensitive-content/private-information.html)**.**
     
-2.  Select **It displays a sensitive photo or video**.
+2.  Select the relevant option depending on who you are reporting on behalf of.
     
-3.  Select **An unauthorized photo or video**.
+3.  Submit your report.
     
-4.  Select **It includes unauthorized, intimate content of me or someone else**.
-    
-5.  Select the relevant option depending on who you are reporting on behalf of.
-    
-6.  Select up to 5 posts to report for review.
-    
-7.  Submit your report.
-    
-
-### Report form
-
-You can also report this content via [our private information report form](https://help.x.com/en/forms/safety-and-sensitive-content/private-information.html), by selecting the **An unauthorized photo or video** option.
 
 What happens if you violate this policy?
 ----------------------------------------
 
-We will immediately and permanently suspend any account that we identify as the original poster of intimate media that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images.
+When determining the penalty for violating this policy, we consider a number of factors including, but not limited to the severity of the violation and an individual’s previous record of rule violations.
 
-In other cases, we may not suspend an account immediately. This is because some people share this content inadvertently, to express shock, disbelief or to denounce this practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
+We may suspend any account that we identify as the original poster of intimate media that was created or shared without consent. We will do the same with any account that posts only this type of content, e.g., accounts dedicated to sharing upskirt images. Reshares, quotes, reposts of the same content are also considered as violations under this policy.
+
+In other cases, we may not suspend an account immediately. This is because some people may share such content inadvertently, to express shock, disbelief or to draw attention to an exploitative practice. In these cases, we will require you to remove this content. We will also temporarily lock you out of your account before you can post again. If you violate this policy again after your first warning, your account will be permanently suspended.
+
+**Restricted**
+
+Because X allows consensually produced and distributed adult content, we need to evaluate context to assess if reported content has been created or shared without the consent of those involved.
+
+Where we’re unsure if the individual(s) featured is consenting or not (provided it’s not explicit), we may need to hear directly from them (or an authorized representative) to ensure that we have sufficient context before removing the content.
+
+In those cases, we will limit visibility of the content until we hear from the victim.
+
+**Appeals**
+-----------
+
+If you believe we made a mistake, you can [submit an appeal](https://help.x.com/en/forms/account-access/appeals.html).
 
 Additional resources
 --------------------
@@ -2159,16 +2119,13 @@ Share this Article
 *   [Overview](#overview)
 *   [What is a violation of this policy?](#what-is-a-violation-of-this-policy)
 *   [What is not a violation of this policy?](#what-is-not-a-violation-of-this-policy)
-*   [Who can report violations of this policy?](#who-can-report-violations-of-this-policy)
-*   [Content reportable by anyone](#content-reportable-by-anyone)
-*   [Content reportable by featured individual(s)](#content-reportable-by-featured-individual-s)
 *   [How can I report violations of this policy?](#how-can-i-report-violations-of-this-policy)
 *   [In-app](#in-app)
 *   [You can report this content for review in-app as follows:](#help-e5bffe458f63)
 *   [Desktop](#desktop)
 *   [You can report this content for review via desktop as follows:](#help-87f661173a39)
-*   [Report form](#report-form)
 *   [What happens if you violate this policy?](#what-happens-if-you-violate-this-policy)
+*   [Appeals](#appeals)
 *   [Additional resources](#additional-resources)
 
 © 2026 \>x< Corp.
