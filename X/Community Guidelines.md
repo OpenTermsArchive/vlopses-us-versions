@@ -129,6 +129,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -327,6 +328,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -494,6 +496,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -700,6 +703,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -873,6 +877,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -1058,6 +1063,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -1245,6 +1251,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -1398,6 +1405,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -1566,6 +1574,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -1775,6 +1784,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -2008,6 +2018,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -2212,6 +2223,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -2514,6 +2526,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -2661,6 +2674,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -2963,6 +2977,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -3265,6 +3280,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -3396,6 +3412,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -3411,7 +3428,7 @@ Username squatting is prohibited on >x<. Inactive accounts with no profile image
 
 Table of contents
 
-*   [Username squatting policy](#help-article-title)
+*   [Username squatting policy](#help-page-title)
 
 Username squatting is prohibited by the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules).
 
@@ -3421,7 +3438,7 @@ Attempts to sell, buy, or solicit other forms of payment in exchange for usernam
 
 Share this Article
 
-*   [Username squatting policy](#help-article-title)
+*   [Username squatting policy](#help-page-title)
 
 © 2026 \>x< Corp.
 
@@ -3475,6 +3492,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -3777,6 +3795,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4079,6 +4098,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4190,6 +4210,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4274,6 +4295,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4412,6 +4434,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4587,6 +4610,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4698,6 +4722,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4818,6 +4843,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -4952,6 +4978,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -5097,6 +5124,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -5112,7 +5140,7 @@ Certain uses of copyrighted material may not require the copyright owner’s per
 
 Table of contents
 
-*   [Fair use policy](#help-article-title)
+*   [Fair use policy](#help-page-title)
 
 Whether or not a certain use of copyrighted material constitutes a fair use is ultimately determined by a court of law. Courts analyze fair use arguments by looking at four factors:
 
@@ -5136,7 +5164,7 @@ For more information on fair use:
 
 Share this Article
 
-*   [Fair use policy](#help-article-title)
+*   [Fair use policy](#help-page-title)
 
 © 2026 \>x< Corp.
 
@@ -5190,6 +5218,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -5327,6 +5356,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -5473,3 +5503,4 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
