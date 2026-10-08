@@ -119,6 +119,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
 
 - - -
 
@@ -203,3 +204,4 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
+*   [1-888-GET-XADS](tel:+18884389237)
