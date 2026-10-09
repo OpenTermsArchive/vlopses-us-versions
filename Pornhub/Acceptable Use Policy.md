@@ -354,9 +354,9 @@ We utilize a number of external and internal tools to identify and remove potent
 *   **MediaWise**: [Vobile](https://www.vobilegroup.com/)’s fingerprinting software that scans any new uploads for potential matches to unauthorized materials to protect against banned videos being re-uploaded to the platform.
 *   **Safer**: In November 2020, we became the first adult content platform to partner with [Thorn](https://www.thorn.org/), allowing us to begin using its [Safer](https://safer.io/) product on Pornhub, adding an additional layer of protection in our robust compliance and content moderation process. Safer joins the list of technologies that Pornhub utilizes to help protect visitors from unwanted or illegal material.
 *   **Instant Image Identifier**: The Centre for Expertise on Online Sexual Child Abuse ([Offlimits](https://www.eokm.nl/)) tool, commissioned by the European Commission, detects known child abuse imagery using a triple verified database.
-*   **[NCMEC](https://www.missingkids.org/) Hash Sharing**: NCMEC’s database of known CSAM hashes, including hashes submitted by individuals who fingerprinted their own underage content via NCMEC’s [Take It Down](https://takeitdown.ncmec.org/) service.
-*   **[Internet Watch Foundation](https://www.iwf.org.uk/) (IWF) Hash List**: IWF’s database of known CSAM, sourced from hotline reports and the UK Home Office’s Child Abuse Image Database.
-*   **[StopNCII.org](https://stopncii.org/)**: A global initiative (developed by Meta & SWGfL) that prevents the spread of non-consensual intimate images (NCII) online. If any adult (18+) is concerned about their intimate images (or videos) being shared online without consent, they can create a digital fingerprint of their own material and prevent it from being shared across participating platforms. 
+*   [**NCMEC**](https://www.missingkids.org/) **Hash Sharing**: NCMEC’s database of known CSAM hashes, including hashes submitted by individuals who fingerprinted their own underage content via NCMEC’s [Take It Down](https://takeitdown.ncmec.org/) service.
+*   [**Internet Watch Foundation**](https://www.iwf.org.uk/) **(IWF) Hash List**: IWF’s database of known CSAM, sourced from hotline reports and the UK Home Office’s Child Abuse Image Database.
+*   [**StopNCII.org**](https://stopncii.org/): A global initiative (developed by Meta & SWGfL) that prevents the spread of non-consensual intimate images (NCII) online. If any adult (18+) is concerned about their intimate images (or videos) being shared online without consent, they can create a digital fingerprint of their own material and prevent it from being shared across participating platforms. 
 *   **Safeguard**: Safeguard is Pornhub’s proprietary image recognition technology designed with the purpose of combatting both child sexual abuse imagery and non-consensual content, by preventing the re-uploading of previously fingerprinted content to our platform.
 *   **Age Estimation**: We also utilize age estimation capabilities to analyze content uploaded to our platform using a combination of internal proprietary software and external technology in an effort to strengthen the varying methods we use to prevent the upload and publication of potential or actual CSAM.
 *   **Transcription Service**: Our transcription service transcribes the audio in uploaded videos to text. Transcribed text is then run against our list of banned words to assist our moderation team in identifying content that may violate our [Terms of Service](https://www.pornhub.com/information/terms) or [Community Guidelines](https://help.pornhub.com/hc/en-us/articles/4419900587155-Community-Guidelines). 
@@ -372,19 +372,19 @@ Pornhub remains vigilant when it comes to researching, adopting, and using the l
 
 The IWF is a technology-led, child protection organization, making the internet a safer place for children and adults across the world. They are one of the largest child protection organizations globally.
 
-In November 2022, we [announced a partnership](https://www.iwf.org.uk/news-media/news/model-of-good-practice-for-adult-sector-to-be-developed-by-iwf-and-mindgeek/) with the IWF overseen by an Expert Advisory Board including the  [British Board of Film Classification](https://www.bbfc.co.uk/), [SWGfL](https://swgfl.org.uk/), [Aylo](https://www.aylo.com/), [Marie Collins Foundation](https://www.mariecollinsfoundation.org.uk/), the [Home Office](https://www.gov.uk/government/organisations/home-office), [PA Consulting](https://www.paconsulting.com/), [National Crime Agency](https://www.nationalcrimeagency.gov.uk/) (NCA) and academia represented by [Middlesex University](https://www.mdx.ac.uk/) and [Exeter University](https://www.exeter.ac.uk/), to:
+In November 2022, we [announced a partnership](https://www.iwf.org.uk/news-media/news/model-of-good-practice-for-adult-sector-to-be-developed-by-iwf-and-mindgeek/) with the IWF overseen by an Expert Advisory Board including the  [British Board of Film Classification](https://www.bbfc.co.uk/), [SWGfL](https://swgfl.org.uk/), [Aylo](https://www.aylo.com/), [Marie Collins Foundation](https://www.mariecollinsfoundation.org.uk/), the [Home Office](https://www.gov.uk/government/organisations/home-office), [PA Consulting](https://www.paconsulting.com/), [National Crime Agency](https://www.nationalcrimeagency.gov.uk/) (NCA) and academia represented by [Middlesex University](https://www.mdx.ac.uk/) and [Exeter University](https://www.exeter.ac.uk/), to:
 
 *   Develop a model of good practice to guide the adult industry in combatting child sexual abuse imagery online;
 *   Evaluate the effectiveness of IWF services when deployed across Aylo’s brands;
 *   Combine technical and engineering expertise to scope and develop solutions which will assist with the detection, disruption and removal of child sexual abuse material online.
 
-In May 2024, Aylo and the IWF published the world’s first standards of good practice for adult content sites -  [Aylo and IWF partnership ‘paves the way’ for adult sites to join war on child sexual abuse online](https://www.iwf.org.uk/news-media/news/aylo-and-iwf-partnership-paves-the-way-for-adult-sites-to-join-war-on-child-sexual-abuse-online/)
+In May 2024, Aylo and the IWF published the world’s first standards of good practice for adult content sites -  [Aylo and IWF partnership ‘paves the way’ for adult sites to join war on child sexual abuse online](https://www.iwf.org.uk/news-media/news/aylo-and-iwf-partnership-paves-the-way-for-adult-sites-to-join-war-on-child-sexual-abuse-online/)
 
 **The reThink Chatbot**
 
 Building upon our efforts to spread awareness about the harm of child sexual abuse material (CSAM) and to deter users from searching for this kind of content, [we launched the reThink Chatbot](https://www.pornhub.com/press/show?id=2331) in partnership with the [Internet Watch Foundation](https://www.iwf.org.uk/) and [Stop it Now](https://www.stopitnow.org/) in March of 2022. The reThink chatbot engages with Pornhub users attempting to search for sexual imagery of children and signposts them to Stop It Now! UK and Ireland where they can receive help and support to address their behavior.
 
-**The results were independently evaluated by the University of Tasmania and [published in February 2024](https://www.iwf.org.uk/about-us/why-we-exist/our-research/rethink-chatbot-evaluation/). They showed that the Chabot was successful in reducing the number of searches for child sexual abuse material.**
+The results were independently evaluated by the University of Tasmania and [published in February 2024](https://www.iwf.org.uk/about-us/why-we-exist/our-research/rethink-chatbot-evaluation/). They showed that the Chatbot was successful in reducing the number of searches for child sexual abuse material. 
 
 **Spectrum Labs AI**
 
@@ -408,15 +408,13 @@ We provided insights from our in-house moderation team in co-writing the paper w
 
 **Crimestoppers International (CSI)**
 
-In January 2024 we [announced our working relationship](https://www.aylo.com/newsroom/Crime-Stoppers-Working-Relationship/) with Crime Stoppers International with a shared goal to enhance the cooperation and collaboration between the online adult industry, civil society and law enforcement in combatting online harms and exploitation.
-
-For a full list of Trust and Safety partnerships, initiatives and external technology, please refer to our [Trust and Safety Initiatives](https://help.pornhub.com/hc/en-us/articles/19159382668435-Trust-and-Safety-Initiatives) page.
+In January 2024 we announced our working relationship with Crime Stoppers International with a shared goal to enhance the cooperation and collaboration between the online adult industry, civil society and law enforcement in combatting online harms and exploitation.
 
 **Image-based Sexual Abuse Principles**
 
 After the White House issued a [Call to Action](https://www.whitehouse.gov/gpc/briefing-room/2024/05/23/a-call-to-action-to-combat-image-based-sexual-abuse/) to Combat Image-Based Sexual Abuse for tech and civil society on May 23, 2024, the Center for Democracy and Technology (CDT), the Cyber Civil Rights Initiative (CCRI), and the National Network to End Domestic Violence (NNEDV) invited civil society organizations and tech industry leaders to a multistakeholder working group (“[Working Group](https://cdt.org/press/cdt-ccri-and-nnedv-announce-multistakeholder-working-group-to-address-non-consensual-intimate-images/)”) focused on combating IBSA.
 
-Aylo participated in this working group, which worked to create a set of [principles](https://ibsaprinciples.org/), which were published in September 2024. We are proud of our continued work to prevent non-consensual content and hope that more organisations will sign-up to these voluntary principles.
+Aylo participated in this workzzSing group, which worked to create a set of [principles](https://ibsaprinciples.org/), which were published in September 2024. We are proud of our continued work to prevent non-consensual content and hope that more organisations will sign-up to these voluntary principles.
 
 **Identity Verification**
 
