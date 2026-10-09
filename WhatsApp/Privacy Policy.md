@@ -43,7 +43,8 @@ Our Services have optional features which, if used by you, require us to collect
 
 *   **Your Account Information**. You must provide your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
 
-*   **Your Messages**. We do not retain your messages in the ordinary course of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
+*   **Your Messages**. We do not retain your messages in the [ordinary course](https://faq.whatsapp.com/1090704890049832)  
+    of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
     *   **Undelivered Messages**. If a message cannot be delivered immediately (for example, if the recipient is offline), we keep it in encrypted form on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it.
     *   **Media Forwarding**. When a user forwards media within a message, we store that media temporarily in encrypted form on our servers to aid in more efficient delivery of additional forwards.  
           
@@ -628,7 +629,8 @@ Our Services have optional features which, if used by you, require us to collect
 
 *   **Your Account Information**. You must provide your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
 
-*   **Your Messages**. We do not retain your messages in the ordinary course of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
+*   **Your Messages**. We do not retain your messages in the [ordinary course](https://faq.whatsapp.com/1090704890049832)  
+    of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
     *   **Undelivered Messages**. If a message cannot be delivered immediately (for example, if the recipient is offline), we keep it in encrypted form on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it.
     *   **Media Forwarding**. When a user forwards media within a message, we store that media temporarily in encrypted form on our servers to aid in more efficient delivery of additional forwards.  
           
