@@ -188,7 +188,7 @@ Examples of violations
 *   SKU names that do not accurately convey the nature of the subscription, such as "Free Trial" or "Try Premium membership - 3 days for free," for a subscription with an auto-recurring charge. 
 *   Multiple screens in the purchase flow that lead users into accidentally clicking the subscribe button.
 *   Subscriptions that do not offer sustained or recurring value — for example, offering 1,000 gems for the first month, then reducing the benefit to 1 gem in subsequent months of the subscription.
-*   Requiring a user to sign up to an auto-renewing subscription to deliver a one-time benefit, and canceling a user’s subscription without their request after the purchase.
+*   Requiring a user to sign up to an auto-renewing subscription to deliver a one-time benefit, and canceling a user's subscription without their request after the purchase.
 
 **Example 1:**
 
