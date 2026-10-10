@@ -982,8 +982,8 @@ Examples of common violations
 | --- | --- |
 | **Do** | **Don't** |
 | Provide an honest and accurate app description, title, and images about its functionality. | Don't generate or facilitate the generation of fake documents. |
-| Ensure the app performs as reasonably and accurately expected by the user. | Don't mimic other apps to trick users into disclosing personal and sensitive  information. |
-| Alert users and update your store listing  when the app functionality changes. | Don't have different core functionality based on user data or geography without disclosure. |
+| Ensure the app performs as reasonably and accurately expected by the user. | Don't mimic other apps to trick users into disclosing personal and sensitive information. |
+| Alert users and update your store listing when the app functionality changes. | Don't have different core functionality based on user data or geography without disclosure. |
 | Prompt users and explicitly disclose the download size first, if the app requires the download of additional assets. | Don't show different functionality based on user geography or device parameters, or other user-dependent data without prominently advertising it. |
 
 * * *
@@ -1019,7 +1019,7 @@ Examples of common violations
 |     |     |
 | --- | --- |
 | **Do** | **Don't** |
-| Review and comply with all other Google Play policies, especially the [**Restricted Content**](https://support.google.com/googleplay/android-developer/topic/9877466?sjid=4697247637550754979-NC) policy, for any media your app creates or promotes. | Don't create, promote, or help users create demonstrably false or misleading media that could cause harm. |
+| Review and comply with all other Google Play policies, especially the [Restricted Content](https://support.google.com/googleplay/android-developer/topic/9877466?sjid=4697247637550754979-NC) policy, for any media your app creates or promotes. | Don't create, promote, or help users create demonstrably false or misleading media that could cause harm. |
 | Apply clear, visible, and user-facing watermarks or disclaimers to all media (imagery, audio, video, text) that your app manipulates. | Don't manipulate media related to sensitive events, politics, or social issues in a way that is deceptive or harmful. |
 | Ensure any content intended as satire or parody is obvious to the user. | Don't alter media clips to impersonate or mimic real news broadcasts (for example, by using their logos, names, or branding) unless you include a clear watermark or disclaimer stating it is not. |
 | Make sure your app has a clear, legitimate purpose beyond simply creating manipulated media (for example, creative tools, artistic filters). | Don't use a sensitive event or public figures to advertise media alteration capabilities in your app. |
