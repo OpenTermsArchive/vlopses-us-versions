@@ -1489,6 +1489,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
              
          *   EU - Eurostat. Road freight transport by load capacity, 2026. [https://ec.europa.eu/eurostat/help/copyright-notice](https://ec.europa.eu/eurostat/help/copyright-notice), [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
              
+         *   Data.govgr - Municipality of Patras - License: [https://data.gov.gr/dataset/podilatodromoi-patra/resource/3ce26660-9ff7-4631-bdfa-2d6b7f74e179](https://data.gov.gr/dataset/podilatodromoi-patra/resource/3ce26660-9ff7-4631-bdfa-2d6b7f74e179)
+             
     24.  **Greenland**
          *   © Asiaq
              
@@ -3150,9 +3152,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
          *   HDX, Humanitarian Data Exchange. Zambia - Subnational Administrative Boundaries. [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses), [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
              
     80.  **Mali**
-         
-         OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
-         
+         *   OCHA Mali ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
+             
+         *   Humanitarian Data Exchange ( HDX) - Mali (Admin Areas) - [https://docs.humdata.org/about/data-licenses](https://docs.humdata.org/about/data-licenses)
+             
     81.  **Madagascar**
          
          OCHA FIS ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
