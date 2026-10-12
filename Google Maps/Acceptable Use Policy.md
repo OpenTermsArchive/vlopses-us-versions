@@ -21,6 +21,8 @@ You must not use the Services – and You must not allow any third parties or En
 *   to test or reverse-engineer the Services in order to find limitations or vulnerabilities, or to evade filtering capabilities, except as expressly permitted in the Agreement; or
 *   to use the Services, or any interfaces provided with the Services, to access any other Google product or service in a manner that violates the terms of service of such other Google product or service.
 
+If You are using any Agentic AI Services or AI Agents (as defined in the applicable Service Specific Terms), this AUP applies to such use. Please see [here](https://cloud.google.com/terms/agentic-ai-use-guidelines) for examples of how this AUP applies to use of those offerings, as well as other guidelines and recommendations for safe and responsible use of agentic AI.
+
 **For Google Workspace:**
 
 In addition to the provisions for "All Services" above, if You are using Google Workspace, Google Workspace for Education, or Cloud Identity, You must not use the Services – and You must not allow any third parties or End Users to use the Services – for any of the following:
