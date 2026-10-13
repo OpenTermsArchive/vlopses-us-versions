@@ -5074,7 +5074,7 @@ To view subtitles in your language, [turn on YouTube captions](https://support.g
 
 * * *
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465?sjid=9765722906555425801-NA#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users. Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details.
 
@@ -5263,7 +5263,7 @@ If you have questions about our policies, [contact Google Ads Support](https://s
 What happens if you violate our policies
 ========================================
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 To ensure a safe and positive experience for users, Google requires that advertisers comply with all [applicable laws and regulations](https://support.google.com/adspolicy/answer/6023676) in addition to the [Google Ads policies](https://support.google.com/adspolicy/answer/6008942). Ads, assets, destinations, and other content that violate these policies can be blocked on the Google Ads platform and associated networks.
 
@@ -5330,7 +5330,7 @@ To view subtitles in your language, [turn on YouTube captions](https://support.g
 
 * * *
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465?sjid=9765722906555425801-NA#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users. Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details.
 
@@ -5519,7 +5519,7 @@ If you have questions about our policies, [contact Google Ads Support](https://s
 Google Ads account suspensions overview
 =======================================
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 [About Google Ads policy account suspensions](https://www.youtube.com/watch?v=S2FOyZ5Vzs8)
 
@@ -5738,7 +5738,7 @@ Suspended accounts are in read-only mode, with a few exceptions. Advertisers wil
 About enforcement procedures for repeat violations
 ==================================================
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 As noted in our advertising [Terms and Conditions](https://ads.google.com/select/tsandcsfinder), Google reserves the right to refuse ads or suspend ad accounts when necessary. To help ensure a safe and positive experience for users, Google requires that advertisers comply with [Google Ads policies](https://support.google.com/adspolicy/answer/6008942). We take repeat violations of our policies seriously and take action against advertisers for non-compliance.
 
@@ -5836,7 +5836,7 @@ Customer Match policy
 
 Use [Data Manager](https://support.google.com/google-ads/answer/11320486) or [Data Manager API](https://developers.google.com/data-manager/api/devguides/audiences/google-ads/customer-match) for your Customer Match workflows for an improved developer experience and access to additional features. It's recommended that you avoid using the Google Ads API for new Customer Match integrations, as Data Manager or Data Manager API is the recommended path forward.
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 This policy applies to advertisers using [Customer Match](https://support.google.com/google-ads/answer/6379332) for campaigns on Search, Shopping, Display, YouTube, or Gmail.
 
@@ -5989,7 +5989,7 @@ You can always choose to [pause the ad](https://support.google.com/google-ads/an
 Legal requirements
 ==================
 
-Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
+Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To read this article in a different language, use the language drop down at the bottom of the page.
 
 You're required to comply with the local laws and regulations of any area your ads target, in addition to Google Ads policies. You're expected to familiarize yourself with the local laws and regulations for any location your ads target.
 
