@@ -696,6 +696,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [Dabmasterars](https://meta.wikimedia.org/wiki/Special:CentralAuth/Dabmasterars "m:Special:CentralAuth/Dabmasterars"), since 5 October 2026
 *   [TheAdventMaster](https://meta.wikimedia.org/wiki/Special:CentralAuth/TheAdventMaster "m:Special:CentralAuth/TheAdventMaster"), since 6 October 2026
 *   [ROXELANA22](https://meta.wikimedia.org/wiki/Special:CentralAuth/ROXELANA22 "m:Special:CentralAuth/ROXELANA22"), since 6 October 2026
+*   [DalasREAL](https://meta.wikimedia.org/wiki/Special:CentralAuth/DalasREAL "m:Special:CentralAuth/DalasREAL"), since 12 October 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
