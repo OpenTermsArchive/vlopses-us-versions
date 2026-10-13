@@ -47,7 +47,7 @@ Creators who monetize on \>x< must meet the following requirements:
 *   You must be in good standing with \>x<, which means that:
     *   You have not repeatedly violated the [\>x< User Agreement](https://x.com/en/tos.html) or \>x<’s Content Monetization Standards.
     *   You have not previously been removed as an advertiser on \>x< for violations of our Ads policies or as an Amplify publisher on \>x< for violations of our [Amplify Pre-Roll Guidelines](https://help.x.com/en/business-and-advertising/amplify-publisher-faqs)
-*   You must have an active Premium, Premium Business, or Premium Organizations subscription.
+*   You must have an active \>x< Premium, Premium Business, or Premium Organizations subscription, or a Plus, Premium, Super, or Ultra plan on The X Subscription.
 *   You must connect an \>x< Money account or verified Stripe account.
 *   You must complete [identity verification](https://help.x.com/en/forms/creator-id-verification.html).
 *   Subscriptions additional criteria (Learn more about [Subscriptions](https://help.x.com/en/using-x/subscriptions-creator))
