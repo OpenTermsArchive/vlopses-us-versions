@@ -4006,39 +4006,46 @@ Promotions policies
 
 Promotions policies provide important guidance about promotion eligibility. To help make sure users have a positive experience, your promotions must comply with the following policies:
 
-1.  [Promotions must add value](#add_value)
-2.  [Adhere to Shopping ads policies](#ShoppingPolicies)
-3.  [Adhere to Google editorial requirements for titles](#EditorialRequirements)
-4.  [Follow redemption requirements](#redemption)
-5.  [Avoid overly restrictive promotions](#restrictive)
-6.  [Make promoted products clear to the shopper](#clear)
-7.  [Make confirmation of promotion receipt clear](#confirmation)
-8.  [Include redemption code for shipping promotions](#shipping)
-9.  [Follow local promotions policies](#follow_local_promotions_policies)
-10.  [Follow combined promotions policies](#combinedpromotion)
+**On this page**
+
+*   [Promotions must add value](#add_value)
+*   [Adhere to Shopping ads policies](#ShoppingPolicies)
+*   [Adhere to promotion image guidelines](#adhere-to-promotion-image-guidelines)
+*   [Adhere to editorial requirements for titles](#EditorialRequirements)
+*   [Follow redemption requirements](#redemption)
+*   [Avoid overly restrictive promotions](#restrictive)
+*   [Make promoted products clear to the shopper](#clear)
+*   [Make confirmation of promotion receipt clear](#confirmation)
+*   [Include redemption code for shipping promotions](#shipping)
+*   [Follow local promotions policies](#follow_local_promotions_policies)
+*   [Follow combined promotions policies](#combinedpromotion)
 
 * * *
 
 Promotions must add value
 -------------------------
 
-Promotions must provide a monetary discount or an additional good or service not normally associated with the purchase. All promotions are applied at checkout or point of sale.
+*   Promotions must provide a monetary discount or an additional good or service not normally associated with the purchase.
+*   All promotions are applied at checkout or point of sale.
+*   Discount percentages must be whole numbers, decimals are not allowed.
+*   **Next-Purchase discounts and coupons**: Promotions offering a discount or coupon code toward a customer's next purchase are eligible, provided the future discount meets the minimum 5% or $5 value threshold. The receipt of the next-purchase coupon or gift card must be clearly confirmed in the cart or at checkout.
+*   **Subscription and auto-delivery discounts**: Promotions offering a percentage or monetary discount on subscription fees or recurring auto-delivery orders (for example, 'Subscribe and save 15%') are supported.
+*   **Cashbacks are eligible**. For percentage cashback, you must clearly state any minimum purchase threshold in your title (for example, "5% cashback on orders over $50").
 
-Discount percentages must be whole numbers, decimals are not allowed.
-
-Promotions **can't** be:
+### Promotions **can't** be
 
 *   Trade-in offers
 *   Mail-in or email rebates
 *   Products and services that are usually free
 *   Sweepstakes
 *   Text used to advertise a product without a discount
-*   Less than 5% off the current price of an item or $5 USD in the US, C$5 CAD in Canada, £5 GBP in the UK, R$5 BRL in Brazil, ₹5 INR in India, ¥5 JPY in Japan, ₩5 KRW in South Korea, A$5 AUD in Australia, €5 EUR in France, Germany, Italy, Netherlands and Spain
+*   Less than 5% off the current price of an item or the monetary equivalent of $5 USD in local currency (whichever is lower). The approximate local currency equivalents of $5 USD are C$7 CAD in Canada, £4 GBP in the UK, R$28 BRL in Brazil, ₹425 INR in India, ¥750 JPY in Japan, ₩7,000 KRW in South Korea, A$7.50 AUD in Australia, and €4.50 EUR in France, Germany, Italy, Netherlands, and Spain.
+    *   **Note**: Free gifts and bonus items are exempt from this requirement, provided they represent an additional good or service not normally associated with the purchase.
 *   Equal to or more than the cart value (100% or higher discounts)
 *   Tax or value added tax (VAT) discounts
 *   Reflected in the SKU (stock keeping unit) price on the Google product page or your product landing page
 
-**Note**: Promotions are limited to 6 months or 183 days.
+**Note**: Promotion duration is limited to 6 months or 183 days.
 
 * * *
 
@@ -4049,24 +4056,55 @@ Some products or services can't be shown in ads or free listings. For details, r
 
 * * *
 
+Adhere to promotion image guidelines
+------------------------------------
+
+When submitting images for promotions or event deals, images must adhere to strict visual standards:
+
+*   **No embedded text**: Images must not contain any promotional wording, discount numbers, brand text, or watermarks.
+*   **No graphic overlays**: Don’t include promotional badges, seals, logos, or digital stamps overlaid on the image.
+*   **Relevant subject**: The image focus and background must clearly relate to the promoted products.
+
+* * *
+
 Adhere to editorial requirements for titles
 -------------------------------------------
 
 Promotion titles should be concise, easy to understand, accurate, and only represent the value of the specific deal being promoted.
 
-Titles need to:
+### Requirements
 
 *   Clearly state any minimum thresholds or items needed for deal
 *   Disclose any redemption requirements
 *   Include billing expectations, additional charges, minimum purchase limits, and more
 *   Clearly state the conditions and any restrictions or limitations of the offer
+*   **Be specific about gift items**: When offering a free gift or bonus item, your promotion title must clearly identify the specific product type or brand (for example, "Free lip gloss with purchase", "Complimentary travel bag"). Generic phrasing such as "Free gift with purchase" or "Bonus item" without naming the item will be rejected.
+    *   Note: Words like "complimentary", "bonus", or "get a gift card" are acceptable equivalents to "Free".
+*   **Variable and tiered discounts**: If your promotion offers a range of discounts across different items, your title must state the minimum discount floor (for example, "10%-50% off" or "10%+ off"). Titles that only state a ceiling (for example, "Up to 50% off") are generally not permitted for standard promotions, unless submitted as an eligible sitewide Event Promotion.
+*   **Character limits**: Both your Promotion Title (`long_title`) and Promotion ID (`promotion_id`) must not exceed 60 characters (including spaces). Titles exceeding **60 characters** will be rejected.
 
-Titles **can't**:
+### Restrictions
 
-*   Attempt to trick or mislead customers
-*   Keep additional fees hidden until checkout
+*   Titles can’t attempt to trick or mislead customers
+*   Titles can’t keep additional fees hidden until checkout
 
 Read our [editorial requirements](https://support.google.com/merchants/answer/2877578) for a complete list, including best practices, and instructions on how to format your promotion's text. To optimize the quality of your promotions, Google may contact your business to request changes based on these guidelines.
+
+### Allowed vs. Prohibited retail acronyms and abbreviations
+
+|     |     |
+| --- | --- |
+| **Allowed abbreviations** | **Prohibited abbreviations** |
+| BOGO (Buy One Get One) | Purch (must spell out "purchase") |
+| B1G1 (Buy One Get One) | int |
+| MRP (Maximum retail price) | Ship (must spell out "shipping" when used standalone) |
+| MSRP (Manufacturer's suggested retail price) | GWP (must spell out "gift with purchase") |
+| W or w/ (with or without) | Abbreviated month names (like Jan, Dec) |
+| Thru (through) |     |
+| Qty (quantity) |     |
+| Pc (piece) |     |
+| amt (amount) |     |
+| max/min |     |
 
 ### Promotional title modification
 
@@ -4077,6 +4115,8 @@ Modifications may include:
 *   **Aligning the title with details**: We may update the title to include missing conditions or incentives from your promotion's details. For instance, if your title is "10% off" but your promotion requires a $50 minimum purchase, we may update it to "10% off orders over $50".
 *   **Ensuring consistency**: If the promotion's conditions or shopper incentive don't match what is stated in the title, we may update them to be consistent, using only the information you provided across all fields.
 *   **Standard formatting**: We may also make non-material changes to size, formatting, punctuation, capitalization, and spelling.
+*   **Maximum discount caps**: If your promotion includes a maximum discount cap in your product data (for example, 20% off up to $50 max), we may update your title to explicitly state the cap (for example, "20% off, max discount $50").
+*   **Subscription and signup terms**: If your promotion requires a subscription or email signup, we may append terms like "subscribe and save" or "with email signup" to your title for consistency.
 
 * * *
 
@@ -4087,10 +4127,14 @@ Retailers must not impose deal-specific costs on users upon redemption if these 
 
 It’s recommended that your promotion details are shown to customers on your product landing page before they sign up on your website. If your website requires phone number or email verification to get the promotion, ensure that this requirement is included in the promotion details before asking your customers to sign up and verify their phone number or email.
 
-Promotions must be redeemable without unspecified additional user requirements. Deals where retailers impose requirements not included in titles in order to redeem are not permissible. Unacceptable additional requirements include, but are not limited to:
+Promotions must be redeemable without unspecified additional user requirements.
 
-*   Sign up for store credit card
-*   Sign up for paid membership
+**Note**: Loyalty and Club programs: Promotions exclusively available to store loyalty club members or store credit card holders are permitted, provided that joining the membership or loyalty program is completely free of charge and all signup requirements are clearly disclosed in the promotion details prior to checkout.
+
+Deals where retailers impose requirements not included in titles or undisclosed to the user in order to redeem are not permissible. Unacceptable additional requirements (if there is a cost or if the requirement is undisclosed) include, but are not limited to:
+
+*   Sign up for store credit card (if there is a fee or undisclosed terms)
+*   Sign up for paid membership or loyalty program with a fee
 *   Take this survey to redeem the promotion
 
 * * *
@@ -4112,6 +4156,13 @@ Although you can't require users to sign up for a paid membership in order to re
 Promotions with additional requirements like subscribe and save, first order, sign up for email, and text are allowed. Make sure these requirements are specified in the promotion creation flow.
 
 If you’re using Performance Max or Standard Shopping campaigns in your Google Ads account, we recommend that you set up [1st Order Promotion](https://support.google.com/merchants/answer/16310477) and set up a new customer acquisition goal to help increase the number of new customers your campaigns acquire. [Learn more about the new customer acquisition goal](https://support.google.com/google-ads/answer/12080169).
+
+### Regional and locale exceptions
+
+While promotions restricted to specific payment methods are generally prohibited, the following exceptions apply:
+
+*   **India (IN)**: Bank and payment promotions—including discounts tied to specific credit/debit cards or No-Cost EMI (Equated Monthly Installment) plans that provide an additional monetary discount—are permitted.
+*   **Brazil (BR)**: Payment method promotions, including digital wallet cashback offers (such as PicPay), are permitted.
 
 * * *
 
@@ -4140,12 +4191,18 @@ Receipt of free gifts, gift cards or e-cards can be displayed on the product lan
 
 **Note**: Free gift cards for stores other than your own are not permissible. Additionally, sample products or trials don’t qualify as free gifts. Store credit and reward points are permissible only in monetary value. To review title guidelines for gifts, refer to the [editorial requirements](https://support.google.com/merchants/answer/2877578).
 
+**Note**: Free gifts must be explicitly identified by product type or brand in the title. Generic descriptions such as “Free gift with purchase” are not allowed.
+
 * * *
 
 Include redemption code for shipping promotions
 -----------------------------------------------
 
-A shipping promotion must have a valid redemption code or it won't be considered an added value. If free shipping is already offered on your site at a certain threshold without a code, you can still offer free shipping at a lower amount as long as it's associated with a code.
+A standalone shipping promotion must have a valid redemption code to be considered an added value, unless one of the following exceptions applies:
+
+*   **Combined promotions**: When free or discounted shipping is bundled with another eligible monetary discount (for example, '10% off + Free Shipping'), a separate redemption code for shipping is not required.
+
+If free shipping is already offered on your site at a certain threshold without a code, you can still offer free shipping at a lower amount as long as it's associated with a code.
 
 **Note**: If your promotion offers shipping at a lower threshold, promotions shouldn’t be tied to items priced above the normally offered threshold. The promotion must have a product applicability of `Specific products` and be mapped only to products that are priced below the offered amount.
 
@@ -4159,6 +4216,10 @@ Follow local promotions policies
 A local promotion must provide a valid promotion URL where the promotion details can be verified. It must be a link that directs to a web page within the same website where users can find promotion details and redemption small print.
 
 If promotion is eligible for curbside pickup, the promotion URL page should clearly state that the promotion is redeemed online for curbside pickup.
+
+### Cashback policies
+
+Cashback is an eligible promotion structure and that percentage cashback requires a minimum purchase condition.
 
 * * *
 
