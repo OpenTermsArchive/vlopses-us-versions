@@ -1,4 +1,4 @@
-_We're updating the Meta Commercial Terms. These updates will come into effect on 30 October 2026. [Read the updated Terms](https://www.facebook.com/legal/commercial_terms_preview) ._
+_We're updating the Meta Commercial Terms. These updates will come into effect on **30 October 2026**. [Read the updated Terms](https://www.facebook.com/legal/commercial_terms_preview)._
 
   
 
