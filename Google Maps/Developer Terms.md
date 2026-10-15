@@ -415,6 +415,12 @@ Heatmap values
 
 18.4 _SLA Exclusion._ Route Optimization API is not covered by the [Google Maps Platform Service Level Agreement](https://cloud.google.com/maps-platform/terms/sla).
 
+18.5 _Large Vehicle Routing_. "Large Vehicle Routing" is an available feature of the Routes Optimization API that calculates routes and estimated times of arrival for large vehicles. As a limited exception to the prohibition against using the Google Maps Core Services in connection with any Customer Application or device embedded in a vehicle, Customer may use Large Vehicle Routing within a Customer Application embedded in a vehicle in accordance with the following:
+
+18.5.1 _Safety Requirements_. If Customer uses the Services to provide real-time navigation or in Customer Applications intended to be used during real-time driving, Customer must comply with the [Safety Requirements](https://cloud.google.com/terms/maps-platform/eea-safety-requirements), currently described at [https://cloud.google.com/terms/maps-platform/eea-safety-requirements](https://cloud.google.com/terms/maps-platform/eea-safety-requirements). Google’s Safety Requirements address safety issues that can arise when Customers create real-time driving or turn-by-turn navigation experiences. Customers creating these experiences in their Customer Applications are responsible for preventing unsafe or inaccurate implementations.
+
+18.5.2 _Customer’s Responsibility_. To the extent that Customer combines the Services with third-party products or services to provide routing or navigation functionality in its Customer Application, Customer does so at its own discretion and is responsible for compliance with any applicable laws, regulations, industry standards, or other requirements. To the maximum extent permitted by applicable law, Google does not warrant or endorse and disclaims liability to Customer and any other person for Customer's use of third-party products or services or their combination with the Services.
+
 **19\. Routes API**
 
 19.1 _Use without a Google Map_. Customer may use Google Maps Content from the Routes API in Customer Applications without a corresponding Google Map.
@@ -422,6 +428,12 @@ Heatmap values
 19.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Routes API in conjunction with a non-Google map.
 
 19.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Routes API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+
+19.4 _Large Vehicle Routing_. _"_Large Vehicle Routing" is an available feature of the Routes API that calculates routes and estimated times of arrival for large vehicles. As a limited exception to the prohibition against using the Google Maps Core Services in connection with any Customer Application or device embedded in a vehicle, Customer may use Large Vehicle Routing within a Customer Application embedded in a vehicle in accordance with the following:
+
+19.4.1 _Safety Requirements_. If Customer uses the Services to provide real-time navigation or in Customer Applications intended to be used during real-time driving, Customer must comply with the [Safety Requirements](https://cloud.google.com/terms/maps-platform/eea-safety-requirements), currently described at [https://cloud.google.com/terms/maps-platform/eea-safety-requirements](https://cloud.google.com/terms/maps-platform/eea-safety-requirements). Google’s Safety Requirements address safety issues that can arise when Customers create real-time driving or turn-by-turn navigation experiences. Customers creating these experiences in their Customer Applications are responsible for preventing unsafe or inaccurate implementations. 
+
+19.4.2 _Customer’s Responsibility_. To the extent that Customer combines the Services with third-party products or services to provide routing or navigation functionality in its Customer Application, Customer does so at its own discretion and is responsible for compliance with any applicable laws, regulations, industry standards, or other requirements. To the maximum extent permitted by applicable law, Google does not warrant or endorse and disclaims liability to Customer and any other person for Customer's use of third-party products or services or their combination with the Services.
 
 **20\. Solar API**
 
