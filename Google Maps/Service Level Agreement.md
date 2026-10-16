@@ -36,22 +36,6 @@ The following definitions apply to this SLA:
 | 95.0% - < 99.0% | 25% |
 | < 95.0% | 50% |
 
-**Monthly Uptime Percentage**
-
-**Percentage of monthly bill for the Covered Service which does not meet the SLO that will be credited to future monthly bills of Customer**
-
-99.0% - < 99.9%
-
-10%
-
-95.0% - < 99.0%
-
-25%
-
-< 95.0%
-
-50%
-
 "Monthly Uptime Percentage" means the total number of Valid Requests in a month, minus the number of Failed Requests, divided by the total number of Valid Requests in a month, multiplied by 100.
 
 "Valid Request" means any request resulting from usage of Covered Services from a Project tied to the Customer Billing Account that conforms to the Documentation, and that would normally result in a non-error response.
@@ -155,26 +139,6 @@ Expand all
 | P3  | 24 hours |
 | P4  | 24 hours |
 
-Priority
-
-Target Initial Response Times during the Hours of Operation
-
-P1
-
-1 hour
-
-P2
-
-24 hours
-
-P3
-
-24 hours
-
-P4
-
-24 hours
-
 #### Enhanced Support
 
 1\. **Enhanced Support**
@@ -194,26 +158,6 @@ P4
 | P2  | 4 hours |
 | P3  | 24 hours\* |
 | P4  | 24 hours\* |
-
-Priority
-
-Target Initial Response Times
-
-P1
-
-1 hour
-
-P2
-
-4 hours
-
-P3
-
-24 hours\*
-
-P4
-
-24 hours\*
 
 \*during the Hours of Operation
 
