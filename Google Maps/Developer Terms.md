@@ -127,33 +127,6 @@ Google has the ability to independently track Customer’s use of certain Servic
 | *   addressComponent: confirmationLevel, inferred, spellCorrected, replaced, unexpected | 30 consecutive calendar days, after which Customer must (a) delete the cached Google Maps Content; or (b) replace it with End User data provided through End User confirmation or correction | Correction Requests |
 | *   Location: latitude values, longitude values | 30 consecutive calendar days, after which Customer must delete the cached Google Maps Content | Any |
 
-**Google Maps Content**
-
-**Caching Period**
-
-**Permitted Purposes**
-
-*   formattedAddress
-*   postalAddress
-*   addressComponent: componentName
-*   USPS Data standardizedAddress
-
-30 consecutive calendar days, after which Customer must (a) delete the cached Google Maps Content; or (b) replace it with End User data provided through End User confirmation or correction
-
-Downstream transactions
-
-*   addressComponent: confirmationLevel, inferred, spellCorrected, replaced, unexpected
-
-30 consecutive calendar days, after which Customer must (a) delete the cached Google Maps Content; or (b) replace it with End User data provided through End User confirmation or correction
-
-Correction Requests
-
-*   Location: latitude values, longitude values
-
-30 consecutive calendar days, after which Customer must delete the cached Google Maps Content 
-
-Any
-
 **2\. Air Quality** **API**
 
 2.1 _Permitted Use_. Customer may only use the data retrieved from Air Quality API in (a) air quality based routing solutions developed by Customer, and (b) Customer environmental risk indices and correlational research.
@@ -167,20 +140,6 @@ Any
 | **Google Maps Content** | **Caching Period** |
 | Current conditions values<br><br>*   Hourly forecast values | One hour, after which Customer must delete the cached Google Maps Content |
 | Historic values for a specific location and given time range | Until the Agreement is terminated |
-
-**Google Maps Content**
-
-**Caching Period**
-
-Current conditions values
-
-*   Hourly forecast values
-
-One hour, after which Customer must delete the cached Google Maps Content
-
-Historic values for a specific location and given time range
-
-Until the Agreement is terminated
 
 **3\. Android Geocoder SDK (Restricted GA)**
 
@@ -381,22 +340,6 @@ Table 16.2.1 (Pollen API Caching Permissions)
 | Forecasts values | 24 hours, after which Customer must delete the cached Google Maps Content |
 | Heatmap values | 24 hours, after which Customer must delete the cached Google Maps Content |
 
-**Google Maps Content**
-
-**Caching Period**
-
-Today's Forecast values
-
-365 consecutive calendar days , after which Customer must delete the cached Google Maps Content
-
-Forecasts values
-
-24 hours, after which Customer must delete the cached Google Maps Content
-
-Heatmap values
-
-24 hours, after which Customer must delete the cached Google Maps Content
-
 **17\. Roads API**
 
 17.1 _Use without a Google Map._ Customer may use Google Maps Content from the Roads API in Customer Applications without a corresponding Google Map.
@@ -458,34 +401,6 @@ Heatmap values
 | *   Daily Forecast values | 24 hours, after which Customer must delete the cached Google Maps Content |
 | *   Hourly history | 240 hours, after which Customer must delete the cached Google Maps Content |
 | *   Public Alert values | one hour, after which Customer must delete the cached Google Maps Content |
-
-**Google Maps Content**
-
-**Caching Period**
-
-*   Current condition
-
-one hour, after which Customer must delete the cached Google Maps Content
-
-*   Hourly Forecast values
-
-one hour, after which Customer must delete the cached Google Maps Content
-
-*   Today's Forecast values
-
-30 consecutive calendar days, after which Customer must delete the cached Google Maps Content
-
-*   Daily Forecast values
-
-24 hours, after which Customer must delete the cached Google Maps Content
-
-*   Hourly history
-
-240 hours, after which Customer must delete the cached Google Maps Content
-
-*   Public Alert values
-
-one hour, after which Customer must delete the cached Google Maps Content
 
 #### C. ANALYTICS SERVICE TERMS
 
