@@ -2612,6 +2612,8 @@ We will reinstate applications if an error was made, and we find that your appli
 
 #### Additional Resources
 
+If you are a developer offering apps to users in the European Economic Area (EEA), you may have additional recourse options. See [here](https://support.google.com/googleplay/android-developer/answer/14659200).
+
 If you need more information regarding an enforcement action or a rating/comment from a user, you may refer to some of the resources below or contact us through the [Google Play Help Center](https://support.google.com/googleplay/android-developer#topic=3450769). We cannot, however, offer you legal advice. If you need legal advice, please consult your legal counsel.
 
 *   [App verification](https://support.google.com/googleplay/android-developer/answer/2992033)
