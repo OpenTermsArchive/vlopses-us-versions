@@ -187,6 +187,8 @@ Please review the following documents, which provide additional information abou
 
 Effective Date: May 25, 2023
 
+For users who have agreed to the [Supplemental Terms of Service for Status and Channels](https://www.whatsapp.com/legal/statusandchannels-terms-of-service), those terms replace this Supplemental Terms of Service for WhatsApp Channels and covers your use of Status and Channels.
+
 WhatsApp Channels is one of the “Services” provided to you by WhatsApp. These Supplemental Terms of Service for Channels (the “Supplemental Terms”) supplement the [WhatsApp Terms of Service](https://www.whatsapp.com/legal/terms-of-service), and together, apply to your use of Channels. The terms and conditions of the Supplemental Terms will take precedence and apply to your use of Channels. Nothing in these Supplemental Terms limits any of our rights under the [WhatsApp Terms of Service](https://www.whatsapp.com/legal/terms-of-service) or any additional terms or policies they reference.
 
 The [WhatsApp Channels Privacy Policy](https://www.whatsapp.com/legal/channels-privacy-policy/) supplements the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy) and explains how we collect, use, and share information when you use Channels. You can also go to your settings at any time to review your privacy choices. Your use of Channels does not impact the privacy of your personal WhatsApp messages, which continue to be end-to-end encrypted as described in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy).
