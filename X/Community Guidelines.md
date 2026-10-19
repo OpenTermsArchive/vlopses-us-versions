@@ -2485,13 +2485,6 @@ Business resources
 *   [Resources and guides](https://business.x.com/resources)
 *   [1-888-GET-XADS](tel:+18884389237)
 
-Legal
------
-
-*   [Cookies](https://help.x.com/rules-and-policies/twitter-cookies)
-*   [Privacy](https://x.com/privacy)
-*   [Terms and conditions](https://x.com/tos)
-
 - - -
 
 1.  [Help Center](https://help.x.com/en)/
@@ -2942,13 +2935,6 @@ Business resources
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
 *   [1-888-GET-XADS](tel:+18884389237)
-
-Legal
------
-
-*   [Cookies](https://help.x.com/rules-and-policies/twitter-cookies)
-*   [Privacy](https://x.com/privacy)
-*   [Terms and conditions](https://x.com/tos)
 
 - - -
 
