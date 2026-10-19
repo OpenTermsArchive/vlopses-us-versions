@@ -41,7 +41,7 @@ Our Services have optional features which, if used by you, require us to collect
 
 #### Information You Provide
 
-*   **Your Account Information**. You must provide your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
+*   **Your Account Information**. You must [provide](https://faq.whatsapp.com/684051319521343) your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
 
 *   **Your Messages**. We do not retain your messages in the [ordinary course](https://faq.whatsapp.com/1090704890049832)  
     of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
@@ -87,7 +87,7 @@ We use information we have (subject to choices you make and applicable law) to o
 *   **Safety, Security, And Integrity**. Safety, security, and integrity are an integral part of our Services. We use information we have to verify accounts and activity; combat harmful conduct; protect users against bad experiences and spam; and promote safety, security, and integrity on and off our Services, such as by investigating suspicious activity or violations of our Terms and policies, and to ensure our Services are being used legally. Please see the [Law, Our Rights and Protection](#privacy-policy-law-our-rights-and-protection) section below for more information.
 *   **Communications About Our Services And** [**The Meta Companies**](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). We use information we have to communicate with you about our Services and let you know about our terms, policies, and other important updates. We may provide you marketing for our Services and those of the [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies).
 
-*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
+*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but you may see other types of ads in Status and Channels.
 
 *   **Business Interactions**. We enable you and third parties, like businesses, to communicate and interact with each other using our Services, such as [Catalogs](https://faq.whatsapp.com/general/account-and-profile/about-catalog) for businesses on WhatsApp through which you can browse products and services and place orders. Businesses may send you transaction, appointment, and shipping notifications; product and service updates; and marketing. For example, you may receive flight status information for upcoming travel, a receipt for something you purchased, or a notification when a delivery will be made. Messages you receive from a business could include an offer for something that might interest you. We do not want you to have a spammy experience; as with all of your messages, you can manage these communications, and we will honor the choices you make.
 
@@ -144,6 +144,10 @@ WhatsApp shares information globally, both internally within the [Meta Companies
 
 We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Effective Date” at the top of this Privacy Policy. Please review our Privacy Policy from time to time.
 
+### Privacy Rights for United States Residents
+
+You can learn more about the consumer privacy rights that may be available to you, by reviewing the United States Regional Privacy Notice [here](https://www.whatsapp.com/legal/ca-privacy-notice).
+
   
   
 
@@ -151,7 +155,7 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 Contact Us
 
-If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
+If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/696255948470523/).
 
 WhatsApp LLC  
   
@@ -165,12 +169,113 @@ United States of America
 
 - - -
 
-This page is not available in your country
-==========================================
+**United States Regional Privacy Notice**
+=========================================
 
-Looks like this page is not yet available in the country from which you're accessing this site. Please check again later.
+Table of Contents
 
-[GO TO HOMEPAGE](https://www.whatsapp.com/)
+*   [I. What is Personal Information, what does WhatsApp collect, and from what sources?](#4YM330JiCWp2cYXnB)
+*   [II. How do we use Personal Information?](#5r1JVvwtZb4nylBvy)
+*   [III. How is Personal Information disclosed?](#6C3mz2Ki1DvqyfNr4)
+*   [IV. Managing and Retaining Your Information](#78wdYK6zTzmcLNZcB)
+*   [V. How can you exercise your rights under the U.S. Privacy Laws?](#78wdYK6zTzmcLNZcB)
+
+Effective January 1, 2023
+
+This United States Regional Privacy Notice ("Notice") is for people living in the United States and supplements our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy). It explains how we, WhatsApp, collect, use, and disclose your Personal Information. It also describes how to exercise your rights under the various U.S. privacy laws (collectively, the “U.S. Privacy Laws”).
+
+### I. What is Personal Information, what does WhatsApp collect, and from what sources?
+
+For this Notice, "Personal Information" means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked with you, directly or indirectly. Personal Information does not include information that cannot be reasonably linked to you. When data is deidentified (as defined under U.S. Privacy Laws), we maintain it in deidentified form and do not attempt to reidentify the information. We do not “share” your Personal Information, as that term is defined in the California Consumer Privacy Act (“CCPA”). We also don’t sell any of your Personal Information, and we never will.
+
+To provide our Services, we must process some information about you, including the following Personal Information:
+
+Information You Provide
+
+*   **Your Account Information.** You must provide your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
+*   **Your Messages.** We do not retain your messages in the ordinary course of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
+    *   **Undelivered messages.** If a message cannot be delivered immediately (for example, if the recipient is offline), we keep it encrypted on our servers for up to 30 days as we try to deliver it. If a message is still undelivered after 30 days, we delete it.
+    *   **Media Forwarding.** When a user forwards media within a message, we store that media temporarily in encrypted form on our servers to aid in more efficient delivery of additional forwards.  
+          
+        We offer end-to-end encryption for our Services. End-to-end encryption means that your messages are encrypted to protect against us and third parties from reading them. Learn more about [end-to-end encryption](https://faq.whatsapp.com/791574747982248/) and [how businesses communicate with you on WhatsApp](https://faq.whatsapp.com/567302067179554/).
+*   **Your Connections.** You can use the contact upload feature and provide us, if permitted by applicable law, with the phone numbers in your address book on a regular basis, including those of users of our Services and your other contacts. If any of your contacts aren’t yet using our Services, we’ll manage this information for you in a way that ensures those contacts cannot be identified by us. Learn more about our contact upload feature [here](https://faq.whatsapp.com/general/contacts/about-contact-upload). You can create, join, or get added to groups and broadcast lists, and such groups and lists get associated with your account information. You give your groups a name and can provide a group profile picture or description. Learn how to use status on [Android](https://faq.whatsapp.com/android/status/how-to-use-status), [iPhone](https://faq.whatsapp.com/iphone/status/how-to-use-status), or [KaiOS](https://faq.whatsapp.com/kaios/status/how-to-use-status).
+*   **Status Information.** You may provide us with your [status](https://faq.whatsapp.com/android/status/how-to-use-status/) if you choose to include one on your account.
+*   **Customer Support And Other Communications.** When you contact us for customer support or otherwise communicate with us, you may provide us with information related to your use of our Services, including copies of your messages, any other information you deem helpful, and how to contact you (e.g., an email address). For example, you may send us an email with information relating to app performance or other issues.
+*   **Sensitive Personal Information.** In limited circumstances we collect and use information that may be deemed to be sensitive personal information as defined in the U.S. Privacy Laws, including: a drivers’ license or state identification card if we need it to prove account ownership.
+
+Automatically-Collected Information
+
+*   **Usage and Log Information.** We collect information about your activity on our Services, like service-related, diagnostic, and performance information. This includes information about your activity (including how you use our Services, your Services settings, how you interact with others while using our Services (including when you interact with a business), and the time, frequency, and duration of your activities and interactions), log files, and diagnostic, crash, website, and performance logs and reports). This also includes information about when you registered to use our Services; the features you use like our messaging, calling, Status, groups (including group name, group picture, group description), business features; profile photo, "about" information; whether you are online, when you last used our Services (your "last seen"); and when you last updated your "about" information.
+*   **Device and Connection Information.** We collect device and connection-specific information when you install, access, or use our Services. This includes information such as hardware model, operating system information, battery level, signal strength, app version, browser information, mobile network, connection information (including phone number, mobile operator or ISP), language and time zone, IP address, device operations information, and identifiers (including identifiers unique to [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products) associated with the same device or account).
+*   **Location Information.** We collect and use precise location information from your device with your permission when you choose to use [location-related features](https://faq.whatsapp.com/android/chats/how-to-use-live-location), like when you decide to share your location with your contacts or view locations nearby or locations others have shared with you. There are certain settings relating to location-related information which you can find in your device settings or the in-app settings, such as location sharing. Even if you do not use our location-related features, we use IP addresses and other information like phone number area codes to estimate your general location (e.g., city and country). We also use your location information for diagnostics and troubleshooting purposes.
+*   **Cookies.** We use cookies to operate and provide our Services, including to provide our Services that are web-based, improve your experiences, understand how our Services are being used, and customize them. For example, we use cookies to provide our Services for web and desktop and other web-based services. We may also use cookies to understand which of our Help Center articles are most popular and to show you relevant content related to our Services. Additionally, we may use cookies to remember your choices, like your language preferences, to provide a safer experience, and to otherwise customize our Services for you. [Learn more](https://www.whatsapp.com/legal/cookies) about how we use cookies to provide you our Services.
+
+Other Sources of Information
+
+*   **Information Others Provide About You.** We may receive information about you from other users of our Services, such as if they send you a message or call you. For example, when other users you know use our Services, they may provide your phone number, name, and other information (like information from their mobile address book) just as you may provide theirs. They may also send you messages, send messages to groups to which you belong, or call you. We require each of these users to have lawful rights to collect, use, and disclose your information before providing any information to us.
+*   **User Reports.** Just as you can report other users, other users or third parties may also choose to report to us your interactions and your messages with them or others on our Services; for example, to report possible violations of our Terms or policies. When a report is made, we collect information on both the reporting user and reported user. To find out more about what happens when a user report is made, please see [this article](https://faq.whatsapp.com/general/security-and-privacy/staying-safe-on-whatsapp).
+*   **Businesses on WhatsApp.** Businesses you interact with using our Services may provide us with information about their interactions with you. We require each of these businesses to act in accordance with applicable law when providing any information to us.  
+      
+    When you message with a business on WhatsApp, keep in mind that the content you share may be visible to several people in that business. In addition, some businesses might be working with third-party service providers (which may include Meta) to help manage their communications with their customers. For example, a business may give such third-party service provider access to its communications to send, store, read, manage, or otherwise process them for the business. To understand how a business processes your information, including how it might share your information with third parties or Meta, you should review that business’ privacy policy or contact the business directly.
+*   **Third-Party Service Providers.** We work with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us operate, provide, improve, understand, customize, support, and market our Services. For example, we work with them to distribute our apps; provide our technical and physical infrastructure, delivery, and other systems; provide engineering support, cybersecurity support, and operational support; supply location, map, and places information; help us understand how people use our Services; market our Services; help you connect with businesses using our Services; conduct surveys and research for us; ensure safety, security, and integrity; and help with customer service. These companies may provide us with information about you in certain circumstances; for example, app stores may provide us with reports to help us diagnose and fix service issues.  
+      
+    The "**How We Work With Other Meta Companies**" section of our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy) provides more information about how WhatsApp collects and discloses information with the other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies).
+*   **Third-Party Services.** We allow you to use our Services in connection with third-party services and [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products). If you use our Services with such third-party services or [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products), we may receive information about you from them; for example, if you use the WhatsApp share button on a news service to share a news article with your WhatsApp contacts, groups, or broadcast lists on our Services, or if you choose to access our Services through a mobile carrier’s or device provider’s promotion of our Services. Please note that when you use third-party services or [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products), their own terms and privacy policies will govern your use of those services.
+
+To learn more about the specific pieces of Personal Information we collect and the sources of that information, return to our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy) and see the "**Information We Collect**" section.
+
+### II. How do we use Personal Information?
+
+We use the Personal Information we have (subject to choices you make and applicable law) to operate, provide, improve, understand, customize, support, and market our Services. Here's how:
+
+*   **Our Services.** We use information we have to operate and provide our Services, including providing customer support; completing purchases or transactions; improving, fixing, and customizing our Services; and connecting our Services with [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products) that you may use. We also use such information to understand how people use our Services; evaluate and improve our Services; research, develop, and test new services and features; and conduct troubleshooting activities. We also use your information to respond to you when you contact us.
+*   **Safety, Security, And Integrity.** Safety, security and integrity are an integral part of our Services. We use the information we have to verify accounts and activity; combat harmful conduct; protect users against bad experiences and spam; and promote safety, security and integrity on and off our Services, such as by investigating suspicious activity or violations of our Terms and policies, and to ensure our Services are being used legally. Please see the "**Law, Our Rights and Protection**" section of our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy) for more information.
+*   **Communications About Our Services And The Meta Companies.** We use information we have to communicate with you about our Services and let you know about our terms, policies, and other important updates. We may provide you marketing for our Services and those of the [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies).
+*   **No Third-Party Banner Ads.** We still do not allow third-party banner ads on our Services. If we ever introduce them, we will update this United States Regional Privacy Notice.
+*   **Business Interactions.** We enable you and third parties, like businesses, to communicate and interact with each other using our Services, such as [Catalogs](https://faq.whatsapp.com/general/account-and-profile/about-catalog) for businesses on WhatsApp through which you can browse products and services and place orders. Businesses may send you transaction, appointment, and shipping notifications; product and service updates; and marketing. For example, you may receive flight status information for upcoming travel, a receipt for something you purchased, or a notification when a delivery will be made. Messages you receive from a business could include an offer for something that might interest you. We do not want you to have a spammy experience; as with all of your messages, you can manage these communications, and we will honor the choices you make.
+
+For the limited categories of sensitive personal information that we collect, we will only use or disclose it either with your specific consent when required, or as otherwise permitted by law, including the CCPA.
+
+You can learn more about our business and commercial purposes for collecting Personal Information by visiting the **"How We Use Information"** section of our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy).
+
+### III. How is Personal Information disclosed?
+
+You share your information as you use and communicate through our Services, and we disclose your information to help us operate, provide, improve, understand, customize, support, and market our Services.
+
+*   **Send Your Information To Those With Whom You Choose To Communicate.** You share your information (including messages) as you use and communicate through our Services.
+*   **Information Associated With Your Account.** Your phone number, profile name and photo, "about" information, last seen information, and message receipts are available to anyone who uses our Services, although you can configure your Services settings to manage certain information available to other users, including businesses, with whom you communicate.
+*   **Your Contacts And Others.** Users, including businesses, with whom you communicate can store or reshare your information (including your phone number or messages) with others on and off our Services. You can use your Services settings and the "block" feature in our Services to manage who you communicate with on our Services and certain information you disclose.
+*   **Businesses On WhatsApp.** We offer specific services to businesses such as providing them with metrics regarding their use of our Services.
+*   **Third-Party Service Providers.** We work with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us operate, provide, improve, understand, customize, support, and market our Services. We work with these companies to support our Services, such as to provide technical infrastructure, delivery and other systems; market our Services; conduct surveys and research for us; protect the safety, security and integrity of users and others; and assist with customer service. When we disclose information with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) in this capacity, we require them to use your information on our behalf in accordance with our instructions and terms.
+*   **Third-Party Services.** When you or others use third-party services or other [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products) that are integrated with our Services, those third-party services may receive information about what you or others share with them. For example, if you use a data backup service integrated with our Services (like iCloud or Google Drive), they will receive information you share with them, such as your WhatsApp messages. If you interact with a third-party service or other [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products) linked through our Services, such as when you use the in-app player to play content from a third-party platform, information about you, like your IP address and the fact that you are a WhatsApp user, may be provided to such third party or [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products). Please note that when you use third-party services or other [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products), their own terms and privacy policies will govern your use of those services and products.
+*   **Meta Companies.** WhatsApp receives information from, and discloses information (see [here](https://faq.whatsapp.com/general/security-and-privacy/what-information-does-whatsapp-share-with-the-facebook-companies)) with, the other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). We may use the information we receive from them, and they may use the information we disclose with them, to help operate, provide, improve, understand, customize, support, and market our Services and their offerings, including the [Meta Company Products](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-company-products).
+*   **Assignment, Change Of Control, And Transfer.** In the event that we are involved in a merger, acquisition, restructuring, bankruptcy, or sale of all or some of our assets, we will disclose your information with the successor entities or new owners in connection with the transaction.
+
+You can learn more about the categories of Personal Information we disclose for business purposes and the categories of recipients with whom we disclose it in the "**Information You And We Share**" and "**How We Work With Other Meta Companies**" sections of our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy).
+
+### IV. Managing and Retaining Your Information
+
+To learn about our data deletion and retention practices and about how to delete your account, please see the “**Managing And Retaining Your Information section**” of our [Privacy Policy](https://www.whatsapp.com/legal/#privacy-policy).
+
+### V. How can you exercise your rights under the U.S. Privacy Laws?
+
+Depending on where you live and subject to certain exceptions, you may have some or all of the following rights:
+
+*   **Right to Know:** The right to request that we disclose to you the Personal Information we collect, use, or disclose, and information about our data practices. For residents of certain states, this may include a list of third parties (as defined by applicable law) to whom we have disclosed your Personal Information.
+*   **Right to Request Correction**: The right to request that we correct inaccurate Personal Information that we maintain about you.
+*   **Right to Request Deletion:** The right to request that we delete your Personal Information that we have collected from or about you.
+*   **Right to Opt Out of Targeted Advertising we use to promote our own WhatsApp products and Services on other apps and services:** The right to opt out of the processing of your Personal Information for purposes that may be considered “targeted advertising” under applicable U.S. privacy laws, including information obtained from your activities on nonaffiliated websites or online applications.
+*   **Right to Non-Discrimination:** The right not to receive discriminatory treatment for exercising your privacy rights.
+
+For iPhone users, you can learn how to [access](https://faq.whatsapp.com/565386554257543/), [manage](https://faq.whatsapp.com/200003357790760/), and [delete](https://faq.whatsapp.com/262301441608212/) your Personal Information by checking out our [iPhone FAQs](https://faq.whatsapp.com/iphone/). For Android, you can learn how to [access](https://faq.whatsapp.com/565386554257543/), [manage](https://faq.whatsapp.com/1221281501537822/), and [delete](https://faq.whatsapp.com/605464643328528/) your Personal Information through our [Android FAQs](https://faq.whatsapp.com/android/).
+
+Here is how to opt-out of targeted advertising that may be delivered to you by third-party service providers to help us promote WhatsApp’s own products and Services. Use the [Digital Advertising Alliance](https://optout.aboutads.info/) and/or the [NAI industry opt-out platforms](https://thenai.org/opt-out/), along with your mobile device advertising settings offered by the device manufacturer. Please note that certain ad blockers and tools to restrict cookies can interfere with your ability to opt out through the industry opt out platforms. Different device manufacturers provide different ways to opt out.
+
+Under certain U.S. Privacy Laws, you may designate an authorized agent to make these requests on your behalf through the [webform](https://www.whatsapp.com/contact/forms/696255948470523/), whether or not you have an account. If you use an authorized agent to submit a request, we may need to collect additional information, such as a government issued ID, to verify your identity before processing your request to protect your information. In most cases, we will facilitate your request through automated tools available through your WhatsApp account.
+
+For information on the CCPA requests we have received, please see [here](https://transparency.meta.com/reports/regulatory-transparency-reports/).
+
+If you have additional questions about this Notice, how to exercise your rights under the applicable U.S. Privacy Laws, and and as applicable, to appeal a consumer rights action, please [contact us](https://www.whatsapp.com/contact/forms/696255948470523/).
 
 - - -
 
@@ -355,7 +460,13 @@ To facilitate avatar calling, WhatsApp will estimate the location of parts of yo
 
 This information is not used to identify you. It is used only to provide the avatar calling feature during your video calls. When you stop using the feature or the video call ends, we will stop processing this information. We don’t store this information or share it with third parties.
 
-Subject to WhatsApp's privacy policy, your avatar will be stored by WhatsApp and on your device so that it can be used for avatar calling. You can delete it at any time by clicking “Delete Avatar” in your WhatsApp avatar settings. Your avatar will also be automatically deleted if you delete your WhatsApp account.
+Subject to WhatsApp's privacy policy, your avatar will be stored by WhatsApp and on your device so that it can be used for avatar calling. You can delete it at any time by clicking “Delete Avatar” in your WhatsApp avatar settings. Your avatar will also be automatically deleted if you delete your WhatsApp account.  
+
+**Additional information for US residents**
+
+The avatar calling feature is controlled by the camera effects setting. Pursuant to applicable laws, to turn on avatar calling, you will need to agree to this privacy notice, which will turn on the camera effects setting. You can turn off your camera effects setting in your WhatsApp privacy settings at any time. If the setting is turned off, avatar calling will not be available, but you will still have access to all other WhatsApp features.
+
+When you use avatar calling, we may process information from images of other people who appear on your end of the video call. By turning on avatar calling and the camera effects setting, you agree that you will only use the feature if all of the people who appear in your video also have the camera effects setting turned on in their WhatsApp accounts, or you are their legally authorized representative and consent to the terms of this notice on their behalf.
 
 - - -
 
@@ -380,11 +491,21 @@ We don’t process or store this information on our servers or share it with thi
 
 When you use face and hand effects, we may process information from images of other people who appear in your camera feed, photo or video. For example, when you use effects on a video call, someone in the background may have puppy ears shown on their head.
 
+#### **Additional information for US residents**
+
+If you are a US resident, you will need to turn on face and hand effects before you are able to access them on WhatsApp. The first time you try to use face and hand effects on WhatsApp, you'll be asked to turn on effects.
+
+You can change your [face and hand effects setting](https://faq.whatsapp.com/1211662196621854/) at any time. If the setting is turned off, you will still have access to other features.
+
+By turning on effects, you agree that you will only use effects if all of the people who appear in your camera feed, photo or video have also turned on effects through their WhatsApp accounts, or you are their legally authorized representative and consent to the terms of this notice on their behalf.
+
 - - -
 
 ### **WhatsApp Channels Supplemental Privacy Policy**
 
-Effective January 21, 2025
+Effective June 16, 2025
+
+For users who have agreed to the Supplemental Terms of Service for Status and Channels, then the [WhatsApp Status and Channels Supplemental Privacy Policy](http://www.whatsapp.com/legal/statusandchannels-privacy-policy) replaces this WhatsApp Channels Supplemental Privacy Policy, and covers your use of Status and Channels.
 
 This WhatsApp Channels Supplemental Privacy Policy helps explain our information practices when you use WhatsApp Channels (“Channels”). When we say “WhatsApp”, “our”, “we” or “us”, we are referring to WhatsApp LLC.
 
@@ -398,6 +519,8 @@ Channels is an optional, one-way broadcasting feature within WhatsApp, separate 
 
 Channels are public, meaning that anyone can discover, follow, and view your Channel. Given the public nature and unlimited audience size of Channels, Channel Content will be visible to any user and by WhatsApp. This also means that Channel Content is among the information WhatsApp collects and uses to promote safety, security and integrity on Channels, as further described in this Channels Privacy Policy, the [Supplemental Terms](https://www.whatsapp.com/legal/channels-terms-of-service/), and in the [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281).
 
+Channel Subscriptions are channels that offer an option to subscribe for a fee to receive Channel Content available only to subscribers (“Channel Subscription Updates”). If you subscribe to a channel, the [Channel Subscriptions Terms of Service](http://www.whatsapp.com/legal/channels-subscription) will also apply.
+
 Importantly, your use of WhatsApp Channels does not impact the privacy of your WhatsApp personal messages, which continue to be end-to-end encrypted as described in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy).
 
 In the future, we may introduce additional Channels features, such as new ways to search for Channels and Channel Content, additional audience and privacy settings for Channels, and end-to-end encrypted Channels. If you are already using Channels when we update features and settings, we will inform you of such features as appropriate.
@@ -409,7 +532,7 @@ The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-polic
 #### Information from and about Channel Admins
 
 *   **Information to Create a Channel**. To create a Channel, Admins must provide basic information, including a name for the Channel. Admins may also choose to add other information, such as a unique Channel Admin name, icon, picture, description or links to third party sites.
-*   **Channel Updates**. Channels are public, so we collect Channel Content that Admins create or share, such as text, videos, photos, images, documents, links, gifs, stickers, audio content, or other types of content in their Channel updates for others to view.
+*   **Channel Updates**. Channels are public, so we collect Channel Content and Channel Subscription Updates that Admins create or share, such as text, videos, photos, images, documents, links, gifs, stickers, audio content, or other types of content in their Channel for others to view.
 
 #### Viewer and Follower Information
 
@@ -417,8 +540,14 @@ The [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-polic
 
 #### Information about All Channels Users
 
-*   **Usage And Log Information**. We collect information about your activity on Channels, like service-related, diagnostic, and performance information. When you use Channels, we also collect information about your activity on and use of Channels, including the types of content you view and how you interact with it; metadata about Channels, Channel Content, and reactions by Followers, and Viewers; the Channels features you use and how you use them, and time, frequency, and duration of your activities on Channels.
-*   **User Reports**. Users or third-parties can report to us your Channel, or specific Channel Content - for example, to report possible violations of our terms or policies or local law. When a report is made, we collect information about the reporting party and reported user(s) (e.g., Channel Admin), and other information that may help us in investigating the report, such as associated Channels or Channel Content, user interactions and activity on Channels, and other information, such as the number of Followers who have muted a Channel, and other user reports or enforcement actions. To find out more, see our [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281) and [Advanced Safety and Security Features](https://faq.whatsapp.com/1313491802751163/).
+*   **Usage And Log Information**. We collect information about your activity on Channels, like service-related, diagnostic, and performance information. When you use Channels, we also collect information about your activity on and use of Channels, including the types of content you view and subscribe to, and how you interact with it; metadata about Channels, Channel Content, Channel Subscription Updates; and reactions by Followers, subscribers and Viewers; the Channels features you use and how you use them, and time, frequency, and duration of your activities on Channels.
+*   **User Reports**. Users or third-parties can report to us your Channel, or specific Channel Content or Channel Subscription Updates - for example, to report possible violations of our terms or policies or local law. When a report is made, we collect information about the reporting party and reported user(s) (e.g., Channel Admin), and other information that may help us in investigating the report, such as associated Channels or Channel Content, user interactions and activity on Channels, and other information, such as the number of Followers who have muted a Channel, and other user reports or enforcement actions. To find out more, see our [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281) and [Advanced Safety and Security Features](https://faq.whatsapp.com/1313491802751163/).
+
+Channel Subscriptions Information
+
+*   **Admin Information for Subscriptions.** For Channel Subscriptions, we additionally collect information when Admins set up and manage their channel subscription, such as subscription pricing, billing and renewal periods, cancellations and terminations, or payout methods.
+*   **Subscriber Information.** If you choose to subscribe to a channel, we collect information such as the channels you subscribe to, the start date and renewal terms.
+*   **Subscription Payment Information.** If you subscribe to a channel, we also collect information such as your payment method and transaction amount. We work with multiple third-party payment providers such as Apple App Store or Google Play, who will provide us with information about your transaction, to process your payment and manage your subscriptions.
 
 #### **How We Use Information**
 
@@ -428,21 +557,29 @@ We use the information we collect in the following additional ways:
 *   **Understand Usage of Channels**. We use the information to measure and analyze the effectiveness, performance, reliability and efficiency of Channels, to understand how people use and interact with Channels, and to determine how we can develop and improve our Services.
 *   **For Safety, Security, And Integrity**. We use information we have (including Channel Content and your activity in Channels) to ensure safety, security and integrity on our Services, including to combat harmful conduct; protect users against bad or harmful experiences, detect and investigate suspicious activity or violations of our terms and policies, including our [WhatsApp Channels Guidelines](https://faq.whatsapp.com/245599461477281), and to ensure our Services, including Channels, are being used lawfully.
 
+#### **How We Use Information for Channel Subscriptions**
+
+If you use Channel Subscriptions, either as an Admin or a subscriber, then we also use the information we have to provide and manage Channel Subscriptions, including starting, renewing and terminating subscriptions; managing payments and payouts; and making Channel Subscription Updates available to subscribers.
+
 #### **How information is shared**
 
 Channels information is shared in the following ways:
 
-*   **Public Information**. Remember that Channel Content, and information Admins share on Channels is public and available to others, subject to any audience or privacy settings. You should keep in mind that anybody can capture screenshots or make recordings of Channel Content and interactions on Channels and send them to WhatsApp or anyone else, or share, export or upload them off our Services.
+*   **Public Information**. Remember that Channel Content, Channel Subscription Updates and information Admins share on Channels is public and available to others, subject to any audience, subscription or privacy settings. You should keep in mind that anybody can capture screenshots or make recordings of Channel Content and interactions on Channels and send them to WhatsApp or anyone else, or share, export or upload them off our Services.
 *   **Third-Party Service Providers and Meta Companies**. We work with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us operate, provide, improve, understand and support Channels. We also work with [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) to help us promote the safety, security, and integrity on Channels and our Services, including use of detection and measurement tools that leverage a combination of classifiers, content and behavioral signals, human review, and user reports—to proactively and reactively detect potentially violating content or use of Channels. When we share information with third-party service providers and other [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies) in this capacity, we require them to use your information on our behalf in accordance with our instructions and terms.
 
 *   **Accounts Center.** If you have added your WhatsApp account to Accounts Center, see [here](https://www.meta.com/help/accounts-center/Information-used-across-accounts-wa/) to learn more about how your information will be shared.
+
+Subscriptions-related information is shared as follows:
+
+*   Payment providers. We work with Third Party Payment Providers including Google Play Store and Apple App Store to process payments and transactions such as when you subscribe to a channel. We share information with these third-party payment providers such as authentication and transaction information. Please note that when you use third-party platform payment provider services, their own terms and privacy policies will govern your use of those services.
 
 #### **Managing And Retaining Your Information**
 
 You can [access](https://faq.whatsapp.com/6480469855345352/?cms_platform=web), [manage](https://faq.whatsapp.com/214063281402212/?cms_platform=web) or [port](https://faq.whatsapp.com/6480469855345352/?cms_platform=web) your Channels information using our in-app settings set out in the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy).
 
-*   **Retaining your public Channel Content and Channel information**. In the ordinary course of providing Channels, we store Channel Content on our servers for up to 30 days, subject to safety, security and integrity purposes or other legal or compliance obligations that may require longer retention. Channel Content may remain on Viewers’ or Followers’ devices for a longer period, though we may provide options for Channel Content to disappear faster, for example after 7 days or 24 hours should Admins choose. We store other Channels information for as long as necessary for the purposes identified in this Channels Privacy Policy, and the WhatsApp Privacy Policy, including to provide Channels or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our terms and policies, or protecting or defending our rights, property, and users. The storage periods are determined on a case-by-case basis that depends on factors like the nature of the information, why it is collected and processed, relevant legal or operational retention needs, and legal obligations.
-*   **Deleting your Channel**. If you are an Admin, [deleting your Channel](https://faq.whatsapp.com/598838008878228) removes the channel and Channel Content from the Tab in your app at which point it is no longer accessible to other users through Channels. It may take up to 90 days to delete your Channels information on our servers. We may also retain some of your information as needed for things like compliance with legal obligations, violations of our terms and policies, or harm prevention efforts. Please remember that when you delete your channel, it does not affect the information and content that other users may continue to have, such as a copy of the Channel Content saved locally on their device or that have been forwarded to other users or shared off our Services.
+*   **Retaining your public Channel Content, Channel Subscription Updates, Channel information and Channel Subscription information**. In the ordinary course of providing Channels, we store Channel Content and Channel Subscription Updates on our servers for up to 30 days, subject to safety, security and integrity purposes or other legal or compliance obligations that may require longer retention. Channel Content and Channel Subscription Updates may remain on Viewers’, Followers’ or subscribers’ devices for a longer period, though we may provide options for updates to disappear faster, for example after 7 days or 24 hours should Admins choose. We store other Channels information and Channel Subscription Information for as long as necessary for the purposes identified in this Channels Privacy Policy and the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal?eea=0#privacy-policy), including to provide Channels or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our terms and policies, or protecting or defending our rights, property, and users. The storage periods are determined on a case-by-case basis that depends on factors like the nature of the information, why it is collected and processed, relevant legal or operational retention needs, and legal obligations.
+*   **Deleting your Channel**. If you are an Admin, [deleting your Channel](https://faq.whatsapp.com/598838008878228) removes the channel and Channel Content from the Updates Tab in your app at which point it is no longer accessible to other users through Channels. It may take up to 90 days to delete your Channels information and Channel Subscription information on our servers. We may also retain some of your information as needed for things like compliance with legal obligations, violations of our terms and policies, or harm prevention efforts. Please remember that when you delete your channel, it does not affect the information and content that other users may continue to have, such as a copy of the Channel Content saved locally on their device or that have been forwarded to other users or shared off our Services.
 *   **Removing Channel Content**. Channel Admins can remove Channel Content up to 30 days after posting.
 
 You can learn more [here](https://faq.whatsapp.com/android/account-and-profile/how-to-delete-your-account/) about our data deletion and retention practices and about how to delete your account.
@@ -468,6 +605,8 @@ _*   [WhatsApp Legal Info](#whatsapp-legal-info)
 *   [Information You and We Share](#info-you-and-we-share)
 
 *   [How We Work With Other Meta Companies](#how-we-work-with-other-meta-companies)
+
+*   [Region Specific Information](#region-specific-info)
 
 *   [Assignment, Change Of Control, And Transfer](#assignment-changeofcontrol-and-transfer)
 
@@ -548,6 +687,12 @@ You and we share information as described in the WhatsApp Privacy Policy, plus a
 
 Review the WhatsApp Privacy Policy to understand how we work with the other Meta Companies for the WhatsApp Business App.
 
+### Region Specific Information
+
+_Additional information for users located in the US_
+
+You can learn more about the consumer privacy rights that may be available to you, by reviewing the WhatsApp Business App United States Regional Privacy Notice [here](https://www.whatsapp.com/legal/business-app-usa-regional-privacy-notice).
+
 ### Assignment, Change Of Control, And Transfer
 
 In the event that we are involved in a merger, acquisition, restructuring, bankruptcy, or sale of all or some of our assets, we will share your information with the successor entities or new owners in connection with the transaction in accordance with applicable data protection laws.
@@ -570,7 +715,7 @@ We may amend or update our Business App Privacy Policy. We will provide you noti
 
 ### Contact Us
 
-If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
+If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/696255948470523/).
 
 WhatsApp LLC
 
@@ -627,7 +772,7 @@ Our Services have optional features which, if used by you, require us to collect
 
 #### Information You Provide
 
-*   **Your Account Information**. You must provide your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
+*   **Your Account Information**. You must [provide](https://faq.whatsapp.com/684051319521343) your mobile phone number and basic information (including a profile name of your choice) to create a WhatsApp account. If you don’t provide us with this information, you will not be able to create an account to use our Services. You can add other information to your account, such as a profile picture and "about" information.
 
 *   **Your Messages**. We do not retain your messages in the [ordinary course](https://faq.whatsapp.com/1090704890049832)  
     of providing our Services to you. Instead, your messages are stored on your device and not typically stored on our servers. Once your messages are delivered, they are deleted from our servers. The following scenarios describe circumstances where we may store your messages in the course of delivering them:
@@ -673,7 +818,7 @@ We use information we have (subject to choices you make and applicable law) to o
 *   **Safety, Security, And Integrity**. Safety, security, and integrity are an integral part of our Services. We use information we have to verify accounts and activity; combat harmful conduct; protect users against bad experiences and spam; and promote safety, security, and integrity on and off our Services, such as by investigating suspicious activity or violations of our Terms and policies, and to ensure our Services are being used legally. Please see the [Law, Our Rights and Protection](#privacy-policy-law-our-rights-and-protection) section below for more information.
 *   **Communications About Our Services And** [**The Meta Companies**](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). We use information we have to communicate with you about our Services and let you know about our terms, policies, and other important updates. We may provide you marketing for our Services and those of the [Meta Companies](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies).
 
-*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but if we ever do, we will update this Privacy Policy.
+*   **No Third-Party Banner Ads**. We still do not allow third-party banner ads on our Services. We have no intention to introduce them, but you may see other types of ads in Status and Channels.
 
 *   **Business Interactions**. We enable you and third parties, like businesses, to communicate and interact with each other using our Services, such as [Catalogs](https://faq.whatsapp.com/general/account-and-profile/about-catalog) for businesses on WhatsApp through which you can browse products and services and place orders. Businesses may send you transaction, appointment, and shipping notifications; product and service updates; and marketing. For example, you may receive flight status information for upcoming travel, a receipt for something you purchased, or a notification when a delivery will be made. Messages you receive from a business could include an offer for something that might interest you. We do not want you to have a spammy experience; as with all of your messages, you can manage these communications, and we will honor the choices you make.
 
@@ -730,6 +875,10 @@ WhatsApp shares information globally, both internally within the [Meta Companies
 
 We may amend or update our Privacy Policy. We will provide you notice of amendments to this Privacy Policy, as appropriate, and update the “Effective Date” at the top of this Privacy Policy. Please review our Privacy Policy from time to time.
 
+### Privacy Rights for United States Residents
+
+You can learn more about the consumer privacy rights that may be available to you, by reviewing the United States Regional Privacy Notice [here](https://www.whatsapp.com/legal/ca-privacy-notice).
+
   
   
 
@@ -737,7 +886,7 @@ We may amend or update our Privacy Policy. We will provide you notice of amendme
 
 Contact Us
 
-If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/915483389072145).
+If you have questions or issues about our Privacy Policy, please [contact us](https://www.whatsapp.com/contact/forms/696255948470523/).
 
 WhatsApp LLC  
   
