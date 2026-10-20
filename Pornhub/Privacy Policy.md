@@ -329,7 +329,7 @@ Registered Users may request a copy of their personal data or request the deleti
 List of Processors
 ------------------
 
-**Last updated:** July. 31, 2025
+**Last updated:** Oct. 16, 2026
 
 Below is a list of our key processors, the purposes for which we use their services and their location:
 
@@ -337,29 +337,17 @@ Below is a list of our key processors, the purposes for which we use their servi
 | --- | --- | --- |
 | 51 Degrees | Device Detection | United Kingdom |
 | Amazon Web Services | Providing hosting solutions | United States |
-| AppOptics | Maintenance and performance measurement for internal apps | United States (Global Headquarters) |
 | Backblaze Inc | Providing Hosting Solutions | United States |
 | Brandwatch | Brand mentions monitoring on social media | United Kingdom |
-| Bugcrowd Inc. | Reporting bugs and vulnerabilities on our websites | United States |
-| Cision | Media Tracking online | United States |
+| CandyAI | AI virtual models | Malta |
 | Delight VR | Offer certain videos in virtual reality. | Germany |
-| DNS Made Easy | DNS Provider | United States |
 | Forsta | Consumer insights - User Research | United States |
 | Google Analytics | Web analytics service | United States |
 | Google Cloud | Providing hosting solutions and captcha service | United States |
 | Hotjar | Tracking UX interaction with product | Malta |
-| Incode | ID Verification | United States |
-| MailerCheck | Email list verification and deliverability testing tool. | United States |
-| MailerLite | Email marketing provider (for models, partners) | United States |
-| Private Identity LLC | Face Recognition with Age Estimation | United States |
+| Intercom | Chat software and AI agent system | United States |
 | Reflected Networks | Providing hosting solutions /CDN | United States |
 | SecureSender | Email marketing provider for website users | United States |
-| Sendgrid | Email marketing provider for clients - communicating account information | United States |
-| Solarwinds | Application performance management | United States |
-| Spectrum AI - Spectrum Labs Inc | AI content moderation for Trust and Safety  <br>Comment review. Goes through their AI to scan for bad words in English and in German. | United States |
-| Suzy Inc. | Consumer insights - User Research | United States |
-| Twilio | Communication APIs for SMS, email. | United States |
-| UserVoice | User feedback software | United States |
-| Yoti | ID Verification | United Kingdom |
+| Sentry | Application performance management | United States |
 | Zendesk | Customer support tool | United States |
-| PB Web Media | Website traffic services | The Netherlands |
+| ZeroBounce | Email validation | United States |
