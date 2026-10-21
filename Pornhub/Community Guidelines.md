@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-**August 2026**
+**Updated: October 2026**
 
 Pornhub prides itself on being a safe space for our creators and users to upload and consume adult content. We take a number of steps to help protect the safety of our community and integrity of our platform, which is achieved in part by ensuring that all content that is uploaded to our platform adheres to our [**Terms of Service**](https://www.pornhub.com/information#terms).
 
@@ -9,7 +9,7 @@ To help our users understand what is and what is not allowed on our platform, we
 
 **Prohibited Content**
 
-Please see an overview of what is **not allowed** on Pornhub. These guidelines apply to audio, written, and visual content, as well as actual, simulated, animated, and AI-generated content, whether the content is photorealistic or is clearly simulated content.  **Do not post** content that:
+Please see an overview of what is **not allowed** on Pornhub. These guidelines apply to audio, written, and visual content, as well as actual, simulated, fictionalized, animated, and AI-generated content, whether the content is photorealistic or is clearly simulated content.  **Do not post** content that:
 
 **Is Illegal**, such that the content:
 
@@ -45,7 +45,8 @@ Please see an overview of what is **not allowed** on Pornhub. These guidelines 
 **Is** **otherwise unacceptable** on Pornhub, including content that:
 
 *   Promotes or arranges sexual services in exchange for money or goods.
-*   Depicts, role-plays, or implies incest.
+*   Depicts, role-plays, or implies incest, including sexual activity between individuals presented as biological or adoptive family members.
+*   Depicts, role-plays, implies, or references any adult performer as being under eighteen (18) years of age or includes the use of underage paraphernalia.
 *   Involves feces of any kind or vomit with solid contents. 
 *   Involves the use of certain drugs, or performers whose capacity to consent has been impeded by the use of drugs.   
 *   Reacts to or tributes source content that has not been uploaded to Pornhub, or reacts to or tributes to more than one piece of content.
