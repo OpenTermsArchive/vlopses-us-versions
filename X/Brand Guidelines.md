@@ -85,7 +85,7 @@ English
 
 *   [\>x<.com](https://x.com/)
 *   [Status](https://docs.x.com/status)
-*   [Accessibility](https://help.x.com/en/resources/accessibility)
+*   [Accessibility](https://help.x.com/resources/accessibility)
 *   [Embed a post](https://publish.x.com/)
 *   [Privacy center](https://privacy.x.com/)
 *   [Transparency center](https://transparency.x.com/)
@@ -104,11 +104,11 @@ English
 Help
 ----
 
-*   [Help Center](https://help.x.com/en)
-*   [Using \>x<](https://help.x.com/en/using-x)
-*   [Managing your account](https://help.x.com/en/managing-your-account)
-*   [Rules and policies](https://help.x.com/en/rules-and-policies)
-*   [Contact us](https://help.x.com/en/forms)
+*   [Help Center](https://help.x.com/en/business-and-advertising)
+*   [Using \>x<](https://help.x.com/using-x)
+*   [Managing your account](https://help.x.com/managing-your-account)
+*   [Rules and policies](https://help.x.com/rules-and-policies)
+*   [Contact us](https://help.x.com/forms)
 
 Developer resources
 -------------------
@@ -126,7 +126,7 @@ Business resources
 *   [Advertise](https://ads.x.com/)
 *   [\>x< for business](https://business.x.com/)
 *   [Resources and guides](https://business.x.com/resources)
-*   [1-888-GET-XADS](tel:+18884389237)
+*   [1-833-GET-XADS](tel:+18334389237)
 
 Legal
 -----
