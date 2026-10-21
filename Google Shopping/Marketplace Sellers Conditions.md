@@ -4918,14 +4918,6 @@ To report an image:
 
 **Note:** Photos taken in private residences, publicly inaccessible locations, or in other private locations shouldn't be published without the owner’s consent. Don't publish photos in which people are identifiable without their permission.
 
-We use a combination of automated and human evaluation to ensure that content and reviews comply with our policies. Our enforcement technologies use machine-learning algorithms to help protect our merchants and users by keeping our shopping platforms safe.
-
-More complex, nuanced, or severe cases are reviewed and evaluated by our specially trained experts who conduct content evaluations that might be difficult for algorithms to perform alone, for example, because an understanding of the context of the piece of content is required.
-
-We take action on content and reviews that violate our policies. This may include disapproving content or suspending accounts for repeated or egregious violations. We take repeat violations of our policies seriously. Repeated offenses will be met with more severe enforcement.
-
-Upon request, we’ll sometimes remove content under applicable laws or in response to a court order. Submit legal requests [here](https://support.google.com/legal/troubleshooter/1114905).
-
 * * *
 
 Request a review for your Product Ratings issues
