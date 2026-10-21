@@ -128,7 +128,7 @@ In the event the Program must be terminated due to an unforeseeable event, SHEIN
 
 SHEIN U.S. TERMS OF USE
 
-**Effective Date: September 3, 2026**
+**Effective Date: October 21st, 2026**
 
 Welcome to SHEIN’s US web, mobile site and mobile application.
 
@@ -156,7 +156,8 @@ These terms and conditions ( **“Agreement”** or **“Terms”** ) govern you
 *   [**14\. LEGAL TERMS >**](javascript:;)
 *   [**15\. NOTICE OF INTELLECTUAL PROPERTY INFRINGEMENT >**](javascript:;)
 *   [**16\. CONTACT US >**](javascript:;)
-*   [**17\. INTERNATIONAL USERS >**](javascript:;)
+*   [**17\. CUSTOMER SUPPORT >**](javascript:;)
+*   [**18\. INTERNATIONAL USERS >**](javascript:;)
 
 1\. GENERAL
 
@@ -470,7 +471,11 @@ The removed material may be replaced or access to it may be restored 10 to 14 bu
 
 We welcome your questions and comments about our privacy practices or these Terms. You may contact us anytime via email at us\_legal@sheingroup.com. Customer service inquiries should be made through our [Customer Service Platform](https://us.shein.com/robot) .
 
-17\. INTERNATIONAL USERS.
+17\. CUSTOMER SUPPORT
+
+**Customer Support.** SHEIN may, in its discretion, assist with questions about the shipment, delivery, return, refund, or payment of an order, and will handle customer service inquiries in a reasonable manner. Unless a SHEIN policy expressly states otherwise, any such assistance is a courtesy and does not create a contractual obligation for SHEIN to resolve issues caused by carriers, banks, payment processors, Third-Party Sellers, or other third parties. Where a third party’s involvement is necessary to resolve your issue, we may refer you to that third party.
+
+18\. INTERNATIONAL USERS.
 
 The Services are intended for U.S.-based users and products sold on the Services are sold only to users located in the U.S. SHEIN makes no representations that the Services are appropriate or available for use in other locations. Those who access or use the Services from other countries do so at their own volition and are responsible for compliance with local law.
 
