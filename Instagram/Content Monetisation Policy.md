@@ -172,6 +172,13 @@ Content may not be monetized if it displays or discusses gore or bodily conditio
 *   Decay
 *   Infestation
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 Instagram Partner Monetization Policies
