@@ -247,7 +247,7 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 2\. Your Affiliate Benefits will be rounded to 2 decimal places.
 
-3\. Your Commission will be credited to your “Pending” balance 2 days following the placement of each Qualifying Order. We will verify your Commission for a Qualifying Order after the order delivery has been confirmed.The verification period will be displayed on the applicable Program page and may vary depending on the Commission. During this period, the Commission will remain pending and cannot be withdrawn until it is verified and shown as “Available.”
+3\. Your Commission for each Qualifying Order may be subject to an applicable waiting period and verification period before it becomes eligible for withdrawal. The specific waiting and verification periods are set out on the applicable Program page and/or in the full Policy, which would be available to you after you log in to your Temu user account and registers for the Program.
 
 4\. Only Affiliate Earnings shown as your “Available Earnings” are eligible for withdrawal.You may choose to withdraw your “Available Earnings” as [Temu Credits](https://www.temu.com/temu-credit-balance-policy.html) to your Temu account, or as cash via PayPal.You can withdraw the Affiliate Earnings in your “Available” account only if the balance is over $20. No withdrawal is allowed if the balance is less than $20. The full balance of your “Available” account must be withdrawn; partial withdrawals are not permitted.
 
@@ -255,23 +255,11 @@ Exhibit A - Affiliate Earnings Terms and Conditions
 
 6\. Affiliate Earnings Limits and Monthly Review
 
-(i) **Order Limit:**You may earn up to $100 Commission per Qualifying Order and $10,000 Affiliate Earnings per calendar month.
-
-(ii) **Initial Monthly Limit and Automatic Review:**Your Affiliate Earnings are subject to an initial limit of $1,000 in "Available Earnings" per calendar month. When your accumulated "Available Earnings",regardless of any withdrawals made during that period, reach this $1,000 threshold within a single calendar month, an internal review will be automatically triggered, and a temporary hold will be placed on your account. During this hold: (a) New Affiliate Earnings will not be credited to your account balance (both pending balance and "Available Earnings" balance); and (b) Your existing pending balance will cease verification and will not be transferred to your "Available Earnings" balance (together, **“Hold”**).
-
-(iii) **Review Outcome:**Following the review, Temu will, at its sole discretion, determine the outcome.
-
-(a) **Approval:** If your account review is approved, Temu may increase the "Affiliate Earnings" limit for that calendar month to a new limit determined by us. The Hold will be lifted, and all earnings accrued during the hold in that calendar month will resume normal processing until such new limit is reached. If you reach the new limit, you will not earn any more "Affiliate Earnings" for the rest of that calendar month.
-
-(b) **Rejection and Termination:**If your account review is rejected, Temu reserves the right, in its sole discretion, to terminate your participation in the Program. Temu further reserves the right, based on the findings of the review, to adjust, cancel, or forfeit any "Pending" or "Available Earnings" and/or to limit, permit,or deny withdrawals, irrespective of any balance in your account.
-
-(iv) **Monthly Cycle:** The $1,000 initial limit and the review process as described in this Section 6 will reset on the first day of each calendar month for all active Affiliates. Affiliates whose partnerships are terminated following a review rejection will not be eligible for future participation.
+Your Affiliate Earnings are subject to certain limits, including commission limits per Qualifying Order and monthly earnings limits. When your accumulated “Available Earnings” reach the applicable initial limit within a single calendar month, an internal review will be automatically triggered, regardless of any withdrawals made during that period, and a temporary hold will be placed on your account. The specific limits and any resulting account actions are set out on the applicable Program page and/or in the full Policy, which would be available to you after you log in to your Temu user account and registers for the Program.
 
 7\. Withdrawal Methods and Limits
 
-Temu may offer one or more withdrawal methods (e.g., PayPal,Temu credit, depending on your country of residence), each of which is subject to specific daily withdrawal limits and transaction caps. For example:
-
-• PayPal: Up to $1,000 for your first withdrawal. Up to $10,000 per day; max 5 withdrawals per day. • Temu credit: Up to $10,000 for your first withdrawal. Up to $10,000 per day; max 5 withdrawals per day.
+Temu may offer one or more withdrawal methods (e.g., PayPal, Bank Transfer, depending on your country of residence), each of which is subject to specific daily withdrawal limits and transaction caps. The specific withdrawal limits are set out on the applicable Program page and/or in the full Policy, which would be available to you after you log in to your Temu user account and registers for the Program.
 
 8\. If the withdrawal method you choose involves different currencies, the applicable exchange rate shall be subject to the rate displayed on the withdrawal page at the time of withdrawal.
 
