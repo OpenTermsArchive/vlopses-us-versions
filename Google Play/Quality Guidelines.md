@@ -81,7 +81,7 @@ How content ratings are used
 App ratings are meant to do more than reflect the intended audience. They’re meant to help consumers, especially parents, identify whether the app is appropriate for what the consumers are looking for, along with other purposes, like:
 
 *   Blocking or filtering your content in certain territories or to specific users where legally required.
-*   In the European Economic Area (EEA), Australia, Brazil, Singapore, Switzerland and the United Kingdom only, for users determined to be minors:
+*   In the European Economic Area (EEA), Australia, Brazil, Indonesia, Singapore, Switzerland and the United Kingdom only, for users determined to be minors:
     *   Blocking the acquisition and purchase of mature content (such as 18+ rated apps or games)
     *   Blocking or filtering mature content from Google Play search and browse pages, except through deep linking
 *   Evaluating your app’s eligibility for special developer programs
@@ -104,7 +104,7 @@ To better serve users, it’s important to provide accurate information about yo
 How to manage target audience and app content settings
 ------------------------------------------------------
 
-If you create a new app or publish an update to an existing app, you’ll be required to declare your app’s target age group. Any apps that include children in their target audience must comply with Google Play's [Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements. Before filling out the "Target audience and content" section, you must have [declared whether or not your app contains ads](https://support.google.com/googleplay/android-developer/answer/9859455#ads) and [provided instructions for app access](https://support.google.com/googleplay/android-developer/answer/9815348#app_access). You must also [add a privacy policy](https://support.google.com/googleplay/android-developer/answer/9859455).
+If you create a new app or publish an update to an existing app, you’ll be required to declare your app’s target age group. Any apps that include children in their target audience must comply with Google Play's[Families](https://support.google.com/googleplay/android-developer/topic/9877766#!?zippy_activeEl=families-policy#families-policy) policy requirements. Before filling out the "Target audience and content" section, you must have [declared whether or not your app contains ads](https://support.google.com/googleplay/android-developer/answer/9859455#ads) and [provided instructions for app access](https://support.google.com/googleplay/android-developer/answer/9815348#app_access). You must also [add a privacy policy](https://support.google.com/googleplay/android-developer/answer/9859455).
 
 For detailed instructions on how to declare your app’s target age group, read [Manage target audience and app content settings](https://support.google.com/googleplay/android-developer/answer/9867159?hl=en).
 
@@ -242,6 +242,8 @@ Ratings in Brazil are maintained by ClassInd.
 | ![18](//storage.googleapis.com/support-kms-prod/C55EE0515641A8CBDCD06F742AFDE5281811) | **Rated 18+**<br><br>High impact content. It may contain sadism, cruelty, encouragement or glamorization of drugs/violence, and explicit sexual relations. |
 
 Learn more on the [ClassInd website](http://www.justica.gov.br/seus-direitos/classificacao)
+
+\_\_\_codemirror\_selection\_bookmark\_\_\_
 
 GRAC - South Korea
 
