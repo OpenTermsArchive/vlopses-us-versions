@@ -335,6 +335,16 @@ What is the difference between a trademark registration and a business registrat
 
 Copy link
 
+What is a trademark registration?
+
+What is a business registration?
+
+How do I register a trademark?
+
+How do I register a business?
+
+I have a different question
+
 In some states in the U.S. and in some countries outside the U.S., a company might be able to register with a government office, or obtain a permit or license to do business in that country or state. These registrations, such as ones issued by a state’s Secretary of State, generally aren’t the same as a trademark registration, and may not create trademark rights for the company.
 
 In the U.S., a [trademark](https://www.facebook.com/help/1378807958858854?helpref=faq_content) can be registered with the United States Patent and Trademark Office (USPTO). In the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -371,6 +381,13 @@ Related Articles
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
 [What’s the difference between copyright and trademark?](https://www.facebook.com/help/339026683156879/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -941,11 +958,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report Facebook IP infringement?
 
-How do I report Facebook trademark?
+What is Facebook copyright infringement?
 
-What is Facebook intellectual property?
+What is Facebook trademark infringement?
 
 I have a different question
 
@@ -1624,9 +1641,9 @@ Copyright
 
 How do I report copyright infringement?
 
-How do I protect my copyrighted work?
-
 What is Facebook copyright policy?
+
+How do I protect my copyrighted work?
 
 I have a different question
 
@@ -1979,13 +1996,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
+How do I avoid Facebook copyright?
 
-How do I get permission to post?
+What is Facebook intellectual property?
 
 What is Facebook fair use?
 
-What is public domain content?
+What is Facebook public domain?
 
 I have a different question
 
@@ -2326,11 +2343,13 @@ Facebook Lite App Help
 
 More
 
-How do I appeal content removal?
+What happens to removed content?
+
+How do I appeal removed content?
+
+How do I contact the rights owner?
 
 What is intellectual property infringement?
-
-What happens to my content?
 
 I have a different question
 
@@ -2538,11 +2557,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
+What is a DMCA claim?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is Meta's DMCA agent?
+How do I contact Meta's DMCA agent?
 
 I have a different question
 
