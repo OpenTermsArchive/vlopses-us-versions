@@ -433,6 +433,10 @@ Geolocation API
 
 Google Earth
 
+Maps 3D SDK for Android
+
+Maps 3D SDK for iOS
+
 Maps Datasets API
 
 Maps Embed API
