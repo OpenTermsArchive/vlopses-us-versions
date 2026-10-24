@@ -1,66 +1,100 @@
 Copyright
-
-
-
-
-===============
+=========
 
 YouTube is designed to ensure that every player in our ecosystem can be successful.
 
-This includes both protecting rightsholders and giving creators peace of mind so they can focus on producing original content.
+This includes both protecting rightsholders and giving creators peace of mind so that they can focus on producing original content.
+
+*   [Copyright protection tools](#container-fddafcffcc)
+*   [Copyright claims appeals](#container-fcdfaabfefce)
 
 How YouTube’s Copyright Protection Tools work
 ---------------------------------------------
 
-We’ve invested millions of dollars in developing a Copyright Management Suite that’s designed to balance the needs of our entire ecosystem — and we have clear rules when it comes to copyright.
+We've invested millions of dollars in developing a Copyright Management Suite that's designed to balance the needs of our entire ecosystem — and we have clear rules when it comes to copyright.
 
-YouTube has worked directly with rightsholders to ensure that copyrighted material on our platform is authorized, and we provide those robust tools to allow rightsholders to notify YouTube of alleged infringement, which we remove in accordance with the law. There are three main tools that make up our Copyright Management Suite:
+YouTube has worked directly with rightsholders to ensure that copyrighted material on our platform is authorised, and that we provide those robust tools to allow rightsholders to notify YouTube of alleged infringement, which we remove in accordance with the law. There are three main tools that make up our Copyright Management Suite:
 
-*   ### Webform
-    
-    **Who is it for?**
-    
-    Available in more than 80 languages, all rightsholders have access to the webform, which we’ve built as a streamlined and efficient way to submit copyright removal requests.
-    
-    **What does it do?**
-    
-    Rightsholders enter a few details of their request, which is then reviewed by YouTube to see if it meets legal requirements for removing the reported content.
-    
-    Rights holders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
-    
-*   ### Copyright Match Tool
-    
-    **Who’s it for?**
-    
-    It helps creators and rights holders protect their content by automatically finding videos that are the same or very similar to ones previously uploaded.
-    
-    **What does it do?**
-    
-    If a match is found, the creator or the rights holder is notified. She can then review the video that potentially reused their content and decide whether to request the video’s removal.
-    
-*   ### Content ID
-    
-    **Who’s it for?**
-    
-    Rightsholders who have the most complex rights management needs and experience heavy reposting of copyrighted material, like movie studios and music labels.
-    
-    **What does it do?**
-    
-    Rightsholders can pre-determine rules for when content matches are found — choosing to block a whole video from being viewed, monetize the video by running ads against it, or track the video’s viewership stats.
-    
+### Webform
 
-How YouTube Addresses Copyright Claims Appeals
+**Who is it for?**  
+Available in more than 80 languages, all rightsholders have access to the webform, which we've built as a streamlined and efficient way to submit copyright removal requests.  
+  
+**What does it do?**  
+Rightsholders enter a few details of their request, which is then reviewed by YouTube to see if it meets the legal requirements for removing the reported content.  
+  
+Rights holders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
 
+### Copyright Match Tool
 
+**Who’s it for?**  
+It helps creators and rights holders protect their content by automatically finding videos that are the same or very similar to ones previously uploaded.  
+  
+**What does it do?**  
+If a match is found, the creator or the rightsholder is notified. They can then review the video that potentially reused their content and decide whether to request the video's removal.
 
+### Content ID
 
-----------------------------------------------------
+**Who's it for?**  
+Rightsholders who have the most complex rights management needs and experience heavy reposting of copyrighted material, like film studios and music labels.  
+  
+**What does it do?**  
+Rightsholders can pre-determine rules for when content matches are found, choosing to block a whole video from being viewed, monetise the video by running ads against it or track the video's viewership stats.
+
+   ![webform-image](https://www.gstatic.com/marketing-cms/assets/images/66/9e/6368ca7b44a0991c0df610fc8881/frame-2134098093.svg)
+
+Play silent looping video Pause silent looping video
+
+Play silent looping video Pause silent looping video
+
+   ![webform-image](https://www.gstatic.com/marketing-cms/assets/images/66/9e/6368ca7b44a0991c0df610fc8881/frame-2134098093.svg)
+
+### Webform
+
+**Who is it for?**  
+Available in more than 80 languages, all rightsholders have access to the webform, which we've built as a streamlined and efficient way to submit copyright removal requests.  
+  
+**What does it do?**  
+Rightsholders enter a few details of their request, which is then reviewed by YouTube to see if it meets the legal requirements for removing the reported content.  
+  
+Rights holders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
+
+Play silent looping video Pause silent looping video
+
+### Copyright Match Tool
+
+**Who’s it for?**  
+It helps creators and rights holders protect their content by automatically finding videos that are the same or very similar to ones previously uploaded.  
+  
+**What does it do?**  
+If a match is found, the creator or the rightsholder is notified. They can then review the video that potentially reused their content and decide whether to request the video's removal.
+
+Play silent looping video Pause silent looping video
+
+### Content ID
+
+**Who's it for?**  
+Rightsholders who have the most complex rights management needs and experience heavy reposting of copyrighted material, like film studios and music labels.  
+  
+**What does it do?**  
+Rightsholders can pre-determine rules for when content matches are found, choosing to block a whole video from being viewed, monetise the video by running ads against it or track the video's viewership stats.
+
+#### How YouTube Addresses Copyright Claims Appeals
 
 The majority of copyright claims and removal requests on YouTube come from our automatic detection technology.
 
-We empower uploaders to report wrongful takedown requests, and we measure how often creators push back against [removals](https://support.google.com/youtube/answer/2807684) and [Content ID claims](https://support.google.com/youtube/answer/2797454) in our [Copyright Transparency Report](https://transparencyreport.google.com/youtube-copyright/intro).
+We empower uploaders to report wrongful takedown requests, and we measure how often creators push back against [removals](https://support.google.com/youtube/answer/2807684) and [Content ID claims](https://support.google.com/youtube/answer/2797454) in our [Copyright Transparency Report](https://transparencyreport.google.com/youtube-copyright/intro)
 
-Of the more than 2 billion Content ID claims made in 2024, fewer than 1% have been disputed. Over 70% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim’s release. ([Source](https://transparencyreport.google.com/youtube-copyright/intro))
+Of the more than 2 billion Content ID claims made in 2024, fewer than 1% have been disputed. Over 70% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim's release. ([Source](https://transparencyreport.google.com/youtube-copyright/intro))
+
+Explore More
+
+
+----------------
+
+*   [YouTube Copyright Transparency Report](https://transparencyreport.google.com/youtube-copyright/intro?en_GB)
+*   [Copyright and rights management centre](https://support.google.com/youtube/topic/2676339?ref_topic=6151248&sjid=3522198452893595691-NC)
+*   [How to use the Copyright Match Tool](https://support.google.com/youtube/answer/15269184?sjid=10233159174352341243-NA&en-GB)
 
 - - -
 
