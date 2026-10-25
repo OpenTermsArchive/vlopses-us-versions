@@ -3,6 +3,16 @@ Instagram Content Monetization Policies
 
 Copy link
 
+How do Instagram monetization policies work?
+
+What content is prohibited from Instagram monetization?
+
+What content has restricted Instagram monetization?
+
+How do I check Instagram monetization eligibility?
+
+I have a different question
+
 We offer features and products that help creators and publishers earn money from their content. This content has to follow certain rules.
 
 All content on Instagram must comply with our [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content) and [Community Standards](https://transparency.meta.com/policies/community-standards/). These are our high-level rules against sexual, violent, profane or hateful content. However, content appropriate for Instagram in general is not necessarily appropriate for monetization.
@@ -188,11 +198,11 @@ Copy link
 
 How do Instagram monetization policies work?
 
-How do I check Instagram monetization eligibility?
+How do I monetize on Instagram?
 
-What are Instagram Content Monetization Policies?
+What are Instagram content policies?
 
-How do Instagram payments work?
+How do Instagram payment terms work?
 
 I have a different question
 
