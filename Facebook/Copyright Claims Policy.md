@@ -1641,9 +1641,9 @@ Copyright
 
 How do I report copyright infringement?
 
-What is Facebook copyright policy?
-
 How do I protect my copyrighted work?
+
+What is Facebook copyright policy?
 
 I have a different question
 
@@ -1996,13 +1996,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-How do I avoid Facebook copyright?
+What is Facebook copyright law?
 
-What is Facebook intellectual property?
+How do I get permission to post?
 
 What is Facebook fair use?
 
-What is Facebook public domain?
+What is public domain content?
 
 I have a different question
 
@@ -2085,8 +2085,6 @@ What is fair use?
 What are copyright exceptions?
 
 How does fair use apply?
-
-What is copyright infringement?
 
 I have a different question
 
@@ -2343,13 +2341,11 @@ Facebook Lite App Help
 
 More
 
-What happens to removed content?
-
-How do I appeal removed content?
-
-How do I contact the rights owner?
+How do I appeal content removal?
 
 What is intellectual property infringement?
+
+What happens to my content?
 
 I have a different question
 
