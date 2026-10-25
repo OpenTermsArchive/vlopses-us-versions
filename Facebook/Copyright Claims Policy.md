@@ -958,11 +958,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook IP infringement?
+How do I report Facebook copyright?
 
-What is Facebook copyright infringement?
+How do I report Facebook trademark?
 
-What is Facebook trademark infringement?
+What is Facebook intellectual property?
 
 I have a different question
 
@@ -1996,13 +1996,13 @@ How can I make sure the content I post to Facebook doesn't violate copyright law
 
 Copy link
 
-What is Facebook copyright law?
+How do I avoid Facebook copyright?
 
-How do I get permission to post?
+What is Facebook intellectual property?
 
 What is Facebook fair use?
 
-What is public domain content?
+What is Facebook public domain?
 
 I have a different question
 
@@ -2085,6 +2085,8 @@ What is fair use?
 What are copyright exceptions?
 
 How does fair use apply?
+
+What is copyright infringement?
 
 I have a different question
 
@@ -2553,11 +2555,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-What is a DMCA claim?
+How do I contact Meta DMCA?
 
-How do I report copyright infringement?
+How do I report copyright?
 
-How do I contact Meta's DMCA agent?
+What is Meta's DMCA agent?
 
 I have a different question
 
