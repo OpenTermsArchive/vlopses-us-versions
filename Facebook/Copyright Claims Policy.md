@@ -50,6 +50,14 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+How do I report trademark infringement?
+
+What is Brand Rights Protection?
+
+What does trademark protect?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -1641,9 +1649,9 @@ Copyright
 
 How do I report copyright infringement?
 
-How do I protect my copyrighted work?
-
 What is Facebook copyright policy?
+
+How do I protect my copyrighted work?
 
 I have a different question
 
@@ -2343,11 +2351,13 @@ Facebook Lite App Help
 
 More
 
-How do I appeal content removal?
+What happens to removed content?
+
+How do I appeal removed content?
+
+How do I contact the rights owner?
 
 What is intellectual property infringement?
-
-What happens to my content?
 
 I have a different question
 
