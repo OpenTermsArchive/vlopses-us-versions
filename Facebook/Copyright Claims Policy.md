@@ -956,11 +956,11 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
-How do I report Facebook copyright?
+How do I report Facebook IP infringement?
 
-How do I report Facebook trademark?
+What is Facebook copyright infringement?
 
-What is Facebook intellectual property?
+What is Facebook trademark infringement?
 
 I have a different question
 
@@ -1443,14 +1443,6 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
-How do I withdraw an IP report?
-
-How do I cancel a copyright report?
-
-How do I cancel a trademark report?
-
-I have a different question
-
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1489,13 +1481,6 @@ Related Articles
 * * *](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
 [Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
