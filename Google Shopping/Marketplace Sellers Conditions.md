@@ -5706,7 +5706,7 @@ Accounts are only reinstated in compelling circumstances, such as in the case of
 ### Tips for submitting your appeal
 
 *   **Follow best practices**: Implement the best practices we’ve provided if you haven’t already. Refer to each egregious policy page for more information on best practices and relevant tips for what to include in your appeal submission.
-*   **Explain your situation:** For each violating policy, provide more context into your
+*   **Explain your situation:** For each violating policy, provide more context into your appeal.
     *   **Examples**: For cloaking violations, let us know why you were showing different content to Google than to other users. For phishing violations, if you're an official partner of another brand, describe your partnership and share any information that shows how you're connected
 *   **Verify your identity**: If we’ve asked you to, make sure you complete [advertiser verification](https://support.google.com/adspolicy/answer/9703665?hl=en&sjid=2599512627388678344-NC).
 
