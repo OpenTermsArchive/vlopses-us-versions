@@ -2084,6 +2084,8 @@ What are copyright exceptions?
 
 How does fair use apply?
 
+What is copyright infringement?
+
 I have a different question
 
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
@@ -2553,11 +2555,11 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-How do I contact Meta DMCA?
+What is a DMCA claim?
 
-How do I report copyright?
+How do I report copyright infringement?
 
-What is Meta's DMCA agent?
+How do I contact Meta's DMCA agent?
 
 I have a different question
 
