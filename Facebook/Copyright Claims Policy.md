@@ -132,6 +132,8 @@ What do trademarks protect?
 
 How do trademarks work?
 
+How do I report a trademark violation?
+
 I have a different question
 
 A trademark is a word, slogan, symbol or design (example: a brand name or logo) that a person or company uses to distinguish their products or services from those offered by others. A trademark is protectable when it’s used in a distinctive way to identify a product or service. Whether you know it or not, you see trademarks all day long, whether shopping in stores or online, watching commercials on TV and so on.
@@ -1148,6 +1150,16 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
+What to include in a trademark report?
+
+How do I submit a trademark report?
+
+What is trademark infringement?
+
+What is intellectual property?
+
+I have a different question
+
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address and phone number)
@@ -1203,6 +1215,13 @@ Related Articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2471,11 +2490,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright infringement?
+How do I report copyright?
 
-What happens after I report copyright?
+How do I contact Facebook agent?
 
-How do I contact a designated agent?
+What is copyright infringement?
 
 I have a different question
 
@@ -2540,14 +2559,6 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-What is a DMCA claim?
-
-How do I report copyright infringement?
-
-How do I contact Meta's DMCA agent?
-
-I have a different question
-
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
 If you wish to reach our designated agent through other (and slower) methods, you can contact:
@@ -2593,13 +2604,6 @@ Related Articles
 * * *](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2761,7 +2765,9 @@ What happens to my copyright report?
 
 What is a copyright report number?
 
-How do I respond to a copyright report?
+What information does Meta share?
+
+How do I respond to Meta about a report?
 
 I have a different question
 
