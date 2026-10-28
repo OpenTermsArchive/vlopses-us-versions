@@ -126,11 +126,11 @@ What are trademarks and what they protect
 
 Copy link
 
-What are trademarks?
+What is a trademark?
 
 What do trademarks protect?
 
-How do I report trademark infringement?
+How do trademarks work?
 
 I have a different question
 
@@ -550,9 +550,9 @@ Related Articles
 
 [What are trademarks and what they protect](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
 [Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Related Articles
 
@@ -568,11 +568,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1378807958858854/?helpref=related_articles)
 
-[Does a trademark need to be registered to be protected?
+[Trademark
 
-* * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
+* * *](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
 
-[Trademark](https://www.facebook.com/help/507663689427413/?helpref=related_articles)
+[What is the difference between a trademark registration and a business registration?](https://www.facebook.com/help/1378621128898663/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1022,6 +1022,8 @@ What is Facebook trademark infringement?
 
 How do I contact a Facebook user?
 
+What are Facebook username rules?
+
 I have a different question
 
 [Usernames](https://www.facebook.com/help/105399436216001?helpref=faq_content) are generally claimed on a first-come, first-served basis. This means that you may see a Facebook Page or profile with a username that includes your trademark.
@@ -1146,16 +1148,6 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What to include in a trademark report?
-
-How do I submit a trademark report?
-
-What is trademark infringement?
-
-What is intellectual property?
-
-I have a different question
-
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, mailing address and phone number)
@@ -1211,13 +1203,6 @@ Related Articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [Does a trademark need to be registered to be protected?](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1443,6 +1428,14 @@ Retract an intellectual property report that you've submitted to Facebook
 
 Copy link
 
+How do I withdraw an IP report?
+
+How do I cancel a copyright report?
+
+How do I cancel a trademark report?
+
+I have a different question
+
 If you submitted an intellectual property report, but then reached an agreement with the person who posted the content, or if you reported content by mistake, you can withdraw your intellectual property report.
 
 The best way to do that is to complete the Retraction Form provided to you in the email you received when you filed your report. Alternatively, you can submit [this form.](https://www.facebook.com/help/contact/237593160842825)
@@ -1481,6 +1474,13 @@ Related Articles
 * * *](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
 [Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2471,11 +2471,11 @@ How do I report copyright infringement on Facebook?
 
 Copy link
 
-How do I report copyright?
+How do I report copyright infringement?
 
-How do I contact Facebook agent?
+What happens after I report copyright?
 
-What is copyright infringement?
+How do I contact a designated agent?
 
 I have a different question
 
@@ -2761,9 +2761,7 @@ What happens to my copyright report?
 
 What is a copyright report number?
 
-What information does Meta share?
-
-How do I respond to Meta about a report?
+How do I respond to a copyright report?
 
 I have a different question
 
