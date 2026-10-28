@@ -227,7 +227,7 @@ _6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values
 
 9.1 _No Personal Data._ Customer will not provide to Google any Personal Data via the Maps Datasets API.
 
-**10\. Maps Grounding Lite API**
+**10\. Maps Experience Agent Tools**
 
 10.1 _Definitions_.
 
@@ -239,9 +239,9 @@ _6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values
 
 10.2 _Permitted Use_. For clarity, Google Maps Content contained in Grounded Output remains subject to use restrictions applicable to Google Maps Content in the Agreement, including the prohibition on model training. As a limited exception:
 
-10.2.1 to the prohibition on using Google Maps Content to create content, Customer may use the Maps Grounding Lite API to ground a LLM to generate and display Grounded Output to End Users if (i) Customer complies with the Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy) and (ii) Customer includes associated Google Maps source links with the Grounded Output;
+10.2.1 to the prohibition on using Google Maps Content to create content, Customer may use Maps Experience Agent Tools to ground a LLM to generate and display Grounded Output to End Users if (i) Customer complies with the Generative AI Prohibited Use Policy described at [https://policies.google.com/terms/generative-ai/use-policy](https://policies.google.com/terms/generative-ai/use-policy) and (ii) Customer includes associated Google Maps source links with the Grounded Output;
 
-10.2.2 to the prohibition on caching or storing Google Maps Content, Customer may cache Grounded Output for up to thirty (30) consecutive days solely for the purpose of evaluating and optimizing the performance or display of the Grounded Output for the Customer Application.
+10.2.2 to the prohibition on caching or storing Google Maps Content, Customer may cache Grounded Output: (1) for up to thirty (30) consecutive days for the purpose of evaluating and optimizing the performance or display of the Grounded Output for the Customer Application or (2) in the chat history of an End User of the Customer Application for up to two (2) years for the purpose of allowing that End.
 
 10.3 _Additional Restrictions_. In addition to the license restrictions in the Agreement, Customer will not, and will not permit its End Users or third-parties to, do any of the following:
 
@@ -441,7 +441,7 @@ Maps Datasets API
 
 Maps Embed API
 
-Maps Grounding Lite API
+Maps Experience Agent Tools
 
 Maps JavaScript API
 
