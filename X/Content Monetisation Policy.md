@@ -6,7 +6,7 @@
 \>x<’s Creator Monetization Standards
 =====================================
 
-To earn money on >x<, you must meet eligibility standards and comply with our policies. This article outlines the requirements for creators, advertisers, and publishers in our monetization programs.
+To earn money on \>x<, you must meet eligibility standards and comply with our policies. This article outlines the requirements for creators, advertisers, and publishers in our monetization programs.
 
 Table of contents
 
