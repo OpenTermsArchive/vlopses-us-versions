@@ -6,7 +6,7 @@
 Additional information about data processing
 ============================================
 
-This article explains the legal bases under which >x< collects and processes your personal data. It provides additional details about data collection sources and processing practices to supplement our Privacy Policy.
+This article explains the legal bases under which \>x< collects and processes your personal data. It provides additional details about data collection sources and processing practices to supplement our Privacy Policy.
 
 Table of contents
 
