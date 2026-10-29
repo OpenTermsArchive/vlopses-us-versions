@@ -6,7 +6,7 @@
 Guidelines for law enforcement
 ==============================
 
-These guidelines help law enforcement authorities request user information from >x<. Understand what we can provide, what legal processes apply, and how to submit a request.
+These guidelines help law enforcement authorities request user information from \>x<. Understand what we can provide, what legal processes apply, and how to submit a request.
 
 Table of contents
 
