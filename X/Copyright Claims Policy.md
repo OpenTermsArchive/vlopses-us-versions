@@ -6,7 +6,7 @@
 Copyright policy
 ================
 
-\>x< is committed to respecting copyright. This article explains how >x< responds to copyright complaints under the Digital Millennium Copyright Act and the procedures for reporting infringement and submitting counter-notices.
+\>x< is committed to respecting copyright. This article explains how \>x< responds to copyright complaints under the Digital Millennium Copyright Act and the procedures for reporting infringement and submitting counter-notices.
 
 Table of contents
 
@@ -14,7 +14,7 @@ Table of contents
 
 *   #### What types of copyright complaints does >x< respond to?
     
-    \>x< responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”). Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice.
+    \>x< responds to copyright complaints submitted under the Digital Millennium Copyright Act (“DMCA”) or other applicable copyright notice-and-takedown laws. For example, Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a compliant counter-notice. Similar requirements are provided under various notice-and-takedown laws.
     
     \>x< will respond to reports of alleged copyright infringement, such as allegations concerning the unauthorized use of a copyrighted image as a profile or header photo, allegations concerning the unauthorized use of a copyrighted video or image uploaded through our media hosting services, or posts containing links to allegedly infringing materials. Note that not all unauthorized uses of copyrighted materials are infringements (see our [fair use](https://help.x.com/en/rules-and-policies/fair-use-policy.html) article for more information).
     
@@ -35,9 +35,9 @@ Table of contents
 *   #### What happens next?
     
 
-![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F7cb0e371141497242440bc1e1798c5a00d9f2619-530x86.svg&w=3840&q=90&dpl=5ab50392-7651-45af-854a-32fb8d8de795)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Fa920446b397c0970050d4846f5bd0838f5079417-530x86.svg&w=3840&q=90&dpl=5ab50392-7651-45af-854a-32fb8d8de795)
+![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F7cb0e371141497242440bc1e1798c5a00d9f2619-530x86.svg&w=3840&q=90&dpl=3975a08c-4682-43da-bd19-8e0395581e3b)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Fa920446b397c0970050d4846f5bd0838f5079417-530x86.svg&w=3840&q=90&dpl=3975a08c-4682-43da-bd19-8e0395581e3b)
 
-![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Ff6c3c5d0c4344e1ea0408e9cfe5ca58add673241-356x359.svg&w=3840&q=90&dpl=5ab50392-7651-45af-854a-32fb8d8de795)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F3e43d33e97e0ac44d6e8c0db84301298e3b5d5a6-356x359.svg&w=3840&q=90&dpl=5ab50392-7651-45af-854a-32fb8d8de795)
+![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2Ff6c3c5d0c4344e1ea0408e9cfe5ca58add673241-356x359.svg&w=3840&q=90&dpl=3975a08c-4682-43da-bd19-8e0395581e3b)![](/_next/image?url=%2Fapi%2Fimage%2Fsanity%2F3e43d33e97e0ac44d6e8c0db84301298e3b5d5a6-356x359.svg&w=3840&q=90&dpl=3975a08c-4682-43da-bd19-8e0395581e3b)
 
 My content was removed from \>x<
 --------------------------------
