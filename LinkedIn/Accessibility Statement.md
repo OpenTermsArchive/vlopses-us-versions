@@ -34,6 +34,8 @@ We’re on a journey to make accessibility and inclusive design part of our core
     
     ### **Read more about our Accessibility journey**
     
+    [Designing for Everyone](https://www.linkedin.com/pulse/designing-everyone-amyn-thawer-qpgcc/) by Amyn Thawer, VP of Global Compliance & Integrity 
+    
     [LinkedIn's Latest Accessibility Integration Helps All Members Access Content More Easily](https://www.linkedin.com/pulse/linkedins-latest-accessibility-integration-helps-all-members-berger-uvyrc/) by Erran Berger, VP of Product Engineering 
     
     [Making Learning More Accessible](https://www.linkedin.com/pulse/making-learning-more-accessible-dan-brodnitz/) by Dan Brodnitz, Global Head of Content Strategy
