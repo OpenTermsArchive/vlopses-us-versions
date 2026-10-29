@@ -1473,7 +1473,7 @@ Legal
 Adult Content Policy
 ====================
 
-Consensually produced adult nudity or sexual content is allowed on >x< when labeled with a content warning, kept out of highly visible areas, and reported if unmarked or in violation.
+Consensually produced adult nudity or sexual content is allowed on \>x< when labeled with a content warning, kept out of highly visible areas, and reported if unmarked or in violation.
 
 Table of contents
 
@@ -1649,7 +1649,7 @@ Legal
 \>x< Shopping Policy
 ====================
 
-\>x< Shopping enables professionals and organizations to showcase merchandise on >x<. Merchants must comply with relevant laws and platform policies.
+\>x< Shopping enables professionals and organizations to showcase merchandise on \>x<. Merchants must comply with relevant laws and platform policies.
 
 Table of contents
 
@@ -2276,7 +2276,7 @@ Legal
 Authenticity
 ============
 
-To maintain a trustworthy platform, >x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
+To maintain a trustworthy platform, \>x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
 
 Table of contents
 
@@ -2741,7 +2741,7 @@ Legal
 Authenticity
 ============
 
-To maintain a trustworthy platform, >x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
+To maintain a trustworthy platform, \>x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
 
 Table of contents
 
@@ -3051,7 +3051,7 @@ Legal
 Authenticity
 ============
 
-To maintain a trustworthy platform, >x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
+To maintain a trustworthy platform, \>x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
 
 Table of contents
 
@@ -3500,7 +3500,7 @@ Legal
 Username squatting policy
 =========================
 
-Username squatting is prohibited on >x<. Inactive accounts with no profile image and no misleading intent are typically allowed, but buying or selling usernames violates the policy.
+Username squatting is prohibited on \>x<. Inactive accounts with no profile image and no misleading intent are typically allowed, but buying or selling usernames violates the policy.
 
 Table of contents
 
@@ -3587,7 +3587,7 @@ Legal
 Authenticity
 ============
 
-To maintain a trustworthy platform, >x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
+To maintain a trustworthy platform, \>x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
 
 Table of contents
 
@@ -3897,7 +3897,7 @@ Legal
 Authenticity
 ============
 
-To maintain a trustworthy platform, >x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
+To maintain a trustworthy platform, \>x< requires accounts to be authentic. This article explains our authenticity policy and what constitutes inauthentic behavior like account manipulation, impersonation, and misuse.
 
 Table of contents
 
@@ -5136,7 +5136,7 @@ Legal
 \>x< Moments guidelines and principles
 ======================================
 
-\>x< Moments are curated collections of posts about current events, topics, or stories. Understand how >x< selects and curates Moments and the principles behind the curation process.
+\>x< Moments are curated collections of posts about current events, topics, or stories. Understand how \>x< selects and curates Moments and the principles behind the curation process.
 
 Table of contents
 
