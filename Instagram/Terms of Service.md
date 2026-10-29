@@ -3,16 +3,6 @@ Terms of Use
 
 Copy link
 
-What is the Instagram Service?
-
-How is Instagram funded?
-
-What is the Instagram Privacy Policy?
-
-What are Instagram's terms of use?
-
-I have a different question
-
 We’re updating our Terms of Use. These updates go into effect on January 20, 2027. By using our products or services after January 20, 2027, you agree to the updated Terms of Use.  
   
 [Read New Terms](https://help.instagram.com/2159268501666222?helpref=faq_content)
