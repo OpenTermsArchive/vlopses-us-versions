@@ -171,6 +171,16 @@ Payments
 Subscriptions
 =============
 
+**Changes are coming to this article**
+
+This article will be updated with recently [announced](https://support.google.com/googleplay/android-developer/announcements/13412212) changes.
+
+[Subscriptions with ongoing eligibility-based discounts](https://support.google.com/googleplay/android-developer/answer/18204939): Subscriptions with ongoing eligibility-based discounts, such as student plans, must clearly disclose eligibility criteria, the verification process, and post-eligibility pricing and benefit changes.
+
+(effective January 27, 2027)
+
+To preview the updated "Subscriptions" article, visit [this page](https://support.google.com/googleplay/android-developer/answer/18204939).
+
 You, as a developer, must not mislead users about any subscription services or content you offer within your app. It is critical to communicate clearly in any in-app promotions, splash screens, and subscription plan selection screens. We do not allow apps that subject users to deceptive or manipulative purchase experiences (including in-app purchases or subscriptions). If you provide any [subscription benefits](https://support.google.com/googleplay/android-developer/answer/140504#subscriptions-benefit&zippy=%2Ccreate-a-new-subscription), they must be truthful and accurate and must not misrepresent any aspect of the relevant subscription. 
 
 You must be transparent about your offer. This includes clearly and explicitly disclosing your offer terms, the cost of your subscription, the frequency of your billing cycle, the automatic renewal terms, whether a subscription is required to use the app, and any other material information about the subscription. Users should not have to perform any additional action to review the information.
@@ -248,7 +258,7 @@ If a user cancels a subscription purchased through Google Play's billing system,
 
 You (as the content or access provider) may implement a more flexible refund policy with your users directly. It is your responsibility to notify your users of any changes to your subscription, cancellation and refund policies and ensure that the policies comply with applicable law.
 
-Example of violations
+Examples of violations
 
 ![](//lh3.googleusercontent.com/h_PogN3nwaoFLluGgzVhVWnMz0b95z6M1atCl1O00Fj8Gm6y84UhnaUsqbWh5EOFabI=w600-h1100)
 
@@ -259,30 +269,30 @@ The app is missing a link to manage and cancel subscriptions in the account sett
 Families Self-Certified Ads SDK Program
 =======================================
 
-Please note that the Google Play Families Self-Certified Ads SDK Program is currently not accepting new applicants. The application window will reopen and guidelines will be announced here at a later date. 
+Note: The application form for the Google Play Families Self-Certified Ads SDK Program has re-opened. SDKs can submit an interest form in Google Play SDK Console.
 
-Current participants and their program compliance requirements will remain unchanged.
-
-If you serve ads in your app, and the target audience for your app only includes children as described in the [Families Policy](https://support.google.com/googleplay/android-developer/answer/9893335), then you must only use ads SDK versions that have self-certified compliance with Google Play policies, including the Families Self-Certified Ads SDK requirements below.
+If you serve ads in your app, and the target audience for your app only includes children as described in the [Families](https://support.google.com/googleplay/android-developer/answer/9893335) policy, then you must only use ads SDK versions that have self-certified compliance with Google Play policies, including the Families Self-Certified Ads SDK requirements below.
 
 If the target audience for your app includes both children and older users, you must make sure that ads shown to children come exclusively from one of these self-certified ads SDK versions (for example, through use of neutral age screening measures).
 
 Note that it is your responsibility to ensure that all SDK versions you implement in your app, including Self-Certified Ads SDK versions, are compliant with all applicable policies, local laws, and regulations. Google does not provide any representations or guarantees as to the accuracy of the information the ads SDKs provide during the self-certification process.
 
-The use of Families self-certified ads SDKs is only required if you are using ads SDKs to serve ads to children. The following are permitted without an ads SDK's self-certification with Google Play, however, you are still responsible for ensuring your ad content and data collection practices are compliant with Google Play's [User Data Policy](https://support.google.com/googleplay/android-developer/answer/9888076) and [Families Policy](https://support.google.com/googleplay/android-developer/answer/9893335):
+The use of Families self-certified ads SDKs is only required if you are using ads SDKs to serve ads to children. The following are permitted without an ads SDK's self-certification with Google Play, however, you are still responsible for ensuring your ad content and data collection practices are compliant with Google Play's [User Data](https://support.google.com/googleplay/android-developer/answer/9888076) policy and [Families](https://support.google.com/googleplay/android-developer/answer/9893335) policy:
 
 *   In-House Advertising whereby you use SDKs to manage cross promotion of your apps or other owned media and merchandising.
 *   Entering into direct deals with advertisers whereby you use SDKs for inventory management.
 
 **Families Self-Certified Ads SDK Requirements**
 
-*   Define what are objectionable ad content and behaviors and prohibit them in the ads SDK's terms or policies. The definitions should comply with Google Play Developer Program Policies.
-*   Create a method to rate your ad creatives according to age appropriate groups. Age appropriate groups must at least include groups for Everyone and Mature. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled out the interest form below.
+*   The SDK must be registered on [Play SDK Console](https://play.google.com/sdk-console/about/), which includes a commitment that the SDK will not cause apps to violate [Play Developer Policies](https://play.google/developer-content-policy/).
+*   Define what are objectionable ad content and behaviors and prohibit them in the ads SDK's terms or policies. The definitions should comply with Google Play Developer Program Policies.
+*   Create a method to rate your ad creatives according to age appropriate groups. Age appropriate groups must at least include groups for Everyone and Mature. The rating methodology must align with the methodology that Google supplies to SDKs once they have filled out the interest form in Play SDK Console.
 *   Allow publishers, on a per-request or per-app basis, to request child-directed treatment for ad serving. Such treatment must be in compliance with applicable laws and regulations, such as the [US Children's Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy) and the [EU General Data Protection Regulation (GDPR)](https://gdpr.eu/). Google Play requires ads SDKs to disable personalized ads, interest based advertising, and remarketing as part of the child-directed treatment.
-*   Allow publishers to select ad formats that are compliant with Google Play's [Families Ads and Monetization policy](https://play.google.com/about/families/ads-monetization/), and meet the requirement of the [Teacher Approved program](https://playacademy.exceedlms.com/sl/044a202e). 
+*   Allow publishers to select ad formats that are compliant with Google Play's [Families Ads and Monetization](https://support.google.com/googleplay/android-developer/answer/9893335#ads_and_monetization) policy.
 *   Ensure that when real-time bidding is used to serve ads to children, the creatives have been reviewed and privacy indicators are propagated to the bidders.
-*   Provide Google with sufficient information, such as submitting a test app and the information indicated in the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSc8msikGDxjTHHFmIECoitMnpudaCbtrb_hhgzpUOznPhDoBw/viewform?p=adnet&visit_id=637244930778989316-3754351249&rd=1) below, to verify the ads SDK's policy compliance with all self-certification requirements, respond in a timely manner to any subsequent requests for information, such as submitting new version releases to verify the ads SDK version’s compliance with all self-certification requirements.
-*   [Self-certify](https://support.google.com/googleplay/android-developer/answer/12253906#families_self-certified_requirements) that all new version releases are compliant with the latest Google Play Developer Program Policies, including Families Policy Requirements.
+*   Provide Google with sufficient information, such as submitting a test app and the information indicated in the interest form in Play SDK Console, to verify the ads SDK's policy compliance with all self-certification requirements, respond in a timely manner to any subsequent requests for information, such as submitting new version releases to verify the ads SDK version's compliance with all self-certification requirements.
+*   Self-certify that all new version releases are compliant with the [latest Google Play Developer Program Policies](https://support.google.com/googleplay/android-developer/answer/12253906#families_self-certified_requirements), including Families Policy Requirements.
+*   Publish specific technical documentation for apps to correctly implement the ads SDK to comply with all program requirements.
 
 _Note: Families Self-Certified_ _Ad_s _SDKs must support ad serving that complies with all relevant statutes and regulations concerning children that may apply to their publishers._
 
@@ -293,6 +303,4 @@ Here are mediation requirements for serving platforms when serving ads to childr
 *   Only use Families Self-Certified Ads SDKs or implement safeguards necessary to ensure that all ads served from mediation comply with these requirements; and
 *   Pass information necessary to mediation platforms to indicate the ad content rating and any applicable child-directed treatment.
 
-Developers can find a list of Families Self-Certified Ads SDKs and can check which specific versions of those ads SDKs are self-certified for use in Families apps [here](https://support.google.com/googleplay/android-developer/answer/9283445).
-
-Also, developers can share this [interest form](https://support.google.com/googleplay/android-developer/?p=adnet) with ads SDKs who wish to self-certify.
+Developers can find a list of Families Self-Certified Ads SDKs and can check which specific versions of those ads SDKs are self-certified for use in Families apps [here](https://support.google.com/googleplay/android-developer/answer/9283445).
