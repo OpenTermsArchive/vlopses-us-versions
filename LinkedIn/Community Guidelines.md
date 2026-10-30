@@ -131,6 +131,13 @@ Tagged in
 
 *   [Data and Privacy](https://www.linkedin.com/help/linkedin/topic/a65)
 
+Related articles
+----------------
+
+*   [Manage your public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685)
+*   [How LinkedIn uses personal data for ads (LinkedIn Marketing Solutions)](https://www.linkedin.com/help/linkedin/answer/a7153779)
+*   [Researcher access to your data](https://www.linkedin.com/help/linkedin/answer/a6882244)
+
 - - -
 
 Harassment and abusive content
