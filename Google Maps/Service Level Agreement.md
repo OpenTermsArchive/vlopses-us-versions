@@ -5,21 +5,25 @@ During the Term of Customer’s Google Maps Platform License Agreement or Google
 
 If Google does not meet the SLO, and if Customer meets its obligations under this SLA, Customer will be eligible to receive the Financial Credits described below. Monthly Uptime Percentage and Financial Credit are determined on a calendar month basis per Project. This SLA states Customer's sole and exclusive remedy for any failure by Google to meet the SLO. If the Agreement is the Google Cloud & Google for Education Commercial Partner Program Agreement, then all references to "Customer" in this SLA mean "Partner", and any Financial Credit(s) will only apply for the impacted Partner order(s) under the Agreement.
 
-#### Customer Must Request Financial Credit
+Customer Must Request Financial Credit
+--------------------------------------
 
 In order to receive a Financial Credit, Customer must [notify Google technical support](https://developers.google.com/maps/support) within 30 days from the time Customer becomes eligible to receive a Financial Credit, for each individual Covered Service. If Customer does not comply with this requirement, Customer will forfeit its right to receive a Financial Credit.
 
 When requesting Financial Credit, Customer must provide Google with date and time information specific to Customer's claim that Google did not meet the SLO for a specific Covered Service.  Customer agrees that Google will assess and determine whether the specified Covered Service failed to meet the SLO.  If a dispute arises with respect to this SLA, Google will make a determination in good faith based on the available information, which Google may make available for auditing by Customer at Customer's request.
 
-#### Maximum Financial Credit.
+Maximum Financial Credit.
+-------------------------
 
 The maximum aggregate number of Financial Credits issued by Google to Customer for all Failed Requests in a single billing month will not exceed 50% of the amount due from Customer for the Covered Service that did not meet SLO for the applicable month. Financial Credits will be made in the form of a monetary credit applied to future use of the Service and will be applied within 60 days after the Financial Credit was requested.
 
-#### SLA Exclusions.
+SLA Exclusions.
+---------------
 
 The SLA does not apply to any (a) features designated Pre-GA Offerings (unless otherwise set forth in the associated Documentation or if the controlling Agreement specifically states the SLA applies); (b) features or Services excluded from this SLA (as stated in the associated Documentation); or (c) errors: (i) caused by factors outside of Google's reasonable control; (ii) that resulted from any actions or inactions of Customer or any third parties; (iii) that resulted from Customer's or a third party’s software or hardware; (iv) that resulted from abuses or other behaviors that violate the Agreement; (v) that resulted from quotas applied by the system or listed in the Admin Console; or (vi) that resulted from Customer use of the Covered Service inconsistent with the Documentation, including but not limited to invalid requests, unauthorized use, or inaccessible data.
 
-#### Definitions
+Definitions
+-----------
 
 The following definitions apply to this SLA:
 
@@ -49,7 +53,7 @@ These technical support services guidelines (“Guidelines”) are incorporated 
 
 Expand all
 
-#### General Support Services Terms
+### General Support Services Terms
 
 1\. **Generally.** As part of Customer's purchase of Google Maps Platform Services, Google will provide Standard Support to Customer. Customer may order additional Technical Support Services (“TSS”) for an additional fee.
 
@@ -125,7 +129,7 @@ Expand all
 
 7.15. "_Request_" means a request from a Designated Contact to Google Support Personnel for technical support to address a question or problem regarding the Services.
 
-#### Standard Support
+### Standard Support
 
 1\. **Standard Support.** Standard Support includes unlimited Designated Contacts.
 
@@ -139,7 +143,7 @@ Expand all
 | P3  | 24 hours |
 | P4  | 24 hours |
 
-#### Enhanced Support
+### Enhanced Support
 
 1\. **Enhanced Support**
 
