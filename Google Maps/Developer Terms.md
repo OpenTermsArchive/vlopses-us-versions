@@ -64,7 +64,8 @@ Capitalized terms not defined in these Service Specific Terms have the meaning e
 
 These Service Specific Terms apply to Customers who do not have a billing account address in the European Economic Area. If your billing account address is within the European Economic Area, please see the (EEA) Service Specific Terms (as described at [https://cloud.google.com/terms/maps-platform/eea/maps-service-terms](https://cloud.google.com/terms/maps-platform/eea/maps-service-terms)).
 
-#### A. GENERAL SERVICE TERMS
+A. GENERAL SERVICE TERMS
+------------------------
 
 The following terms apply to all Google Maps Platform Services.
 
@@ -98,7 +99,8 @@ Google has the ability to independently track Customer’s use of certain Servic
 
 5.4 _Feedback._ Customer may provide feedback and suggestions about the Pre-GA Offerings to Google, and Google and its Affiliates may use any feedback or suggestions provided without restriction and without obligation to Customer.
 
-#### B. CORE SERVICE TERMS
+B. CORE SERVICE TERMS
+---------------------
 
 **1\. Address Validation API**
 
@@ -402,7 +404,8 @@ Table 16.2.1 (Pollen API Caching Permissions)
 | *   Hourly history | 240 hours, after which Customer must delete the cached Google Maps Content |
 | *   Public Alert values | one hour, after which Customer must delete the cached Google Maps Content |
 
-#### C. ANALYTICS SERVICE TERMS
+C. ANALYTICS SERVICE TERMS
+--------------------------
 
 The Service Specific Terms for Google Maps Platform Analytics Services can be found at [https://cloud.google.com/terms/maps-platform/maps-analytics-service-terms](https://cloud.google.com/terms/maps-platform/maps-analytics-service-terms) and are incorporated into these Service Specific Terms. The Analytics Service Specific Terms apply to Customer’s use of Analytics Services (as described in the Analytics Services Summary: [https://cloud.google.com/terms/maps-platform/maps-analytics-services](https://cloud.google.com/terms/maps-platform/maps-analytics-services)).
 
