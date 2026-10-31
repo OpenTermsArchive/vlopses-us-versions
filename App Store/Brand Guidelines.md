@@ -570,6 +570,8 @@ The absence of a product or service name or logo from this list does not constit
 | Apple Creator Studio® | suite of application programs |
 | Apple Games® | application program |
 | Apple Health™ | software application |
+| Apple HomeView™ | smart display |
+| Apple Home Collection™ | accessories |
 | Apple Immersive Video™ | entertainment format |
 | Apple Intelligence™ | personal intelligence system |
 | Apple Invites™ | application program |
@@ -668,6 +670,7 @@ The absence of a product or service name or logo from this list does not constit
 | HomeKit® | hardware and software technology |
 | HomePod® | speaker |
 | HomePod mini® | speaker |
+| HomeView™ | smart display |
 | HyperCard® | application program |
 | HyperTalk™ | application program |
 | iBeacon® | location and proximity detection technology |
@@ -1096,6 +1099,6 @@ QUESTIONS
 
 If you have any questions or comments regarding the list, please contact the [Trademark team](https://www.apple.com/legal/contact/#apple-trademark).
 
-This list includes updates as of September 15, 2026.
+This list includes updates as of October 16, 2026.
 
 \*This is a non-exhaustive list of Apple trademarks and service marks in the United States.
