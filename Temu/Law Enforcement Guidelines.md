@@ -27,9 +27,7 @@ Please mail or deliver the legal request to the following addresses. Please note
 For records in the United States, Canada, Australia, New Zealand or other countries/regions not mentioned in this Guideline, mail to:
 
 *   Whaleco Inc.
-*   Suite 355, 31 St. James Avenue
-*   Boston, Massachusetts 02116
-*   USA
+*   1666 Connecticut Ave NW #500, Washington, DC 20009
 *   Or email to legal@temu.com
 
 For records in the UK, mail to:
