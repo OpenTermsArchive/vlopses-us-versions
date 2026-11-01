@@ -1,7 +1,7 @@
 Temu | United States | Privacy Policy
 =====================================
 
-Last Updated: November 14, 2025
+Last Updated: November 1, 2026
 
 Click [here](https://www.temu.com/cookie-and-similar-technologies-policy.html?anchor_id=limit_interest_base_advertising&_bg_fs=1) for information about interest based advertising and your available choices.
 
@@ -307,14 +307,14 @@ If you have any questions or comments about our Privacy Policy or the terms ment
 *   send an email to Temu's Data Protection Officer - privacy@temu.com; or
     
 
-*   send mail to our postal address - Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA.
+*   send mail to our postal address - Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA.
 
 - - -
 
 Temu | United States | Privacy Policy Addendum for U.S. Residents
 =================================================================
 
-Last Updated: November 14, 2025
+Last Updated: November 1, 2026
 
 This Privacy Policy Addendum for U.S. Residents (“U.S. Notice”) supplements the [Temu Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html) (“Privacy Policy”) and the [Cookies and Similar Technologies Policy](https://www.temu.com/cookie-and-similar-technologies-policy.html) and provides additional details for residents of certain U.S. states on how we collect, use and disclose Personal Information, and the rights such residents may have with respect to that Personal Information.
 
@@ -443,14 +443,14 @@ How to Contact Us
 
 ---------------------
 
-Should you have any questions about our privacy practices or this U.S. Notice, please email us at [privacy@temu.com](mailto:privacy@temu.com) or contact us by mail at the following address: Whaleco Inc., Suite 355, 31 St. James Avenue, Boston, Massachusetts 02116, USA.
+Should you have any questions about our privacy practices or this U.S. Notice, please email us at [privacy@temu.com](mailto:privacy@temu.com) or contact us by mail at the following address: Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA.
 
 - - -
 
 Temu | United States | Consumer Health Data Privacy Policy
 ==========================================================
 
-Last Updated: November 14, 2025
+Last Updated: November 1, 2026
 
 This Consumer Health Data Privacy Policy provides information regarding how Whaleco Inc. ("Temu," "we," "our," or "us") processes "consumer health data" as defined by applicable consumer health privacy laws. In the event of a conflict between Temu's [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html) and this Consumer Health Data Privacy Policy, this Consumer Health Data Privacy Policy will control with respect to the processing of consumer health data.
 
@@ -510,15 +510,7 @@ Your Controls and Choices
 
 Under applicable laws, you may have certain rights regarding your consumer health data, including the right to access or delete your consumer health data. You may exercise these rights by submitting a request via our privacy choices [web form](https://www.temu.com/bgp-additional-privacy-options.html) or by contacting us using the information provided below. We will use information you provide in your request to verify your identity, and we may request additional information if necessary to complete the verification process.
 
-If your request to exercise a right under applicable law is denied, you may appeal that decision by contacting us as described below. If you have questions or would like to communicate with us about this Consumer Health Data Privacy Policy, please email us at privacy@temu.com or contact us by mail at the following address:
-
-Whaleco Inc.
-
-Suite 355
-
-31 St. James Avenue
-
-Boston, Massachusetts 02116, USA
+If your request to exercise a right under applicable law is denied, you may appeal that decision by contacting us as described below. If you have questions or would like to communicate with us about this Consumer Health Data Privacy Policy, please email us at privacy@temu.com or contact us by mail at the following address: Whaleco Inc., 1666 Connecticut Ave NW #500, Washington, DC 20009, USA.
 
 - - -
 
