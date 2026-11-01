@@ -70,7 +70,7 @@ Drop your package off at your nearest Happy Returns/FedEx/USPS/UPS location and 
 
 VIII. You can check the refund status of your items on your order details page or through Temu's SMS/Email/Push notifications.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/d6de14ae09334093b693bd2729179978.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/6BqFiOBNj1/ca46b92f661646dc8c28dfded0ec290c.png?imageView2/q/70/format/avif)
 
 Start return
 
@@ -168,7 +168,7 @@ IX. If we are unable to proceed with your refund to your original payment method
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/225579e9a15e488ba45cae38946f2cc7.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/1ff5c0315fbc449992be4b72d266577c.png?imageView2/q/70/format/avif)
 
 7\. Important Notice
 
