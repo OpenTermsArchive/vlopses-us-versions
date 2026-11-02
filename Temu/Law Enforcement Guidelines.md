@@ -1,7 +1,7 @@
 Guidelines for Record Request
 =============================
 
-Last Updated: December 20, 2023
+Last Updated: November 1, 2026
 
 Temu and its corporate affiliates (collectively referred to as “Temu”) receive numerous requests for records or information concerning Temu’s customers, merchandise partners, and transactions in various forms. This policy explains how Temu responds to such requests and sets forth basic guidelines for law enforcement and governmental entities on submitting their data requests in connection with investigations and inquiries. Please note that this policy does not constitute legal advice or represent that Temu will respond to such requests in a specific manner.
 
