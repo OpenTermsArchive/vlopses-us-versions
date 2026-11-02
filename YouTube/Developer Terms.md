@@ -3,7 +3,7 @@ YouTube API Services Terms of Service Stay organized with collections Save and c
 
 **Note:** [Complying with the YouTube Developer Policies](http://developers.google.com/youtube/terms/developer-policies-guide) provides guidance and examples to help you ensure that your API clients follow specific portions of the YouTube API Services [Terms](http://developers.google.com/youtube/terms/api-services-terms-of-service) and [Policies](http://developers.google.com/youtube/terms/developer-policies) (API TOS). The guide offers insight into how YouTube enforces certain aspects of the API TOS, but it does not replace any existing documents.
 
-The following YouTube API Services Terms of Service is a legal document you must follow when accessing or using the YouTube API Services. Please read it often, and make sure you understand it. You can subscribe to the [RSS feed](http://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml) for the revision history to be notified of any such changes to the YouTube API Services Terms of Service. When reviewing the following YouTube API Services Terms of Service below, and accessing and using YouTube API Services, please keep the following in mind:
+The following YouTube API Services Terms of Service is a legal document you must follow when accessing or using the YouTube API Services. Please read it often, and make sure you understand it. When reviewing the following YouTube API Services Terms of Service below, and accessing and using YouTube API Services, please keep the following in mind:
 
 Respecting and fostering the growth of the YouTube community of creators, viewers, content rights holders and advertisers is very important to us. We provide the YouTube API Services to enable developers to create experiences that bring additional value to the YouTube ecosystem and its users. If your implementation is in breach of the YouTube API Services Terms of Service or has a negative impact on the YouTube community, we may impose limitations and prohibitions on your access to, and use of, the YouTube API Services.
 
@@ -292,7 +292,7 @@ This document (the "**YouTube API Services Policies**" or "**Policies**") sets o
 
 In addition to defining policies, this document explains some of the underlying principles that YouTube followed in creating these Policies. It also offers examples that demonstrate how these Policies would apply in practice.
 
-Please note that this is a legal document and that these Policies are a component of the [Agreement](#definition-agreement), so you must comply with them. YouTube reserves the right to change these Policies, and your continued access to, or use of, [YouTube API Services](#definition-youtube-api-services) constitutes your agreement to and acceptance of any such changes. Policy changes, like changes to the YouTube API Services [Terms of Service](#definition-terms-of-service), will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history), and you can subscribe to the [RSS feed](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml) for that revision history to be notified of any such changes.
+Please note that this is a legal document and that these Policies are a component of the [Agreement](#definition-agreement), so you must comply with them. YouTube reserves the right to change these Policies, and your continued access to, or use of, [YouTube API Services](#definition-youtube-api-services) constitutes your agreement to and acceptance of any such changes. Policy changes, like changes to the YouTube API Services [Terms of Service](#definition-terms-of-service), will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
 
 I. Terminology and style
 ------------------------
@@ -364,7 +364,7 @@ III. General Developer Policies
 
 1.  [API Clients](#definition-api-client) must use the most recent versions of [YouTube API Services](#definition-youtube-api-services). This means that you must be able to update [API Clients](#definition-api-client) when newer versions of [YouTube API Services](#definition-youtube-api-services) are released. Non-website [API Clients](#definition-api-client), like mobile apps or installed applications, must be capable of being remotely updated to use the most recent versions of [YouTube API Services](#definition-youtube-api-services). You must update your [API Clients](#definition-api-client) to the most recent versions of the [YouTube API Services](#definition-youtube-api-services) within a specified time period if required by YouTube from time to time (e.g. for critical updates).
     
-2.  When YouTube intends to make backward incompatible changes to the [YouTube API Services](#definition-youtube-api-services), such changes will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history), and you can subscribe to the [RSS feed](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml) for that revision history to be notified of any such changes.
+2.  When YouTube intends to make backward incompatible changes to the [YouTube API Services](#definition-youtube-api-services), such changes will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
     
 3.  You must promptly update non-deprecated [API Clients](#definition-api-client) to use newer versions of [YouTube API Services](#definition-youtube-api-services) as those versions are released.
     
@@ -813,7 +813,7 @@ This document defines minimum functional requirements for API clients that imple
 
 These requirements and guidelines ensure that API clients provide a consistent user experience that protects the interests of YouTube users, content owners, and advertisers. These rules are an integral part of the [YouTube API Terms of Service](https://developers.google.com/youtube/terms) and must be followed in the development and implementation of any API Clients.
 
-You should expect the requirements in this document to change so that we can ensure better user experiences with existing YouTube features. They will also change in response to new and updated YouTube features. At times, such changes may require you to update your API Clients to address new requirements. The [Terms of Service revision history](https://developers.google.com/youtube/terms/revision-history) will document any changes, so please check that document frequently, or subscribe to its [RSS feed](https://developers.google.com/static/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml), to ensure that you can quickly learn about changes that may affect your API Clients.
+You should expect the requirements in this document to change so that we can ensure better user experiences with existing YouTube features. They will also change in response to new and updated YouTube features. At times, such changes may require you to update your API Clients to address new requirements. The [Terms of Service revision history](https://developers.google.com/youtube/terms/revision-history) will document any changes, so check that document frequently to ensure that you can quickly learn about changes that may affect your API Clients.
 
 In addition to the requirements in this document, we highly recommend that you follow best practices described in the [YouTube API Services Policies](https://developers.google.com/youtube/terms/developer-policies) and discussed elsewhere in YouTube API services' documentation. Even when not strictly required, these practices help your API Clients to recover more quickly from errors and to optimize their quota usage if they use YouTube API services that allocate quota. At the same time, these practices help to ensure the health of the YouTube ecosystem and, above all, to provide the best experience possible to users of your API Clients and of YouTube Applications.
 
@@ -1258,7 +1258,7 @@ This update includes the following documents. All documents are in English unles
     
 *   The [Branding Guidelines](https://developers.google.com/youtube/terms/branding-guidelines) are not a new document, but they will apply under the Updated Terms just as they apply under the current Terms.
     
-*   This revision history and its accompanying [RSS feed](https://developers.google.com/youtube/terms/feeds/api-services-terms-of-service-revision-history.xml?utm_source=docs&utm_medium=revision_history_page&utm_campaign=rss_subscribe).
+*   This revision history.
     
 
 The following changes were made to a previous version of the Terms of Service.
