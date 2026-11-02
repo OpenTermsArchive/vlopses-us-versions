@@ -102,7 +102,8 @@ Google has the ability to independently track Customer’s use of certain Servic
 B. CORE SERVICE TERMS
 ---------------------
 
-**1\. Address Validation API**
+1\. Address Validation API
+--------------------------
 
 1.1 _Sharing Customer Information_. By accessing or using Address Validation API, Customer agrees that Google may share Customer's information (name and address), subject to Section 1.2 (Artifically-Created Addresses).
 
@@ -129,7 +130,8 @@ B. CORE SERVICE TERMS
 | *   addressComponent: confirmationLevel, inferred, spellCorrected, replaced, unexpected | 30 consecutive calendar days, after which Customer must (a) delete the cached Google Maps Content; or (b) replace it with End User data provided through End User confirmation or correction | Correction Requests |
 | *   Location: latitude values, longitude values | 30 consecutive calendar days, after which Customer must delete the cached Google Maps Content | Any |
 
-**2\. Air Quality** **API**
+2\. Air Quality API
+-------------------
 
 2.1 _Permitted Use_. Customer may only use the data retrieved from Air Quality API in (a) air quality based routing solutions developed by Customer, and (b) Customer environmental risk indices and correlational research.
 
@@ -143,19 +145,21 @@ B. CORE SERVICE TERMS
 | Current conditions values<br><br>*   Hourly forecast values | One hour, after which Customer must delete the cached Google Maps Content |
 | Historic values for a specific location and given time range | Until the Agreement is terminated |
 
-**3\. Android Geocoder SDK (Restricted GA)**
+3\. Android Geocoder SDK (Restricted GA)
+----------------------------------------
 
 3.1 _Use without a Google Map._ Customer may use Google Maps Content from the Android Geocoder SDK in Customer Applications without a corresponding Google Map.
 
 3.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Android Geocoder SDK in conjunction with a non-Google map.
 
-3.3 _Caching._ 
+3.3 _Caching._
 
 3.3.1 Customer may temporarily cache latitude (lat) and longitude (lng) values from the Android Geocoder SDK for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
 3.3.2 Customer may indefinitely cache latitude (lat), longitude (lng), formatted\_address, and the structured address values from the Android Geocoder SDK solely to support the direct, End User facing functionality of the Customer Application that initiated the request (e.g., displaying the address of a location in a weather application, associating location data with a photograph), only where the cache is not used as a replacement for making an additional call to the Services. Cached data must be logically isolated to the specific End User it is associated with and must not be used across multiple End Users.
 
-**4\. Directions API**
+4\. Directions API
+------------------
 
 4.1 _Use without a Google Map_. Customer may use Google Maps Content from the Directions API in Customer Applications without a corresponding Google Map.
 
@@ -163,13 +167,15 @@ B. CORE SERVICE TERMS
 
 4.3 _Caching._ Customer may temporarily cache latitude and longitude values from the Directions API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values. 
 
-**5\. Distance Matrix API**
+5\. Distance Matrix API
+-----------------------
 
 5.1 _Use without a Google Map._ Customer may use Google Maps Content from the Distance Matrix API in Customer Applications without a corresponding Google Map.
 
 5.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Distance Matrix API in conjunction with a non-Google map.
 
-**6\. Geocoding API**
+6\. Geocoding API
+-----------------
 
 6.1 _Use without a Google Map_. Customer may use Google Maps Content from the Geocoding API in Customer Applications without a corresponding Google Map.
 
@@ -177,11 +183,12 @@ B. CORE SERVICE TERMS
 
 6.3 _Caching._
 
-_6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geocoding API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+6.3.1 Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geocoding API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-6.3.2 Customer may indefinitely cache latitude (lat), longitude (lng), formatted\_address, and the structured address values from the Geocoding API solely to support the direct, End User facing functionality of the Customer Application that initiated the request (e.g., displaying the address of a location in a weather application, associating location data with a photograph), only where the cache is not used as a replacement for making an additional call to the Services. Cached data must be logically isolated to the specific End User it is associated with and must not be used across multiple End Users. 
+6.3.2 Customer may indefinitely cache latitude (lat), longitude (lng), formatted\_address, and the structured address values from the Geocoding API solely to support the direct, End User facing functionality of the Customer Application that initiated the request (e.g., displaying the address of a location in a weather application, associating location data with a photograph), only where the cache is not used as a replacement for making an additional call to the Services. Cached data must be logically isolated to the specific End User it is associated with and must not be used across multiple End Users.
 
-**7\. Geolocation API**
+7\. Geolocation API
+-------------------
 
 7.1 _Use without a Google Map._ Customer may use Google Maps Content from the Geolocation API in Customer Applications without a corresponding Google Map.
 
@@ -189,7 +196,8 @@ _6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values
 
 7.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Geolocation API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**8\. Google Earth** 
+8\. Google Earth
+----------------
 
 8.1 _Definitions_. 
 
@@ -215,7 +223,7 @@ _6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values
 
 8.4.1 Customer will not, and will not allow End Users to, download, export or copy Ask Google Earth Generated Outputs.
 
-8.4.2 Customer and its End User’s use of Ask in Google Earth must comply with the Generative AI Prohibited Use Policy. A violation of the Generative AI Prohibited Use Policy will be considered a violation of the AUP.
+8.4.2 Customer and its End User’s use of Ask in Google Earth must comply with the Generative AI Prohibited Use Policy. A violation of the Generative AI Prohibited Use Policy will be considered a violation of the AUP.
 
 8_._5 _Customer Data_.
 
@@ -225,11 +233,13 @@ _6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values
 
 8_._6 Section 3.2.2 (a) (_Terms of Service and Privacy Policy)_ of the Google Maps Platform Terms of Service does not apply_._
 
-**9\. Maps Datasets API**
+9\. Maps Datasets API
+---------------------
 
 9.1 _No Personal Data._ Customer will not provide to Google any Personal Data via the Maps Datasets API.
 
-**10\. Maps Experience Agent Tools**
+10\. Maps Experience Agent Tools
+--------------------------------
 
 10.1 _Definitions_.
 
@@ -255,7 +265,8 @@ _6.3.1_ Customer may temporarily cache latitude (lat) and longitude (lng) values
 
 10.4 _No Responsibility for LLMs._ Google is not responsible for the acts or omissions of any LLM provider. This includes, without limitation: (i) the accuracy or factual correctness of Grounded Output produced by an LLM, and (ii) excessive usage charges resulting from an LLM’s automated request behavior.
 
-**11\. Navigation Connect API**
+11\. Navigation Connect API
+---------------------------
 
 The following terms apply to the Navigation Connect API.
 
@@ -289,7 +300,8 @@ The following terms apply to the Navigation Connect API.
 
 11.8 _Caching_. Customer may temporarily cache latitude (lat), longitude (lng), distance, duration, time, and estimated time of arrival values for up to 30 consecutive calendar days, after which Customer must delete the cached values.
 
-**12\. Navigation SDK**
+12\. Navigation SDK
+-------------------
 
 12.1 _Use without a Google Map._ Customer may use Google Maps Content from the Navigation SDK in Customer Applications without a corresponding Google Map.
 
@@ -297,7 +309,8 @@ The following terms apply to the Navigation Connect API.
 
 12.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Navigation SDK for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**13\. Places Aggregate API**
+13\. Places Aggregate API
+-------------------------
 
 13.1 _Customer Values._ For purposes of this Section 13.1 (Places Aggregate API), "Customer Value" means content created by combining POI Counts and third-party data or a metric Customer creates using proprietary business logic and that is substantially transformed in accordance with this Section 13.1 (Customer Values). Customer may use total counts of points of interest returned by the Places Aggregate API ("POI Count") to create Customer Values, if Customer ensures:
 
@@ -309,7 +322,8 @@ The following terms apply to the Navigation Connect API.
 
 13.3 _Consumer Protections_. Customer will not use the Places Aggregate API in any manner that (i) violates any consumer protection laws or guidelines or (ii) directly or indirectly results in any decisions, scoring, or assessments by the Customer or any third-party regarding an individual that relates to housing, employment, credit, or insurance.
 
-**14\. Places API (Legacy and New)**
+14\. Places API (Legacy and New)
+--------------------------------
 
 14.1 _Use without a Google Map._ Customer may use Google Maps Content from the Places API in Customer Applications without a corresponding Google Map.
 
@@ -317,7 +331,8 @@ The following terms apply to the Navigation Connect API.
 
 14.3 _Caching._ Customer may temporarily cache latitude and longitude values from the Places API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**15\. Places UI Kit**
+15\. Places UI Kit
+------------------
 
 15.1 _Places UI Kit usage_. Customer may use Places UI Kit in Customer Applications with or without any map, including a non-Google Map. This clause will prevail over the No Use with Non-Google Maps clause of the Agreement.
 
@@ -327,7 +342,8 @@ The following terms apply to the Navigation Connect API.
 
 15.4 _No Alteration of Google Attribution, Links, or Notices_. Customer may not remove, alter, or obscure Google provided attribution, links to terms, or user-facing notices.
 
-**16\. Pollen API**
+16\. Pollen API
+---------------
 
 16.1 _Permitted Use._ Customer may use the data retrieved from Pollen API in (a) pollen based routing solutions developed by Customer and (b) Customer environmental risk indices, insights, and forecasts.
 
@@ -342,7 +358,8 @@ Table 16.2.1 (Pollen API Caching Permissions)
 | Forecasts values | 24 hours, after which Customer must delete the cached Google Maps Content |
 | Heatmap values | 24 hours, after which Customer must delete the cached Google Maps Content |
 
-**17\. Roads API**
+17\. Roads API
+--------------
 
 17.1 _Use without a Google Map._ Customer may use Google Maps Content from the Roads API in Customer Applications without a corresponding Google Map.
 
@@ -350,11 +367,12 @@ Table 16.2.1 (Pollen API Caching Permissions)
 
 17.3 _Caching_. Customer may temporarily cache latitude and longitude values from the Roads API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
-**18\. Route Optimization API**
+18\. Route Optimization API
+---------------------------
 
-18.1 _Use without a Google Map._ Customer may use Google Maps Content from the Route Optimization API in Customer Applications without a corresponding Google Map_._
+18.1 _Use without a Google Map._ Customer may use Google Maps Content from the Route Optimization API in Customer Applications without a corresponding Google Map_._
 
-18.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Route Optimization API in conjunction with a non-Google map.
+18.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Route Optimization API in conjunction with a non-Google map.
 
 18.3 _Caching_. Customer may temporarily cache latitude (lat) and longitude (lng) values from the Route Optimization API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
@@ -366,13 +384,14 @@ Table 16.2.1 (Pollen API Caching Permissions)
 
 18.5.2 _Customer’s Responsibility_. To the extent that Customer combines the Services with third-party products or services to provide routing or navigation functionality in its Customer Application, Customer does so at its own discretion and is responsible for compliance with any applicable laws, regulations, industry standards, or other requirements. To the maximum extent permitted by applicable law, Google does not warrant or endorse and disclaims liability to Customer and any other person for Customer's use of third-party products or services or their combination with the Services.
 
-**19\. Routes API**
+19\. Routes API
+---------------
 
 19.1 _Use without a Google Map_. Customer may use Google Maps Content from the Routes API in Customer Applications without a corresponding Google Map.
 
 19.2 _No use with a non-Google map._ Customer must not use Google Maps Content from the Routes API in conjunction with a non-Google map.
 
-19.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Routes API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
+19.3 _Caching._ Customer may temporarily cache latitude (lat) and longitude (lng) values from the Routes API for up to 30 consecutive calendar days, after which Customer must delete the cached latitude and longitude values.
 
 19.4 _Large Vehicle Routing_. _"_Large Vehicle Routing" is an available feature of the Routes API that calculates routes and estimated times of arrival for large vehicles. As a limited exception to the prohibition against using the Google Maps Core Services in connection with any Customer Application or device embedded in a vehicle, Customer may use Large Vehicle Routing within a Customer Application embedded in a vehicle in accordance with the following:
 
@@ -380,17 +399,19 @@ Table 16.2.1 (Pollen API Caching Permissions)
 
 19.4.2 _Customer’s Responsibility_. To the extent that Customer combines the Services with third-party products or services to provide routing or navigation functionality in its Customer Application, Customer does so at its own discretion and is responsible for compliance with any applicable laws, regulations, industry standards, or other requirements. To the maximum extent permitted by applicable law, Google does not warrant or endorse and disclaims liability to Customer and any other person for Customer's use of third-party products or services or their combination with the Services.
 
-**20\. Solar API**
+20\. Solar API
+--------------
 
-20.1 _Permitted Use_**_._** Customer may use the Solar API only (a) to determine the feasibility of installing energy systems for a particular address or geographic area, (b) to design or install an energy system, or (c) for a Downstream Transaction. A "Downstream Transaction" means (i) the design of an energy system requested by a user for a particular address, (ii) the preparation and delivery of a commercial proposal for an energy system that is requested by a user for a particular address, or (iii) the preparation and delivery of marketing materials for an energy system where a user has opted-in to receiving such materials.
+20.1 _Permitted Use_**_._** Customer may use the Solar API only (a) to determine the feasibility of installing energy systems for a particular address or geographic area, (b) to design or install an energy system, or (c) for a Downstream Transaction. A "Downstream Transaction" means (i) the design of an energy system requested by a user for a particular address, (ii) the preparation and delivery of a commercial proposal for an energy system that is requested by a user for a particular address, or (iii) the preparation and delivery of marketing materials for an energy system where a user has opted-in to receiving such materials.
 
 20.2 _Caching_. Customer may temporarily cache the "Building Insights" and "Data Layers" from the Solar API ("Solar Data") for up to 30 consecutive calendar days, after which Customer must delete the cached Solar Data. The deletion obligation does not apply to Solar Data incorporated into fixed media (e.g. energy system design, feasibility study, commercial proposal, marketing materials) for use in a Downstream Transaction.
 
-**21\. Weather API**
+21\. Weather API
+----------------
 
-21.1 _Restrictions._ Customers may not use Google Maps Content retrieved from Weather API to recreate a Google service or product (e.g. use data retrieved from Weather API in a weather app or weather model whose primary purpose is to provide weather information).
+21.1 _Restrictions._ Customers may not use Google Maps Content retrieved from Weather API to recreate a Google service or product (e.g. use data retrieved from Weather API in a weather app or weather model whose primary purpose is to provide weather information).
 
-21.2 _Caching._ Customers may temporarily cache the applicable Google Maps Content from the Weather API for the applicable Caching Period, pursuant to Table 21.2.1 (Weather API Caching Permissions).
+21.2 _Caching._ Customers may temporarily cache the applicable Google Maps Content from the Weather API for the applicable Caching Period, pursuant to Table 21.2.1 (Weather API Caching Permissions).
 
 21.2.1 (Weather API Caching Permissions)
 
