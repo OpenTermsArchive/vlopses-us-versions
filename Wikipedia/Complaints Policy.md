@@ -699,6 +699,7 @@ _For the full log (including, for example, alternate accounts also locked under 
 *   [DalasREAL](https://meta.wikimedia.org/wiki/Special:CentralAuth/DalasREAL "m:Special:CentralAuth/DalasREAL"), since 12 October 2026
 *   [Steven1991](https://meta.wikimedia.org/wiki/Special:CentralAuth/Steven1991 "m:Special:CentralAuth/Steven1991"), since 13 October 2026
 *   [Trasheater Midir](https://meta.wikimedia.org/wiki/Special:CentralAuth/Trasheater_Midir "m:Special:CentralAuth/Trasheater Midir"), since 14 October 2026
+*   [LucaLindholm](https://meta.wikimedia.org/wiki/Special:CentralAuth/LucaLindholm "m:Special:CentralAuth/LucaLindholm"), since 2 November 2026
 
 ![](https://meta.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
