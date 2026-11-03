@@ -46,7 +46,7 @@ You will also receive a bonus for each New App User referred by you (“New App 
 
 The Affiliate Benefits you may earn for each Temu User may vary depending on the country/region in which such Temu User resides. The detailed rules will be displayed on the applicable Program page and/or set out in the applicable sub-program or campaign rules.
 
-If a Qualifying Order is cancelled, refunded, or returned, whether partially or in full, the Commission earned on such Qualifying Order will be canceled and forfeited. If such Commission has been withdrawn by you, Temu is entitled to get a refund of such amount from you.
+If a Qualifying Order is cancelled, refunded, or returned, whether partially or in full, the Commission or other relevant Affiliate Benefits earned on such Qualifying Order will be cancelled and forfeited. If such Commission or other relevant Affiliate Benefits have been withdrawn/used by you, Temu is entitled to get a refund of such amount from you.
 
 Traffic Source Requirements: For certain categories of Affiliates or specific promotional activities (e.g., Facebook Group administrators), Temu may require that traffic and resulting Qualifying Orders originate exclusively from pre-approved and designated sources (such as specific social media groups, websites, or links you provided and were approved during onboarding). Commissions for activations and orders from unapproved sources will not be recognized or settled. The specific requirements for your affiliate type will be communicated to you during onboarding and/or displayed on the Program page.
 
