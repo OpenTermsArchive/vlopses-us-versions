@@ -50,6 +50,7 @@ Brands Select a brand Google
 *   Google Wallet & Google Pay
 *   Google Wifi
 *   ND4C Guidance
+*   Phone by Google
 *   Quick Share
 *   Universal Commerce Protocol on Google
 *   Waze
