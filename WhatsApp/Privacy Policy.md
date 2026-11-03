@@ -456,7 +456,7 @@ We may amend or update this [Channels Privacy Policy](https://www.whatsapp.com/l
 WhatsApp Business App Privacy Policy
 ====================================
 
-Effective July 14, 2025
+Effective November 3, 2026
 
 _Table of Contents_
 
@@ -501,9 +501,9 @@ _
 
 ### Scope of This WhatsApp Business App Privacy Policy
 
-The WhatsApp Business App provides similar features and functionality to the WhatsApp Messenger App (“Main App Functionality”), but provides additional features and functionality tailored for business needs (“Business Functions”). Business Functions include things like [catalog](https://faq.whatsapp.com/405903568419894), and [greeting](https://faq.whatsapp.com/501866148528310/?cms_platform=android) and [away messages](https://faq.whatsapp.com/2565868990219715/?cms_platform=android). While the WhatsApp Business App includes various features available in the WhatsApp Messenger App, some features may not be available; and not all Business Functions are available everywhere. Business Functions may be offered by WhatsApp, third parties and/or Meta, via integrations into our Business App, and may be subject to the third parties’ own terms of service and privacy policies.
+The WhatsApp Business App provides similar features and functionality to the WhatsApp Messenger App (**“Main App Functionality”**), but provides additional features and functionality tailored for business needs (**“Business Functions”**). Business Functions include things like [catalog](https://faq.whatsapp.com/405903568419894), [greeting](https://faq.whatsapp.com/501866148528310/?cms_platform=android), [away messages](https://faq.whatsapp.com/2565868990219715/?cms_platform=android), and creating ads and messaging campaigns. While the WhatsApp Business App includes various features available in the WhatsApp Messenger App, some features may not be available or may function differently; and not all Business Functions are available everywhere. Business Functions may be offered by WhatsApp, third parties and/or Meta, via integrations into our Business App, and may be subject to the third parties’ own terms of service and privacy policies.
 
-This WhatsApp Business App Privacy Policy (“Business App Privacy Policy”) explains WhatsApp’s data practices with respect to the Business Functions, and applies only to the extent information relating to users of the WhatsApp Business App would be considered personal data and is processed by WhatsApp as a controller, each under applicable law. Users should refer to the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy), incorporated herein by reference, to understand how their information is processed in Main App Functionality. Learn more about Business Functions and the Main App Functionality available on WhatsApp Business App [here](https://faq.whatsapp.com/641572844337957).
+This WhatsApp Business App Privacy Policy (**“Business App Privacy Policy”**) explains WhatsApp’s data practices with respect to the Business Functions and Main App Functionality where it differs on the Business App, and applies only to the extent information relating to users of the WhatsApp Business App would be considered personal data and is processed by WhatsApp as a controller, each under applicable law. Users should refer to the [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy), incorporated herein by reference, to understand how their information is processed in Main App Functionality. Learn more about Business Functions and the Main App Functionality available on WhatsApp Business App [here](https://faq.whatsapp.com/641572844337957).
 
 Please also read the [WhatsApp Business Terms of Service](https://www.whatsapp.com/legal/business-terms) ("**Business Terms**"), which describe the terms under which you use and we provide the WhatsApp Business App.
 
@@ -521,6 +521,9 @@ In addition to the information described in the applicable WhatsApp Privacy Poli
 *   **Usage and Log Information.**  
     We collect information about your use of the Business Functions. For example, we collect information about your business profile settings; how you use Business Functions like [catalogs](https://faq.whatsapp.com/405903568419894), [labels](https://faq.whatsapp.com/3398508707096369/) and [quick replies](https://faq.whatsapp.com/1791149784551042/); purchases and transactions with your business; and metrics related to how customers interact with your business.
 
+*   **Business Interaction Information.**  
+    In the Business App, we collect information about your interactions with businesses (including advertisers), including interactions with a business profile, the volume and frequency of your messages and calls, feedback you submit and actions you take such as blocking or muting a business, archiving a thread, and browsing and purchase information when you view their catalog or website. If we show you ads, we also collect information about your ad interactions, like whether you view or tap an ad, or place an order or make a purchase on WhatsApp.
+
 **Information Received From Others**
 
 *   **User Reports, Feedback, Preferences and Blocks.**  
@@ -534,6 +537,8 @@ We use the information we collect for the same purposes described in the WhatsAp
     We use the information we have to operate and provide our WhatsApp Business App and Business Functions, including providing you with business support; providing onboarding tools; providing message creation and delivery tools; providing you new and premium Business Functions (some of which may be offered by third parties and/or Meta); and improving, fixing, and customizing our WhatsApp Business App. We also use information we have to understand how you use our WhatsApp Business App; evaluate and improve our WhatsApp Business App; research, develop, and test new services and features; and conduct troubleshooting activities. We also use your information to respond to you when you contact us.
 *   **Safety, Security and Integrity.**  
     In addition to the safety, security and integrity purposes described in the WhatsApp Privacy Policy, we also use the information we have to maintain safety, security and integrity on our WhatsApp Business App, for example: to create quality and integrity inferences about businesses; secure WhatsApp systems and WhatsApp Business App users’ accounts; fight threats, abuse, or infringement activities; promote safety, security, and integrity on the WhatsApp Business App; and to ensure compliance with our terms and policies.
+*   **Ads in the Business App.**  
+    Ads in the Business App. If we show you ads on the Business App, we use Business Account Information; Business Interaction Information; and Usage and Log Information from both Main App Functionality and Business Functions in addition to the information described in the [WhatsApp Status and Channels Supplemental Privacy Policy](https://www.whatsapp.com/legal/statusandchannels-privacy-policy) (“Status and Channels Privacy Policy”). We use this information for the same purposes described in the Status and Channels Privacy Policy.
 
 ### Information You and We Share
 
