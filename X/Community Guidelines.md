@@ -3467,10 +3467,6 @@ Username squatting policy
 
 Username squatting is prohibited on \>x<. Inactive accounts with no profile image and no misleading intent are typically allowed, but buying or selling usernames violates the policy.
 
-Table of contents
-
-*   [Username squatting policy](#help-page-title)
-
 Username squatting is prohibited by the [\>x< Rules](https://help.x.com/en/rules-and-policies/x-rules).
 
 Please note that if an account has had no updates, no profile image, and there is no intent to mislead, it typically means there's no name-squatting or impersonation. Note that we will not release squatted usernames except in cases of trademark infringement. If your report involves [trademark infringement](https://help.x.com/en/rules-and-policies/x-trademark-policy), please consult those policies for instructions for reporting these accounts.
@@ -3478,8 +3474,6 @@ Please note that if an account has had no updates, no profile image, and there i
 Attempts to sell, buy, or solicit other forms of payment in exchange for usernames are also violations and may result in permanent account suspension.
 
 Share this Article
-
-*   [Username squatting policy](#help-page-title)
 
 © 2026 \>x< Corp.
 
@@ -5256,10 +5250,6 @@ Fair use policy
 
 Certain uses of copyrighted material may not require the copyright owner’s permission. In the United States, this concept is known as fair use. Some other countries have a similar concept known as fair dealing.
 
-Table of contents
-
-*   [Fair use policy](#help-page-title)
-
 Whether or not a certain use of copyrighted material constitutes a fair use is ultimately determined by a court of law. Courts analyze fair use arguments by looking at four factors:
 
 *   The purpose and character of the use.
@@ -5281,8 +5271,6 @@ For more information on fair use:
 *   [http://fairuse.stanford.edu/overview/fair-use/four-factors/](http://fairuse.stanford.edu/overview/fair-use/four-factors/)
 
 Share this Article
-
-*   [Fair use policy](#help-page-title)
 
 © 2026 \>x< Corp.
 
