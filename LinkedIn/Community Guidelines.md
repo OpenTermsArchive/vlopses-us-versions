@@ -134,9 +134,9 @@ Tagged in
 Related articles
 ----------------
 
+*   [Who's viewed your profile visibility settings](https://www.linkedin.com/help/linkedin/answer/a568195)
 *   [Manage your public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685)
 *   [How LinkedIn uses personal data for ads (LinkedIn Marketing Solutions)](https://www.linkedin.com/help/linkedin/answer/a7153779)
-*   [Researcher access to your data](https://www.linkedin.com/help/linkedin/answer/a6882244)
 
 - - -
 
