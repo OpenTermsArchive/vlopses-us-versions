@@ -461,6 +461,10 @@ If you’re working with a third-party platform, some of these instructions may 
 Trademarks
 ==========
 
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+
 Google doesn't restrict use of trademarks by merchants in the title or description of a Shopping listings when it’s for a trademarked product or a product compatible with the trademarked product. Merchants need to reference trademarks to be able to communicate to users what they're offering, and users need that information as it's relevant to their searches. We’ll review claims by trademark owners that use of their trademark is likely to cause consumer confusion about the origin of a product. To submit a trademark-related complaint if you’re an owner of the trademark, [use this form](https://support.google.com/legal/contact/TM_CF_Shopping?product=productsearch).
 
 Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
@@ -1501,6 +1505,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 Gambling-related content
 ========================
 
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+
 Google prohibits the listing of some types of gambling-related content.
 
 Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
@@ -1649,6 +1657,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 
 Copyrights
 ==========
+
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
 To protect the rights of copyright holders and to comply with local and global copyright laws, we don’t allow Shopping listings to use copyrighted content in a way that infringes copyright. To learn more about how we handle copyright-related issues or to submit a copyright-related complaint, [use this form](https://support.google.com/legal/troubleshooter/1114905).
 
@@ -2131,6 +2143,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 Abuse of the network
 ====================
 
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+
 Shopping listings across the Google Network should be useful, varied, relevant, and safe for users. Google doesn't allow merchants to run product listings, content, or destinations that attempt to trick or circumvent our product listing review processes.
 
 #### On this page
@@ -2403,6 +2419,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 Misrepresentation
 =================
 
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+
 Listings or destinations that deceive users by excluding relevant product information or providing misleading information about products and businesses can compromise user trust. The Misrepresentation policy strives to ensure that listings are clear, honest, and provide information that users need to make informed decisions. For this reason we don’t allow the following:
 
 *   Offers that prompt customers to initiate a purchase, download, or other commitment without first providing all relevant information and getting the customer’s explicit consent.
@@ -2670,6 +2690,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 
 Unsupported Shopping content
 ============================
+
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
 Google aims to enable businesses to list a wide variety of products, but some Google products and platforms may not be optimized to appropriately support all content types.
 
@@ -2942,6 +2966,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 
 Inappropriate content
 =====================
+
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
 Google values diversity and respect for others and strives to avoid offending users, so ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence aren’t allowed.
 
@@ -3239,6 +3267,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 Products that enable dishonest behavior
 =======================================
 
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+
 Google values honesty and fairness, and it doesn’t allow listing products that are designed to enable dishonest behavior. Below are some examples of what to avoid in your listings.
 
 Violations of this policy will not lead to immediate account suspension without prior warning. A warning will be issued at least 7 days prior to any suspension of your account.
@@ -3409,6 +3441,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 
 Dangerous products
 ==================
+
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
 
 Google prioritizes safety both online and offline, so you can’t list products or services that cause damage, harm, or injury in your listings or destinations.  
   
@@ -3655,6 +3691,10 @@ To ensure a safe and positive experience for customers, Google requires that ret
 Counterfeit products
 ====================
 
+As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
+
+Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
+
  Google prohibits the sale or listing of counterfeit goods. Counterfeit goods are products that contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner.
 
 This policy applies to the content of your listing and your website or app.
@@ -3808,7 +3848,7 @@ Demand Gen product ads format requirements
 
 **Label assets that are AI edited or created**
 
-AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
+AI regulations in the European Union, India, New York, California, South Korea, and Vietnam require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
 
 Add labels directly to your creatives or use the AI label setting in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
 
@@ -4767,7 +4807,7 @@ Product Ratings policies
 
 **Label assets that are AI edited or created**
 
-AI regulations in the European Union, India, and New York require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
+AI regulations in the European Union, India, New York, California, South Korea, and Vietnam require that ads with certain AI-generated or edited assets include disclosures and/or labels that inform consumers that the ads were made with AI.
 
 Add labels directly to your creatives or use the AI label setting in Google Ads, Display & Video 360, Campaign Manager 360, Merchant Center, and Ads Editor to add AI labels to your creatives. Learn more about how to [Use AI content label settings to label your ads](https://support.google.com/google-ads/answer/17140115).
 
