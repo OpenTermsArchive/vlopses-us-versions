@@ -929,6 +929,73 @@ Snap welcomes comments, questions, concerns or suggestions. Please send feedback
 
 _In summary: You can contact us and we always love to hear from our users. But if you volunteer feedback or suggestions, just know that we can use your ideas without compensating you_.
 
+**14\. Country-specific terms**
+
+If you live in any of the countries listed below when you purchase a Paid Feature, the additional terms listed for that country apply to you. 
+
+United Kingdom, European Union and Norway:
+
+_Cancellation Rights_
+
+**Please note that the way you cancel and your cancellation rights may be different to those set out in this section if you have purchased your Paid Feature through a third-party Purchase Provider (e.g. an app store). In which case, your purchase will be subject to their terms and conditions of purchase, so please read the cancellation instructions provided to you by your Purchase Provider carefully to ensure you understand how and when you may cancel.**
+
+If you are a consumer resident in the United Kingdom, the European Union or Norway, for most Paid Features you have a legal right to change your mind and cancel the contract for your purchase within 14 days from the date of your purchase (the “Cancellation Period”). For example, if you make a purchase on the 1st day of the month, the Cancellation Period ends at the end of the 15th day of the month. Please note that this legal right to cancel does not apply to all Paid Features. More details on the limitations and exclusions that apply can be found later on in this section.
+
+To exercise your right to cancel, you must inform us of your decision by a clear statement, such as by email, post or through our online support page (see Section 14 for our contact details). You may use the cancellation form available below, but the easiest way to cancel is to follow the cancellation instructions provided in Snapchat.
+
+You do not have the right to change your mind and cancel the contract if: (i) you consented for us to start providing digital content during the Cancellation Period, and we do start providing the digital content during this period; or (ii) you requested for us to start providing digital services during the Cancellation Period and the digital services are fully completed during this period. 
+
+Your legal right to cancel applies to Paid Features as follows:
+
+*   Paid Subscriptions: Snapchat+ and other Paid Subscriptions are digital services. You can cancel a Paid Subscription during the Cancellation Period. If you do so, you will receive a partial refund of the price you have paid for the subscription, which will be prorated based on how many days of use you have enjoyed during the relevant subscription period. For example, if you cancel seven days into a monthly subscription, we would refund you the monthly subscription fee you have paid less a sum equivalent to seven days’ usage. If you live in the UK: (i) if you have an initial free trial or discounted period, a new Cancellation Period will apply when the subscription converts into a full-price Paid Subscription; and (ii) if you have an annual Paid Subscription, a new Cancellation Period will apply to any automatic annual renewals. In each case, the new Cancellation Period would begin on the day the full price subscription or renewal starts and would end 14 days later (e.g. if the start date is January 1, the end date is January 15).
+    
+*   Snapstreak Restores and similar digital services: A Snapstreak Restore is a service. It cannot be cancelled because the service (the reinstatement of your Snapstreak) is completed immediately following purchase. The same applies to other digital services that are fully completed immediately after purchase.
+    
+*   Digital content: Digital content purchases cannot be cancelled. When you purchase digital content you are consenting for us to start providing the digital content immediately.
+    
+
+If you are entitled to a refund, we will pay the refund to you within 14 days of receiving notice of your cancellation using the same means of payment as you used for the initial transaction. 
+
+_Cancellation Form_
+
+To Snap Group Limited,
+
+Address: Snap Group Limited 50 Cowcross Street, Floor 2, London, EC1M 6AL, United Kingdom or Contact us: [here](https://help.snapchat.com/hc/requests/new?lang=en-US).
+
+I/We \[\*\] hereby give notice that I/We \[\*\] cancel my/our \[\*\] contract of sale of the following goods \[\*\]/for the supply of the following service \[\*\],
+
+Ordered on \[\*\]/received on \[\*\],
+
+Name of consumer(s),
+
+Address of consumer(s),
+
+Signature of consumer(s) (only if this form is notified on paper),
+
+Date
+
+\[\*\] Delete as appropriate
+
+Belgium (in addition to those set out under “United Kingdom, European Union and Norway” above):
+
+Where the Snap Paid Features Terms refer to Snap's right to immediately suspend, discontinue or terminate your access to a Paid Feature, without prior notice or liability to you, this will constitute a unilateral termination of our agreement with you without prior intervention of a court or tribunal.
+
+France (in addition to those set out under “United Kingdom, European Union and Norway” above):
+
+Pursuant to the Code de la Consommation, you are entitled to consumer mediation to resolve disputes between us. You may choose any of the mediators listed at [http://www.economie.gouv.fr/mediation-conso/saisir-mediateur](http://www.economie.gouv.fr/mediation-conso/saisir-mediateur?lang=en-US) under “Commerce électronique - Vente à distance”. Their contact details are available at the individual mediator websites listed there.
+
+Germany (in addition to those set out under “United Kingdom, European Union and Norway” above):
+
+Nothing in these Snap Paid Features Terms will affect your legal rights and remedies provided to you under mandatory German law, in particular the German law provisions on digital products and digital services pursuant to Section 327 pp. German Civil Code (BGB) and the provision on general terms and conditions pursuant to Sections 305 pp. German Civil Code (BGB) (each as amended or superseded from time to time). 
+
+The Netherlands (in addition to those set out under “United Kingdom, European Union and Norway” above):
+
+Nothing in these Snap Paid Features Terms will affect the legal rights and remedies that you have and/or are available to you under mandatory Dutch law, including, without limitation, provisions regarding digital content and digital services pursuant to articles 7:50aa – 50 ap DCC and general terms and conditions pursuant to articles 6:231-247 DCC.
+
+United Kingdom (in addition to those set out under “United Kingdom, European Union and Norway” above):
+
+Nothing in this section or these Snap Paid Features Terms affects your legal rights in relation to any Paid Features that do not meet the requirements of the contract or breach UK consumer laws such as the Consumer Rights Act 2015. This would be the case, for example, where they are defective or misdescribed. We are under a legal duty to provide Paid Features that conform with the contract. If you believe there is something wrong with any Paid Features you have purchased, please contact us using the contact details in Section 13. For detailed information about your consumer rights, please visit the Citizens Advice website at www.adviceguide.org.uk or call 0808 223 1133.
+
 Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
