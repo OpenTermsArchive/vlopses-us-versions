@@ -461,6 +461,14 @@ What is a counterfeit?
 
 Copy link
 
+What is a counterfeit good?
+
+How do I report counterfeits?
+
+What is trademark infringement?
+
+I have a different question
+
 A counterfeit good is a knockoff or replica version of another company’s product. It usually copies the trademark (name or logo) and/or distinctive features of that other company’s product to imitate a genuine product. The manufacture, promotion or sale of a counterfeit goods is a type of trademark infringement that is illegal in most countries, and is recognized as being harmful to consumers, trademark owners and honest sellers. Please note that counterfeit goods may be unlawful even if the seller explicitly says that the goods are counterfeit, or otherwise disclaims authenticity of the goods.
 
 If you believe content on Facebook is selling or promoting counterfeit goods, you can report it by [filling out this form](https://www.facebook.com/help/ipreporting/report/counterfeit).
@@ -497,6 +505,13 @@ Related Articles
 * * *](https://www.facebook.com/help/2069235856423257/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -943,6 +958,14 @@ Can I report an infringement of someone else’s intellectual property on Facebo
 
 Copy link
 
+How do I report Facebook IP infringement?
+
+What is Facebook copyright infringement?
+
+What is Facebook trademark infringement?
+
+I have a different question
+
 Only an intellectual property rights owner or their authorized representative may report a suspected infringement. If you believe content on Facebook infringes someone else’s copyright or trademark rights, you may want to let the rights owner know.
 
 Related Articles
@@ -977,6 +1000,13 @@ Related Articles
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 [What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
