@@ -134,9 +134,9 @@ Tagged in
 Related articles
 ----------------
 
-*   [Who's viewed your profile visibility settings](https://www.linkedin.com/help/linkedin/answer/a568195)
+*   [Report inappropriate content, messages, or safety concerns](https://www.linkedin.com/help/linkedin/answer/a1378278)
+*   [Manage shared content and profile activity](https://www.linkedin.com/help/linkedin/answer/a1342513)
 *   [Manage your public profile URL](https://www.linkedin.com/help/linkedin/answer/a542685)
-*   [How LinkedIn uses personal data for ads (LinkedIn Marketing Solutions)](https://www.linkedin.com/help/linkedin/answer/a7153779)
 
 - - -
 
