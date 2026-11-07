@@ -516,6 +516,164 @@ Snapchat Ads Transparency
 
 The purpose of this page is to provide transparency about how we collect, use, and share your data with respect to ads. We also cover the Snapchat settings you can use to control how your data is used for advertising. You can find more information about our privacy practices regarding your data in our [Privacy Center](https://values.snap.com/privacy/privacy-center?lang=en-US).
 
+### 
+
+Why We Show Personalized Ads
+
+Like most online information services, Snapchat is primarily supported by advertising. Advertisers pay a lot more to show ads to people who are more likely to be interested in them. It is not possible for us to keep Snapchat a fun, safe, and innovative online space, without charge, unless we show personalized ads.
+
+Personalized ads allow advertisers, especially small and medium-sized businesses, to reach people who are genuinely interested in their products, which helps reduce advertising costs. By focusing budgets on those most likely to engage, personalized ads empower smaller businesses to maximize their resources and compete effectively.
+
+Most people also prefer ads that are more relevant, fun, and interesting — and find irrelevant ads annoying. If you’re on your way to becoming the next top chef, ads about cookware and recipes may enhance your time on Snapchat; ads about trampolines, maybe not so much (unless you also like jumping!).
+
+Your trust in Snap is very important to us. This is as true for advertising as it is for any other part of your experience on Snapchat. We believe personalized advertising can be a win for everyone, provided it is balanced correctly. To achieve this:
+
+*   We explain below how ads work on Snapchat, what information we collect and use to show you ads, and the settings we provide to control which ads you see.
+    
+*   We have rigorous privacy and safety by design processes. These ensure our approach to personalized advertising on Snapchat stays balanced.
+    
+*   We don’t share everything about you with advertisers. We only allow advertisers to specify what type of user should see their ads and measure whether their ads are successful.
+    
+*   We also hold our advertisers to certain standards. We expect them to be honest about their products, services, and content, to be kind to our diverse community, and to not compromise your privacy.
+    
+
+We reject ads that do not meet our [Advertising Policies](https://snap.com/ad-policies?lang=en-US), including where an ad is misleading, or fails to meet our community guidelines. If you spot a misleading ad, you can report it in-app using the learn more icon on the ad.
+
+### 
+
+The Information Snap Collects and Receives About You To Provide You Ads
+
+To make our ads relevant, we use information we learn about you and that our advertisers and partners provide to us to try and show you the right ads at the right time. This means that the ads you see are often driven by what we think your interests are, your activity on our platform, and information that our partners and advertisers provide to us about you.
+
+Each type of information we collect or receive has an impact on our ads system and some types are more heavily weighted than others. Note that as every ad has its own targeting and optimization settings made by the advertiser, the weightings (as outlined below) may vary as a result of those settings.
+
+The main types of information we collect, including examples of how they are used, and their general relative weight in our ads systems (which is provided in parentheses), are:
+
+**Information we receive directly from you**
+
+*   _Account registration info._ When you sign up for Snapchat, we collect certain information about you.
+    
+    *   **Age.** (Higher weight) You provide us with your birthday, which we use to determine your age (and depending on your settings, this also leads to other fun experiences, like allowing your friends to wish you happy birthday!). As described further below, we also attempt to infer your age, which, among other things, serves as an additional way to increase the likelihood ads reach the correct and appropriate audience.
+        
+    *   **Country/Language.** (Higher weight) We collect your country of residence and the language you prefer for a number of reasons, including to allow Snapchat to provide you localized content and Services, to provide you with ads that are relevant to your locale and language, and to ensure ads we show you comply with local laws and regulations. We may also use your location (as described below) for these purposes.
+        
+    
+
+**Your activity on Snapchat**
+
+When you view or engage with the Camera, Stories, the Snap Map, Spotlight Snaps, Lenses, My AI (see below for more details on My AI and ads), and other content and features on Snapchat, we learn (and sometimes guess) what you might be interested in. For example, if you watch or create a lot of Spotlight Snaps about basketball, we may show you an advertisement for professional basketball tickets.
+
+We also make other inferences about you based on your activity on Snapchat, which may be informed by the information we collect from other sources, as described below. Inferences include:
+
+*   _Age_. (Higher weight) For example, while you enter your birthday when you sign up, we also infer your age based on your activity on Snapchat — this inference helps us keep our younger Snapchatters safe and enhances the accuracy of our age data. Advertisers might want to market certain products to certain age groups that may be more receptive to a particular ad or avoid groups for which an ad is not relevant or appropriate. For example, if you are under 21 in the U.S. we won’t show you ads for alcohol.
+    
+*   _Gender cohort._ (Higher weight) We also infer your gender cohort based on a number of signals, including your Bitmoji, username and display name, friend demographics, and your activity on Snapchat. Similar to determining your interests, your inferred gender cohort assists our advertisers in showing you ads that may be relevant to you. For example, an advertiser may want to show ads to Snapchatters with a particular gender expression and we use inferred gender cohort to assist in showing ads to users who most closely relate to that cohort.
+    
+*   _Interests._ (Higher weight) We are always trying to make our ads as relevant to you as possible, so we try to make inferences about your interests. For example, if you follow race car drivers and like watching or creating Stories about new cars or racing or click on Snapchat ads for auto racing gear, then we might guess that you’re an “Automotive Enthusiast.” Some of these guesses we call “Lifestyle Categories,” and you can [review](https://help.snapchat.com/hc/articles/7012345515796?lang=en-US) the Lifestyle Categories that we’ve guessed about you in Snapchat, and you can [change or clear](https://help.snapchat.com/hc/articles/7012345515796?lang=en-US) those Lifestyle Categories at any time. We also make other inferences about your interests that assist us in showing you content that you may be interested in — for example we have “Snapchat Content Categories,” which categorize the content on Snap that you interact with. You can review these Content Categories by downloading your data as described [here](https://help.snapchat.com/hc/articles/7012305371156-How-do-I-download-my-data-from-Snapchat-?lang=en-US).
+    
+*   _Your friends and Snapchatters in your household._ (Lower weight) Many friends have similar interests. So, we may use information about your friends’ interactions with ads or content to determine whether to show those ads to you. For example, if your friends clicked on an ad for a new pair of shoes, we may use that to prioritize showing the same ad to you. We also may use similar information from Snapchatters in your household who are over 18 to help us choose which ads to show you.
+    
+
+If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17) we do not use inferences about your gender cohort, interests or interests of other people associated with you to personalize the ads you see.
+
+We also use information about what ads you interacted with previously to determine what ads to show you (or not show you) next. It’s no secret that no one likes seeing the same advertisement over and over again!
+
+**Information we receive from our advertisers and partners**
+
+*   _Your activity on the websites and platforms of our advertisers and partners._ (Higher weight) Our advertisers and partners provide us data from their own apps, websites, and platforms, which we use to help inform the ads we show. For example, if you search for a movie on a website that shares data with Snap, you may see ads for similar movies.
+    
+    *   We obtain this information in a few different ways, including through the Snap Pixel and Snap’s Conversion API. In both instances, a small bit of code is embedded in third-party platforms (think websites and apps) that collects information about limited activities on those platforms. We also use this information to provide advertisers reports about the effectiveness of their ads.
+        
+    *   If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17), we do not use information collected by Snap from your activity on the websites and platforms of our advertisers and partners (i.e., “Activity-Based Ads”) to determine which ads to show you. Similarly, we may also limit the use of this information to certain age ranges in other jurisdictions to comply with local laws.
+        
+    
+*   _Audiences._ (Higher weight) Our advertisers may also upload to Snap a list of their customers, so they can target ads to those customers (or individuals like their customers on Snapchat). Typically, this matching is based on a hashed version of your phone number or email. For example, let’s say you’re an avid consumer of comic books. If a new comic book is coming out, the publisher may share their fan list to Snap to help make sure that you’ll see an ad about their latest release.
+    
+    *   If you are located in the EU, UK, Norway or Switzerland and have a teen account (ages 13-17), we do not include you in custom audiences.
+        
+    
+*   _Other data we receive from our advertisers and partners._ We may also use other data we receive about you from our advertisers and partners to inform which ads we show, as described in our [Privacy Policy](https://values.snap.com/privacy/privacy-policy?lang=en-US).
+    
+
+**Information we collect about your context, device and location**
+
+*   _Device information._ (Lower weight) When you use our products and Services, we collect information about your device, which helps us understand the operating system, screen size, language selection, apps installed, and other attributes. This in turn allows us to show you ads that are compatible with your device, in the language you prefer, targeted to specific operating systems, and aligned with your interests. For example, if you are using an iPhone, we may show you an ad for an app that is only available on iOS. Similarly, you won’t see ads in Mandarin if your device’s language is set to Farsi.
+    
+*   _Location information._ (Lower weight) We think it’s important to show you ads that are relevant to your location. For example, if you are in Germany, it wouldn’t be fun or make sense for an advertiser to show you ads for movies that are only playing in the United States. We determine your approximate location based on a few pieces of data you provide us when you access our products and Services, including your IP address, and, if you grant us permission to collect it, your precise location based on GPS. We may also use places that you are near or frequent to show you ads that are relevant to you. For example, if you are near a coffee shop, an advertiser may want to show you ads for their coffee.
+    
+    *   If you are in California, you may [request](https://help.snapchat.com/hc/articles/11399265637012-Your-Privacy-Choices-on-Snapchat?lang=en-US) that Snap limit the use of your personal information, including the use of your precise location history to show you ads.
+        
+    
+
+Keep in mind that Snap may use data from multiple sources described above to show you ads. For example, an advertiser may want to show ads to a certain population of Snapchat users, like 35-44 year olds interested in gardening. In that case, we might use your age and your activity on Snapchat or on other platforms to show ads to you if you fit in that audience.
+
+### 
+
+Controlling the Ads You See
+
+We believe you should have meaningful control over the ads you see. To change the ads you see, please use the settings described [here](https://help.snapchat.com/hc/articles/7012345515796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) to:
+
+*   _Opt-out of Activity-Based Ads._ If you do not want Snap to show you ads based on your activity on the websites and platforms of our advertisers and partners, you can opt-out.
+    
+*   _Opt-out of Audience-Based Ads._ Use this opt-out if you do not want Snap to target you with ads based on audience lists we receive from advertisers and other partners.
+    
+*   _Opt-out of third party ad networks._ Use this opt-out if you do not want third-party ad networks to serve you ads.
+    
+*   _Opt-out of tracking (iOS users only)._ If you set the privacy controls on your device running iOS 14.5 or later to not allow Snapchat to track you, we will not link your activity on third-party apps and websites collected while using that device with user or device data from Snapchat for targeted advertising or advertising measurement purposes. However, we may link this information for advertising purposes either on your device or where we use technical privacy controls that significantly reduce the risk of specifically identifying you and your activity.
+    
+*   _Change the ad topics you see._ This setting allows you to decide whether you want to see certain types of ads about sensitive topics, like political, alcohol, or gambling ads. Some of these ads are turned off by default for users under a specific age regardless of how this setting is set.
+    
+*   _Make changes to Lifestyle Categories._ This setting allows you to change the lifestyle category inferences Snap has made about you based on your interests and activity on Snapchat. This setting also will be overridden by age gating restrictions on certain types of ads and related categories.
+    
+
+If you are in the EU, the UK, Norway or in Switzerland, in addition to the controls above, you can also opt out of personalized content including advertising as set out in the section below. You can do this by accessing the “Personalization Controls” section of the Settings page.
+
+### 
+
+European Contextual Advertising
+
+Personalized advertising is a core element of our service and essential for us to provide you with a fun, safe, and innovative Snapchat without charge. You can read more about why this is the case in the section. 
+
+If you are in the EU, the UK, Norway, or Switzerland, certain laws limit our service and determine whether we can show personalized ads. We are required to display ‘contextual ads’ to you if:
+
+1.  You have a teen account (13-17); or
+    
+2.  You have turned off the “Personalization Controls” in the Settings page.
+    
+
+Contextual advertising means that the advertising you see will be based on:
+
+*   What public content is displayed around the ad (e.g. a sports video to show you a sport related ad)
+    
+*   The time of day the ad is shown (e.g. morning, afternoon, evening)
+    
+*   Your age
+    
+*   Language your device is set
+    
+*   Location (city level) 
+    
+*   Device information
+    
+
+### 
+
+Information We Provide to Advertisers and Measurement Partners
+
+We confirm to advertisers which of their ads you have viewed and clicked. Sometimes this occurs via third party measurement partners. They can then check whether your view or click of a Snap ad led you to buy or use the advertiser’s products and services (for example, purchasing a new watch, subscribing to a video streaming platform or downloading an application). We have written agreements with advertisers (and measurement partners) that restrict their use of this ad data to measuring the effectiveness of their ad campaigns. We do not share information with advertisers that directly identifies you, like a name, phone number or email address.
+
+### 
+
+Ads in My AI
+
+Ads that are displayed in My AI work a bit differently from other ads on Snapchat: they are determined by the context of your My AI conversation and whether, for example, you are looking for recommendations for products or services. Another difference from other ads on Snapchat: My AI ads are contextual advertising and are provided by Snap’s advertising partners, rather than by Snap. Our advertising partners receive your queries (if we determine there’s commercial intent) and additional context, including your age range (i.e., whether you are under 18 or not), country/language, operating system type (i.e., iOS/Android), and IP address to help provide appropriate and relevant ads for you. For example, if you ask My AI “who makes the best electric guitar?” you might see a “sponsored” ad section for a guitar maker. All of this may sound familiar, as My AI ads work a lot like search ads on other platforms.
+
+### 
+
+Sponsored Snaps
+
+Ads may appear in your Chat feed. These “Sponsored Snaps” will be labeled as an Ad and are another format for advertising on Snapchat. Although Sponsored Snaps are displayed in your Chat feed they do not rely on your private communications between friends — we do not use the contents of private communications you send to your friends to personalize your experience, make recommendations, or show you ads. The targeting of Sponsored Snaps follows the same logic as other personalized ads on Snapchat, as described on this page.  If you are in the EU, Norway, Switzerland, or Israel, you can choose how these Sponsored Snaps appear, either in your Chat feed with other chats or outside your Chat feed in a banner style format.  If you are under 18 in these countries, Sponsored snaps will only appear outside of your Chat feed.
+
 - - -
 
 ### 
@@ -577,7 +735,7 @@ My AI 🤖 ✨
 
 My AI is a chatbot 🤖 built on generative AI ✨ technology designed with safety in mind. You can chat with My AI directly or @ mention My AI in conversations. Generative AI is a developing technology that may provide responses that are biased, incorrect, harmful or misleading. So, you should not rely on its advice. You should also not share any confidential or sensitive information — if you do, it will be used by My AI.
 
-Your conversations with My AI work differently than Chats and Snaps with your Friends — we retain the content you send to and receive from My AI (like Snaps and Chats) until you delete the content in-App or delete your account. When you interact with My AI, we use the content you share and your [location](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) (if you have enabled location sharing with Snapchat) to improve Snap’s products, including enhancing My AI’s safety and security, and to personalize your experience, including ads.
+Your conversations with My AI work differently than Chats and Snaps with your Friends – My AI retains the content you have sent to and received from My AI (like Snaps and Chats), but only uses content from the previous 24 hours to power its responses. When you interact with My AI, we also use the content you share and your [location](https://help.snapchat.com/hc/articles/18937463577620?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-GB) (if you have enabled location sharing with Snapchat) to improve Snap’s products, including enhancing My AI’s safety and security, and to personalise your experience, including ads.
 
 My AI may also mention your general location, like what city you’re in, or the bio you set for My AI in its responses (including in conversations where you @ mention My AI).
 
@@ -694,108 +852,6 @@ But, object detection isn’t the same as identifying your face. While Lenses ca
 Many of our Lenses rely on generative AI to create fun experiences and transform your image and experience into something special.
 
 *   [How to Use Lenses](https://help.snapchat.com/hc/articles/7012348332052?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-
-### 
-
-Snap Kit
-
-Snap Kit is a set of developer tools that let you easily share Snaps and Stories with your favorite apps or from apps and websites to your Snapchat account! When you choose to connect to an app or website, you can review the information that is shared through Snap Kit. You can also remove an app or website’s access at any time right in Snapchat settings.
-
-If you haven’t opened a connected app or website in 90 days, we’ll remove its access, but you may need to contact the developer if you have questions about any data that has already been shared.
-
-### 
-
-Spectacles
-
-[Spectacles](https://www.spectacles.com/spectacles-24?lang=en-US) are see-through AR glasses powered by Snap OS, that open up a new world, and let you experience immersive Lenses with friends and family, use Gen AI, extend your Snapchat and other phone experiences into three dimensions, and more. With Lens Studio 5.0 you can easily build and iterate on Lenses, including Gen AI Suite.
-
-When you’re out and about in the world wearing your Spectacles- whether you’re on an adventure or just going about your day, you can capture images and recordings with your Spectacles and LEDs will light up to let your friends know. Images or videos captured with Spectacles are stored locally on the device; there is no cloud storage. You can easily import a captured image or recording to the photo library on your device using the Spectacles App. 
-
-Access to the camera and microphone on your Spectacles device is needed for it to operate. The camera uses information about face, hands, and your surroundings so you can interact with AR content, while the microphone uses information about your voice to make features like recorded videos or voice commands work. You can remove the Spectacles App’s access to the camera and microphone on your Spectacles device by stopping use of your Spectacles device or deleting your account. 
-
-Spectacles are equipped with built-in GPS and GNSS to capture location-based information. When you first set up and pair your new Spectacles to the Spectacles App, you’ll be asked whether you’d like to enable location data. You can disable location data at any time by following the steps described [here](https://support.spectacles.com/hc/en-us/articles/27749155303572-Location-Permissions?lang=en-US).
-
-My AI in Spectacles and other Lenses use generative AI, which you can read more about [here](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?lang=en-US).
-
-*   [Learn About Spectacles](https://www.spectacles.com/spectacles-24?lang=en-US) 
-    
-*   [AI on Spectacles](https://support.spectacles.com/hc/en-us/sections/30449192795668-AI-on-Spectacles?lang=en-US) 
-    
-*   [Spectacles Supplemental Privacy Policy](https://values.snap.com/privacy/privacy-policy/spectacles-supplemental-privacy-policy?lang=en-US) 
-    
-*   [Privacy and Security – Spectacles Support](https://support.spectacles.com/hc/en-us/sections/27749121990420-Privacy-and-Security?lang=en-US).
-    
-
-### 
-
-Your Snapchat Account
-
-You can view and edit most of your key account information and privacy settings right inside of Snapchat. But if you’re curious about something that’s not in our apps, you can visit [accounts.snapchat.com](http://accounts.snapchat.com/?lang=en-US), click ‘My Data,’ and then click ‘Submit Request.’ We’ll prepare a copy of your account information and let you know when it’s ready for you to download. If you ever want to leave Snapchat for good, you can delete your account on [accounts.snapchat.com](http://accounts.snapchat.com/?lang=en-US) too.
-
-*   [How to Change Your Privacy Settings](https://help.snapchat.com/hc/articles/7012343074580?utm_source=web&utm_medium=snap&utm_campaign=priv_prod&lang=en-US)
-    
-
-### 
-
-Scan
-
-You can use your phone to scan Snapcodes and QR codes through our Scan functionality. When you initiate a scan, you will see a link pop up directing you to the intended destination of the code.
-
-*   [How to Use Scan](https://help.snapchat.com/hc/articles/7012376161556?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-
-### 
-
-Snap Map
-
-Snap Map is the most personalized Map, and lets you see where you and your friends are and have been, what’s going on around you, save and find your favorite restaurants and bars, and even see what’s happening across the world.
-
-You won’t appear on your friends’ Snap Map until you are bidirectional friends, open the Map for the first time, provide device location permission, and choose to share your location with your friends. If you don’t open the app for 24 hours, you won’t be visible to friends on the Map until you open Snapchat again, unless you’ve chosen to share your live location with them indefinitely. You can always update the people you’re sharing your location with in Snap Map settings, or go into ‘Ghost Mode’ to hide your location from everyone besides those you’re sharing your live location with. If you want to stop sharing your live location, there’s a separate setting for that. We may also remind you if you leave location sharing enabled for a while.
-
-Snaps that have been [submitted](https://help.snapchat.com/hc/articles/7012271195796?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) to Snap Map or that appear in Spotlight with a place tag can show up on the Map — but not every Snap will appear there. Most of the Snaps on the Map are selected through an automated process. Keep in mind: Snaps that are submitted to Snap Map or place-tagged in Spotlight are Public Content, and your Snap may appear off Snapchat if it has been shared off of Snapchat. Also, Snap Map submissions may be stored for a while and may be visible on Snapchat for long periods of time — sometimes for years. If you’d like to remove a Snap you’ve submitted to Snap Map or place-tagged in Spotlight, you can do so by going to your profile. You can also select to submit to Snap Map without associating the Snap to your name, and other profile details.
-
-When it looks like something interesting is happening, a Story thumbnail might appear on the Map. Stories for Places can also appear when you zoom into the Map. For the most part, these are created automatically — while Stories for the biggest events may receive a more hands-on approach.
-
-Please be mindful of the Snaps that you submit to Snap Map and other public areas of Snapchat, because they may give away your location. For example, if you submit a Snap of the Eiffel Tower to Snap Map, the content of your Snap is going to give away that you were close to the Eiffel Tower in Paris.
-
-Places on Snap Map make it easy to interact with local businesses. Just tap a Place on the Map to view the place’s listing, or tap Search at the top of the Map screen to find a Place. Places provide a personalized Map experience.
-
-If you come across anything that violates our [Community Guidelines](https://values.snap.com/privacy/transparency/community-guidelines?lang=en-US), please [reach out to us and report it](https://help.snapchat.com/hc/articles/7012399221652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)!
-
-*   [About Snap Map](https://help.snapchat.com/hc/articles/7012293122452?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-*   [Finding Friends on Snap Map](https://help.snapchat.com/hc/articles/7012276359700?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US) 
-    
-*   [How Do I Turn On Ghost Mode?](https://help.snapchat.com/hc/articles/7012322854932?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-
-### 
-
-Location
-
-Sharing of your precise location with Snapchat, such as GPS data, is disabled by default. If you opt-in to location sharing, we’re able to offer you a number of products and services that enhance your experience. For example, some Geofilters and Lenses only work based on where you’re at or what’s going on around you. If you enable location sharing, we’ll be able to show your location on the Map to the friends you choose, and show you what’s nearby that may interest you. With location sharing on, you can even ask for nearby place recommendations while chatting with My AI. Location information also helps us figure out what you’d like to see — so people in France see content from French publishers, French ads, and so on.
-
-We store GPS locations for a while to help improve the Map and other features, and to accurately display places of greater relevance to you. For example, we may store some of the locations you visit the most so we can show you more relevant Search content or update your Bitmoji’s activity on the Map. We may also store location information of the Snaps you save in Memories or submit to Stories, Spotlight, or Snap Map to personalize your experience.
-
-On the [new Spectacles](https://www.spectacles.com/new-spectacles/?lang=en-US), some features may need location data to work properly. We may use data from a few sources to derive a more accurate representation of your location. For example, if the last location of your sunglasses is not available, we may rely on Snapchat’s use of your device’s GPS to offer location-based features.
-
-You can still use Snapchat and Spectacles if you disable location permissions in your device’s settings, but many of these features won’t work right (or at all!) without it. Sometimes we can still infer an approximate location like a country or city, based on an IP address — but it’s not perfect.
-
-*   [Learn About iOS Location Permissions](https://help.snapchat.com/hc/articles/7012349781652?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-*   [Learn About Android Location Permissions](https://help.snapchat.com/hc/articles/7012335163924?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-*   [Learn About Location on the New Spectacles](https://support.spectacles.com/hc/articles/360060227752?utm_campaign=priv_prod&utm_medium=snap&utm_source=web&lang=en-US)
-    
-
-### 
-
-Cameos
-
-Cameos lets you be the star in your own short, looping videos. To enable Cameos, we ask you to take a selfie to put you into fun scenes. We don’t use facial recognition software. Instead, Cameos segments the shape of your face and hair to place you into the scenes and ensure the Cameos are optimized.
-
-You control your selfie and can change and delete it and restrict others from using your selfie in two-person Cameos in your Snapchat settings.
 
 - - -
 
