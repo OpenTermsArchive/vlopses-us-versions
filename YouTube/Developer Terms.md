@@ -292,7 +292,7 @@ This document (the "**YouTube API Services Policies**" or "**Policies**") sets o
 
 In addition to defining policies, this document explains some of the underlying principles that YouTube followed in creating these Policies. It also offers examples that demonstrate how these Policies would apply in practice.
 
-Please note that this is a legal document and that these Policies are a component of the [Agreement](#definition-agreement), so you must comply with them. YouTube reserves the right to change these Policies, and your continued access to, or use of, [YouTube API Services](#definition-youtube-api-services) constitutes your agreement to and acceptance of any such changes. Policy changes, like changes to the YouTube API Services [Terms of Service](#definition-terms-of-service), will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
+This is a legal document, and these Policies are a component of the [Agreement](#definition-agreement), so you must comply with them. YouTube reserves the right to change these Policies, and your continued access to, or use of, [YouTube API Services](#definition-youtube-api-services) constitutes your agreement to and acceptance of any such changes. Policy changes, like changes to the YouTube API Services [Terms of Service](#definition-terms-of-service), will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
 
 I. Terminology and style
 ------------------------
@@ -304,7 +304,7 @@ This is a legal document that specifies policies about allowed or prohibited act
 3.  The terms **should**, **should not**, **recommend**, and **recommended** indicate that the statement describes a general best practice. While these terms suggest certain actions or behaviors, they acknowledge that you might decide to follow a different course based on specific aspects of your use case.
 4.  The term **may** indicates that an action is optional and left entirely to your discretion or, depending on the context in which it is used, to YouTube's discretion.
 
-In addition, the [Definitions](#iv.-definitions) section that concludes this document identifies other terms that have a very specific meaning when used in this document. For your convenience, this document uses a special style for those terms to so that you can easily identify them in context and link to their definitions.
+In addition, the [Definitions](#iv.-definitions) section that concludes this document identifies other terms that have a very specific meaning when used in this document. For your convenience, this document uses a special style for those terms so that you can identify them in context and link to their definitions.
 
 II. Software Development Principles
 -----------------------------------
@@ -363,13 +363,9 @@ III. General Developer Policies
 ### B. Maintainability and Deprecation
 
 1.  [API Clients](#definition-api-client) must use the most recent versions of [YouTube API Services](#definition-youtube-api-services). This means that you must be able to update [API Clients](#definition-api-client) when newer versions of [YouTube API Services](#definition-youtube-api-services) are released. Non-website [API Clients](#definition-api-client), like mobile apps or installed applications, must be capable of being remotely updated to use the most recent versions of [YouTube API Services](#definition-youtube-api-services). You must update your [API Clients](#definition-api-client) to the most recent versions of the [YouTube API Services](#definition-youtube-api-services) within a specified time period if required by YouTube from time to time (e.g. for critical updates).
-    
 2.  When YouTube intends to make backward incompatible changes to the [YouTube API Services](#definition-youtube-api-services), such changes will be documented in the [Terms of Service Revision History](https://developers.google.com/youtube/terms/revision-history).
-    
 3.  You must promptly update non-deprecated [API Clients](#definition-api-client) to use newer versions of [YouTube API Services](#definition-youtube-api-services) as those versions are released.
-    
 4.  You must update deprecated versions of your [API Clients](#definition-api-client) to clearly indicate to users that some functions or features of [YouTube API Services](#definition-youtube-api-services) might stop working due to the [API Clients'](#definition-api-client) deprecated status.
-    
 
 ### C. Implementing YouTube Features
 
@@ -648,9 +644,9 @@ Aside from the permissions and rights granted in this section, you and your [API
 
 ### G. Distribution and Commercial Use
 
-You may distribute or sell [API Clients](#definition-api-client) subject to the restrictions defined in the "Prohibited Actions" subsection below and, of course, to the other terms of the [Agreement](#definition-agreement).
+You may distribute or sell [API Clients](#definition-api-client) subject to the restrictions defined in the following "Prohibited Actions" subsection and, of course, to the other terms of the [Agreement](#definition-agreement).
 
-In addition, you may distribute and display YouTube audiovisual content and accompanying metadata to users through your [API Clients](#definition-api-client) as long as those Clients comply with the [Agreement](#definition-agreement) and, specifically, do not engage in any of the prohibited actions listed immediately below.
+In addition, you may distribute and display YouTube audiovisual content and accompanying metadata to users through your [API Clients](#definition-api-client) as long as those Clients comply with the [Agreement](#definition-agreement) and, specifically, do not engage in any of the prohibited actions in the following list.
 
 1.  Prohibited Actions
     
@@ -683,7 +679,7 @@ In addition, you may distribute and display YouTube audiovisual content and acco
 
 ### H. Monitoring and Audits
 
-YouTube reserves the right to survey, monitor, and/or audit your access to or use of [YouTube API Services](#definition-youtube-api-services) to ensure quality, to improve YouTube products and services, and to verify your compliance with the [Agreement](#definition-agreement). To that end, YouTube may survey users of your [API Clients](#definition-api-client).
+YouTube reserves the right to survey, monitor, or audit your access to or use of [YouTube API Services](#definition-youtube-api-services) to ensure quality, to improve YouTube products and services, and to verify your compliance with the [Agreement](#definition-agreement). To that end, YouTube may survey users of your [API Clients](#definition-api-client).
 
 You and those acting on your behalf must:
 
@@ -700,47 +696,26 @@ The policies in this section identify additional things that [API Clients](#defi
 You and your [API Clients](#definition-api-client) must not, and must not encourage, enable, or require others to:
 
 1.  use [YouTube API Services](#definition-youtube-api-services) to create, offer, or act as a substitute for, or substantially similar service to, any [YouTube Applications](#definition-youtube-applications). [API Clients](#definition-api-client) must not mimic or replicate YouTube's core user experiences by recreating features or process flows unless they add significant independent value or functionality that improves users' interactions with YouTube. For example, an [API Client](#definition-api-client) must not recreate the browse experience from any YouTube Application without adding significant independent value to that flow.
-    
 2.  misuse [YouTube API Services](#definition-youtube-api-services) or engage in abusive behaviors related to those Services. For example, you must not automate or trigger views, uploads, comments, likes, dislikes, or other actions without the user's prior specific and express consent;
-    
 3.  interfere, or attempt to interfere, in any way with the proper workings of any aspect of [YouTube API Services](#definition-youtube-api-services), [YouTube Applications](#definition-youtube-applications), or [Google Applications](#definition-google-applications), including interference or disruption of the servers or networks that provide those Services or Applications;
-    
 4.  modify, interfere with, replace, or otherwise disable any functionality, data, or content made available as part of, or in connection with, [YouTube API Services](#definition-youtube-api-services). For example, you must not remove, obscure, alter, or disable any links that appear in YouTube players or in [API Data](#definition-api-data).
-    
 5.  modify, interfere with, replace, or block advertisements placed or served by YouTube or by [YouTube API Services](#definition-youtube-api-services) including in [API Data](#definition-api-data), YouTube audiovisual content, or YouTube players;
-    
 6.  modify, build upon, or block any portion or functionality of a YouTube player;
-    
 7.  separate, isolate, or modify the audio or video components of any YouTube audiovisual content made available as part of, or in connection with, [YouTube API Services](#definition-youtube-api-services). For example, you must not apply alternate audio tracks to videos;
-    
 8.  promote separately the audio or video components of any YouTube audiovisual content made available as part of, or in connection with, the [YouTube API Services](#definition-youtube-api-services);
-    
 9.  create, include, or promote features that play content, including audio or video components, from a background player, meaning a player that is not displayed in the page, tab, or screen that the user is viewing;
-    
 10.  adversely affect the functionality or performance of any aspect of [YouTube API Services](#definition-youtube-api-services), [YouTube Applications](#definition-youtube-applications), or [Google Applications](#definition-google-applications), including actions that interfere with or disrupt [YouTube API Services](#definition-youtube-api-services) or the servers or networks that provide those Services;
-     
 11.  confuse, deceive, defraud, mislead, misrepresent, defame, abuse, stalk, threaten, spam, surprise, or harass anyone;
-     
 12.  introduce, or attempt to introduce, any viruses, worms, defects, Trojan horses, malware, spyware, adware, or other items of a destructive nature to [YouTube API Services](#definition-youtube-api-services), [YouTube Applications](#definition-youtube-applications), [Google Applications](#definition-google-applications), or YouTube users and the devices they use to access those services and properties;
-     
 13.  circumvent, interfere with, or render ineffective, any geographical restrictions, including IP address-based restrictions imposed by YouTube or [YouTube API Services](#definition-youtube-api-services);
-     
 14.  use any technology other than [YouTube API Services](#definition-youtube-api-services) to access or retrieve [API Data](#definition-api-data), including to access any portion of any YouTube audiovisual content;
-     
 15.  offer an API service that allows users to access any data or functionality directly or indirectly provided by the [YouTube API Services](#definition-youtube-api-services);
-     
 16.  modify, translate, create derivative works of, reverse engineer or otherwise attempt to extract the underlying source code from any [YouTube API Services](#definition-youtube-api-services) or from any software related to those Services;
-     
 17.  use [YouTube API Services](#definition-youtube-api-services) for any purpose or activity where the use or failure of those Services could lead to death, personal injury, or environmental damage, such as in the operation of nuclear facilities, air traffic control systems, or life support systems;
-     
 18.  infringe copyrights or exploit copyright-infringing materials;
-     
 19.  engage in, promote or facilitate unlawful online gambling;
-     
 20.  create, display, promote or facilitate disruptive commercial messages or advertisements; or
-     
 21.  situate the YouTube player in a nested or hierarchical iframe lineage to circumvent YouTube policies or otherwise obfuscate the source of use.
-     
 
 ### J. Child-Directed API Clients
 
@@ -771,28 +746,28 @@ If you are aware of anyone accessing or using [YouTube API Services](#definition
 
 ### L. Additional policies on derived metrics and data storage
 
-These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics and/or store statistical data through the [standard quota extension request](https://support.google.com/youtube/contact/yt_api_form) from (starting June 01, 2026). The specific additional metrics and data storage allowances under these policies can be viewed in [Additional policies for derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy).
+These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics, store statistical data, or both, through the [standard quota extension request](https://support.google.com/youtube/contact/yt_api_form) from (starting June 01, 2026). The specific additional metrics and data storage allowances under these policies can be viewed in [Additional policies for derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy).
 
 IV. Definitions
 ---------------
 
-"**Agreement**" means the legal documents defined and referenced in Section 2 (The Agreement) of the YouTube API Services [Terms of Service](#definition-terms-of-service) currently located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
+"**Agreement**" means the legal documents defined and referenced in Section 2 (The Agreement) of the YouTube API Services [Terms of Service](#definition-terms-of-service) located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
 
 "**API Client**" means a website or software application (including a mobile application) developed by you that accesses or uses the [YouTube API Services](#definition-youtube-api-services).
 
-"**API Credentials**" means the credentials assigned by YouTube or Google via the Google Developer Console that each [API Project](#definition-api-project) authenticates with to access and use the [YouTube API Services](#definition-youtube-api-services).
+"**API Credentials**" means the credentials assigned by YouTube or Google through the Google Developer Console that each [API Project](#definition-api-project) authenticates with to access and use the [YouTube API Services](#definition-youtube-api-services).
 
 "**API Data**" is defined within the definition of "[YouTube API Services](#definition-youtube-api-services)" later in this Definitions section.
 
 "**API Project**" means the project created in the Google Developer Console that is required for API Client(s) to access and use the [YouTube API Services](#definition-youtube-api-services).
 
-"**Authorized Data**" means [API Data](#definition-api-data) that an active user expressly authorizes an [API Client](#definition-api-client) to access or otherwise use via [User Credentials](#definition-user-credentials).
+"**Authorized Data**" means [API Data](#definition-api-data) that an active user expressly authorizes an [API Client](#definition-api-client) to access or otherwise use through [User Credentials](#definition-user-credentials).
 
 "**Google Applications**" means Google websites, applications, services, products, pages, and other properties.
 
 "**Non-Authorized Data**" means [API Data](#definition-api-data) accessible by an [API Client](#definition-api-client) without [User Credentials](#definition-user-credentials).
 
-"**Terms of Service**" means the YouTube API Services Terms of Service currently located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
+"**Terms of Service**" means the YouTube API Services Terms of Service located at [https://developers.google.com/youtube/terms/api-services-terms-of-service](https://developers.google.com/youtube/terms/api-services-terms-of-service).
 
 "**User Credentials**" means the credentials issued to users that users can authenticate with to permit API Client(s) to perform operations on their behalf that require authorization.
 
@@ -843,55 +818,61 @@ In environments where `HTTP Referer` is empty by default and not automatically s
     In this configuration, the player is loaded directly from `https://www.youtube.com/embed/VIDEO_ID` without any enclosing HTML file. You set the `Referer` by adding it as an HTTP Header:
     
     *   Android [`loadUrl`](https://developer.android.com/reference/android/webkit/WebView#loadUrl\(java.lang.String,%20java.util.Map%3Cjava.lang.String,java.lang.String%3E\)) with the `Referer` HTTP Header added to the `additionalHttpHeaders` parameter
+        
     *   iOS [`loadRequest:`](https://developer.apple.com/documentation/webkit/wkwebview/load\(_:\)?language=objc) with the `Referer` HTTP Header added to the request. For example:
         
-        NSString \*bundleId = \[\[NSBundle mainBundle\] bundleIdentifier\];
-        NSString \*referrer = \[\[NSString stringWithFormat:@"https://%@", bundleId\] lowercaseString\];
-        NSURL \*referrerUrl = \[NSURL URLWithString:referrer\];
+    
+    NSString *bundleId = [[NSBundle mainBundle] bundleIdentifier];
+        NSString *referrer = [[NSString stringWithFormat:@"https://%@", bundleId] lowercaseString];
+        NSURL *referrerUrl = [NSURL URLWithString:referrer];
         
-        NSString \*destination = @"https://www.youtube.com/embed/VIDEO\_ID";
-        NSURL \*destinationUrl = \[NSURL URLWithString:destination\];
+        NSString *destination = @"https://www.youtube.com/embed/VIDEO_ID";
+        NSURL *destinationUrl = [NSURL URLWithString:destination];
         
-        NSMutableURLRequest \*request = \[NSMutableURLRequest requestWithURL:destinationUrl\];
-        \[request addValue:referrerUrl forHTTPHeaderField:@"Referer"\];
+        NSMutableURLRequest *request = [NSMutableURLRequest requestWithURL:destinationUrl];
+        [request addValue:referrerUrl forHTTPHeaderField:@"Referer"];
         
         // Create an instance of WKWebView (omitted for simplicity), then load the NSMutableURLRequest.
-        \[webView loadRequest:request\];
-        
+        [webView loadRequest:request];
+    
 *   **Mobile app with player inside a native browser tab**
     
     *   Android `CustomTabs`
-        
-        Use [`Intent.EXTRA_REFERRER`](https://developer.android.com/reference/kotlin/android/content/Intent#EXTRA_REFERRER_NAME:kotlin.String) to set the referrer. Be sure to use the `android-app://` scheme instead of `https://` when creating the `Uri`. For example:
-        
-        String destinationUrl = "https://www.youtube.com/embed/VIDEO\_ID";
+    
+    Use [`Intent.EXTRA_REFERRER`](https://developer.android.com/reference/kotlin/android/content/Intent#EXTRA_REFERRER_NAME:kotlin.String) to set the referrer. Be sure to use the `android-app://` scheme instead of `https://` when creating the `Uri`. For example:
+    
+    String destinationUrl = "https://www.youtube.com/embed/VIDEO_ID";
         CustomTabsIntent customTabsIntent = new CustomTabsIntent.Builder().build()
-        customTabsIntent.intent.putExtra(Intent.EXTRA\_REFERRER, Uri.parse("android-app://" + context.getPackageName()));
+        customTabsIntent.intent.putExtra(Intent.EXTRA_REFERRER, Uri.parse("android-app://" + context.getPackageName()));
         customTabsIntent.launchUrl(this, Uri.parse(destinationUrl));
-        
+    
     *   iOS `SFSafariViewController`
-        
-        `SFSafariViewController` does not support setting the `Referer`. In this case, set the [`origin`](https://developers.google.com/youtube/player_parameters#origin) player parameter instead.
-        
+    
+    `SFSafariViewController` does not support setting the `Referer`. In this case, set the [`origin`](https://developers.google.com/youtube/player_parameters#origin) player parameter instead.
+    
 *   **Desktop app**
     
     In this configuration, set the `Referer` by adding it as an HTTP Header:
     
     *   Microsoft .NET - use [`HttpRequestHeaders.Referrer`](https://learn.microsoft.com/en-us/dotnet/api/system.net.http.headers.httprequestheaders.referrer?view=net-9.0) or [`CoreWebView2HttpRequestHeaders.SetHeader`](https://learn.microsoft.com/en-us/dotnet/api/microsoft.web.webview2.core.corewebview2httprequestheaders.setheader?view=webview2-dotnet-1.0.3296.44#microsoft-web-webview2-core-corewebview2httprequestheaders-setheader\(system-string-system-string\))
-    *   macOS - follow the same instructions described above for iOS mobile apps
+    *   macOS - follow the same instructions described earlier for iOS mobile apps
 
 For other platforms where `HTTP Referer` is empty by default, set the `Referer` value by configuring the WebView in which the player is loaded. The exact technique might vary by platform.
 
-If you are the owner of a library, framework, plugin, service, or wrapper used by developers to integrate the YouTube embedded player, you must retrieve the app ID from the environment (this may not be possible, depending on the platform) or allow developers to pass-in their app ID so that `Referer` (and the [`widget_referrer`](https://developers.google.com/youtube/player_parameters#widget_referrer) player parameter, if appropriate) can be set as described above.
+If you are the owner of a library, framework, plugin, service, or wrapper used by developers to integrate the YouTube embedded player, you must retrieve the app ID from the environment (this may not be possible, depending on the platform) or allow developers to pass-in their app ID so that `Referer` (and the [`widget_referrer`](https://developers.google.com/youtube/player_parameters#widget_referrer) player parameter, if appropriate) can be set as described earlier in this section.
 
 #### Referer format
 
 When you explicitly provide Referer by setting a WebView parameter or adding an HTTP Header, the format is typically a fully qualified URL. Specify `HTTPS` as the protocol. Within the URL, the domain name must be your application identifier ("app ID") that is registered with the store that distributed your app to end users. If your app is provided to users through an alternative distribution channel, use the app ID that is registered with the operating system during app install. In most cases, your app ID will be a reversed domain name (also known as "reverse-DNS format"), like `com.google.android.youtube`. Representative examples:
 
 *   Android OS and Android apps on ChromeOS: [App ID](https://developer.android.com/studio/build/configure-app-module#set_the_application_id)
+    
 *   Apple platforms, including iOS, iPadOS, macOS: [Bundle ID](https://developer.apple.com/documentation/bundleresources/information_property_list/cfbundleidentifier)
+    
 *   Samsung Tizen: [App ID](https://docs.tizen.org/application/native/#package-id-and-application-id)
+    
 *   Linux distributions:
+    
     *   Fedora: [App ID](https://docs.fedoraproject.org/en-US/flatpak/concepts/#application_id)
     *   Gnome: [App ID](https://developer.gnome.org/documentation/tutorials/application-id.html)
     *   Ubuntu: [App ID](https://wiki.ubuntu.com/AppStore/Interfaces/ApplicationId)
@@ -900,11 +881,11 @@ On some platforms the app ID is not a reversed domain name. In these cases, use 
 
 *   **Chrome Web Store: store-hosted**
     
-    The store app ID is typically the last part of the path in the app url `https://chromewebstore.google.com/detail/<hyphenated-app-name>/<AppID>`. Use the hyphenated app name and the store app ID to build the `<my-app-name>.<AppID>` string described above.
+    The store app ID is typically the last part of the path in the app URL `https://chromewebstore.google.com/detail/<hyphenated-app-name>/<AppID>`. Use the hyphenated app name and the store app ID to build the `<my-app-name>.<AppID>` string described earlier.
     
 *   **Windows: store-hosted**
     
-    The store app ID is typically the last part of the path in the app url `https://apps.microsoft.com/detail/<AppID>`. Use the store app ID to build the `<my-app-name>.<AppID>` string described above. The hyphenated app name must be included as well.
+    The store app ID is typically the last part of the path in the app URL `https://apps.microsoft.com/detail/<AppID>`. Use the store app ID to build the `<my-app-name>.<AppID>` string described earlier. The hyphenated app name must be included as well.
     
 *   **Windows: non-store distribution**
     
@@ -912,7 +893,7 @@ On some platforms the app ID is not a reversed domain name. In these cases, use 
     
 *   **Xbox: store-hosted**
     
-    The store app ID is typically the last part of the path in the app url `https://www.xbox.com/<region>/games/store/<hyphenated-app-name>/<AppID>`. Use the hyphenated app name and the store app ID to build the `<my-app-name>.<AppID>` string described above.
+    The store app ID is typically the last part of the path in the app URL `https://www.xbox.com/<region>/games/store/<hyphenated-app-name>/<AppID>`. Use the hyphenated app name and the store app ID to build the `<my-app-name>.<AppID>` string described earlier.
     
 
 For API Clients with a high number of requests to YouTube (see [Usage and Quotas](https://developers.google.com/youtube/terms/developer-policies#usage-and-quotas)), additional credentials might be required to access the YouTube embedded player.
@@ -932,14 +913,11 @@ Embedded players must have a viewport that is at least 200px by 200px. If the pl
 
 ### Autoplay and scripted playbacks
 
-This section covers automatic playbacks. It applies to YouTube embedded players that either use the `[autoplay](https://developers.google.com/youtube/player_parameters#autoplay)` player parameter or programmatically initiate automatic playback using the YouTube IFrame Player API service or another YouTube API service.
+This section covers automatic playbacks. It applies to YouTube embedded players that either use the [`autoplay`](https://developers.google.com/youtube/player_parameters#autoplay) player parameter or programmatically initiate automatic playback using the YouTube IFrame Player API service or another YouTube API service.
 
 *   Embedded players that automatically play a video should initiate playback immediately when the page loads or as soon as the embedded player is fully visible. However, an API Client must not initiate an automatic playback until the player is visible and more than half of the player is visible on the page or screen.
-    
 *   A page or screen must not have more than one YouTube player that automatically plays content simultaneously.
-    
 *   Any YouTube thumbnail that initiates a playback must be at least 120 pixels wide and 70 pixels tall.
-    
 
 ### YouTube Player attributes
 
@@ -1045,7 +1023,7 @@ In the event of backward-incompatible changes to Subject API Services, YouTube w
 
 ### Exemptions
 
-Some features of Subject API Services are not subject to the rules defined in Section 14.3 of the Terms because those features were also not subject to the deprecation policy defined under the prior set of Terms. Those features are identified as **exemptions** in the list of subject services below.
+Some features of Subject API Services are not subject to the rules defined in Section 14.3 of the Terms because those features were also not subject to the deprecation policy defined under the prior set of Terms. Those features are identified as **exemptions** in the following list of subject services.
 
 When an exemption applies to an `object` property, it also applies to any of that property's child properties. In addition, the exemption applies to the ability to retrieve, set, modify, or delete values of the property or its child properties as well as to the property values themselves.
 
@@ -1057,20 +1035,33 @@ The following sections define the Subject API Services. For completeness, these 
 ### YouTube Data API, v3
 
 *   [Documentation](https://developers.google.com/youtube/v3)
+    
 *   Exemptions
     
     *   The following `channel` resource properties:
-        *   `[brandingSettings.channel.profileColor](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.channel.profileColor)`
-        *   `[brandingSettings.hints](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.hints)`
-        *   `[brandingSettings.image.watchIconImageUrl](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.image.watchIconImageUrl)`
-        *   `[brandingSettings.watch](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.watch)`
-        *   `[contentDetails.relatedPlaylists](https://developers.google.com/youtube/v3/docs/channels#contentDetails.relatedPlaylists)`
-        *   `[contentOwnerDetails](https://developers.google.com/youtube/v3/docs/channels#contentOwnerDetails)`
-        *   `[invideoPromotion](https://developers.google.com/youtube/v3/docs/channels#invideoPromotion)`
-        *   `[statistics.commentCount](https://developers.google.com/youtube/v3/docs/channels#statistics.commentCount)`
-    *   The `[guideCategory](https://developers.google.com/youtube/v3/docs/guideCategories)` resource and its methods.
-    *   The `search.list` method's `[safeSearch](https://developers.google.com/youtube/v3/docs/search/list#safeSearch)` parameter and its values.
-    *   The `video` resource's `[status.publishAt](https://developers.google.com/youtube/v3/docs/videos#status.publishAt)` property.
+        
+    *   [`brandingSettings.channel.profileColor`](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.channel.profileColor)
+        
+    *   [`brandingSettings.hints`](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.hints)
+        
+    *   [`brandingSettings.image.watchIconImageUrl`](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.image.watchIconImageUrl)
+        
+    *   [`brandingSettings.watch`](https://developers.google.com/youtube/v3/docs/channels#brandingSettings.watch)
+        
+    *   [`contentDetails.relatedPlaylists`](https://developers.google.com/youtube/v3/docs/channels#contentDetails.relatedPlaylists)
+        
+    *   [`contentOwnerDetails`](https://developers.google.com/youtube/v3/docs/channels#contentOwnerDetails)
+        
+    *   [`invideoPromotion`](https://developers.google.com/youtube/v3/docs/channels#invideoPromotion)
+        
+    *   [`statistics.commentCount`](https://developers.google.com/youtube/v3/docs/channels#statistics.commentCount)
+        
+    *   The [`guideCategory`](https://developers.google.com/youtube/v3/docs/guideCategories) resource and its methods.
+        
+    *   The `search.list` method's [`safeSearch`](https://developers.google.com/youtube/v3/docs/search/list#safeSearch) parameter and its values.
+        
+    *   The `video` resource's [`status.publishAt`](https://developers.google.com/youtube/v3/docs/videos#status.publishAt) property.
+        
 
 ### YouTube IFrame Player API
 
@@ -1079,6 +1070,7 @@ The following sections define the Subject API Services. For completeness, these 
 ### YouTube Reporting API
 
 *   [Documentation](https://developers.google.com/youtube/reporting)
+    
 *   Exemptions
     
     *   Non-core dimensions. (See the [dimension](https://developers.google.com/youtube/reporting/v1/reports/dimensions) definitions to determine whether individual dimensions are considered core dimensions.)
@@ -1087,6 +1079,7 @@ The following sections define the Subject API Services. For completeness, these 
 ### YouTube Analytics API
 
 *   [Documentation](https://developers.google.com/youtube/analytics)
+    
 *   Exemptions
     
     *   Non-core dimensions. (See the [dimension](https://developers.google.com/youtube/analytics/v1/dimsmets/dims) definitions to determine whether individual dimensions are considered core dimensions.)
@@ -1136,7 +1129,7 @@ Updated the [Additional policies on derived metrics and data storage](https://de
 
 ### May 4, 2026
 
-Added the [Additional policies on derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy). These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics (such as custom scores, earnings estimates, suitability scoring etc.) and/or store statistical data through the [standard quota extension request form](https://support.google.com/youtube/contact/yt_api_form) (starting June 1, 2026).
+Added the [Additional policies on derived metrics and data storage](https://developers.google.com/youtube/terms/derived-metrics-policy). These policies are only applicable to audited developers with analytics use cases that have explicitly applied for permission to create additional metrics (such as custom scores, earnings estimates, suitability scoring etc.), store statistical data, or both, through the [standard quota extension request form](https://support.google.com/youtube/contact/yt_api_form) (starting June 1, 2026).
 
 ### July 7, 2025
 
@@ -1172,8 +1165,8 @@ More details are available in our new API Compliance Audits [guide](https://deve
 
 Two new sections have been added to the [Developer Policies](https://developers.google.com/youtube/terms/developer-policies):
 
-*   The new [Section III.E.4.i](https://developers.google.com/youtube/terms/developer-policies#III-E-4-i) provides additional information about the data collected and sent via the YouTube embedded player. You are responsible for any user data you send to us via any YouTube embedded player before the user has interacted with the player to indicate playback intent. You can limit the data shared with YouTube before a user interacts with the player by setting Autoplay to false.
-*   The new [Section III.E.4.j](https://developers.google.com/youtube/terms/developer-policies#III-E-4-j) relates to checking the Made for Kids (MFK) status of content before embedding it on your sites and apps. You are responsible for knowing when videos that you embed on your API Client are made for kids and treating data collected from the embedded player accordingly. As such, you must check the status of content using YouTube Data API Service before embedding it on your API Client via any YouTube embedded players.
+*   The new [Section III.E.4.i](https://developers.google.com/youtube/terms/developer-policies#III-E-4-i) provides additional information about the data collected and sent using the YouTube embedded player. You are responsible for any user data you send to us using any YouTube embedded player before the user has interacted with the player to indicate playback intent. You can limit the data shared with YouTube before a user interacts with the player by setting Autoplay to false.
+*   The new [Section III.E.4.j](https://developers.google.com/youtube/terms/developer-policies#III-E-4-j) relates to checking the Made for Kids (MFK) status of content before embedding it on your sites and apps. You are responsible for knowing when videos that you embed on your API Client are made for kids and treating data collected from the embedded player accordingly. As such, you must check the status of content using YouTube Data API Service before embedding it on your API Client using any YouTube embedded players.
 
 The new [Finding the MadeForKids status of a video](https://developers.google.com/youtube/v3/guides/made_for_kids_status) guide explains how to look up the MFK status of a video using the [YouTube Data API Service](https://developers.google.com/youtube/v3/getting-started).
 
@@ -1181,7 +1174,7 @@ In conjunction with these changes, a reminder has been added to the [Embedded Pl
 
 ### August 27, 2020
 
-The [YouTube API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and the [Developer Policies](https://developers.google.com/youtube/terms/developer-policies) link, in several places, to a form that you would use to apply for a quota extension, to request YouTube's approval for a user interface change or other modification, or to notify YouTube of a change of control for your API client. Previously, some of these links pointed to different forms specific to a particular type of request, but they have been updated to all point to the same [form](https://support.google.com/youtube/contact/yt_api_form). For the use cases listed here, please select 'Quota Extension Request' in the form and include any relevant data in the 'Explain in detail how you use YouTube API Services today' input box.
+The [YouTube API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service) and the [Developer Policies](https://developers.google.com/youtube/terms/developer-policies) link, in several places, to a form that you would use to apply for a quota extension, to request YouTube's approval for a user interface change or other modification, or to notify YouTube of a change of control for your API client. Previously, some of these links pointed to different forms specific to a particular type of request, but they have been updated to all point to the same [form](https://support.google.com/youtube/contact/yt_api_form). For the use cases listed here, select 'Quota Extension Request' in the form and include any relevant data in the 'Explain in detail how you use YouTube API Services today' input box.
 
 ### June 30, 2020
 
@@ -1197,7 +1190,7 @@ This guidance offers insight into how YouTube enforces certain aspects of the AP
 
 Section 9.1 of the [YouTube API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service#notices-to-users) has been updated to include new requirements for Child-Directed API Clients and non-Child-Directed API Clients as well as requirements relating to uploading content to YouTube from Child-Directed API Clients and non-Child-Directed API Clients.
 
-Section III.J (Reporting Noncompliance) of the Developer Policies has been (i) renumbered to Section III.K (Reporting Noncompliance) and (ii) replaced in its entirety with a [new Section III.J (Child-Directed API Clients)](https://developers.google.com/youtube/terms/developer-policies#j.-child-directed-api-clients). The new Section III.J (Child-Directed API Clients) sets forth requirements for Child-Directed API Clients including specific compliance with the U.S. Children's Online Privacy and Protection Act (COPPA), E.U. General Data Protection Regulation (GDPR), and any other applicable laws or regulations, and notifying Google of your Child-Directed API Clients. In addition, Child-Directed API Clients and users of Child-Directed API Clients must not take any YouTube API Services write-based actions to YouTube websites, applications, services or products via Child-Directed API Clients. Access to, or use of, YouTube API Services can be suspended or terminated for non-compliance with the YouTube API Services Terms of Service and Developer Policies including non-compliance with Section III.J.
+Section III.J (Reporting Noncompliance) of the Developer Policies has been (i) renumbered to Section III.K (Reporting Noncompliance) and (ii) replaced in its entirety with a [new Section III.J (Child-Directed API Clients)](https://developers.google.com/youtube/terms/developer-policies#j.-child-directed-api-clients). The new Section III.J (Child-Directed API Clients) sets forth requirements for Child-Directed API Clients including specific compliance with the US Children's Online Privacy and Protection Act (COPPA), E.U. General Data Protection Regulation (GDPR), and any other applicable laws or regulations, and notifying Google of your Child-Directed API Clients. In addition, Child-Directed API Clients and users of Child-Directed API Clients must not take any YouTube API Services write-based actions to YouTube websites, applications, services or products using Child-Directed API Clients. Access to, or use of, YouTube API Services can be suspended or terminated for non-compliance with the YouTube API Services Terms of Service and Developer Policies including non-compliance with Section III.J.
 
 ### June 18, 2019
 
@@ -1229,13 +1222,13 @@ The following changes have been made to the [YouTube API Services Terms of Servi
     | Developer Policies | III.G.1 | [Commercialization approval](https://support.google.com/youtube/contact/yt_api_form) |
     | Developer Policies | III.J | [Report noncompliance](https://support.google.com/youtube/contact/yt_api_form) |
     
-*   [Developer Policies, section III.E.2.a](https://developers.google.com/youtube/terms/developer-policies#e-handling-youtube-data-and-content) has been updated to clarify the conditions under which you may aggregate API Data.
+*   [Developer Policies, section III.E.2.a](https://developers.google.com/youtube/terms/developer-policies#e.-handling-youtube-data-and-content) has been updated to clarify the conditions under which you may aggregate API Data.
     
-*   [Developer Policies, section III.G.1.d](https://developers.google.com/youtube/terms/developer-policies#g-distribution-and-commercial-use) has been updated so that the provision applies to YouTube API Data rather than YouTube audiovisual content. As noted in the Terms, YouTube API Data includes YouTube audiovisual content.
+*   [Developer Policies, section III.G.1.d](https://developers.google.com/youtube/terms/developer-policies#g.-distribution-and-commercial-use) has been updated so that the provision applies to YouTube API Data rather than YouTube audiovisual content. As noted in the Terms, YouTube API Data includes YouTube audiovisual content.
     
-*   [Developer Policies, section III.G.1.d](https://developers.google.com/youtube/terms/developer-policies#g-distribution-and-commercial-use) has also been updated to not mention subscriptions, which are already covered under the restrictions in section III.G.1.b.
+*   [Developer Policies, section III.G.1.d](https://developers.google.com/youtube/terms/developer-policies#g.-distribution-and-commercial-use) has also been updated to not mention subscriptions, which are already covered under the restrictions in section III.G.1.b.
     
-*   [Developer Policies, section III.G.2.c](https://developers.google.com/youtube/terms/developer-policies#g-distribution-and-commercial-use) has been updated solely to note that the restrictions in section III.G.1, particularly section III.G.1.d, are particularly relevant to that section.
+*   [Developer Policies, section III.G.2.c](https://developers.google.com/youtube/terms/developer-policies#g.-distribution-and-commercial-use) has been updated solely to note that the restrictions in section III.G.1, particularly section III.G.1.d, are particularly relevant to that section.
     
 
 ### August 11, 2016
@@ -1261,10 +1254,9 @@ This update includes the following documents. All documents are in English unles
 *   This revision history.
     
 
-The following changes were made to a previous version of the Terms of Service.
+**Note:** The following changes were made to a previous version of the Terms of Service.
 
 In addition to these changes, there are a couple of other changes related to the current Terms of Service:
 
 *   Section 7 (Deprecation) has said for a long time that, following a deprecation announcement, Google would use commercially reasonable efforts to maintain YouTube API versions and features identified at [https://developers.google.com/youtube/youtube-api-list](https://developers.google.com/youtube/youtube-api-list) until the later of (i) one year after the announcement or (ii) April 20, 2015. The text has been updated to remove the reference to the April 2015 date since any deprecation announcements yet to occur are certain to be after that date.
-    
 *   We have removed the set of **Monetization Guidelines** that talked about guidelines for building commercial applications. Those guidelines, which were originally written in 2008, contained references to features that were deprecated years ago as well as to sample implementations that were no longer relevant. The link from the Terms of Service to those guidelines has also been removed.
