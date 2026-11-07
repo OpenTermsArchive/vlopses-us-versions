@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-**Updated: October 2026**
+**Updated: November 2026**
 
 Pornhub prides itself on being a safe space for our creators and users to upload and consume adult content. We take a number of steps to help protect the safety of our community and integrity of our platform, which is achieved in part by ensuring that all content that is uploaded to our platform adheres to our [**Terms of Service**](https://www.pornhub.com/information#terms).
 
@@ -48,7 +48,8 @@ Please see an overview of what is **not allowed** on Pornhub. These guidelines 
 *   Depicts, role-plays, or implies incest, including sexual activity between individuals presented as biological or adoptive family members.
 *   Depicts, role-plays, implies, or references any adult performer as being under eighteen (18) years of age or includes the use of underage paraphernalia.
 *   Involves feces of any kind or vomit with solid contents. 
-*   Involves the use of certain drugs, or performers whose capacity to consent has been impeded by the use of drugs.   
+*   Involves the use of prohibited drugs or depicts performers whose capacity to consent has been impeded by the use of drugs, alcohol, or other controlled substances, including marijuana.
+*   Promotes or facilitates the purchase, sale, or distribution of controlled substances, including marijuana, or encourages the use of controlled substances in a manner that violates applicable laws. 
 *   Reacts to or tributes source content that has not been uploaded to Pornhub, or reacts to or tributes to more than one piece of content.
 *   Features a sponsored product which offers or promotes illegal activity. 
 *   Involves AI-generated content that is used in a realistic manner to alter the speech or behavior of the individual(s) depicted or any alterations to the individual(s) depicted which otherwise violate these guidelines.
@@ -87,6 +88,8 @@ Some content may remain appropriate for SFW experiences while covering mature, e
 *   Artistic, glamour, theatrical, or fitness content that is not intended to sexually arouse viewers.
 *   Content discussing violence, politics, current events, or other adult topics in a non-harmful and non-inflammatory manner.
 *   Non-graphic depictions of violence in the context of gameplay, provided they do not contain excessive blood, gore, or other graphic imagery.
+*   Educational and general lifestyle content involving marijuana, provided it does not promote or facilitate its purchase, sale, distribution, or encourage unsafe consumption. 
+*   Discussions of sensitive themes in an educational manner or in the context of personal experiences, such as sexual abuse, self-harm, domestic violence, or eating disorders. Such content is only permitted in SFW experiences provided that it does not glorify, promote, or encourage harmful behavior.
 *   Content containing moderate adult language or mature themes.
 
 When determining whether content is appropriate for SFW experiences, creators should consider the primary purpose and overall presentation of the content. Content whose primary purpose is to create sexual arousal or otherwise violate these Community Guidelines may be considered non-compliant with our SFW guidelines and may be removed from SFW experiences or from the platform, as appropriate.
