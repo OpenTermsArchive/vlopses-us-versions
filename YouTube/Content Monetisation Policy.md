@@ -602,6 +602,8 @@ Who can buy Jewels and send gifts?
 
 Signed-in viewers who meet the [requirements for virtual items](https://support.google.com/youtube/answer/15427201#minimum-requirements-virtual-items) can purchase Jewels and send gifts to eligible creators during a live stream in the YouTube mobile app.
 
+Jewels can also be used to hype videos in [eligible regions](https://support.google.com/youtube/answer/15333704#hype-with-jewels-availability).
+
 Which creators can earn from gifts?
 -----------------------------------
 
