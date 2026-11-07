@@ -334,7 +334,7 @@ What's the difference between the dispute and Escalate to Appeal options?
 
 The initial dispute option can take up to **30 days** for the claimant to respond to the dispute. If they reject your dispute, you may be able to appeal the decision. The claimant then has 7 days to respond to the appeal.
 
-The Escalate to Appeal option is only available for Content ID claims that block your video. This option skips the initial dispute step, which gives the claimant 30 days to respond, and starts the process with an appeal. The claimant then has **7 days** to respond, so the process can be resolved faster.
+The Escalate to Appeal option is only available for copyright claims that block your video. This option skips the initial dispute step, which gives the claimant 30 days to respond, and starts the process with an appeal. The claimant then has **7 days** to respond, so the process can be resolved faster.
 
 If the claimant rejects your appeal, they could then submit a [copyright removal request](https://support.google.com/youtube/answer/2807622). If the copyright removal request is [valid](https://support.google.com/youtube/answer/2807622#after), your video would be removed from YouTube and your channel would get a [copyright strike](https://support.google.com/youtube/answer/2814000). Keep in mind that you can still submit a [counter notification](https://support.google.com/youtube/answer/2807684) if you're confident that a copyright removal request is invalid.
 
