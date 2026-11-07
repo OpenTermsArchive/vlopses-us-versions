@@ -25,7 +25,7 @@ We listen to our customers. If you think a review violates our guidelines, you c
 
 How we calculate overall star ratings?
 
-The overall star rating reflects the average of all valid ratings submitted by customers. A star rating may be excluded from the average if its review violates Temu's Review guidelines.
+The overall star rating reflects the average of all valid ratings submitted by customers. A star rating will be excluded from the average if its review violates Temu's Review guidelines.
 
 What are our review guidelines?
 
