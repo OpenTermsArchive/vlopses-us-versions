@@ -168,7 +168,7 @@ IX. If we are unable to proceed with your refund to your original payment method
 
 Once the refund is processed, your financial institution will need additional time to have it reflected in your account. Refer to the following table for more details.
 
-![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/1ff5c0315fbc449992be4b72d266577c.png?imageView2/q/70/format/avif)
+![](https://commimg.us.kwcdn.com/fancy-combine-expire/0cbd3d/EV_1YuIo3S/a2af2c0c0e814c7a8e77d92dba03bba8.png?imageView2/q/70/format/avif)
 
 7\. Important Notice
 
