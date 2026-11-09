@@ -128,7 +128,7 @@ In the event the Program must be terminated due to an unforeseeable event, SHEIN
 
 SHEIN U.S. TERMS OF USE
 
-**Effective Date: October 21st, 2026**
+**Effective Date: November 9, 2026**
 
 Welcome to SHEIN’s US web, mobile site and mobile application.
 
@@ -333,7 +333,7 @@ We have no control over, assume no responsibility for, and do not endorse or ver
 
 **9.5 Your Own Wireless Plan.** Message and data rates may apply for any messages sent to and by you. If you have any questions about your text plan or data plan, contact your wireless provider.
 
-**9.6 Your Duties for Your Own Phone Number.** If you enroll in the Program, you represent that you are the account holder or customary user for the mobile telephone number that you provide when enrolling in our text messaging program. If you change or deactivate that number, you are responsible for notifying us at [Privacy Center](https://us.shein.com/Privacy-Center-a-1045.html) immediately. The Program is offered on an “as-is”, “as-available” basis and may not be available in all areas or at all times and may not be supported by all wireless carriers. Neither we, our vendors, T-Mobile, and/or any other wireless carrier is liable for failed, delayed, misdirected, or undelivered messages.
+**9.6 Your Duties for Your Own Phone Number.** If you enroll in the Program, you represent that you are the account holder or customary user for the mobile telephone number that you provide when enrolling in our text messaging program. The Program is offered on an “as-is”, “as-available” basis and may not be available in all areas or at all times and may not be supported by all wireless carriers. Neither we, our vendors, T-Mobile, and/or any other wireless carrier is liable for failed, delayed, misdirected, or undelivered messages.
 
 **9.7 Participation Subject to Termination or Change.** If you enroll in SHEIN’s Program, we may suspend or terminate your receipt of automated marketing messages from us if we believe you are in breach of these Terms. Your receipt of these messages is also subject to termination if your mobile telephone service terminates or lapses. We reserve the right to modify or discontinue, temporarily or permanently, all or any part of these messages, with or without notice to you.
 
