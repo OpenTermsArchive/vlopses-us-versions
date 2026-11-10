@@ -2133,9 +2133,9 @@ Related Articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -2149,13 +2149,13 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work
-
-* * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
 [Where can I learn more about copyright?
 
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[How do you know if you own the copyright in a work
+
+* * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -2518,9 +2518,9 @@ Related Articles
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
+[Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-[Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 Related Articles
 
@@ -2536,11 +2536,11 @@ Related Articles
 
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Meta
+[Tools Facebook provides to protect your intellectual property
 
-* * *](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
+* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-[Facebook removed content as a result of my copyright report. What information is sent to the person who posted that content?](https://www.facebook.com/help/297270237338088/?helpref=related_articles)
+[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
