@@ -488,7 +488,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -496,17 +496,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -529,12 +529,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -564,12 +564,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1408,7 +1408,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -1416,17 +1416,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -1449,12 +1449,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1484,12 +1484,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1561,7 +1561,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -1569,17 +1569,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -1602,12 +1602,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1637,12 +1637,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1709,7 +1709,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -1717,17 +1717,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -1750,12 +1750,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1785,12 +1785,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1866,7 +1866,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -1874,17 +1874,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -1907,12 +1907,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -1942,12 +1942,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2046,7 +2046,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -2054,17 +2054,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -2087,12 +2087,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2122,12 +2122,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2322,7 +2322,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -2330,17 +2330,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -2363,12 +2363,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2398,12 +2398,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2594,7 +2594,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -2602,17 +2602,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -2635,12 +2635,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2670,12 +2670,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2870,7 +2870,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -2878,17 +2878,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -2911,12 +2911,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -2946,12 +2946,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3170,7 +3170,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -3178,17 +3178,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -3211,12 +3211,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3246,12 +3246,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3345,7 +3345,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -3353,17 +3353,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -3386,12 +3386,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3421,12 +3421,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3594,7 +3594,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -3602,17 +3602,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -3635,12 +3635,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3670,12 +3670,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3747,7 +3747,7 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   If you edit your product data via your chosen upload method (such as a file) or directly in Merchant Center, the affected products will be automatically re-reviewed.
         *   If you remove the violating products from your data source, no further action or review request is necessary.
     *   **Standard appeal (if you disagree with the issue)**
-        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason and/or uploading required documentation.
+        *   For certain issues, you can dispute the violation. You may need to complete additional steps, such as providing an appeal reason or uploading required documentation.
         *   If a review or appeal is successful, the issue will be removed from Merchant Center.
     *   **Bulk appeal (available in certain cases)**
         *   For specific policy issues where you believe a large number of offers require review, you may be able to submit a single bulk appeal.
@@ -3755,17 +3755,17 @@ Products that don't comply with our policies may be disapproved and won't be eli
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
-                *   **Option 2** - Product details page
-                    *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
-                *   Third-party platforms
-                    *   If you use a third-party platform to list your products, consult that platform for available review options.
-                    *   If a review or appeal is successful, the issue will disappear from Merchant Center.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
+            *   **Option 2** - Product details page
+                *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
+        *   Third-party platforms
+            *   If you use a third-party platform to list your products, consult that platform for available review options.
+            *   If a review or appeal is successful, the issue will disappear from Merchant Center.
 
 Account disapproval
 
@@ -3788,12 +3788,12 @@ For most violations, we'll send you a warning email detailing the policy violati
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
@@ -3823,12 +3823,12 @@ Your account has an issue and is operating with reserved functionality, therefor
         *   You must remove any offers that are violating [our policies](https://support.google.com/merchants/answer/17250716) from your data source before attempting to appeal in bulk.
         *   **How to appeal in bulk**: The bulk appeal option may not be available in all instances or when using third-party platforms.
             *   **Option 1** - Under all products
-                *   Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
-                    *   Navigate to the specific issue.
-                    *   Select “View fix”
-                    *   Select the option **to disagree with the issue for all products**.
-                    *   Review any informational prompts that appear.
-                    *   Select “Request review” to submit the appeal.
+                1.  Go to [Merchant Center](https://merchants.google.com/mc/overview?) > Products > [Needs attention](https://merchants.google.com/mc/products/diagnostics?).
+                2.  Navigate to the specific issue.
+                3.  Select “View fix”
+                4.  Select the option **to disagree with the issue for all products**.
+                5.  Review any informational prompts that appear.
+                6.  Select “Request review” to submit the appeal.
             *   **Option 2** - Product details page
                 *   From the product details page, selecting “Review and fix” will display the appeal options: “I disagree with the issue” and/or “I disagree with the issue for all products”.
         *   Third-party platforms
