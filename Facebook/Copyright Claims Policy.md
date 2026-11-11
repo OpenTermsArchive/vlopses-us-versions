@@ -50,6 +50,16 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+How do I report trademark infringement?
+
+What does trademark protect?
+
+How do I avoid trademark infringement?
+
+What is Brand Rights Protection?
+
+I have a different question
+
 These articles provide information about trademarks. This includes what trademarks do and don’t protect, how you can avoid infringing the trademarks of other people when posting to Facebook, and how Facebook addresses reports of trademark infringement.
 
 If you believe someone is infringing your trademark, you can report it to us by [filling out this form](https://www.facebook.com/help/ipreporting/report/trademark). You can also apply to use [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253), a tool that allows brands to identify and report content that misuses their intellectual property.
@@ -2082,6 +2092,16 @@ What are fair use and other exceptions to copyright
 
 Copy link
 
+What is fair use?
+
+What are copyright exceptions?
+
+How does fair use apply?
+
+What is copyright infringement?
+
+I have a different question
+
 Laws across the globe recognize that strict application of copyright laws in certain cases may be unfair or may inappropriately stifle creativity or stop people from creating original works, which would harm the public. These laws allow people to use, under certain circumstances, someone else's copyrighted work. Common examples include use for the purpose of criticism, commentary, parody, satire, news reporting, teaching, education and research.
 
 The United States and some other countries follow the “fair use” doctrine, while other countries, including those in the European Union, provide other exceptions or limitations to copyright. These exceptions or limitations permit users to use copyrighted material where appropriate. You may want to seek legal advice if you have questions about the possibility to use someone else’s copyrighted work within the limits set by the law.
@@ -2148,6 +2168,13 @@ Related Articles
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 [How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2234,16 +2261,6 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
-What is Facebook copyright content?
-
-What happens to removed Facebook videos?
-
-How do I appeal Facebook video removal?
-
-What are Facebook notification settings?
-
-I have a different question
-
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2282,13 +2299,6 @@ Related Articles
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [Ask to edit or remove a video you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
