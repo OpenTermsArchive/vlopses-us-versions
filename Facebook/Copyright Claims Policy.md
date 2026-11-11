@@ -1672,7 +1672,7 @@ How do you know if you own the copyright in a work
 
 What rights do I have as a copyright owner?
 
-How long does copyright protection last?
+About how long copyright protection lasts
 
 What’s the difference between copyright and trademark?
 
@@ -1769,7 +1769,7 @@ Related Articles
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
@@ -1785,7 +1785,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[How long does copyright protection last?
+[About how long copyright protection lasts
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1839,7 +1839,7 @@ Related Articles
 
 [Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
@@ -1857,7 +1857,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
-[How long does copyright protection last?
+[About how long copyright protection lasts
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1899,7 +1899,7 @@ Related Articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
@@ -1913,7 +1913,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?
+[About how long copyright protection lasts
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1939,24 +1939,26 @@ Resolve issues, make changes and get support in real time
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
 *   [Intellectual Property](https://www.facebook.com/help/399224883474207/?helpref=breadcrumb)
 
-How long does copyright protection last?
-========================================
+About how long copyright protection lasts
+=========================================
 
 Copy link
 
-How long does copyright last?
+When does copyright expire?
 
-What is public domain content?
+What is the public domain?
 
-How does copyright law work?
+How do copyright terms vary?
+
+Can I use public domain works?
 
 I have a different question
 
-Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it’s freely available for anyone to use.
+Copyright protection doesn’t last forever. Eventually, a work loses copyright protection and becomes part of the “public domain.” Once a work is in the public domain, it is freely available for anyone to use.
 
-A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. This balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
+A central purpose of copyright law is to encourage people to make creative works. For this reason, the public domain ensures copyright owners obtain certain rights only for a limited amount of time. The balance between copyright law and the public domain gives the author an incentive to create, but also gives other people the ability to use the work without permission after the copyright expires.
 
-There are many factors that determine when a work becomes part of the public domain. Some of these factors include when and where the work was first published, the type of work and the publisher. For example the Berne Convention, an international treaty about copyright, states that the copyright for most types of works must last at least 50 years after the author’s death. Countries, however, are free to set longer copyright terms within their own laws.
+There are many factors that determine when a work becomes part of the public domain. Some of these factors include when and where the work was first published, the type of work and the publisher. For example, the Berne Convention, an international treaty about copyright, states that the copyright for most types of works must last at least 50 years after the author’s death. Countries, however, are free to set longer copyright terms within their own laws.
 
 Related Articles
 ----------------
@@ -1965,11 +1967,11 @@ Related Articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
+[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[Reporting Copyright Infringements](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
-
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Related Articles
 
@@ -1981,15 +1983,15 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
+[What are fair use and other exceptions to copyright
+
+* * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
 [What rights do I have as a copyright owner?
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
-[Reporting Copyright Infringements
-
-* * *](https://www.facebook.com/help/400287850027717/?helpref=related_articles)
-
-[What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2147,7 +2149,7 @@ Related Articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Related Articles
 
@@ -2167,7 +2169,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[How long does copyright protection last?](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2261,6 +2263,16 @@ A video I posted on Facebook was removed immediately. What happened, and what ar
 
 Copy link
 
+What is Facebook copyright content?
+
+What happens to removed Facebook videos?
+
+How do I appeal Facebook video removal?
+
+What are Facebook notification settings?
+
+I have a different question
+
 If you tried to post a video and it was immediately removed, it may have been identified as potentially containing someone else’s copyrighted content. This could include video, audio or both.
 
 If your video was removed for copyright reasons, you'll receive an email and a notification about the removal. Please use the information you receive to learn more about your options, such as confirming that you have the right to use the copyrighted work and you still wish to post the content.
@@ -2299,6 +2311,13 @@ Related Articles
 * * *](https://www.facebook.com/help/1202019566532169/?helpref=related_articles)
 
 [Ask to edit or remove a video you were in as a minor (Utah only)](https://www.facebook.com/help/1030666849167835/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
