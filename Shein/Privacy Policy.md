@@ -2,9 +2,9 @@ SHEIN PRIVACY NOTICE
 
 Learn more about Interest-based Advertising and your Ad Choices [here](linkto:#ps-t3) ​
 
-**Effective Date: September 10, 2026  
-Last Updated: September 10, 2026**
--------------------------------------------------------------------------
+**Effective Date: November 12, 2026  
+Last Updated: November 12, 2026**
+-----------------------------------------------------------------------
 
 **Introduction and Overview**
 -----------------------------
@@ -112,7 +112,7 @@ Please note that we may disclose, without restriction, aggregated or anonymized 
 
 We may use cookies, tags, web pixels, and similar technologies to automatically collect information through our Services. Cookies or tags are bits of code that allow our technology partners to collect information that usually does not directly identify you. Information within this section describes our use of cookies and your ability to control the use of cookies for advertising-related purposes..
 
-*   **A.** _Cookies_. Cookies are small web files that a site or its provider transfers to your device’s hard drive through your web browser that enables the Site’s or provider’s system to recognize your browser and remember certain information. In many cases, cookies are necessary for your web browser to interact with the Services, such as maintaining your logged-in session, storing items in your shopping cart, and providing fraud detection and security tools to protect your data. Generally, we use first-party and third-party cookies for the following purposes: to make our Services function properly; to provide a secure browsing experience during your use of our Services; to collect passive information about your use of our Services; to measure how you interact with our marketing campaigns; to help us improve our Services; and to remember your preferences for your convenience.
+*   **A.** _Cookies_. Cookies are small web files that a site or its provider transfers to your device’s hard drive through your web browser that enables the Site’s or provider’s system to recognize your browser and remember certain information. In many cases, cookies are necessary for your web browser to interact with the Services, such as maintaining your logged-in session, storing items in your shopping cart, and providing fraud detection and security tools to protect your data. Our Site uses cookies to help keep track of items you put into your shopping cart, including when you have abandoned your cart. If you have opted in to receive cart reminder messages via SMS, we use this information to determine when to send you those messages. Generally, we use first-party and third-party cookies for the following purposes: to make our Services function properly; to provide a secure browsing experience during your use of our Services; to collect passive information about your use of our Services; to measure how you interact with our marketing campaigns; to help us improve our Services; and to remember your preferences for your convenience.
 *   "First-party cookies" are cookies set by us on the Site. "Third-party cookies" are cookies set by other companies whose functionality is embedded into our site (For example, those set by Google).
 *   We use the following types of cookies on our Services:
     
@@ -377,9 +377,9 @@ SHEIN PRIVACY NOTICE
 
 Learn more about Interest-based Advertising and your Ad Choices [here](linkto:#ps-t3) ​
 
-**Effective Date: September 10, 2026  
-Last Updated: September 10, 2026**
--------------------------------------------------------------------------
+**Effective Date: November 12, 2026  
+Last Updated: November 12, 2026**
+-----------------------------------------------------------------------
 
 **Introduction and Overview**
 -----------------------------
@@ -487,7 +487,7 @@ Please note that we may disclose, without restriction, aggregated or anonymized 
 
 We may use cookies, tags, web pixels, and similar technologies to automatically collect information through our Services. Cookies or tags are bits of code that allow our technology partners to collect information that usually does not directly identify you. Information within this section describes our use of cookies and your ability to control the use of cookies for advertising-related purposes..
 
-*   **A.** _Cookies_. Cookies are small web files that a site or its provider transfers to your device’s hard drive through your web browser that enables the Site’s or provider’s system to recognize your browser and remember certain information. In many cases, cookies are necessary for your web browser to interact with the Services, such as maintaining your logged-in session, storing items in your shopping cart, and providing fraud detection and security tools to protect your data. Generally, we use first-party and third-party cookies for the following purposes: to make our Services function properly; to provide a secure browsing experience during your use of our Services; to collect passive information about your use of our Services; to measure how you interact with our marketing campaigns; to help us improve our Services; and to remember your preferences for your convenience.
+*   **A.** _Cookies_. Cookies are small web files that a site or its provider transfers to your device’s hard drive through your web browser that enables the Site’s or provider’s system to recognize your browser and remember certain information. In many cases, cookies are necessary for your web browser to interact with the Services, such as maintaining your logged-in session, storing items in your shopping cart, and providing fraud detection and security tools to protect your data. Our Site uses cookies to help keep track of items you put into your shopping cart, including when you have abandoned your cart. If you have opted in to receive cart reminder messages via SMS, we use this information to determine when to send you those messages. Generally, we use first-party and third-party cookies for the following purposes: to make our Services function properly; to provide a secure browsing experience during your use of our Services; to collect passive information about your use of our Services; to measure how you interact with our marketing campaigns; to help us improve our Services; and to remember your preferences for your convenience.
 *   "First-party cookies" are cookies set by us on the Site. "Third-party cookies" are cookies set by other companies whose functionality is embedded into our site (For example, those set by Google).
 *   We use the following types of cookies on our Services:
     
