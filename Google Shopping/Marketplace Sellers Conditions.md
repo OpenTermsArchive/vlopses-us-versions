@@ -2519,6 +2519,11 @@ Omitting material information when promoting content as benefiting a charitable 
     *   Failing to display a charity or tax exemption number for products sold to benefit charities
     *   Failing to disclose whether products sold to benefit political campaigns are tax exempt or not
 
+Make sure that at least one conventional method of payment is available to users during checkout.
+
+*   **Examples (non-exhaustive):**
+    *   Credit card, debit card, invoicing or payment on delivery.
+
 * * *
 
 Unavailable offers
@@ -5169,7 +5174,7 @@ To view subtitles in your language, [turn on YouTube captions](https://support.g
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
-Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465?sjid=9765722906555425801-NA#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users. Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details.
+Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users. Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details. Additionally, advertisers are not allowed to target users based on an interest in categories [prohibited in Google’s ad network](https://support.google.com/adspolicy/answer/6008942#con).
 
 Advertisers must not use negative remarketing lists for positive personalization. Advertisers may populate the negative remarketing list with people whom the advertiser does not want to see their ads for reasons determined at the advertiser’s discretion. For advertisers using personalization, we do not guarantee that ads will or will not be shown to the named users.
 
@@ -5425,7 +5430,7 @@ To view subtitles in your language, [turn on YouTube captions](https://support.g
 
 Google provides translated versions of the Advertising Policies Help Center, though they're not meant to change the content of the policies. The English version is the official language used to enforce Google Ads policies. To view this article in a different language, use the language dropdown at the bottom of the page.
 
-Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465?sjid=9765722906555425801-NA#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users. Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details.
+Personalized advertising is a powerful tool that improves the relevance of ads that people see and increases ROI for advertisers. It works by targeting groups of people based on specific criteria you select, then either including or excluding them from an audience. There are restrictions to how you can use targeting when promoting within certain categories to avoid negatively impacting user experience. Refer to [Categories with targeting restrictions](https://support.google.com/adspolicy/answer/143465#00) for more details. For all advertising, ads (including ads personalization) must comply with the law. You are responsible for ensuring compliance with applicable laws and regulations for all locations where your ads are shown to users. Refer to [Legal Requirements](https://support.google.com/adspolicy/answer/6023676) for more details. Additionally, advertisers are not allowed to target users based on an interest in categories [prohibited in Google’s ad network](https://support.google.com/adspolicy/answer/6008942#con).
 
 Advertisers must not use negative remarketing lists for positive personalization. Advertisers may populate the negative remarketing list with people whom the advertiser does not want to see their ads for reasons determined at the advertiser’s discretion. For advertisers using personalization, we do not guarantee that ads will or will not be shown to the named users.
 
