@@ -1,10 +1,11 @@
 AliExpress Seller Basic Rules (Violations and Penalty Rules)
 
-Release date: /
-
-Revision date: April 2, 2026
-
+Release date: /  
+Revision date: Beijing Time, October 15, 2026  
+English version release date: Beijing Time, November 11, 2026  
 Note: Texts highlighted in red are revisions or additions made this time.
+
+  
 
 Chapter III Violations and Penalty Rules
 ========================================
@@ -92,15 +93,15 @@ Section II Violation Types and Handling Measures
 |     |     |     |
 | --- | --- | --- |
 | **Violation Type** | **Violation Threshold** | **Penalties** |
-| Severe Intellectual Property Violations | First violation | Freeze (based on violation record) |
-| Second violation | (1) Violating accounts: freeze (based on violation record), and increase the store's security deposit.<br><br>(2) Other store accounts under the same entity: restricted from publishing new goods, and increase the stores' security deposit.<br><br>(3) No new stores allowed under the same entity. |
-| Third violation | (1) Violating accounts: closed.<br><br>(2) Other store accounts under the same entity: store closure or restriction in certain countries/regions.<br><br>(3) No new stores allowed under the same entity. |
+| Severe Intellectual Property Violations | First violation | Violatingaccounts: 7-day freeze<br><br>Freeze (based on violation record) |
+| Second violation | (1) Violatingaccounts: 14-day freeze<br><br>(1) Violating accounts: freeze (based on violation record), and increase the store's security deposit.<br><br>(2) Other store accounts under the same entity: restricted from publishing new goods, and increase the stores' security deposit.<br><br>(3) No new stores accounts allowed under the same entity. |
+| Third violation | (1) Violating accounts: closed.<br><br>(2) Other store accounts under the same entity: store closure or restriction in certain countries/regions.<br><br>(3) No new stores accounts allowed under the same entity. |
 | Intellectual Property Prohibited and Restricted Sales Violations | 2 points | Warning |
 | 6 points | Restriction on goods operations for 3 days |
 | 12 points | Account freeze for 7 days |
 | 24 points | (1) Violating accounts: 14-day freeze, and increase the store's security deposit.<br><br>(2) Other store accounts under the same entity: restricted from publishing new goods, and increase the stores' security deposit.<br><br>(3) No new accounts allowed under the same entity. |
 | 36 points | (1) Violating accounts: 30-day freeze, and increase the store's security deposit.<br><br>(2) Other store accounts under the same entity: restricted from publishing new goods, and increase the stores' security deposit.<br><br>(3) No new accounts allowed under the same entity. |
-| 48 points | (1) Violating accounts: closed.<br><br>(2) Other store accounts under the same entity: store closure or restriction in certain countries/regions.<br><br>(3) No new stores allowed under the same entity. |
+| 48 points | (1) Violating accounts: closed.<br><br>(2) Other store accounts under the same entity: store closure or restriction in certain countries/regions.<br><br>(3) No new stores accounts allowed under the same entity. |
 | Transaction and Other Violations | 12 points | Account freeze for 7 days |
 | 24 points | Account freeze for 14 days |
 | 36 points | Account freeze for 30 days |
@@ -237,23 +238,23 @@ Section IV Liquidated Damages
 
 AliExpress
 
-[Chapter III Violations and Penalty Rules](#VMnIG)
+[Chapter III Violations and Penalty Rules](#UXdTx)
 
-[Section I Violation Handling Measures](#XQWGy)
+[Section I Violation Handling Measures](#AzQsD)
 
-[Section II Violation Types and Handling Measures](#dZK1a)
+[Section II Violation Types and Handling Measures](#qlvv7)
 
-[Section III Four Categories of Violations and Penalties](#wUa4Z)
+[Section III Four Categories of Violations and Penalties](#a3ILF)
 
-[Intellectual Property Prohibited and Restricted Sales Violations](#N7ldx)
+[Intellectual Property Prohibited and Restricted Sales Violations](#AO25w)
 
-[Severe Intellectual Property Violations](#z6O4x)
+[Severe Intellectual Property Violations](#kCqyN)
 
-[Transaction and Other Violations](#ypcK7)
+[Transaction and Other Violations](#HBMCV)
 
-[Goods Information Quality Violations](#yEP8W)
+[Goods Information Quality Violations](#yZha0)
 
-[Section IV Liquidated Damages](#ppc7M)
+[Section IV Liquidated Damages](#ShV0B)
 
 - - -
 
