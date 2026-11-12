@@ -281,6 +281,14 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
+What is a registered trademark?
+
+How do I register a trademark?
+
+What are common law trademark rights?
+
+I have a different question
+
 In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Many other countries outside the U.S. have adopted similar systems, including the ability for trademark owners to register their trademarks. For example, in the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -1583,16 +1591,6 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
-What are Facebook IP tools?
-
-How do I report IP infringement?
-
-What is Brand Rights Protection?
-
-How do I apply for Brand Rights Protection?
-
-I have a different question
-
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related Articles
@@ -1627,13 +1625,6 @@ Related Articles
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
