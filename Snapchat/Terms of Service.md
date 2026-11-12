@@ -1083,6 +1083,49 @@ Public Content Display Terms
 
 --------------------------------
 
+In these Public Content Display Terms, “Snap”, “we” and “us” means either Snap Inc. (if you live in the United States or if you are using the Services on behalf of a business located in the United States) or Snap Group Limited (if you live or are using the Services on behalf of a business located elsewhere). By embedding Snap’s audiovisual player or other product(s) that we make available to you (the “**Embed**”), you agree to these Public Content Display Terms, which incorporate by reference our [Terms of Service](https://www.snap.com/terms?lang=en-US), [Privacy Policy](https://www.snap.com/privacy/privacy-policy?lang=en-US), [Community Guidelines](https://www.snap.com/community-guidelines?lang=en-US), and [Advertising Policies](https://www.snap.com/ad-policies?lang=en-US) (collectively, and together with these Public Content Display Terms, the “**Terms**”). The Embed is one of our Services, as that term is defined in our Terms of Service and used throughout the Terms. Please read the Terms carefully. We may update or change the Terms at any time without notice, so please also read them regularly. By continuing to use the Service, you accept any updates to the Terms. To the extent these Public Content Display Terms conflict with other terms governing the Service, these Public Content Display Terms will apply.
+
+**TERMS OF SERVICE REMINDER AND ARBITRATION NOTICE**: AS A REMINDER TO OUR USERS THAT LIVE IN THE UNITED STATES AND BUSINESSES LOCATED IN THE UNITED STATES, OUR TERMS OF SERVICE, WHICH INCLUDES THE FOLLOWING SECTIONS: INDEMNITY, DISCLAIMERS, LIMITATION OF LIABILITY, AND ARBITRATION, CLASS-ACTION, AND JURY WAIVER, APPLY TO AND ARE INCORPORATED INTO THESE PUBLIC CONTENT DISPLAY TERMS. THIS MEANS THAT, AMONG OTHER THINGS, EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN OUR TERMS OF SERVICE, YOU AND SNAP AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND SNAP WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
+1\. License
+
+Snap grants you a personal, worldwide, non-exclusive, royalty-free, non-transferable, non-sublicensable, revocable license to (a) use the Embed on a website or mobile application in order to distribute Public Content (which is defined in our Terms of Service) and (b) display the Snapchat name and logo, solely to attribute the Snapchat application as the source of the Embed.
+
+All rights not expressly granted to you in this section are reserved by Snap. Nothing in these Terms grants you an implied license of any kind.
+
+2\. General Terms
+
+By using the Embed, you will be able to display Public Content outside of the Snapchat application. While we provide this feature so that members of our community (including you) can share Public Content to a broader audience, you must comply with the following while using it:
+
+*   Always use the Embed and display Public Content in compliance with any branding or attribution requirements that we provide, including the [Snapchat Brand Guidelines](https://www.snap.com/brand-guidelines?lang=en-US).
+    
+*   As a reminder, your use of the Embed is still a use of Snapchat and must comply with our [Community Guidelines](https://www.snap.com/community-guidelines?lang=en-US).
+    
+*   The license we’ve granted you in these Public Content Display Terms does not include a license to the third party intellectual property or other proprietary rights that may be included in Public Content. You agree to obtain all necessary rights, permissions, and licenses before you use and distribute the Public Content on a website, or mobile application using the Embed.
+    
+*   Always comply with any requirements or restrictions imposed on the use of Public Content by us or any other owner of the Public Content.
+    
+*   Promptly remove any Public Content and the related Embed that we — or the owner of the Public Content, if that isn’t us — ask you to remove.
+    
+*   Don’t use Public Content in any advertisement or advertising product without the explicit permission from the owner of the Public Content.
+    
+*   Don’t use the Embed or Public Content to imply sponsorship by, endorsement from, or a false association with Snap, any of its users, or third party content providers.
+    
+*   Don’t collect data related to the Embed or Public Content or the Snapchat application in a manner that violates the Terms.
+    
+*   Always use the Embed and display Public Content in compliance with all applicable laws, rules, and regulations.
+    
+*   Don’t use the Embed or Public Content on a website, or mobile application with terms that conflict with the Terms.
+    
+*   Don’t use the Embed or Public Content in a way that indicates it is from a social platform or medium other than the Snapchat application.
+    
+*   Don’t use the Embed or Public Content to replicate or compete with the Snapchat application.
+    
+
+3\. Content Appropriateness
+
+In addition to the disclaimers included in any of our other Terms, by displaying Public Content on a website, or mobile application, you understand that Public Content is created by our users and may not be appropriate for all audiences or ages. As such, you agree that Snap is not liable for any claims based on or arising from Public Content.
+
 Company
 
 *   [Snap Inc.](https://www.snap.com/?utm_source=snap_com&utm_medium=referral&utm_campaign=universal_navigation&utm_content=footer_item_link&lang=en-US)
@@ -1369,49 +1412,6 @@ Legal
 - - -
 
 **PLEASE NOTE: WE’VE UPDATED THESE AI TOOLS TERMS, EFFECTIVE FEBRUARY 17, 2025. YOU CAN VIEW THE PRIOR AI TOOLS TERMS, WHICH APPLY TO ALL USERS UNTIL FEBRUARY 17, 2025,** [**HERE**](https://www.snap.com/terms/ai-tools-09-30-2024?lang=en-US)**.**
-
-AI Tools Terms
-
-
-------------------
-
-Effective: February 17, 2025
-
-ARBITRATION NOTICE: YOU ARE BOUND BY THE [ARBITRATION](https://www.snap.com/terms/business-services?lang=en-US#governing-law-and-disputes) PROVISION SET FORTH IN THE [BUSINESS SERVICES TERMS](https://www.snap.com/terms/business-services?lang=en-US). IF YOU ARE CONTRACTING WITH SNAP INC., THEN YOU AND SNAP INC. WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
-
-**Introduction**
-
-These AI Tools Terms form a legally binding contract between you and Snap, govern your use of any generative AI and other AI-powered tools Snap makes available to you through or in connection with the Business Services (“AI Tools”), and are incorporated into the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US). Some terms used in these AI Tools Terms are defined in the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US).
-
-**1\. AI Tools**
-
-a. AI Tools use inputs including text prompts, images, audio files, videos, documents, data or other content provided by you or used at your direction (“Inputs”) to generate outputs based on those Inputs, including content and suggestions (“Outputs”).
-
-b. As between the parties (and to the extent permitted by Applicable Law), each party or their licensors shall retain ownership of any pre-existing rights in any Inputs and Outputs. Snap or its licensors own the AI Tools and any underlying technologies used to generate Outputs.
-
-c. All Inputs and Outputs will be treated for the purposes of the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US) as content you submit to the Services and accordingly any rights and licenses granted to us and obligations on you in respect of content submitted or made available by you in the [Terms of Service](https://www.snap.com/terms/snap.com/terms?lang=en-US) shall apply to Inputs and Outputs, in addition to any rights, licenses, and obligations contained in any other applicable Supplemental Terms and Policies.
-
-**2\. Inputs**
-
-In addition to any restrictions set forth in the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US), you will ensure that: (a) Inputs do not contain or make use of, and otherwise could not reasonably be expected to generate Outputs that contain or make use of: (i) any personal data; or (ii) content that would violate the rights of others or has otherwise been unlawfully obtained; and (b) you comply with any submission guidelines or other policies we make available to you that apply to your use of an AI Tool or submission of Inputs. In addition you must not, and must not take any action that would reasonably be expected to, direct the AI Tools to generate any Outputs in violation of the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US), any applicable intellectual property right, contractual restriction or Applicable Laws. 
-
-**3\. Outputs**
-
-a. In addition to any restrictions set forth in the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US), you may only use Outputs in connection with the Business Services and you may not use those Outputs on or with any other service, platform, or technology, whether alone or in combination with other content.
-
-b. You must not and must not take any action that would reasonably be expected to: (i) misrepresent Outputs as having been human-generated or otherwise generated without the use of artificial intelligence; or (ii) alter, obscure or remove any watermark or disclosure applied to Outputs by the AI Tools.
-
-**4\. Disclaimer**
-
-a. You agree and acknowledge that: (i) Outputs are provided as-is and made available to you without representations or warranties of any kind, whether express or implied; (ii) Outputs may be inaccurate, incomplete, misleading, offensive, objectionable, inappropriate, infringing, unsuitable, unlawful, unfit for particular purpose, or the same or similar to content generated for other users of the Services; and (iii) you use the AI Tools and any Outputs at your own risk, and you should not rely on them for medical, legal, investment, financial or other professional advice. Outputs may also contain content inconsistent with Snap’s view and are not Snap representations. Snap does not endorse any content included in any Outputs.
-
-b. You are solely responsible for evaluating any Output to determine its suitability for use, and for any use of Outputs, including ensuring that any Output used with or in connection with the Services complies with the [Business Services Terms](https://www.snap.com/terms/business-services?lang=en-US). 
-
-**5\. Entire Agreement**
-
-These AI Tools Terms set forth the entire understanding and agreement between you and Snap with respect to your use of the AI Tools and supersede all other agreements between you and Snap regarding the AI Tools.
-
-_In summary: you can use Snap’s AI Tools to submit various types of content and information (such as text prompts, images, video), to generate outputs for you to use with the Business Services. Snap is not responsible for any outputs you generate and you use outputs at your own risk. Your use of the outputs must comply with our_ [_Business Services Terms_](https://www.snap.com/terms/business-services?lang=en-US) _and other applicable Supplemental Terms and Policies. There are certain restrictions on your use of our AI Tools, including that you must not submit anything or direct the AI Tools to create anything that: (i) you do not have the rights to; (ii) breaches our_ [_Business Services Terms_](https://www.snap.com/terms/business-services?lang=en-US)_; or (iii) violates any laws or otherwise violates any rights of any person._
 
 - - -
 
