@@ -281,14 +281,6 @@ Does a trademark need to be registered to be protected?
 
 Copy link
 
-What is a registered trademark?
-
-How do I register a trademark?
-
-What are common law trademark rights?
-
-I have a different question
-
 In the U.S., a trademark can be registered with the United States Patent and Trademark Office (USPTO). Federal registrations with the USPTO establish trademark rights as of a certain date and provide a presumption that the registrant owns a valid trademark, among other things. For these reasons, trademark owners often obtain USPTO registrations.
 
 Many other countries outside the U.S. have adopted similar systems, including the ability for trademark owners to register their trademarks. For example, in the European Union, a trademark can be registered with the European Union Intellectual Property Office (EUIPO) or with the national intellectual property offices within the Member States.
@@ -697,7 +689,7 @@ Related Articles
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Related Articles
 
@@ -717,7 +709,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -766,7 +758,7 @@ Related Articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Related Articles
 
@@ -786,7 +778,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2393,7 +2385,7 @@ Related Articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Related Articles
 
@@ -2413,7 +2405,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How do I appeal the removal of content on Facebook for trademark reasons?](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
