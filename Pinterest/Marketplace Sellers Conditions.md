@@ -1,9 +1,7 @@
-Merchant guidelines
+Merchant Guidelines
 
 
 =======================
-
-_We're updating our Merchant Guidelines, effective November 12, 2026. You can preview the updated Merchant Guidelines [here](https://policy.pinterest.com/merchant-guidelines-preview)._
 
 Our mission
 ===========
@@ -81,6 +79,7 @@ We don’t allow the following products to be product Pins:
     *   Sensitive or disturbing products
     *   Tobacco products
     *   Unacceptable business practices
+    *   Scams, deceptive goods and practices
     *   Weapons and explosives products
 
 To learn more about the Verified Merchant Program, please visit [our business site](https://business.pinterest.com/verified-merchant-program).
