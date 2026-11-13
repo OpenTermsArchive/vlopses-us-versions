@@ -320,11 +320,11 @@ If you have any questions or comments about our Privacy Policy or the terms ment
 Temu | United States | Privacy Policy Addendum for U.S. Residents
 =================================================================
 
-Last Updated: November 1, 2026
+Effective Date: December 7, 2026
 
 This Privacy Policy Addendum for U.S. Residents (“U.S. Notice”) supplements the [Temu Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html) (“Privacy Policy”) and the [Cookies and Similar Technologies Policy](https://www.temu.com/cookie-and-similar-technologies-policy.html) and provides additional details for residents of certain U.S. states on how we collect, use and disclose Personal Information, and the rights such residents may have with respect to that Personal Information.
 
-For purposes of this U.S. Notice, “Personal Information” has the meaning given in the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, the “CCPA”), as well as the meaning given to “personal data” under other U.S. state privacy laws. Unless otherwise specified, Personal Information includes “sensitive personal information” as defined by the CCPA and “sensitive data” as defined by other U.S. state privacy laws.
+For purposes of this U.S. Notice, “Personal Information” has the meaning given in the California Consumer Privacy Act of 2018, as amended by the California Privacy Rights Act of 2020 (collectively, the “CCPA”), as well as the meaning given to “personal data” under the Texas Data Privacy and Security Act (“TDPSA”) and other U.S. state privacy laws. Unless otherwise specified, Personal Information includes “sensitive personal information” as defined by the CCPA and “sensitive data” as defined by the TDPSA and other U.S. state privacy laws.
 
 Collection of Personal Information
 
@@ -342,56 +342,58 @@ We collect and have collected in the past twelve (12) months the following categ
 *   **Customer Delivery Information**, such as your shipping address, and consignee contact information;
     
 
-*   **Commercial Information**, such as order information or purchase history;
+*   **Commercial Information**, such as order information, and purchase/transaction history;
     
 
 *   **Payment Information**, such as financial details and payment method;
     
 
-*   **Internet/ Network Activity Information**, such as browsing history, search history, and information regarding a consumer’s interaction with the Service, or advertisements;
+*   **Internet/Network Activity Information**, such as browsing history, search history, information regarding a consumer’s interaction with the Service or advertisements, device model, operating system information, and language settings;
     
 
-*   **General Location**, based on IP address;
+*   **General Location Data**, based on your technical information (e.g., IP address);
     
 
 *   **Inferences**, such as estimated advertising conversion information about your interaction with advertisements;
     
 
-*   **Audio and Video Information**, such as videos and/or audio you provide to our customer service team, and videos you provide for product reviews; and
+*   **Audio and Visual Information**, such as videos and/or audio you provide to our customer service team, and videos you provide for product reviews; and
     
 
 *   **Sensitive Personal Information**, including account log-in information, health data, contents of mail, email, and text messages.
     
 
-Details of the categories of sources of Personal Information that we collect are described in the “[What Information We Collect](https://www.temu.com/privacy-and-cookie-policy.html?#what_information_we_collect)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). The purposes for which we use these categories of Personal Information are described further in the “[How and Why We Use Your Information](https://www.temu.com/privacy-and-cookie-policy.html?#how_and_why_we_use_your_information)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html).
+Details of the categories of sources of Personal Information that we collect are described in the “[What Information We Collect](https://www.temu.com/privacy-and-cookie-policy.html?#what_information_we_collect)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). The purposes for which we use these categories of Personal Information are described further in the “[How and Why We Use Your Information](https://www.temu.com/privacy-and-cookie-policy.html#how_and_why_we_use_your_information)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html).
 
 Processing of Personal Information
 
 
 --------------------------------------
 
-The following table describes our collection, use, and disclosure of Personal Information currently and during the past twelve (12) months. Please note that the categories of Personal Information collected and the examples of information disclosed to third parties vary based on the nature of your interactions with us. For instance, Customer Delivery Information applies only to users who have made a purchase through our Service. To learn more about the categories of Personal Information that we collect, please see the “[Collection of Personal Information](#collection_of_personal_information)” section above and the “[What Information We Collect](https://www.temu.com/privacy-and-cookie-policy.html?#what_information_we_collect)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). Details of the categories of third parties are described further in the “[How and Why We Share Your Information](https://www.temu.com/privacy-and-cookie-policy.html?#how_and_why_we_share_your_information)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). Our relevant data retention practices are addressed in the “[Data Security and Retention](https://www.temu.com/privacy-and-cookie-policy.html?#data_security_and_retention)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). Additionally, we will not attempt to re-identify de-identified information that we derive from Personal Information, except for the purpose of determining whether our deidentification process satisfies legal requirements.
+The following table describes our collection, use, and disclosure of Personal Information currently and during the past twelve (12) months. Please note that the categories of Personal Information collected and the examples of information disclosed to third parties vary based on the nature of your interactions with us. For instance, Customer Delivery Information applies only to users who have made a purchase through our Service. To learn more about the categories of Personal Information that we collect, please see the “[Collection of Personal Information](#collection_of_personal_information)” section above and the “[What Information We Collect](https://www.temu.com/privacy-and-cookie-policy.html?#what_information_we_collect)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). Details of the categories of third parties listed below are described further in the “[How and Why We Share Your Information](https://www.temu.com/privacy-and-cookie-policy.html?#how_and_why_we_share_your_information)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html), and these third parties may be located outside the United States. Our relevant data retention practices are addressed in the “[Data Security and Retention](https://www.temu.com/privacy-and-cookie-policy.html?#data_security_and_retention)” section of our [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html). Additionally, we will not attempt to re-identify de-identified information that we derive from Personal Information, except for the purpose of determining whether our deidentification process satisfies legal requirements.
 
 |     |     |     |
 | --- | --- | --- |
 | **Category of Personal Information** | **Categories of Third Parties to Whom Personal Information Has Been Disclosed for Business Purposes** | **Categories of Third Parties to Whom Personal Information Has Been Sold or Shared for Targeted Advertising** |
-| **Identifiers** | Service Providers<br><br>Payment Processors<br><br>Advertising and Analytics Partners<br><br>Business and Marketing Partners<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | Advertising and Analytics Partners<br><br>Business and Marketing Partners |
-| **Customer Records** | Service Providers<br><br>Payment Processors<br><br>Advertising and Analytics Partners<br><br>Business and Marketing Partners<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | Advertising and Analytics Partners<br><br>Business and Marketing Partners |
+| **Identifiers** | Service Providers<br><br>Payment Processors<br><br>Advertising Partners<br><br>Business and Marketing Partners<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | Advertising Partners<br><br>Business and Marketing Partners |
+| **Customer Records** | Service Providers<br><br>Payment Processors<br><br>Advertising Partners<br><br>Business and Marketing Partners<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | Advertising Partners<br><br>Business and Marketing Partners |
 | **Customer Delivery Information** | Service Providers<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | N/A |
-| **Commercial Information** | Service Providers<br><br>Payment Processors<br><br>Advertising and Analytics Partners<br><br>Business and Marketing Partners<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | Advertising and Analytics Partners<br><br>Business and Marketing Partners |
+| **Commercial Information** | Service Providers<br><br>Payment Processors<br><br>Advertising Partners<br><br>Business and Marketing Partners<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | Advertising Partners<br><br>Business and Marketing Partners |
 | **Payment Information** | Payment Processors<br><br>U.S. Authorities and Regulators | N/A |
-| **Internet/ Network Activity Information** | Service Providers<br><br>Advertising and Analytics Partners<br><br>Business and Marketing Partners<br><br>U.S. Authorities and Regulators | Advertising and Analytics Partners<br><br>Business and Marketing Partners |
-| **General Location** | Service Providers<br><br>Advertising and Analytics Partners<br><br>Business and Marketing Partners<br><br>U.S. Authorities and Regulators | Advertising and Analytics Partners |
-| **Inferences** | Advertising and Analytics Partners<br><br>U.S. Authorities and Regulators | Advertising and Analytics Partners |
-| **Audio and Video Information** | Service Providers<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | N/A |
+| **Internet/ Network Activity Information** | Service Providers<br><br>Advertising Partners<br><br>Business and Marketing Partners<br><br>U.S. Authorities and Regulators | Advertising Partners<br><br>Business and Marketing Partners |
+| **General Location Data** | Service Providers<br><br>Advertising Partners<br><br>Business and Marketing Partners<br><br>U.S. Authorities and Regulators | Advertising Partners |
+| **Inferences** | Advertising Partners<br><br>U.S. Authorities and Regulators | Advertising Partners |
+| **Audio and Visual Information** | Service Providers<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | N/A |
 | **Sensitive Personal Information** | Service Providers<br><br>Merchandise Partners<br><br>U.S. Authorities and Regulators | N/A |
+
+Identifiers, customer records, customer delivery information, commercial information, payment information, internet/network activity information, general location data, inferences, audio and visual information, and sensitive personal information may be disclosed to entities that are located outside the United States. In addition, identifiers, customer records, commercial information, internet/network activity information, general location data, and inferences may be sold or shared to entities that are located outside the United States for targeted advertising, as described in the "[The Sale and Sharing of Personal Information](#the_sale_and_sharing_of_personal_information)" section below. In conducting any such processing of personal information, Temu abides by the Department of Justice Final Rule Relating to U.S. Sensitive Personal Data and Government-Related Data, codified at 28 C.F.R. Part 202.
 
 The Sale and Sharing of Personal Information
 
 
 ------------------------------------------------
 
-Temu uses services that employ cookies and similar technologies to collect Personal Information (including certain identifiers and internet activity information described in the “[Collection of Personal Information](#collection_of_personal_information)” section above) about your use of our websites and other online services over time, which helps us to deliver targeted advertisements. In addition, we may share certain categories of Personal Information described in the table of the “[Processing of Personal Information](#processing_of_personal_information)” section with our advertising and analytics partners, as well as business and marketing partners with whom we collaborate on marketing events and/or promotion of the Service for targeted advertising purposes. For example, we may share identifiers including your email address and telephone number with our advertising and analytics partners (in hashed form) and business and marketing partners. Our use of some of these services may constitute the “sale” or “sharing” of Personal Information (as defined by the applicable U.S. state privacy laws) to/with third party advertisers. We do not knowingly sell or share (as defined by the applicable U.S. state privacy laws) the Personal Information of minors under 16 years of age.
+Temu uses services that employ cookies and similar technologies to collect Personal Information (including certain identifiers and internet activity information described in the “[Collection of Personal Information](#collection_of_personal_information)” section above) about your use of our websites and other online services over time, which helps us to deliver targeted advertisements. In addition, we may share certain categories of Personal Information described in the table of the “[Processing of Personal Information](#processing_of_personal_information)” section with our advertising partners, as well as business and marketing partners, which may be located outside the United States, with whom we collaborate on marketing events and/or promotion of the Service for targeted advertising purposes. For example, we may share identifiers including your email address and telephone number with our advertising partners (in hashed form) and business and marketing partners. Our use of some of these services may constitute the “sale” or “sharing” of Personal Information (as defined by the applicable U.S. state privacy laws) to/with third party advertisers. We do not knowingly sell or share (as defined by the applicable U.S. state privacy laws) the Personal Information of minors under 16 years of age.
 
 Your Privacy Rights
 
@@ -400,7 +402,7 @@ Your Privacy Rights
 
 Depending on the state you live in, you may have some or all of the rights listed below and any additional rights granted by applicable U.S. state law in relation to Personal Information that we have collected about you. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 
-*   **Right to Know / Access.** The right to request information about the categories of Personal Information we collect, the categories of sources from which we collect Personal Information, the purposes for which we process Personal Information, the categories of third parties, or a list of specific third parties, to whom we disclose your Personal Information, and a copy of the Personal Information that we have collected about you.
+*   **Right to Know/Access.** The right to request information about the categories of Personal Information we collect, the categories of sources from which we collect Personal Information, the purposes for which we process Personal Information, the categories of third parties, or a list of specific third parties, to whom we disclose your Personal Information, and a copy of the Personal Information that we have collected about you.
     
 
 *   **Right to Delete.** The right to request that we delete Personal Information we maintain about you.
@@ -418,7 +420,7 @@ Depending on the state you live in, you may have some or all of the rights liste
 *   **Right to Opt Out of Profiling.** The right to opt out of the processing of your Personal Information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning the consumer. However, Temu does not engage in such profiling as defined by applicable U.S. state laws.
     
 
-You may exercise these rights via our privacy choices [web form](https://www.temu.com/bgp-privacy-policy-and-setting.html) or by contacting us using the contact information provided in the “[How to Contact Us](#how_to_contact_us)” section below. We will not discriminate against you for exercising any of these rights. For certain rights, we may need to collect information from you to verify your identity before providing a substantive response to the request. Depending on your location, you may designate, in writing or through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us. In the event that your request is denied, you may have the right to appeal our decision regarding a request related to these rights by contacting us using the email provided in the “[How to Contact Us](#how_to_contact_us)” section below.
+You may exercise these rights via our privacy choices [web form](https://www.temu.com/bgp-privacy-policy-and-setting.html) or by contacting us using the contact information provided in the “[How to Contact Us](#how_to_contact_us)” section below. We will not discriminate against you for exercising any of these rights. For certain rights, we may need to collect information from you to verify your identity before providing a substantive response to the request. Depending on your location, you may designate, in writing or (where applicable) through a power of attorney document, an authorized agent to make requests on your behalf to exercise your rights. Before accepting such a request from an agent, we will require that the agent provide proof you have authorized them to act on your behalf, and we may need you to verify your identity directly with us. In the event that your request is denied, you may have the right to appeal our decision regarding a request related to these rights by contacting us using the email provided in the “[How to Contact Us](#how_to_contact_us)” section below.
 
 You may also be able to set your browser to transmit a “global privacy control” (“GPC”) signal or another approved “universal opt-out mechanism” to opt out of “selling” and “targeted advertising” (as defined by applicable U.S. state law). If you notify us of your preference through GPC, we will honor your request for the browser or device that sends the GPC signal. If you do not have an account or are not logged into your account, your request to opt out through the GPC will not apply to any account information. Please note that if you return to our website from a different device, or from a different browser on the same device, you may need to apply the GPC or other signal for that browser and/or device as well. To learn more about GPC, you can visit [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/).
 
@@ -456,7 +458,7 @@ Should you have any questions about our privacy practices or this U.S. Notice, p
 Temu | United States | Consumer Health Data Privacy Policy
 ==========================================================
 
-Last Updated: November 1, 2026
+Effective Date: December 7, 2026
 
 This Consumer Health Data Privacy Policy provides information regarding how Whaleco Inc. ("Temu," "we," "our," or "us") processes "consumer health data" as defined by applicable consumer health privacy laws. In the event of a conflict between Temu's [Privacy Policy](https://www.temu.com/privacy-and-cookie-policy.html) and this Consumer Health Data Privacy Policy, this Consumer Health Data Privacy Policy will control with respect to the processing of consumer health data.
 
@@ -472,36 +474,36 @@ How and Why We Use Your Consumer Health Data
 
 ------------------------------------------------
 
-We may use consumer health data as necessary to provide you with the services that you have requested or authorized. This may include order processing and fulfillment, communicating with you regarding orders, products, and services, providing you with customer support services, optimizing features, fixing errors, and improving our services and our business.
+We may use consumer health data as necessary to provide you with our services that you have requested or authorized. This may include order processing and fulfillment, communicating with you regarding orders, products, and services, providing you with customer support services, optimizing features, fixing errors, and improving our services and our business.
 
 We may also use your consumer health data for compliance purposes and to prevent, detect, investigate, and respond to fraud, violations of our [Terms of Use](https://www.temu.com/terms-of-use.html) and policies, or other misconduct.
 
-We may deidentify consumer health data so that it cannot reasonably be reidentified by us or by another person. If we deidentify information that was originally based on consumer health data, we maintain and use that information in deidentified form and will not attempt to reidentify the data, except as otherwise permitted under applicable law and for the purposes described in this policy.
+We may deidentify consumer health data so that it cannot reasonably be reidentified by us or by another person. If we deidentify information that was originally based on consumer health data, we maintain and use that information in deidentified form and will not attempt to re-identify the data, except solely for the purpose of determining whether our deidentification process satisfies legal requirements.
 
 How and Why We Disclose Your Consumer Health Data
 
 
 -----------------------------------------------------
 
-We may disclose the consumer health data described in this Consumer Health Data Privacy Policy as necessary to provide you with a service you request, to comply with our legal obligations, or for certain security-related purposes, as described above. We may also disclose consumer health data with:
+We may disclose the consumer health data described in this Consumer Health Data Privacy Policy as necessary to provide you with a service you request, to comply with our legal obligations, or for certain security-related purposes, as described above. We may also disclose consumer health data to:
 
 ### 
 
 Service providers
 
-Third parties that provide services on our behalf or help us operate our services or our business (such as customer support). These third-party service providers have access to only the consumer health data needed to perform their functions and services but shall not use such data for other purposes. Some of these service providers may be Temu affiliates.
+Third parties that provide services on our behalf or help us operate our services or our business (such as customer support). These third-party service providers only have access to the consumer health data needed to perform their functions and services but shall not use such data for other purposes. Some of these service providers may be Temu affiliates.
 
 ### 
 
-Professional advisors, authorities, and regulators
+Professional advisors, U.S. public authorities, and regulators
 
-We may disclose your consumer health data to our professional advisors (e.g., lawyers, auditors, bankers, and insurers), in response to legal processes (e.g., responding to subpoenas or requests from U.S. government or law enforcement authorities), and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's [Terms of Use](https://www.temu.com/terms-of-use.html), other illegal activities, security issues, or when it is required by law.
+We may disclose your consumer health data to our professional advisors (e.g., lawyers, auditors, bankers and insurers); U.S. public authorities, such as law enforcement authorities in response to legal processes (e.g., subpoenas or other lawful requests from U.S. government or regulatory authorities); and with other parties in order to enforce our agreements or policies, protect the rights, property and safety of Temu, users and others, and to detect, prevent and address actual or suspected fraud, violations of Temu's [Terms of Use](https://www.temu.com/terms-of-use.html), other illegal activities, security issues, or when it is required by applicable laws.
 
 ### 
 
 Business transferees
 
-We may disclose your consumer health data to acquirers and other relevant participants in the rare event of business transactions such as a merger, acquisition, or reorganization. If Temu intends to transfer information about you, Temu will inform you by email or by putting up a notice on the Temu app and on Temu.com.
+In the rare event of a business transaction such as a merger, acquisition, or reorganization, we may disclose your consumer health data to acquirers and other relevant participants. If we intend to transfer information about you, we will inform you either by publishing a notice on the service or by other means.
 
 ### 
 
