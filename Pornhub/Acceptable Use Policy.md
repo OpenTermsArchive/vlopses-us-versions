@@ -1,38 +1,40 @@
 Non-Consensual Content Policy
 =============================
 
-**March 2026**
+**Updated: November 2026**
 
 Consent, as a rule and [value](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values), is paramount to the security of our users and integrity of our platform.
 
-We require all uploaders to affirm they have obtained and maintain valid consent and proper release documentation for all persons featured in all content uploaded to the platform. In addition, content must adhere to our [core values](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values), community guidelines, as well as our [Terms of Service](https://www.pornhub.com/information/terms).
+We require all verified uploaders to affirm they have obtained and maintain valid consent and proper release documentation for all persons featured in all content uploaded to the platform. Members of the [Model Program](https://help.pornhub.com/hc/en-us/articles/34927506861843-Verification-Upload-and-Content-Moderation-Process) must also provide evidence of identity and consent for all performers seen in their content.
 
-Content that we identify as a violation of our Non-Consensual Content Policy will be removed, and the associated user’s account actioned accordingly.
+Content that we identify as a violation of our Non-Consensual Content Policy is removed, fingerprinted to help identify and remove it in case of re-upload, and the associated user’s account is banned.
 
 **What is considered a violation of our non-consensual content policy:**
 
-The recording, distribution, or threatened distribution of intimate images (that is, photos and videos that are generally understood to depict explicit sexual activity or nudity or partial nudity) without someone’s consent is a violation of that person’s privacy and is a severe violation of our [Terms of Service](https://www.pornhub.com/information/terms) and is **strictly prohibited**. Content featuring or promoting non-consensual acts, real or simulated, is also prohibited.
+The recording, distribution, or threatened distribution of intimate images (that is, photos and videos that are generally understood to depict explicit sexual activity or nudity or partial nudity) without someone’s consent is **strictly prohibited**. Content featuring or promoting non-consensual acts, real or simulated, is also prohibited.
 
 **Guidelines** 
 
-**Do NOT** use the platform to upload, post, threaten to post, or otherwise share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved. Examples of the types of content that violate this policy include, but are not limited to**\***:
+**Do NOT** use the platform to upload, post, threaten to post, or share explicit images or videos that were taken, appear to have been taken or that were shared without the consent of the people involved. These guidelines apply to audio, written, and visual content, as well as actual, simulated, animated, and AI-generated content, whether the content is photorealistic or is clearly simulated content. Examples of the types of content that violate this policy include, but are not limited to**\***:
 
-*   Videos or photos of any person, whether in a public or private setting, without that person’s valid written consent (such as hidden/spy camera content, or up-skirt content);
+*   Content which depicts any individual who does not or is unable to validly consent to any of the sexual act(s) in the content. 
     
-*   Sharing explicit sexual images of someone else without their valid written consent (this would include, namely: non-consensual distribution of intimate images, also commonly referred to as “revenge porn”);
+*   Videos or photos of any person, whether in a public or private setting, without that person’s knowledge or consent to the recording of the content (such as hidden/spy camera content, or up-skirt content).
     
-*   Sharing non-sexually explicit images of someone else without their valid written consent;
+*   Sharing explicit sexual images of someone else without their valid written consent.
+    
+*   Sharing non-sexually explicit images of someone else without their valid written consent.
     
 *   “Doxing”, defined as exposing private and identifying information about a particular individual, including phone number, e-mail, address, or full name.
     
-*   Threatening to publish, distribute, or otherwise make available intimate images or videos of another person without their consent, including real, simulated, or AI-generated content, regardless of whether such content exists or is ultimately shared.
+*   Threatening to publish, distribute, or make available intimate images or videos of another person without their consent, regardless of whether such content exists or is ultimately shared.
     
 
 To help protect the integrity of the platform, we also **prohibit** content, including fictional, simulated, or animated, that features or depicts\*:
 
 *   Depictions of non-consensual sexual activity\*, including coerced or forced sexual acts, rape, or sexual assault;
 *   Persons appearing drugged, incapacitated, or intoxicated\*\* involved in sexual acts;
-*   Any “deepfakes” whatsoever (AI-generated, modified, or other manipulations of a person’s image, whether in picture or video, to deceive or mislead the viewer into believing that person is acting or speaking in the way presented). This includes AI-generated or manipulated content that is likely to be mistaken for a real photographic, video, or other visual recording of an identifiable person.
+*   Any “deepfakes” whatsoever (AI-generated, modified, or other manipulations of a person’s image, whether in picture or video, to deceive or mislead the viewer into believing that person is acting or speaking in the way presented).
 
 \* See our section below on _Sensitive Themes and Considerations for Consent_.
 
@@ -40,18 +42,23 @@ To help protect the integrity of the platform, we also **prohibit** content, inc
 
 **Sensitive Themes and Consideration for Consent** 
 
-It is important to remember that pornography does not always represent sexual interactions and behaviors typical of everyday life, and often depicts diverse fantasies and role-play scenarios by consenting amateurs and professionals. In all cases, whether professional or amateur, we expect content to adhere to Pornhub's [core values](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values) and [Terms of Service](https://www.pornhub.com/information/terms).
+It is important to remember that pornography may not represent sexual interactions and behaviors typical of everyday life, and often depicts diverse fantasies and role-play scenarios by consenting amateurs and professionals. In all cases, whether professional or amateur, we expect content to adhere to Pornhub's [core values](https://help.pornhub.com/hc/en-us/articles/360041768014-Core-Values) and [Terms of Service](https://www.pornhub.com/information/terms).
 
 When reviewing content depicting the sensitive themes listed below, we take the following into consideration to determine whether it violates our [Terms of Service](https://www.pornhub.com/information/terms). We recommend reviewing our detailed policy before uploading content involving these sensitive themes. Consent must be determinable by the reasonable observer from the material itself, which may be assessed either through clear verbal or visual cues. Consent must apply to both the creation and distribution of the content, including AI-generated or manipulated representations.
 
-Note that we consider many factors to distinguish fantasy from reality. The following is a non-exhaustive list of what we consider sensitive themes. Accordingly, content engaging with the following themes is subject to removal, and appropriate account enforcement, where found to be in violation of our [Terms of Service](https://www.pornhub.com/information/terms):
+Accordingly, content engaging with the following themes is subject to removal, and appropriate account enforcement, where found to be in violation of our [Terms of Service](https://www.pornhub.com/information/terms):
 
-*   **Spells, Mesmerizing, or Possession**: We do not permit content where:
-    *   A performer is depicted as incapacitated, or otherwise completely unconscious because of possession, spells, or mesmerizing;
+*   **Spells, Mesmerizing, Possession, or Other Scenarios Depicting Unclear Consent**: We do not permit content where:
+    *   A performer is depicted as incapacitated, or otherwise completely unconscious because of possession, spells, or mesmerizing; or
     *   Performers display signs of distress or panic before, during or after the act; or
-    *   Realistic depictions of spellbound, mesmerized, or possessed performers engaged in or subjected to sexual acts.
+    *   Realistic depictions of spellbound, mesmerized, or possessed performers engaged in or subjected to sexual acts; or
+    *   A performer is depicted as unable to move or consent to sexual activity at any point due to a freeze/time-stop scenario or similar fictional mechanism. 
 *   **Sleep**: Where there is a component of sleep in the content, the person must wake up within a reasonable time from the start of any sexual act(s) and consent must be made clear by that person.
-*   **Bondage and Restraints**: If a scene features the use of a gag, restraint(s), or other device(s) that would render a performer unable to clearly speak or move, consent to continued participation must be clearly determinable from the material itself, or where it cannot be, consent must be clearly determinable through other visual or verbal cues.
+*   **Bondage and Restraints**: Consensual bondage, BDSM, and the use of restraints are permitted. If a performer is gagged, restrained, or otherwise unable to speak, they must still be able to clearly show that they are willing to continue participating through other visual cues such as gestures, expressions, or sounds. We do not permit content where:
+    *   A performer is depicted as being forced or coerced into bondage, restraints, or sexual activity against their will; or
+    *   A performer expresses unwillingness to participate in sexual activity, and their continued participation is depicted as being imposed against their will; or
+    *   A performer is unable to clearly communicate or move to express clear consent due to bondage or restraints, and the content does not otherwise provide clear indications of consent to the activity; or
+    *   The scene depicts sexual activity as non-consensual, even if it is presented as BDSM, bondage, or role-play. 
 *   **Sub-Dom Fantasies**: Consent must be determinable from the material itself, through clear verbal or visual cues.
 
 To be clear, our rules with respect to these sensitive themes are not a judgment on these forms of sexual expression but aim to make clear what is or is not acceptable on our platform, to maintain a safe community.
@@ -94,11 +101,7 @@ If you are interested in having your content digitally fingerprinted by Vobile y
 
 **Consequences for Violating this Policy** 
 
-In all cases where we identify or are made aware of content that violates this policy, our Trust & Safety and Moderation teams work swiftly to:
-
-*   Review and remove infringing content;
-*   Fingerprint the content in question to help block future uploads of the same content to our sites; AND
-*   Suspend or permanently terminate the associated uploader's account, where appropriate. 
+In all cases where we identify or are made aware of content that violates this policy, our Trust & Safety and Moderation teams work swiftly to remove the content, fingerprint to help identify and remove it in case of re-upload, and ban the associated user's account. Where appropriate, we will also report the content and user to law enforcement.
 
 **How Can You Help Us?** 
 
