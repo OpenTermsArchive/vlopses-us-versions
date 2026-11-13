@@ -1591,6 +1591,16 @@ What tools does Facebook provide to help me enforce my intellectual property rig
 
 Copy link
 
+What are Facebook IP tools?
+
+How do I report IP infringement?
+
+What is Brand Rights Protection?
+
+How do I apply for Brand Rights Protection?
+
+I have a different question
+
 If you own a registered trademark, you may be eligible to use Brand Rights Protection. This tool allows you to identify trademark violations, counterfeit products and copyright infringement across many of our platforms. Learn more about [Brand Rights Protection](https://www.facebook.com/business/help/828925381043253?helpref=faq_content), including how to apply.
 
 Related Articles
@@ -1625,6 +1635,13 @@ Related Articles
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
 [Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
