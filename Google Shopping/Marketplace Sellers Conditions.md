@@ -2519,11 +2519,6 @@ Omitting material information when promoting content as benefiting a charitable 
     *   Failing to display a charity or tax exemption number for products sold to benefit charities
     *   Failing to disclose whether products sold to benefit political campaigns are tax exempt or not
 
-Make sure that at least one conventional method of payment is available to users during checkout.
-
-*   **Examples (non-exhaustive):**
-    *   Credit card, debit card, invoicing or payment on delivery.
-
 * * *
 
 Unavailable offers
