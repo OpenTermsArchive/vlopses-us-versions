@@ -298,7 +298,8 @@ We don’t allow the advertising of:
 *   Products in the shape of certain body parts (genitals, butts, or female breasts)
 *   Adult or pornographic videos, publications, live shows
 *   Sexual enhancement products
-*   Services that provide casual sex, international matchmaking or escorts
+*   Services or tools that facilitate casual sex, international matchmaking, or escort services
+*   Any AI or synthetic tools that generate explicit content, enable sexually explicit interactions or services, or simulate emotional relationships or dependency with virtual beings
 *   Implied sexual activity (clothed or unclothed)
 *   The objectification of a person in a sexual manner to sell a product or service
 
@@ -308,7 +309,7 @@ We also don't allow:
 *   Implied sexual activity (clothed or unclothed)
 *   Any focus on certain body parts (genitals, pubic hair, male or female butts and female breasts)
 
-You can advertise modeled clothing such as bathing suits and lingerie, as long as the products aren't adult-themed or overtly sexual. However, we don’t allow any imagery featuring minors in underwear and we don't allow imagery featuring minors in swimsuits unless accompanied by adults in the image.
+You can advertise modeled clothing such as bathing suits and lingerie, as long as the products or creatives aren't adult-themed or overtly suggestive. We do not allow imagery featuring minors in underwear. Additionally, ads for dating apps, lingerie and swimwear can not target minors.
 
 ### Clickbait
 
