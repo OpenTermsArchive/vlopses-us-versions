@@ -102,12 +102,10 @@ Table of Contents
 
 - - -
 
-Advertising guidelines
+Advertising Guidelines
 
 
 ==========================
-
-_We're updating our Advertising Guidelines, effective November 12, 2026. You can preview the updated Advertising Guidelines [here](https://policy.pinterest.com/advertising-guidelines-preview)._
 
 Our mission
 ===========
@@ -154,7 +152,7 @@ Please note that the targeting of proxies for the sensitive categories above is 
 
 #### Protected groups
 
-Some ad categories have additional targeting restrictions. In addition to the sensitive targeting guidelines, in certain markets ads in the following categories can’t use actalike, age, gender or postal code targeting options or exclude Protected groups:
+Some ad categories have additional targeting restrictions. In addition to the sensitive targeting guidelines, in certain markets ads in the following categories can’t use actalike targeting, certain demographic targeting (such as age, gender or postal code), or exclude Protected groups:
 
 *   Credit: Ads promoting credit products like credit cards, mortgages and loans.
 *   Employment: Ads promoting employment opportunities, including full -time jobs, part -time jobs, and work from home jobs.
@@ -275,7 +273,7 @@ Ads should adhere to the highest levels of editorial quality. We don’t allow a
 We care about the ad experience from start to finish—including the URL your ad links to. We want to make sure users find what they're looking for when they click through. We don’t allow landing pages that:
 
 *   Require people to take an action (like signing up) before they can see certain content unless your ad makes it clear that this is required
-*   Have pop-up ads or start automatic downloads on someone’s device
+*   Have non-dismissible pop-up ads or start automatic downloads on someone’s device
 *   Force people to visit another page
 *   Contain primarily advertising content (made-for-ads sites)
 *   Lead to inconsistent experiences
@@ -388,19 +386,15 @@ We also do not allow the advertising of hookahs, hookah bars, cigars, or cigar b
 
 We don't allow ads that promote the following products, services or business models:
 
-*   Penny or bidding fee auctions
-*   Payday loans
-*   Plaintiff recruitment services
-*   Bail bonds
-*   All cryptocurrency products and services except those explicitly allowed in our [Financial products and services Policy](https://policy.pinterest.com/advertising-guidelines#section-financial-products-and-services)
-*   Services that promise large financial returns for minimal investment or effort, such as multilevel marketing models or get-rich-quick opportunities
-*   Fake online tech support
-*   Products or services that utilize hidden costs or bait and switch tactics
-*   Companies that offer homework or essay writing services for students (Tutoring services are OK)
-*   Companies that sell social media followers
-*   Negative option billing services
-*   Products or services that make unrealistic or exaggerated claims or purport to have magical properties
-*   Ads that show a different product or service than the one being offered in an intentionally deceptive way
+*   Predatory financial products
+    *   Binary options
+    *   Payday loans
+    *   All cryptocurrency products and services except those explicitly allowed in our [Financial products and services Policy](https://policy.pinterest.com/advertising-guidelines#section-financial-products-and-services)
+*   Exploitative schemes
+    *   Penny or bidding fee auctions
+*   Legal system exploitation
+    *   Plaintiff recruitment services
+    *   Bail bonds
 
 In addition to the above, Promotions must adhere to the following:
 
@@ -420,6 +414,26 @@ In addition to the above, Promotions must adhere to the following:
     *   May not contain repetitive words and/or phrases, or include any text that is unrelated or irrelevant to the custom promotion
 
 We expect our advertisers to be honest with their customers and set clear expectations about product quality, delivery times, return processes, and services provided. We reserve the right to reject an advertiser based on poor third-party ratings or a record of complaints.
+
+### Scams, deceptive goods, and practices
+
+We don't allow the advertising of anything that facilitates or promotes dishonest commerce, exploitative schemes, or deceptive practices. This includes ads that use exaggerated claims, intentional misrepresentation, misleading pricing, bait-and-switch tactics, deceptive redirects, or other deceptive methods to mislead people about the nature of the product, service, or offer.
+
+We prohibit ads that promote:
+
+*   Products, services, or offers misrepresented through synthetic media, manipulated content, or other deceptive practices
+*   Products or services featuring hidden costs, misleading pricing, or bait and switch tactics
+*   Tools or templates intended to facilitate, automate, or scale scams or deceptive activities
+*   Ads that intentionally show a different product or service than the one being offered
+*   Fake or deceptive offers, grants, prizes, or giveaways used to mislead people
+*   Fictitious or non-existent products, services, or storefronts
+*   Services that promise large financial returns for minimal investment or effort, such as multilevel marketing models or get-rich-quick opportunities
+*   Services that enable academic dishonesty, including homework or essay writing services for students (tutoring services are allowed okay)
+*   Services that artificially inflate engagement metrics, including by selling social media followers
+*   Products or services making unrealistic or exaggerated claims or purport to have magical properties
+*   Fake online tech support
+*   Impersonation or social engineering used to deceive people or misrepresent an identity, brand, or affiliation
+*   Negative option billing services
 
 ### Weapons and explosives
 
@@ -486,7 +500,7 @@ We don’t allow the advertising of:
 *   Gambling websites
 *   Fantasy sports or other online prize-based games that require payment for entry
 
-Ads for brick and mortar casinos that don't lead to online gambling, lotteries or games of skill are OK except where prohibited in our country-specific guidelines.
+Ads for brick and mortar casinos that don't lead to online gambling, lotteries or games of skill are okay except where prohibited in our country-specific guidelines.
 
 With prior permission from Pinterest, ads promoting responsible gambling practices are allowed with restrictions in Canada (refer to country-specific guidelines for details).
 
@@ -2042,28 +2056,28 @@ Table of Contents
 
 - - -
 
-Merchant guidelines enforcement
+Merchant Guidelines enforcement
 ===============================
 
-We believe that when people find great products from trusted merchants, it can empower them to do things they care about. When we approve a merchant, they gain access to Pinterest’s merchant products, such as Catalogs and Product Pins, which are subject to our Merchant guidelines.
+We believe that when people discover great products from trusted merchants, it can support a positive experience on Pinterest. When a merchant is approved, they gain access to Pinterest’s merchant products, such as catalogs and product Pins, which are subject to our Merchant Guidelines. Merchants are also responsible for complying with applicable laws, regulations and industry standards.
 
-When we become aware of a violation of our Merchant guidelines, we’ll take action:
+When we become aware of a violation of our Merchant Guidelines, we’ll take action:
 
-*   **Deactivation**: When we deactivate a Pin, that Pin is no longer available to anyone on the platform. Deactivation can also be referred to as “removal;”
-*   **Limiting distribution**: When we limit the distribution of a Pin, that Pin will continue to be accessible on Pinterest, but it won’t be featured in recommendation or discovery surfaces, such as search results or the home feed; and/or
-*   **Merchant rejection**: If a merchant is rejected at any time, they are denied access to Pinterest’s merchant products.
+*   **Deactivation**: When we deactivate a product Pin, that Pin is no longer available to anyone on Pinterest. Deactivation can also be referred to as “removal;”
+*   **Limiting distribution**: When we limit the distribution of a product Pin, that Pin will continue to be accessible on Pinterest, but it won’t be featured in recommendation or discovery surfaces, such as search results or the home feed; and/or
+*   **Merchant rejection**: If a merchant is rejected or removed at any time, they will be denied or lose access to Pinterest’s merchant products, including catalogs and product Pins.
 
-You can read our full Merchant guidelines [here](https://policy.pinterest.com/merchant-guidelines).
+You can read our full Merchant Guidelines [here](https://policy.pinterest.com/merchant-guidelines).
 
-Advertising guidelines enforcement
+Advertising Guidelines enforcement
 ==================================
 
-We believe promoted content can play a big role in helping people create a life they love, which is why we want ads to be some of the best stuff you see on Pinterest. To that end, our team manually reviews some ads before allowing them to be shown to Pinners — though some ads may be reviewed automatically. For example, our systems may automatically review and approve an ad if it’s submitted by an advertiser with a history of policy compliance.
+We believe promoted content can play an important role in helping people find inspiration on Pinterest, which is why we want ads to be some of the best content you see on Pinterest. To that end, our team reviews some ads before allowing them to be shown to Pinners. This review may be manual or automated, depending on circumstances, including the advertiser’s history of compliance with our policies.
 
-When we become aware of a violation of our Advertising guidelines, we’ll take action:
+When we become aware of a violation of our Advertising Guidelines, we’ll take action:
 
-*   **Rejection**: When an advertisement is rejected, it will not be shown to Pinners. We may reject an ad before ever showing it to anyone, or after the campaign has already begun to run - for example, in response to a report from a Pinner who saw the ad;
-*   **Limited approval**: Limited approval means that an ad may run, but with restrictions - for example, it may only be shown to people in certain regions or to people over a certain age; and/or
-*   **Advertiser removal**: When we remove an advertiser, they no longer have access to Pinterest’s advertising tools. This doesn’t affect their ability to use other Pinterest products, though.
+*   **Rejection**: When an ad is rejected, the ad will not be shown on Pinterest. We may reject an ad before ever showing it to anyone, or after the campaign has already begun to run, for example, in response to a report or as a result of our review processes;
+*   **Limited approval**: In some cases, an ad may run, but with restrictions. For example, it may only be shown to people in certain regions or to people over a certain age; and/or
+*   **Advertiser removal**: When we remove an advertiser, they no longer have access to Pinterest’s advertising tools. This doesn’t affect their ability to use other Pinterest products unless a separate enforcement action is taken under other applicable policies.
 
-You can read our full Advertising guidelines [here](https://policy.pinterest.com/advertising-guidelines).
+You can read our full Advertising Guidelines [here](https://policy.pinterest.com/advertising-guidelines).
