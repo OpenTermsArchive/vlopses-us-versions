@@ -1,9 +1,7 @@
-Community guidelines
+Community Guidelines
 
 
 ========================
-
-_We're updating our Community Guidelines, effective November 12, 2026. You can preview the updated Community Guidelines [here](https://policy.pinterest.com/community-guidelines-preview)._
 
 Our mission
 ===========
@@ -35,7 +33,7 @@ Pinterest isn’t a place for sexual content or visible intimate body parts. We 
 *   Sexual enhancement products.
 *   Non-consensual creation and/or distribution of intimate images including intimate image abuse (referred to as “NCII” or “IBSA”), upskirting, down-blousing and hidden camera images, or the threat to do so (referred to as “sextortion”). We’ve put together [some resources for you](https://help.pinterest.com/article/combating-non-consensual-intimate-imagery) and if you come across NCII, [please report it to us](https://help.pinterest.com/report-ncii).
 
-### Prohibited and regulated goods, services and activities
+### Dangerous goods and activities
 
 Pinterest isn’t a place for offering, manufacturing, or promoting substances, products, activities, or exploitative practices that risk harm to humans or animals. We remove or limit the distribution of such content and accounts, including those involving instructions, offers, glorification, or promotion of:
 
@@ -48,18 +46,16 @@ Pinterest isn’t a place for offering, manufacturing, or promoting substances, 
 *   Firearms, attachments, components, ammunition, and other regulated weapons.
 *   Explosives, chemical or biological weapons
 
-**Harmful or deceptive products and practices**
+**Harmful or prohibited products and practices**
 
-Pinterest isn’t a place for practices and products that may be harmful or deceptive. We remove or limit the distribution of such content and accounts, including instructions, and offers or promotion of:
+Pinterest isn’t a place for practices and products that may be harmful or prohibited. We remove or limit the distribution of such content and accounts, including instructions, and offers or promotion of:
 
 *   Counterfeit products, documents, or currency.
 *   Stolen bank account or other personal information.
-*   Social media or similar accounts and account credentials.
+*   Social media or similar accounts, usernames, or credentials offered for sale, trade, or transfer.
 *   Hacking, cracking or bypassing safety or security measures.
-*   Test cheating services or products.
-*   Products or services for evading detection, enabling deception or privacy violation.
-*   Exploitative financial practices including get-rich-quick schemes.
-*   Online gambling and lotteries.
+*   Products or services for evading detection or privacy violation.
+*   Organic promotion of online gambling, lotteries, and wagering services.
 
 **Dangerous activities**
 
@@ -81,26 +77,28 @@ Pinterest isn’t a place for practices and products that may be harmful or dece
 Pinterest isn’t a place for hateful content or the people and groups that promote hateful activities. We remove or limit the distribution of such content and accounts, including:
 
 *   Slurs or negative stereotypes, caricatures and generalizations
-*   Support for hate groups and people promoting hateful activities, prejudice and conspiracy theories
-*   Condoning or trivializing violence because of a victim’s membership in a vulnerable or protected group
+*   Support for hate groups and people promoting hateful activities, prejudice or conspiracy theories
+*   Condoning or trivializing violence because of a victim’s membership in a protected group
 *   Support for white supremacy, limiting women’s rights and other discriminatory ideas
-*   Hate-based conspiracy theories and misinformation, like Holocaust denial
-*   Denial of an individual’s gender identity or sexual orientation, and support for conversion therapy and related programs
-*   Attacks on individuals including public figures based on their membership in a vulnerable or protected group
-*   Mocking or attacking the beliefs, sacred symbols, movements, or institutions of the protected or vulnerable groups identified below
+*   Hate-based conspiracy theories and misinformation
+*   Denial of an individual’s gender identity or sexual orientation
+*   Attacks on individuals including public figures based on their membership in a protected group
+*   Mocking or attacking the beliefs, sacred symbols, movements, or institutions associated with the protected identified below
 
-Protected and vulnerable groups include: People grouped together based on their actual or perceived race, color, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy or veteran status.
+Protected and vulnerable groups include: People grouped together based on their actual or perceived race, color, caste, ethnicity, immigration status, national origin, religion or faith, sex or gender identity, sexual orientation, disability or medical condition. It also includes people who are grouped together based on lower socio-economic status, age, weight or size, pregnancy status, serious medical condition or veteran status.
 
 ### Harassment and criticism
 
-Pinterest isn’t a place to attack or antagonize individuals or groups of people. We may remove or limit the distribution of content including:
+Pinterest isn’t a place to attack, insult, or antagonize individuals or groups of people. There are good reasons to express criticism, but we may remove or limit the distribution of insulting or harassing content to keep Pinterest a positive, inspiring place. This includes:
 
-*   Cyberbullying.
-*   Content that is synthetically generated or manipulated to degrade and/ or shame.
-*   Shaming people for their bodies or assumed sexual or romantic history.
-*   Sexual remarks about people’s bodies and solicitations or offers of sexual acts
-*   Personal attacks with name-calling, profanity and other insulting language or imagery.
-*   Mocking someone for experiencing sadness, grief, loss or outrage.
+*   Cyberbullying and other targeted harassment.
+*   Manipulated, fabricated, or synthetic content used to degrade, shame, humiliate, or sexualize an identifiable person or group.
+*   Appearance-based degradation and body shaming, including degrading language, humiliating comparisons, or visual highlighting that insults a person’s body, physical features, or overall appearance.
+*   Shaming a person for their actual or perceived sexual or romantic history.
+*   Unwanted sexual harassment, including unsolicited sexual commentary, objectification, and non-commercial sexual advances or solicitations
+*   Personal attacks, including severe name-calling, profanity or other insulting language or imagery directed at a person or identifiable group.
+*   Mocking or shaming someone for experiencing grief, sadness, loss, outrage, illness, trauma, or other personal hardship.
+*   Inciting or encouraging others to target a person or identifiable group with harassment.
 
 We’ve also put together [some resources](https://help.pinterest.com/article/report-harassment-and-cyberbullying) for you to protect yourself.
 
@@ -141,7 +139,7 @@ If you come across unwanted photos of or information about you, you can [report 
 
 **If you or someone you know is struggling with suicidal thoughts or is considering hurting themselves, we have [resources](https://help.pinterest.com/article/suicide-and-self-harm-prevention) in our Help Center where you can get free, confidential and immediate support.**
 
-Pinterest isn’t a place for content that displays, rationalizes or encourages self-harm including suicide, self-injury, eating disorders or substance abuse. We’ll remove or limit the distribution such content, including:
+Pinterest isn’t a place for content that displays, rationalizes or encourages self-harm including suicide, self-injury, eating disorders or substance abuse. We’ll remove or limit the distribution of such content, including:
 
 *   Self-harm instructions
 *   Suicidal thinking and quotes
@@ -158,10 +156,10 @@ Pinterest isn’t a place for content that displays, rationalizes or encourages 
 Pinterest isn’t a place for graphic violence or threatening language. We remove or limit the distribution of such content, including:
 
 *   Content that shows the use of violence
-*   Content showing or purporting to show disturbing scenes from before, during, or after violent events
-*   Threats or language that glorifies violence
+*   Gory content, including graphic images of blood and wounds
+*   Threats, and language that glorifies real-world violence
 
-In a few cases, we allow the saving of disturbing images dedicated to remembrance and advocacy, but limit distribution of such content in public parts of the platform.
+In a few cases, we allow the saving of images of violence when dedicated to remembrance and advocacy, but limit distribution of such content.
 
 ### Violent actors
 
@@ -228,6 +226,23 @@ We allow fan, parody, or commentary accounts for public figures or brands in cer
 
 If you have identified an account you believe to be impersonating you or someone else, you can [report it to us](https://help.pinterest.com/article/report-something-on-pinterest).
 
+### Scams, deceptive goods, and practices
+
+Pinterest isn’t a place for exploitative schemes, coercive tactics, or dishonest offers that trick users out of their money, assets, or sensitive information, or into engaging with harmful content. We also don’t allow our platform to be used to facilitate deceptive commerce or to promote services that enable dishonest behavior. This applies regardless of whether the interaction, exchange, or resulting behavior occurs on Pinterest, is facilitated through our platform, or is finalized elsewhere. We remove or limit the distribution of such content and accounts, including those involving instructions, offers, glorification, or promotion of:
+
+*   Social engineering or impersonation used to obtain sensitive, personal, or account information.
+*   Tools or templates intended to facilitate, automate, or scale scams or deceptive activities.
+*   Exploitative financial or investment schemes promising unrealistic returns or opportunities.
+*   Deceptive offers, grants, prizes, or giveaways.
+*   Fictitious products or services.
+*   Misrepresented goods or services promoted through deceptive or exaggerated claims, unrealistic promises, or misleading pricing.
+*   Synthetically generated or manipulated media used to misrepresent the appearance, efficacy, or nature of a product.
+*   Deceptive redirection used to funnel users toward harmful or unrelated destinations.
+*   Academic or professional dishonesty services intended to bypass testing, certification, or originality standards.
+*   Engagement manipulation, including the artificial inflation of metrics through automated, paid, or incentivized means to mimic authentic activity.
+
+To support our commitment to authenticity and community integrity, we’ve put together some [resources](https://help.pinterest.com/article/report-a-scam) for you to protect yourself from scams on Pinterest.
+
 ### Comments
 
 All of our Community Guidelines apply in comments posted on Pins. In addition, comments should be relevant. We may remove comments that violate our guidelines, including those that contain:
@@ -282,23 +297,41 @@ You can’t use Pinterest if it would be prohibited by [US sanctions](https://ww
 Spam
 ====
 
-We want the inspiration and ideas on Pinterest to be high-quality and useful, so we remove spam when we find it. We ask that you be considerate of others' experiences on Pinterest and don't spread spam or engage in spammy behavior.
+To maintain an environment that empowers inspiration on Pinterest, we remove spam. Users must respect the community by avoiding spreading or engaging with spam content, demonstrating spammy behaviors, or attempting to bypass our anti-spam systems.
 
-Our guidelines around spam are:
+Prohibited activities include:
 
+**Coordinated or scaled activity**
+
+We want activity on Pinterest to be trustworthy, inspirational, and engaging. Coordinated or scaled activity that aims to manipulate search results, flood Pinterest with repetitive content, or otherwise overwhelm our systems violates Spam policy.
+
+*   Don’t operate multiple accounts or coordinate with other people with the purpose of manipulating the Pinterest platform.
 *   Don't use automation that hasn't been explicitly approved by Pinterest. This includes unauthorized services that automatically perform actions on your behalf. You can find information on approved partner tools on our [Partners website](https://business.pinterest.com/pinterest-partners).
-*   Don't create or operate accounts that aren't authentic, create accounts en masse, or create new accounts for the purpose of violating these guidelines.
-*   Don't create or save content that is repetitive, deceptive, or irrelevant in an attempt to make money. To learn how to make great Pins, you can always refer to our [creative best practices](https://business.pinterest.com/creative-best-practices).
-*   In general, don't attempt to make money from Pinners or Pinner web traffic in ways that are misleading, detract from the Pinner experience, or don't add value for Pinners.
-*   Don't link to websites that are unsafe, deceptive, untrustworthy, unoriginal, or that facilitate or encourage spam. Websites should have original content that adds unique value for Pinners.
-*   Don't send repeated, unsolicited messages, especially if your messages are commercial or deceptive in nature.
-*   Don’t make repetitive or irrelevant comments. Comments should be authentic and original. We also ask that you be kind to others by keeping your commentary respectful and constructive.
-*   Don't operate multiple accounts or coordinate with other people with the purpose of manipulating the Pinterest platform.
-*   Don’t use any other unscrupulous tactics to attempt to improperly influence distribution, clicks, or other metrics, including: buying or selling engagement, "stuffing" irrelevant keywords, generating inauthentic traffic, or redirecting existing Pins to new destinations.
-*   Don't attempt to evade our anti-spam systems. For example, don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
-    *   With respect to redirection, we encourage you to follow a “no surprises” principle — Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
 
-Last updated: May 2026
+**Mass comments and messaging**
+
+*   Don't send irrelevant repeated or unsolicited messages, especially if your messages are commercial or deceptive in nature.
+*   Don’t make repetitive or irrelevant comments. Comments should be authentic and original.
+
+**Inauthentic account activity**
+
+Content and activity should remain authentic, helpful, and provide meaningful value to others.
+
+*   Don't create or operate accounts that aren't authentic, create accounts en masse, or create new accounts for the purpose of violating these guidelines.
+*   Don't attempt to make money from Pinners or Pinner web traffic in ways that are misleading, detract from the Pinner experience, or don't add value for Pinners.
+*   Don't create, save, or distribute content that is repetitive, deceptive, or irrelevant in an attempt to make money. To learn how to make great Pins, you can always refer to our [creative best practices](https://business.pinterest.com/creative-best-practices).
+*   Do not create Pins that cause deception or otherwise trick Pinners into engaging.
+*   Don’t use any other dishonest tactics to attempt to improperly influence distribution, clicks, or other metrics, including: buying or selling engagement, "stuffing" irrelevant keywords, or generating inauthentic traffic.
+
+**Harmful domains and deceptive linking**
+
+Websites should have original content that adds unique value for Pinners, including having a reasonable expectation where the link will lead.
+
+*   Don't link to websites that are unsafe, deceptive, untrustworthy, unoriginal, or that facilitate or encourage spam.
+*   Don’t use redirection to attempt to link to a site that is not permitted on Pinterest.
+*   When it comes to Pin links or URLs within user profiles, we encourage you to follow a “no surprises” principle — Pinners should be able to reasonably anticipate where your link will take them. Links that exhibit excessive or deceptive redirection, as well as shortener services that are abused for spam, may be blocked.
+
+Last updated: November 2026
 
 Table of Contents
 -----------------
@@ -311,20 +344,24 @@ Table of Contents
 
 - - -
 
-Community guidelines enforcement
+Community Guidelines enforcement
 ================================
 
-Not everything on the internet is inspiring, so we have [Community Guidelines](https://policy.pinterest.com/community-guidelines) to outline what we do and don’t allow on Pinterest. The following explains how we enforce those guidelines.
+We use our [Community Guidelines](https://policy.pinterest.com/community-guidelines) to define what is and isn't allowed on Pinterest. This page explains how we enforce those guidelines. When we identify content or behavior that violates our Community Guidelines, we promptly take action:
 
-When we become aware of a violation of our Community Guidelines, we’ll take action:
+*   **Deactivation**: When we deactivate content, such as Pins, boards, comments or accounts, that content is no longer available to anyone on Pinterest. Deactivation can also be referred to as “removal;” or
+*   **Limiting distribution**: When we limit the distribution of content, such as a Pin, board or account, it will remain accessible on Pinterest to the person who posted it and to anyone with a direct link, but it will not be recommended or shown to other users through discovery features such as search results, the home feed or related recommendations. In practice, this means the content is much less visible and generally cannot be found by users unless they have a direct link or navigate to it directly.
 
-*   **Deactivation**: When we deactivate content - such as Pins, boards, comments or user accounts - that content is no longer available to anyone on the platform. Deactivation can also be referred to as “removal;” or
-*   **Limiting distribution**: When we limit the distribution of a Pin, board or account, it will continue to be accessible on Pinterest to the user who posted it and to users with a direct link, but it won’t be featured in recommendation or discovery surfaces, such as search results or the home feed.
+We determine whether to remove content or limit its distribution based on how much risk of harm it poses, particularly the severity of its impact and the vulnerability of its target. Depending on the context, content that could be deactivated for violating our Community Guidelines may remain on Pinterest, but we limit its distribution so that people are less likely to come across it accidentally. For example, we may limit distribution of content where it is shared for educational or condemning purposes.
 
-We determine whether content should be removed or limited in distribution based on how much risk of harm it poses, particularly the severity of its impact and the vulnerability of its target. Depending on the context, we may allow content that would typically be deactivated for violating our Community Guidelines to instead remain on Pinterest, but we limit its distribution so that people don’t come across it accidentally. For example, we may limit distribution of content where the context is acceptable (such as condemnation or education).
+We may limit or deactivate boards or accounts for repeated violations of the Community Guidelines, or when they are primarily used to share policy violating content. In some cases, we may also deactivate an account after a single instance of a severe policy violation. We may also deactivate accounts that repeatedly post violating content, including manifestly illegal content, or show signs of repeated misuse of Pinterest.
 
-We may limit or remove boards or accounts for repeated violations of the Community Guidelines or when they are dedicated to a policy violation. We may also remove an account after a single instance of a severe policy violation or if we determine that the account has repeatedly posted illegal content. If we limit or remove a board or account, that action applies to all of the Pins contained on the board or account. For example, if we limit the distribution of a board, all of the Pins on that board will also be limited in distribution. In addition, boards whose distribution has been limited will not be visible when viewing someone else’s profile. If we deactivate an entire account, all of the content (Pins and boards) on that account also are deactivated. In certain circumstances, before an account is deactivated, we may place additional restrictions on its use of Pinterest, such as limiting the account’s ability to post or save content. You can read more about account removals (also known as deactivations or suspensions), [here](https://help.pinterest.com/article/account-suspension).
+If we deactivate an account, the content associated with that account, including any Pins and boards, will no longer be available on Pinterest. In some circumstances, we may impose additional restrictions on an account before deactivation, including limiting the account’s ability to post or save content on Pinterest. If we limit or deactivate a board, any Pins saved on that board will also be limited or deactivated as a result.
 
-We strive to help Pinners find content that is inspirational, relevant and safe. Content that our systems predict may not meet those criteria may be shown less often or less prominently, even if we haven't determined that the content necessarily goes against our Community Guidelines. We may also implement additional product features to improve a Pinner’s experience. For example, we may apply a sensitivity screen in situations where our systems indicate that content might not be appropriate for all audiences. We may also limit certain features on Pins, such as turning off comments or not showing related content, when we think they may be unsafe or when appropriate to protect minors.
+You can read more about account removals, also known as deactivations or suspensions, [here](https://help.pinterest.com/article/account-suspension).
+
+We strive to help Pinners find content that is inspiring, relevant and safe. In some cases, content may be shown less often or less prominently if our systems indicate it may not be suitable for broad distribution, even if we have not determined that the content necessarily goes against our Community Guidelines. We may also implement additional product features to improve a Pinner’s experience. For example, we may apply a sensitivity screen in situations where our systems indicate that content might not be appropriate for all audiences, or provide helplines and additional resources if a Pinner searches for a sensitive topic on Pinterest.
+
+In some cases, we may limit certain features on Pins, such as turning off comments or not showing related content, when we think additional safeguards are appropriate, including to help protect minors and other vulnerable users. You can read more about our teen safety settings [here](https://help.pinterest.com/article/teen-safety-options).
 
 You can read our full Community Guidelines [here](https://policy.pinterest.com/community-guidelines).
