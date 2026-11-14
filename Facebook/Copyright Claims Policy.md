@@ -697,7 +697,7 @@ Related Articles
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 Related Articles
 
@@ -717,7 +717,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -766,7 +766,7 @@ Related Articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
 Related Articles
 
@@ -786,7 +786,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1414,11 +1414,11 @@ Related Articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
+[What to do if someone is harassing you in an app on Facebook](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
+
 [Report Content on Facebook](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
-
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
 
 Related Articles
 
@@ -1430,15 +1430,15 @@ Related Articles
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
+[What to do if someone is harassing you in an app on Facebook
+
+* * *](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
+
 [Report Content on Facebook
 
 * * *](https://www.facebook.com/help/1380418588640631/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook
-
-* * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
-
-[Content I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
+[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1765,17 +1765,21 @@ Copyright generally doesn’t protect facts or ideas, but it may protect the ori
 Related Articles
 ----------------
 
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
-
-[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 Related Articles
+
+[About how long copyright protection lasts
+
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What rights do I have as a copyright owner?
 
@@ -1784,10 +1788,6 @@ Related Articles
 [What are fair use and other exceptions to copyright
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
-
-[About how long copyright protection lasts
-
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [Where can I learn more about copyright?
 
@@ -1837,9 +1837,9 @@ Related Articles
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
 [About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[Copyright](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
@@ -1853,13 +1853,13 @@ Related Articles
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
-[Copyright
-
-* * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
-
 [About how long copyright protection lasts
 
 * * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[Copyright
+
+* * *](https://www.facebook.com/help/1020633957973118/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
@@ -1899,11 +1899,11 @@ Related Articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
@@ -1913,10 +1913,6 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[About how long copyright protection lasts
-
-* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
-
 [What is copyright and what does it protect?
 
 * * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
@@ -1924,6 +1920,10 @@ Related Articles
 [Where can I learn more about copyright?
 
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
+
+[About how long copyright protection lasts
+
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 [What are fair use and other exceptions to copyright](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
 
@@ -2145,11 +2145,11 @@ Related Articles
 
 [What rights do I have as a copyright owner?](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
+[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
 Related Articles
 
@@ -2161,15 +2161,15 @@ Related Articles
 
 * * *](https://www.facebook.com/help/1388077314536976/?helpref=related_articles)
 
+[About how long copyright protection lasts
+
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
 [Where can I learn more about copyright?
 
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work
-
-* * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
-[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2393,7 +2393,7 @@ Related Articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
 Related Articles
 
@@ -2413,7 +2413,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What happens when Facebook removes my content?](https://www.facebook.com/help/260743102021762/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
