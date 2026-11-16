@@ -1243,6 +1243,14 @@ What happens when I submit a trademark report to Meta?
 
 Copy link
 
+What happens after I report?
+
+What is a trademark report?
+
+How do I respond to Meta?
+
+I have a different question
+
 If you submitted a [trademark report](https://www.facebook.com/help/191999230901156?helpref=faq_content) to us through our online form or via email, you’ll receive an automated message that contains information about your report, including a unique report number. You should save this number in case you need to contact us about your report.
 
 Sometimes, we might respond to your report and ask for more information. If you receive a message from our team you should respond directly to that message. Your response will be received by our team so they can continue to look into your report.
@@ -1289,6 +1297,13 @@ Related Articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -1395,9 +1410,9 @@ If you believe an app developer isn’t following the Facebook [Terms of Service
 Related Articles
 ----------------
 
-[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
 [What to do if someone is harassing you in an app on Facebook](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
 
@@ -1407,13 +1422,13 @@ Related Articles
 
 Related Articles
 
-[Report an app or game on Facebook
-
-* * *](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
-
 [Repeated intellectual property infringement on Facebook
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
+
+[Report an app or game on Facebook
+
+* * *](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
 [What to do if someone is harassing you in an app on Facebook
 
