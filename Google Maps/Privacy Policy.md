@@ -420,7 +420,7 @@ Some U.S. state privacy laws also require a description of data practices using 
 
 **Communications data**, such as emails, if you [use our services to send and receive messages](https://policies.google.com/privacy?hl=en#footnote-calls-messages).
 
-**Health information** if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other [similar information related to your physical or mental health](https://policies.google.com/privacy?hl=en#footnote-physical-or-mental-health), in the course of using Google services that offer health-related features, such as the [Google Health Studies app, Fitbit, or Pixel devices.](https://health.google/consumers/health-studies/?hl=en&hl=en).
+**Health information** if you choose to provide it, such as your medical history, vital signs and health metrics (like blood glucose levels), and other [similar information related to your physical or mental health](https://policies.google.com/privacy?hl=en#footnote-physical-or-mental-health), in the course of using Google services that offer health-related features, such as the [Google Health Studies app, Fitbit, or Pixel devices.](https://health.google/consumers/health-studies/?hl=en).
 
 **Professional, employment, and education information**, such as information [you provide](https://myaccount.google.com/profile?hl=en) or that is maintained through an organization using Google services at which you study or work.
 
