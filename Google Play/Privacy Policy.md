@@ -58,8 +58,6 @@ Personal and sensitive user data includes, but isn't limited to, personally iden
 | Only collect and use data that is necessary for your app's functionality. | Don't collect data without the user's consent or manipulate them into giving it. |
 | Allow account deletion. This must be available both in-app and on an external web resource. | Don't neglect account deletion. Provide a clear and easy way for users to delete their accounts and data. Account freezing is not a valid substitute. |
 
-* * *
-
 Prominent Disclosure & Consent Requirement
 ------------------------------------------
 
