@@ -50,13 +50,11 @@ A trademark is a word, slogan, symbol or design (example: brand name, logo) that
 Trademark
 =========
 
+What is a trademark?
+
 How do I report trademark infringement?
 
-What does trademark protect?
-
-How do I avoid trademark infringement?
-
-What is Brand Rights Protection?
+How does Brand Rights Protection work?
 
 I have a different question
 
@@ -141,8 +139,6 @@ What is a trademark?
 What do trademarks protect?
 
 How do trademarks work?
-
-How do I report a trademark violation?
 
 I have a different question
 
@@ -411,9 +407,9 @@ Copy link
 
 What is trademark protection?
 
-How long do trademark rights last?
-
 How do I lose trademark rights?
+
+How long do trademark rights last?
 
 I have a different question
 
@@ -607,7 +603,9 @@ What is copyright?
 
 What is trademark?
 
-What is intellectual property?
+How does copyright protect content?
+
+How does trademark protect brands?
 
 I have a different question
 
@@ -1032,9 +1030,7 @@ How do I report a Facebook username?
 
 What is Facebook trademark infringement?
 
-How do I contact a Facebook user?
-
-What are Facebook username rules?
+How do I contact the username owner?
 
 I have a different question
 
@@ -1245,7 +1241,7 @@ Copy link
 
 What happens after I report?
 
-What is a trademark report?
+What information is shared?
 
 How do I respond to Meta?
 
@@ -1317,11 +1313,11 @@ Copy link
 
 How do I report an ad?
 
-How do I report Facebook copyright?
+What is Brand Rights Protection?
 
-How do I report Facebook trademark?
+How do I report copyright infringement?
 
-How do I report Facebook counterfeit?
+How do I report trademark infringement?
 
 I have a different question
 
@@ -1412,7 +1408,7 @@ Related Articles
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
+[How to report an app or game on Facebook](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
 [What to do if someone is harassing you in an app on Facebook](https://www.facebook.com/help/219438578084704/?helpref=related_articles)
 
@@ -1426,7 +1422,7 @@ Related Articles
 
 * * *](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
-[Report an app or game on Facebook
+[How to report an app or game on Facebook
 
 * * *](https://www.facebook.com/help/117257561692875/?helpref=related_articles)
 
@@ -1944,13 +1940,11 @@ About how long copyright protection lasts
 
 Copy link
 
-When does copyright expire?
+What is copyright protection?
 
 What is the public domain?
 
-How do copyright terms vary?
-
-Can I use public domain works?
+How long does copyright last?
 
 I have a different question
 
@@ -2094,7 +2088,7 @@ What are fair use and other exceptions to copyright
 
 Copy link
 
-What is fair use?
+What is fair use copyright?
 
 What are copyright exceptions?
 
@@ -2359,9 +2353,7 @@ More
 
 What happens to removed content?
 
-How do I appeal removed content?
-
-How do I contact the rights owner?
+How do I appeal content removal?
 
 What is intellectual property infringement?
 
@@ -2436,9 +2428,9 @@ What is a DMCA counter-notification?
 
 How do I file a DMCA counter-notification?
 
-What happens after a counter-notification?
+What happens after I file a counter-notification?
 
-How long does a DMCA process take?
+How long does a DMCA counter-notification take?
 
 I have a different question
 
@@ -2571,11 +2563,13 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
-What is a DMCA claim?
+How do I contact Meta DMCA?
 
-How do I report copyright infringement?
+How do I send a DMCA claim?
 
-How do I contact Meta's DMCA agent?
+What is Meta's DMCA agent address?
+
+How do I submit a complete copyright claim?
 
 I have a different question
 
@@ -2642,13 +2636,13 @@ What information you need to include in a copyright report to Meta
 
 Copy link
 
-What to include in a copyright report?
+What information do I need?
 
-What is a copyright report?
+How do I submit a copyright report?
 
-How do I report copyright infringement?
+What happens after I report?
 
-What happens after a copyright report?
+What is copyright infringement?
 
 I have a different question
 
@@ -2788,13 +2782,11 @@ What happens when you submit a copyright report to Meta
 
 Copy link
 
-What happens to my copyright report?
+What happens after a copyright report?
 
-What is a copyright report number?
+What information is shared?
 
-What information does Meta share?
-
-How do I respond to Meta about a report?
+How do I respond to Meta?
 
 I have a different question
 
