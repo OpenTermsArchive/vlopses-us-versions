@@ -930,6 +930,8 @@ Applicable U.S. State Data Protection Laws
 
 The following laws and regulations are included as “**Applicable U.S. State Data Protection Laws**” or “**US State Privacy Laws**” in accordance with the term as it is defined in the agreement referencing this page:
 
+*   Alabama Personal Data Protection Act, Act No. 2026-552, § 3, 2026 Ala. Laws. \[Effective May 1, 2027\]
+
 *   California Consumer Privacy Act of 2018, as amended, including as amended by the California Privacy Rights Act of 2020, Cal. Civ. Code § 1798.100 et seq. (as amended by Proposition 24, effective December 16, 2020), together with all implementing regulations (the “CCPA”)
 
 *   Colorado Privacy Act, Colo. Rev. Stat. § 6-1-1301 et seq., together with all implementing regulations
@@ -940,13 +942,15 @@ The following laws and regulations are included as “**Applicable U.S. State Da
 
 *   Florida Digital Bill of Rights, Fla. Stat. § 501.701 et seq.
 
-*   Indiana Consumer Data Protection Act, Ind. Code § 24-15-1 et seq. \[Effective Jan. 1, 2026\]
+*   Indiana Consumer Data Protection Act, Ind. Code § 24-15-1 et seq.
 
 *   Iowa Consumer Data Protection Act, Iowa Code § 715D.1 et seq.
 
-*   Kentucky Consumer Data Protection Act, KRS § 367.3611 et seq. \[Effective January 1, 2026\]
+*   Kentucky Consumer Data Protection Act, KRS § 367.3611 et seq.
 
-*   Maryland Online Data Privacy Act of 2024, MD. Commercial Law Code § 14-4701, et seq. \[Effective October 1, 2025\]
+*   Louisiana Data Privacy Act, La. R.S. 51:1780.1 et seq. \[Effective Jan. 1, 2027\]
+
+*   Maryland Online Data Privacy Act of 2024, MD. Commercial Law Code § 14-4701, et seq.
 
 *   Minnesota Consumer Data Privacy Act, Minn. Stat §325O.01 et seq.
 
@@ -958,9 +962,11 @@ The following laws and regulations are included as “**Applicable U.S. State Da
 
 *   New Jersey Privacy Act, N.J. Stat. § 56:8-166.4 et seq.
 
+*   Oklahoma Consumer Data Privacy Act, 75A Okla. Stat. §§ 300 to 315 \[Effective Jan. 1, 2027\]
+
 *   Oregon Consumer Privacy Act, Or. Rev. Stat. § 646A.570 et seq.
 
-*   Rhode Island Data Transparency and Privacy Protection Act, R.I. Gen. Laws § 6-48.1-1 et seq. \[Effective January 1, 2026\]
+*   Rhode Island Data Transparency and Privacy Protection Act, R.I. Gen. Laws § 6-48.1-1 et seq.
 
 *   Tennessee Information Protection Act, Tenn. Code § 47-18-3201 et seq.
 
@@ -968,6 +974,8 @@ The following laws and regulations are included as “**Applicable U.S. State Da
 
 *   Utah Consumer Privacy Act, Utah Code § 13-61-101 et seq.
 
+*   Vermont Data Privacy and Online Surveillance Act, 9 V.S.A. ch. 61A, subch. 1, §§ 2415a et seq. \[Effective Jan. 1, 2028\]
+
 *   Virginia’s Consumer Data Protection Act, Va. Code § 59.1-575 et seq.
 
-_Last updated July 1, 2025_
+_Last updated November 17, 2026_
