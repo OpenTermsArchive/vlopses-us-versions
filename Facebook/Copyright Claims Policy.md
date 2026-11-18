@@ -764,7 +764,7 @@ Related articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
 
 Related articles
 
@@ -784,7 +784,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1515,14 +1515,6 @@ Facebook removed content as a result of my trademark report. What information is
 
 Copy link
 
-What information is sent?
-
-What is a trademark report?
-
-How do I appeal removed content?
-
-I have a different question
-
 When we receive [trademark reports](https://www.facebook.com/help/191999230901156?helpref=faq_content) and remove the reported content, we typically provide the person who posted the content with the following information:
 
 *   Report number
@@ -1567,13 +1559,6 @@ Related articles
 * * *](https://www.facebook.com/help/303715969677454/?helpref=related_articles)
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
@@ -2393,7 +2378,7 @@ Related articles
 
 [What to do if Facebook didn't remove content you reported](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
 
 Related articles
 
@@ -2413,7 +2398,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/134552198624586/?helpref=related_articles)
 
-[How to appeal content removed from Facebook for trademark reasons](https://www.facebook.com/help/561080341172839/?helpref=related_articles)
+[What you should consider before submitting a report of intellectual property infringement to Facebook](https://www.facebook.com/help/1703586166530507/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2571,6 +2556,16 @@ How do I contact Meta's Digital Millennium Copyright Act (DMCA) designated agent
 
 Copy link
 
+How do I contact Meta DMCA?
+
+How do I send a DMCA claim?
+
+What is Meta's DMCA agent address?
+
+How do I submit a complete copyright claim?
+
+I have a different question
+
 The fastest and easiest way to send a DMCA report of copyright infringement to our designated agent is to [contact Meta](https://www.facebook.com/help/325058084212425?helpref=faq_content).
 
 If you wish to contact out designated agent via other (and slower) methods, you can contact:
@@ -2616,6 +2611,13 @@ Related articles
 * * *](https://www.facebook.com/help/1269666141338507/?helpref=related_articles)
 
 [Telecommunications Business Act (TBA)](https://www.facebook.com/help/390717618710100/?helpref=related_articles)
+
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
 
 - - -
 
