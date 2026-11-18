@@ -38,7 +38,7 @@ Apple collects information about how you use the Apple Store app, interact with 
 
 Virtual Shopping Assistant
 
-Where the Apple Store app virtual shopping assistant is available, Apple collects and stores your account information, device identifiers, carrier information, chat information, and where enabled, location data to personalize the chat experience, provide relevant responses, and if you opt in, to improve the virtual shopping assistant. Before sharing the chat with our partners, Apple scrubs personal identifiers from it. These partners will use this information only to help Apple to provide a conversational response. Apple will save these transcripts to make them available when you return to the Apple Store app, for our business analytics, and if you opt in, to improve the virtual shopping assistant. You can control whether your use of the virtual shopping assistant will be used to improve the experience by going to Account > Settings and tapping Chat Improvements within the Apple Store app. If you have questions about how your personal data is used as it relates to the virtual shopping assistant, or you would like to reach our Data Protection Officer, you can contact us at [www.apple.com/legal/privacy/contact](http://www.apple.com/legal/privacy/contact).
+Where the Apple Store app virtual shopping assistant is available, Apple collects and stores your account information, device identifiers, carrier information, chat information, and where enabled, location data to personalize the chat experience, provide relevant responses, and if you opt in, to improve the virtual shopping assistant. After removing personal identifiers from your chat, Apple will share elements of the transcript with our technical providers to generate a more natural conversational response. Apple will save these transcripts to make them available when you return to the Apple Store app, for our business analytics, and if you opt in, to improve the virtual shopping assistant. You can control whether your use of the virtual shopping assistant will be used to improve the experience by going to Account > Settings and tapping Chat Improvements within the Apple Store app. If you have questions about how your personal data is used as it relates to the virtual shopping assistant, or you would like to reach our Data Protection Officer, you can contact us at [www.apple.com/legal/privacy/contact](http://www.apple.com/legal/privacy/contact).
 
 Communicating with You
 
@@ -76,6 +76,8 @@ We also collect personal data to prevent fraud and other malicious activity in t
 
 We also compute a device trust score on your device when you attempt a purchase using information about how you use your device, including the approximate number of phone calls or emails you send and receive. The submission is designed so Apple cannot learn the underlying values on your device. The score is stored for a fixed time on our servers.
 
+If you enable sharing of Impersonation Risk Detection signals, when you attempt specific types of activities within the Apple Store app that could put you at enhanced risk of an active scam, such as making a transaction, the Apple Store app can request Impersonation Risk Detection signals to help the app decide whether your actions are likely yours. You can disable this functionality at any time on your iOS device by going to Settings > Privacy & Security > Impersonation Risk Detection. You will also be able to see whether the Apple Store app has recently requested Impersonation Risk Detection signals, and for what purposes.
+
 At all times, information collected by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at [www.apple.com/privacy](http://www.apple.com/privacy).
 
-2026-07-22
+2026-11-17
