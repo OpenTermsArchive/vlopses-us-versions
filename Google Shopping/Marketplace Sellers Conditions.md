@@ -4835,39 +4835,45 @@ Overview of our Product Ratings policies
 
 Our Product Ratings policies are in place to prevent fraudulent, irrelevant, and inappropriate content from being displayed to users. To participate in Product Ratings by uploading a feed of reviews, you must have a minimum of 50 reviews in your Product Ratings feed and follow all policies.
 
+**Tip**: To upload your initial review feed easily, navigate directly to the “Reviews” tab in Merchant Center and drop your file into the file upload section.
+
 Make your Product Ratings display accurate by:
 
-*   Enable the Product Ratings program for your Merchant Center account. Learn more [About Product Ratings](https://support.google.com/merchants/answer/14620705).
 *   Include unique product identifiers (UPIs) such as [GTIN `[gtin]`](https://support.google.com/merchants/answer/6324461) (highly recommended), or [MPN `[mpn]`](https://support.google.com/merchants/answer/6324482) and [brand `[brand]`](https://support.google.com/merchants/answer/6324351) in your product feed. These identifiers must be consistent between your product feed and your reviews feed.
 *   Regularly check your product review feed for errors and ensure it meets Google's policies and format requirements.
 *   If you use a third-party review aggregator, coordinate with them to ensure proper feed submission and identifier alignment. A high match rate between products and reviews is crucial for ratings to display correctly.
 
+Follow these steps to enable the Product Ratings program in your Merchant Center account:
+
+1.  In your Merchant Center account, select “Reviews” from the navigation menu.
+2.  Select **Join Product Reviews**, and upload your feed.
+
 Our Product Ratings policies cover 5 broad areas:
 
-*   [**Comprehensive Updates**](#Share_reviews_with): Retailers must share all their reviews with Google through monthly updates
-*   [**Content Policies**](#Review_policies): All reviews must follow Google’s content policies. We may remove reviews or block entire feeds that violate these policies.
+*   [**Comprehensive updates**](#Share_reviews_with): Retailers must share all their reviews with Google through monthly updates
+*   [**Content policies**](#Review_policies): All reviews must follow Google’s content policies. We may remove reviews or block entire feeds that violate these policies.
 *   [**Quality**](#Review_quality): Review feeds should be of high quality
 *   [**Ownership**](#Review_collection): Review feeds should be collected and owned by retailers
-*   [**User-Generated Images**](#User_generated_reviews): images must adhere to Google’s content and quality policies as well as formatting criteria.
+*   [**User-generated images**](#User_generated_reviews): Images must adhere to Google’s content and quality policies as well as formatting criteria.
 
 ### How do we enforce our policies
 
-We use a combination of automated and human evaluation to ensure that content and reviews comply with our policies. Our enforcement technologies use machine-learning algorithms to help protect our merchants and users by keeping our shopping platforms safe.
+We use a combination of automated and human evaluation to ensure that content and reviews comply with our policies. Our enforcement technologies use machine-learning algorithms and automated domain verification to help protect our merchants and users by keeping our shopping platforms safe.
 
-Our specially trained experts review and evaluate more complex cases who conduct evaluations that might be difficult for algorithms to perform alone.
+More complex, nuanced, or severe cases are reviewed and evaluated by our specially trained experts who conduct content evaluations that might be difficult for algorithms to perform alone, for example, because an understanding of the context of the piece of content is required.
 
 We take action on content and reviews that violate our policies. This may include disapproving content or suspending accounts for repeated or egregious violations. We take repeat violations of our policies seriously. Repeated offenses will be met with more severe enforcement.
 
 Upon request, we’ll sometimes remove content under applicable laws or in response to a court order. You can submit legal requests [here](https://support.google.com/legal/troubleshooter/1114905).
 
-We will provide you with information on our decision for any policy violation enforcement actions we take. If your content is disapproved, you can fix the issue and [request a review or disagree with the decision](https://support.google.com/merchants/answer/14620735). If the disapproval remains and you’re uncertain about how to proceed, contact us for support.
+We'll provide you with information on our decision for any policy violation enforcement actions we take. If your content is disapproved, you can fix the issue and [request a review or disagree with the decision](https://support.google.com/merchants/answer/14620735). If the disapproval remains and you’re uncertain about how to proceed, contact us for support.
 
 * * *
 
 Share reviews with Google through monthly updates
 -------------------------------------------------
 
-In order to provide shoppers with a transparent and comprehensive experience, you are required to share all your product reviews with Google, including low-star reviews, unless specifically instructed otherwise.
+In order to provide shoppers with a transparent and comprehensive experience, you're required to share all your product reviews with Google, including low-star reviews, unless specifically instructed otherwise.
 
 At a minimum, you need to send your full reviews feed at least one time a month, if not more frequently. We’ve found that the more recent the reviews, the more relevant they are to shoppers researching a product. You may not delete old reviews from the feed.
 
@@ -4881,24 +4887,24 @@ Review feeds must adhere to content policies
 All reviews must follow Google’s content policies. We may remove reviews or block entire feeds that violate these policies.
 
 *   **Conflict of interest**: Reviews are most valuable when they are honest and unbiased. We remove reviews that we believe have conflicts of interest and/or have been written by employees or people with a vested interest in the product. Only submit reviews that were honestly solicited from customers who made a purchase.
-*   **Incentivized reviews**: We may display reviews that have been obtained through incentives, such as gift cards or discounts. However, these incentives cannot be dependent on the sentiment of the review. If you provide an incentive for a review, you are required to use the `<is_incentivized_review>` attribute in your feed to properly disclose it.
+*   **Incentivized reviews**: We may display reviews that have been obtained through incentives, such as gift cards or discounts. However, these incentives cannot be dependent on the sentiment of the review. If you provide an incentive for a review, you're required to use the `<is_incentivized_review>` attribute in your feed to properly disclose it.
 *   **Spam**: We don’t allow spam content. Ensure any content known to contain irrelevant, repetitive, or nonsensical text is marked as spam in your feed using the `[<is_spam>](https://developers.google.com/product-review-feeds/schema#review)` attribute.
 *   **Dangerous products or acts**: Don’t submit reviews of regulated products that can cause damage, harm, or injury. For example, don’t submit reviews of guns, tobacco products, or regulated drugs. Additionally, don’t include content that depicts or provides instructions to complete activities that are dangerous and/or widely illegal.
 *   **Phone numbers, email addresses or URLs**: Don't submit phone numbers, email addresses and links to other websites in the review content.
 *   **Personal and confidential information**: Don't submit reviews that contain personal information, including but not limited to full names, credit card information, national insurance number, driving license information, and others.
 *   **Keep it clean**: Don’t submit reviews that use obscene, profane, or offensive language or include content that depicts scenes of violence, serious injury or death, contains personal attacks, or are defamatory.
-*   **Illegal content**: Don't submit reviews that contain or link to unlawful content, such as links that facilitate the sale of prescription drugs without a prescription, illegal drugs, counterfeit products, or illicit weapons. This content is not allowed.
-*   **Malware & Phishing**: Don’t submit reviews containing links to malware, viruses, or other harmful software. We don't allow phishing or other content that harms or interferes with the operation of the networks, servers, or other infrastructure of Google or others.
+*   **Illegal content**: Don't submit reviews that contain or link to unlawful content, such as links that facilitate the sale of prescription drugs without a prescription, illegal drugs, counterfeit products, or illicit weapons. This content isn't allowed.
+*   **Malware and phishing**: Don’t submit reviews containing links to malware, viruses, or other harmful software. We don't allow phishing or other content that harms or interferes with the operation of the networks, servers, or other infrastructure of Google or others.
 *   **Copyrighted content**: Don't submit reviews that infringe on others' rights, including copyright. For more information or to file a Digital Millennium Copyright Act (DMCA) request, review our [copyright procedures](https://support.google.com/legal/troubleshooter/1114905).
 *   **Trademark infringement**: Don’t submit content that uses a trademark in a way that’s likely to cause confusion about the origin of the product being reviewed.
 *   **Plagiarism**: Don’t submit reviews containing appropriation of content created by another person or entity.
-*   **Automated Content**: We don’t allow reviews that are primarily generated by an automated program or artificial intelligence application. If you have identified such content, it should be marked as spam in your feed using the `[<is_spam>](https://developers.google.com/product-review-feeds/schema#review)` attribute.
-*   **Sexually explicit material**: Don't submit reviews that contain sexually explicit material. We also don't allow reviews that sexually exploit children or present them in a sexual manner. For this type of content, we remove the review, shut down the product reviews feed, and send a report to the National Center for Missing & Exploited Children (NCMEC) and to law enforcement. This content is not allowed.
-*   **Hate speech**: Don't submit reviews that advocate against groups of people based on their race or ethnic origin, nationality, religion, disability, gender, age, veteran status, sexual orientation, or gender identity. Violent language, terrorist content, or content intended to incite and encourage violent acts or extremist behavior, are not allowed in reviews.
+*   **Automated content**: We don’t allow reviews that are primarily generated by an automated program or artificial intelligence application. If you have identified such content, it should be marked as spam in your feed using the `[<is_spam>](https://developers.google.com/product-review-feeds/schema#review)` attribute.
+*   **Sexually explicit material**: Don't submit reviews that contain sexually explicit material. We also don't allow reviews that sexually exploit children or present them in a sexual manner. For this type of content, we remove the review, shut down the product reviews feed, and send a report to the National Center for Missing & Exploited Children (NCMEC) and to law enforcement. This content isn't allowed.
+*   **Hate speech**: Don't submit reviews that advocate against groups of people based on their race or ethnic origin, nationality, religion, disability, gender, age, veteran status, sexual orientation, or gender identity. Violent language, terrorist content, or content intended to incite and encourage violent acts or extremist behavior, aren't allowed in reviews.
 *   **Cross promotion of other products/websites**: We don’t allow reviews that include promotional content for other unrelated websites, products, or services. If you have identified such content, it should be marked as spam in your feed using the `<is_spam>` attribute.
 *   **Off-topic reviews**: We may remove reviews that primarily seek to discuss other topics unrelated to the product itself. This includes comments about shipping and delivery, experiences with particular retailers, political or social controversy, attacks on others, or don't represent a first-hand experience with the product. This also includes merchant responses to reviewer comments.
 *   **Impersonation**: We don't allow reviews from people claiming to be someone that they aren't.
-*   **Language**: Reviews should be submitted in the original language they are written in. Google will display reviews in the original language with an option on the Shopping page to be translated to the user’s language.
+*   **Language**: Reviews should be submitted in the original language they're written in. Google will display reviews in the original language with an option on the Shopping page to be translated to the user’s language.
 *   **Duplicate content**: Each review should only appear in one feed and only once in that feed. If a review applies to multiple variations of a product, this should be designated by including multiple [unique product identifiers](https://support.google.com/merchants/answer/160161) and URLs with the review. The same review shouldn't appear in feeds from different retailers. The retailer should own the review and shouldn't send Google content syndicated from other sources. In the case of duplicate reviews in multiple feeds, we may blocklist one or more of the reviews or entire feeds.
 
 * * *
@@ -4923,7 +4929,7 @@ Our program policies don't allow you to convert a review system with fewer than 
 Review feeds should be collected and owned by retailers
 -------------------------------------------------------
 
-You must collect and own the reviews you share with Google. You can share reviews directly or through an [approved third-party aggregator](https://support.google.com/merchants/answer/14620160), but we don't accept reviews syndicated from other sources.
+You must collect and own the reviews you share with Google. You can share reviews directly or through an [approved third-party aggregator](https://support.google.com/merchants/answer/14620160), but we don't accept reviews syndicated from other sources. If you work with an approved aggregator, you must submit your reviews through them to prevent duplicate submissions and preserve consumer review authenticity standards.
 
 There are a few exceptions to this policy:
 
@@ -4933,12 +4939,12 @@ There are a few exceptions to this policy:
 
 * * *
 
-User generated images in product reviews
+User-generated images in product reviews
 ----------------------------------------
 
 Feeds can contain images owned and submitted by users for product reviews. User owned and generated images must adhere to Google’s content and quality policies mentioned previously as well as formatting criteria.
 
-Image style - Formatting Do’s and Don'ts
+Formatting do's and don'ts for image styles
 
 | **Do** | **Don't** |
 | --- | --- |
@@ -4952,11 +4958,11 @@ Users can provide feedback on images they feel are irrelevant, low quality, and 
 
 To report an image:
 
-1.  Select the"**Feedback**" option.
+1.  Select the **Feedback** option.
 2.  Select the reason most closely matching your feedback.
 3.  Select the **Submit** button.
 
-**Note:** Photos taken in private residences, publicly inaccessible locations, or in other private locations shouldn't be published without the owner’s consent. Don't publish photos in which people are identifiable without their permission.
+**Note**: Photos taken in private residences, publicly inaccessible locations, or in other private locations shouldn't be published without the owner’s consent. Don't publish photos in which people are identifiable without their permission.
 
 * * *
 
@@ -4966,6 +4972,13 @@ Request a review for your Product Ratings issues
 If your content is disapproved and you’ve fixed the issue or you disagree with the issue, [you can request a review](https://support.google.com/merchants/answer/13791045). If the review is successful, your issue will disappear. If the disapproval remains and you’re uncertain how to proceed, contact us for support.
 
 If you’re working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review.
+
+### Related links
+
+*   [Google Transparency Report](https://www.google.com/transparencyreport/)
+*   [AI Transparency in ads](https://support.google.com/My-Ad-Center-Help/answer/17196133)
+*   [List of advertising codes](https://support.google.com/adspolicy/answer/11108174)
+*   [Understanding Google Ads country restrictions](https://support.google.com/google-ads/answer/6163740)
 
 - - -
 
