@@ -134,9 +134,9 @@ Tagged in
 Related articles
 ----------------
 
+*   [How LinkedIn uses data from others for ads](https://www.linkedin.com/help/linkedin/answer/a7157083)
+*   [Digital Services Act transparency disclosures](https://www.linkedin.com/help/linkedin/answer/a1678508)
 *   [Control your public LinkedIn profile](https://www.linkedin.com/help/linkedin/answer/a528138)
-*   [Report inappropriate content, messages, or safety concerns](https://www.linkedin.com/help/linkedin/answer/a1378278)
-*   [Manage shared content and profile activity](https://www.linkedin.com/help/linkedin/answer/a1342513)
 
 - - -
 
