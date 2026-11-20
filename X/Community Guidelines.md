@@ -4854,7 +4854,7 @@ We’ve developed a set of tools that enable people to control what they see on 
 3\. Quality and safety ranking
 ------------------------------
 
-We are constantly working on improving core parts of the \>x< experience, including the timeline, conversations, and [search](https://help.x.com/content/help-twitter/en/using-twitter/twitter-search) so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.
+We are constantly working on improving core parts of the \>x< experience, including the timeline, conversations, and [search](https://help.x.com/en/using-x/x-search) so that people see content that they are most interested in and contributes to the conversation in a meaningful way, such as content that is relevant, credible, and safe.
 
 We have also developed "safe search" functionality which removes posts that contain potentially sensitive content and posts from blocked and muted accounts from search results. As part of this, our team has been working on identifying and collapsing potentially abusive and low-quality replies so the most relevant conversations are brought forward. These post replies are still accessible to those who seek them out.
 
