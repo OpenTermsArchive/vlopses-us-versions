@@ -1,8 +1,6 @@
 Terms of Service
 ================
 
-We're updating our Terms of Service on 20 January 2027. By using our products or services after 20 January 2027, you agree to the updated Terms. [Read the new Terms.](https://mbasic.facebook.com/legal/terms/plain_text_terms/)
-
 Explore the policy
 ------------------
 
