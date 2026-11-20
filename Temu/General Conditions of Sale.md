@@ -208,6 +208,7 @@ Customer service
 *   [Shipping info](https://www.temu.com/shipping-info.html)
 *   [Recalls and product safety alerts](https://www.temu.com/recalls-and-alerts-pre-page.html)
 *   [Report suspicious activity](https://www.temu.com/bgch_report_suspicious.html)
+*   [Minimum Order Value](https://www.temu.com/common-policy.html)
 *   [Prohibited Product List](https://www.temu.com/common-policy.html)
 
 Help
