@@ -78,11 +78,6 @@ Repeat infringers
 
 It’s our policy—in appropriate circumstances and at our discretion—to disable or terminate the accounts of people who repeatedly infringe or are repeatedly charged with infringing copyrights or other intellectual property rights. Users whose Pins are removed pursuant to a copyright infringement notification receive strikes towards Pinterest’s repeat infringer policy.
 
-Appeal a copyright strike
-=========================
-
-If one of your Pins was removed based on a copyright infringement report and you cannot, or do not want to, make the representations necessary to submit a counter notification but think that circumstances warrant removing a copyright strike, you can provide detail on the circumstances by appealing a copyright strike. We will review your appeal and take appropriate action.
-
 Content Claiming Portal
 =======================
 
@@ -99,5 +94,4 @@ Table of Contents
 *   [What if my content is removed based on a copyright infringement report?](https://policy.pinterest.com/en/copyright#section-what-if-my-content-is-removed-based-on-a-copyright-infringement-report)
 *   [How to file a counter notification](https://policy.pinterest.com/en/copyright#section-how-to-file-a-counter-notification)
 *   [Repeat infringers](https://policy.pinterest.com/en/copyright#section-repeat-infringers)
-*   [Appeal a copyright strike](https://policy.pinterest.com/en/copyright#section-appeal-a-copyright-strike)
 *   [Content Claiming Portal](https://policy.pinterest.com/en/copyright#section-content-claiming-portal)
