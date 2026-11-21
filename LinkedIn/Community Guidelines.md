@@ -134,9 +134,9 @@ Tagged in
 Related articles
 ----------------
 
+*   [Digital Services Act transparency disclosures](https://www.linkedin.com/help/linkedin/answer/a1678508)
 *   [European Media Freedom Act Declarations](https://www.linkedin.com/help/linkedin/answer/a8075194)
 *   [How LinkedIn uses data from others for ads](https://www.linkedin.com/help/linkedin/answer/a7157083)
-*   [Digital Services Act transparency disclosures](https://www.linkedin.com/help/linkedin/answer/a1678508)
 
 - - -
 
