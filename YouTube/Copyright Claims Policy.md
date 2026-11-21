@@ -285,15 +285,14 @@ Keep in mind that you should only dispute a claim **if you're confident that you
 Submit a dispute
 ----------------
 
-To dispute a Content ID claim:
+To dispute a copyright claim:
 
 1.  Sign in to [YouTube Studio](https://studio.youtube.com/).
-2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/fqJ4T-KBHjW7EvgvxUdbUqsQ2IfjbnZxtqtfav2U81ZxNkg2gPKjOpi7UX0sqUD0puw=w48-h48).
+2.  From the left menu, select **Content** ![](//lh3.googleusercontent.com/qItGPbFUHJGQ1Z-IeD_qWMJQVK_3_7sVUZ3kvj3r0G9C1LAtMixtq_1XMqc0alqu8Pgl=h36).
 3.  In the **Videos** tab, find the video with the claim you want to dispute.
-    *   To find the video more easily, you can click the filter bar ![](//lh3.googleusercontent.com/ECoJ4xd-fTvv6V7kGAOIqfW3iCIpeYaJuNngp4m5Re4EKG6IjcDZc00dNneVQOcdFVD8=w36-h36) ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Claims**.
-4.  In the **Restrictions** column, hover over **Claims**.
-5.  Click **See details**.
-6.  Under the **Content used**, find the relevant claim and click **Take action** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Dispute**.
+4.  Hover over the notice in the **Notices** column.
+5.  Click **View details** to open the Claim overview page.
+6.  Find the relevant claim and click **Take action** ![and then](//lh3.googleusercontent.com/_KZw6iFLPOiYyWMg4YA4SL-ec-Eitj91jD29eyhArvOWBOlmDYcgi9Dj973hpW0oDEA=w48-h48) **Dispute**.
 
 **Note:** You may have an option to **Escalate to Appeal** for copyright claims that block your video. This option skips the initial dispute step and starts the dispute process with an [appeal](https://support.google.com/youtube/answer/12104471). Learn more about the [Escalate to Appeal](https://support.google.com/youtube/answer/12104471#escalate) option.
 
