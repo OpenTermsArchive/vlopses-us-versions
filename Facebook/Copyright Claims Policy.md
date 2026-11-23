@@ -1150,14 +1150,6 @@ What information do I need to include in a trademark report to Meta?
 
 Copy link
 
-What information do I include?
-
-What is a trademark report?
-
-How do I find a URL?
-
-I have a different question
-
 The fastest and easiest way to submit a report of trademark infringement to us is to [contact Facebook](https://www.facebook.com/help/191999230901156?helpref=faq_content). Whether you submit your report through our online form or another method, Meta needs the following information to be able to process your report:
 
 *   Your complete contact information (full name, postal address and phone number)
@@ -1213,13 +1205,6 @@ Related articles
 * * *](https://www.facebook.com/help/440684869305015/?helpref=related_articles)
 
 [What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
