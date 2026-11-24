@@ -152,6 +152,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -243,6 +245,8 @@ Share this Article
 *   [What happens when a broadcast is claimed?](#what-happens-when-a-broadcast-is-claimed)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
