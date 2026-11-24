@@ -28,7 +28,7 @@ Contents
 Temu | Return and Refund Policy
 ===============================
 
-Last Updated: Sep 17, 2026 PDT
+Last Updated: Nov 24, 2026 PST
 
 If you are not satisfied with what you bought on Temu, you may be eligible to return it and get a refund by following the simple procedure set out in this Return and Refund Policy.
 
@@ -78,7 +78,7 @@ Please make sure your return package is postmarked within 14 days after you subm
 
 2\. Is the return shipping free?
 
-Return shipping is free on your first return of one or multiple returnable items for EVERY order within the return window. Pickup return method may charge for an additional fee.
+Return shipping is free on your first return of one or multiple returnable items for EVERY order within the return window. Pickup return method may charge for an additional fee. Please note that users engaged in return fraud will no longer be eligible for free returns, unless the return is due to an item being defective, damaged, or incorrect, in which case the free return policy above remains applicable.
 
 If you need to return an oversized or overweight item or return items from a remote area you may have to send the items back by yourself. You need to pay the shipping cost in advance, and then contact us for reimbursement. After the items have been returned and have passed quality inspection, we will reimburse you.
 
@@ -182,7 +182,7 @@ IV. To protect the fairness and integrity of the platform, Temu may conduct holi
 
 Return fraud or abuse may include, but is not limited to, conduct such as repeatedly engaging in abnormal or improper use of return services, including making improperly frequent or excessive returns, sending back empty packages or packages containing irrelevant items, intentionally falsifying evidence (e.g., manipulated labels) to support refund claims.
 
-Such fraudulent or abusive return behavior is strictly prohibited under our platform rules. If such behavior is confirmed following Temu's review, Temu reserves the right to take reasonable measures to prevent fraud or abuse, based on the nature, frequency, and impact of the conduct involved (such as limiting certain return options, or restricting account functions or suspending the account).
+Such fraudulent or abusive return behavior is strictly prohibited under our platform rules. If Temu confirms such behavior following a review, Temu reserves the right to take reasonable measures to prevent fraud or abuse, based on the nature, frequency, and impact of the conduct involved (such as limiting certain return options, revoking free return benefits, restricting account functions, or suspending the account).
 
 For clarity, nothing in this policy prevents or limits you exercising your rights under applicable statutory consumer guarantees. Temu may modify this policy at any time.
 
@@ -298,6 +298,11 @@ It may take 1-3 days to process your order. You will receive a message once your
 You'll receive a shipment notification message that will provide you with the delivery time for each package once it is shipped. You will be provided with the tracking number when it is ready. You can view this delivery time under each package in your order history at the same time.
 
 In most cases, your order will be delivered within the time of delivery. However, the actual delivery date may be affected by flight arrangements, weather conditions, and other external factors. Please refer to the tracking information for the most up to date delivery date.
+
+Minimum Order Value
+-------------------
+
+Minimum order value: $10 for first order and $20 for subsequent orders, after applicable coupons and discounts, with the following exceptions for returning users shipping to: TX, SC, OK, NM, NE, MO, MS, MN, LA, KS, AR, AL ($25 order min.); VI, PR, MP, HI, GU, AK ($30 order min.)(excluding products shipped from sellers, which have no minimum order value).
 
 Issues regarding delivery
 -------------------------
