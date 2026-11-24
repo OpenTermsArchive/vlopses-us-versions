@@ -62,6 +62,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -268,6 +270,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -442,6 +446,8 @@ Share this Article
 *   [Additional resources](#additional-resources)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -657,6 +663,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -837,6 +845,8 @@ Share this Article
 *   [What happens if you violate this policy?](#what-happens-if-you-violate-this-policy)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -1030,6 +1040,8 @@ Share this Article
 *   [What happens if you violate this policy?](#what-happens-if-you-violate-this-policy)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -1226,6 +1238,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -1386,6 +1400,8 @@ Share this Article
 *   [Appeals](#appeals)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -1562,6 +1578,8 @@ Share this Article
 *   [Appeals](#appeals)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -1780,6 +1798,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -1982,6 +2002,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -2172,6 +2194,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -2481,6 +2505,8 @@ Share this Article
 *   [Appeals](#appeals)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -2637,6 +2663,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -2947,6 +2975,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -3256,6 +3286,8 @@ Share this Article
 *   [Appeals](#appeals)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -3396,6 +3428,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -3477,6 +3511,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -3787,6 +3823,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -4096,6 +4134,8 @@ Share this Article
 *   [Appeals](#appeals)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -4216,6 +4256,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -4307,6 +4349,8 @@ Share this Article
 *   [What happens when a broadcast is claimed?](#what-happens-when-a-broadcast-is-claimed)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -4453,6 +4497,8 @@ Share this Article
 *   [Additional resources](#additional-resources)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -4637,6 +4683,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -4755,6 +4803,8 @@ Share this Article
 *   [Having trouble?](#having-trouble)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -4883,6 +4933,8 @@ Share this Article
 *   [5\. Legal, quality, and technical issues](#5-legal-quality-and-technical-issues)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -5025,6 +5077,8 @@ Share this Article
 *   [Actions we may take against non-violating content](#actions-we-may-take-against-non-violating-content)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -5179,6 +5233,8 @@ Share this Article
 
 © 2026 \>x< Corp.
 
+Your privacy choices
+
 Theme
 
 English
@@ -5273,6 +5329,8 @@ For more information on fair use:
 Share this Article
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -5418,6 +5476,8 @@ Share this Article
 *   [Is the behavior newsworthy and in the legitimate public interest?](#is-the-behavior-newsworthy-and-in-the-legitimate-public-interest)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
@@ -5572,6 +5632,8 @@ Share this Article
 *   [C. User Empowerment Tools and Features](#c-user-empowerment-tools-and-features)
 
 © 2026 \>x< Corp.
+
+Your privacy choices
 
 Theme
 
