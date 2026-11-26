@@ -851,7 +851,7 @@ Related articles
 
 [Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 Related articles
 
@@ -871,7 +871,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
 
-[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/1900735080058381/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1598,9 +1598,9 @@ Related articles
 
 [How can I make sure that the content I post to Facebook doesn't violate trademark law?](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
 [Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
+
+[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
 Related articles
 
@@ -1620,11 +1620,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/189778307789711/?helpref=related_articles)
 
-[How to avoid copyright infringement when you post on Facebook
+[Using your Facebook information with other products
 
-* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+* * *](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
 
-[Using your Facebook information with other products](https://www.facebook.com/help/366763385900883/?helpref=related_articles)
+[Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -1893,9 +1893,9 @@ Related articles
 
 [How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
@@ -1907,13 +1907,13 @@ Related articles
 
 * * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
-[What is copyright and what does it protect?
-
-* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
 [What are fair use and other exceptions to copyright?
 
 * * *](https://www.facebook.com/help/337995452911154/?helpref=related_articles)
+
+[What is copyright and what does it protect?
+
+* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 [About how long copyright protection lasts
 
@@ -2142,9 +2142,9 @@ Related articles
 
 [Where can I learn more about copyright?](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
-
 [About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 Related articles
 
@@ -2160,11 +2160,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/1796523567227660/?helpref=related_articles)
 
-[How do you know if you own the copyright in a work
+[About how long copyright protection lasts
 
-* * *](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
+* * *](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
 
-[About how long copyright protection lasts](https://www.facebook.com/help/697921770376427/?helpref=related_articles)
+[How do you know if you own the copyright in a work](https://www.facebook.com/help/1145592148881382/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2213,9 +2213,9 @@ Learn more about [copyright and what copyright laws protect](https://www.faceboo
 Related articles
 ----------------
 
-[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
 [How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[How do I report copyright infringement on Facebook?](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook](https://www.facebook.com/help/350712395302528/?helpref=related_articles)
 
@@ -2225,13 +2225,13 @@ Related articles
 
 Related articles
 
-[How do I report copyright infringement on Facebook?
-
-* * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
-
 [How to avoid copyright infringement when you post on Facebook
 
 * * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
+[How do I report copyright infringement on Facebook?
+
+* * *](https://www.facebook.com/help/325058084212425/?helpref=related_articles)
 
 [Repeated intellectual property infringement on Facebook
 
@@ -2427,6 +2427,16 @@ How does Meta process United States Digital Millennium Copyright Act (DMCA) coun
 
 Copy link
 
+What is a DMCA counter-notification?
+
+How do I file a DMCA counter-notification?
+
+What happens after I file a counter-notification?
+
+How long does a DMCA counter-notification take?
+
+I have a different question
+
 Meta complies with the notice-and-takedown procedures set out in section 512(c) of the United States Digital Millennium Copyright Act (DMCA), which applies to content reported and removed for violating US copyrights.
 
 If your content is removed under the DMCA, you'll receive instructions about how to file a counter-notification in the message that we send you. You should only submit a counter-notification if the content was removed because of a mistake or misidentification. Please note that if your content was removed for reasons unrelated to a copyright report, you may not receive a response from us.
@@ -2470,6 +2480,13 @@ Related articles
 
 [How dispute settlement bodies work in the EU for Facebook](https://www.facebook.com/help/2345573922310411/?helpref=related_articles)
 
+Other ways to get help
+----------------------
+
+Chat with Meta AI support assistant
+
+Resolve issues, make changes and get support in real time
+
 - - -
 
 *   [Policies](https://www.facebook.com/help/463972400461409/?helpref=breadcrumb)
@@ -2504,19 +2521,23 @@ Related articles
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
 
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
+
 [How do I report trademark infringement on Facebook?](https://www.facebook.com/help/191999230901156/?helpref=related_articles)
 
 [What information you need to include in a copyright report to Meta](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
 [Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
-[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
-
 Related articles
 
 [Unintentional actions can still violate copyright on Facebook
 
 * * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
+
+[How to avoid copyright infringement when you post on Facebook
+
+* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
 [How do I report trademark infringement on Facebook?
 
@@ -2526,11 +2547,7 @@ Related articles
 
 * * *](https://www.facebook.com/help/231463960277847/?helpref=related_articles)
 
-[Tools Facebook provides to protect your intellectual property
-
-* * *](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
-
-[What happens when you submit a copyright report to Meta](https://www.facebook.com/help/364993690187480/?helpref=related_articles)
+[Tools Facebook provides to protect your intellectual property](https://www.facebook.com/help/348831205149904/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2657,9 +2674,9 @@ Related articles
 
 [What happens when I submit a trademark report to Meta?](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Related articles
 
@@ -2675,11 +2692,11 @@ Related articles
 
 * * *](https://www.facebook.com/help/493458120789098/?helpref=related_articles)
 
-[What is copyright and what does it protect?
+[How to avoid copyright infringement when you post on Facebook
 
-* * *](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
+* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
 
-[Report an advertisement for intellectual property infringement on Facebook](https://www.facebook.com/help/258317347704209/?helpref=related_articles)
+[What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
@@ -2886,11 +2903,11 @@ Related articles
 
 [Intellectual property](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
-[How to avoid copyright infringement when you post on Facebook](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
 [Data scraping and what can you do to protect your information on Facebook](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
 [Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
+
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 Related articles
 
@@ -2902,15 +2919,15 @@ Related articles
 
 * * *](https://www.facebook.com/help/399224883474207/?helpref=related_articles)
 
-[How to avoid copyright infringement when you post on Facebook
-
-* * *](https://www.facebook.com/help/308895412492789/?helpref=related_articles)
-
 [Data scraping and what can you do to protect your information on Facebook
 
 * * *](https://www.facebook.com/help/463983701520800/?helpref=related_articles)
 
-[Unintentional actions can still violate copyright on Facebook](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
+[Unintentional actions can still violate copyright on Facebook
+
+* * *](https://www.facebook.com/help/225191540826940/?helpref=related_articles)
+
+[Content that I posted on Facebook was removed because it was reported for intellectual property infringement. What are my next steps?](https://www.facebook.com/help/365111110185763/?helpref=related_articles)
 
 Other ways to get help
 ----------------------
