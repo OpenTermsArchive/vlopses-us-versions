@@ -4257,6 +4257,8 @@ A local promotion must provide a valid promotion URL where the promotion details
 
 If promotion is eligible for curbside pickup, the promotion URL page should clearly state that the promotion is redeemed online for curbside pickup.
 
+**Note**: To ensure a seamless customer experience, all local promotions must be redeemable in-store.
+
 ### Cashback policies
 
 Cashback is an eligible promotion structure and that percentage cashback requires a minimum purchase condition.
