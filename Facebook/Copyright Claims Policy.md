@@ -593,16 +593,6 @@ What's the difference between copyright and trademark?
 
 Copy link
 
-What is copyright?
-
-What is trademark?
-
-How does copyright protect content?
-
-How does trademark protect brands?
-
-I have a different question
-
 The law in most countries recognises copyrights as well as trademarks. Copyright law and trademark law serve two different purposes.
 
 [Copyright](https://www.facebook.com/help/116772962146447?helpref=faq_content) is meant to foster creativity and to provide incentives to create original works of authorship for the benefit of the public. Copyright protects original works such as photos, videos, films and music. It's also important to note that, in the US, the Digital Millennium Copyright Act (DMCA) applies only to copyrights and doesn't apply to trademarks.
@@ -641,13 +631,6 @@ Related articles
 * * *](https://www.facebook.com/help/1430594943641002/?helpref=related_articles)
 
 [What is copyright and what does it protect?](https://www.facebook.com/help/116772962146447/?helpref=related_articles)
-
-Other ways to get help
-----------------------
-
-Chat with Meta AI support assistant
-
-Resolve issues, make changes and get support in real time
 
 - - -
 
