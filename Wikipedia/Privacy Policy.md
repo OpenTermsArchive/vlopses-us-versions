@@ -573,7 +573,7 @@ _See also:_
 
 |     |     |
 | --- | --- |
-| ![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail) | This policy was published on 6 November 2018 and came into effect on November 15, 2018. For the previous version please see the . |
+| ![](//thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png?utm_source=foundation.wikimedia.org&utm_campaign=parser&utm_content=thumbnail) | This policy was published on November 6, 2018, and came into effect on November 15, 2018. For the previous version please see the . |
 
 [+/-](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy/Summary&action=edit)
 
@@ -699,7 +699,7 @@ Privacy-related pages
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Access\_to\_Nonpublic\_Personal\_Data\_Policy&oldid=556416](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy&oldid=556416)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia\_Foundation\_Access\_to\_Nonpublic\_Personal\_Data\_Policy&oldid=600837](https://foundation.wikimedia.org/w/index.php?title=Policy:Wikimedia_Foundation_Access_to_Nonpublic_Personal_Data_Policy&oldid=600837)"
 
 - - -
 
